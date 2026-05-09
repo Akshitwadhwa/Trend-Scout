@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/*.db
+out/*
+outputs/*
+json/*
+!out/.gitkeep
+!outputs/.gitkeep
+!json/.gitkeep
+.DS_Store
