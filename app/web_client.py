@@ -130,9 +130,3 @@ class WebFeedClient:
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=timezone.utc)
         return parsed.isoformat()
-
-    def _matches_keywords(self, title: str, summary: str) -> bool:
-        if not self.settings.web_keywords:
-            return True
-        haystack = f"{title} {summary}".lower()
-        return any(keyword.lower() in haystack for keyword in self.settings.web_keywords)

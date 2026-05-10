@@ -11,7 +11,7 @@ This version does not auto-post and does not need WhatsApp. It works as a local 
 - Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, chips, startups, developer tools, and AI.
 - Stores those opportunities in SQLite.
 - Lets you list opportunities and ask for a draft from a chosen one.
-- Saves generated tweet drafts into `outputs/` as Markdown and JSON with the topic category included.
+- Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, and JSON artifacts into `json/`.
 - Uses OpenAI for topic judgment and drafting when `OPENAI_API_KEY` is set.
 - Falls back to simple engagement-based opportunities if OpenAI is not configured.
 
@@ -19,6 +19,7 @@ This version does not auto-post and does not need WhatsApp. It works as a local 
 
 ```bash
 cd "/Users/Lenovo/Documents/New project/x-ai-whatsapp-bot"
+python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
@@ -45,6 +46,14 @@ WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed
 cd "/Users/Lenovo/Documents/New project/x-ai-whatsapp-bot"
 source .venv/bin/activate
 uvicorn app.main:app --reload --port 8000
+```
+
+Or use the Makefile:
+
+```bash
+make install
+make dev
+make test
 ```
 
 ## Use It
