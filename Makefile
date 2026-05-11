@@ -1,4 +1,4 @@
-.PHONY: install dev test compile
+.PHONY: install dev test compile fresh
 
 install:
 	python3 -m venv .venv
@@ -12,3 +12,6 @@ test:
 
 compile:
 	python3 -m compileall app
+
+fresh:
+	. .venv/bin/activate && python scripts/fresh.py

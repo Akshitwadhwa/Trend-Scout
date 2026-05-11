@@ -94,6 +94,7 @@ async def root() -> dict[str, object]:
         "draft_recent": "POST /drafts",
         "brief": "POST /brief",
         "optimize": "POST /optimize",
+        "fresh": "POST /fresh",
         "topic": "GET /topic",
         "docs": "/docs",
     }
@@ -183,6 +184,18 @@ async def brief(request: BriefRequest | None = None) -> JSONResponse:
 async def optimize(request: OptimizeRequest | None = None) -> JSONResponse:
     try:
         result = workflow.optimize_ctr(
+            style=request.style if request is not None else "",
+            limit=request.limit if request is not None else 10,
+        )
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+    return JSONResponse(result)
+
+
+@app.post("/fresh")
+async def fresh(request: OptimizeRequest | None = None) -> JSONResponse:
+    try:
+        result = workflow.fresh_optimize(
             style=request.style if request is not None else "",
             limit=request.limit if request is not None else 10,
         )

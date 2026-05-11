@@ -112,6 +112,13 @@ class OutputWriter:
             "json": str(json_path),
         }
 
+    def clear_generated_files(self) -> dict[str, int]:
+        return {
+            "outputs": self._clear_directory(self.output_dir, ".md"),
+            "out": self._clear_directory(self.high_ctr_dir, ".md"),
+            "json": self._clear_directory(self.json_dir, ".json"),
+        }
+
     def _markdown(self, drafted: dict[str, Any]) -> str:
         sources = drafted.get("sources", [])
         source_lines = []
@@ -369,6 +376,17 @@ class OutputWriter:
             ),
             reverse=True,
         )
+
+    def _clear_directory(self, path: Path, suffix: str) -> int:
+        deleted = 0
+        path.mkdir(parents=True, exist_ok=True)
+        for item in path.iterdir():
+            if item.name == ".gitkeep" or not item.is_file():
+                continue
+            if item.suffix == suffix:
+                item.unlink()
+                deleted += 1
+        return deleted
 
     def _post_section(self, post: dict[str, Any]) -> list[str]:
         lines = [

@@ -145,6 +145,16 @@ class Workflow:
             "ctr_pack": ctr_pack,
         }
 
+    def fresh_optimize(self, *, style: str = "", limit: int = 10) -> dict[str, Any]:
+        cleared_files = self.output_writer.clear_generated_files()
+        cleared_opportunities = self.db.clear_opportunities()
+        result = self.optimize_ctr(style=style, limit=limit)
+        result["cleared"] = {
+            "files": cleared_files,
+            "opportunities": cleared_opportunities,
+        }
+        return result
+
     def set_topic(self, topic_query: str) -> str:
         normalized = self._normalize_query(topic_query)
         self.db.set_topic_query(normalized)

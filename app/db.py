@@ -133,6 +133,11 @@ class Database:
         )
         self._connection.commit()
 
+    def clear_opportunities(self) -> int:
+        cursor = self._connection.execute("DELETE FROM opportunities")
+        self._connection.commit()
+        return int(cursor.rowcount)
+
     def get_topic_query(self, default_query: str) -> str:
         cursor = self._connection.execute(
             "SELECT topic_query FROM watch_config WHERE id = 1"

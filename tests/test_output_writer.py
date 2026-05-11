@@ -44,3 +44,20 @@ def test_save_ctr_pack_splits_markdown_and_json(tmp_path):
     assert Path(result["json"]).parent.name == "json"
     assert Path(result["markdown"]).exists()
     assert Path(result["json"]).exists()
+
+
+def test_clear_generated_files_keeps_gitkeep(tmp_path):
+    writer = OutputWriter(SettingsStub(tmp_path))
+    for folder, suffix in [
+        (writer.output_dir, ".md"),
+        (writer.high_ctr_dir, ".md"),
+        (writer.json_dir, ".json"),
+    ]:
+        (folder / ".gitkeep").write_text("", encoding="utf-8")
+        (folder / f"old{suffix}").write_text("old", encoding="utf-8")
+
+    result = writer.clear_generated_files()
+
+    assert result == {"outputs": 1, "out": 1, "json": 1}
+    assert (writer.output_dir / ".gitkeep").exists()
+    assert not (writer.output_dir / "old.md").exists()

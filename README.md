@@ -54,6 +54,7 @@ Or use the Makefile:
 make install
 make dev
 make test
+make fresh
 ```
 
 ## Use It
@@ -103,6 +104,22 @@ curl -X POST http://127.0.0.1:8000/optimize \
 ```
 
 Markdown files are saved in `out/` for high-CTR packs and `outputs/` for regular drafts. JSON files are saved in `json/`.
+
+Fresh rerun, replacing old generated content:
+
+```bash
+curl -X POST http://127.0.0.1:8000/fresh \
+  -H "Content-Type: application/json" \
+  -d '{"style":"sharp, practical, high CTR, high reply potential, no fake hype","limit":10}'
+```
+
+`/fresh` clears old generated Markdown/JSON files and old saved opportunities, scans again, then writes the new high-CTR pack.
+
+You can also run the same fresh workflow without the API server:
+
+```bash
+make fresh
+```
 
 Change what it tracks:
 
