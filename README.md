@@ -11,7 +11,7 @@ This version does not auto-post and does not need WhatsApp. It works as a local 
 - Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, chips, startups, developer tools, and AI.
 - Stores those opportunities in SQLite.
 - Lets you list opportunities and ask for a draft from a chosen one.
-- Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, and JSON artifacts into `json/`.
+- Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, copy-paste-ready tweet winners into `out/`, India-specific tech tweets into `out/`, and JSON artifacts into `json/`.
 - Uses OpenAI for topic judgment and drafting when `OPENAI_API_KEY` is set.
 - Falls back to simple engagement-based opportunities if OpenAI is not configured.
 
@@ -104,6 +104,10 @@ curl -X POST http://127.0.0.1:8000/optimize \
 ```
 
 Markdown files are saved in `out/` for high-CTR packs and `outputs/` for regular drafts. JSON files are saved in `json/`.
+
+For the fastest posting workflow, open the newest `out/*-copy-paste-tweets.md` file. It contains complete tweets that are already assembled from the best hook, angle, and format, so you can copy one directly into X.
+
+For India-focused posts, open the newest `out/*-india-tech-tweets.md` file. It contains longer tweets that translate global tech topics into Indian buyer, startup, creator, developer, pricing, and consumer angles.
 
 Fresh rerun, replacing old generated content:
 

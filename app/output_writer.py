@@ -80,6 +80,8 @@ class OutputWriter:
     ) -> dict[str, Any]:
         timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
         main_path = self.high_ctr_dir / f"{timestamp}-high-ctr-pack.md"
+        ready_path = self.high_ctr_dir / f"{timestamp}-copy-paste-tweets.md"
+        india_path = self.high_ctr_dir / f"{timestamp}-india-tech-tweets.md"
         hooks_path = self.high_ctr_dir / f"{timestamp}-hooks.md"
         polls_path = self.high_ctr_dir / f"{timestamp}-polls.md"
         replies_path = self.high_ctr_dir / f"{timestamp}-reply-opportunities.md"
@@ -93,6 +95,8 @@ class OutputWriter:
             "opportunities": opportunities,
         }
         main_path.write_text(self._ctr_pack_markdown(ctr_pack, opportunities), encoding="utf-8")
+        ready_path.write_text(self._ready_tweets_markdown(ctr_pack), encoding="utf-8")
+        india_path.write_text(self._india_tweets_markdown(ctr_pack), encoding="utf-8")
         hooks_path.write_text(self._hooks_markdown(ctr_pack), encoding="utf-8")
         polls_path.write_text(self._polls_markdown(ctr_pack), encoding="utf-8")
         replies_path.write_text(self._replies_markdown(ctr_pack), encoding="utf-8")
@@ -103,6 +107,8 @@ class OutputWriter:
         category_files = self._save_ctr_category_files(timestamp, ctr_pack)
         return {
             "markdown": str(main_path),
+            "ready_tweets": str(ready_path),
+            "india_tweets": str(india_path),
             "hooks": str(hooks_path),
             "polls": str(polls_path),
             "replies": str(replies_path),
@@ -234,9 +240,20 @@ class OutputWriter:
             "",
             ctr_pack.get("summary", ""),
             "",
-            "## Ranked CTR Ideas",
+            "## Copy-Paste Winners",
+            "",
+            "These are the strongest complete tweets. No assembly needed.",
             "",
         ]
+        for index, item in enumerate(self._ranked_ctr_items(ctr_pack), start=1):
+            lines.extend(self._copy_paste_winner_section(item, index))
+        lines.extend(
+            [
+                "",
+                "## Ranked CTR Ideas",
+                "",
+            ]
+        )
         for index, item in enumerate(self._ranked_ctr_items(ctr_pack), start=1):
             lines.extend(self._ctr_item_section(item, index))
         lines.extend(["", "## Source Opportunities", ""])
@@ -253,6 +270,124 @@ class OutputWriter:
                 ]
             )
         return "\n".join(lines)
+
+    def _ready_tweets_markdown(self, ctr_pack: dict[str, Any]) -> str:
+        lines = [
+            "# Copy-Paste Ready Tweets",
+            "",
+            "Use these directly. The first tweet under each topic is the recommended winner.",
+            "",
+            "## Best Winners",
+            "",
+        ]
+        for index, item in enumerate(self._ranked_ctr_items(ctr_pack), start=1):
+            lines.extend(self._copy_paste_winner_section(item, index))
+        lines.extend(["", "## All Ready-To-Post Options", ""])
+        for item in self._ranked_ctr_items(ctr_pack):
+            lines.extend(
+                [
+                    f"### {item.get('category', 'General Tech')} - {item.get('title', '')}",
+                    "",
+                ]
+            )
+            for tweet in item.get("ready_to_post_tweets", []):
+                rank = tweet.get("rank", "?")
+                label = tweet.get("format", "post")
+                score = tweet.get("score", "?")
+                lines.extend(
+                    [
+                        f"#### Option {rank}: {label} ({score}/100)",
+                        "",
+                        "```text",
+                        str(tweet.get("tweet", "")),
+                        "```",
+                        "",
+                        f"Why it works: {tweet.get('why_it_works', '')}",
+                        "",
+                    ]
+                )
+        return "\n".join(lines)
+
+    def _india_tweets_markdown(self, ctr_pack: dict[str, Any]) -> str:
+        lines = [
+            "# India Tech Tweets",
+            "",
+            "Longer copy-paste tweets for an India-first tech audience.",
+            "",
+        ]
+        for index, item in enumerate(self._ranked_india_items(ctr_pack), start=1):
+            lines.extend(
+                [
+                    f"## {index}. {item.get('category', 'General Tech')} - {item.get('title', '')}",
+                    "",
+                    f"India relevance score: {item.get('india_relevance_score', '?')}",
+                    f"India angle: {item.get('india_angle', '')}",
+                    "",
+                ]
+            )
+            india_tweets = item.get("india_long_tweets") or []
+            if not india_tweets:
+                lines.extend(
+                    [
+                        "```text",
+                        self._best_ready_tweet(item),
+                        "```",
+                        "",
+                    ]
+                )
+                continue
+            for tweet in india_tweets:
+                lines.extend(
+                    [
+                        f"### Option {tweet.get('rank', '?')}",
+                        "",
+                        "```text",
+                        str(tweet.get("tweet", "")),
+                        "```",
+                        "",
+                        f"Why it works: {tweet.get('why_it_works', '')}",
+                        "",
+                    ]
+                )
+        return "\n".join(lines)
+
+    def _copy_paste_winner_section(self, item: dict[str, Any], index: int) -> list[str]:
+        return [
+            f"### {index}. {item.get('category', 'General Tech')} - {item.get('title', '')}",
+            "",
+            "```text",
+            self._best_ready_tweet(item),
+            "```",
+            "",
+            f"Best format: {self._best_ready_format(item)}",
+            f"Scores: CTR {item.get('ctr_score')} / Impressions {item.get('impression_score')} / Replies {item.get('reply_score')} / Risk {item.get('risk_score')}",
+            f"Why this can work: {item.get('why_this_can_work', '')}",
+            "",
+        ]
+
+    def _best_ready_tweet(self, item: dict[str, Any]) -> str:
+        if item.get("best_ready_to_post"):
+            return str(item["best_ready_to_post"])
+        ready_options = item.get("ready_to_post_tweets") or []
+        if ready_options and ready_options[0].get("tweet"):
+            return str(ready_options[0]["tweet"])
+        variants = item.get("post_variants") or []
+        if variants:
+            return str(variants[0])
+        return ""
+
+    def _best_ready_format(self, item: dict[str, Any]) -> str:
+        ready_options = item.get("ready_to_post_tweets") or []
+        if ready_options and ready_options[0].get("format"):
+            return str(ready_options[0]["format"])
+        return "best overall"
+
+    def _ranked_india_items(self, ctr_pack: dict[str, Any]) -> list[dict[str, Any]]:
+        return sorted(
+            self._ranked_ctr_items(ctr_pack),
+            key=lambda item: item.get("india_relevance_score", 0),
+            reverse=True,
+        )
 
     def _hooks_markdown(self, ctr_pack: dict[str, Any]) -> str:
         lines = ["# Hooks", ""]
@@ -341,8 +476,44 @@ class OutputWriter:
             f"Best angle: {item.get('best_angle', '')}",
             f"Best hook: {item.get('best_hook', '')}",
             "",
-            "Post variants:",
+            "Best ready-to-post tweet:",
+            "",
+            "```text",
+            self._best_ready_tweet(item),
+            "```",
+            "",
+            "Format comparison:",
         ]
+        for comparison in item.get("format_comparison", []):
+            lines.extend(
+                [
+                    f"- {comparison.get('format', 'post')} ({comparison.get('score', '?')}/100): {comparison.get('why_it_works', '')}",
+                    "",
+                    "```text",
+                    str(comparison.get("tweet", "")),
+                    "```",
+                    "",
+                ]
+            )
+        lines.append("Ready-to-post options:")
+        for tweet in item.get("ready_to_post_tweets", []):
+            lines.extend(
+                [
+                    f"- Option {tweet.get('rank', '?')}: {tweet.get('format', 'post')} ({tweet.get('score', '?')}/100)",
+                    "",
+                    "```text",
+                    str(tweet.get("tweet", "")),
+                    "```",
+                    "",
+                    f"Why: {tweet.get('why_it_works', '')}",
+                    "",
+                ]
+            )
+        lines.extend(
+            [
+                "Post variants:",
+            ]
+        )
         for variant in item.get("post_variants", []):
             lines.append(f"- {variant}")
         lines.extend(["", "Top hooks:"])

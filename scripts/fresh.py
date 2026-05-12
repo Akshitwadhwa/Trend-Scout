@@ -1,6 +1,12 @@
 from __future__ import annotations
 
+import sys
+from pathlib import Path
+
 from dotenv import load_dotenv
+
+ROOT_DIR = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT_DIR))
 
 from app.ai_writer import TrendWriter
 from app.config import load_settings
@@ -28,8 +34,23 @@ def main() -> None:
         style="sharp, practical, high CTR, high reply potential, no fake hype",
         limit=10,
     )
+    scan = result.get("scan", {})
+    created_count = scan.get("created_count", 0)
+    source_count = scan.get("source_count", 0)
+    errors = scan.get("web_feed_errors", [])
+
     print("Fresh high-CTR pack created")
+    print(f"Sources found: {source_count}")
+    print(f"New opportunities: {created_count}")
+    if errors:
+        print("Feed warnings:")
+        for error in errors:
+            print(f"- {error}")
     print(result["output_files"]["markdown"])
+    if result["output_files"].get("ready_tweets"):
+        print(result["output_files"]["ready_tweets"])
+    if created_count == 0:
+        print("No post-ready topics were found. Check feed/network access or broaden WEB_KEYWORDS.")
 
 
 if __name__ == "__main__":

@@ -275,13 +275,27 @@ class TrendWriter:
         return (
             "Create a high-CTR and high-impression X optimization pack from these tech opportunities.\n"
             "Goal: maximize scroll-stop, profile clicks, link curiosity, replies, reposts, and saves without clickbait or fake claims.\n"
-            "For each opportunity, generate 10 hooks, 3 single-post variants, 1 poll, 1 smart reply, 1 mini-thread, 1 visual-card idea, and scores.\n"
+            "For each opportunity, generate fully assembled, copy-paste-ready tweets. Do not make the user combine hooks and bodies manually.\n"
+            "Compare the best X formats for each topic: curiosity gap, money/value angle, contrarian take, comparison, prediction, question, mini-story, and practical takeaway.\n"
+            "Pick one winner as best_ready_to_post, then provide 5 finished tweet options with format labels, scores, and why each works.\n"
+            "Also create an India-specific section for each topic: an india_angle, india_relevance_score, and 3 longer India-focused tweets for Indian tech audiences.\n"
+            "India-focused tweets should connect the topic to Indian buyers, students, creators, founders, developers, startups, pricing in rupees, UPI/fintech, Apple/Samsung buyers, wearables, health tech, jobs, or consumer behavior when relevant.\n"
+            "Also generate 10 hooks, 3 single-post variants, 1 poll, 1 smart reply, 1 mini-thread, 1 visual-card idea, and scores.\n"
             "Hooks should be punchy, specific, and curiosity-driven. Avoid vague hooks like 'This is interesting'.\n"
-            "Single posts must be under 260 characters. Poll options must be 2-4 short choices. Mini-threads must have exactly 3 posts.\n"
+            "Every ready-to-post tweet and single post variant must be under 260 characters. India-focused tweets should be 220-275 characters. Poll options must be 2-4 short choices. Mini-threads must have exactly 3 posts.\n"
             "Scores are 1-100: ctr_score, impression_score, reply_score, risk_score. Lower risk is better.\n"
             "Return valid JSON only with this exact shape:\n"
             '{"summary":"one paragraph","items":[{"opportunity_id":1,"category":"Apple",'
             '"title":"topic","best_angle":"angle","best_hook":"hook",'
+            '"best_ready_to_post":"complete tweet ready to paste",'
+            '"format_comparison":[{"format":"curiosity gap","score":92,"tweet":"complete tweet",'
+            '"why_it_works":"short reason"}],'
+            '"ready_to_post_tweets":[{"rank":1,"format":"money/value","score":95,'
+            '"tweet":"complete tweet","why_it_works":"short reason"}],'
+            '"india_angle":"why this matters for India tech audience",'
+            '"india_relevance_score":85,'
+            '"india_long_tweets":[{"rank":1,"tweet":"longer India-focused complete tweet",'
+            '"why_it_works":"short reason"}],'
             '"hooks":["hook1"],"post_variants":["v1","v2","v3"],'
             '"poll":{"question":"question","options":["A","B"]},'
             '"reply_post":"reply text","mini_thread":["p1","p2","p3"],'
@@ -296,6 +310,7 @@ class TrendWriter:
         for opportunity in opportunities[:8]:
             category = opportunity.get("category", "General Tech")
             hook = f"{category} is becoming a bigger story than people think"
+            ready_tweet = self._trim_post(f"{category}: {opportunity['post_angle']}")
             items.append(
                 {
                     "opportunity_id": opportunity["id"],
@@ -303,10 +318,39 @@ class TrendWriter:
                     "title": opportunity["title"],
                     "best_angle": opportunity["post_angle"],
                     "best_hook": hook,
-                    "hooks": [hook, opportunity["title"]],
-                    "post_variants": [
-                        self._trim_post(f"{category}: {opportunity['post_angle']}")
+                    "best_ready_to_post": ready_tweet,
+                    "format_comparison": [
+                        {
+                            "format": "practical takeaway",
+                            "score": 60,
+                            "tweet": ready_tweet,
+                            "why_it_works": "Clear, direct fallback format.",
+                        }
                     ],
+                    "ready_to_post_tweets": [
+                        {
+                            "rank": 1,
+                            "format": "practical takeaway",
+                            "score": 60,
+                            "tweet": ready_tweet,
+                            "why_it_works": "Fallback tweet generated without OpenAI.",
+                        }
+                    ],
+                    "india_angle": f"Why {category} may matter for Indian tech buyers and builders.",
+                    "india_relevance_score": 50,
+                    "india_long_tweets": [
+                        {
+                            "rank": 1,
+                            "tweet": self._trim_post(
+                                f"India angle: {category} is worth watching because {opportunity['post_angle']} "
+                                "For Indian buyers, students, founders, and creators, the real question is whether this becomes useful, affordable, and easy to adopt.",
+                                limit=275,
+                            ),
+                            "why_it_works": "Fallback India-focused tweet generated without OpenAI.",
+                        }
+                    ],
+                    "hooks": [hook, opportunity["title"]],
+                    "post_variants": [ready_tweet],
                     "poll": {"question": f"What matters most in {category}?", "options": ["Trust", "Speed", "Price", "UX"]},
                     "reply_post": self._trim_post(f"This is the under-discussed part: {opportunity['post_angle']}"),
                     "mini_thread": [
