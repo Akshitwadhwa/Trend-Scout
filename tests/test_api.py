@@ -11,6 +11,7 @@ def test_root_lists_core_routes():
     payload = response.json()
     assert payload["health"] == "/healthz"
     assert payload["optimize"] == "POST /optimize"
+    assert payload["manual_signal"] == "POST /manual-signal"
     assert payload["fresh"] == "POST /fresh"
 
 

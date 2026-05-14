@@ -7,6 +7,7 @@ This version does not auto-post and does not need WhatsApp. It works as a local 
 ## What it does
 
 - Searches recent X posts for your tracked tech query.
+- Tracks a curated X account watchlist so AI narrative accounts can seed new post ideas.
 - Searches web/RSS feeds from the sources you configure.
 - Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, chips, startups, developer tools, and AI.
 - Stores those opportunities in SQLite.
@@ -28,14 +29,17 @@ Fill these in your `.env`:
 
 ```env
 APP_NAME=X Trend Scout
-X_BEARER_TOKEN=your_x_bearer_token
+X_BEARER_TOKEN=your_x_bearer_token_optional
 OPENAI_API_KEY=your_openai_key_optional_but_recommended
 OUTPUT_DIR=./outputs
 HIGH_CTR_DIR=./out
 JSON_DIR=./json
 TOPIC_QUERY=(apple OR iphone OR "apple watch" OR watchos OR samsung OR galaxy OR "galaxy watch" OR whoop OR wearables OR smartwatch OR "smart watch" OR "health tech" OR fitness OR sleep OR recovery OR "oura ring" OR "consumer tech" OR gadgets OR chips OR nvidia OR startups OR "dev tools" OR openai OR claude OR codex) lang:en -is:retweet
-ENABLE_X_SCAN=true
+ENABLE_X_SCAN=false
+ENABLE_X_WATCHLIST=false
 ENABLE_WEB_SCAN=true
+MAX_WATCHLIST_RESULTS=20
+X_WATCH_HANDLES=karpathy,fchollet,ylecun,AndrewYNg,rasbt,dair_ai,lilianweng,jeremyphoward,simonw,_akhaliq,ID_AA_Carmack,gwern,goodside,drfeifei,demishassabis
 WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,startups,developer tools,ai,openai,claude,codex
 WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed/,https://news.ycombinator.com/rss,https://www.engadget.com/rss.xml,https://www.wired.com/feed/rss,https://9to5mac.com/feed/,https://www.macrumors.com/macrumors.xml,https://www.sammobile.com/feed/,https://www.androidcentral.com/rss,https://www.wareable.com/feed
 ```
@@ -109,6 +113,21 @@ For the fastest posting workflow, open the newest `out/*-copy-paste-tweets.md` f
 
 For India-focused posts, open the newest `out/*-india-tech-tweets.md` file. It contains longer tweets that translate global tech topics into Indian buyer, startup, creator, developer, pricing, and consumer angles.
 
+Generate posts from a pasted tweet, article, or idea without X API keys:
+
+```bash
+curl -X POST http://127.0.0.1:8000/manual-signal \
+  -H "Content-Type: application/json" \
+  -d '{"source_title":"Gemini Intelligence on Android","source_url":"https://x.com/example/status/123","source_text":"Paste the tweet or article text here","limit":5}'
+```
+
+You can also do it without the API server:
+
+```bash
+. .venv/bin/activate
+python scripts/manual_signal.py --title "Gemini Intelligence on Android" --text "Paste the tweet or article text here"
+```
+
 Fresh rerun, replacing old generated content:
 
 ```bash
@@ -134,6 +153,8 @@ curl -X POST http://127.0.0.1:8000/topic \
 ```
 
 If you pass plain keywords to `/topic`, the bot adds `lang:en -is:retweet` automatically.
+
+Track specific AI accounts by editing `X_WATCH_HANDLES` in `.env`. This uses X recent search with `from:<handle>` queries, so it requires an X API tier that supports recent search.
 
 ## Optional Text Commands
 

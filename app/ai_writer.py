@@ -166,6 +166,9 @@ class TrendWriter:
         return (
             "You are a tech trend scout for someone who wants to post thoughtful X content.\n"
             "Review recent X posts and web feed items, then identify potentially new or accelerating topics worth posting about.\n"
+            "If source=x_watchlist, treat it as a signal from a tracked AI account. Look for narratives, debates, research shifts, model releases, benchmark drama, agent/tooling ideas, and opinions that can become original posts.\n"
+            "If source=manual, treat it as a user-provided signal from a tweet, post, article, or observation. Extract multiple possible angles from it and make them publishable.\n"
+            "Do not simply summarize the tracked account. Turn the signal into a fresh angle the user can post, with attribution only when it genuinely helps credibility.\n"
             "Prefer concrete product shifts, launches, device rumors, platform moves, health/wearable changes, startup moves, chips, developer tools, and visible debates.\n"
             "Return a diverse set of categories when evidence supports it: Apple, Samsung, Wearables, Whoop, Smartwatches, Health tech, Consumer devices, Chips, Startups, Developer tools, AI, Claude, Codex, OpenAI, Gaming, EVs, AR/VR.\n"
             "Each opportunity must include a category field naming what it is about.\n"

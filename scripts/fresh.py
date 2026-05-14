@@ -37,11 +37,18 @@ def main() -> None:
     scan = result.get("scan", {})
     created_count = scan.get("created_count", 0)
     source_count = scan.get("source_count", 0)
+    x_watchlist_count = scan.get("x_watchlist_source_count", 0)
+    x_errors = scan.get("x_scan_errors", [])
     errors = scan.get("web_feed_errors", [])
 
     print("Fresh high-CTR pack created")
     print(f"Sources found: {source_count}")
+    print(f"Tracked-account posts: {x_watchlist_count}")
     print(f"New opportunities: {created_count}")
+    if x_errors:
+        print("X warnings:")
+        for error in x_errors:
+            print(f"- {error}")
     if errors:
         print("Feed warnings:")
         for error in errors:

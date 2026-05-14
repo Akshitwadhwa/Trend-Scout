@@ -30,6 +30,7 @@ class Workflow:
         self.web_client = web_client
         self.writer = writer
         self.output_writer = output_writer
+        self._last_x_errors: list[str] = []
 
     def scan(self) -> dict[str, Any]:
         topic_query = self.db.get_topic_query(self.settings.topic_query)
@@ -71,9 +72,13 @@ class Workflow:
             "x_source_count": len(
                 [item for item in selected if item.get("source_type") == "x"]
             ),
+            "x_watchlist_source_count": len(
+                [item for item in selected if item.get("source_type") == "x_watchlist"]
+            ),
             "web_source_count": len(
                 [item for item in selected if item.get("source_type") == "web"]
             ),
+            "x_scan_errors": self._last_x_errors[:5],
             "web_feed_errors": self.web_client.last_errors[:5],
             "created_count": len(created),
             "duplicate_count": duplicates,
@@ -154,6 +159,46 @@ class Workflow:
             "opportunities": cleared_opportunities,
         }
         return result
+
+    def optimize_manual_source(
+        self,
+        *,
+        source_text: str,
+        source_url: str = "",
+        source_title: str = "",
+        style: str = "",
+        limit: int = 5,
+    ) -> dict[str, Any]:
+        item = self._manual_source_item(
+            source_text=source_text,
+            source_url=source_url,
+            source_title=source_title,
+        )
+        topic_query = "manual signal"
+        raw_opportunities = self.writer.find_opportunities(
+            topic_query=topic_query,
+            source_items=[item],
+        )
+        opportunities = [
+            self._manual_opportunity_payload(opportunity, item, index)
+            for index, opportunity in enumerate(raw_opportunities[:limit], start=1)
+        ]
+        ctr_pack = self.writer.build_ctr_pack(
+            opportunities=opportunities,
+            style=style
+            or "sharp, practical, high CTR, India-aware, copy-paste ready, no fake hype",
+        )
+        output_files = self.output_writer.save_ctr_pack(
+            ctr_pack=ctr_pack,
+            opportunities=opportunities,
+        )
+        return {
+            "status": "ok",
+            "source_count": 1,
+            "opportunity_count": len(opportunities),
+            "output_files": output_files,
+            "ctr_pack": ctr_pack,
+        }
 
     def set_topic(self, topic_query: str) -> str:
         normalized = self._normalize_query(topic_query)
@@ -244,6 +289,21 @@ class Workflow:
 
     def _collect_sources(self, topic_query: str) -> list[dict[str, Any]]:
         items: list[dict[str, Any]] = []
+        self._last_x_errors = []
+        if (
+            self.settings.enable_x_watchlist
+            and self.settings.x_bearer_token
+            and self.settings.x_watch_handles
+        ):
+            try:
+                items.extend(
+                    self.x_client.search_watchlist_posts(
+                        self.settings.x_watch_handles,
+                        self.settings.max_watchlist_results,
+                    )
+                )
+            except Exception as exc:
+                self._last_x_errors.append(f"watchlist: {exc}")
         if self.settings.enable_x_scan and self.settings.x_bearer_token:
             try:
                 items.extend(
@@ -252,8 +312,8 @@ class Workflow:
                         self.settings.max_search_results,
                     )
                 )
-            except Exception:
-                pass
+            except Exception as exc:
+                self._last_x_errors.append(f"topic search: {exc}")
         if self.settings.enable_web_scan:
             items.extend(self.web_client.fetch_items())
         return self._select_items(items)
@@ -275,6 +335,50 @@ class Workflow:
             if len(selected) == 12:
                 break
         return selected
+
+    def _manual_source_item(
+        self,
+        *,
+        source_text: str,
+        source_url: str,
+        source_title: str,
+    ) -> dict[str, Any]:
+        clean_text = " ".join(source_text.split())
+        title = source_title.strip() or clean_text[:90] or "Manual source"
+        url = source_url.strip() or "manual://source"
+        return {
+            "id": hashlib.sha256(f"{url}|{clean_text}".encode("utf-8")).hexdigest()[:16],
+            "source_type": "manual",
+            "title": title,
+            "text": clean_text,
+            "created_at": "",
+            "author_name": "manual input",
+            "author_username": "manual",
+            "public_metrics": {"like_count": 0, "retweet_count": 0, "quote_count": 0},
+            "score": 0,
+            "url": url,
+        }
+
+    def _manual_opportunity_payload(
+        self,
+        opportunity: dict[str, Any],
+        source_item: dict[str, Any],
+        index: int,
+    ) -> dict[str, Any]:
+        return {
+            "id": index,
+            "status": "manual",
+            "topic_query": "manual signal",
+            "title": str(opportunity.get("title", source_item["title"])),
+            "category": str(opportunity.get("category", "General Tech")),
+            "why_now": str(opportunity.get("why_now", "")),
+            "post_angle": str(opportunity.get("post_angle", "")),
+            "confidence": float(opportunity.get("confidence", 0.5)),
+            "sources": [source_item],
+            "draft_text": None,
+            "draft_notes": None,
+            "created_at": "",
+        }
 
     def _items_for_opportunity(
         self,

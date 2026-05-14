@@ -38,11 +38,14 @@ class Settings:
     enable_scheduler: bool
     check_interval_minutes: int
     max_search_results: int
+    max_watchlist_results: int
     max_web_results: int
     verify_twilio_signature: bool
     topic_query: str
     enable_x_scan: bool
+    enable_x_watchlist: bool
     enable_web_scan: bool
+    x_watch_handles: list[str]
     web_feed_urls: list[str]
     web_keywords: list[str]
     x_bearer_token: str
@@ -83,6 +86,7 @@ def load_settings() -> Settings:
         enable_scheduler=_read_bool("ENABLE_SCHEDULER", True),
         check_interval_minutes=_read_int("CHECK_INTERVAL_MINUTES", 120),
         max_search_results=_read_int("MAX_SEARCH_RESULTS", 20),
+        max_watchlist_results=_read_int("MAX_WATCHLIST_RESULTS", 20),
         max_web_results=_read_int("MAX_WEB_RESULTS", 30),
         verify_twilio_signature=_read_bool("VERIFY_TWILIO_SIGNATURE", False),
         topic_query=os.getenv(
@@ -91,7 +95,9 @@ def load_settings() -> Settings:
             'OR "apple ai" OR gemini OR deepmind) lang:en -is:retweet',
         ),
         enable_x_scan=_read_bool("ENABLE_X_SCAN", True),
+        enable_x_watchlist=_read_bool("ENABLE_X_WATCHLIST", True),
         enable_web_scan=_read_bool("ENABLE_WEB_SCAN", True),
+        x_watch_handles=_read_csv("X_WATCH_HANDLES"),
         web_feed_urls=_read_csv("WEB_FEED_URLS"),
         web_keywords=_read_csv("WEB_KEYWORDS"),
         x_bearer_token=os.getenv("X_BEARER_TOKEN", "").strip(),

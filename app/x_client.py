@@ -13,6 +13,22 @@ class XClient:
     def __init__(self, settings: Settings) -> None:
         self.settings = settings
 
+    def search_watchlist_posts(
+        self,
+        handles: list[str],
+        max_results: int,
+    ) -> list[dict[str, Any]]:
+        clean_handles = [self._clean_handle(handle) for handle in handles]
+        clean_handles = [handle for handle in clean_handles if handle]
+        if not clean_handles:
+            return []
+        query = "(" + " OR ".join(f"from:{handle}" for handle in clean_handles) + ") lang:en -is:retweet"
+        posts = self.search_recent_posts(query, max_results)
+        for post in posts:
+            post["source_type"] = "x_watchlist"
+            post["watchlist_handle"] = post.get("author_username", "")
+        return posts
+
     def search_recent_posts(self, query: str, max_results: int) -> list[dict[str, Any]]:
         if not self.settings.x_bearer_token:
             raise RuntimeError("Missing X_BEARER_TOKEN for recent search.")
@@ -65,3 +81,6 @@ class XClient:
 
         posts.sort(key=lambda post: (post["score"], post["created_at"]), reverse=True)
         return posts
+
+    def _clean_handle(self, handle: str) -> str:
+        return handle.strip().lstrip("@")

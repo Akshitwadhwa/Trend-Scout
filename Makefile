@@ -1,4 +1,4 @@
-.PHONY: install dev test compile fresh
+.PHONY: install dev test compile fresh manual
 
 install:
 	python3 -m venv .venv
@@ -15,3 +15,6 @@ compile:
 
 fresh:
 	. .venv/bin/activate && python scripts/fresh.py
+
+manual:
+	. .venv/bin/activate && python scripts/manual_signal.py

@@ -41,6 +41,14 @@ class OptimizeRequest(BaseModel):
     limit: int = 10
 
 
+class ManualSignalRequest(BaseModel):
+    source_text: str
+    source_url: str = ""
+    source_title: str = ""
+    style: str = "sharp, practical, high CTR, India-aware, copy-paste ready, no fake hype"
+    limit: int = 5
+
+
 load_dotenv()
 settings = load_settings()
 db = Database(settings.database_path)
@@ -94,6 +102,7 @@ async def root() -> dict[str, object]:
         "draft_recent": "POST /drafts",
         "brief": "POST /brief",
         "optimize": "POST /optimize",
+        "manual_signal": "POST /manual-signal",
         "fresh": "POST /fresh",
         "topic": "GET /topic",
         "docs": "/docs",
@@ -186,6 +195,21 @@ async def optimize(request: OptimizeRequest | None = None) -> JSONResponse:
         result = workflow.optimize_ctr(
             style=request.style if request is not None else "",
             limit=request.limit if request is not None else 10,
+        )
+    except Exception as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+    return JSONResponse(result)
+
+
+@app.post("/manual-signal")
+async def manual_signal(request: ManualSignalRequest) -> JSONResponse:
+    try:
+        result = workflow.optimize_manual_source(
+            source_text=request.source_text,
+            source_url=request.source_url,
+            source_title=request.source_title,
+            style=request.style,
+            limit=request.limit,
         )
     except Exception as exc:
         raise HTTPException(status_code=500, detail=str(exc)) from exc
