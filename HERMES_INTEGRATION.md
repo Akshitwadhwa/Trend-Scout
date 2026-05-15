@@ -5,6 +5,7 @@ Use Hermes as the operator for this repo, not as a replacement for the content e
 This project should keep doing:
 
 - Scan web/RSS sources.
+- Scan your authenticated X home timeline through `xurl` when enabled.
 - Turn pasted posts or articles into post ideas.
 - Generate copy-paste tweets.
 - Generate one-message-per-X-post `.txt` files.
@@ -52,6 +53,8 @@ Generate fresh web/RSS-based tweets:
 ```bash
 make fresh
 ```
+
+If `ENABLE_X_TIMELINE=true` and `xurl` is authenticated, this also scans your X home timeline.
 
 Generate tweets from pasted text without X API keys:
 
@@ -125,8 +128,28 @@ Use no X API keys by default:
 ```env
 ENABLE_X_SCAN=false
 ENABLE_X_WATCHLIST=false
+ENABLE_X_TIMELINE=false
 ENABLE_WEB_SCAN=true
 ```
+
+To integrate your own X home timeline without putting X OAuth secrets into this repo, authenticate `xurl` manually in a terminal:
+
+```bash
+xurl auth apps add my-app --client-id YOUR_CLIENT_ID --client-secret YOUR_CLIENT_SECRET
+xurl auth oauth2 --app my-app YOUR_X_USERNAME
+xurl auth default my-app
+xurl auth status
+xurl timeline -n 5
+```
+
+Then set:
+
+```env
+ENABLE_X_TIMELINE=true
+MAX_TIMELINE_RESULTS=30
+```
+
+Never paste X client secrets, tokens, or `~/.xurl` contents into Hermes chat.
 
 Use manual pasted signals for specific X posts:
 

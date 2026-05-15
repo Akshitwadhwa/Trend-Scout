@@ -72,6 +72,9 @@ class Workflow:
             "x_source_count": len(
                 [item for item in selected if item.get("source_type") == "x"]
             ),
+            "x_timeline_source_count": len(
+                [item for item in selected if item.get("source_type") == "x_timeline"]
+            ),
             "x_watchlist_source_count": len(
                 [item for item in selected if item.get("source_type") == "x_watchlist"]
             ),
@@ -304,6 +307,15 @@ class Workflow:
                 )
             except Exception as exc:
                 self._last_x_errors.append(f"watchlist: {exc}")
+        if self.settings.enable_x_timeline:
+            try:
+                items.extend(
+                    self.x_client.fetch_home_timeline(
+                        self.settings.max_timeline_results,
+                    )
+                )
+            except Exception as exc:
+                self._last_x_errors.append(f"timeline: {exc}")
         if self.settings.enable_x_scan and self.settings.x_bearer_token:
             try:
                 items.extend(

@@ -7,6 +7,7 @@ This version does not auto-post and does not include any external messaging inte
 ## What it does
 
 - Searches recent X posts for your tracked tech query.
+- Can scan your authenticated X home timeline through `xurl` after you connect your X account locally.
 - Tracks a curated X account watchlist so AI narrative accounts can seed new post ideas.
 - Searches web/RSS feeds from the sources you configure.
 - Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, chips, startups, developer tools, AI, layoffs, hiring, and careers.
@@ -38,8 +39,10 @@ JSON_DIR=./json
 TOPIC_QUERY=(apple OR iphone OR "apple watch" OR watchos OR samsung OR galaxy OR "galaxy watch" OR whoop OR wearables OR smartwatch OR "smart watch" OR "health tech" OR fitness OR sleep OR recovery OR "oura ring" OR "consumer tech" OR gadgets OR chips OR nvidia OR startups OR "dev tools" OR openai OR claude OR codex OR layoffs OR layoff OR hiring OR jobs OR "job market" OR "tech jobs" OR "ai jobs") lang:en -is:retweet
 ENABLE_X_SCAN=false
 ENABLE_X_WATCHLIST=false
+ENABLE_X_TIMELINE=false
 ENABLE_WEB_SCAN=true
 MAX_WATCHLIST_RESULTS=20
+MAX_TIMELINE_RESULTS=30
 X_WATCH_HANDLES=karpathy,fchollet,ylecun,AndrewYNg,rasbt,dair_ai,lilianweng,jeremyphoward,simonw,_akhaliq,ID_AA_Carmack,gwern,goodside,drfeifei,demishassabis
 WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,startups,developer tools,ai,openai,claude,codex,layoffs,layoff,hiring,jobs,job market,tech jobs,ai jobs,recession,career
 WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed/,https://news.ycombinator.com/rss,https://www.engadget.com/rss.xml,https://www.wired.com/feed/rss,https://9to5mac.com/feed/,https://www.macrumors.com/macrumors.xml,https://www.sammobile.com/feed/,https://www.androidcentral.com/rss,https://www.wareable.com/feed
@@ -158,6 +161,45 @@ curl -X POST http://127.0.0.1:8000/topic \
 If you pass plain keywords to `/topic`, the bot adds `lang:en -is:retweet` automatically.
 
 Track specific AI accounts by editing `X_WATCH_HANDLES` in `.env`. This uses X recent search with `from:<handle>` queries, so it requires an X API tier that supports recent search.
+
+## Connect Your X Account Through xurl
+
+For your personal X home timeline, the app uses the official `xurl` CLI. This keeps OAuth tokens outside the project and outside Hermes chat.
+
+Install is already supported with Homebrew:
+
+```bash
+brew install --cask xdevplatform/tap/xurl
+```
+
+Then you must authenticate manually in your own terminal. Do not paste secrets into Hermes chat.
+
+1. Create/open an X developer app at https://developer.x.com/en/portal/dashboard
+2. Set redirect URI to `http://localhost:8080/callback`
+3. Register your app locally:
+   ```bash
+   xurl auth apps add my-app --client-id YOUR_CLIENT_ID --client-secret YOUR_CLIENT_SECRET
+   ```
+4. Authenticate:
+   ```bash
+   xurl auth oauth2 --app my-app YOUR_X_USERNAME
+   xurl auth default my-app
+   ```
+5. Verify:
+   ```bash
+   xurl auth status
+   xurl whoami
+   xurl timeline -n 5
+   ```
+
+After that, enable timeline scanning in `.env`:
+
+```env
+ENABLE_X_TIMELINE=true
+MAX_TIMELINE_RESULTS=30
+```
+
+The fresh workflow will then mix your X feed with X topic search, watchlist accounts, and web/RSS sources, depending on which toggles are enabled.
 
 ## Optional Text Commands
 
