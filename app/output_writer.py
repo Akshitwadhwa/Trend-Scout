@@ -81,10 +81,11 @@ class OutputWriter:
         timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
         main_path = self.high_ctr_dir / f"{timestamp}-high-ctr-pack.md"
         ready_path = self.high_ctr_dir / f"{timestamp}-copy-paste-tweets.md"
+        x_post_messages_path = self.high_ctr_dir / f"{timestamp}-x-post-messages.txt"
+        x_post_messages_dir = self.high_ctr_dir / f"{timestamp}-x-post-messages"
         india_path = self.high_ctr_dir / f"{timestamp}-india-tech-tweets.md"
         hooks_path = self.high_ctr_dir / f"{timestamp}-hooks.md"
         polls_path = self.high_ctr_dir / f"{timestamp}-polls.md"
-        replies_path = self.high_ctr_dir / f"{timestamp}-reply-opportunities.md"
         threads_path = self.high_ctr_dir / f"{timestamp}-threads.md"
         visual_path = self.high_ctr_dir / f"{timestamp}-visual-card-ideas.md"
         json_path = self.json_dir / f"{timestamp}-high-ctr-pack.json"
@@ -96,10 +97,14 @@ class OutputWriter:
         }
         main_path.write_text(self._ctr_pack_markdown(ctr_pack, opportunities), encoding="utf-8")
         ready_path.write_text(self._ready_tweets_markdown(ctr_pack), encoding="utf-8")
+        x_post_message_files = self._save_x_post_message_files(
+            x_post_messages_path,
+            x_post_messages_dir,
+            ctr_pack,
+        )
         india_path.write_text(self._india_tweets_markdown(ctr_pack), encoding="utf-8")
         hooks_path.write_text(self._hooks_markdown(ctr_pack), encoding="utf-8")
         polls_path.write_text(self._polls_markdown(ctr_pack), encoding="utf-8")
-        replies_path.write_text(self._replies_markdown(ctr_pack), encoding="utf-8")
         threads_path.write_text(self._threads_markdown(ctr_pack), encoding="utf-8")
         visual_path.write_text(self._visuals_markdown(ctr_pack), encoding="utf-8")
         json_path.write_text(json.dumps(payload, ensure_ascii=True, indent=2), encoding="utf-8")
@@ -108,10 +113,11 @@ class OutputWriter:
         return {
             "markdown": str(main_path),
             "ready_tweets": str(ready_path),
+            "x_post_messages": str(x_post_messages_path),
+            "x_post_message_files": x_post_message_files,
             "india_tweets": str(india_path),
             "hooks": str(hooks_path),
             "polls": str(polls_path),
-            "replies": str(replies_path),
             "threads": str(threads_path),
             "visuals": str(visual_path),
             "category_files": category_files,
@@ -121,9 +127,40 @@ class OutputWriter:
     def clear_generated_files(self) -> dict[str, int]:
         return {
             "outputs": self._clear_directory(self.output_dir, ".md"),
-            "out": self._clear_directory(self.high_ctr_dir, ".md"),
+            "out": self._clear_directory(self.high_ctr_dir, (".md", ".txt")),
             "json": self._clear_directory(self.json_dir, ".json"),
         }
+
+    def _save_x_post_message_files(
+        self,
+        aggregate_path: Path,
+        message_dir: Path,
+        ctr_pack: dict[str, Any],
+    ) -> list[str]:
+        messages = self._x_post_messages(ctr_pack)
+        aggregate_path.write_text(
+            "\n\n---\n\n".join(messages) + ("\n" if messages else ""),
+            encoding="utf-8",
+        )
+
+        message_dir.mkdir(parents=True, exist_ok=True)
+        paths: list[str] = []
+        for index, item in enumerate(self._ranked_ctr_items(ctr_pack), start=1):
+            tweet = self._best_ready_tweet(item).strip()
+            if not tweet:
+                continue
+            path = message_dir / f"{index:02d}-{self._slugify(item.get('title', 'x-post'))}.txt"
+            path.write_text(tweet + "\n", encoding="utf-8")
+            paths.append(str(path))
+        return paths
+
+    def _x_post_messages(self, ctr_pack: dict[str, Any]) -> list[str]:
+        messages = []
+        for item in self._ranked_ctr_items(ctr_pack):
+            tweet = self._best_ready_tweet(item).strip()
+            if tweet:
+                messages.append(tweet)
+        return messages
 
     def _markdown(self, drafted: dict[str, Any]) -> str:
         sources = drafted.get("sources", [])
@@ -360,7 +397,7 @@ class OutputWriter:
             "```",
             "",
             f"Best format: {self._best_ready_format(item)}",
-            f"Scores: CTR {item.get('ctr_score')} / Impressions {item.get('impression_score')} / Replies {item.get('reply_score')} / Risk {item.get('risk_score')}",
+            f"Scores: CTR {item.get('ctr_score')} / Impressions {item.get('impression_score')} / Risk {item.get('risk_score')}",
             f"Why this can work: {item.get('why_this_can_work', '')}",
             "",
         ]
@@ -410,19 +447,6 @@ class OutputWriter:
             lines.append("")
         return "\n".join(lines)
 
-    def _replies_markdown(self, ctr_pack: dict[str, Any]) -> str:
-        lines = ["# Reply Opportunities", ""]
-        for item in self._ranked_ctr_items(ctr_pack):
-            lines.extend(
-                [
-                    f"## {item.get('category')} - {item.get('title')}",
-                    "",
-                    item.get("reply_post", ""),
-                    "",
-                ]
-            )
-        return "\n".join(lines)
-
     def _threads_markdown(self, ctr_pack: dict[str, Any]) -> str:
         lines = ["# Mini Threads", ""]
         for item in self._ranked_ctr_items(ctr_pack):
@@ -470,7 +494,6 @@ class OutputWriter:
             "",
             f"CTR score: {item.get('ctr_score')}",
             f"Impression score: {item.get('impression_score')}",
-            f"Reply score: {item.get('reply_score')}",
             f"Risk score: {item.get('risk_score')}",
             "",
             f"Best angle: {item.get('best_angle', '')}",
@@ -524,7 +547,7 @@ class OutputWriter:
             lines.extend(["", f"Poll: {poll.get('question', '')}"])
             for option in poll.get("options", []):
                 lines.append(f"- {option}")
-        lines.extend(["", f"Reply post: {item.get('reply_post', '')}", "", "Mini-thread:"])
+        lines.extend(["", "Mini-thread:"])
         for thread_post in item.get("mini_thread", []):
             lines.append(f"- {thread_post}")
         lines.extend(
@@ -543,18 +566,24 @@ class OutputWriter:
             key=lambda item: (
                 item.get("ctr_score", 0),
                 item.get("impression_score", 0),
-                item.get("reply_score", 0),
             ),
             reverse=True,
         )
 
-    def _clear_directory(self, path: Path, suffix: str) -> int:
+    def _clear_directory(self, path: Path, suffix: str | tuple[str, ...]) -> int:
         deleted = 0
         path.mkdir(parents=True, exist_ok=True)
         for item in path.iterdir():
-            if item.name == ".gitkeep" or not item.is_file():
+            if item.name == ".gitkeep":
                 continue
-            if item.suffix == suffix:
+            if item.is_dir() and item.name.endswith("-x-post-messages"):
+                for child in item.iterdir():
+                    if child.is_file():
+                        child.unlink()
+                item.rmdir()
+                deleted += 1
+                continue
+            if item.is_file() and item.suffix in ((suffix,) if isinstance(suffix, str) else suffix):
                 item.unlink()
                 deleted += 1
         return deleted

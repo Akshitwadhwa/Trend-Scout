@@ -51,13 +51,11 @@ def test_save_ctr_pack_splits_markdown_and_json(tmp_path):
                     "hooks": ["Apple Watch is becoming a health trust story."],
                     "post_variants": ["Apple Watch is becoming a health trust story."],
                     "poll": {"question": "Trust Apple Watch health?", "options": ["Yes", "Not yet"]},
-                    "reply_post": "The trust layer matters most.",
                     "mini_thread": ["One", "Two", "Three"],
                     "visual_card_idea": "Apple Watch plus trust meter",
                     "why_this_can_work": "Clear topic and debate.",
                     "ctr_score": 90,
                     "impression_score": 85,
-                    "reply_score": 80,
                     "risk_score": 10,
                 }
             ],
@@ -67,17 +65,30 @@ def test_save_ctr_pack_splits_markdown_and_json(tmp_path):
 
     assert result["markdown"].endswith(".md")
     assert result["ready_tweets"].endswith(".md")
+    assert result["x_post_messages"].endswith("-x-post-messages.txt")
+    assert len(result["x_post_message_files"]) == 1
+    assert result["x_post_message_files"][0].endswith("01-apple-watch-health.txt")
     assert result["india_tweets"].endswith(".md")
     assert result["json"].endswith(".json")
     assert Path(result["markdown"]).parent.name == "out"
     assert Path(result["ready_tweets"]).parent.name == "out"
+    assert Path(result["x_post_messages"]).parent.name == "out"
+    assert Path(result["x_post_message_files"][0]).parent.name.endswith("-x-post-messages")
     assert Path(result["india_tweets"]).parent.name == "out"
     assert Path(result["json"]).parent.name == "json"
     assert Path(result["markdown"]).exists()
     assert Path(result["ready_tweets"]).exists()
+    assert Path(result["x_post_messages"]).exists()
+    assert Path(result["x_post_message_files"][0]).exists()
     assert Path(result["india_tweets"]).exists()
     assert Path(result["json"]).exists()
     assert "Copy-Paste Ready Tweets" in Path(result["ready_tweets"]).read_text(encoding="utf-8")
+    assert Path(result["x_post_messages"]).read_text(encoding="utf-8") == (
+        "Apple Watch is becoming less of a gadget and more of a trust layer for health.\n"
+    )
+    assert Path(result["x_post_message_files"][0]).read_text(encoding="utf-8") == (
+        "Apple Watch is becoming less of a gadget and more of a trust layer for health.\n"
+    )
     assert "India Tech Tweets" in Path(result["india_tweets"]).read_text(encoding="utf-8")
 
 

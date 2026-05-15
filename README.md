@@ -2,17 +2,18 @@
 
 A small Python service that scans recent X posts and web feeds, finds timely tech topics, and drafts a post only when you ask for one.
 
-This version does not auto-post and does not need WhatsApp. It works as a local API you can run from VS Code or the terminal.
+This version does not auto-post and does not include any external messaging integration. Hermes runs the workflow and returns the output in your Hermes chat.
 
 ## What it does
 
 - Searches recent X posts for your tracked tech query.
 - Tracks a curated X account watchlist so AI narrative accounts can seed new post ideas.
 - Searches web/RSS feeds from the sources you configure.
-- Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, chips, startups, developer tools, and AI.
+- Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, chips, startups, developer tools, AI, layoffs, hiring, and careers.
 - Stores those opportunities in SQLite.
 - Lets you list opportunities and ask for a draft from a chosen one.
 - Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, copy-paste-ready tweet winners into `out/`, India-specific tech tweets into `out/`, and JSON artifacts into `json/`.
+- Saves each best X post as its own plain `.txt` message in `out/*-x-post-messages/`, so Hermes can send or show one copy-paste-ready post at a time.
 - Uses OpenAI for topic judgment and drafting when `OPENAI_API_KEY` is set.
 - Falls back to simple engagement-based opportunities if OpenAI is not configured.
 
@@ -34,13 +35,13 @@ OPENAI_API_KEY=your_openai_key_optional_but_recommended
 OUTPUT_DIR=./outputs
 HIGH_CTR_DIR=./out
 JSON_DIR=./json
-TOPIC_QUERY=(apple OR iphone OR "apple watch" OR watchos OR samsung OR galaxy OR "galaxy watch" OR whoop OR wearables OR smartwatch OR "smart watch" OR "health tech" OR fitness OR sleep OR recovery OR "oura ring" OR "consumer tech" OR gadgets OR chips OR nvidia OR startups OR "dev tools" OR openai OR claude OR codex) lang:en -is:retweet
+TOPIC_QUERY=(apple OR iphone OR "apple watch" OR watchos OR samsung OR galaxy OR "galaxy watch" OR whoop OR wearables OR smartwatch OR "smart watch" OR "health tech" OR fitness OR sleep OR recovery OR "oura ring" OR "consumer tech" OR gadgets OR chips OR nvidia OR startups OR "dev tools" OR openai OR claude OR codex OR layoffs OR layoff OR hiring OR jobs OR "job market" OR "tech jobs" OR "ai jobs") lang:en -is:retweet
 ENABLE_X_SCAN=false
 ENABLE_X_WATCHLIST=false
 ENABLE_WEB_SCAN=true
 MAX_WATCHLIST_RESULTS=20
 X_WATCH_HANDLES=karpathy,fchollet,ylecun,AndrewYNg,rasbt,dair_ai,lilianweng,jeremyphoward,simonw,_akhaliq,ID_AA_Carmack,gwern,goodside,drfeifei,demishassabis
-WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,startups,developer tools,ai,openai,claude,codex
+WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,startups,developer tools,ai,openai,claude,codex,layoffs,layoff,hiring,jobs,job market,tech jobs,ai jobs,recession,career
 WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed/,https://news.ycombinator.com/rss,https://www.engadget.com/rss.xml,https://www.wired.com/feed/rss,https://9to5mac.com/feed/,https://www.macrumors.com/macrumors.xml,https://www.sammobile.com/feed/,https://www.androidcentral.com/rss,https://www.wareable.com/feed
 ```
 
@@ -104,12 +105,14 @@ Build a high-CTR optimization pack:
 ```bash
 curl -X POST http://127.0.0.1:8000/optimize \
   -H "Content-Type: application/json" \
-  -d '{"style":"sharp, practical, high CTR, high reply potential, no fake hype","limit":10}'
+  -d '{"style":"sharp, practical, high CTR, no fake hype","limit":10}'
 ```
 
 Markdown files are saved in `out/` for high-CTR packs and `outputs/` for regular drafts. JSON files are saved in `json/`.
 
 For the fastest posting workflow, open the newest `out/*-copy-paste-tweets.md` file. It contains complete tweets that are already assembled from the best hook, angle, and format, so you can copy one directly into X.
+
+If you want each X post as its own standalone message, open the newest `out/*-x-post-messages/` folder. Each `.txt` file contains only one post with no headings, notes, or Markdown, so you can copy it directly into X.
 
 For India-focused posts, open the newest `out/*-india-tech-tweets.md` file. It contains longer tweets that translate global tech topics into Indian buyer, startup, creator, developer, pricing, and consumer angles.
 
@@ -133,7 +136,7 @@ Fresh rerun, replacing old generated content:
 ```bash
 curl -X POST http://127.0.0.1:8000/fresh \
   -H "Content-Type: application/json" \
-  -d '{"style":"sharp, practical, high CTR, high reply potential, no fake hype","limit":10}'
+  -d '{"style":"sharp, practical, high CTR, no fake hype","limit":10}'
 ```
 
 `/fresh` clears old generated Markdown/JSON files and old saved opportunities, scans again, then writes the new high-CTR pack.
@@ -158,7 +161,7 @@ Track specific AI accounts by editing `X_WATCH_HANDLES` in `.env`. This uses X r
 
 ## Optional Text Commands
 
-The app still has a text-command handler, so the same workflow can later be connected to WhatsApp, Slack, Telegram, or a small UI:
+The app still has a text-command handler, so Hermes or a small UI can call the same command workflow:
 
 - `TRACK <keywords or X query>`
 - `TOPIC`

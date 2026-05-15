@@ -31,7 +31,7 @@ def main() -> None:
         output_writer=OutputWriter(settings),
     )
     result = workflow.fresh_optimize(
-        style="sharp, practical, high CTR, high reply potential, no fake hype",
+        style="sharp, practical, high CTR, no fake hype",
         limit=10,
     )
     scan = result.get("scan", {})
@@ -56,6 +56,10 @@ def main() -> None:
     print(result["output_files"]["markdown"])
     if result["output_files"].get("ready_tweets"):
         print(result["output_files"]["ready_tweets"])
+    if result["output_files"].get("x_post_messages"):
+        print(result["output_files"]["x_post_messages"])
+    for path in result["output_files"].get("x_post_message_files", []):
+        print(path)
     if created_count == 0:
         print("No post-ready topics were found. Check feed/network access or broaden WEB_KEYWORDS.")
 

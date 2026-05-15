@@ -169,8 +169,9 @@ class TrendWriter:
             "If source=x_watchlist, treat it as a signal from a tracked AI account. Look for narratives, debates, research shifts, model releases, benchmark drama, agent/tooling ideas, and opinions that can become original posts.\n"
             "If source=manual, treat it as a user-provided signal from a tweet, post, article, or observation. Extract multiple possible angles from it and make them publishable.\n"
             "Do not simply summarize the tracked account. Turn the signal into a fresh angle the user can post, with attribution only when it genuinely helps credibility.\n"
-            "Prefer concrete product shifts, launches, device rumors, platform moves, health/wearable changes, startup moves, chips, developer tools, and visible debates.\n"
-            "Return a diverse set of categories when evidence supports it: Apple, Samsung, Wearables, Whoop, Smartwatches, Health tech, Consumer devices, Chips, Startups, Developer tools, AI, Claude, Codex, OpenAI, Gaming, EVs, AR/VR.\n"
+            "Prefer concrete product shifts, launches, device rumors, platform moves, health/wearable changes, startup moves, chips, developer tools, job-market shifts, layoffs, hiring changes, and visible debates.\n"
+            "For layoffs and job-market content, avoid fearmongering. Focus on useful angles: skills, resilience, hiring signals, AI impact, market cycles, student strategy, and how builders can become harder to ignore.\n"
+            "Return a diverse set of categories when evidence supports it: Apple, Samsung, Wearables, Whoop, Smartwatches, Health tech, Consumer devices, Chips, Startups, Developer tools, AI, Claude, Codex, OpenAI, Layoffs, Careers, Hiring, Gaming, EVs, AR/VR.\n"
             "Each opportunity must include a category field naming what it is about.\n"
             "Avoid generic evergreen topics. Do not invent facts beyond the source posts.\n"
             "Return valid JSON only with this exact shape:\n"
@@ -199,7 +200,7 @@ class TrendWriter:
         style_line = style.strip() or "clear, sharp, practical, not too hype"
         return (
             "Write one X post based on this opportunity.\n"
-            "Make the subject clear in the tweet: mention the specific lane when relevant, such as Apple, Samsung, Whoop, watches, health tech, wearables, chips, startups, developer tools, or AI.\n"
+            "Make the subject clear in the tweet: mention the specific lane when relevant, such as Apple, Samsung, Whoop, watches, health tech, wearables, chips, startups, developer tools, AI, layoffs, hiring, or careers.\n"
             "Keep it under 260 characters. Do not copy source wording. Do not add fake specifics.\n"
             "Make it sound like a thoughtful human, not a press release.\n"
             "Return valid JSON only with this exact shape:\n"
@@ -274,19 +275,19 @@ class TrendWriter:
                     ],
                 }
             )
-        style_line = style.strip() or "sharp, practical, founder-like, high CTR, high reply potential"
+        style_line = style.strip() or "sharp, practical, founder-like, high CTR"
         return (
             "Create a high-CTR and high-impression X optimization pack from these tech opportunities.\n"
-            "Goal: maximize scroll-stop, profile clicks, link curiosity, replies, reposts, and saves without clickbait or fake claims.\n"
+            "Goal: maximize scroll-stop, profile clicks, link curiosity, reposts, and saves without clickbait or fake claims.\n"
             "For each opportunity, generate fully assembled, copy-paste-ready tweets. Do not make the user combine hooks and bodies manually.\n"
             "Compare the best X formats for each topic: curiosity gap, money/value angle, contrarian take, comparison, prediction, question, mini-story, and practical takeaway.\n"
             "Pick one winner as best_ready_to_post, then provide 5 finished tweet options with format labels, scores, and why each works.\n"
             "Also create an India-specific section for each topic: an india_angle, india_relevance_score, and 3 longer India-focused tweets for Indian tech audiences.\n"
             "India-focused tweets should connect the topic to Indian buyers, students, creators, founders, developers, startups, pricing in rupees, UPI/fintech, Apple/Samsung buyers, wearables, health tech, jobs, or consumer behavior when relevant.\n"
-            "Also generate 10 hooks, 3 single-post variants, 1 poll, 1 smart reply, 1 mini-thread, 1 visual-card idea, and scores.\n"
+            "Also generate 10 hooks, 3 single-post variants, 1 poll, 1 mini-thread, 1 visual-card idea, and scores.\n"
             "Hooks should be punchy, specific, and curiosity-driven. Avoid vague hooks like 'This is interesting'.\n"
             "Every ready-to-post tweet and single post variant must be under 260 characters. India-focused tweets should be 220-275 characters. Poll options must be 2-4 short choices. Mini-threads must have exactly 3 posts.\n"
-            "Scores are 1-100: ctr_score, impression_score, reply_score, risk_score. Lower risk is better.\n"
+            "Scores are 1-100: ctr_score, impression_score, risk_score. Lower risk is better.\n"
             "Return valid JSON only with this exact shape:\n"
             '{"summary":"one paragraph","items":[{"opportunity_id":1,"category":"Apple",'
             '"title":"topic","best_angle":"angle","best_hook":"hook",'
@@ -301,9 +302,9 @@ class TrendWriter:
             '"why_it_works":"short reason"}],'
             '"hooks":["hook1"],"post_variants":["v1","v2","v3"],'
             '"poll":{"question":"question","options":["A","B"]},'
-            '"reply_post":"reply text","mini_thread":["p1","p2","p3"],'
+            '"mini_thread":["p1","p2","p3"],'
             '"visual_card_idea":"visual idea","ctr_score":90,"impression_score":85,'
-            '"reply_score":80,"risk_score":20,"why_this_can_work":"reason"}]}\n\n'
+            '"risk_score":20,"why_this_can_work":"reason"}]}\n\n'
             f"Style:\n{style_line}\n\n"
             f"Opportunities:\n{json.dumps(compact, ensure_ascii=True)}"
         )
@@ -355,7 +356,6 @@ class TrendWriter:
                     "hooks": [hook, opportunity["title"]],
                     "post_variants": [ready_tweet],
                     "poll": {"question": f"What matters most in {category}?", "options": ["Trust", "Speed", "Price", "UX"]},
-                    "reply_post": self._trim_post(f"This is the under-discussed part: {opportunity['post_angle']}"),
                     "mini_thread": [
                         self._trim_post(opportunity["title"]),
                         self._trim_post(opportunity["why_now"]),
@@ -364,7 +364,6 @@ class TrendWriter:
                     "visual_card_idea": f"Bold card: {category} + one takeaway",
                     "ctr_score": 60,
                     "impression_score": 55,
-                    "reply_score": 50,
                     "risk_score": 25,
                     "why_this_can_work": "Fallback CTR pack generated without OpenAI.",
                 }
@@ -437,6 +436,9 @@ class TrendWriter:
             ("AI agents", ["agent", "agents"]),
             ("AI infrastructure", ["chip", "gpu", "data center", "infrastructure", "power"]),
             ("Developer tools", ["developer", "coding", "dev tool", "github"]),
+            ("Layoffs", ["layoff", "layoffs", "laid off", "job cuts", "restructuring", "downsizing"]),
+            ("Hiring", ["hiring", "jobs", "job market", "recruiting", "internship", "internships"]),
+            ("Careers", ["career", "resume", "portfolio", "open source", "ship in public", "network"]),
             ("Startups", ["startup", "funding", "founder"]),
         ]
         for category, needles in categories:

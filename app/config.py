@@ -40,7 +40,6 @@ class Settings:
     max_search_results: int
     max_watchlist_results: int
     max_web_results: int
-    verify_twilio_signature: bool
     topic_query: str
     enable_x_scan: bool
     enable_x_watchlist: bool
@@ -51,10 +50,6 @@ class Settings:
     x_bearer_token: str
     openai_api_key: str
     openai_model: str
-    twilio_account_sid: str
-    twilio_auth_token: str
-    twilio_whatsapp_from: str
-    whatsapp_to: str
 
 
 def load_settings() -> Settings:
@@ -88,7 +83,6 @@ def load_settings() -> Settings:
         max_search_results=_read_int("MAX_SEARCH_RESULTS", 20),
         max_watchlist_results=_read_int("MAX_WATCHLIST_RESULTS", 20),
         max_web_results=_read_int("MAX_WEB_RESULTS", 30),
-        verify_twilio_signature=_read_bool("VERIFY_TWILIO_SIGNATURE", False),
         topic_query=os.getenv(
             "TOPIC_QUERY",
             '(claude OR anthropic OR chatgpt OR openai OR codex OR "apple intelligence" '
@@ -103,10 +97,5 @@ def load_settings() -> Settings:
         x_bearer_token=os.getenv("X_BEARER_TOKEN", "").strip(),
         openai_api_key=os.getenv("OPENAI_API_KEY", "").strip(),
         openai_model=os.getenv("OPENAI_MODEL", "gpt-5.2").strip(),
-        twilio_account_sid=os.getenv("TWILIO_ACCOUNT_SID", "").strip(),
-        twilio_auth_token=os.getenv("TWILIO_AUTH_TOKEN", "").strip(),
-        twilio_whatsapp_from=os.getenv(
-            "TWILIO_WHATSAPP_FROM", "whatsapp:+14155238886"
-        ).strip(),
-        whatsapp_to=os.getenv("WHATSAPP_TO", "").strip(),
     )
+

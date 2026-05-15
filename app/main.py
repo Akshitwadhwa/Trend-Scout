@@ -4,10 +4,9 @@ from contextlib import asynccontextmanager
 
 from apscheduler.schedulers.background import BackgroundScheduler
 from dotenv import load_dotenv
-from fastapi import FastAPI, HTTPException, Request
-from fastapi.responses import JSONResponse, Response
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import JSONResponse
 from pydantic import BaseModel
-from twilio.twiml.messaging_response import MessagingResponse
 
 from app.ai_writer import TrendWriter
 from app.config import load_settings
@@ -37,7 +36,7 @@ class BriefRequest(BaseModel):
 
 
 class OptimizeRequest(BaseModel):
-    style: str = "sharp, practical, high CTR, high reply potential, no fake hype"
+    style: str = "sharp, practical, high CTR, no fake hype"
     limit: int = 10
 
 
@@ -227,13 +226,3 @@ async def fresh(request: OptimizeRequest | None = None) -> JSONResponse:
         raise HTTPException(status_code=500, detail=str(exc)) from exc
     return JSONResponse(result)
 
-
-@app.post("/whatsapp/webhook")
-async def whatsapp_webhook(request: Request) -> Response:
-    form = await request.form()
-    incoming_body = str(form.get("Body", ""))
-    reply_text = workflow.handle_text_command(incoming_body)
-
-    twiml = MessagingResponse()
-    twiml.message(reply_text)
-    return Response(content=str(twiml), media_type="application/xml")
