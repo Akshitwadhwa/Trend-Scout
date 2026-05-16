@@ -6,6 +6,7 @@ from typing import Any
 from openai import OpenAI
 
 from app.config import Settings
+from app.ctr_optimizer import AudienceMode, CTROptimizer, X_ALGORITHM_PRINCIPLES
 
 
 class TrendWriter:
@@ -100,6 +101,8 @@ class TrendWriter:
         if self.client is None:
             return self._fallback_ctr_pack(opportunities)
 
+        optimizer = CTROptimizer(min_viral_score=60)
+        opportunities = optimizer.rank_opportunities(opportunities, limit=12)
         response = self.client.responses.create(
             model=self.settings.openai_model,
             input=self._ctr_pack_prompt(opportunities, style),
@@ -225,6 +228,8 @@ class TrendWriter:
                     "why_now": opportunity["why_now"],
                     "post_angle": opportunity["post_angle"],
                     "confidence": opportunity["confidence"],
+                    "viral_score": opportunity.get("viral_score"),
+                    "score_breakdown": opportunity.get("score_breakdown", {}),
                     "sources": [
                         {
                             "title": source.get("title") or source.get("author_username"),
@@ -266,6 +271,8 @@ class TrendWriter:
                     "why_now": opportunity["why_now"],
                     "post_angle": opportunity["post_angle"],
                     "confidence": opportunity["confidence"],
+                    "viral_score": opportunity.get("viral_score"),
+                    "score_breakdown": opportunity.get("score_breakdown", {}),
                     "sources": [
                         {
                             "title": source.get("title") or source.get("author_username"),
@@ -276,16 +283,24 @@ class TrendWriter:
                 }
             )
         style_line = style.strip() or "sharp, practical, founder-like, high CTR"
+        algorithm_principles = "\n".join(f"- {principle}" for principle in X_ALGORITHM_PRINCIPLES)
         return (
             "Create a high-CTR and high-impression X optimization pack from these tech opportunities.\n"
-            "Goal: maximize scroll-stop, profile clicks, link curiosity, reposts, and saves without clickbait or fake claims.\n"
+            "Use this X algorithm model from the current developer-tooling cheat sheet: retrieve broad candidates -> rank -> filter -> serve. Phoenix/ranker-like scores reward likely replies, reposts, likes, profile clicks, follows, dwell time, saves/bookmarks, and creator-audience fit; selection filters can suppress spam, duplicates, unsafe posts, and low-quality bait.\n"
+            f"X algorithm principles to apply:\n{algorithm_principles}\n"
+            "First, respect the provided viral_score and score_breakdown, including engagement probability and profile follow potential. Prioritize high-scoring opportunities and ignore weak/generic ones unless they have a clear fresh angle.\n"
+            "Goal: maximize scroll-stop, quality replies, saves/bookmarks, profile clicks, follows, and reposts without clickbait or fake claims.\n"
+            "For each opportunity, generate and rank hook variants before choosing the final tweet.\n"
+            "Use these audience modes explicitly: india_founders, india_developers, india_students. Each opportunity should have distinct ready-to-post tweets for those audiences when relevant.\n"
+            "Apply a hard no-generic-slop filter: never use phrases like game-changer, revolutionary, AI is transforming, the future of, this could change everything, in today's fast-paced world, it remains to be seen, only time will tell, or unlocking new possibilities.\n"
             "For each opportunity, generate fully assembled, copy-paste-ready tweets. Do not make the user combine hooks and bodies manually.\n"
-            "Compare the best X formats for each topic: curiosity gap, money/value angle, contrarian take, comparison, prediction, question, mini-story, and practical takeaway.\n"
+            "Compare the best X formats for each topic: curiosity gap, money/value angle, contrarian take, comparison, prediction, question, mini-story, practical takeaway, save-worthy checklist, and reply-worthy debate.\n"
             "Pick one winner as best_ready_to_post, then provide 5 finished tweet options with format labels, scores, and why each works.\n"
             "Also create an India-specific section for each topic: an india_angle, india_relevance_score, and 3 longer India-focused tweets for Indian tech audiences.\n"
             "India-focused tweets should connect the topic to Indian buyers, students, creators, founders, developers, startups, pricing in rupees, UPI/fintech, Apple/Samsung buyers, wearables, health tech, jobs, or consumer behavior when relevant.\n"
             "Also generate 10 hooks, 3 single-post variants, 1 poll, 1 mini-thread, 1 visual-card idea, and scores.\n"
             "Hooks should be punchy, specific, and curiosity-driven. Avoid vague hooks like 'This is interesting'.\n"
+            "Prefer posts that give a reason to follow the account: repeated niche expertise, practical frameworks, Indian tech context, developer/founder judgment, or a useful saved reference.\n"
             "Every ready-to-post tweet and single post variant must be under 260 characters. India-focused tweets should be 220-275 characters. Poll options must be 2-4 short choices. Mini-threads must have exactly 3 posts.\n"
             "Scores are 1-100: ctr_score, impression_score, risk_score. Lower risk is better.\n"
             "Return valid JSON only with this exact shape:\n"
@@ -310,65 +325,20 @@ class TrendWriter:
         )
 
     def _fallback_ctr_pack(self, opportunities: list[dict[str, Any]]) -> dict[str, Any]:
-        items = []
-        for opportunity in opportunities[:8]:
-            category = opportunity.get("category", "General Tech")
-            hook = f"{category} is becoming a bigger story than people think"
-            ready_tweet = self._trim_post(f"{category}: {opportunity['post_angle']}")
-            items.append(
-                {
-                    "opportunity_id": opportunity["id"],
-                    "category": category,
-                    "title": opportunity["title"],
-                    "best_angle": opportunity["post_angle"],
-                    "best_hook": hook,
-                    "best_ready_to_post": ready_tweet,
-                    "format_comparison": [
-                        {
-                            "format": "practical takeaway",
-                            "score": 60,
-                            "tweet": ready_tweet,
-                            "why_it_works": "Clear, direct fallback format.",
-                        }
-                    ],
-                    "ready_to_post_tweets": [
-                        {
-                            "rank": 1,
-                            "format": "practical takeaway",
-                            "score": 60,
-                            "tweet": ready_tweet,
-                            "why_it_works": "Fallback tweet generated without OpenAI.",
-                        }
-                    ],
-                    "india_angle": f"Why {category} may matter for Indian tech buyers and builders.",
-                    "india_relevance_score": 50,
-                    "india_long_tweets": [
-                        {
-                            "rank": 1,
-                            "tweet": self._trim_post(
-                                f"India angle: {category} is worth watching because {opportunity['post_angle']} "
-                                "For Indian buyers, students, founders, and creators, the real question is whether this becomes useful, affordable, and easy to adopt.",
-                                limit=275,
-                            ),
-                            "why_it_works": "Fallback India-focused tweet generated without OpenAI.",
-                        }
-                    ],
-                    "hooks": [hook, opportunity["title"]],
-                    "post_variants": [ready_tweet],
-                    "poll": {"question": f"What matters most in {category}?", "options": ["Trust", "Speed", "Price", "UX"]},
-                    "mini_thread": [
-                        self._trim_post(opportunity["title"]),
-                        self._trim_post(opportunity["why_now"]),
-                        self._trim_post(opportunity["post_angle"]),
-                    ],
-                    "visual_card_idea": f"Bold card: {category} + one takeaway",
-                    "ctr_score": 60,
-                    "impression_score": 55,
-                    "risk_score": 25,
-                    "why_this_can_work": "Fallback CTR pack generated without OpenAI.",
-                }
-            )
-        return {"summary": "Fallback CTR pack.", "items": items}
+        optimizer = CTROptimizer(min_viral_score=60)
+        items = optimizer.build_ctr_items(
+            opportunities,
+            audience_modes=[
+                AudienceMode.INDIA_FOUNDERS,
+                AudienceMode.INDIA_DEVELOPERS,
+                AudienceMode.INDIA_STUDENTS,
+            ],
+            limit=8,
+        )
+        return {
+            "summary": "CTR-optimized fallback pack using viral scoring, ranked hooks, no-slop filtering, and India audience modes.",
+            "items": items,
+        }
 
     def _fallback_content_pack(self, opportunities: list[dict[str, Any]]) -> dict[str, Any]:
         posts = []

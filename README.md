@@ -14,20 +14,23 @@ This version does not auto-post and does not include any external messaging inte
 - Stores those opportunities in SQLite.
 - Lets you list opportunities and ask for a draft from a chosen one.
 - Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, copy-paste-ready tweet winners into `out/`, India-specific tech tweets into `out/`, and JSON artifacts into `json/`.
-- Saves each best X post as its own plain `.txt` message in `out/*-x-post-messages/`, so Hermes can send or show one copy-paste-ready post at a time.
+- Exposes each best X post as plain text for Hermes to send as separate WhatsApp messages. Local `.txt` files under `out/*-x-post-messages/` are fallback artifacts only, not WhatsApp attachments.
 - Uses OpenAI for topic judgment and drafting when `OPENAI_API_KEY` is set.
 - Falls back to simple engagement-based opportunities if OpenAI is not configured.
 
 ## Setup
 
 ```bash
-cd "/Users/Lenovo/Documents/New project/x-ai-whatsapp-bot"
+git clone https://github.com/Akshitwadhwa/x-ai-whatsapp-bot.git
+cd x-ai-whatsapp-bot
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+cp .env.example .env
 ```
 
-Fill these in your `.env`:
+Then edit `.env` for your local keys and preferred feeds. Keep real keys out of
+GitHub.
 
 ```env
 APP_NAME=X Trend Scout
@@ -51,7 +54,6 @@ WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed
 ## Run
 
 ```bash
-cd "/Users/Lenovo/Documents/New project/x-ai-whatsapp-bot"
 source .venv/bin/activate
 uvicorn app.main:app --reload --port 8000
 ```
@@ -62,7 +64,11 @@ Or use the Makefile:
 make install
 make dev
 make test
-make fresh
+make fresh      # normal latest high-CTR pack
+make top-ai     # only use curated top AI accounts as source signals
+make india      # latest India-aware tech posts
+make growth     # X-algorithm-aware growth pack
+make reply-scout # public web source posts plus copy-paste replies
 ```
 
 ## Use It
@@ -115,7 +121,7 @@ Markdown files are saved in `out/` for high-CTR packs and `outputs/` for regular
 
 For the fastest posting workflow, open the newest `out/*-copy-paste-tweets.md` file. It contains complete tweets that are already assembled from the best hook, angle, and format, so you can copy one directly into X.
 
-If you want each X post as its own standalone message, open the newest `out/*-x-post-messages/` folder. Each `.txt` file contains only one post with no headings, notes, or Markdown, so you can copy it directly into X.
+For WhatsApp delivery, Hermes should send each generated X post as its own plain-text message containing only the tweet text. Do not attach the local `out/*-x-post-messages.txt` file or the files inside `out/*-x-post-messages/`; those are fallback artifacts only.
 
 For India-focused posts, open the newest `out/*-india-tech-tweets.md` file. It contains longer tweets that translate global tech topics into Indian buyer, startup, creator, developer, pricing, and consumer angles.
 
@@ -160,7 +166,59 @@ curl -X POST http://127.0.0.1:8000/topic \
 
 If you pass plain keywords to `/topic`, the bot adds `lang:en -is:retweet` automatically.
 
-Track specific AI accounts by editing `X_WATCH_HANDLES` in `.env`. This uses X recent search with `from:<handle>` queries, so it requires an X API tier that supports recent search.
+Track specific AI accounts by editing `X_WATCH_HANDLES` in `.env`. The default curated list is:
+
+```text
+karpathy, sama, AndrewYNg, fchollet, ylecun, demishassabis, OpenAI, AnthropicAI, GoogleDeepMind, perplexity_ai, lmarena_ai, huggingface, emollick, simonw, goodside, lilianweng, _akhaliq, dair_ai, rasbt, jeremyphoward, ID_AA_Carmack, hardmaru, bindureddy
+```
+
+To generate only from these top AI account signals:
+
+```bash
+make top-ai
+# or
+python scripts/fresh.py top-ai --limit 5
+```
+
+You can override the account list for a one-off run:
+
+```bash
+python scripts/fresh.py top-ai --handles karpathy,sama,AndrewYNg --limit 5
+```
+
+For latest India-aware posts:
+
+```bash
+make india
+# or
+python scripts/fresh.py india --limit 5
+```
+
+For an X-algorithm-aware growth pack:
+
+```bash
+make growth
+# or
+python scripts/fresh.py growth --limit 5
+```
+
+For public web source posts plus copy-paste reply ideas:
+
+```bash
+make reply-scout
+# or
+python scripts/fresh.py reply-scout --handles sama,OpenAI,AnthropicAI --limit 5
+```
+
+Top-AI mode uses X recent search with `from:<handle>` queries, so it requires an X API tier that supports recent search. If X API search is unavailable, use the normal `make fresh` / `make india` / `make growth` web-feed workflows instead. Reply-scout mode uses public web/RSS mirrors and does not require X API keys.
+
+## GitHub Hygiene
+
+- `.env`, local databases, caches, and generated output files are ignored.
+- Keep only placeholders in `.env.example`.
+- Run `pytest` before opening a pull request.
+- CI runs the test suite on pushes and pull requests to `main`.
+- No license has been selected yet; add one before expecting public reuse.
 
 ## Connect Your X Account Through xurl
 

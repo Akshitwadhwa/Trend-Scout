@@ -1,4 +1,4 @@
-.PHONY: install dev test compile fresh manual
+.PHONY: install dev test compile fresh top-ai india growth reply-scout manual
 
 install:
 	python3 -m venv .venv
@@ -15,6 +15,18 @@ compile:
 
 fresh:
 	. .venv/bin/activate && python scripts/fresh.py
+
+top-ai:
+	. .venv/bin/activate && python scripts/fresh.py top-ai
+
+india:
+	. .venv/bin/activate && python scripts/fresh.py india
+
+growth:
+	. .venv/bin/activate && python scripts/fresh.py growth
+
+reply-scout:
+	. .venv/bin/activate && python scripts/fresh.py reply-scout
 
 manual:
 	. .venv/bin/activate && python scripts/manual_signal.py

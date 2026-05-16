@@ -115,12 +115,31 @@ class OutputWriter:
             "ready_tweets": str(ready_path),
             "x_post_messages": str(x_post_messages_path),
             "x_post_message_files": x_post_message_files,
+            "x_post_message_texts": self._x_post_messages(ctr_pack),
             "india_tweets": str(india_path),
             "hooks": str(hooks_path),
             "polls": str(polls_path),
             "threads": str(threads_path),
             "visuals": str(visual_path),
             "category_files": category_files,
+            "json": str(json_path),
+        }
+
+    def save_reply_scout_pack(self, *, reply_pack: dict[str, Any]) -> dict[str, str]:
+        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+        markdown_path = self.high_ctr_dir / f"{timestamp}-reply-scout.md"
+        replies_path = self.high_ctr_dir / f"{timestamp}-copy-paste-replies.txt"
+        json_path = self.json_dir / f"{timestamp}-reply-scout.json"
+
+        markdown_path.write_text(self._reply_scout_markdown(reply_pack), encoding="utf-8")
+        replies_path.write_text(self._reply_scout_replies_text(reply_pack), encoding="utf-8")
+        json_path.write_text(
+            json.dumps({"generated_at": timestamp, "reply_pack": reply_pack}, ensure_ascii=True, indent=2),
+            encoding="utf-8",
+        )
+        return {
+            "markdown": str(markdown_path),
+            "copy_paste_replies": str(replies_path),
             "json": str(json_path),
         }
 
@@ -161,6 +180,69 @@ class OutputWriter:
             if tweet:
                 messages.append(tweet)
         return messages
+
+    def _reply_scout_markdown(self, reply_pack: dict[str, Any]) -> str:
+        lines = [
+            "# Reply Scout Pack",
+            "",
+            reply_pack.get("summary", ""),
+            "",
+            "Use X's repost button for exact reposts. Use the generated replies/quotes only when you want to add your own view.",
+            "",
+        ]
+        for item in reply_pack.get("items", []):
+            source = item.get("source_tweet", {})
+            lines.extend(
+                [
+                    f"## {item.get('rank', '?')}. @{source.get('author_username', 'unknown')} — engagement {item.get('engagement_score', 0)}",
+                    "",
+                    "Original tweet as-is:",
+                    "",
+                    "```text",
+                    str(source.get("text", "")),
+                    "```",
+                    "",
+                    f"URL: {source.get('url', '')}",
+                    f"Created: {source.get('created_at', '')}",
+                    f"Metrics: {source.get('public_metrics', {})}",
+                    "",
+                    "Copy-paste replies:",
+                    "",
+                ]
+            )
+            for reply in item.get("reply_options", []):
+                lines.extend(
+                    [
+                        f"### Reply {reply.get('rank', '?')}: {reply.get('format', 'reply')}",
+                        "",
+                        "```text",
+                        str(reply.get("text", "")),
+                        "```",
+                        "",
+                    ]
+                )
+            lines.extend(["Quote-post options:", ""])
+            for quote in item.get("quote_post_options", []):
+                lines.extend(
+                    [
+                        f"### Quote {quote.get('rank', '?')}: {quote.get('format', 'quote')}",
+                        "",
+                        "```text",
+                        str(quote.get("text", "")),
+                        "```",
+                        "",
+                    ]
+                )
+        return "\n".join(lines)
+
+    def _reply_scout_replies_text(self, reply_pack: dict[str, Any]) -> str:
+        replies = []
+        for item in reply_pack.get("items", []):
+            for reply in item.get("reply_options", [])[:1]:
+                text = str(reply.get("text", "")).strip()
+                if text:
+                    replies.append(text)
+        return "\n\n---\n\n".join(replies) + ("\n" if replies else "")
 
     def _markdown(self, drafted: dict[str, Any]) -> str:
         sources = drafted.get("sources", [])

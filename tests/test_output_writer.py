@@ -68,6 +68,9 @@ def test_save_ctr_pack_splits_markdown_and_json(tmp_path):
     assert result["x_post_messages"].endswith("-x-post-messages.txt")
     assert len(result["x_post_message_files"]) == 1
     assert result["x_post_message_files"][0].endswith("01-apple-watch-health.txt")
+    assert result["x_post_message_texts"] == [
+        "Apple Watch is becoming less of a gadget and more of a trust layer for health."
+    ]
     assert result["india_tweets"].endswith(".md")
     assert result["json"].endswith(".json")
     assert Path(result["markdown"]).parent.name == "out"

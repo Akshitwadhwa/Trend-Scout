@@ -64,9 +64,6 @@ def main() -> None:
     print("Manual signal pack created")
     print(f"Opportunities: {result['opportunity_count']}")
     print(result["output_files"]["ready_tweets"])
-    print(result["output_files"]["x_post_messages"])
-    for path in result["output_files"].get("x_post_message_files", []):
-        print(path)
     print(result["output_files"]["india_tweets"])
 
 

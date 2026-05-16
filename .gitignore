@@ -1,12 +1,39 @@
+# Environment and secrets
 .env
+.env.*
+!.env.example
+.envrc
+
+# Python
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Local app state
 data/*.db
+data/*.db-*
+data/*.sqlite
+data/*.sqlite-*
+tmp*.txt
+tmp/
+
+# Generated outputs
 out/*
 outputs/*
 json/*
 !out/.gitkeep
 !outputs/.gitkeep
 !json/.gitkeep
+
+# OS/editor
 .DS_Store
+.idea/
+.vscode/

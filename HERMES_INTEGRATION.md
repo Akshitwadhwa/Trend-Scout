@@ -8,7 +8,7 @@ This project should keep doing:
 - Scan your authenticated X home timeline through `xurl` when enabled.
 - Turn pasted posts or articles into post ideas.
 - Generate copy-paste tweets.
-- Generate one-message-per-X-post `.txt` files.
+- Keep one-message-per-X-post text internally for Hermes delivery.
 - Generate India-specific tech tweets.
 - Save Markdown and JSON outputs.
 
@@ -45,7 +45,7 @@ hermes doctor
 Project folder:
 
 ```bash
-cd "/Users/Lenovo/Documents/New project/x-ai-whatsapp-bot"
+cd /path/to/x-ai-whatsapp-bot
 ```
 
 Generate fresh web/RSS-based tweets:
@@ -69,11 +69,7 @@ Read the latest copy-paste tweet file:
 ls -t out/*-copy-paste-tweets.md | head -1
 ```
 
-Read the latest standalone X-post message files:
-
-```bash
-ls -td out/*-x-post-messages | head -1
-```
+Do not send `out/*-x-post-messages.txt` or files inside `out/*-x-post-messages/` to WhatsApp. Those files are only local fallback artifacts.
 
 Read the latest India-specific tweet file:
 
@@ -89,17 +85,17 @@ Paste this into Hermes as a durable instruction or skill:
 You are my X Trend Scout operator.
 
 When I ask for fresh posts:
-1. cd into "/Users/Lenovo/Documents/New project/x-ai-whatsapp-bot"
+1. cd into the local `x-ai-whatsapp-bot` clone
 2. run "make fresh"
-3. find the newest out/*-x-post-messages folder
-4. return each `.txt` file as its own separate message containing only the post text, with no heading, numbering, notes, or Markdown
-5. after the individual post messages, send one short final message with the generated file paths
+3. read each generated X post text internally from `output_files["x_post_message_texts"]` when running in Python, or from the newest local fallback `out/*-x-post-messages.txt` if needed
+4. send each post to WhatsApp as its own separate plain-text message containing only the tweet text, with no heading, numbering, notes, Markdown, or file attachment
+5. do not attach `.txt` files to WhatsApp
 
 When I paste a tweet, article, or idea:
-1. cd into "/Users/Lenovo/Documents/New project/x-ai-whatsapp-bot"
+1. cd into the local `x-ai-whatsapp-bot` clone
 2. run scripts/manual_signal.py with the pasted text
-3. return each generated X post as its own separate message containing only the post text, with no heading, numbering, notes, or Markdown
-4. after the individual post messages, send one short final message with the generated file paths
+3. send each generated X post as its own separate WhatsApp plain-text message containing only the post text, with no heading, numbering, notes, Markdown, or file attachment
+4. do not attach `.txt` files to WhatsApp
 
 Style preference:
 - sharp

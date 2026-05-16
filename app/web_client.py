@@ -1,8 +1,10 @@
 from __future__ import annotations
 
 import email.utils
+import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
+from html import unescape
 from typing import Any
 
 import requests
@@ -33,6 +35,134 @@ class WebFeedClient:
 
         items.sort(key=lambda item: item["created_at"], reverse=True)
         return items[: self.settings.max_web_results]
+
+    def fetch_reply_scout_items(
+        self,
+        handles: list[str],
+        *,
+        max_results_per_handle: int = 10,
+    ) -> list[dict[str, Any]]:
+        """Fetch public account posts through web/RSS mirrors, not X API.
+
+        This intentionally does not call xurl, Twitter/X API search, or any OAuth
+        path. It uses public web RSS mirrors where available and converts the
+        returned entries into the same source-item shape used by ReplyScout.
+        """
+
+        self.last_errors = []
+        scraped: list[dict[str, Any]] = []
+        for handle in handles:
+            clean_handle = handle.strip().lstrip("@")
+            if not clean_handle:
+                continue
+
+            handle_items: list[dict[str, Any]] = []
+            handle_errors: list[str] = []
+            for url in self._reply_scout_feed_urls(clean_handle):
+                try:
+                    feed_items = self._fetch_feed(url)
+                except (requests.RequestException, ET.ParseError, ValueError) as exc:
+                    handle_errors.append(f"{url}: {exc}")
+                    continue
+
+                handle_items = [
+                    self._reply_scout_item(item, clean_handle)
+                    for item in feed_items
+                    if item.get("text") and item.get("url")
+                ][:max_results_per_handle]
+                if handle_items:
+                    break
+
+            if not handle_items:
+                try:
+                    handle_items = self._fetch_reply_scout_profile(clean_handle)[:max_results_per_handle]
+                except requests.RequestException as exc:
+                    handle_errors.append(f"profile scrape: {exc}")
+
+            if handle_items:
+                scraped.extend(handle_items)
+            elif handle_errors:
+                self.last_errors.append(f"@{clean_handle}: " + " | ".join(handle_errors[:2]))
+
+        scraped.sort(key=lambda item: (item.get("score", 0), item.get("created_at", "")), reverse=True)
+        return scraped[: self.settings.max_web_results]
+
+    def _reply_scout_feed_urls(self, handle: str) -> list[str]:
+        return [
+            f"https://nitter.net/{handle}/rss",
+            f"https://xcancel.com/{handle}/rss",
+            f"https://twiiit.com/{handle}/rss",
+            f"https://rsshub.app/twitter/user/{handle}",
+        ]
+
+    def _fetch_reply_scout_profile(self, handle: str) -> list[dict[str, Any]]:
+        url = f"https://r.jina.ai/http://https://x.com/{handle}"
+        response = requests.get(url, timeout=20)
+        response.raise_for_status()
+        posts = self._parse_jina_profile_posts(response.text)
+        now = datetime.now(timezone.utc).isoformat()
+        return [
+            {
+                "id": f"https://x.com/{handle}#{index}",
+                "source_type": "web_reply_scout",
+                "title": post,
+                "text": post,
+                "created_at": now,
+                "author_name": f"@{handle}",
+                "author_username": handle,
+                "public_metrics": {"like_count": 0, "retweet_count": 0, "reply_count": 0, "quote_count": 0},
+                "score": 1_000_000 - index,
+                "url": f"https://x.com/{handle}",
+            }
+            for index, post in enumerate(posts, start=1)
+        ]
+
+    def _parse_jina_profile_posts(self, markdown: str) -> list[str]:
+        marker = re.search(r"^## .*posts\s*$", markdown, flags=re.MULTILINE | re.IGNORECASE)
+        if not marker:
+            return []
+        body = markdown[marker.end() :]
+        body = re.split(r"^## ", body, maxsplit=1, flags=re.MULTILINE)[0]
+        chunks = [chunk.strip() for chunk in re.split(r"\n\s*\n", body) if chunk.strip()]
+        posts: list[str] = []
+        skip_exact = {"quote", "readers added context", "show more", "repost", "like"}
+        for chunk in chunks:
+            plain = self._clean_feed_text(re.sub(r"!?\[[^\]]*\]\([^)]*\)", "", chunk))
+            if not plain or plain.lower() in skip_exact:
+                continue
+            if plain.startswith("@") or len(plain) < 12:
+                continue
+            posts.append(plain)
+            if len(posts) >= 20:
+                break
+        return posts
+
+    def _reply_scout_item(self, item: dict[str, Any], handle: str) -> dict[str, Any]:
+        text = self._clean_feed_text(str(item.get("text", "")))
+        created_at = str(item.get("created_at", ""))
+        return {
+            "id": str(item.get("id") or item.get("url") or f"{handle}:{created_at}"),
+            "source_type": "web_reply_scout",
+            "title": str(item.get("title", "")),
+            "text": text,
+            "created_at": created_at,
+            "author_name": f"@{handle}",
+            "author_username": handle,
+            "public_metrics": {"like_count": 0, "retweet_count": 0, "reply_count": 0, "quote_count": 0},
+            "score": self._recency_score(created_at),
+            "url": str(item.get("url", "")),
+        }
+
+    def _clean_feed_text(self, value: str) -> str:
+        return " ".join(unescape(value).split())
+
+    def _recency_score(self, created_at: str) -> float:
+        try:
+            parsed = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
+        except ValueError:
+            return 0.0
+        age_seconds = max((datetime.now(timezone.utc) - parsed).total_seconds(), 0)
+        return max(0.0, 1_000_000.0 - age_seconds)
 
     def _fetch_feed(self, url: str) -> list[dict[str, Any]]:
         response = requests.get(url, timeout=20)

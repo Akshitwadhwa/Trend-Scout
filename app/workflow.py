@@ -9,6 +9,7 @@ from app.ai_writer import TrendWriter
 from app.config import Settings
 from app.db import Database
 from app.output_writer import OutputWriter
+from app.reply_scout import ReplyScout
 from app.web_client import WebFeedClient
 from app.x_client import XClient
 
@@ -162,6 +163,24 @@ class Workflow:
             "opportunities": cleared_opportunities,
         }
         return result
+
+    def reply_scout(self, *, handles: list[str], limit: int = 10) -> dict[str, Any]:
+        self._last_x_errors = []
+        source_tweets = self.web_client.fetch_reply_scout_items(
+            handles,
+            max_results_per_handle=max(limit, 3),
+        )
+
+        reply_pack = ReplyScout().build_pack(source_tweets, limit=limit)
+        output_files = self.output_writer.save_reply_scout_pack(reply_pack=reply_pack)
+        return {
+            "status": "ok" if source_tweets else "no_sources",
+            "handles": handles,
+            "source_count": len(source_tweets),
+            "web_scrape_errors": self.web_client.last_errors[:5],
+            "output_files": output_files,
+            "reply_pack": reply_pack,
+        }
 
     def optimize_manual_source(
         self,
