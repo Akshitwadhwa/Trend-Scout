@@ -46,7 +46,7 @@ ENABLE_X_TIMELINE=false
 ENABLE_WEB_SCAN=true
 MAX_WATCHLIST_RESULTS=20
 MAX_TIMELINE_RESULTS=30
-X_WATCH_HANDLES=karpathy,fchollet,ylecun,AndrewYNg,rasbt,dair_ai,lilianweng,jeremyphoward,simonw,_akhaliq,ID_AA_Carmack,gwern,goodside,drfeifei,demishassabis
+X_WATCH_HANDLES=karpathy,fchollet,ylecun,AndrewYNg,rasbt,dair_ai,lilianweng,jeremyphoward,simonw,_akhaliq,ID_AA_Carmack,gwern,goodside,drfeifei,demishassabis,OpenAI,thsottiaux
 WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,startups,developer tools,ai,openai,claude,codex,layoffs,layoff,hiring,jobs,job market,tech jobs,ai jobs,recession,career
 WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed/,https://news.ycombinator.com/rss,https://www.engadget.com/rss.xml,https://www.wired.com/feed/rss,https://9to5mac.com/feed/,https://www.macrumors.com/macrumors.xml,https://www.sammobile.com/feed/,https://www.androidcentral.com/rss,https://www.wareable.com/feed
 ```
@@ -169,7 +169,7 @@ If you pass plain keywords to `/topic`, the bot adds `lang:en -is:retweet` autom
 Track specific AI accounts by editing `X_WATCH_HANDLES` in `.env`. The default curated list is:
 
 ```text
-karpathy, sama, AndrewYNg, fchollet, ylecun, demishassabis, OpenAI, AnthropicAI, GoogleDeepMind, perplexity_ai, lmarena_ai, huggingface, emollick, simonw, goodside, lilianweng, _akhaliq, dair_ai, rasbt, jeremyphoward, ID_AA_Carmack, hardmaru, bindureddy
+karpathy, sama, AndrewYNg, fchollet, ylecun, demishassabis, OpenAI, thsottiaux, AnthropicAI, GoogleDeepMind, perplexity_ai, lmarena_ai, huggingface, emollick, simonw, goodside, lilianweng, _akhaliq, dair_ai, rasbt, jeremyphoward, ID_AA_Carmack, hardmaru, bindureddy
 ```
 
 To generate only from these top AI account signals:

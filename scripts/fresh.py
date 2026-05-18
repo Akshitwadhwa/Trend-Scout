@@ -28,6 +28,7 @@ TOP_AI_ACCOUNT_HANDLES = [
     "ylecun",
     "demishassabis",
     "OpenAI",
+    "thsottiaux",
     "AnthropicAI",
     "GoogleDeepMind",
     "perplexity_ai",
@@ -59,7 +60,8 @@ DEFAULT_STYLES = {
     ),
     "growth": (
         "sharp, practical, high CTR, high impressions, follower growth, X algorithm aware, "
-        "optimize for quality replies, saves/bookmarks, profile clicks, follows, Indian developers/founders/students, no fake hype"
+        "optimize for quality replies, saves/bookmarks, profile clicks, follows, Indian developers/founders/students, "
+        "use OpenAI Codex/devtools update signals including thsottiaux when relevant, no fake hype"
     ),
     "reply-scout": (
         "scrape high-signal public web account feeds and produce exact source posts plus copy-paste replies/quotes; "

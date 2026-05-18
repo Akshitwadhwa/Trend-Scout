@@ -9,6 +9,7 @@ DEFAULT_REPLY_SCOUT_HANDLES = [
     "elonmusk",
     "nvidia",
     "OpenAI",
+    "thsottiaux",
     "GoogleDeepMind",
     "karpathy",
     "gdb",

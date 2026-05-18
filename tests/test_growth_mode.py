@@ -53,3 +53,4 @@ def test_growth_mode_uses_web_scan_not_x_api():
     assert settings.enable_x_watchlist is False
     assert settings.enable_x_timeline is False
     assert "developers" in settings.topic_query
+    assert "thsottiaux" in DEFAULT_STYLES["growth"]

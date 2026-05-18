@@ -30,6 +30,7 @@ def test_default_reply_scout_handles_include_user_requested_accounts():
     assert "elonmusk" in handles
     assert "nvidia" in handles
     assert "openai" in handles
+    assert "thsottiaux" in handles
 
 
 def test_reply_scout_preserves_source_tweet_exactly_and_url():
