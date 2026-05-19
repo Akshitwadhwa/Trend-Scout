@@ -20,17 +20,6 @@ This version does not auto-post and does not include any external messaging inte
 
 ## Setup
 
-```bash
-git clone https://github.com/Akshitwadhwa/x-ai-whatsapp-bot.git
-cd x-ai-whatsapp-bot
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env
-```
-
-Then edit `.env` for your local keys and preferred feeds. Keep real keys out of
-GitHub.
 
 ```env
 APP_NAME=X Trend Scout
@@ -50,15 +39,6 @@ X_WATCH_HANDLES=karpathy,fchollet,ylecun,AndrewYNg,rasbt,dair_ai,lilianweng,jere
 WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,startups,developer tools,ai,openai,claude,codex,layoffs,layoff,hiring,jobs,job market,tech jobs,ai jobs,recession,career
 WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed/,https://news.ycombinator.com/rss,https://www.engadget.com/rss.xml,https://www.wired.com/feed/rss,https://9to5mac.com/feed/,https://www.macrumors.com/macrumors.xml,https://www.sammobile.com/feed/,https://www.androidcentral.com/rss,https://www.wareable.com/feed
 ```
-
-## Run
-
-```bash
-source .venv/bin/activate
-uvicorn app.main:app --reload --port 8000
-```
-
-Or use the Makefile:
 
 ```bash
 make install
@@ -81,25 +61,13 @@ curl -X POST http://127.0.0.1:8000/scan
 
 List saved opportunities:
 
-```bash
-curl http://127.0.0.1:8000/opportunities
-```
-
 Generate a draft from an opportunity:
-
-```bash
-curl -X POST http://127.0.0.1:8000/opportunities/1/draft \
-  -H "Content-Type: application/json" \
-  -d '{"style":"sharp, founder-like, practical"}'
+{"style":"sharp, founder-like, practical"}'
 ```
 
 Draft recent opportunities and save all outputs:
 
-```bash
-curl -X POST http://127.0.0.1:8000/drafts \
-  -H "Content-Type: application/json" \
-  -d '{"style":"sharp, practical, founder-like","limit":5}'
-```
+
 
 Build a full daily content pack:
 
