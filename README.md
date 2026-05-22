@@ -137,7 +137,7 @@ If you pass plain keywords to `/topic`, the bot adds `lang:en -is:retweet` autom
 Track specific AI accounts by editing `X_WATCH_HANDLES` in `.env`. The default curated list is:
 
 ```text
-karpathy, sama, AndrewYNg, fchollet, ylecun, demishassabis, OpenAI, thsottiaux, AnthropicAI, GoogleDeepMind, perplexity_ai, lmarena_ai, huggingface, emollick, simonw, goodside, lilianweng, _akhaliq, dair_ai, rasbt, jeremyphoward, ID_AA_Carmack, hardmaru, bindureddy
+karpathy, sama, AndrewYNg, fchollet, ylecun, demishassabis, OpenAI, thsottiaux, AnthropicAI, GoogleDeepMind, perplexity_ai, lmarena_ai, huggingface, emollick, simonw, goodside, lilianweng, _akhaliq, dair_ai, rasbt, jeremyphoward, ID_AA_Carmack, hardmaru, bindureddy, IndianTechGuide
 ```
 
 To generate only from these top AI account signals:

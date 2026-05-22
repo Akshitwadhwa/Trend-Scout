@@ -18,6 +18,7 @@ DEFAULT_REPLY_SCOUT_HANDLES = [
     "lmarena_ai",
     "huggingface",
     "emollick",
+    "IndianTechGuide",
 ]
 
 SLOP_PHRASES = [
