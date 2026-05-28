@@ -117,16 +117,6 @@ Layoff posts can get attention, but they can easily become low-quality fear cont
 - Prefer practical angles: skills, portfolios, open source, public proof of work, hiring signals, AI leverage, and market cycles.
 - For students, frame layoffs as a signal to become more visible and useful, not as a reason to panic.
 
-## Current Recommended Setup
-
-Use no X API keys by default:
-
-```env
-ENABLE_X_SCAN=false
-ENABLE_X_WATCHLIST=false
-ENABLE_X_TIMELINE=false
-ENABLE_WEB_SCAN=true
-```
 
 To integrate your own X home timeline without putting X OAuth secrets into this repo, authenticate `xurl` manually in a terminal:
 
