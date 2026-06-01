@@ -47,6 +47,42 @@ TOP_AI_ACCOUNT_HANDLES = [
     "bindureddy",
 ]
 
+NVIDIA_FEEDS = [
+    "https://news.google.com/rss/search?q=NVIDIA%20GTC%20Taipei%202026%20OR%20Computex%202026%20Jensen%20Huang%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=NVIDIA%20RTX%20Spark%20AI%20PCs%20Windows%20laptops%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=NVIDIA%20Vera%20CPU%20agents%20Vera%20Rubin%20AI%20factory%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=NVIDIA%20Rubin%20Blackwell%20NVL72%20NVLink%20Spectrum%20AI%20infrastructure%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=NVIDIA%20Microsoft%20AI%20PC%20N1X%20Arm%20CPU%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=NVIDIA%20AI%20chips%20data%20center%20inference%20GPU%20CUDA%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://nvidianews.nvidia.com/news.xml",
+    "https://blogs.nvidia.com/feed/",
+]
+
+NVIDIA_KEYWORDS = [
+    "nvidia",
+    "jensen huang",
+    "gtc taipei",
+    "computex",
+    "rtx spark",
+    "ai pc",
+    "n1x",
+    "vera",
+    "rubin",
+    "vera rubin",
+    "blackwell",
+    "nvlink",
+    "spectrum",
+    "dgx",
+    "cuda",
+    "gpu",
+    "ai chips",
+    "ai factory",
+    "data center",
+    "inference",
+    "superchip",
+    "windows laptops",
+]
+
 
 DEFAULT_STYLES = {
     "fresh": "sharp, practical, high CTR, no fake hype",
@@ -63,6 +99,10 @@ DEFAULT_STYLES = {
         "optimize for quality replies, saves/bookmarks, profile clicks, follows, Indian developers/founders/students, "
         "use OpenAI Codex/devtools update signals including thsottiaux when relevant, no fake hype"
     ),
+    "nvidia": (
+        "sharp, practical, high CTR, NVIDIA event aware, explain why it matters for AI PCs, chips, "
+        "AI factories, cloud costs, Indian developers/founders/students, infrastructure, no fake hype"
+    ),
     "reply-scout": (
         "scrape high-signal public web account feeds and produce exact source posts plus copy-paste replies/quotes; "
         "manual repost/reply workflow, no auto-posting"
@@ -77,9 +117,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "mode",
         nargs="?",
-        choices=["fresh", "top-ai", "india", "growth", "reply-scout"],
+        choices=["fresh", "top-ai", "india", "growth", "nvidia", "reply-scout"],
         default="fresh",
-        help="fresh=normal scan, top-ai=signals from top AI accounts, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, reply-scout=high-signal source tweets plus copy-paste replies",
+        help="fresh=normal scan, top-ai=signals from top AI accounts, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, nvidia=NVIDIA event/chips/AI factory scan, reply-scout=high-signal source tweets plus copy-paste replies",
     )
     parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--style", default="")
@@ -148,6 +188,21 @@ def settings_for_mode(settings, args: argparse.Namespace):
             enable_x_timeline=False,
             enable_web_scan=True,
         )
+    if args.mode == "nvidia":
+        return replace(
+            settings,
+            topic_query=(
+                'NVIDIA Jensen Huang GTC Taipei Computex RTX Spark AI PCs Vera CPU '
+                'Vera Rubin Blackwell NVLink Spectrum DGX CUDA GPU AI chips AI factory inference'
+            ),
+            enable_x_scan=False,
+            enable_x_watchlist=False,
+            enable_x_timeline=False,
+            enable_web_scan=True,
+            max_web_results=max(80, settings.max_web_results),
+            web_feed_urls=NVIDIA_FEEDS,
+            web_keywords=NVIDIA_KEYWORDS,
+        )
     return settings
 
 
@@ -193,6 +248,7 @@ def main() -> None:
         "top-ai": "Top AI account high-CTR pack created",
         "india": "Latest India-aware high-CTR pack created",
         "growth": "X-algorithm-aware growth pack created",
+        "nvidia": "NVIDIA event high-CTR pack created",
     }[args.mode]
     print(label)
     print(f"Sources found: {source_count}")

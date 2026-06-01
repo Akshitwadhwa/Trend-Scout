@@ -10,7 +10,7 @@ This version does not auto-post and does not include any external messaging inte
 - Can scan your authenticated X home timeline through `xurl` after you connect your X account locally.
 - Tracks a curated X account watchlist so AI narrative accounts can seed new post ideas.
 - Searches web/RSS feeds from the sources you configure.
-- Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, chips, startups, developer tools, AI, layoffs, hiring, and careers.
+- Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, NVIDIA, chips, AI infrastructure, startups, developer tools, AI, layoffs, hiring, and careers.
 - Stores those opportunities in SQLite.
 - Lets you list opportunities and ask for a draft from a chosen one.
 - Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, copy-paste-ready tweet winners into `out/`, India-specific tech tweets into `out/`, and JSON artifacts into `json/`.
@@ -28,7 +28,7 @@ OPENAI_API_KEY=your_openai_key_optional_but_recommended
 OUTPUT_DIR=./outputs
 HIGH_CTR_DIR=./out
 JSON_DIR=./json
-TOPIC_QUERY=(apple OR iphone OR "apple watch" OR watchos OR samsung OR galaxy OR "galaxy watch" OR whoop OR wearables OR smartwatch OR "smart watch" OR "health tech" OR fitness OR sleep OR recovery OR "oura ring" OR "consumer tech" OR gadgets OR chips OR nvidia OR startups OR "dev tools" OR openai OR claude OR codex OR layoffs OR layoff OR hiring OR jobs OR "job market" OR "tech jobs" OR "ai jobs") lang:en -is:retweet
+TOPIC_QUERY=(apple OR iphone OR "apple watch" OR watchos OR samsung OR galaxy OR "galaxy watch" OR whoop OR wearables OR smartwatch OR "smart watch" OR "health tech" OR fitness OR sleep OR recovery OR "oura ring" OR "consumer tech" OR gadgets OR chips OR nvidia OR "jensen huang" OR "gtc taipei" OR computex OR "rtx spark" OR "vera rubin" OR blackwell OR nvlink OR cuda OR "ai factory" OR startups OR "dev tools" OR openai OR claude OR codex OR layoffs OR layoff OR hiring OR jobs OR "job market" OR "tech jobs" OR "ai jobs") lang:en -is:retweet
 ENABLE_X_SCAN=false
 ENABLE_X_WATCHLIST=false
 ENABLE_X_TIMELINE=false
@@ -36,7 +36,7 @@ ENABLE_WEB_SCAN=true
 MAX_WATCHLIST_RESULTS=20
 MAX_TIMELINE_RESULTS=30
 X_WATCH_HANDLES=karpathy,fchollet,ylecun,AndrewYNg,rasbt,dair_ai,lilianweng,jeremyphoward,simonw,_akhaliq,ID_AA_Carmack,gwern,goodside,drfeifei,demishassabis,OpenAI,thsottiaux
-WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,startups,developer tools,ai,openai,claude,codex,layoffs,layoff,hiring,jobs,job market,tech jobs,ai jobs,recession,career
+WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,jensen huang,gtc taipei,computex,rtx spark,ai pc,n1x,vera,rubin,vera rubin,blackwell,nvlink,spectrum,dgx,cuda,gpu,ai chips,ai factory,data center,inference,superchip,startups,developer tools,ai,openai,claude,codex,layoffs,layoff,hiring,jobs,job market,tech jobs,ai jobs,recession,career
 WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed/,https://news.ycombinator.com/rss,https://www.engadget.com/rss.xml,https://www.wired.com/feed/rss,https://9to5mac.com/feed/,https://www.macrumors.com/macrumors.xml,https://www.sammobile.com/feed/,https://www.androidcentral.com/rss,https://www.wareable.com/feed
 ```
 
@@ -48,6 +48,7 @@ make fresh      # normal latest high-CTR pack
 make top-ai     # only use curated top AI accounts as source signals
 make india      # latest India-aware tech posts
 make growth     # X-algorithm-aware growth pack
+make nvidia     # NVIDIA event/chips/AI factory pack
 make reply-scout # public web source posts plus copy-paste replies
 ```
 
@@ -168,6 +169,14 @@ For an X-algorithm-aware growth pack:
 make growth
 # or
 python scripts/fresh.py growth --limit 5
+```
+
+For NVIDIA event, AI chips, AI PC, and AI factory posts:
+
+```bash
+make nvidia
+# or
+python scripts/fresh.py nvidia --limit 8
 ```
 
 For public web source posts plus copy-paste reply ideas:

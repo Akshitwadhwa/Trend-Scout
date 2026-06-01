@@ -172,9 +172,10 @@ class TrendWriter:
             "If source=x_watchlist, treat it as a signal from a tracked AI account. Look for narratives, debates, research shifts, model releases, benchmark drama, agent/tooling ideas, and opinions that can become original posts.\n"
             "If source=manual, treat it as a user-provided signal from a tweet, post, article, or observation. Extract multiple possible angles from it and make them publishable.\n"
             "Do not simply summarize the tracked account. Turn the signal into a fresh angle the user can post, with attribution only when it genuinely helps credibility.\n"
-            "Prefer concrete product shifts, launches, device rumors, platform moves, health/wearable changes, startup moves, chips, developer tools, job-market shifts, layoffs, hiring changes, and visible debates.\n"
+            "Prefer concrete product shifts, launches, device rumors, platform moves, health/wearable changes, startup moves, chips, NVIDIA AI infrastructure, developer tools, job-market shifts, layoffs, hiring changes, and visible debates.\n"
+            "For NVIDIA topics, look for specific angles around GTC/Computex, Jensen Huang, AI factories, RTX Spark/AI PCs, Vera, Rubin, Blackwell, NVLink, Spectrum, DGX, CUDA, inference costs, developer workflows, and India cloud/startup implications.\n"
             "For layoffs and job-market content, avoid fearmongering. Focus on useful angles: skills, resilience, hiring signals, AI impact, market cycles, student strategy, and how builders can become harder to ignore.\n"
-            "Return a diverse set of categories when evidence supports it: Apple, Samsung, Wearables, Whoop, Smartwatches, Health tech, Consumer devices, Chips, Startups, Developer tools, AI, Claude, Codex, OpenAI, Layoffs, Careers, Hiring, Gaming, EVs, AR/VR.\n"
+            "Return a diverse set of categories when evidence supports it: Apple, Samsung, Wearables, Whoop, Smartwatches, Health tech, Consumer devices, NVIDIA, Chips, AI infrastructure, Startups, Developer tools, AI, Claude, Codex, OpenAI, Layoffs, Careers, Hiring, Gaming, EVs, AR/VR.\n"
             "Each opportunity must include a category field naming what it is about.\n"
             "Avoid generic evergreen topics. Do not invent facts beyond the source posts.\n"
             "Return valid JSON only with this exact shape:\n"
@@ -203,7 +204,7 @@ class TrendWriter:
         style_line = style.strip() or "clear, sharp, practical, not too hype"
         return (
             "Write one X post based on this opportunity.\n"
-            "Make the subject clear in the tweet: mention the specific lane when relevant, such as Apple, Samsung, Whoop, watches, health tech, wearables, chips, startups, developer tools, AI, layoffs, hiring, or careers.\n"
+            "Make the subject clear in the tweet: mention the specific lane when relevant, such as Apple, Samsung, Whoop, watches, health tech, wearables, NVIDIA, chips, AI infrastructure, startups, developer tools, AI, layoffs, hiring, or careers.\n"
             "Keep it under 260 characters. Do not copy source wording. Do not add fake specifics.\n"
             "Make it sound like a thoughtful human, not a press release.\n"
             "Return valid JSON only with this exact shape:\n"
@@ -389,6 +390,7 @@ class TrendWriter:
     def _infer_category(self, value: str) -> str:
         text = value.lower()
         categories = [
+            ("NVIDIA", ["nvidia", "jensen huang", "gtc taipei", "rtx spark", "vera", "rubin", "blackwell", "nvlink", "dgx", "cuda"]),
             ("Whoop", ["whoop"]),
             ("Samsung", ["samsung", "galaxy"]),
             ("Apple", ["apple", "apple intelligence", "ios", "macos", "watchos", "iphone", "ipad", "apple watch"]),
@@ -396,7 +398,7 @@ class TrendWriter:
             ("Wearables", ["wearable", "wearables", "ring", "oura", "fitness tracker"]),
             ("Health tech", ["health", "fitness", "sleep", "recovery", "heart rate", "glucose", "medical", "wellness"]),
             ("Consumer devices", ["phone", "smartphone", "device", "hardware", "tablet", "laptop", "camera", "headphones", "earbuds"]),
-            ("Chips", ["chip", "gpu", "semiconductor", "snapdragon", "exynos", "nvidia", "tsmc"]),
+            ("Chips", ["chip", "gpu", "semiconductor", "snapdragon", "exynos", "tsmc"]),
             ("AR/VR", ["vision pro", "vr", "ar", "mixed reality", "headset"]),
             ("Gaming", ["gaming", "xbox", "playstation", "nintendo", "steam"]),
             ("Claude", ["claude", "anthropic"]),

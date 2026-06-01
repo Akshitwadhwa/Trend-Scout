@@ -1,4 +1,4 @@
-.PHONY: install dev test compile fresh top-ai india growth reply-scout manual
+.PHONY: install dev test compile fresh top-ai india growth nvidia reply-scout manual
 
 install:
 	python3 -m venv .venv
@@ -24,6 +24,9 @@ india:
 
 growth:
 	. .venv/bin/activate && python scripts/fresh.py growth
+
+nvidia:
+	. .venv/bin/activate && python scripts/fresh.py nvidia
 
 reply-scout:
 	. .venv/bin/activate && python scripts/fresh.py reply-scout
