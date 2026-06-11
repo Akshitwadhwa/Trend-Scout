@@ -208,7 +208,7 @@ class Workflow:
         ctr_pack = self.writer.build_ctr_pack(
             opportunities=opportunities,
             style=style
-            or "sharp, practical, high CTR, India-aware, copy-paste ready, no fake hype",
+            or "factual, statement-led, India-aware, copy-paste ready, no hype",
         )
         output_files = self.output_writer.save_ctr_pack(
             ctr_pack=ctr_pack,
@@ -305,7 +305,7 @@ class Workflow:
             "SCAN\n"
             "LIST\n"
             "DRAFT <id>\n"
-            "DRAFT <id>: write it more contrarian\n"
+            "DRAFT <id>: make it more factual\n"
             "BRIEF"
         )
 

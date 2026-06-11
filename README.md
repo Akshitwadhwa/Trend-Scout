@@ -63,7 +63,7 @@ curl -X POST http://127.0.0.1:8000/scan
 List saved opportunities:
 
 Generate a draft from an opportunity:
-{"style":"sharp, founder-like, practical"}'
+{"style":"factual, statement-led, practical"}'
 ```
 
 Draft recent opportunities and save all outputs:
@@ -75,7 +75,7 @@ Build a full daily content pack:
 ```bash
 curl -X POST http://127.0.0.1:8000/brief \
   -H "Content-Type: application/json" \
-  -d '{"style":"sharp, practical, founder-like, high-signal","limit":10}'
+  -d '{"style":"factual, statement-led, practical, high-signal","limit":10}'
 ```
 
 Build a high-CTR optimization pack:
@@ -83,7 +83,7 @@ Build a high-CTR optimization pack:
 ```bash
 curl -X POST http://127.0.0.1:8000/optimize \
   -H "Content-Type: application/json" \
-  -d '{"style":"sharp, practical, high CTR, no fake hype","limit":10}'
+  -d '{"style":"factual, statement-led, concrete, high CTR, no hype","limit":10}'
 ```
 
 Markdown files are saved in `out/` for high-CTR packs and `outputs/` for regular drafts. JSON files are saved in `json/`.
@@ -114,7 +114,7 @@ Fresh rerun, replacing old generated content:
 ```bash
 curl -X POST http://127.0.0.1:8000/fresh \
   -H "Content-Type: application/json" \
-  -d '{"style":"sharp, practical, high CTR, no fake hype","limit":10}'
+  -d '{"style":"factual, statement-led, concrete, high CTR, no hype","limit":10}'
 ```
 
 `/fresh` clears old generated Markdown/JSON files and old saved opportunities, scans again, then writes the new high-CTR pack.
@@ -245,7 +245,7 @@ The app still has a text-command handler, so Hermes or a small UI can call the s
 - `SCAN`
 - `LIST`
 - `DRAFT <id>`
-- `DRAFT <id>: write it more contrarian`
+- `DRAFT <id>: make it more factual`
 
 ## Useful Links
 

@@ -94,8 +94,8 @@ class ReplyScout:
                 f"Developer takeaway: the edge moves to people who can test this in real products quickly, measure the output, and ship the useful parts before the noise settles.",
             ),
             (
-                "sharp_question",
-                f"The key question now: does this change daily workflow for builders, or is it mostly a capability announcement? That difference matters.",
+                "workflow_signal",
+                f"The key signal is daily workflow impact. If {topic} changes cost, speed, or distribution for builders, it is more than a capability announcement.",
             ),
         ]
         return [
@@ -112,8 +112,8 @@ class ReplyScout:
         topic = self._topic(source["text"])
         options = [
             (
-                "contrarian",
-                f"The signal here is not {topic} itself. It is what happens when this gets cheap enough for normal teams to use every week.",
+                "market_signal",
+                f"The signal here is adoption cost. {topic} matters most when normal teams can use it every week without adding major cost or workflow friction.",
             ),
             (
                 "india_founder",

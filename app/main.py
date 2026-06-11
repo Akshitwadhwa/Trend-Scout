@@ -31,12 +31,12 @@ class DraftBatchRequest(BaseModel):
 
 
 class BriefRequest(BaseModel):
-    style: str = "sharp, practical, founder-like, high-signal"
+    style: str = "factual, statement-led, practical, high-signal"
     limit: int = 10
 
 
 class OptimizeRequest(BaseModel):
-    style: str = "sharp, practical, high CTR, no fake hype"
+    style: str = "factual, statement-led, concrete, high CTR, no hype"
     limit: int = 10
 
 
@@ -44,7 +44,7 @@ class ManualSignalRequest(BaseModel):
     source_text: str
     source_url: str = ""
     source_title: str = ""
-    style: str = "sharp, practical, high CTR, India-aware, copy-paste ready, no fake hype"
+    style: str = "factual, statement-led, India-aware, copy-paste ready, no hype"
     limit: int = 5
 
 
@@ -225,4 +225,3 @@ async def fresh(request: OptimizeRequest | None = None) -> JSONResponse:
     except Exception as exc:
         raise HTTPException(status_code=500, detail=str(exc)) from exc
     return JSONResponse(result)
-

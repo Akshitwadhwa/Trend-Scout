@@ -85,23 +85,23 @@ NVIDIA_KEYWORDS = [
 
 
 DEFAULT_STYLES = {
-    "fresh": "sharp, practical, high CTR, no fake hype",
+    "fresh": "factual, statement-led, concrete, high CTR, no hype",
     "top-ai": (
-        "sharp, practical, high CTR, no fake hype, based on signals from top AI accounts, "
-        "do not copy their wording, turn each signal into an original X post"
+        "factual, statement-led, concrete, high CTR, no hype, based on signals from top AI accounts, "
+        "do not copy their wording, turn each signal into an original factual X post"
     ),
     "india": (
-        "sharp, practical, high CTR, India-aware, latest India angle, useful for Indian tech audience, "
-        "buyers, founders, creators, developers, students, pricing, jobs, regulation where relevant, no fake hype"
+        "factual, statement-led, high CTR, India-aware, latest India angle, useful for Indian tech audience, "
+        "buyers, founders, creators, developers, students, pricing, jobs, regulation where relevant, no hype"
     ),
     "growth": (
-        "sharp, practical, high CTR, high impressions, follower growth, X algorithm aware, "
-        "optimize for quality replies, saves/bookmarks, profile clicks, follows, Indian developers/founders/students, "
-        "use OpenAI Codex/devtools update signals including thsottiaux when relevant, no fake hype"
+        "factual, statement-led, high CTR, high impressions, follower growth, X algorithm aware, "
+        "optimize for saves/bookmarks, profile clicks, follows, Indian developers/founders/students, "
+        "use OpenAI Codex/devtools update signals including thsottiaux when relevant, no hype"
     ),
     "nvidia": (
-        "sharp, practical, high CTR, NVIDIA event aware, explain why it matters for AI PCs, chips, "
-        "AI factories, cloud costs, Indian developers/founders/students, infrastructure, no fake hype"
+        "factual, statement-led, high CTR, NVIDIA event aware, explain concrete facts and implications for AI PCs, chips, "
+        "AI factories, cloud costs, Indian developers/founders/students, infrastructure, no hype"
     ),
     "reply-scout": (
         "scrape high-signal public web account feeds and produce exact source posts plus copy-paste replies/quotes; "

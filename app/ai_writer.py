@@ -201,12 +201,12 @@ class TrendWriter:
                 f"- {source_type} | {author} ({item['url']}): {item['text']}"
             )
         joined_sources = "\n".join(lines)
-        style_line = style.strip() or "clear, sharp, practical, not too hype"
+        style_line = style.strip() or "factual, statement-led, concrete, practical, no hype"
         return (
             "Write one X post based on this opportunity.\n"
             "Make the subject clear in the tweet: mention the specific lane when relevant, such as Apple, Samsung, Whoop, watches, health tech, wearables, NVIDIA, chips, AI infrastructure, startups, developer tools, AI, layoffs, hiring, or careers.\n"
             "Keep it under 260 characters. Do not copy source wording. Do not add fake specifics.\n"
-            "Make it sound like a thoughtful human, not a press release.\n"
+            "Tone rules: write like a factual statement, not a hype post. Lead with what happened, what changed, or what the signal is. Avoid exaggerated claims, drama, rhetorical questions, and motivational language.\n"
             "Return valid JSON only with this exact shape:\n"
             '{"draft":"final post text","notes":"brief reason this angle works"}\n\n'
             f"Style:\n{style_line}\n\n"
@@ -240,16 +240,17 @@ class TrendWriter:
                     ],
                 }
             )
-        style_line = style.strip() or "sharp, practical, founder-like, high-signal"
+        style_line = style.strip() or "factual, statement-led, practical, high-signal"
         return (
             "Build a daily X content pack from these tech opportunities.\n"
-            "Prioritize reach: strong hooks, clear category, reply-worthiness, and useful opinions.\n"
-            "Create variety across formats: hot take, prediction, question, contrarian, explainer, poll, and mini-thread.\n"
+            "Prioritize reach through clear facts, concrete implications, useful context, and specific category framing.\n"
+            "Create variety across formats: fact summary, market signal, practical implication, India angle, explainer, poll, and mini-thread.\n"
+            "Tone rules: statement-led, direct, factual, low-drama. Do not write hot takes, hype, rhetorical questions, or vague motivational posts.\n"
             "Do not invent facts beyond the opportunities and sources. Keep single posts under 260 characters.\n"
             "For poll options, use 2-4 short options. For threads, use exactly 3 posts.\n"
             "Return valid JSON only with this exact shape:\n"
             '{"summary":"one paragraph","posts":[{"rank":1,"opportunity_id":1,'
-            '"category":"Apple","format":"hot take","hook":"short hook",'
+            '"category":"Apple","format":"market signal","hook":"short factual hook",'
             '"post":"single post text or first post","poll_options":["A","B"],'
             '"thread":["post 1","post 2","post 3"],"visual_idea":"simple visual idea",'
             '"why_it_can_work":"brief reach rationale"}]}\n\n'
@@ -283,24 +284,25 @@ class TrendWriter:
                     ],
                 }
             )
-        style_line = style.strip() or "sharp, practical, founder-like, high CTR"
+        style_line = style.strip() or "factual, statement-led, concrete, practical, high CTR"
         algorithm_principles = "\n".join(f"- {principle}" for principle in X_ALGORITHM_PRINCIPLES)
         return (
             "Create a high-CTR and high-impression X optimization pack from these tech opportunities.\n"
             "Use this X algorithm model from the current developer-tooling cheat sheet: retrieve broad candidates -> rank -> filter -> serve. Phoenix/ranker-like scores reward likely replies, reposts, likes, profile clicks, follows, dwell time, saves/bookmarks, and creator-audience fit; selection filters can suppress spam, duplicates, unsafe posts, and low-quality bait.\n"
             f"X algorithm principles to apply:\n{algorithm_principles}\n"
             "First, respect the provided viral_score and score_breakdown, including engagement probability and profile follow potential. Prioritize high-scoring opportunities and ignore weak/generic ones unless they have a clear fresh angle.\n"
-            "Goal: maximize scroll-stop, quality replies, saves/bookmarks, profile clicks, follows, and reposts without clickbait or fake claims.\n"
+            "Goal: maximize scroll-stop, saves/bookmarks, profile clicks, follows, and reposts through concrete facts and useful implications, not clickbait or fake claims.\n"
+            "Global tone rule: make posts sound like clear factual statements. Prefer 'X did Y, which signals Z' over jokes, hype, questions, or motivational framing.\n"
             "For each opportunity, generate and rank hook variants before choosing the final tweet.\n"
             "Use these audience modes explicitly: india_founders, india_developers, india_students. Each opportunity should have distinct ready-to-post tweets for those audiences when relevant.\n"
             "Apply a hard no-generic-slop filter: never use phrases like game-changer, revolutionary, AI is transforming, the future of, this could change everything, in today's fast-paced world, it remains to be seen, only time will tell, or unlocking new possibilities.\n"
             "For each opportunity, generate fully assembled, copy-paste-ready tweets. Do not make the user combine hooks and bodies manually.\n"
-            "Compare the best X formats for each topic: curiosity gap, money/value angle, contrarian take, comparison, prediction, question, mini-story, practical takeaway, save-worthy checklist, and reply-worthy debate.\n"
+            "Compare the best X formats for each topic: fact summary, market signal, money/value implication, comparison, timeline/roadmap signal, practical takeaway, India implication, developer implication, and save-worthy checklist.\n"
             "Pick one winner as best_ready_to_post, then provide 5 finished tweet options with format labels, scores, and why each works.\n"
             "Also create an India-specific section for each topic: an india_angle, india_relevance_score, and 3 longer India-focused tweets for Indian tech audiences.\n"
             "India-focused tweets should connect the topic to Indian buyers, students, creators, founders, developers, startups, pricing in rupees, UPI/fintech, Apple/Samsung buyers, wearables, health tech, jobs, or consumer behavior when relevant.\n"
             "Also generate 10 hooks, 3 single-post variants, 1 poll, 1 mini-thread, 1 visual-card idea, and scores.\n"
-            "Hooks should be punchy, specific, and curiosity-driven. Avoid vague hooks like 'This is interesting'.\n"
+            "Hooks should be specific and fact-led. Avoid vague hooks like 'This is interesting' and avoid question-led hooks unless the source itself is uncertain.\n"
             "Prefer posts that give a reason to follow the account: repeated niche expertise, practical frameworks, Indian tech context, developer/founder judgment, or a useful saved reference.\n"
             "Every ready-to-post tweet and single post variant must be under 260 characters. India-focused tweets should be 220-275 characters. Poll options must be 2-4 short choices. Mini-threads must have exactly 3 posts.\n"
             "Scores are 1-100: ctr_score, impression_score, risk_score. Lower risk is better.\n"
@@ -308,7 +310,7 @@ class TrendWriter:
             '{"summary":"one paragraph","items":[{"opportunity_id":1,"category":"Apple",'
             '"title":"topic","best_angle":"angle","best_hook":"hook",'
             '"best_ready_to_post":"complete tweet ready to paste",'
-            '"format_comparison":[{"format":"curiosity gap","score":92,"tweet":"complete tweet",'
+            '"format_comparison":[{"format":"fact summary","score":92,"tweet":"complete tweet",'
             '"why_it_works":"short reason"}],'
             '"ready_to_post_tweets":[{"rank":1,"format":"money/value","score":95,'
             '"tweet":"complete tweet","why_it_works":"short reason"}],'
@@ -350,7 +352,7 @@ class TrendWriter:
                     "rank": index,
                     "opportunity_id": opportunity["id"],
                     "category": category,
-                    "format": "hot take",
+                    "format": "fact summary",
                     "hook": opportunity["title"],
                     "post": self._trim_post(
                         f"{category}: {opportunity['post_angle']} Worth watching because "

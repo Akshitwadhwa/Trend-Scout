@@ -177,9 +177,9 @@ class CTROptimizer:
                     "risk_score": self._risk_score(opportunity),
                     "x_algorithm_notes": {
                         "ranking_factors_used": X_ALGORITHM_PRINCIPLES,
-                        "primary_goal": "earn replies/saves/profile clicks/follows without triggering low-quality filters",
+                        "primary_goal": "earn saves/profile clicks/follows with factual, low-hype posts",
                     },
-                    "why_this_can_work": "Passed X-algorithm-aware scoring: strong hook, audience fit, reply/save potential, profile-follow reason, and low generic-slop risk.",
+                    "why_this_can_work": "Passed X-algorithm-aware scoring: clear fact pattern, audience fit, save potential, profile-follow reason, and low generic-slop risk.",
                 }
             )
         return items
@@ -193,16 +193,16 @@ class CTROptimizer:
         topic = self._short_topic(opportunity)
         audience = self._audience_label(audience_mode)
         templates = [
-            f"The important part of {topic} is not the headline. It is the shift underneath.",
-            f"Most people will read this as a {category} update. {audience} should read it as a cost signal.",
-            f"This looks small, but it changes the math for {audience}.",
-            f"The quiet signal in {topic}: distribution may matter more than the demo.",
-            f"If you are building in India, this is the part of {topic} to watch.",
-            f"The underrated question: who captures the margin if {topic} becomes normal?",
-            f"This is less about {category} hype and more about workflow change.",
-            f"Watch pricing and adoption here, not just the launch post.",
-            f"Save this if you track {category}: the real signal is adoption speed, not the announcement.",
-            f"Question for {audience}: would {topic} change what you build this month?",
+            f"{topic} is a {category} signal, not just another launch update.",
+            f"{audience} should read {topic} as a cost, workflow, or distribution signal.",
+            f"{topic} changes the adoption math for {audience}.",
+            f"The concrete signal in {topic}: distribution may matter more than the demo.",
+            f"For India, the relevant part of {topic} is adoption cost and workflow impact.",
+            f"{topic} creates a margin question for teams building around {category}.",
+            f"{topic} is mainly a workflow-change story, not a hype cycle story.",
+            f"Pricing, adoption, and daily usage matter more here than the launch post.",
+            f"For {category}, the real signal is adoption speed and production usage.",
+            f"{audience} can use {topic} as a practical market signal this month.",
         ]
         hooks = []
         for text in templates:
@@ -229,15 +229,15 @@ class CTROptimizer:
         category = opportunity.get("category", "Tech")
         angle = self.clean_generic_slop(str(opportunity.get("post_angle", "")), opportunity)
         if audience_mode == AudienceMode.INDIA_FOUNDERS:
-            tweet = f"Indian founders should watch this {category} shift: {angle} The edge is not the demo. It is cheaper experiments, faster shipping, and better distribution."
+            tweet = f"Indian founders should track this {category} shift: {angle} The practical edge is cheaper experiments, faster shipping, and stronger distribution."
         elif audience_mode == AudienceMode.INDIA_DEVELOPERS:
-            tweet = f"Developer takeaway: {angle} If costs keep dropping, the advantage moves to devs who can ship, test, and review AI features faster."
+            tweet = f"Developer signal: {angle} Lower costs move the advantage toward teams that can ship, test, and review AI features faster."
         elif audience_mode == AudienceMode.INDIA_STUDENTS:
-            tweet = f"For Indian students, this {category} signal matters because {angle} The career edge is building a portfolio around real workflows, not just collecting certificates."
+            tweet = f"For Indian students, this {category} signal matters because {angle} The career edge is a portfolio built around real workflows, not only certificates."
         elif audience_mode == AudienceMode.INDIAN_CREATORS:
-            tweet = f"For Indian creators, {category} gets interesting when {angle} The winners will turn it into useful workflows, not another generic AI tip thread."
+            tweet = f"For Indian creators, {category} becomes useful when {angle} The advantage goes to creators who turn it into repeatable workflows."
         elif audience_mode == AudienceMode.BUYERS:
-            tweet = f"Buyer angle: {angle} The question is whether this becomes cheaper, trustworthy, and useful enough for daily use."
+            tweet = f"Buyer angle: {angle} Adoption depends on price, trust, and whether the product becomes useful in daily workflows."
         else:
             tweet = f"{category}: {angle} The real signal is whether this changes cost, workflow, or distribution."
         return self.clean_generic_slop(tweet, opportunity)
@@ -358,7 +358,7 @@ class CTROptimizer:
         return formats[mode]
 
     def _why_mode_works(self, mode: AudienceMode) -> str:
-        return f"Targets {self._audience_label(mode)} with a specific practical implication instead of generic hype."
+        return f"Targets {self._audience_label(mode)} with a specific factual implication instead of generic hype."
 
     def _india_angle(self, opportunity: dict[str, Any]) -> str:
         category = opportunity.get("category", "tech")

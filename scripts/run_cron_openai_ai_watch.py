@@ -47,9 +47,9 @@ settings = replace(
 )
 workflow = build_workflow(settings)
 style = (
-    "sharp, practical, high CTR, high impressions, OpenAI/Codex/devtools aware, all important AI updates, "
+    "factual, statement-led, concrete, high CTR, high impressions, OpenAI/Codex/devtools aware, all important AI updates, "
     "use thsottiaux and sama as OpenAI/Codex signal sources when relevant, useful for Indian founders/developers/"
-    "creators/students, practical implications, no fake hype, no generic takes"
+    "creators/students, practical implications, no hype, no generic takes"
 )
 result = workflow.fresh_optimize(style=style, limit=10)
 texts = result.get("output_files", {}).get("x_post_message_texts", [])[:6]

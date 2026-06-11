@@ -28,7 +28,7 @@ def main() -> None:
     parser.add_argument("--title", default="", help="Optional source title.")
     parser.add_argument(
         "--style",
-        default="sharp, practical, high CTR, India-aware, copy-paste ready, no fake hype",
+        default="factual, statement-led, India-aware, copy-paste ready, no hype",
     )
     parser.add_argument("--limit", type=int, default=5)
     args = parser.parse_args()
