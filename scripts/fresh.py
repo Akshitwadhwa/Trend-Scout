@@ -83,6 +83,41 @@ NVIDIA_KEYWORDS = [
     "windows laptops",
 ]
 
+TESLA_FEEDS = [
+    "https://news.google.com/rss/search?q=Tesla%20latest%20news%20EV%20deliveries%20earnings%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Tesla%20FSD%20robotaxi%20autonomous%20driving%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Tesla%20Optimus%20robot%20AI%20manufacturing%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Tesla%20India%20launch%20factory%20showroom%20EV%20when:30d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Tesla%20Model%20Y%20Model%203%20Cybertruck%20price%20demand%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Tesla%20Supercharger%20charging%20energy%20Megapack%20battery%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://ir.tesla.com/rss/news-releases.xml",
+]
+
+TESLA_KEYWORDS = [
+    "tesla",
+    "elon musk",
+    "model y",
+    "model 3",
+    "cybertruck",
+    "fsd",
+    "full self-driving",
+    "robotaxi",
+    "autonomous driving",
+    "optimus",
+    "humanoid robot",
+    "supercharger",
+    "charging",
+    "megapack",
+    "powerwall",
+    "battery",
+    "ev",
+    "electric vehicle",
+    "deliveries",
+    "earnings",
+    "tesla india",
+    "gigafactory",
+]
+
 
 DEFAULT_STYLES = {
     "fresh": "factual, statement-led, concrete, high CTR, no hype",
@@ -103,6 +138,10 @@ DEFAULT_STYLES = {
         "factual, statement-led, high CTR, NVIDIA event aware, explain concrete facts and implications for AI PCs, chips, "
         "AI factories, cloud costs, Indian developers/founders/students, infrastructure, no hype"
     ),
+    "tesla": (
+        "factual, statement-led, high CTR, Tesla-aware, explain concrete facts and implications for EVs, "
+        "FSD/robotaxi, Optimus, energy storage, charging, India buyers, auto market, no hype"
+    ),
     "reply-scout": (
         "scrape high-signal public web account feeds and produce exact source posts plus copy-paste replies/quotes; "
         "manual repost/reply workflow, no auto-posting"
@@ -117,9 +156,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "mode",
         nargs="?",
-        choices=["fresh", "top-ai", "india", "growth", "nvidia", "reply-scout"],
+        choices=["fresh", "top-ai", "india", "growth", "nvidia", "tesla", "reply-scout"],
         default="fresh",
-        help="fresh=normal scan, top-ai=signals from top AI accounts, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, nvidia=NVIDIA event/chips/AI factory scan, reply-scout=high-signal source tweets plus copy-paste replies",
+        help="fresh=normal scan, top-ai=signals from top AI accounts, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, nvidia=NVIDIA event/chips/AI factory scan, tesla=Tesla EV/FSD/Optimus/energy scan, reply-scout=high-signal source tweets plus copy-paste replies",
     )
     parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--style", default="")
@@ -203,6 +242,21 @@ def settings_for_mode(settings, args: argparse.Namespace):
             web_feed_urls=NVIDIA_FEEDS,
             web_keywords=NVIDIA_KEYWORDS,
         )
+    if args.mode == "tesla":
+        return replace(
+            settings,
+            topic_query=(
+                "Tesla Elon Musk Model Y Model 3 Cybertruck FSD robotaxi autonomous driving "
+                "Optimus Supercharger Megapack battery EV deliveries earnings Tesla India"
+            ),
+            enable_x_scan=False,
+            enable_x_watchlist=False,
+            enable_x_timeline=False,
+            enable_web_scan=True,
+            max_web_results=max(80, settings.max_web_results),
+            web_feed_urls=TESLA_FEEDS,
+            web_keywords=TESLA_KEYWORDS,
+        )
     return settings
 
 
@@ -249,6 +303,7 @@ def main() -> None:
         "india": "Latest India-aware high-CTR pack created",
         "growth": "X-algorithm-aware growth pack created",
         "nvidia": "NVIDIA event high-CTR pack created",
+        "tesla": "Tesla high-CTR pack created",
     }[args.mode]
     print(label)
     print(f"Sources found: {source_count}")
