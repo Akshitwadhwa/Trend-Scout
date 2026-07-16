@@ -15,8 +15,9 @@ This version does not auto-post and does not include any external messaging inte
 - Lets you list opportunities and ask for a draft from a chosen one.
 - Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, copy-paste-ready tweet winners into `out/`, India-specific tech tweets into `out/`, and JSON artifacts into `json/`.
 - Exposes each best X post as plain text for Hermes to send as separate WhatsApp messages. Local `.txt` files under `out/*-x-post-messages/` are fallback artifacts only, not WhatsApp attachments.
-- Uses OpenAI for topic judgment and drafting when `OPENAI_API_KEY` is set.
-- Falls back to simple engagement-based opportunities if OpenAI is not configured.
+- Uses local Ollama for topic judgment and drafting. The default model is `gemma3:1b` so it can run on an 8 GB Mac.
+- Falls back to simple engagement-based opportunities if Ollama is offline or returns an unusable result.
+- Can send already approved draft text to your Telegram chat only when you call the manual Telegram endpoint. It never auto-posts to X.
 
 ## Setup
 
@@ -52,6 +53,33 @@ make nvidia     # NVIDIA event/chips/AI factory pack
 make tesla      # Tesla EV/FSD/Optimus/energy pack
 make reply-scout # public web source posts plus copy-paste replies
 ```
+
+## Local Ollama and Telegram
+
+Keep the Ollama desktop app running, then use the local settings in `.env`:
+
+```env
+ENABLE_OLLAMA=true
+OLLAMA_BASE_URL=http://127.0.0.1:11434
+OLLAMA_MODEL=gemma3:1b
+```
+
+Telegram is optional and is for draft delivery only. Create a bot through `@BotFather`, start a chat with it, then add its token and your chat ID to `.env`. Keep the token private and never paste it into an AI chat.
+
+```env
+TELEGRAM_BOT_TOKEN=
+TELEGRAM_CHAT_ID=
+```
+
+After you have approved a few drafts, you can explicitly send them to your own Telegram chat:
+
+```bash
+curl -X POST http://127.0.0.1:8000/telegram/send \
+  -H "Content-Type: application/json" \
+  -d '{"messages":["first approved draft","second approved draft"]}'
+```
+
+This endpoint is manual-only. It does not schedule messages or post anything to X.
 
 ## Use It
 

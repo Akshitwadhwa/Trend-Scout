@@ -52,6 +52,12 @@ class Settings:
     x_bearer_token: str
     openai_api_key: str
     openai_model: str
+    enable_ollama: bool = True
+    ollama_base_url: str = "http://127.0.0.1:11434"
+    ollama_model: str = "gemma3:1b"
+    ollama_timeout_seconds: int = 90
+    telegram_bot_token: str = ""
+    telegram_chat_id: str = ""
 
 
 def load_settings() -> Settings:
@@ -101,5 +107,10 @@ def load_settings() -> Settings:
         x_bearer_token=os.getenv("X_BEARER_TOKEN", "").strip(),
         openai_api_key=os.getenv("OPENAI_API_KEY", "").strip(),
         openai_model=os.getenv("OPENAI_MODEL", "gpt-5.2").strip(),
+        enable_ollama=_read_bool("ENABLE_OLLAMA", True),
+        ollama_base_url=os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434").rstrip("/"),
+        ollama_model=os.getenv("OLLAMA_MODEL", "gemma3:1b").strip(),
+        ollama_timeout_seconds=_read_int("OLLAMA_TIMEOUT_SECONDS", 90),
+        telegram_bot_token=os.getenv("TELEGRAM_BOT_TOKEN", "").strip(),
+        telegram_chat_id=os.getenv("TELEGRAM_CHAT_ID", "").strip(),
     )
-

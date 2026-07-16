@@ -2,6 +2,8 @@ from __future__ import annotations
 
 from contextlib import asynccontextmanager
 
+import requests
+
 from apscheduler.schedulers.background import BackgroundScheduler
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
@@ -12,6 +14,7 @@ from app.ai_writer import TrendWriter
 from app.config import load_settings
 from app.db import Database
 from app.output_writer import OutputWriter
+from app.telegram_client import TelegramClient
 from app.web_client import WebFeedClient
 from app.workflow import Workflow
 from app.x_client import XClient
@@ -48,6 +51,10 @@ class ManualSignalRequest(BaseModel):
     limit: int = 5
 
 
+class TelegramSendRequest(BaseModel):
+    messages: list[str]
+
+
 load_dotenv()
 settings = load_settings()
 db = Database(settings.database_path)
@@ -55,6 +62,7 @@ x_client = XClient(settings)
 web_client = WebFeedClient(settings)
 writer = TrendWriter(settings)
 output_writer = OutputWriter(settings)
+telegram_client = TelegramClient(settings)
 workflow = Workflow(
     settings=settings,
     db=db,
@@ -104,6 +112,8 @@ async def root() -> dict[str, object]:
         "manual_signal": "POST /manual-signal",
         "fresh": "POST /fresh",
         "topic": "GET /topic",
+        "telegram_status": "GET /telegram/status",
+        "telegram_send": "POST /telegram/send (manual only)",
         "docs": "/docs",
     }
 
@@ -225,3 +235,17 @@ async def fresh(request: OptimizeRequest | None = None) -> JSONResponse:
     except Exception as exc:
         raise HTTPException(status_code=500, detail=str(exc)) from exc
     return JSONResponse(result)
+
+
+@app.get("/telegram/status")
+async def telegram_status() -> dict[str, bool]:
+    return {"configured": telegram_client.configured, "automatic_delivery": False}
+
+
+@app.post("/telegram/send")
+async def telegram_send(request: TelegramSendRequest) -> JSONResponse:
+    try:
+        sent = telegram_client.send_messages(request.messages)
+    except (RuntimeError, ValueError, requests.RequestException) as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+    return JSONResponse({"sent_count": len(sent), "messages": sent})

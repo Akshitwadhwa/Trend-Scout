@@ -3,7 +3,7 @@ from __future__ import annotations
 import json
 from typing import Any
 
-from openai import OpenAI
+import requests
 
 from app.config import Settings
 from app.ctr_optimizer import AudienceMode, CTROptimizer, X_ALGORITHM_PRINCIPLES
@@ -12,7 +12,14 @@ from app.ctr_optimizer import AudienceMode, CTROptimizer, X_ALGORITHM_PRINCIPLES
 class TrendWriter:
     def __init__(self, settings: Settings) -> None:
         self.settings = settings
-        self.client = OpenAI(api_key=settings.openai_api_key) if settings.openai_api_key else None
+        self.ollama_enabled = bool(getattr(settings, "enable_ollama", False))
+        self.ollama_base_url = str(
+            getattr(settings, "ollama_base_url", "http://127.0.0.1:11434")
+        ).rstrip("/")
+        self.ollama_model = str(getattr(settings, "ollama_model", "gemma3:1b"))
+        self.ollama_timeout_seconds = int(
+            getattr(settings, "ollama_timeout_seconds", 90)
+        )
 
     def find_opportunities(
         self,
@@ -23,17 +30,17 @@ class TrendWriter:
         if not source_items:
             return []
 
-        if self.client is None:
+        if not self.ollama_enabled:
             return self._fallback_opportunities(topic_query, source_items)
-
-        response = self.client.responses.create(
-            model=self.settings.openai_model,
-            input=self._opportunity_prompt(topic_query, source_items),
-        )
-        payload = self._extract_json(response.output_text)
+        try:
+            payload = self._generate_json(
+                self._opportunity_prompt(topic_query, source_items[:12])
+            )
+        except (requests.RequestException, RuntimeError, ValueError):
+            return self._fallback_opportunities(topic_query, source_items)
         opportunities = payload.get("opportunities", [])
         if not isinstance(opportunities, list):
-            raise RuntimeError("The model returned opportunities in an unexpected format.")
+            return self._fallback_opportunities(topic_query, source_items)
         return opportunities[:8]
 
     def draft_post(
@@ -43,25 +50,35 @@ class TrendWriter:
         source_items: list[dict[str, Any]],
         style: str = "",
     ) -> dict[str, str]:
-        if self.client is None:
+        if not self.ollama_enabled:
             text = (
                 f"{opportunity['title']}: {opportunity['post_angle']} "
                 "This feels worth watching as the next product cycle unfolds."
             )
             return {
                 "draft": self._trim_post(text),
-                "notes": "Fallback draft because OPENAI_API_KEY is not configured.",
+                "notes": "Fallback draft because local Ollama is not configured.",
             }
-
-        response = self.client.responses.create(
-            model=self.settings.openai_model,
-            input=self._draft_prompt(opportunity, source_items, style),
-        )
-        payload = self._extract_json(response.output_text)
+        try:
+            payload = self._generate_json(
+                self._draft_prompt(opportunity, source_items[:6], style)
+            )
+        except (requests.RequestException, RuntimeError, ValueError):
+            return {
+                "draft": self._trim_post(
+                    f"{opportunity['title']}: {opportunity['post_angle']}"
+                ),
+                "notes": "Local Ollama could not complete this draft; a safe local fallback was used.",
+            }
         draft = self._trim_post(payload.get("draft", "").strip())
         notes = payload.get("notes", "").strip()
         if not draft:
-            raise RuntimeError("The model did not return a usable draft.")
+            return {
+                "draft": self._trim_post(
+                    f"{opportunity['title']}: {opportunity['post_angle']}"
+                ),
+                "notes": "Local Ollama returned an incomplete draft; a safe local fallback was used.",
+            }
         return {"draft": draft, "notes": notes}
 
     def build_content_pack(
@@ -73,17 +90,17 @@ class TrendWriter:
         if not opportunities:
             return {"posts": [], "summary": "No opportunities available."}
 
-        if self.client is None:
+        if not self.ollama_enabled:
             return self._fallback_content_pack(opportunities)
-
-        response = self.client.responses.create(
-            model=self.settings.openai_model,
-            input=self._content_pack_prompt(opportunities, style),
-        )
-        payload = self._extract_json(response.output_text)
+        try:
+            payload = self._generate_json(
+                self._content_pack_prompt(opportunities[:4], style)
+            )
+        except (requests.RequestException, RuntimeError, ValueError):
+            return self._fallback_content_pack(opportunities)
         posts = payload.get("posts", [])
         if not isinstance(posts, list):
-            raise RuntimeError("The model returned posts in an unexpected format.")
+            return self._fallback_content_pack(opportunities)
         return {
             "summary": payload.get("summary", ""),
             "posts": posts[:12],
@@ -98,19 +115,18 @@ class TrendWriter:
         if not opportunities:
             return {"summary": "No opportunities available.", "items": []}
 
-        if self.client is None:
+        if not self.ollama_enabled:
             return self._fallback_ctr_pack(opportunities)
 
         optimizer = CTROptimizer(min_viral_score=60)
-        opportunities = optimizer.rank_opportunities(opportunities, limit=12)
-        response = self.client.responses.create(
-            model=self.settings.openai_model,
-            input=self._ctr_pack_prompt(opportunities, style),
-        )
-        payload = self._extract_json(response.output_text)
+        opportunities = optimizer.rank_opportunities(opportunities, limit=4)
+        try:
+            payload = self._generate_json(self._ctr_pack_prompt(opportunities, style))
+        except (requests.RequestException, RuntimeError, ValueError):
+            return self._fallback_ctr_pack(opportunities)
         items = payload.get("items", [])
         if not isinstance(items, list):
-            raise RuntimeError("The model returned CTR items in an unexpected format.")
+            return self._fallback_ctr_pack(opportunities)
         return {
             "summary": payload.get("summary", ""),
             "items": items[:12],
@@ -377,6 +393,24 @@ class TrendWriter:
             if start == -1 or end == -1 or end <= start:
                 raise RuntimeError(f"Model output was not valid JSON: {candidate}") from None
             return json.loads(candidate[start : end + 1])
+
+    def _generate_json(self, prompt: str) -> dict[str, Any]:
+        response = requests.post(
+            f"{self.ollama_base_url}/api/generate",
+            json={
+                "model": self.ollama_model,
+                "prompt": prompt,
+                "stream": False,
+                "format": "json",
+                "options": {"temperature": 0.55, "num_predict": 1200},
+            },
+            timeout=self.ollama_timeout_seconds,
+        )
+        response.raise_for_status()
+        payload = response.json()
+        if payload.get("error"):
+            raise RuntimeError(str(payload["error"]))
+        return self._extract_json(str(payload.get("response", "")))
 
     def _trim_post(self, value: str, limit: int = 260) -> str:
         clean = " ".join(value.split())
