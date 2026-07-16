@@ -1,6 +1,8 @@
 from __future__ import annotations
 
+from html import unescape
 import json
+import re
 from typing import Any
 
 import requests
@@ -118,18 +120,68 @@ class TrendWriter:
         if not self.ollama_enabled:
             return self._fallback_ctr_pack(opportunities)
 
-        optimizer = CTROptimizer(min_viral_score=60)
-        opportunities = optimizer.rank_opportunities(opportunities, limit=4)
-        try:
-            payload = self._generate_json(self._ctr_pack_prompt(opportunities, style))
-        except (requests.RequestException, RuntimeError, ValueError):
-            return self._fallback_ctr_pack(opportunities)
-        items = payload.get("items", [])
-        if not isinstance(items, list):
-            return self._fallback_ctr_pack(opportunities)
+        # A small local model handles three focused drafts per topic far more
+        # reliably than one massive JSON pack containing hooks, polls, threads,
+        # and variants for every story. Build a factual local baseline first,
+        # then let Ollama replace only the ready-to-post copy.
+        optimizer = CTROptimizer(min_viral_score=1)
+        opportunities = optimizer.rank_opportunities(opportunities, limit=3)
+        items = optimizer.build_ctr_items(
+            opportunities,
+            audience_modes=[
+                AudienceMode.GENERAL_TECH,
+                AudienceMode.INDIA_DEVELOPERS,
+                AudienceMode.INDIAN_CREATORS,
+            ],
+            limit=3,
+        )
+        for opportunity, item in zip(opportunities, items, strict=False):
+            try:
+                payload = self._generate_json(self._single_story_prompt(opportunity, style))
+                tweets = self._usable_tweets(payload.get("tweets"), opportunity)
+            except (requests.RequestException, RuntimeError, ValueError):
+                continue
+            if not tweets:
+                continue
+            ready_tweets = [
+                {
+                    "rank": index,
+                    "audience_mode": mode.value,
+                    "format": label,
+                    "score": max(1, int(item["viral_score"]) - index + 1),
+                    "tweet": tweet,
+                    "why_it_works": "Specific fact first, then one original human take.",
+                }
+                for index, (tweet, mode, label) in enumerate(
+                    zip(
+                        tweets,
+                        [
+                            AudienceMode.GENERAL_TECH,
+                            AudienceMode.INDIA_DEVELOPERS,
+                            AudienceMode.INDIAN_CREATORS,
+                        ],
+                        ["plain-English take", "developer implication", "creator observation"],
+                        strict=False,
+                    ),
+                    start=1,
+                )
+            ]
+            item["best_ready_to_post"] = ready_tweets[0]["tweet"]
+            item["best_hook"] = ready_tweets[0]["tweet"].split(".", 1)[0]
+            item["ready_to_post_tweets"] = ready_tweets
+            item["format_comparison"] = [
+                {
+                    "format": draft["format"],
+                    "score": draft["score"],
+                    "tweet": draft["tweet"],
+                    "why_it_works": draft["why_it_works"],
+                }
+                for draft in ready_tweets
+            ]
+            item["post_variants"] = [draft["tweet"] for draft in ready_tweets]
         return {
-            "summary": payload.get("summary", ""),
-            "items": items[:12],
+            "summary": "Latest tech signals, with factual source-grounded drafts checked for generic AI wording.",
+            "items": items,
         }
 
     def _fallback_opportunities(
@@ -138,18 +190,20 @@ class TrendWriter:
         source_items: list[dict[str, Any]],
     ) -> list[dict[str, Any]]:
         opportunities: list[dict[str, Any]] = []
-        for item in source_items[:3]:
+        for item in source_items[:5]:
             metrics = item["public_metrics"]
-            title = self._trim_text(item["text"], 82)
+            source_text = self._clean_source_text(str(item.get("text", "")))
+            title = self._clean_source_text(str(item.get("title", ""))) or self._trim_text(source_text, 110)
+            category = self._infer_category(f"{title} {source_text}")
             opportunities.append(
                 {
-                    "title": title,
-                    "category": self._infer_category(item["text"]),
+                    "title": self._trim_text(title, 140),
+                    "category": category,
                     "why_now": (
-                        f"This post is gaining visible engagement under your tracked query: "
-                        f"{topic_query}."
+                        f"Fresh source signal for {topic_query}. Keep the post tied to the reported claim, "
+                        f"not a broad trend statement."
                     ),
-                    "post_angle": "Add your view on why this matters for builders and product teams.",
+                    "post_angle": self._fallback_angle(category, title, source_text),
                     "confidence": 0.55,
                     "source_ids": [item["id"]],
                     "score_hint": (
@@ -160,6 +214,65 @@ class TrendWriter:
                 }
             )
         return opportunities
+
+    def _single_story_prompt(self, opportunity: dict[str, Any], style: str) -> str:
+        sources = opportunity.get("sources", [])[:2]
+        source_text = "\n".join(
+            f"SOURCE: {self._clean_source_text(str(source.get('text') or source.get('title') or ''))}\nURL: {source.get('url', '')}"
+            for source in sources
+        )
+        style_line = style.strip() or "casual, sharp, student developer who follows tech closely"
+        return (
+            "Write exactly 3 original X posts about ONE current tech story.\n"
+            "You are @shigma_male: a real Indian student developer, curious and chilled—not a brand, journalist, or LinkedIn coach.\n"
+            "Each post must be 90-240 characters, have a specific fact from the source, then one honest observation.\n"
+            "Post 1: simple take for anyone following tech. Post 2: developer angle. Post 3: product/creator angle.\n"
+            "No emojis, hashtags, fake statistics, links, 'Indian founders should', 'developer signal', 'game-changer', 'worth watching', 'the real signal', or questions used as bait.\n"
+            "Do not invent details. If the source is a claim, lawsuit, rumour, or report, preserve that uncertainty.\n"
+            "Return JSON only: {\"tweets\":[\"post 1\",\"post 2\",\"post 3\"]}.\n\n"
+            f"Style: {style_line}\n"
+            f"Topic: {opportunity.get('title', '')}\n"
+            f"Category: {opportunity.get('category', 'Tech')}\n"
+            f"Source material:\n{source_text}"
+        )
+
+    def _usable_tweets(self, value: Any, opportunity: dict[str, Any]) -> list[str]:
+        if not isinstance(value, list):
+            return []
+        blocked = [
+            "add your view", "developer signal", "indian founders should", "game-changer",
+            "worth watching", "the real signal", "this could change everything",
+        ]
+        anchors = {
+            word.lower()
+            for word in re.findall(r"[A-Za-z]{4,}", str(opportunity.get("title", "")))
+        }
+        tweets = []
+        for raw in value[:3]:
+            tweet = self._trim_post(str(raw))
+            lower = tweet.lower()
+            if not tweet or any(phrase in lower for phrase in blocked):
+                continue
+            if len(tweet) < 70 or not any(anchor in lower for anchor in anchors):
+                continue
+            tweets.append(tweet)
+        return tweets if len(tweets) >= 2 else []
+
+    def _clean_source_text(self, value: str) -> str:
+        without_tags = re.sub(r"<[^>]+>", " ", unescape(value))
+        return " ".join(without_tags.split())
+
+    def _fallback_angle(self, category: str, title: str, source_text: str) -> str:
+        lower = f"{title} {source_text}".lower()
+        if any(term in lower for term in ["privacy", "data", "security", "breach"]):
+            return "The important part is whether the product promise matches what actually happens to user data."
+        if any(term in lower for term in ["ai", "model", "agent", "llm"]):
+            return "The interesting bit is whether this moves AI into a workflow people already use, not just another demo."
+        if any(term in lower for term in ["chip", "gpu", "nvidia", "semiconductor"]):
+            return "The headline matters only if cost, availability, and software support catch up with the hardware."
+        if any(term in lower for term in ["phone", "watch", "wearable", "laptop", "device"]):
+            return "The upgrade only matters if it becomes useful in daily life, not just impressive on a spec sheet."
+        return f"The part worth discussing is what this changes for people actually using {category} products."
 
     def _opportunity_prompt(
         self,
@@ -355,8 +468,20 @@ class TrendWriter:
             ],
             limit=8,
         )
+        if not items and opportunities:
+            # RSS-only signals can be useful but score below the stricter viral
+            # threshold. Still produce a small, clearly labelled local pack.
+            items = CTROptimizer(min_viral_score=1).build_ctr_items(
+                opportunities,
+                audience_modes=[
+                    AudienceMode.INDIA_FOUNDERS,
+                    AudienceMode.INDIA_DEVELOPERS,
+                    AudienceMode.INDIA_STUDENTS,
+                ],
+                limit=min(3, len(opportunities)),
+            )
         return {
-            "summary": "CTR-optimized fallback pack using viral scoring, ranked hooks, no-slop filtering, and India audience modes.",
+            "summary": "CTR-optimized local fallback pack using ranked RSS signals, no-slop filtering, and India audience modes.",
             "items": items,
         }
 
@@ -429,23 +554,25 @@ class TrendWriter:
         categories = [
             ("NVIDIA", ["nvidia", "jensen huang", "gtc taipei", "rtx spark", "vera", "rubin", "blackwell", "nvlink", "dgx", "cuda"]),
             ("Tesla", ["tesla", "elon musk", "model y", "model 3", "cybertruck", "fsd", "full self-driving", "robotaxi", "optimus", "supercharger", "megapack", "powerwall", "tesla india"]),
-            ("Whoop", ["whoop"]),
-            ("Samsung", ["samsung", "galaxy"]),
             ("Apple", ["apple", "apple intelligence", "ios", "macos", "watchos", "iphone", "ipad", "apple watch"]),
-            ("Smartwatches", ["smartwatch", "smart watch", "watch", "wear os", "galaxy watch", "apple watch"]),
-            ("Wearables", ["wearable", "wearables", "ring", "oura", "fitness tracker"]),
-            ("Health tech", ["health", "fitness", "sleep", "recovery", "heart rate", "glucose", "medical", "wellness"]),
-            ("Consumer devices", ["phone", "smartphone", "device", "hardware", "tablet", "laptop", "camera", "headphones", "earbuds"]),
-            ("Chips", ["chip", "gpu", "semiconductor", "snapdragon", "exynos", "tsmc"]),
-            ("AR/VR", ["vision pro", "vr", "ar", "mixed reality", "headset"]),
-            ("Gaming", ["gaming", "xbox", "playstation", "nintendo", "steam"]),
+            ("Samsung", ["samsung", "galaxy"]),
+            ("Whoop", ["whoop"]),
             ("Claude", ["claude", "anthropic"]),
             ("Codex", ["codex"]),
             ("OpenAI", ["openai", "chatgpt", "gpt"]),
-            ("AI", ["ai", "artificial intelligence", "llm", "model"]),
+            # Keep AI before broad device/wearable matching. RSS descriptions
+            # often mention unrelated products in their page boilerplate.
+            ("AI", [" ai ", "ai-", "ai-powered", "artificial intelligence", "llm", "model"]),
             ("AI agents", ["agent", "agents"]),
-            ("AI infrastructure", ["chip", "gpu", "data center", "infrastructure", "power"]),
             ("Developer tools", ["developer", "coding", "dev tool", "github"]),
+            ("Chips", ["chip", "gpu", "semiconductor", "snapdragon", "exynos", "tsmc"]),
+            ("AI infrastructure", ["data center", "infrastructure", "ai factory"]),
+            ("Smartwatches", ["smartwatch", "smart watch", "watch", "wear os", "galaxy watch", "apple watch"]),
+            ("Wearables", ["wearable", "wearables", "ring", "oura", "fitness tracker"]),
+            ("Health tech", ["health", "fitness", "recovery", "heart rate", "glucose", "medical", "wellness"]),
+            ("Consumer devices", ["phone", "smartphone", "device", "hardware", "tablet", "laptop", "camera", "headphones", "earbuds"]),
+            ("AR/VR", ["vision pro", "vr", "ar", "mixed reality", "headset"]),
+            ("Gaming", ["gaming", "xbox", "playstation", "nintendo", "steam"]),
             ("Layoffs", ["layoff", "layoffs", "laid off", "job cuts", "restructuring", "downsizing"]),
             ("Hiring", ["hiring", "jobs", "job market", "recruiting", "internship", "internships"]),
             ("Careers", ["career", "resume", "portfolio", "open source", "ship in public", "network"]),

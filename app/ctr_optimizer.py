@@ -2,6 +2,8 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 from enum import StrEnum
+from html import unescape
+import re
 from typing import Any
 
 
@@ -226,21 +228,45 @@ class CTROptimizer:
         opportunity: dict[str, Any],
         audience_mode: AudienceMode = AudienceMode.GENERAL_TECH,
     ) -> str:
-        category = opportunity.get("category", "Tech")
-        angle = self.clean_generic_slop(str(opportunity.get("post_angle", "")), opportunity)
+        headline = self._source_headline(opportunity)
+        takeaway = self._source_takeaway(opportunity)
         if audience_mode == AudienceMode.INDIA_FOUNDERS:
-            tweet = f"Indian founders should track this {category} shift: {angle} The practical edge is cheaper experiments, faster shipping, and stronger distribution."
+            tweet = f"{headline}. For founders, the useful question is whether this changes what users can do without adding another step."
         elif audience_mode == AudienceMode.INDIA_DEVELOPERS:
-            tweet = f"Developer signal: {angle} Lower costs move the advantage toward teams that can ship, test, and review AI features faster."
+            tweet = f"{headline}. For developers, the part that matters is whether it removes a real workflow step—not whether it makes a nice demo."
         elif audience_mode == AudienceMode.INDIA_STUDENTS:
-            tweet = f"For Indian students, this {category} signal matters because {angle} The career edge is a portfolio built around real workflows, not only certificates."
+            tweet = f"{headline}. For students, this is a better case study in product judgment than another generic tech headline."
         elif audience_mode == AudienceMode.INDIAN_CREATORS:
-            tweet = f"For Indian creators, {category} becomes useful when {angle} The advantage goes to creators who turn it into repeatable workflows."
+            tweet = f"{headline}. The creator angle is simple: the tools that win are the ones people can use without changing their whole workflow."
         elif audience_mode == AudienceMode.BUYERS:
-            tweet = f"Buyer angle: {angle} Adoption depends on price, trust, and whether the product becomes useful in daily workflows."
+            tweet = f"{headline}. For buyers, the decision comes down to trust, price, and whether it is useful after the first week."
         else:
-            tweet = f"{category}: {angle} The real signal is whether this changes cost, workflow, or distribution."
+            tweet = f"{headline}. {takeaway}"
         return self.clean_generic_slop(tweet, opportunity)
+
+    def _source_headline(self, opportunity: dict[str, Any]) -> str:
+        title = str(opportunity.get("title", "")).strip()
+        if not title:
+            sources = opportunity.get("sources", []) or []
+            title = str((sources[0] if sources else {}).get("title", "Tech update"))
+        title = unescape(re.sub(r"<[^>]+>", " ", title))
+        return self._trim(" ".join(title.split()).rstrip("."), 155)
+
+    def _source_takeaway(self, opportunity: dict[str, Any]) -> str:
+        sources = opportunity.get("sources", []) or []
+        source_text = " ".join(
+            str(source.get("text", "")) for source in sources[:2]
+        ).lower()
+        text = f"{self._source_headline(opportunity)} {source_text}".lower()
+        if any(word in text for word in ["privacy", "data", "security", "breach"]):
+            return "Trust breaks when a privacy claim and the actual data flow do not line up."
+        if any(word in text for word in ["ai", "model", "agent", "llm"]):
+            return "The interesting part is whether it becomes useful inside an existing workflow, not just impressive in a launch video."
+        if any(word in text for word in ["gpu", "chip", "nvidia", "semiconductor"]):
+            return "The follow-through now is cost, availability, and whether developers can actually use the stack."
+        if any(word in text for word in ["phone", "watch", "wearable", "laptop", "device"]):
+            return "Specs are the easy part; daily usefulness is what decides whether people care."
+        return "The interesting part is what changes for people using the product every day."
 
     def _opportunity_text(self, opportunity: dict[str, Any]) -> str:
         parts = [
