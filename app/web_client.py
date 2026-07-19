@@ -167,7 +167,19 @@ class WebFeedClient:
     def _fetch_feed(self, url: str) -> list[dict[str, Any]]:
         response = requests.get(url, timeout=20)
         response.raise_for_status()
-        root = ET.fromstring(response.content)
+        content = response.content
+        try:
+            root = ET.fromstring(content)
+        except ET.ParseError:
+            # Some otherwise-useful publisher feeds contain unescaped ampersands
+            # in URLs or headlines. Repair only invalid entities, then parse
+            # again so a single bad character does not discard the whole feed.
+            repaired = re.sub(
+                rb"&(?!#?[0-9a-zA-Z]+;)",
+                b"&amp;",
+                content,
+            )
+            root = ET.fromstring(repaired)
         if root.tag.endswith("rss"):
             return self._parse_rss(root, url)
         return self._parse_atom(root, url)
@@ -178,12 +190,36 @@ class WebFeedClient:
             title = self._text(item, "title")
             link = self._text(item, "link")
             summary = self._text(item, "description")
+            source_name, publisher_url = self._rss_source(item)
             created_at = self._parse_date(
                 self._text(item, "pubDate") or self._text(item, "updated")
             )
             if title and link:
-                items.append(self._item(feed_url, title, link, summary, created_at))
+                items.append(
+                    self._item(
+                        feed_url,
+                        title,
+                        link,
+                        summary,
+                        created_at,
+                        source_name,
+                        publisher_url,
+                    )
+                )
         return items
+
+    def _rss_source(self, item: ET.Element) -> tuple[str, str]:
+        """Keep the original publisher behind a Google News RSS result.
+
+        Google News article links live on news.google.com, but the RSS ``source``
+        tag includes the original publisher and its domain.  Keeping both lets the
+        verification layer distinguish an OpenAI/Reuters story from an unknown blog.
+        """
+        source = item.find("source")
+        if source is None:
+            return "", ""
+        name = " ".join((source.text or "").split())
+        return name, str(source.attrib.get("url", "")).strip()
 
     def _parse_atom(self, root: ET.Element, feed_url: str) -> list[dict[str, Any]]:
         namespace = {"atom": "http://www.w3.org/2005/Atom"}
@@ -211,6 +247,8 @@ class WebFeedClient:
         url: str,
         summary: str,
         created_at: str,
+        source_name: str = "",
+        publisher_url: str = "",
     ) -> dict[str, Any]:
         return {
             "id": url,
@@ -218,8 +256,9 @@ class WebFeedClient:
             "title": title,
             "text": f"{title}\n{summary}".strip(),
             "created_at": created_at,
-            "author_name": feed_url,
-            "author_username": feed_url,
+            "author_name": source_name or feed_url,
+            "author_username": source_name or feed_url,
+            "publisher_url": publisher_url,
             "public_metrics": {"like_count": 0, "retweet_count": 0, "quote_count": 0},
             "score": 0,
             "url": url,

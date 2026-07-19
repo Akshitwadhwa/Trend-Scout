@@ -560,6 +560,13 @@ class TrendWriter:
             ("Claude", ["claude", "anthropic"]),
             ("Codex", ["codex"]),
             ("OpenAI", ["openai", "chatgpt", "gpt"]),
+            ("Kimi", ["kimi", "moonshot"]),
+            ("DeepSeek", ["deepseek"]),
+            ("Qwen", ["qwen", "alibaba cloud model"]),
+            ("Mistral", ["mistral", "codestral", "devstral", "voxtral"]),
+            ("Gemini", ["gemini", "google deepmind"]),
+            ("Meta AI", ["meta ai", "llama"]),
+            ("Grok", ["xai", "grok"]),
             # Keep AI before broad device/wearable matching. RSS descriptions
             # often mention unrelated products in their page boilerplate.
             ("AI", [" ai ", "ai-", "ai-powered", "artificial intelligence", "llm", "model"]),

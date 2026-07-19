@@ -8,10 +8,12 @@ from typing import Any
 from app.ai_writer import TrendWriter
 from app.config import Settings
 from app.db import Database
+from app.openai_research import OpenAIWebResearcher
 from app.output_writer import OutputWriter
 from app.reply_scout import ReplyScout
 from app.web_client import WebFeedClient
 from app.x_client import XClient
+from app.verified_brief import VerifiedBriefBuilder
 
 
 class Workflow:
@@ -24,6 +26,7 @@ class Workflow:
         web_client: WebFeedClient,
         writer: TrendWriter,
         output_writer: OutputWriter,
+        researcher: OpenAIWebResearcher | None = None,
     ) -> None:
         self.settings = settings
         self.db = db
@@ -31,13 +34,29 @@ class Workflow:
         self.web_client = web_client
         self.writer = writer
         self.output_writer = output_writer
+        self.researcher = researcher or OpenAIWebResearcher(settings)
+        self.brief_builder = VerifiedBriefBuilder(
+            int(getattr(settings, "verified_max_age_hours", 72))
+        )
         self._last_x_errors: list[str] = []
 
     def scan(self) -> dict[str, Any]:
         topic_query = self.db.get_topic_query(self.settings.topic_query)
-        selected = self._collect_sources(topic_query)
+        free_sources = self._collect_sources(topic_query)
+        cloud_sources = self._openai_research_sources(topic_query)
+        discovered = self._select_items([*cloud_sources, *free_sources])
+        verified_brief = self.brief_builder.build(discovered)
+        selected = self._post_ready_sources(discovered, verified_brief)
         if not selected:
-            return {"status": "no_sources", "topic_query": topic_query, "opportunities": []}
+            return {
+                "status": "no_sources",
+                "topic_query": topic_query,
+                "source_count": 0,
+                "discovered_count": len(discovered),
+                "opportunities": [],
+                "verified_brief": verified_brief,
+                "openai_research": self._research_status(),
+            }
 
         opportunities = self.writer.find_opportunities(
             topic_query=topic_query,
@@ -70,6 +89,7 @@ class Workflow:
             "status": "ok",
             "topic_query": topic_query,
             "source_count": len(selected),
+            "discovered_count": len(discovered),
             "x_source_count": len(
                 [item for item in selected if item.get("source_type") == "x"]
             ),
@@ -84,6 +104,8 @@ class Workflow:
             ),
             "x_scan_errors": self._last_x_errors[:5],
             "web_feed_errors": self.web_client.last_errors[:5],
+            "verified_brief": verified_brief,
+            "openai_research": self._research_status(),
             "created_count": len(created),
             "duplicate_count": duplicates,
             "opportunities": created,
@@ -127,6 +149,10 @@ class Workflow:
             content_pack=content_pack,
             opportunities=opportunities,
         )
+        if getattr(self.settings, "enable_verified_brief", True):
+            output_files["verified_brief"] = self.output_writer.save_verified_brief(
+                scan_result.get("verified_brief", {})
+            )
         return {
             "status": "ok",
             "scan": scan_result,
@@ -146,6 +172,10 @@ class Workflow:
             ctr_pack=ctr_pack,
             opportunities=opportunities,
         )
+        if getattr(self.settings, "enable_verified_brief", True):
+            output_files["verified_brief"] = self.output_writer.save_verified_brief(
+                scan_result.get("verified_brief", {})
+            )
         return {
             "status": "ok",
             "scan": scan_result,
@@ -349,19 +379,76 @@ class Workflow:
             items.extend(self.web_client.fetch_items())
         return self._select_items(items)
 
+    def _openai_research_sources(self, topic_query: str) -> list[dict[str, Any]]:
+        records = self.researcher.research(topic_query)
+        items: list[dict[str, Any]] = []
+        for record in records:
+            source_url = str(record.get("source_url", "")).strip()
+            title = str(record.get("title", "")).strip()
+            if not source_url or not title:
+                continue
+            source_name = str(record.get("source_name", "OpenAI web research")).strip()
+            text = "\n".join(
+                value
+                for value in [
+                    title,
+                    str(record.get("what_happened", "")).strip(),
+                    str(record.get("why_it_matters", "")).strip(),
+                ]
+                if value
+            )
+            items.append(
+                {
+                    "id": source_url,
+                    "source_type": "openai_web_research",
+                    "title": title,
+                    "text": text,
+                    "created_at": str(record.get("published_at", "")),
+                    "author_name": source_name,
+                    "author_username": source_name.lower().replace(" ", "-")[:80],
+                    "public_metrics": {"like_count": 0, "retweet_count": 0, "quote_count": 0},
+                    "score": float(record.get("confidence", 0.75) or 0.75) * 1_000,
+                    "url": source_url,
+                }
+            )
+        return items
+
+    def _post_ready_sources(
+        self,
+        discovered: list[dict[str, Any]],
+        verified_brief: dict[str, Any],
+    ) -> list[dict[str, Any]]:
+        ready_urls = {
+            str(item.get("source_url", ""))
+            for item in verified_brief.get("items", [])
+            if item.get("eligible") and item.get("source_level") in {"primary", "web_researched", "reputable"}
+        }
+        return [item for item in discovered if item.get("url") in ready_urls]
+
+    def _research_status(self) -> dict[str, Any]:
+        return {
+            "enabled": self.researcher.enabled,
+            "configured": self.researcher.configured,
+            "error": self.researcher.last_error,
+        }
+
     def _select_items(self, items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         selected: list[dict[str, Any]] = []
-        seen_authors: set[str] = set()
+        author_counts: dict[str, int] = {}
         seen_urls: set[str] = set()
         for item in sorted(items, key=lambda value: value.get("created_at", ""), reverse=True):
             username = item.get("author_username", item.get("author_name", "unknown"))
             url = item["url"]
             if url in seen_urls:
                 continue
-            if username in seen_authors:
+            # RSS items share the feed URL as their author. Keep a small batch
+            # from a curated feed so an AI radar can surface several distinct
+            # releases, while still limiting repetition from a single X author.
+            per_source_limit = 4 if item.get("source_type") == "web" else 1
+            if author_counts.get(username, 0) >= per_source_limit:
                 continue
             selected.append(item)
-            seen_authors.add(username)
+            author_counts[username] = author_counts.get(username, 0) + 1
             seen_urls.add(url)
             if len(selected) == 12:
                 break

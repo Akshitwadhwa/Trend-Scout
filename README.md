@@ -2,7 +2,7 @@
 
 A small Python service that scans recent X posts and web feeds, finds timely tech topics, and drafts a post only when you ask for one.
 
-This version does not auto-post and does not include any external messaging integration. Hermes runs the workflow and returns the output in your Hermes chat.
+This version does not auto-post. It produces local files for you to review and paste manually.
 
 ## What it does
 
@@ -14,9 +14,10 @@ This version does not auto-post and does not include any external messaging inte
 - Stores those opportunities in SQLite.
 - Lets you list opportunities and ask for a draft from a chosen one.
 - Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, copy-paste-ready tweet winners into `out/`, India-specific tech tweets into `out/`, and JSON artifacts into `json/`.
-- Exposes each best X post as plain text for Hermes to send as separate WhatsApp messages. Local `.txt` files under `out/*-x-post-messages/` are fallback artifacts only, not WhatsApp attachments.
+- Creates a `verified-tech-brief.md` before each optimized pack, with freshness, source level, direct links, and a verification note.
 - Uses local Ollama for topic judgment and drafting. The default model is `gemma3:1b` so it can run on an 8 GB Mac.
 - Falls back to simple engagement-based opportunities if Ollama is offline or returns an unusable result.
+- Can optionally use the OpenAI Responses API with web search to add current linked research. It remains disabled unless you explicitly enable it in your private `.env`.
 - Can send already approved draft text to your Telegram chat only when you call the manual Telegram endpoint. It never auto-posts to X.
 
 ## Setup
@@ -25,7 +26,7 @@ This version does not auto-post and does not include any external messaging inte
 ```env
 APP_NAME=X Trend Scout
 X_BEARER_TOKEN=your_x_bearer_token_optional
-OPENAI_API_KEY=your_openai_key_optional_but_recommended
+OPENAI_API_KEY=
 OUTPUT_DIR=./outputs
 HIGH_CTR_DIR=./out
 JSON_DIR=./json
@@ -47,6 +48,7 @@ make dev
 make test
 make fresh      # normal latest high-CTR pack
 make top-ai     # only use curated top AI accounts as source signals
+python scripts/fresh.py ai-radar --limit 5 # OpenAI/Meta/Google/Anthropic/Kimi/DeepSeek/Qwen/Mistral radar
 make india      # latest India-aware tech posts
 make growth     # X-algorithm-aware growth pack
 make nvidia     # NVIDIA event/chips/AI factory pack
@@ -61,7 +63,32 @@ Keep the Ollama desktop app running, then use the local settings in `.env`:
 ```env
 ENABLE_OLLAMA=true
 OLLAMA_BASE_URL=http://127.0.0.1:11434
-OLLAMA_MODEL=gemma3:1b
+OLLAMA_MODEL=qwen2.5:3b
+```
+
+## Verified Brief and Optional OpenAI Web Research
+
+Every fresh pack now includes `out/*-verified-tech-brief.md`. Read it before posting: `primary` is an official domain, `reputable` is a trusted publication, `web_researched` is a direct link returned by OpenAI web research that you should open once, and `discovery` is never used for a generated post.
+
+The free local mode uses the feeds you configured:
+
+```env
+ENABLE_VERIFIED_BRIEF=true
+VERIFIED_MAX_AGE_HOURS=72
+```
+
+To add optional paid current-web research, create a private `.env`, add your own key locally, and opt in. Never paste this key into chat or commit it to Git.
+
+```env
+ENABLE_OPENAI_RESEARCH=true
+OPENAI_API_KEY=your_key_here
+OPENAI_RESEARCH_MODEL=gpt-5
+```
+
+The implementation uses the OpenAI Responses API with its web-search tool and sends `store: false`. You can check whether it is enabled without exposing the key:
+
+```bash
+curl http://127.0.0.1:8000/research/status
 ```
 
 Telegram is optional and is for draft delivery only. Create a bot through `@BotFather`, start a chat with it, then add its token and your chat ID to `.env`. Keep the token private and never paste it into an AI chat.
@@ -118,8 +145,6 @@ curl -X POST http://127.0.0.1:8000/optimize \
 Markdown files are saved in `out/` for high-CTR packs and `outputs/` for regular drafts. JSON files are saved in `json/`.
 
 For the fastest posting workflow, open the newest `out/*-copy-paste-tweets.md` file. It contains complete tweets that are already assembled from the best hook, angle, and format, so you can copy one directly into X.
-
-For WhatsApp delivery, Hermes should send each generated X post as its own plain-text message containing only the tweet text. Do not attach the local `out/*-x-post-messages.txt` file or the files inside `out/*-x-post-messages/`; those are fallback artifacts only.
 
 For India-focused posts, open the newest `out/*-india-tech-tweets.md` file. It contains longer tweets that translate global tech topics into Indian buyer, startup, creator, developer, pricing, and consumer angles.
 
@@ -191,6 +216,14 @@ make india
 # or
 python scripts/fresh.py india --limit 5
 ```
+
+For the latest AI-model and lab updates—including OpenAI, Anthropic, Gemini, Meta/Llama, xAI/Grok, Kimi/Moonshot, DeepSeek, Qwen, Mistral, and Hugging Face—use the AI radar:
+
+```bash
+python scripts/fresh.py ai-radar --limit 5
+```
+
+This is retrieval, not training: the local writer receives current source material on each run. Enable optional OpenAI web research if you want a second current-web pass with direct links.
 
 For an X-algorithm-aware growth pack:
 

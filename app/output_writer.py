@@ -38,6 +38,43 @@ class OutputWriter:
             "json": str(json_path),
         }
 
+    def save_verified_brief(self, verified_brief: dict[str, Any]) -> dict[str, str]:
+        timestamp = datetime.now(timezone.utc).strftime("%Y%m%d-%H%M%S")
+        markdown_path = self.high_ctr_dir / f"{timestamp}-verified-tech-brief.md"
+        json_path = self.json_dir / f"{timestamp}-verified-tech-brief.json"
+        lines = [
+            "# Verified Tech Brief",
+            "",
+            "Read this before posting. Primary sources are publishable facts; discovery sources need another check.",
+            "",
+            f"Freshness window: {verified_brief.get('max_age_hours', 72)} hours",
+            f"Post-ready sources: {verified_brief.get('ready_count', 0)}",
+            "Source mix: " + ", ".join(
+                f"{level} {count}"
+                for level, count in verified_brief.get("source_counts", {}).items()
+            ),
+            "",
+        ]
+        for index, item in enumerate(verified_brief.get("items", []), start=1):
+            lines.extend(
+                [
+                    f"## {index}. {item.get('title', '')}",
+                    "",
+                    f"Source level: {item.get('source_level', 'discovery')}",
+                    f"Published: {item.get('published_at', 'Unknown')} | Age: {item.get('age_hours', 'Unknown')} hours",
+                    f"Source: {item.get('source_name', 'Unknown')}",
+                    f"URL: {item.get('source_url', '')}",
+                    "",
+                    item.get("what_happened", ""),
+                    "",
+                    f"Check: {item.get('verification_note', '')}",
+                    "",
+                ]
+            )
+        markdown_path.write_text("\n".join(lines), encoding="utf-8")
+        json_path.write_text(json.dumps(verified_brief, ensure_ascii=True, indent=2), encoding="utf-8")
+        return {"markdown": str(markdown_path), "json": str(json_path)}
+
     def save_content_pack(
         self,
         *,

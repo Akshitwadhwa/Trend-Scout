@@ -111,6 +111,7 @@ async def root() -> dict[str, object]:
         "optimize": "POST /optimize",
         "manual_signal": "POST /manual-signal",
         "fresh": "POST /fresh",
+        "research_status": "GET /research/status",
         "topic": "GET /topic",
         "telegram_status": "GET /telegram/status",
         "telegram_send": "POST /telegram/send (manual only)",
@@ -121,6 +122,11 @@ async def root() -> dict[str, object]:
 @app.get("/healthz")
 async def healthz() -> dict[str, str]:
     return {"status": "ok"}
+
+
+@app.get("/research/status")
+async def research_status() -> dict[str, object]:
+    return workflow._research_status()
 
 
 @app.post("/scan")

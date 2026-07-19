@@ -47,6 +47,20 @@ TOP_AI_ACCOUNT_HANDLES = [
     "bindureddy",
 ]
 
+AI_RADAR_FEEDS = [
+    "https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20Claude%20OR%20ChatGPT%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Google%20DeepMind%20OR%20Gemini%20OR%20Meta%20AI%20OR%20Llama%20OR%20xAI%20OR%20Grok%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Kimi%20OR%20Moonshot%20AI%20OR%20DeepSeek%20OR%20Qwen%20OR%20Mistral%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://huggingface.co/blog/feed.xml",
+]
+
+AI_RADAR_KEYWORDS = [
+    "openai", "chatgpt", "gpt", "anthropic", "claude", "google deepmind", "gemini",
+    "meta ai", "llama", "xai", "grok", "kimi", "moonshot", "deepseek", "qwen",
+    "mistral", "hugging face", "ai model", "model release", "api", "agent", "benchmark",
+    "open weights", "reasoning", "coding model", "multimodal",
+]
+
 NVIDIA_FEEDS = [
     "https://news.google.com/rss/search?q=NVIDIA%20GTC%20Taipei%202026%20OR%20Computex%202026%20Jensen%20Huang%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=NVIDIA%20RTX%20Spark%20AI%20PCs%20Windows%20laptops%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
@@ -125,6 +139,10 @@ DEFAULT_STYLES = {
         "factual, statement-led, concrete, high CTR, no hype, based on signals from top AI accounts, "
         "do not copy their wording, turn each signal into an original factual X post"
     ),
+    "ai-radar": (
+        "current AI news, casual and sharp student developer voice, name the model or company, "
+        "explain what changed and one honest implication, no hype, no fake benchmark claims"
+    ),
     "india": (
         "factual, statement-led, high CTR, India-aware, latest India angle, useful for Indian tech audience, "
         "buyers, founders, creators, developers, students, pricing, jobs, regulation where relevant, no hype"
@@ -156,9 +174,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "mode",
         nargs="?",
-        choices=["fresh", "top-ai", "india", "growth", "nvidia", "tesla", "reply-scout"],
+        choices=["fresh", "top-ai", "ai-radar", "india", "growth", "nvidia", "tesla", "reply-scout"],
         default="fresh",
-        help="fresh=normal scan, top-ai=signals from top AI accounts, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, nvidia=NVIDIA event/chips/AI factory scan, tesla=Tesla EV/FSD/Optimus/energy scan, reply-scout=high-signal source tweets plus copy-paste replies",
+        help="fresh=normal scan, top-ai=signals from top AI accounts, ai-radar=latest model/company release radar, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, nvidia=NVIDIA event/chips/AI factory scan, tesla=Tesla EV/FSD/Optimus/energy scan, reply-scout=high-signal source tweets plus copy-paste replies",
     )
     parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--style", default="")
@@ -203,6 +221,21 @@ def settings_for_mode(settings, args: argparse.Namespace):
             enable_web_scan=False,
             x_watch_handles=handles,
             max_watchlist_results=max(args.limit * 3, settings.max_watchlist_results),
+        )
+    if args.mode == "ai-radar":
+        return replace(
+            settings,
+            topic_query=(
+                "OpenAI ChatGPT GPT Anthropic Claude Google DeepMind Gemini Meta AI Llama "
+                "xAI Grok Kimi Moonshot DeepSeek Qwen Mistral Hugging Face model release API agent"
+            ),
+            enable_x_scan=False,
+            enable_x_watchlist=False,
+            enable_x_timeline=False,
+            enable_web_scan=True,
+            max_web_results=max(80, settings.max_web_results),
+            web_feed_urls=AI_RADAR_FEEDS,
+            web_keywords=AI_RADAR_KEYWORDS,
         )
     if args.mode == "india":
         return replace(
@@ -300,6 +333,7 @@ def main() -> None:
     label = {
         "fresh": "Fresh high-CTR pack created",
         "top-ai": "Top AI account high-CTR pack created",
+        "ai-radar": "Latest AI model radar pack created",
         "india": "Latest India-aware high-CTR pack created",
         "growth": "X-algorithm-aware growth pack created",
         "nvidia": "NVIDIA event high-CTR pack created",
@@ -307,6 +341,14 @@ def main() -> None:
     }[args.mode]
     print(label)
     print(f"Sources found: {source_count}")
+    if scan.get("discovered_count", source_count) > source_count:
+        counts = scan.get("verified_brief", {}).get("source_counts", {})
+        print(
+            "Quality gate: "
+            f"{source_count} post-ready of {scan['discovered_count']} discovered "
+            f"(primary {counts.get('primary', 0)}, web-researched {counts.get('web_researched', 0)}, "
+            f"reputable {counts.get('reputable', 0)}, discovery {counts.get('discovery', 0)})."
+        )
     print(f"Tracked-account posts: {x_watchlist_count}")
     print(f"Timeline posts: {x_timeline_count}")
     print(f"New opportunities: {created_count}")
@@ -323,8 +365,16 @@ def main() -> None:
         print(result["output_files"]["ready_tweets"])
     if result["output_files"].get("india_tweets"):
         print(result["output_files"]["india_tweets"])
+    verified = result["output_files"].get("verified_brief")
+    if verified:
+        print(verified["markdown"])
+    research = scan.get("openai_research", {})
+    if research.get("enabled") and not research.get("configured"):
+        print("OpenAI web research is enabled but no API key is configured; using free verified sources only.")
+    if research.get("error"):
+        print(f"OpenAI web research warning: {research['error']}")
     if created_count == 0:
-        print("No post-ready topics were found. Check feed/network access, X API access, or broaden WEB_KEYWORDS.")
+        print("No post-ready topics were found. Open the verified brief: discovery stories are visible there, but are not turned into tweets until their source is trustworthy.")
 
 
 if __name__ == "__main__":
