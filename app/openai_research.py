@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 from datetime import datetime, timezone
+from time import monotonic, sleep
 from typing import Any
 
 import requests
@@ -50,15 +51,48 @@ class OpenAIWebResearcher:
                     "tools": [{"type": "web_search"}],
                     "input": prompt,
                     "store": False,
+                    # Web research can take longer than a single HTTP request.
+                    # Submit quickly, then poll the durable Response instead.
+                    "background": True,
                 },
-                timeout=self.timeout,
+                timeout=(10, 30),
             )
             response.raise_for_status()
-            payload = response.json()
+            payload = self._wait_for_completion(response.json())
             return self._items_from_response(payload)
         except (requests.RequestException, ValueError, RuntimeError) as exc:
             self.last_error = str(exc)
             return []
+
+    def _wait_for_completion(self, payload: dict[str, Any]) -> dict[str, Any]:
+        """Poll an OpenAI background Response until it finishes or times out."""
+        status = str(payload.get("status", "completed"))
+        response_id = str(payload.get("id", ""))
+        if not response_id or status not in {"queued", "in_progress"}:
+            return payload
+
+        deadline = monotonic() + max(30, self.timeout)
+        headers = {"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"}
+        while status in {"queued", "in_progress"}:
+            remaining = deadline - monotonic()
+            if remaining <= 0:
+                raise RuntimeError(
+                    f"OpenAI web research is still running after {self.timeout} seconds. Try again shortly."
+                )
+            sleep(min(2.0, remaining))
+            response = requests.get(
+                f"https://api.openai.com/v1/responses/{response_id}",
+                headers=headers,
+                timeout=(10, min(30, max(5, remaining))),
+            )
+            response.raise_for_status()
+            payload = response.json()
+            status = str(payload.get("status", ""))
+
+        if status != "completed":
+            error = payload.get("error") or payload.get("incomplete_details") or status
+            raise RuntimeError(f"OpenAI web research finished with status {status}: {error}")
+        return payload
 
     def _items_from_response(self, payload: dict[str, Any]) -> list[dict[str, Any]]:
         text = str(payload.get("output_text", "")).strip()

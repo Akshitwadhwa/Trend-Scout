@@ -60,7 +60,7 @@ class Settings:
     verified_max_age_hours: int = 72
     enable_openai_research: bool = False
     openai_research_model: str = "gpt-5"
-    openai_research_timeout_seconds: int = 120
+    openai_research_timeout_seconds: int = 240
     telegram_bot_token: str = ""
     telegram_chat_id: str = ""
 
@@ -120,7 +120,7 @@ def load_settings() -> Settings:
         verified_max_age_hours=_read_int("VERIFIED_MAX_AGE_HOURS", 72),
         enable_openai_research=_read_bool("ENABLE_OPENAI_RESEARCH", False),
         openai_research_model=os.getenv("OPENAI_RESEARCH_MODEL", "gpt-5").strip(),
-        openai_research_timeout_seconds=_read_int("OPENAI_RESEARCH_TIMEOUT_SECONDS", 120),
+        openai_research_timeout_seconds=_read_int("OPENAI_RESEARCH_TIMEOUT_SECONDS", 240),
         telegram_bot_token=os.getenv("TELEGRAM_BOT_TOKEN", "").strip(),
         telegram_chat_id=os.getenv("TELEGRAM_CHAT_ID", "").strip(),
     )
