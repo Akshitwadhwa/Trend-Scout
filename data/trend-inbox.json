@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-21T15:17:29.724505+00:00",
+  "updated_at": "2026-07-21T17:44:19.496539+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Google releases series of new cheaper Gemini models - Axios",
+      "what_happened": "Google releases series of new cheaper Gemini models Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RU3d0SjI4RDhqRmVpWngySnBYYWRQYWE3X3EyMU1nck9OdzZoaDV0bldOcHJzUFAzcUdMQUdpb041VUNOY2cyd3NGeENiT05Rd0VISm5WdHFkdndRSEp0MkI1V0xkcnM?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-07-21T16:37:25+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber - blog.google",
+      "what_happened": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber blog.google",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
+      "source_name": "blog.google",
+      "source_level": "primary",
+      "published_at": "2026-07-21T15:29:15+00:00",
+      "age_hours": 2.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Introducing Gemini 3.5 Flash Cyber - Google DeepMind",
+      "what_happened": "Introducing Gemini 3.5 Flash Cyber Google DeepMind",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xOHJWU3UtRmM3dTNLQmpTRTFuZVZDbDdmbTlTRFBnMTMzalNtZVFEM1hYSlBwYVBYR2kyandPdXhZWHFRcHcyUWtTU285eWxHTWQ1T3Vqc0tuc0pjbGl3THNjUGJxczduTUE1Y1B2emlWZw?oc=5",
+      "source_name": "Google DeepMind",
+      "source_level": "primary",
+      "published_at": "2026-07-21T15:19:23+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Google updates lightweight Gemini models, but flagship still delayed - Reuters",
+      "what_happened": "Google updates lightweight Gemini models, but flagship still delayed Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDRLdU9xd0dNMlRnbVYydzAyZ1ZSS2o2LU5iQ0FjT2V2Z1pfMFgzRTBadWMxbXNPeGsxdllXR1Y4ZmVIQjdFS0N0d3dEN1gyS1JEWkpLd3RmT3VLZU9EZlo4QlAwZVlieVNWWEFVUGprdW0zRnlPSk9IVVpKcGRrMEVJc2RWMlV3ZzdtajFZYWZtMnlzYjJ5Z0c0cDlnTXhCR2dkMXVPM1BvMFRP?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-21T15:04:09+00:00",
+      "age_hours": 2.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Google expands Gemini lineup with cheaper models and new Mythos rival - CNBC",
       "what_happened": "Google expands Gemini lineup with cheaper models and new Mythos rival CNBC",
