@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-21T17:44:19.496539+00:00",
+  "updated_at": "2026-07-21T19:50:52.229745+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Introducing the ChatGPT for small business program - OpenAI",
+      "what_happened": "Introducing the ChatGPT for small business program OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wRGdxajhiVG1FbjR4eWZNV0VmMUhuZ0VtWi0zT28wMFd0VGZUZVhRZFpYSEM0Y2puWHFhWFc1bkhHcHE4V282NHZGRE9KTl9GTW50b1g0QWNJclJLcklKalh2LVhUcVEzT0NNTncxcXNuQmhIYlE4?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-21T17:18:30+00:00",
+      "age_hours": 2.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro - TechCrunch",
+      "what_happened": "Google releases three new Gemini models \u2014 but no 3.5 Pro TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdE9NSnZmTzNhQVlTaDNTWmNfRnhOWEs4NXNmWFRoUldoNV9idklBc3JYRzJzQVpDS3FRZFNueTBFaVVFUzJ3Y0dtSzY2ekdGdVY3V2pYeEYyRVlZN0dpa2x5X2tHWkN2LU9vQmM3bEdMVmhTczREU1RSNExfWDc3VW1wYlhGU0JVeVpUWVliVUxON3M?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-21T17:11:50+00:00",
+      "age_hours": 2.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Google releases series of new cheaper Gemini models - Axios",
       "what_happened": "Google releases series of new cheaper Gemini models Axios",
@@ -9,7 +31,7 @@
       "source_name": "Axios",
       "source_level": "reputable",
       "published_at": "2026-07-21T16:37:25+00:00",
-      "age_hours": 1.1,
+      "age_hours": 3.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
