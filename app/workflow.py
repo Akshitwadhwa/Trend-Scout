@@ -11,6 +11,7 @@ from app.db import Database
 from app.openai_research import OpenAIWebResearcher
 from app.output_writer import OutputWriter
 from app.reply_scout import ReplyScout
+from app.trend_inbox import TrendInbox
 from app.web_client import WebFeedClient
 from app.x_client import XClient
 from app.verified_brief import VerifiedBriefBuilder
@@ -53,6 +54,7 @@ class Workflow:
                 "topic_query": topic_query,
                 "source_count": 0,
                 "discovered_count": len(discovered),
+                "cloud_source_count": len(cloud_sources),
                 "opportunities": [],
                 "verified_brief": verified_brief,
                 "openai_research": self._research_status(),
@@ -90,6 +92,7 @@ class Workflow:
             "topic_query": topic_query,
             "source_count": len(selected),
             "discovered_count": len(discovered),
+            "cloud_source_count": len(cloud_sources),
             "x_source_count": len(
                 [item for item in selected if item.get("source_type") == "x"]
             ),
@@ -109,6 +112,28 @@ class Workflow:
             "created_count": len(created),
             "duplicate_count": duplicates,
             "opportunities": created,
+        }
+
+    def refresh_trend_inbox(self, *, retention_hours: int = 48) -> dict[str, Any]:
+        """Collect sources only; this hourly path never invokes the local writer."""
+        topic_query = self.db.get_topic_query(self.settings.topic_query)
+        free_sources = self._collect_sources(topic_query)
+        cloud_sources = self._openai_research_sources(topic_query)
+        discovered = self._select_items([*cloud_sources, *free_sources])
+        verified_brief = self.brief_builder.build(discovered)
+        inbox = TrendInbox(
+            self.settings.database_path.parent / "trend-inbox.json",
+            retention_hours=retention_hours,
+        ).merge(verified_brief)
+        return {
+            "status": "ok",
+            "discovered_count": len(discovered),
+            "cloud_source_count": len(cloud_sources),
+            "inbox_count": len(inbox.get("items", [])),
+            "inbox_path": str(self.settings.database_path.parent / "trend-inbox.json"),
+            "verified_brief": verified_brief,
+            "web_feed_errors": self.web_client.last_errors[:5],
+            "openai_research": self._research_status(),
         }
 
     def draft_post(self, opportunity_id: int, style: str = "") -> dict[str, Any]:
@@ -436,7 +461,13 @@ class Workflow:
         selected: list[dict[str, Any]] = []
         author_counts: dict[str, int] = {}
         seen_urls: set[str] = set()
-        for item in sorted(items, key=lambda value: value.get("created_at", ""), reverse=True):
+        # A web-research response often uses a date-only publication date while
+        # RSS entries use a timestamp.  Sort by recency first, then promote the
+        # direct research results so they are not accidentally pushed out by a
+        # breaking-news cluster from Google News.
+        ranked_items = sorted(items, key=lambda value: value.get("created_at", ""), reverse=True)
+        ranked_items.sort(key=lambda value: value.get("source_type") != "openai_web_research")
+        for item in ranked_items:
             username = item.get("author_username", item.get("author_name", "unknown"))
             url = item["url"]
             if url in seen_urls:

@@ -30,12 +30,12 @@ class OpenAIWebResearcher:
             return []
         today = datetime.now(timezone.utc).date().isoformat()
         prompt = (
-            "Research the newest important technology developments from the past 48 hours. "
-            "Focus on releases and updates from OpenAI, Anthropic, Google DeepMind/Gemini, Meta AI/Llama, "
-            "xAI/Grok, Kimi/Moonshot, DeepSeek, Qwen/Alibaba, Mistral, Hugging Face, plus developer tools, chips, consumer devices, startups, and tech policy. "
-            "and India-relevant technology when there is a real connection. Prefer the original company newsroom, "
-            "research lab, regulator, or product release page over reporting. Do not include rumours. "
-            "Every item needs one direct source URL and an explicit publication date. "
+            "Find at most four distinct, high-confidence AI product or model releases from the past seven days. "
+            "Cover different companies where possible: OpenAI, Anthropic, Google DeepMind/Gemini, Meta AI/Llama, "
+            "xAI/Grok, Kimi/Moonshot, DeepSeek, Qwen/Alibaba, Mistral, or Hugging Face. "
+            "Use only a first-party company newsroom, research-lab, documentation, or product-release page. "
+            "Skip rumours, reports about plans, benchmark chatter, funding, policy, consumer devices, and duplicate stories. "
+            "Choose no more than one item per company. Every item needs one direct source URL and an explicit publication date. "
             "Return JSON only with this shape: "
             '{"items":[{"title":"...","what_happened":"...","why_it_matters":"...",'
             '"published_at":"YYYY-MM-DD","source_name":"...","source_url":"https://...",'
@@ -51,6 +51,8 @@ class OpenAIWebResearcher:
                     "tools": [{"type": "web_search"}],
                     "input": prompt,
                     "store": False,
+                    "reasoning": {"effort": "low"},
+                    "text": {"verbosity": "low"},
                     # Web research can take longer than a single HTTP request.
                     # Submit quickly, then poll the durable Response instead.
                     "background": True,
@@ -76,8 +78,9 @@ class OpenAIWebResearcher:
         while status in {"queued", "in_progress"}:
             remaining = deadline - monotonic()
             if remaining <= 0:
+                self._cancel_background(response_id, headers)
                 raise RuntimeError(
-                    f"OpenAI web research is still running after {self.timeout} seconds. Try again shortly."
+                    f"OpenAI web research was cancelled after {self.timeout} seconds. Try again shortly."
                 )
             sleep(min(2.0, remaining))
             response = requests.get(
@@ -94,8 +97,19 @@ class OpenAIWebResearcher:
             raise RuntimeError(f"OpenAI web research finished with status {status}: {error}")
         return payload
 
+    def _cancel_background(self, response_id: str, headers: dict[str, str]) -> None:
+        """Avoid leaving a costly background response running after our deadline."""
+        try:
+            requests.post(
+                f"https://api.openai.com/v1/responses/{response_id}/cancel",
+                headers=headers,
+                timeout=(10, 20),
+            )
+        except requests.RequestException:
+            pass
+
     def _items_from_response(self, payload: dict[str, Any]) -> list[dict[str, Any]]:
-        text = str(payload.get("output_text", "")).strip()
+        text = self._output_text(payload)
         if not text:
             raise RuntimeError("OpenAI web research returned no text.")
         start, end = text.find("{"), text.rfind("}")
@@ -106,3 +120,22 @@ class OpenAIWebResearcher:
         if not isinstance(items, list):
             raise RuntimeError("OpenAI web research JSON has no items list.")
         return [item for item in items[:8] if isinstance(item, dict) and item.get("source_url") and item.get("title")]
+
+    def _output_text(self, payload: dict[str, Any]) -> str:
+        """Read text from both SDK-style and raw REST Responses API payloads."""
+        direct = str(payload.get("output_text", "")).strip()
+        if direct:
+            return direct
+        parts: list[str] = []
+        for item in payload.get("output", []):
+            if not isinstance(item, dict) or item.get("type") != "message":
+                continue
+            for content in item.get("content", []):
+                if not isinstance(content, dict):
+                    continue
+                if content.get("type") not in {"output_text", "text"}:
+                    continue
+                value = str(content.get("text", "")).strip()
+                if value:
+                    parts.append(value)
+        return "\n".join(parts).strip()

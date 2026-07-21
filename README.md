@@ -70,6 +70,34 @@ OLLAMA_MODEL=qwen2.5:3b
 
 Every fresh pack now includes `out/*-verified-tech-brief.md`. Read it before posting: `primary` is an official domain, `reputable` is a trusted publication, `web_researched` is a direct link returned by OpenAI web research that you should open once, and `discovery` is never used for a generated post.
 
+## Local trend inbox (hourly scan)
+
+This saves a small local memory of distinct, post-ready stories for 48 hours. It does not write tweets, run Ollama, or post to X.
+
+```bash
+. .venv/bin/activate
+python scripts/scan_trend_inbox.py
+```
+
+The normal command uses free public sources only. To intentionally use the optional paid OpenAI verification for one refresh:
+
+```bash
+python scripts/scan_trend_inbox.py --with-openai
+```
+
+The saved inbox lives at `data/trend-inbox.json`. In Post Lab, click **Load saved trend inbox**, then **Generate original drafts**. It makes at most one draft per distinct story.
+
+## GitHub Actions cloud inbox and Telegram drafts
+
+`.github/workflows/cloud-trend-inbox.yml` runs hourly on GitHub, so it continues while your laptop is off. It saves `data/trend-inbox.json` and `data/draft-inbox.json` back to the repository; those files are the simple, reviewable database. It never posts to X.
+
+Before enabling it in GitHub, add these repository secrets under **Settings → Secrets and variables → Actions**:
+
+- `OPENAI_API_KEY` — required for source-backed web research and automatic cloud drafts.
+- `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` — optional; when both are present, the newest drafts are also delivered to Telegram.
+
+The workflow needs the repository's **Workflow permissions** set to **Read and write** so it can save the inbox JSON files. Telegram is only a delivery channel; the JSON files remain the permanent record.
+
 The free local mode uses the feeds you configured:
 
 ```env

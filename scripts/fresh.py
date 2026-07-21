@@ -341,6 +341,8 @@ def main() -> None:
     }[args.mode]
     print(label)
     print(f"Sources found: {source_count}")
+    if scan.get("cloud_source_count") is not None:
+        print(f"OpenAI web-researched sources: {scan.get('cloud_source_count', 0)}")
     if scan.get("discovered_count", source_count) > source_count:
         counts = scan.get("verified_brief", {}).get("source_counts", {})
         print(
