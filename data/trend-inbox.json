@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-21T19:50:52.229745+00:00",
+  "updated_at": "2026-07-21T21:32:36.129416+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "13 Google tips for a fun, productive summer off from college - blog.google",
+      "what_happened": "13 Google tips for a fun, productive summer off from college blog.google",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHNYTmNwME83SXJzVVlhcVl3SWp5eDROMlVUU1BKRWxKbE8wTFk3NWZBVFJObkxKYTZRQ1Utd3BLRWkzMzdTWnYyblVSQl9WQ3IwQkZhdEdEQWtUb29hdDVqX3FTeDJPRjN0OVFiQzZ0SllvTXNoUzlMRFdnQ0RPcWQteVlVWGI5YWZ6S1hVZENaWFJRUWFMdjJJWlFmN095dkJJODhn?oc=5",
+      "source_name": "blog.google",
+      "source_level": "primary",
+      "published_at": "2026-07-21T20:23:00+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC - OpenAI",
+      "what_happened": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeklNLU5rRmdhSnRjeU5rOE8ybTk1Y2M2ZllZNmVTNXVodjJ2MVFsbVlOOVFTNU5yc1R5ODlCSlN2WjhHS3FQQTIwOXZ6amZfSDQzcUloRDNIeF9IZ25RZGZGTml1enBHVFE0YUpUdy1vQlhncXhZ?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-21T20:14:00+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
+      "what_happened": "OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-21T20:10:21+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "The State of Simulation for Physical AI: An Overview",
+      "what_happened": "The State of Simulation for Physical AI: An Overview",
+      "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source_name": "huggingface.co",
+      "source_level": "primary",
+      "published_at": "2026-07-21T20:00:27+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Hugging Face breach: OpenAI claims its models were responsible - Axios",
+      "what_happened": "Hugging Face breach: OpenAI claims its models were responsible Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDFzbkE3eUtUalJjekRpVEJmVEV3LW1mSktHeXNlTjBabkNWOVBPc2FkdlVSVFRkRU41Sy1taDJQN3FPcGtMY0ZsX1hCUzUxU1lYZHhVdHJMdi1YV0JzMmFPdTk3LWJvc3lGak1wY05sckdqeTVKcUNaWGVLLW8zUHBVTjJWbVJUV2xmTExGZmxLalE?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-07-21T19:48:04+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Introducing the ChatGPT for small business program - OpenAI",
       "what_happened": "Introducing the ChatGPT for small business program OpenAI",
