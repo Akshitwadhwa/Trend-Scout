@@ -98,6 +98,12 @@ Before enabling it in GitHub, add these repository secrets under **Settings → 
 
 The workflow needs the repository's **Workflow permissions** set to **Read and write** so it can save the inbox JSON files. Telegram is only a delivery channel; the JSON files remain the permanent record.
 
+## Make the drafts sound like you
+
+Do not fine-tune a model yet. First collect 8–15 posts that genuinely sound like you, including a few that contain a factual take and a few that are sceptical or casual. Paste them into `data/voice-profile.md`, then commit the file. The hourly cloud workflow reads it before writing each draft. It uses the examples to match your rhythm and vocabulary, never to copy them.
+
+In the local Post Lab, use **This sounds like me** for drafts you would realistically post and **Not my voice** for ones you would not. That feedback is stored locally and is included in later Ollama generations. After you have around 30 real approved or edited posts, we can turn them into a stronger reusable voice pack; proper model fine-tuning only becomes useful after you have a much larger, consistent set.
+
 The free local mode uses the feeds you configured:
 
 ```env

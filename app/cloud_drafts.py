@@ -14,6 +14,7 @@ class CloudDraftWriter:
     """Optional cloud draft writer for GitHub Actions; it never posts to X."""
 
     def __init__(self, settings: Settings) -> None:
+        self.settings = settings
         self.enabled = bool(getattr(settings, "enable_openai_drafts", False))
         self.api_key = str(getattr(settings, "openai_api_key", "")).strip()
         self.model = str(getattr(settings, "openai_draft_model", "gpt-5")).strip()
@@ -25,6 +26,7 @@ class CloudDraftWriter:
     def draft(self, topics: list[dict[str, Any]]) -> list[dict[str, Any]]:
         if not self.configured or not topics:
             return []
+        voice_profile = self._voice_profile()
         source_text = "\n\n".join(
             "\n".join(
                 [
@@ -38,9 +40,21 @@ class CloudDraftWriter:
         )
         prompt = (
             "Write exactly one original, self-contained X post for each source story below. "
-            "Each post must name the company/product, explain what changed in plain English, and give one concrete "
-            "developer or everyday-user implication. Keep each post 170-260 characters, casual and human. "
-            "Use only supplied facts. No hashtags, emojis, clickbait, fake personal experience, or invented details. "
+            "This is a real person's account, not a tech-news account. Do not write a mini press release or a generic "
+            "explainer. Start with the concrete fact, then add one believable personal take on why it matters, what "
+            "feels overrated, or what you would watch next. A cautious or sceptical opinion is better than a forced "
+            "positive one. The reader should understand the news even if they missed it.\n\n"
+            "Voice rules:\n"
+            "- Write as if this was typed quickly after seeing the news: clear, slightly informal, and not overly polished.\n"
+            "- Normal lowercase, contractions, short fragments, and one imperfectly natural sentence are fine.\n"
+            "- It is fine to say 'i think', 'i'm curious', or 'i don't buy it yet' when it is an opinion, but never invent use of a product or a personal achievement.\n"
+            "- Give one thought, not a list, lesson, thread, or conclusion.\n"
+            "- Avoid consultant language: 'significant shift', 'represents', 'landscape', 'leverage', 'transformative', 'game changer', 'the key takeaway', 'this shows', and 'not X but Y'.\n"
+            "- Avoid emojis, hashtags, semicolons, engagement bait, fake urgency, and sentence templates such as 'the real question is'.\n"
+            "- Use only supplied facts; do not make up numbers, capabilities, releases, or personal experience.\n"
+            "- Keep each post 160-270 characters.\n\n"
+            "Creator voice profile (style calibration only; never copy its wording):\n"
+            f"{voice_profile}\n\n"
             "Return JSON only: {\"drafts\":[{\"title\":\"source title\",\"text\":\"tweet\",\"source_url\":\"url\"}]}.\n\n"
             f"Stories:\n{source_text}"
         )
@@ -63,6 +77,14 @@ class CloudDraftWriter:
             for item in parsed
             if item.get("text") and len(str(item["text"])) <= 280
         ][: len(topics)]
+
+    def _voice_profile(self) -> str:
+        path = Path(self.settings.database_path).parent / "voice-profile.md"
+        try:
+            value = path.read_text(encoding="utf-8").strip()
+        except OSError:
+            value = ""
+        return value[:5_000] or "No custom examples saved yet. Use the voice rules above."
 
     def _parse(self, payload: dict[str, Any]) -> list[dict[str, Any]]:
         text = str(payload.get("output_text", "")).strip()

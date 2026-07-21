@@ -331,12 +331,12 @@ class TrendWriter:
                 f"- {source_type} | {author} ({item['url']}): {item['text']}"
             )
         joined_sources = "\n".join(lines)
-        style_line = style.strip() or "factual, statement-led, concrete, practical, no hype"
+        style_line = style.strip() or "casual, clear, opinion-led, natural student developer voice, no hype"
         return (
             "Write one X post based on this opportunity.\n"
             "Make the subject clear in the tweet: mention the specific lane when relevant, such as Apple, Samsung, Whoop, watches, health tech, wearables, NVIDIA, Tesla, EVs, chips, AI infrastructure, startups, developer tools, AI, layoffs, hiring, or careers.\n"
-            "Keep it under 260 characters. Do not copy source wording. Do not add fake specifics.\n"
-            "Tone rules: write like a factual statement, not a hype post. Lead with what happened, what changed, or what the signal is. Avoid exaggerated claims, drama, rhetorical questions, and motivational language.\n"
+            "Lead with the concrete fact, then add one honest thought about what is useful, overhyped, unclear, or worth watching. Keep it under 270 characters. Do not copy source wording or add fake specifics.\n"
+            "Tone rules: write like someone posting a quick thought after reading the news, not a newsletter or press release. Short normal sentences, lowercase, and a cautious personal opinion are fine. Avoid exaggerated claims, motivational language, generic questions, buzzwords, semicolons, and the template 'this is not X, it is Y'. Never invent personal experience.\n"
             "Return valid JSON only with this exact shape:\n"
             '{"draft":"final post text","notes":"brief reason this angle works"}\n\n'
             f"Style:\n{style_line}\n\n"
