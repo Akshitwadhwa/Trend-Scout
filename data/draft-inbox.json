@@ -1,4 +1,9 @@
 {
-  "updated_at": null,
-  "batches": []
+  "updated_at": "2026-07-21T12:43:23.379027+00:00",
+  "batches": [
+    {
+      "generated_at": "2026-07-21T12:43:23.379027+00:00",
+      "drafts": []
+    }
+  ]
 }
