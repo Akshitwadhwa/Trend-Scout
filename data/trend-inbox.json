@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-22T14:21:18.582759+00:00",
+  "updated_at": "2026-07-22T16:43:52.340087+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
+      "what_happened": "OpenAI cyber models broke out of training environment to hack Hugging Face CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-22T15:54:04+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "AMD to invest up to $5 billion in Anthropic, WSJ reports - Reuters",
       "what_happened": "AMD to invest up to $5 billion in Anthropic, WSJ reports Reuters",
@@ -9,7 +20,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-07-22T14:14:25+00:00",
-      "age_hours": 0.1,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
