@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-22T18:21:17.912343+00:00",
+  "updated_at": "2026-07-22T20:20:45.150183+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - AP News",
+      "what_happened": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZGYzhuOEtIRWR3Qk12WWIxdWpvSlpqMTFHZktaT2lqRGYzOVJNT3pScks4a2x0N2pUTWdJYUtUQzZTOVpQMDE5SGRSLXRlOV9XcWZqdDVUQzdPTmxFVWZUVjZ5a2lFdFdWOWVrVjlRSXF0ZWNzcGwzWFRBSW5USUhLZDVoVmVTR2VTTjhaMlhhRi02SDdpOQ?oc=5",
+      "source_name": "AP News",
+      "source_level": "reputable",
+      "published_at": "2026-07-22T18:23:00+00:00",
+      "age_hours": 2.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "The Anthropic Economic Index connector - Anthropic",
       "what_happened": "The Anthropic Economic Index connector Anthropic",
@@ -9,7 +20,7 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-07-22T17:13:51+00:00",
-      "age_hours": 1.1,
+      "age_hours": 3.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
