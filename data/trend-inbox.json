@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T00:05:23.364469+00:00",
+  "updated_at": "2026-07-22T03:44:07.593524+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "WIRED",
       "source_level": "reputable",
       "published_at": "2026-07-21T22:50:00+00:00",
-      "age_hours": 1.3,
+      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -21,6 +21,28 @@
       "source_level": "reputable",
       "published_at": "2026-07-21T21:59:44+00:00",
       "age_hours": 2.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters",
+      "what_happened": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-21T21:30:00+00:00",
+      "age_hours": 6.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI appoints two new members to board of directors - CNBC",
+      "what_happened": "OpenAI appoints two new members to board of directors CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWdnOTVCTzNyZWFlNXhNNlozX0JjcVhQVmFMekdxNlgtbnV1c0hDRWo4QXBKMFhTclAwNFM5YUgwVFZLRndFNVZCdDdVVzRqUmtsX1FxanR3MFdtS2NnRGNWS0I5bzJudjduU25ZXzFBcE1MTHkzTjZ1STNTcEh2MW40ZE9NYmdKVjJmLW5JMWZfNHYw0gGaAUFVX3lxTFAwZ0EwWFhSNnBLUm8zZ2FFazdpM21UdnRQV0k2WFgxb3ZIZDVmQkFlNnZBRzFldVprXzlDSWdLcXhMSklqU3kwcmxrZkR2aEdKQmpRZ1ZXX1dUUVI0OXdRZ0NWYV9vVmRVejNPLWVNQUlqamVXOGU4ZlJLUGY3WEZLWWRzdk11S1pDMk9vQ0JsVjQ5MnY0TEk0bUE?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-21T21:17:40+00:00",
+      "age_hours": 6.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
