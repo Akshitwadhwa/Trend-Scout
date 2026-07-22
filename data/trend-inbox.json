@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-22T16:43:52.340087+00:00",
+  "updated_at": "2026-07-22T18:21:17.912343+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "The Anthropic Economic Index connector - Anthropic",
+      "what_happened": "The Anthropic Economic Index connector Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5",
+      "source_name": "Anthropic",
+      "source_level": "primary",
+      "published_at": "2026-07-22T17:13:51+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
       "what_happened": "OpenAI cyber models broke out of training environment to hack Hugging Face CNBC",
@@ -9,7 +20,7 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-07-22T15:54:04+00:00",
-      "age_hours": 0.8,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
