@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-22T09:38:23.321201+00:00",
+  "updated_at": "2026-07-22T12:03:13.176267+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
+      "what_happened": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5",
+      "source_name": "BBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-22T11:07:55+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED",
       "what_happened": "OpenAI Models Escaped Containment and Hacked Hugging Face WIRED",
