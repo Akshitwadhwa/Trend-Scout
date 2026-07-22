@@ -1,15 +1,37 @@
 {
-  "updated_at": "2026-07-22T12:03:13.176267+00:00",
+  "updated_at": "2026-07-22T14:21:18.582759+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "AMD to invest up to $5 billion in Anthropic, WSJ reports - Reuters",
+      "what_happened": "AMD to invest up to $5 billion in Anthropic, WSJ reports Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-22T14:14:25+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "3 Google updates from Galaxy Unpacked 2026 - blog.google",
+      "what_happened": "3 Google updates from Galaxy Unpacked 2026 blog.google",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdnhNTUlTQzVjZUd2REdGT2d3NG8zaXNCLUM4NUJPRHRpeEJ5UHdrZ2dnNHIxeVpsY1oxTGRlM2p6WWNZRE13dUF4d1owTDlfV0NjSGh2ejRSMkZZNzVzc2FYZ2Z3SmVoV01RUXVTVU9xYWcwUHFOMk9IVkNMR0FmWFdiVEdIRFVNQ2c?oc=5",
+      "source_name": "blog.google",
+      "source_level": "primary",
+      "published_at": "2026-07-22T13:07:54+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
       "what_happened": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack BBC",
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5",
       "source_name": "BBC",
       "source_level": "reputable",
-      "published_at": "2026-07-22T11:07:55+00:00",
-      "age_hours": 0.9,
+      "published_at": "2026-07-22T11:40:11+00:00",
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
