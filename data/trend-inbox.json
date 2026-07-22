@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T20:20:45.150183+00:00",
+  "updated_at": "2026-07-22T22:15:47.017718+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -8,8 +8,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZGYzhuOEtIRWR3Qk12WWIxdWpvSlpqMTFHZktaT2lqRGYzOVJNT3pScks4a2x0N2pUTWdJYUtUQzZTOVpQMDE5SGRSLXRlOV9XcWZqdDVUQzdPTmxFVWZUVjZ5a2lFdFdWOWVrVjlRSXF0ZWNzcGwzWFRBSW5USUhLZDVoVmVTR2VTTjhaMlhhRi02SDdpOQ?oc=5",
       "source_name": "AP News",
       "source_level": "reputable",
-      "published_at": "2026-07-22T18:23:00+00:00",
-      "age_hours": 2.0,
+      "published_at": "2026-07-22T20:25:00+00:00",
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
