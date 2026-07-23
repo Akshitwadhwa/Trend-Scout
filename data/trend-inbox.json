@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:37:31.764997+00:00",
+  "updated_at": "2026-07-23T20:19:53.578001+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -8,10 +8,21 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
       "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-07-23T17:12:53+00:00",
-      "age_hours": 1.4,
+      "published_at": "2026-07-23T19:43:46+00:00",
+      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "OpenAI makes ChatGPT Health available to all US users - TechCrunch",
+      "what_happened": "OpenAI makes ChatGPT Health available to all US users TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlRtRzNDR2ZJTTBnZWtSdWNtdVdocVVSc1h4cXpXTEhnd0JDSmFFNy02LThsLW9UbHhNdGt3RnQtS0tHZ3ZfMzRsUW5Ucm9mOE5DRmZWb3habm1ueDh0cE13MnV1aVp3ZEFzRWctOEdOUWJsbzVlNm1vSEoycGJzckQ3ZTduVzJzcW85Y2x5ZGhzV3c?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T17:00:00+00:00",
+      "age_hours": 3.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "The US may find it hard to shrug off Moonshot\u2019s AI shockwaves - Financial Times",
@@ -20,7 +31,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-23T16:30:34+00:00",
-      "age_hours": 2.1,
+      "age_hours": 3.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-07-23T15:41:05+00:00",
-      "age_hours": 2.9,
+      "age_hours": 4.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -42,7 +53,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-23T14:52:44+00:00",
-      "age_hours": 3.7,
+      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -276,50 +287,6 @@
       "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC - OpenAI",
-      "what_happened": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoeklNLU5rRmdhSnRjeU5rOE8ybTk1Y2M2ZllZNmVTNXVodjJ2MVFsbVlOOVFTNU5yc1R5ODlCSlN2WjhHS3FQQTIwOXZ6amZfSDQzcUloRDNIeF9IZ25RZGZGTml1enBHVFE0YUpUdy1vQlhncXhZ?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-21T20:14:00+00:00",
-      "age_hours": 3.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
-      "what_happened": "OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-21T20:10:21+00:00",
-      "age_hours": 3.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "what_happened": "The State of Simulation for Physical AI: An Overview",
-      "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source_name": "huggingface.co",
-      "source_level": "primary",
-      "published_at": "2026-07-21T20:00:27+00:00",
-      "age_hours": 3.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Hugging Face breach: OpenAI claims its models were responsible - Axios",
-      "what_happened": "Hugging Face breach: OpenAI claims its models were responsible Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSDFzbkE3eUtUalJjekRpVEJmVEV3LW1mSktHeXNlTjBabkNWOVBPc2FkdlVSVFRkRU41Sy1taDJQN3FPcGtMY0ZsX1hCUzUxU1lYZHhVdHJMdi1YV0JzMmFPdTk3LWJvc3lGak1wY05sckdqeTVKcUNaWGVLLW8zUHBVTjJWbVJUV2xmTExGZmxLalE?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T19:48:04+00:00",
-      "age_hours": 3.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
