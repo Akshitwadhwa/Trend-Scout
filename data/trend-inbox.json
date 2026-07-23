@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-23T12:02:16.886001+00:00",
+  "updated_at": "2026-07-23T14:30:01.454706+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Google's Gemini delay exposes a deeper problem: employee frustration - Axios",
+      "what_happened": "Google's Gemini delay exposes a deeper problem: employee frustration Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T13:01:22+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says - CNBC",
+      "what_happened": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN0tXOXpfRFVEU3RYV29odERGREg0dXNxdjZaS2lPY0R4THN2LUpnOW5YdFlRa2dsaGhpZkhYWHBLZFhoYnM1ZnZmXzh5aEh2TVZ0MkJieENRWEVITVBJdEE4aDNvZG9rTUZYbTh0dEpBSFU3blg4SXFSZDZoTDJpd2NRWdIBiAFBVV95cUxOTTF3R3BBVS1mTWNxUnZRVHlzTmVqbUJQVTNoemdldnNXVmFxQXQxeDlCU0U5Uld6bDZPQ2JxTFdQdkZ5STk2TVlZQ0lTaml6QmxhYzlPZUt5WEMtdXA4M0dlRExuVkhXak1SU3pWWHlicXdPWUxUazZDQUVpdExXR2pHX3ZoMUwt?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T11:11:37+00:00",
+      "age_hours": 3.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot' - AP News",
+      "what_happened": "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot' AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5",
+      "source_name": "AP News",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T10:23:00+00:00",
+      "age_hours": 4.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Understanding the AI economy - blog.google",
       "what_happened": "Understanding the AI economy blog.google",
@@ -296,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-21T15:04:09+00:00",
       "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Google expands Gemini lineup with cheaper models and new Mythos rival - CNBC",
-      "what_happened": "Google expands Gemini lineup with cheaper models and new Mythos rival CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqT1k5bUtOaWtEU180MGYwVFp3WXR2bVozX29OaThiUmY4VmdrQUpSY2MzMkowNXpLTkRUVTQzNDhEYW5EdlhCZHhBSkZPU2pmcTZpWWFhMXZRQ3lWRWlCRmZyWS1PNy0ycG02VjZ4MnpvNFgtTGtZLXlNNmTSAYIBQVVfeXFMUGhBUk41WmFSUDgwVTlxMnFYRjQtUENHaHp1TTQ2U1A3Sm5mU0lFNnRqd3NGUS1nNEJETmNPSFhHN0ZCOEZUWF9OTTk2OE5qOE5nbXFDaFRjZ0tDUGZNeFE0ZUY3SDNuZmFNcm5RakxPVWxWTjVES2x6YlFYLW9oZzhhQQ?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T15:00:02+00:00",
-      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
