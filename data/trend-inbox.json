@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:13:58.021463+00:00",
+  "updated_at": "2026-07-23T23:11:19.318054+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "AP News",
       "source_level": "reputable",
       "published_at": "2026-07-23T20:30:00+00:00",
-      "age_hours": 1.7,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-07-23T19:51:08+00:00",
-      "age_hours": 2.4,
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-23T17:00:00+00:00",
-      "age_hours": 5.2,
+      "age_hours": 6.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-23T16:30:34+00:00",
-      "age_hours": 5.7,
+      "age_hours": 6.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +53,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-07-23T15:41:05+00:00",
-      "age_hours": 6.5,
+      "age_hours": 7.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -252,17 +252,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-22T11:40:11+00:00",
       "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED",
-      "what_happened": "OpenAI Models Escaped Containment and Hacked Hugging Face WIRED",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJYX1FDR1FiaU5Nblc3ellkQXd0Y1NvcnpVYlNudE5GSEt3UmZDU09zeFVJMWM5VXBMb1ZScEgyS1BWUEdXREJKSUozMHFGUURBdVZYc2dZb0FucTBBWlRJMkdRbUMtMmJnR095d1RwUEh0YlZrQkN0VkZYTlVabXZrOFZKUS1LNXB4a2pR?oc=5",
-      "source_name": "WIRED",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T22:50:00+00:00",
-      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }

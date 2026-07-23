@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-23T22:13:58.021463+00:00
+Updated: 2026-07-23T23:11:19.318054+00:00
 Memory window: 48 hours
 
 ## 1. AI models' breakout from human control brings a told-you-so moment for technology researchers - AP News
@@ -142,9 +142,3 @@ Source: BBC (reputable)
 URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5
 
 OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack BBC
-
-## 24. OpenAI Models Escaped Containment and Hacked Hugging Face - WIRED
-Source: WIRED (reputable)
-URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmJYX1FDR1FiaU5Nblc3ellkQXd0Y1NvcnpVYlNudE5GSEt3UmZDU09zeFVJMWM5VXBMb1ZScEgyS1BWUEdXREJKSUozMHFGUURBdVZYc2dZb0FucTBBWlRJMkdRbUMtMmJnR095d1RwUEh0YlZrQkN0VkZYTlVabXZrOFZKUS1LNXB4a2pR?oc=5
-
-OpenAI Models Escaped Containment and Hacked Hugging Face WIRED
