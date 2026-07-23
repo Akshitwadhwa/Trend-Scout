@@ -1,15 +1,59 @@
 {
-  "updated_at": "2026-07-23T14:30:01.454706+00:00",
+  "updated_at": "2026-07-23T16:44:59.643716+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "The US may find it hard to shrug off Moonshot\u2019s AI shockwaves - Financial Times",
+      "what_happened": "The US may find it hard to shrug off Moonshot\u2019s AI shockwaves Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUdDdGhuU2JBTENUa0JKLUJsajg3dW1vUlFLRnpRZVduNWh6VmZRSENMSnRNR0F5ME55b2VjS3ZqWmtMLWp6TnFLQUFjNWZHOVdfbVdNSTJGamczcWVBNDVKNHRneFE2TGFscjR1SVNmdDIzSDVFSDR2RVpPZHRqaFZNSGk?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T16:30:34+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apply now for the Google for Startups Gemini Startup Forum. - blog.google",
+      "what_happened": "Apply now for the Google for Startups Gemini Startup Forum. blog.google",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzdoa2RxN3lETjNULTA4c1k2SzFqUndPa2NjSk4wemQ2SnBxeVRUM0FYc282aXFqQnQ4dkQtM2NPSWlwZE1ZdnVXTFN3ckN5RU0yMm4tYTczcGxEOTBmNUIwSnJZNDdkZTNFNzN4MHlqUDM1UGE3a19pd3pMVUVFUFlWRC1tQmhkOWtaYUJReFFUdUd1X2EyeFBPY1JPaktiVGpjM3R5eVo?oc=5",
+      "source_name": "blog.google",
+      "source_level": "primary",
+      "published_at": "2026-07-23T15:41:05+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Google\u2019s Gemini nears billion-user milestone - TechCrunch",
+      "what_happened": "Google\u2019s Gemini nears billion-user milestone TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclpDaUN3YlJkY3YxNktBUWh0TG9NTEp4OWxpanpIZXFlak9xSlN5ejdVSFBxZnNJRkpMQlZ0TUQ3bXVPU0RfMWFRY2RTckZDLVZNVFBFS2lSLVhHaTdPa3U0Ql9RY0pPam5ZM2FidTFLS01rV3dadHhGcVI0OVRmbTR2ME1RZWZZUXRHdjYwU09HUmd5Q081T0Z6SQ?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T14:52:44+00:00",
+      "age_hours": 1.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Google's Gemini delay exposes a deeper problem: employee frustration - Axios",
       "what_happened": "Google's Gemini delay exposes a deeper problem: employee frustration Axios",
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0OWdYVXItNGJqeUw2LWpoSFFEcndRcUgtNzVDVWxBb2JFdUlVamU4S0NSYTZTZk9uQkxCSzJmRHZVc0cxdi1STWRXQTBDTTdXaGV1cUoycUUtYTJPam91aE9FR3pyT0tyd1FvTlYyT1UxQQ?oc=5",
       "source_name": "Axios",
       "source_level": "reputable",
-      "published_at": "2026-07-23T13:01:22+00:00",
-      "age_hours": 1.5,
+      "published_at": "2026-07-23T13:36:24+00:00",
+      "age_hours": 3.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Godfather of AI calls OpenAI-linked AI agent data breach \u2018deeply concerning\u2019 - The Indian Express",
+      "what_happened": "Godfather of AI calls OpenAI-linked AI agent data breach \u2018deeply concerning\u2019 The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUmRuSWd1eXZycS1VN1NvU0tsNktVQV8zd2dNc3N4bTJRaERqOGxYRldVaEYxcTVOR0owblhJYnlTdzlNRTFxNjJLczdwQzh1UVVJRFAxcGRoVEhTWjV2UDRwcU9EOWRBaVdMTmtUWml0OUxQQldUVUttOG84LURHRURfUVRObWQtNVlnM2FsY3hDQ1V5XzRLYzFTbjZuOTZsVXJHOE1GVFdrMXA4THhSbjhGRlc2YVBwWFJ2aVhxbGVzTnc0WVJuWWZFc2VDcUdhamItbUhmWDh2ZGFxSVgtNjlLRzdsYjBr0gHvAUFVX3lxTE5mZ2ZQUHNLSWEzU3N0WDlUbTVxU1M5aUFkaUdudU5zelpmekU0Q3VwRWFuNEhyN1JGRkFSNV9OQ2tlQndCalRxUHhWMkJ0VlpFV1ZSdm1MVWZmeFV6bklPOElEQ09XU20yR3hxMldPRGpXZ19QOWpIQnFDRTlsdHE0WmxPYmQtdU95WDJwbUtQemk3eHhXaVZycFRyU1l0RFpTeTIzRGV2eXV0ejFSYzQzXzBkd052clpiVWJ3cnFNdFdpc0ZSd2FzWG40UU9GcmhZeE5WR3ZNQ0F5MUtlTGNkQm9QbW1BYlcyYkVnNXQ0?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T12:59:38+00:00",
+      "age_hours": 3.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -284,50 +328,6 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-21T17:11:50+00:00",
-      "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Google releases series of new cheaper Gemini models - Axios",
-      "what_happened": "Google releases series of new cheaper Gemini models Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RU3d0SjI4RDhqRmVpWngySnBYYWRQYWE3X3EyMU1nck9OdzZoaDV0bldOcHJzUFAzcUdMQUdpb041VUNOY2cyd3NGeENiT05Rd0VISm5WdHFkdndRSEp0MkI1V0xkcnM?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T16:37:25+00:00",
-      "age_hours": 3.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber - blog.google",
-      "what_happened": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber blog.google",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2JJUnlrYURCS05xbldzRC1LVVlCQ3ZtcG9XZXU1dU5NNWJxV1JzdG5FbjJ3bHdhZml2SkJFSks4cTQ3aGloV0Nsd01kRVZDZTdOMUNSWmwtS3g0M3dteWVNNDJ3VXJtbWZrSWV1Y01QRW9WVm96c1JFaU9ZeU5ZT3ZYNXZTQjhMZ2p6RHdLTlhHang4NEVuZ1Fyd3BvUENubjlSUEtIeTMwa1NReXJITjk2SmRuVWw4NG1LQQ?oc=5",
-      "source_name": "blog.google",
-      "source_level": "primary",
-      "published_at": "2026-07-21T15:29:15+00:00",
-      "age_hours": 2.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Introducing Gemini 3.5 Flash Cyber - Google DeepMind",
-      "what_happened": "Introducing Gemini 3.5 Flash Cyber Google DeepMind",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xOHJWU3UtRmM3dTNLQmpTRTFuZVZDbDdmbTlTRFBnMTMzalNtZVFEM1hYSlBwYVBYR2kyandPdXhZWHFRcHcyUWtTU285eWxHTWQ1T3Vqc0tuc0pjbGl3THNjUGJxczduTUE1Y1B2emlWZw?oc=5",
-      "source_name": "Google DeepMind",
-      "source_level": "primary",
-      "published_at": "2026-07-21T15:19:23+00:00",
-      "age_hours": 2.4,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Google updates lightweight Gemini models, but flagship still delayed - Reuters",
-      "what_happened": "Google updates lightweight Gemini models, but flagship still delayed Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDRLdU9xd0dNMlRnbVYydzAyZ1ZSS2o2LU5iQ0FjT2V2Z1pfMFgzRTBadWMxbXNPeGsxdllXR1Y4ZmVIQjdFS0N0d3dEN1gyS1JEWkpLd3RmT3VLZU9EZlo4QlAwZVlieVNWWEFVUGprdW0zRnlPSk9IVVpKcGRrMEVJc2RWMlV3ZzdtajFZYWZtMnlzYjJ5Z0c0cDlnTXhCR2dkMXVPM1BvMFRP?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T15:04:09+00:00",
       "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
