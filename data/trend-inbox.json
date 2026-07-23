@@ -1,15 +1,59 @@
 {
-  "updated_at": "2026-07-23T00:14:32.231022+00:00",
+  "updated_at": "2026-07-23T03:45:08.095941+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
+      "what_happened": "China's Moonshot AI stole from Anthropic, Trump tech adviser says BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5",
+      "source_name": "BBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T00:52:25+00:00",
+      "age_hours": 2.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models - OpenAI",
+      "what_happened": "Safety and alignment in an era of long-horizon models OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mbzNDWlZzdmFsZWRnaHU5RlNtMER2cHpqdkY3Mmh2cEJaMHlrakM4SFpfR0hEdFlrd2M0UmQ0TkhfWXFPWF9fWDNJMnNjbmdKaUJDWmRrenRTMzNQV29TaUxBbEhDcFlJbkh3em9XYUlWV1FGNXVF?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-23T00:20:02+00:00",
+      "age_hours": 3.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex - OpenAI",
+      "what_happened": "NTT DATA Group cuts incident analysis to 30 minutes with Codex OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZV0UzQjlaVFpySG42LWNxeXdmVnhsX2FGcDhSdlRLdU1mZEwwckFHaU53RE1ucVZmWmNsaHdmVXYzeWI0ZWViS3p3?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-22T23:47:24+00:00",
+      "age_hours": 4.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - AP News",
       "what_happened": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know AP News",
       "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZGYzhuOEtIRWR3Qk12WWIxdWpvSlpqMTFHZktaT2lqRGYzOVJNT3pScks4a2x0N2pUTWdJYUtUQzZTOVpQMDE5SGRSLXRlOV9XcWZqdDVUQzdPTmxFVWZUVjZ5a2lFdFdWOWVrVjlRSXF0ZWNzcGwzWFRBSW5USUhLZDVoVmVTR2VTTjhaMlhhRi02SDdpOQ?oc=5",
       "source_name": "AP News",
       "source_level": "reputable",
-      "published_at": "2026-07-22T20:25:00+00:00",
-      "age_hours": 3.8,
+      "published_at": "2026-07-22T22:20:00+00:00",
+      "age_hours": 5.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI hacking incident exposes mounting risks in AI arms race - Financial Times",
+      "what_happened": "OpenAI hacking incident exposes mounting risks in AI arms race Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMURVdjN6dHFWVVhMX0xUY21fajRZMXpnUEswSkJRQVdYempQc2RsVEl0RmR4MjNHMk1YMUYzcXdBSFdHZ1VtVXA5Z0VrMGpRM1VZS3pqOExBMkV3RmtsYmtORjM1TG5rX0VSYVNNYTFNTlNwUzM3N1RyN0F6cUtYWGxXcFI?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-07-22T22:15:35+00:00",
+      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
