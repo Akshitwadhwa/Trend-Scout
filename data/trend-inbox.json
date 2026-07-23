@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-23T09:35:36.066888+00:00",
+  "updated_at": "2026-07-23T12:02:16.886001+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Understanding the AI economy - blog.google",
+      "what_happened": "Understanding the AI economy blog.google",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZkpKT0hTY0xtSDZVSjQ5TUNZQ1E1OHd0UWhIMERIemFsY3ljOGxmNDQ4ZDRhVWpzR3B0UFRENEZtZFVReU9HT0pXbDlfQ1AySWpOaVE3bjRRLVJrcnlwZXRVTllGV2x6LVZoVkFERFJsUVNVVDVpbW5MMkc2cnVBWkdYX1pLNEFKZlpZdzVENG4?oc=5",
+      "source_name": "blog.google",
+      "source_level": "primary",
+      "published_at": "2026-07-23T10:15:10+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Google study finds broad AI use, but little evidence of job automation - Axios",
+      "what_happened": "Google study finds broad AI use, but little evidence of job automation Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9POE1ucXUxZGhna240Q1dQNkw1bFRWaEhWeUhVczZtZmZ2Q0VMcDV4QnBjeVg1WnJfZEdNcVluX0pGcFhoVURXXzRWUm1FZ3dyZDROdERlMUpaOXVnTWRKaFNwNzg2U3JiR1pPeW1ycw?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T10:00:30+00:00",
+      "age_hours": 2.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC",
       "what_happened": "China's Moonshot AI stole from Anthropic, Trump tech adviser says BBC",
