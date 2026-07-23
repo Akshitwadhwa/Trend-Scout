@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-23T16:44:59.643716+00:00",
+  "updated_at": "2026-07-23T18:37:31.764997+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Launching Health in ChatGPT - OpenAI",
+      "what_happened": "Launching Health in ChatGPT OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-23T17:12:53+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "The US may find it hard to shrug off Moonshot\u2019s AI shockwaves - Financial Times",
       "what_happened": "The US may find it hard to shrug off Moonshot\u2019s AI shockwaves Financial Times",
@@ -9,7 +20,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-23T16:30:34+00:00",
-      "age_hours": 0.2,
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-07-23T15:41:05+00:00",
-      "age_hours": 1.1,
+      "age_hours": 2.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -31,7 +42,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-23T14:52:44+00:00",
-      "age_hours": 1.9,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +318,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-21T19:48:04+00:00",
       "age_hours": 3.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Introducing the ChatGPT for small business program - OpenAI",
-      "what_happened": "Introducing the ChatGPT for small business program OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wRGdxajhiVG1FbjR4eWZNV0VmMUhuZ0VtWi0zT28wMFd0VGZUZVhRZFpYSEM0Y2puWHFhWFc1bkhHcHE4V282NHZGRE9KTl9GTW50b1g0QWNJclJLcklKalh2LVhUcVEzT0NNTncxcXNuQmhIYlE4?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-21T17:18:30+00:00",
-      "age_hours": 2.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro - TechCrunch",
-      "what_happened": "Google releases three new Gemini models \u2014 but no 3.5 Pro TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdE9NSnZmTzNhQVlTaDNTWmNfRnhOWEs4NXNmWFRoUldoNV9idklBc3JYRzJzQVpDS3FRZFNueTBFaVVFUzJ3Y0dtSzY2ekdGdVY3V2pYeEYyRVlZN0dpa2x5X2tHWkN2LU9vQmM3bEdMVmhTczREU1RSNExfWDc3VW1wYlhGU0JVeVpUWVliVUxON3M?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T17:11:50+00:00",
-      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
