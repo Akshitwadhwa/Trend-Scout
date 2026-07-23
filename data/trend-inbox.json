@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-07-23T20:19:53.578001+00:00",
+  "updated_at": "2026-07-23T22:13:58.021463+00:00",
   "retention_hours": 48,
   "items": [
     {
-      "title": "Launching Health in ChatGPT - OpenAI",
-      "what_happened": "Launching Health in ChatGPT OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-23T19:43:46+00:00",
-      "age_hours": 0.6,
+      "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers - AP News",
+      "what_happened": "AI models' breakout from human control brings a told-you-so moment for technology researchers AP News",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5",
+      "source_name": "AP News",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T20:30:00+00:00",
+      "age_hours": 1.7,
       "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress - CNBC",
+      "what_happened": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVhNdF9vVVNEUk5pRXdrZkFZNkU2WXA4MDJqSEVUOVhZaFYzZ0dKTUxvWTN5Z21CTzlNYVZXTF9ieTdLQkVWODQtTE51RTFpYzk2TjdoX1QwbUVtVmo3TktjX2pRZURaSVVQdVYyYTJQZk5raHRVOHMwNzMzLUF5dzZSamdxa3kwN3BZTVFSWGJpUdIBlwFBVV95cUxNX1dIYVZvcmZINEoxVjVJdnJOYUtoRGQwMGcteFV5a1NKU2huSkdYaE1DNFdQTjc2NmluNWg1Smd2UGRSbnpUQUpfeVdBOHJSVUs1SFRhc1JUaUZ6RVN0ckdwdDh6eTdJUnBOdU56V0Y5WUVIMWRCUHk3ZlF2c2x6ZmNlbWNGRTJoWWkzQ1pKakY5SHhrbmE0?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-23T19:51:08+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "OpenAI makes ChatGPT Health available to all US users - TechCrunch",
@@ -20,7 +31,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-23T17:00:00+00:00",
-      "age_hours": 3.3,
+      "age_hours": 5.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-23T16:30:34+00:00",
-      "age_hours": 3.8,
+      "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +53,18 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-07-23T15:41:05+00:00",
-      "age_hours": 4.6,
+      "age_hours": 6.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Launching Health in ChatGPT - OpenAI",
+      "what_happened": "Launching Health in ChatGPT OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-23T15:18:33+00:00",
+      "age_hours": 6.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -243,50 +265,6 @@
       "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic sued for infringing neural network technology patents - Reuters",
-      "what_happened": "Anthropic sued for infringing neural network technology patents Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T21:59:44+00:00",
-      "age_hours": 2.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup - Reuters",
-      "what_happened": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT3oyVDNzekNWY3BJUUZLVGNsb3Z3VUhXc3pfSmtEZG96bzk2RFQ4MTZBWDdQVHlyZTlDOWhEN1o3dzVuekVuWUh2cWFPMy1SU0sxWnl3WkVSbFpKTzBqOU54WjlwM0Jfd185OWsxT1BLbGpHcmlaNHdCalhub0x2cVVBai11dVhPdEVsZERZWHo3anRQMi0yUGZEN0VVOEZHcEJuZ1pxMHp2U2dkSWNhYmhOOXR0aGJjVXVTdHE3MGw1aEgw?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T21:30:00+00:00",
-      "age_hours": 6.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI appoints two new members to board of directors - CNBC",
-      "what_happened": "OpenAI appoints two new members to board of directors CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVWdnOTVCTzNyZWFlNXhNNlozX0JjcVhQVmFMekdxNlgtbnV1c0hDRWo4QXBKMFhTclAwNFM5YUgwVFZLRndFNVZCdDdVVzRqUmtsX1FxanR3MFdtS2NnRGNWS0I5bzJudjduU25ZXzFBcE1MTHkzTjZ1STNTcEh2MW40ZE9NYmdKVjJmLW5JMWZfNHYw0gGaAUFVX3lxTFAwZ0EwWFhSNnBLUm8zZ2FFazdpM21UdnRQV0k2WFgxb3ZIZDVmQkFlNnZBRzFldVprXzlDSWdLcXhMSklqU3kwcmxrZkR2aEdKQmpRZ1ZXX1dUUVI0OXdRZ0NWYV9vVmRVejNPLWVNQUlqamVXOGU4ZlJLUGY3WEZLWWRzdk11S1pDMk9vQ0JsVjQ5MnY0TEk0bUE?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-21T21:17:40+00:00",
-      "age_hours": 6.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "13 Google tips for a fun, productive summer off from college - blog.google",
-      "what_happened": "13 Google tips for a fun, productive summer off from college blog.google",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHNYTmNwME83SXJzVVlhcVl3SWp5eDROMlVUU1BKRWxKbE8wTFk3NWZBVFJObkxKYTZRQ1Utd3BLRWkzMzdTWnYyblVSQl9WQ3IwQkZhdEdEQWtUb29hdDVqX3FTeDJPRjN0OVFiQzZ0SllvTXNoUzlMRFdnQ0RPcWQteVlVWGI5YWZ6S1hVZENaWFJRUWFMdjJJWlFmN095dkJJODhn?oc=5",
-      "source_name": "blog.google",
-      "source_level": "primary",
-      "published_at": "2026-07-21T20:23:00+00:00",
-      "age_hours": 3.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
