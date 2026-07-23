@@ -87,16 +87,15 @@ python scripts/scan_trend_inbox.py --with-openai
 
 The saved inbox lives at `data/trend-inbox.json`. In Post Lab, click **Load saved trend inbox**, then **Generate original drafts**. It makes at most one draft per distinct story.
 
-## GitHub Actions cloud inbox and Telegram drafts
+## GitHub Actions free cloud inbox
 
-`.github/workflows/cloud-trend-inbox.yml` runs hourly on GitHub, so it continues while your laptop is off. It saves `data/trend-inbox.json` and `data/draft-inbox.json` back to the repository; those files are the simple, reviewable database. It never posts to X.
+`.github/workflows/cloud-trend-inbox.yml` runs hourly on GitHub, so source discovery continues while your laptop is off. It uses free public sources only and saves `data/trend-inbox.json` back to the repository. It never calls a cloud LLM, sends Telegram messages, or posts to X.
 
-Before enabling it in GitHub, add these repository secrets under **Settings → Secrets and variables → Actions**:
+The workflow needs the repository's **Workflow permissions** set to **Read and write** so it can save the inbox JSON files. The local Post Lab or Hermes bot reads that inbox later and writes drafts with your local model or your separate Copilot login.
 
-- `OPENAI_API_KEY` — required for source-backed web research and automatic cloud drafts.
-- `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` — optional; when both are present, the newest drafts are also delivered to Telegram.
+For a strict zero-cost setup, keep `OPENAI_API_KEY`, X API keys, and cloud image-generation keys out of GitHub Actions. If the repository is public, standard GitHub-hosted Linux Actions runs are free; do not commit private credentials or personal data.
 
-The workflow needs the repository's **Workflow permissions** set to **Read and write** so it can save the inbox JSON files. Telegram is only a delivery channel; the JSON files remain the permanent record.
+Telegram is a local delivery and review channel; the JSON inbox remains the permanent record.
 
 ## Make the drafts sound like you
 

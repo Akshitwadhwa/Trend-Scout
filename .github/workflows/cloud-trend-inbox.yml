@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  collect-and-draft:
+  collect-free-trends:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,25 +25,20 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Refresh inbox and optional cloud drafts
+      - name: Refresh free trend inbox
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ENABLE_OPENAI_RESEARCH: "true"
-          ENABLE_OPENAI_DRAFTS: "true"
-          OPENAI_RESEARCH_MODEL: ${{ vars.OPENAI_RESEARCH_MODEL || 'gpt-5' }}
-          OPENAI_DRAFT_MODEL: ${{ vars.OPENAI_DRAFT_MODEL || 'gpt-5' }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ENABLE_OPENAI_RESEARCH: "false"
+          ENABLE_OPENAI_DRAFTS: "false"
           ENABLE_SCHEDULER: "false"
           ENABLE_X_SCAN: "false"
           ENABLE_X_WATCHLIST: "false"
           ENABLE_X_TIMELINE: "false"
         run: python scripts/cloud_trend_cycle.py
 
-      - name: Commit updated inboxes
+      - name: Commit updated trend inbox
         run: |
           git config user.name "trend-scout-bot"
           git config user.email "trend-scout-bot@users.noreply.github.com"
-          git add data/trend-inbox.json data/trend-inbox.md data/draft-inbox.json
+          git add data/trend-inbox.json data/trend-inbox.md
           git diff --cached --quiet || git commit -m "Update cloud trend inbox"
           git push
