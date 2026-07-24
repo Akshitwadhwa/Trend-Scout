@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-24T09:33:06.680183+00:00",
+  "updated_at": "2026-07-24T11:55:17.715830+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Delhi HC to decide: Can OpenAI use copyrighted material to train ChatGPT? - The Indian Express",
+      "what_happened": "Delhi HC to decide: Can OpenAI use copyrighted material to train ChatGPT? The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmJtZ003WHhiUzZYYUVybTd5SDRFOXJTM3U3NUhIVHJXdnpuWjZOeEVJUmg2NE14aG55SVJuMWx6UTY0NkRoeWs1Rkp3MWtib2JxckYza2Rmc3dIVHNjNHVPZUdoQ1dVS1hPRmpBdzlDMzhkYXJnT3pwZFF2aTlUa19IR0tqemdXazhlQkpVaTY0elZXdWZJeEZaNmhGQmhUTHVaandPZ3hCdnE1LWZtV9IBtwFBVV95cUxQN19nN2EzV0RKcTRRZWtmRzY5WXdPV2F4aXRUVk1UbmQ0YnNOTGlZM0dWaXJIZlFHRFBIa09VTV9HNGptdWh3cVM5Ukdkek1QdjR3QWF4N3BwQ3VqOTVhV05VRWhWdFhXR0JwWjQtNndrd2NtYVZaVWpxMU9jNUxCZ3hWczJ5Vi13WWczY0VyWXlyVlFFMkRySDFWX29na2cyUmUxVGxCcFRjU3Itelg4R25uYjVQaW8?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-07-24T08:50:41+00:00",
+      "age_hours": 3.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers - AP News",
       "what_happened": "AI models' breakout from human control brings a told-you-so moment for technology researchers AP News",
@@ -243,17 +254,6 @@
       "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack - BBC",
-      "what_happened": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5",
-      "source_name": "BBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-22T11:40:11+00:00",
-      "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
