@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-24T19:45:09.466961+00:00
+Updated: 2026-07-24T21:20:12.754004+00:00
 Memory window: 48 hours
 
 ## 1. Introducing Claude Opus 5 - Anthropic

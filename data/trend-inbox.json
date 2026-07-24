@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:45:09.466961+00:00",
+  "updated_at": "2026-07-24T21:20:12.754004+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-07-24T17:00:57+00:00",
-      "age_hours": 2.7,
+      "age_hours": 4.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,7 +20,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-24T16:40:04+00:00",
-      "age_hours": 3.1,
+      "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -31,7 +31,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-24T15:00:02+00:00",
-      "age_hours": 4.8,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
