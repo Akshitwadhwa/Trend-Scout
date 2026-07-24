@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T17:50:36.388338+00:00",
+  "updated_at": "2026-07-24T19:45:09.466961+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,18 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-07-24T17:00:57+00:00",
-      "age_hours": 0.8,
+      "age_hours": 2.7,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Claude Opus 5 is now available in GitHub Copilot - The GitHub Blog",
+      "what_happened": "Claude Opus 5 is now available in GitHub Copilot The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcC1KclhhSTJLLVVhUG83cGJIaWZzbmc3UnFueERxWFZpMmJzV2pwNm9ab2J5bklGbk53bTJaQ3hmZ3kxV3FjMFJNdkpuNGZDWVY4dkdiblI3NGE3V0tvUEVXMEU3eDh4eF82clZzQVBFN0J3Q1AyT1FxRVZjNWxmeFZocGU0SmczbHRCMGt2eklmckIz?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-07-24T16:40:04+00:00",
+      "age_hours": 3.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,7 +31,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-24T15:00:02+00:00",
-      "age_hours": 2.8,
+      "age_hours": 4.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
