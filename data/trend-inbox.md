@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-24T11:55:17.715830+00:00
+Updated: 2026-07-24T14:10:45.127476+00:00
 Memory window: 48 hours
 
 ## 1. Delhi HC to decide: Can OpenAI use copyrighted material to train ChatGPT? - The Indian Express
@@ -136,9 +136,3 @@ Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5
 
 AMD to invest up to $5 billion in Anthropic, WSJ reports Reuters
-
-## 23. 3 Google updates from Galaxy Unpacked 2026 - blog.google
-Source: blog.google (primary)
-URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxOdnhNTUlTQzVjZUd2REdGT2d3NG8zaXNCLUM4NUJPRHRpeEJ5UHdrZ2dnNHIxeVpsY1oxTGRlM2p6WWNZRE13dUF4d1owTDlfV0NjSGh2ejRSMkZZNzVzc2FYZ2Z3SmVoV01RUXVTVU9xYWcwUHFOMk9IVkNMR0FmWFdiVEdIRFVNQ2c?oc=5
-
-3 Google updates from Galaxy Unpacked 2026 blog.google

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:55:17.715830+00:00",
+  "updated_at": "2026-07-24T14:10:45.127476+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -243,17 +243,6 @@
       "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "3 Google updates from Galaxy Unpacked 2026 - blog.google",
-      "what_happened": "3 Google updates from Galaxy Unpacked 2026 blog.google",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdnhNTUlTQzVjZUd2REdGT2d3NG8zaXNCLUM4NUJPRHRpeEJ5UHdrZ2dnNHIxeVpsY1oxTGRlM2p6WWNZRE13dUF4d1owTDlfV0NjSGh2ejRSMkZZNzVzc2FYZ2Z3SmVoV01RUXVTVU9xYWcwUHFOMk9IVkNMR0FmWFdiVEdIRFVNQ2c?oc=5",
-      "source_name": "blog.google",
-      "source_level": "primary",
-      "published_at": "2026-07-22T13:07:54+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
