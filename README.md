@@ -1,65 +1,152 @@
-# X Trend Scout
+# Trend Scout
 
-A small Python service that scans recent X posts and web feeds, finds timely tech topics, and drafts a post only when you ask for one.
+Trend Scout is a free-first, human-in-the-loop X content workflow for tech creators.
 
-This version does not auto-post. It produces local files for you to review and paste manually.
+It discovers recent, verifiable tech stories, saves a small trend inbox, and helps turn those stories into drafts you can review and manually post. It does **not** post to X automatically.
 
-## What it does
+![How the workflow works](assets/x-content-workflow.png)
 
-- Searches recent X posts for your tracked tech query.
-- Can scan your authenticated X home timeline through `xurl` after you connect your X account locally.
-- Tracks a curated X account watchlist so AI narrative accounts can seed new post ideas.
-- Searches web/RSS feeds from the sources you configure.
-- Identifies potentially new or accelerating topics across Apple, Samsung, Whoop, watches, wearables, health tech, consumer devices, NVIDIA, Tesla, EVs, chips, AI infrastructure, startups, developer tools, AI, layoffs, hiring, and careers.
-- Stores those opportunities in SQLite.
-- Lets you list opportunities and ask for a draft from a chosen one.
-- Saves regular Markdown drafts into `outputs/`, high-CTR Markdown packs into `out/`, copy-paste-ready tweet winners into `out/`, India-specific tech tweets into `out/`, and JSON artifacts into `json/`.
-- Creates a `verified-tech-brief.md` before each optimized pack, with freshness, source level, direct links, and a verification note.
-- Uses local Ollama for topic judgment and drafting. The default model is `gemma3:1b` so it can run on an 8 GB Mac.
-- Falls back to simple engagement-based opportunities if Ollama is offline or returns an unusable result.
-- Can optionally use the OpenAI Responses API with web search to add current linked research. It remains disabled unless you explicitly enable it in your private `.env`.
-- Can send already approved draft text to your Telegram chat only when you call the manual Telegram endpoint. It never auto-posts to X.
+## What is live now
 
-## Setup
+- Free public-source discovery runs hourly in GitHub Actions, even while the laptop is off.
+- The cloud job saves a compact, deduplicated trend inbox to `data/trend-inbox.json`.
+- A local Hermes + Telegram setup can turn the saved stories into drafts and send **one draft per Telegram message** for easy copying.
+- You review, edit, and manually post, reply, or quote repost on X.
+- Feedback such as “this sounds like me” is stored locally and reused as a voice preference for later drafts. This is retrieval-based learning, not automatic model fine-tuning.
+- Ollama is optional and used only for local drafting. The free cloud scan does not need Ollama, an X API key, or a paid LLM key.
 
+## How it works
 
-```env
-APP_NAME=X Trend Scout
-X_BEARER_TOKEN=your_x_bearer_token_optional
-OPENAI_API_KEY=
-OUTPUT_DIR=./outputs
-HIGH_CTR_DIR=./out
-JSON_DIR=./json
-TOPIC_QUERY=(apple OR iphone OR "apple watch" OR watchos OR samsung OR galaxy OR "galaxy watch" OR whoop OR wearables OR smartwatch OR "smart watch" OR "health tech" OR fitness OR sleep OR recovery OR "oura ring" OR "consumer tech" OR gadgets OR chips OR nvidia OR "jensen huang" OR "gtc taipei" OR computex OR "rtx spark" OR "vera rubin" OR blackwell OR nvlink OR cuda OR "ai factory" OR tesla OR "model y" OR "model 3" OR cybertruck OR fsd OR robotaxi OR optimus OR supercharger OR megapack OR startups OR "dev tools" OR openai OR claude OR codex OR layoffs OR layoff OR hiring OR jobs OR "job market" OR "tech jobs" OR "ai jobs") lang:en -is:retweet
-ENABLE_X_SCAN=false
-ENABLE_X_WATCHLIST=false
-ENABLE_X_TIMELINE=false
-ENABLE_WEB_SCAN=true
-MAX_WATCHLIST_RESULTS=20
-MAX_TIMELINE_RESULTS=30
-X_WATCH_HANDLES=karpathy,fchollet,ylecun,AndrewYNg,rasbt,dair_ai,lilianweng,jeremyphoward,simonw,_akhaliq,ID_AA_Carmack,gwern,goodside,drfeifei,demishassabis,OpenAI,thsottiaux
-WEB_KEYWORDS=apple,iphone,apple watch,watchos,samsung,galaxy,whoop,wearables,smartwatch,health tech,fitness,sleep,recovery,oura,consumer tech,gadgets,chips,nvidia,jensen huang,gtc taipei,computex,rtx spark,ai pc,n1x,vera,rubin,vera rubin,blackwell,nvlink,spectrum,dgx,cuda,gpu,ai chips,ai factory,data center,inference,superchip,tesla,elon musk,model y,model 3,cybertruck,fsd,full self-driving,robotaxi,autonomous driving,optimus,supercharger,megapack,powerwall,battery,ev,electric vehicle,tesla india,startups,developer tools,ai,openai,claude,codex,layoffs,layoff,hiring,jobs,job market,tech jobs,ai jobs,recession,career
-WEB_FEED_URLS=https://www.theverge.com/rss/index.xml,https://techcrunch.com/feed/,https://news.ycombinator.com/rss,https://www.engadget.com/rss.xml,https://www.wired.com/feed/rss,https://9to5mac.com/feed/,https://www.macrumors.com/macrumors.xml,https://www.sammobile.com/feed/,https://www.androidcentral.com/rss,https://www.wareable.com/feed
-```
+1. Recent stories are collected from public tech sources.
+2. Stories without sufficient source support are excluded from post-ready drafting.
+3. Distinct verified stories are saved in the trend inbox for a limited time.
+4. Hermes can read the inbox, use your saved voice feedback, and prepare drafts.
+5. Telegram receives drafts separately so each can be copied directly into X.
+6. Your edits and feedback improve the next batch; you always make the final publishing decision.
+
+## What runs in the cloud vs locally
+
+| Part | Where it runs | Needs your laptop awake? | Cost in the default setup |
+| --- | --- | --- | --- |
+| Hourly source discovery and inbox update | GitHub Actions | No | Free for public repositories using standard Linux runners |
+| Hermes chat, Telegram replies, and local drafting | Your Mac | Yes | Free with your existing local setup |
+| Ollama draft generation | Your Mac | Yes | Free after the model download |
+| Final post, reply, or quote repost | You in X | No automation | Free |
+
+> GitHub Actions is used only to collect and store sources. It never posts to X, sends Telegram messages, or calls a paid model in the default workflow.
+
+## Quick start
 
 ```bash
+git clone https://github.com/Akshitwadhwa/Trend-Scout.git
+cd Trend-Scout
 make install
-make dev
-make test
-make fresh      # normal latest high-CTR pack
-make top-ai     # only use curated top AI accounts as source signals
-python scripts/fresh.py ai-radar --limit 5 # OpenAI/Meta/Google/Anthropic/Kimi/DeepSeek/Qwen/Mistral radar
-make india      # latest India-aware tech posts
-make wearables  # on-demand Garmin/WHOOP/Oura/Apple Watch/Samsung Health scan
-make growth     # X-algorithm-aware growth pack
-make nvidia     # NVIDIA event/chips/AI factory pack
-make tesla      # Tesla EV/FSD/Optimus/energy pack
-make reply-scout # public web source posts plus copy-paste replies
 ```
 
-## Local Ollama and Telegram
+Run the local web app:
 
-Keep the Ollama desktop app running, then use the local settings in `.env`:
+```bash
+make dev
+```
+
+Then open `http://127.0.0.1:8000`.
+
+Run a fresh general tech scan:
+
+```bash
+make fresh
+```
+
+The newest copy-ready drafts are saved in `out/`.
+
+## Useful commands
+
+```bash
+make fresh        # general verified tech pack
+make top-ai       # curated AI-account source signals
+make india        # India-aware tech angles
+make growth       # growth-oriented formats
+make nvidia       # chips, GPUs, AI infrastructure
+make tesla        # EVs, FSD, Optimus, energy
+make wearables    # Garmin, WHOOP, Oura, Apple Watch, Samsung Health
+make reply-scout  # source links plus reply ideas
+make test         # run the test suite
+```
+
+For the focused wearable inbox used by Hermes, run this only when you ask for wearable content:
+
+```bash
+. .venv/bin/activate
+python scripts/scan_wearables_inbox.py
+```
+
+It caches recent results locally, so repeated requests are fast and do not re-scan unnecessarily.
+
+## Free hourly trend inbox
+
+The workflow in `.github/workflows/cloud-trend-inbox.yml` runs once per hour and commits the latest free-source inbox back into the repository.
+
+To enable it in GitHub:
+
+1. Open the repository on GitHub.
+2. Go to **Settings → Actions → General**.
+3. Under **Workflow permissions**, choose **Read and write permissions**.
+4. Open the **Actions** tab and enable workflows if GitHub asks.
+
+The inbox is saved at:
+
+```text
+data/trend-inbox.json
+data/trend-inbox.md
+```
+
+The inbox contains source facts and links, not automatically published posts. It is intentionally limited to avoid old news and duplicate ideas.
+
+## Hermes + Telegram workflow
+
+After connecting Telegram to Hermes, the everyday flow is simple:
+
+```text
+You: “Send me 10 fresh tech drafts separately”
+Telegram: receives 10 individual draft messages
+You: copy one, edit it if needed, and post it to X
+```
+
+For a focused request:
+
+```text
+You: “Give me 6 latest Garmin vs WHOOP drafts separately”
+Hermes: refreshes the local wearable cache only for that request
+Telegram: receives source-grounded drafts one by one
+```
+
+Hermes and Telegram are local in this setup. They work while the Mac is awake and connected to the internet. The hourly GitHub source scan continues while the Mac is off, but it cannot generate or deliver Telegram drafts until Hermes is available again.
+
+See [HERMES_INTEGRATION.md](HERMES_INTEGRATION.md) for the local Hermes setup notes.
+
+## Make drafts sound more like you
+
+Start with examples instead of trying to fine-tune a model:
+
+1. Add 8–15 posts that genuinely sound like you to `data/voice-profile.md`.
+2. When a draft is good, tell Hermes why: for example, “factually correct, casual, and useful—save this style.”
+3. When it misses, say what to change: “less formal,” “explain the news first,” or “add a stronger personal take.”
+4. Keep your edited final posts as future voice examples.
+
+The system retrieves those preferences before drafting. Once you have a large set of consistently edited posts, you can evaluate a real fine-tuning experiment separately; it is not required for the workflow to improve.
+
+## Source and safety rules
+
+- Treat official company announcements and reputable reporting as sources, not random social posts.
+- Do not claim an unverified rumor as fact.
+- Do not force a comparison such as Garmin versus WHOOP unless both sides have current source support.
+- Open the source link before posting any high-stakes claim.
+- Do not commit API keys, Telegram tokens, X credentials, or private feedback data.
+- Keep manual review before every X post.
+
+## Optional local Ollama
+
+Ollama improves local draft generation, but it is not needed for the free hourly inbox.
 
 ```env
 ENABLE_OLLAMA=true
@@ -67,302 +154,45 @@ OLLAMA_BASE_URL=http://127.0.0.1:11434
 OLLAMA_MODEL=qwen2.5:3b
 ```
 
-## Verified Brief and Optional OpenAI Web Research
+Use a smaller model if the Mac becomes slow. Ollama must be running only when you are generating local drafts; it does not need to stay running for GitHub Actions to collect trends.
 
-Every fresh pack now includes `out/*-verified-tech-brief.md`. Read it before posting: `primary` is an official domain, `reputable` is a trusted publication, `web_researched` is a direct link returned by OpenAI web research that you should open once, and `discovery` is never used for a generated post.
+## Configuration
 
-## Local trend inbox (hourly scan)
-
-This saves a small local memory of distinct, post-ready stories for 48 hours. It does not write tweets, run Ollama, or post to X.
+Copy the example environment file and fill only the features you use:
 
 ```bash
-. .venv/bin/activate
-python scripts/scan_trend_inbox.py
+cp .env.example .env
 ```
 
-The normal command uses free public sources only. To intentionally use the optional paid OpenAI verification for one refresh:
-
-```bash
-python scripts/scan_trend_inbox.py --with-openai
-```
-
-The saved inbox lives at `data/trend-inbox.json`. In Post Lab, click **Load saved trend inbox**, then **Generate original drafts**. It makes at most one draft per distinct story.
-
-## GitHub Actions free cloud inbox
-
-`.github/workflows/cloud-trend-inbox.yml` runs hourly on GitHub, so source discovery continues while your laptop is off. It uses free public sources only and saves `data/trend-inbox.json` back to the repository. It never calls a cloud LLM, sends Telegram messages, or posts to X.
-
-The workflow needs the repository's **Workflow permissions** set to **Read and write** so it can save the inbox JSON files. The local Post Lab or Hermes bot reads that inbox later and writes drafts with your local model or your separate Copilot login.
-
-For a strict zero-cost setup, keep `OPENAI_API_KEY`, X API keys, and cloud image-generation keys out of GitHub Actions. If the repository is public, standard GitHub-hosted Linux Actions runs are free; do not commit private credentials or personal data.
-
-Telegram is a local delivery and review channel; the JSON inbox remains the permanent record.
-
-## Make the drafts sound like you
-
-Do not fine-tune a model yet. First collect 8–15 posts that genuinely sound like you, including a few that contain a factual take and a few that are sceptical or casual. Paste them into `data/voice-profile.md`, then commit the file. The hourly cloud workflow reads it before writing each draft. It uses the examples to match your rhythm and vocabulary, never to copy them.
-
-In the local Post Lab, use **This sounds like me** for drafts you would realistically post and **Not my voice** for ones you would not. That feedback is stored locally and is included in later Ollama generations. After you have around 30 real approved or edited posts, we can turn them into a stronger reusable voice pack; proper model fine-tuning only becomes useful after you have a much larger, consistent set.
-
-The free local mode uses the feeds you configured:
+For the strict free workflow, leave paid provider keys empty and use the public-source scanner:
 
 ```env
-ENABLE_VERIFIED_BRIEF=true
-VERIFIED_MAX_AGE_HOURS=72
+ENABLE_X_SCAN=false
+ENABLE_X_WATCHLIST=false
+ENABLE_X_TIMELINE=false
+ENABLE_WEB_SCAN=true
+ENABLE_OPENAI_RESEARCH=false
+ENABLE_OPENAI_DRAFTS=false
 ```
 
-To add optional paid current-web research, create a private `.env`, add your own key locally, and opt in. Never paste this key into chat or commit it to Git.
+X timeline scanning and OpenAI web research are optional extras. They are disabled by default and are not needed for the GitHub hourly inbox.
 
-```env
-ENABLE_OPENAI_RESEARCH=true
-OPENAI_API_KEY=your_key_here
-OPENAI_RESEARCH_MODEL=gpt-5
-```
+## Output files
 
-The implementation uses the OpenAI Responses API with its web-search tool and sends `store: false`. You can check whether it is enabled without exposing the key:
+| Location | What it contains |
+| --- | --- |
+| `data/trend-inbox.json` | Latest cloud-saved, source-grounded stories |
+| `data/voice-profile.md` | Writing examples you choose to save |
+| `out/*-verified-tech-brief.md` | Source and verification notes |
+| `out/*-copy-paste-tweets.md` | Drafts ready for your review and manual copy-paste |
+| `outputs/` | Regular Markdown drafts |
+| `json/` | Structured run artifacts |
+
+## Development
 
 ```bash
-curl http://127.0.0.1:8000/research/status
+make test
+make compile
 ```
 
-Telegram is optional and is for draft delivery only. Create a bot through `@BotFather`, start a chat with it, then add its token and your chat ID to `.env`. Keep the token private and never paste it into an AI chat.
-
-```env
-TELEGRAM_BOT_TOKEN=
-TELEGRAM_CHAT_ID=
-```
-
-After you have approved a few drafts, you can explicitly send them to your own Telegram chat:
-
-```bash
-curl -X POST http://127.0.0.1:8000/telegram/send \
-  -H "Content-Type: application/json" \
-  -d '{"messages":["first approved draft","second approved draft"]}'
-```
-
-This endpoint is manual-only. It does not schedule messages or post anything to X.
-
-## Use It
-
-Scan for opportunities:
-
-```bash
-curl -X POST http://127.0.0.1:8000/scan
-```
-
-List saved opportunities:
-
-Generate a draft from an opportunity:
-{"style":"factual, statement-led, practical"}'
-```
-
-Draft recent opportunities and save all outputs:
-
-
-
-Build a full daily content pack:
-
-```bash
-curl -X POST http://127.0.0.1:8000/brief \
-  -H "Content-Type: application/json" \
-  -d '{"style":"factual, statement-led, practical, high-signal","limit":10}'
-```
-
-Build a high-CTR optimization pack:
-
-```bash
-curl -X POST http://127.0.0.1:8000/optimize \
-  -H "Content-Type: application/json" \
-  -d '{"style":"factual, statement-led, concrete, high CTR, no hype","limit":10}'
-```
-
-Markdown files are saved in `out/` for high-CTR packs and `outputs/` for regular drafts. JSON files are saved in `json/`.
-
-For the fastest posting workflow, open the newest `out/*-copy-paste-tweets.md` file. It contains complete tweets that are already assembled from the best hook, angle, and format, so you can copy one directly into X.
-
-For India-focused posts, open the newest `out/*-india-tech-tweets.md` file. It contains longer tweets that translate global tech topics into Indian buyer, startup, creator, developer, pricing, and consumer angles.
-
-Generate posts from a pasted tweet, article, or idea without X API keys:
-
-```bash
-curl -X POST http://127.0.0.1:8000/manual-signal \
-  -H "Content-Type: application/json" \
-  -d '{"source_title":"Gemini Intelligence on Android","source_url":"https://x.com/example/status/123","source_text":"Paste the tweet or article text here","limit":5}'
-```
-
-You can also do it without the API server:
-
-```bash
-. .venv/bin/activate
-python scripts/manual_signal.py --title "Gemini Intelligence on Android" --text "Paste the tweet or article text here"
-```
-
-Fresh rerun, replacing old generated content:
-
-```bash
-curl -X POST http://127.0.0.1:8000/fresh \
-  -H "Content-Type: application/json" \
-  -d '{"style":"factual, statement-led, concrete, high CTR, no hype","limit":10}'
-```
-
-`/fresh` clears old generated Markdown/JSON files and old saved opportunities, scans again, then writes the new high-CTR pack.
-
-You can also run the same fresh workflow without the API server:
-
-```bash
-make fresh
-```
-
-Change what it tracks:
-
-```bash
-curl -X POST http://127.0.0.1:8000/topic \
-  -H "Content-Type: application/json" \
-  -d '{"topic_query":"apple watch OR samsung galaxy OR whoop OR health tech OR wearables"}'
-```
-
-If you pass plain keywords to `/topic`, the bot adds `lang:en -is:retweet` automatically.
-
-Track specific AI accounts by editing `X_WATCH_HANDLES` in `.env`. The default curated list is:
-
-```text
-karpathy, sama, AndrewYNg, fchollet, ylecun, demishassabis, OpenAI, thsottiaux, AnthropicAI, GoogleDeepMind, perplexity_ai, lmarena_ai, huggingface, emollick, simonw, goodside, lilianweng, _akhaliq, dair_ai, rasbt, jeremyphoward, ID_AA_Carmack, hardmaru, bindureddy, IndianTechGuide
-```
-
-To generate only from these top AI account signals:
-
-```bash
-make top-ai
-# or
-python scripts/fresh.py top-ai --limit 5
-```
-
-You can override the account list for a one-off run:
-
-```bash
-python scripts/fresh.py top-ai --handles karpathy,sama,AndrewYNg --limit 5
-```
-
-For latest India-aware posts:
-
-```bash
-make india
-# or
-python scripts/fresh.py india --limit 5
-```
-
-For an on-demand fitness-tech pack—Garmin, WHOOP, Oura, Apple Watch, Samsung Health, Galaxy Watch, recovery and sleep tracking—run:
-
-```bash
-make wearables
-# or
-python scripts/fresh.py wearables --limit 5
-```
-
-This mode is never part of the hourly cloud scan. It uses free public feeds and disables X, OpenAI, and cloud-draft calls. In Telegram, simply ask for a Garmin/WHOOP or wearable-tech batch; Tweet Scout runs the same source scan only for that request.
-
-For the latest AI-model and lab updates—including OpenAI, Anthropic, Gemini, Meta/Llama, xAI/Grok, Kimi/Moonshot, DeepSeek, Qwen, Mistral, and Hugging Face—use the AI radar:
-
-```bash
-python scripts/fresh.py ai-radar --limit 5
-```
-
-This is retrieval, not training: the local writer receives current source material on each run. Enable optional OpenAI web research if you want a second current-web pass with direct links.
-
-For an X-algorithm-aware growth pack:
-
-```bash
-make growth
-# or
-python scripts/fresh.py growth --limit 5
-```
-
-For NVIDIA event, AI chips, AI PC, and AI factory posts:
-
-```bash
-make nvidia
-# or
-python scripts/fresh.py nvidia --limit 8
-```
-
-For Tesla EV, FSD, robotaxi, Optimus, charging, energy, and India-angle posts:
-
-```bash
-make tesla
-# or
-python scripts/fresh.py tesla --limit 8
-```
-
-For public web source posts plus copy-paste reply ideas:
-
-```bash
-make reply-scout
-# or
-python scripts/fresh.py reply-scout --handles sama,OpenAI,AnthropicAI --limit 5
-```
-
-Top-AI mode uses X recent search with `from:<handle>` queries, so it requires an X API tier that supports recent search. If X API search is unavailable, use the normal `make fresh` / `make india` / `make growth` web-feed workflows instead. Reply-scout mode uses public web/RSS mirrors and does not require X API keys.
-
-## GitHub Hygiene
-
-- `.env`, local databases, caches, and generated output files are ignored.
-- Keep only placeholders in `.env.example`.
-- Run `pytest` before opening a pull request.
-- CI runs the test suite on pushes and pull requests to `main`.
-- No license has been selected yet; add one before expecting public reuse.
-
-## Connect Your X Account Through xurl
-
-For your personal X home timeline, the app uses the official `xurl` CLI. This keeps OAuth tokens outside the project and outside Hermes chat.
-
-Install is already supported with Homebrew:
-
-```bash
-brew install --cask xdevplatform/tap/xurl
-```
-
-Then you must authenticate manually in your own terminal. Do not paste secrets into Hermes chat.
-
-1. Create/open an X developer app at https://developer.x.com/en/portal/dashboard
-2. Set redirect URI to `http://localhost:8080/callback`
-3. Register your app locally:
-   ```bash
-   xurl auth apps add my-app --client-id YOUR_CLIENT_ID --client-secret YOUR_CLIENT_SECRET
-   ```
-4. Authenticate:
-   ```bash
-   xurl auth oauth2 --app my-app YOUR_X_USERNAME
-   xurl auth default my-app
-   ```
-5. Verify:
-   ```bash
-   xurl auth status
-   xurl whoami
-   xurl timeline -n 5
-   ```
-
-After that, enable timeline scanning in `.env`:
-
-```env
-ENABLE_X_TIMELINE=true
-MAX_TIMELINE_RESULTS=30
-```
-
-The fresh workflow will then mix your X feed with X topic search, watchlist accounts, and web/RSS sources, depending on which toggles are enabled.
-
-## Optional Text Commands
-
-The app still has a text-command handler, so Hermes or a small UI can call the same command workflow:
-
-- `TRACK <keywords or X query>`
-- `TOPIC`
-- `SCAN`
-- `LIST`
-- `DRAFT <id>`
-- `DRAFT <id>: make it more factual`
-
-## Useful Links
-
-- [X recent search quickstart](https://docs.x.com/x-api/posts/search/quickstart/recent-search)
-- [X API overview and access levels](https://developer.x.com/en/docs/twitter-api)
-- [OpenAI developer quickstart](https://platform.openai.com/docs/quickstart?api-mode=responses&lang=python)
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) and follow [SECURITY.md](SECURITY.md) before opening a pull request.
