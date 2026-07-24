@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+from pathlib import Path
 from typing import Any
 
 from app.ai_writer import TrendWriter
@@ -114,23 +115,33 @@ class Workflow:
             "opportunities": created,
         }
 
-    def refresh_trend_inbox(self, *, retention_hours: int = 48) -> dict[str, Any]:
+    def refresh_trend_inbox(
+        self,
+        *,
+        retention_hours: int = 48,
+        inbox_filename: str = "trend-inbox.json",
+        replace_existing: bool = False,
+    ) -> dict[str, Any]:
         """Collect sources only; this hourly path never invokes the local writer."""
         topic_query = self.db.get_topic_query(self.settings.topic_query)
         free_sources = self._collect_sources(topic_query)
         cloud_sources = self._openai_research_sources(topic_query)
         discovered = self._select_items([*cloud_sources, *free_sources])
         verified_brief = self.brief_builder.build(discovered)
+        safe_name = Path(inbox_filename).name
+        if safe_name != inbox_filename or not safe_name.endswith(".json"):
+            raise ValueError("Inbox filename must be a JSON filename without a directory path.")
+        inbox_path = self.settings.database_path.parent / safe_name
         inbox = TrendInbox(
-            self.settings.database_path.parent / "trend-inbox.json",
+            inbox_path,
             retention_hours=retention_hours,
-        ).merge(verified_brief)
+        ).merge(verified_brief, replace_existing=replace_existing)
         return {
             "status": "ok",
             "discovered_count": len(discovered),
             "cloud_source_count": len(cloud_sources),
             "inbox_count": len(inbox.get("items", [])),
-            "inbox_path": str(self.settings.database_path.parent / "trend-inbox.json"),
+            "inbox_path": str(inbox_path),
             "verified_brief": verified_brief,
             "web_feed_errors": self.web_client.last_errors[:5],
             "openai_research": self._research_status(),

@@ -5,6 +5,7 @@ from app.web_client import WebFeedClient
 
 class SettingsStub:
     web_feed_urls: list[str] = []
+    web_keywords: list[str] = []
     max_web_results = 20
 
 
@@ -23,3 +24,22 @@ def test_feed_parser_recovers_common_unescaped_ampersands(monkeypatch):
 
     assert items[0]["title"] == "AI tools & models"
     assert items[0]["url"] == "https://example.com/?a=1&b=2"
+
+
+def test_fetch_items_filters_broad_feeds_to_requested_keywords(monkeypatch):
+    settings = SettingsStub()
+    settings.web_feed_urls = ["https://example.com/feed"]
+    settings.web_keywords = ["garmin", "whoop"]
+    client = WebFeedClient(settings)
+    monkeypatch.setattr(
+        client,
+        "_fetch_feed",
+        lambda _url: [
+            {"title": "Garmin adds a training feature", "text": "New running data", "created_at": "2026-07-24T10:00:00+00:00"},
+            {"title": "Apple Maps update", "text": "Navigation platform news", "created_at": "2026-07-24T11:00:00+00:00"},
+        ],
+    )
+
+    items = client.fetch_items()
+
+    assert [item["title"] for item in items] == ["Garmin adds a training feature"]

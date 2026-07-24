@@ -17,9 +17,9 @@ class TrendInbox:
         self.path = path
         self.retention_hours = max(1, retention_hours)
 
-    def merge(self, verified_brief: dict[str, Any]) -> dict[str, Any]:
+    def merge(self, verified_brief: dict[str, Any], *, replace_existing: bool = False) -> dict[str, Any]:
         now = datetime.now(timezone.utc)
-        existing = self._read().get("items", [])
+        existing = [] if replace_existing else self._read().get("items", [])
         incoming = verified_brief.get("items", [])
         candidates = [*incoming, *existing]
         retained: list[dict[str, Any]] = []

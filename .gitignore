@@ -22,6 +22,9 @@ data/*.db
 data/*.db-*
 data/*.sqlite
 data/*.sqlite-*
+data/wearables-inbox.json
+data/wearables-inbox.md
+data/wearables-cache-meta.json
 tmp*.txt
 tmp/
 

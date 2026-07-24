@@ -20,6 +20,10 @@ OFFICIAL_DOMAINS = {
     "nvidia.com",
     "apple.com",
     "news.samsung.com",
+    "samsung.com",
+    "garmin.com",
+    "whoop.com",
+    "ouraring.com",
     "tesla.com",
     "ir.tesla.com",
     "huggingface.co",
@@ -40,6 +44,7 @@ REPUTABLE_FEEDS = {
     "9to5mac.com",
     "macrumors.com",
     "sammobile.com",
+    "wareable.com",
 }
 
 REPUTABLE_PUBLICATIONS = {
@@ -55,6 +60,7 @@ REPUTABLE_PUBLICATIONS = {
     "the verge",
     "techcrunch",
     "tom's hardware",
+    "the guardian",
     "reuters",
     "wired",
 }

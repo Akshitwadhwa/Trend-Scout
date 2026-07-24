@@ -50,6 +50,7 @@ make fresh      # normal latest high-CTR pack
 make top-ai     # only use curated top AI accounts as source signals
 python scripts/fresh.py ai-radar --limit 5 # OpenAI/Meta/Google/Anthropic/Kimi/DeepSeek/Qwen/Mistral radar
 make india      # latest India-aware tech posts
+make wearables  # on-demand Garmin/WHOOP/Oura/Apple Watch/Samsung Health scan
 make growth     # X-algorithm-aware growth pack
 make nvidia     # NVIDIA event/chips/AI factory pack
 make tesla      # Tesla EV/FSD/Optimus/energy pack
@@ -249,6 +250,16 @@ make india
 # or
 python scripts/fresh.py india --limit 5
 ```
+
+For an on-demand fitness-tech pack—Garmin, WHOOP, Oura, Apple Watch, Samsung Health, Galaxy Watch, recovery and sleep tracking—run:
+
+```bash
+make wearables
+# or
+python scripts/fresh.py wearables --limit 5
+```
+
+This mode is never part of the hourly cloud scan. It uses free public feeds and disables X, OpenAI, and cloud-draft calls. In Telegram, simply ask for a Garmin/WHOOP or wearable-tech batch; Tweet Scout runs the same source scan only for that request.
 
 For the latest AI-model and lab updates—including OpenAI, Anthropic, Gemini, Meta/Llama, xAI/Grok, Kimi/Moonshot, DeepSeek, Qwen, Mistral, and Hugging Face—use the AI radar:
 

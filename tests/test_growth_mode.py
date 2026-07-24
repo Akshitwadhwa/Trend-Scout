@@ -54,3 +54,17 @@ def test_growth_mode_uses_web_scan_not_x_api():
     assert settings.enable_x_timeline is False
     assert "developers" in settings.topic_query
     assert "thsottiaux" in DEFAULT_STYLES["growth"]
+
+
+def test_wearables_mode_is_on_demand_and_uses_free_web_sources():
+    args = argparse.Namespace(mode="wearables", limit=8, handles="", style="")
+
+    settings = settings_for_mode(settings_stub(), args)
+
+    assert settings.enable_web_scan is True
+    assert settings.enable_x_scan is False
+    assert settings.enable_x_watchlist is False
+    assert settings.enable_x_timeline is False
+    assert "Garmin" in settings.topic_query
+    assert any("WHOOP" in feed for feed in settings.web_feed_urls)
+    assert "no fake health claims" in DEFAULT_STYLES["wearables"]

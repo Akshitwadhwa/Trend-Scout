@@ -29,3 +29,16 @@ def test_inbox_keeps_only_recent_post_ready_items(tmp_path):
     )
 
     assert [entry["title"] for entry in saved["items"]] == ["Fresh release"]
+
+
+def test_replace_existing_discards_old_cached_items(tmp_path):
+    now = datetime.now(timezone.utc)
+    inbox = TrendInbox(tmp_path / "wearables-inbox.json", retention_hours=48)
+    inbox.merge({"items": [item("Old cached story", now.isoformat())]})
+
+    saved = inbox.merge(
+        {"items": [item("Current wearable story", now.isoformat())]},
+        replace_existing=True,
+    )
+
+    assert [entry["title"] for entry in saved["items"]] == ["Current wearable story"]

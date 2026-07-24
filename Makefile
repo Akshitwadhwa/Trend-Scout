@@ -1,4 +1,4 @@
-.PHONY: install dev test compile fresh top-ai india growth nvidia tesla reply-scout manual
+.PHONY: install dev test compile fresh top-ai india growth nvidia tesla wearables reply-scout manual
 
 install:
 	python3 -m venv .venv
@@ -30,6 +30,9 @@ nvidia:
 
 tesla:
 	. .venv/bin/activate && python scripts/fresh.py tesla
+
+wearables:
+	. .venv/bin/activate && python scripts/fresh.py wearables
 
 reply-scout:
 	. .venv/bin/activate && python scripts/fresh.py reply-scout

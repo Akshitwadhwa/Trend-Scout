@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import email.utils
 import re
 import xml.etree.ElementTree as ET
@@ -23,18 +24,38 @@ class WebFeedClient:
             return []
 
         items: list[dict[str, Any]] = []
-        for url in self.settings.web_feed_urls:
+
+        def fetch_one(url: str) -> tuple[str, list[dict[str, Any]], Exception | None]:
             try:
-                items.extend(self._fetch_feed(url))
-            except requests.RequestException as exc:
-                self.last_errors.append(f"{url}: {exc}")
-                continue
-            except ET.ParseError as exc:
-                self.last_errors.append(f"{url}: {exc}")
-                continue
+                feed_items = self._fetch_feed(url)
+                if self.settings.web_keywords:
+                    feed_items = [item for item in feed_items if self._matches_keywords(item)]
+                return url, feed_items, None
+            except (requests.RequestException, ET.ParseError) as exc:
+                return url, [], exc
+
+        max_workers = min(6, len(self.settings.web_feed_urls))
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = [executor.submit(fetch_one, url) for url in self.settings.web_feed_urls]
+            for future in as_completed(futures):
+                url, feed_items, error = future.result()
+                if error is not None:
+                    self.last_errors.append(f"{url}: {error}")
+                    continue
+                items.extend(feed_items)
 
         items.sort(key=lambda item: item["created_at"], reverse=True)
         return items[: self.settings.max_web_results]
+
+    def _matches_keywords(self, item: dict[str, Any]) -> bool:
+        haystack = " ".join(
+            [
+                str(item.get("title", "")),
+                str(item.get("text", "")),
+                str(item.get("author_name", "")),
+            ]
+        ).lower()
+        return any(keyword.lower() in haystack for keyword in self.settings.web_keywords)
 
     def fetch_reply_scout_items(
         self,
@@ -97,7 +118,8 @@ class WebFeedClient:
 
     def _fetch_reply_scout_profile(self, handle: str) -> list[dict[str, Any]]:
         url = f"https://r.jina.ai/http://https://x.com/{handle}"
-        response = requests.get(url, timeout=20)
+        timeout_seconds = max(3, min(int(getattr(self.settings, "web_feed_timeout_seconds", 8)), 30))
+        response = requests.get(url, timeout=timeout_seconds)
         response.raise_for_status()
         posts = self._parse_jina_profile_posts(response.text)
         now = datetime.now(timezone.utc).isoformat()
@@ -165,7 +187,8 @@ class WebFeedClient:
         return max(0.0, 1_000_000.0 - age_seconds)
 
     def _fetch_feed(self, url: str) -> list[dict[str, Any]]:
-        response = requests.get(url, timeout=20)
+        timeout_seconds = max(3, min(int(getattr(self.settings, "web_feed_timeout_seconds", 8)), 30))
+        response = requests.get(url, timeout=timeout_seconds)
         response.raise_for_status()
         content = response.content
         try:
@@ -295,7 +318,13 @@ class WebFeedClient:
     def _parse_date(self, value: str) -> str:
         if not value:
             return datetime.now(timezone.utc).isoformat()
-        parsed = email.utils.parsedate_to_datetime(value)
+        try:
+            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        except ValueError:
+            try:
+                parsed = email.utils.parsedate_to_datetime(value)
+            except (TypeError, ValueError):
+                return datetime.now(timezone.utc).isoformat()
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=timezone.utc)
         return parsed.isoformat()

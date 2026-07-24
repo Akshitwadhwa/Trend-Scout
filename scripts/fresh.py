@@ -132,6 +132,20 @@ TESLA_KEYWORDS = [
     "gigafactory",
 ]
 
+WEARABLES_FEEDS = [
+    "https://news.google.com/rss/search?q=Garmin%20wearables%20fitness%20watch%20OR%20Garmin%20Forerunner%20OR%20Garmin%20Fenix%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=WHOOP%20fitness%20tracker%20recovery%20subscription%20OR%20WHOOP%20health%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Oura%20Ring%20sleep%20readiness%20health%20tracking%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Apple%20Watch%20health%20fitness%20watchOS%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Samsung%20Health%20Galaxy%20Watch%20fitness%20when:14d&hl=en-IN&gl=IN&ceid=IN:en",
+]
+
+WEARABLES_KEYWORDS = [
+    "garmin", "whoop", "oura", "oura ring", "apple watch", "watchos", "samsung health", "galaxy watch",
+    "fitness tracker", "fitness watch", "smartwatch", "wearable", "wearables", "health tracking", "recovery",
+    "readiness", "sleep tracking", "heart rate", "hrv", "training load", "gps", "running", "cycling",
+]
+
 
 DEFAULT_STYLES = {
     "fresh": "factual, statement-led, concrete, high CTR, no hype",
@@ -160,6 +174,11 @@ DEFAULT_STYLES = {
         "factual, statement-led, high CTR, Tesla-aware, explain concrete facts and implications for EVs, "
         "FSD/robotaxi, Optimus, energy storage, charging, India buyers, auto market, no hype"
     ),
+    "wearables": (
+        "current wearable and fitness-tech news, casual and sharp student creator voice, name the company or product, "
+        "explain the concrete change so a non-expert understands it, then add one honest buyer or user implication; "
+        "Garmin vs WHOOP vs Oura vs Apple Watch vs Samsung Health where relevant, no hype, no fake health claims"
+    ),
     "reply-scout": (
         "scrape high-signal public web account feeds and produce exact source posts plus copy-paste replies/quotes; "
         "manual repost/reply workflow, no auto-posting"
@@ -174,9 +193,9 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "mode",
         nargs="?",
-        choices=["fresh", "top-ai", "ai-radar", "india", "growth", "nvidia", "tesla", "reply-scout"],
+        choices=["fresh", "top-ai", "ai-radar", "india", "growth", "nvidia", "tesla", "wearables", "reply-scout"],
         default="fresh",
-        help="fresh=normal scan, top-ai=signals from top AI accounts, ai-radar=latest model/company release radar, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, nvidia=NVIDIA event/chips/AI factory scan, tesla=Tesla EV/FSD/Optimus/energy scan, reply-scout=high-signal source tweets plus copy-paste replies",
+        help="fresh=normal scan, top-ai=signals from top AI accounts, ai-radar=latest model/company release radar, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, nvidia=NVIDIA event/chips/AI factory scan, tesla=Tesla EV/FSD/Optimus/energy scan, wearables=on-demand Garmin/WHOOP/Oura/Apple Watch/Samsung Health scan, reply-scout=high-signal source tweets plus copy-paste replies",
     )
     parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--style", default="")
@@ -290,6 +309,21 @@ def settings_for_mode(settings, args: argparse.Namespace):
             web_feed_urls=TESLA_FEEDS,
             web_keywords=TESLA_KEYWORDS,
         )
+    if args.mode == "wearables":
+        return replace(
+            settings,
+            topic_query=(
+                "Garmin WHOOP Oura Ring Apple Watch watchOS Samsung Health Galaxy Watch "
+                "wearables fitness tracker smartwatch recovery sleep tracking HRV training load"
+            ),
+            enable_x_scan=False,
+            enable_x_watchlist=False,
+            enable_x_timeline=False,
+            enable_web_scan=True,
+            max_web_results=max(80, settings.max_web_results),
+            web_feed_urls=WEARABLES_FEEDS,
+            web_keywords=WEARABLES_KEYWORDS,
+        )
     return settings
 
 
@@ -338,6 +372,7 @@ def main() -> None:
         "growth": "X-algorithm-aware growth pack created",
         "nvidia": "NVIDIA event high-CTR pack created",
         "tesla": "Tesla high-CTR pack created",
+        "wearables": "Wearables and fitness-tech high-CTR pack created",
     }[args.mode]
     print(label)
     print(f"Sources found: {source_count}")
