@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-23T23:11:19.318054+00:00
+Updated: 2026-07-24T00:10:08.073905+00:00
 Memory window: 48 hours
 
 ## 1. AI models' breakout from human control brings a told-you-so moment for technology researchers - AP News
@@ -17,29 +17,29 @@ URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVhNdF9vVVNEUk5pRXdrZk
 
 OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress CNBC
 
-## 3. OpenAI makes ChatGPT Health available to all US users - TechCrunch
+## 3. Launching Health in ChatGPT - OpenAI
+Source: OpenAI (primary)
+URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5
+
+Launching Health in ChatGPT OpenAI
+
+## 4. OpenAI makes ChatGPT Health available to all US users - TechCrunch
 Source: TechCrunch (reputable)
 URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlRtRzNDR2ZJTTBnZWtSdWNtdVdocVVSc1h4cXpXTEhnd0JDSmFFNy02LThsLW9UbHhNdGt3RnQtS0tHZ3ZfMzRsUW5Ucm9mOE5DRmZWb3habm1ueDh0cE13MnV1aVp3ZEFzRWctOEdOUWJsbzVlNm1vSEoycGJzckQ3ZTduVzJzcW85Y2x5ZGhzV3c?oc=5
 
 OpenAI makes ChatGPT Health available to all US users TechCrunch
 
-## 4. The US may find it hard to shrug off Moonshot’s AI shockwaves - Financial Times
+## 5. The US may find it hard to shrug off Moonshot’s AI shockwaves - Financial Times
 Source: Financial Times (reputable)
 URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNLUdDdGhuU2JBTENUa0JKLUJsajg3dW1vUlFLRnpRZVduNWh6VmZRSENMSnRNR0F5ME55b2VjS3ZqWmtMLWp6TnFLQUFjNWZHOVdfbVdNSTJGamczcWVBNDVKNHRneFE2TGFscjR1SVNmdDIzSDVFSDR2RVpPZHRqaFZNSGk?oc=5
 
 The US may find it hard to shrug off Moonshot’s AI shockwaves Financial Times
 
-## 5. Apply now for the Google for Startups Gemini Startup Forum. - blog.google
+## 6. Apply now for the Google for Startups Gemini Startup Forum. - blog.google
 Source: blog.google (primary)
 URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzdoa2RxN3lETjNULTA4c1k2SzFqUndPa2NjSk4wemQ2SnBxeVRUM0FYc282aXFqQnQ4dkQtM2NPSWlwZE1ZdnVXTFN3ckN5RU0yMm4tYTczcGxEOTBmNUIwSnJZNDdkZTNFNzN4MHlqUDM1UGE3a19pd3pMVUVFUFlWRC1tQmhkOWtaYUJReFFUdUd1X2EyeFBPY1JPaktiVGpjM3R5eVo?oc=5
 
 Apply now for the Google for Startups Gemini Startup Forum. blog.google
-
-## 6. Launching Health in ChatGPT - OpenAI
-Source: OpenAI (primary)
-URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5
-
-Launching Health in ChatGPT OpenAI
 
 ## 7. Google’s Gemini nears billion-user milestone - TechCrunch
 Source: TechCrunch (reputable)

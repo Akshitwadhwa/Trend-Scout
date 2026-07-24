@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T23:11:19.318054+00:00",
+  "updated_at": "2026-07-24T00:10:08.073905+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "AP News",
       "source_level": "reputable",
       "published_at": "2026-07-23T20:30:00+00:00",
-      "age_hours": 2.7,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,9 +20,20 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-07-23T19:51:08+00:00",
-      "age_hours": 3.3,
+      "age_hours": 4.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Launching Health in ChatGPT - OpenAI",
+      "what_happened": "Launching Health in ChatGPT OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-23T19:43:46+00:00",
+      "age_hours": 4.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "OpenAI makes ChatGPT Health available to all US users - TechCrunch",
@@ -31,7 +42,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-23T17:00:00+00:00",
-      "age_hours": 6.2,
+      "age_hours": 7.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -54,17 +65,6 @@
       "source_level": "primary",
       "published_at": "2026-07-23T15:41:05+00:00",
       "age_hours": 7.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Launching Health in ChatGPT - OpenAI",
-      "what_happened": "Launching Health in ChatGPT OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-23T15:18:33+00:00",
-      "age_hours": 6.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
