@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T14:10:45.127476+00:00",
+  "updated_at": "2026-07-24T15:43:01.826104+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -229,17 +229,6 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-07-22T15:54:04+00:00",
-      "age_hours": 2.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "AMD to invest up to $5 billion in Anthropic, WSJ reports - Reuters",
-      "what_happened": "AMD to invest up to $5 billion in Anthropic, WSJ reports Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-22T14:14:25+00:00",
       "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
