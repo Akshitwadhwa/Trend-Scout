@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-24T03:41:52.093013+00:00
+Updated: 2026-07-24T06:38:34.391701+00:00
 Memory window: 48 hours
 
 ## 1. AI models' breakout from human control brings a told-you-so moment for technology researchers - AP News
@@ -13,7 +13,7 @@ AI models' breakout from human control brings a told-you-so moment for technolog
 
 ## 2. OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress - CNBC
 Source: CNBC (reputable)
-URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVhNdF9vVVNEUk5pRXdrZkFZNkU2WXA4MDJqSEVUOVhZaFYzZ0dKTUxvWTN5Z21CTzlNYVZXTF9ieTdLQkVWODQtTE51RTFpYzk2TjdoX1QwbUVtVmo3TktjX2pRZURaSVVQdVYyYTJQZk5raHRVOHMwNzMzLUF5dzZSamdxa3kwN3BZTVFSWGJpUdIBlwFBVV95cUxNX1dIYVZvcmZINEoxVjVJdnJOYUtoRGQwMGcteFV5a1NKU2huSkdYaE1DNFdQTjc2NmluNWg1Smd2UGRSbnpUQUpfeVdBOHJSVUs1SFRhc1JUaUZ6RVN0ckdwdDh6eTdJUnBOdU56V0Y5WUVIMWRCUHk3ZlF2c2x6ZmNlbWNGRTJoWWkzQ1pKakY5SHhrbmE0?oc=5
+URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxQWVhNdF9vVVNEUk5pRXdrZkFZNkU2WXA4MDJqSEVUOVhZaFYzZ0dKTUxvWTN5Z21CTzlNYVZXTF9ieTdLQkVWODQtTE51RTFpYzk2TjdoX1QwbUVtVmo3TktjX2pRZURaSVVQdVYyYTJQZk5raHRVOHMwNzMzLUF5dzZSamdxa3kwN3BZTVFSWGJpUQ?oc=5
 
 OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress CNBC
 
