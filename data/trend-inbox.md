@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-24T21:20:12.754004+00:00
+Updated: 2026-07-24T23:15:24.265249+00:00
 Memory window: 48 hours
 
 ## 1. Introducing Claude Opus 5 - Anthropic
@@ -124,15 +124,3 @@ Source: OpenAI (primary)
 URL: https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ZV0UzQjlaVFpySG42LWNxeXdmVnhsX2FGcDhSdlRLdU1mZEwwckFHaU53RE1ucVZmWmNsaHdmVXYzeWI0ZWViS3p3?oc=5
 
 NTT DATA Group cuts incident analysis to 30 minutes with Codex OpenAI
-
-## 21. OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - AP News
-Source: AP News (reputable)
-URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZGYzhuOEtIRWR3Qk12WWIxdWpvSlpqMTFHZktaT2lqRGYzOVJNT3pScks4a2x0N2pUTWdJYUtUQzZTOVpQMDE5SGRSLXRlOV9XcWZqdDVUQzdPTmxFVWZUVjZ5a2lFdFdWOWVrVjlRSXF0ZWNzcGwzWFRBSW5USUhLZDVoVmVTR2VTTjhaMlhhRi02SDdpOQ?oc=5
-
-OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know AP News
-
-## 22. OpenAI hacking incident exposes mounting risks in AI arms race - Financial Times
-Source: Financial Times (reputable)
-URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNMURVdjN6dHFWVVhMX0xUY21fajRZMXpnUEswSkJRQVdYempQc2RsVEl0RmR4MjNHMk1YMUYzcXdBSFdHZ1VtVXA5Z0VrMGpRM1VZS3pqOExBMkV3RmtsYmtORjM1TG5rX0VSYVNNYTFNTlNwUzM3N1RyN0F6cUtYWGxXcFI?oc=5
-
-OpenAI hacking incident exposes mounting risks in AI arms race Financial Times

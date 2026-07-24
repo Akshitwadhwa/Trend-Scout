@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T21:20:12.754004+00:00",
+  "updated_at": "2026-07-24T23:15:24.265249+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-07-24T17:00:57+00:00",
-      "age_hours": 4.3,
+      "age_hours": 6.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,7 +20,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-24T16:40:04+00:00",
-      "age_hours": 4.7,
+      "age_hours": 6.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -31,7 +31,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-24T15:00:02+00:00",
-      "age_hours": 6.3,
+      "age_hours": 8.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -221,28 +221,6 @@
       "age_hours": 4.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know - AP News",
-      "what_happened": "OpenAI blamed a hacking event on its AI models going rogue. Here are some things to know AP News",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN0ZGYzhuOEtIRWR3Qk12WWIxdWpvSlpqMTFHZktaT2lqRGYzOVJNT3pScks4a2x0N2pUTWdJYUtUQzZTOVpQMDE5SGRSLXRlOV9XcWZqdDVUQzdPTmxFVWZUVjZ5a2lFdFdWOWVrVjlRSXF0ZWNzcGwzWFRBSW5USUhLZDVoVmVTR2VTTjhaMlhhRi02SDdpOQ?oc=5",
-      "source_name": "AP News",
-      "source_level": "reputable",
-      "published_at": "2026-07-22T22:20:00+00:00",
-      "age_hours": 5.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI hacking incident exposes mounting risks in AI arms race - Financial Times",
-      "what_happened": "OpenAI hacking incident exposes mounting risks in AI arms race Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMURVdjN6dHFWVVhMX0xUY21fajRZMXpnUEswSkJRQVdYempQc2RsVEl0RmR4MjNHMk1YMUYzcXdBSFdHZ1VtVXA5Z0VrMGpRM1VZS3pqOExBMkV3RmtsYmtORjM1TG5rX0VSYVNNYTFNTlNwUzM3N1RyN0F6cUtYWGxXcFI?oc=5",
-      "source_name": "Financial Times",
-      "source_level": "reputable",
-      "published_at": "2026-07-22T22:15:35+00:00",
-      "age_hours": 5.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
