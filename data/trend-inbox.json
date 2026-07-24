@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-24T15:43:01.826104+00:00",
+  "updated_at": "2026-07-24T17:50:36.388338+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Introducing Claude Opus 5 - Anthropic",
+      "what_happened": "Introducing Claude Opus 5 Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+      "source_name": "Anthropic",
+      "source_level": "primary",
+      "published_at": "2026-07-24T17:00:57+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Yang Zhilin, the rock star founder behind China\u2019s Moonshot AI - Financial Times",
+      "what_happened": "Yang Zhilin, the rock star founder behind China\u2019s Moonshot AI Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbUlvRC1OQTRveGd1VWVtaUdpRTZDUWVfNlNWU0pjU1JFTmUzNmlfc1RzSU12cjFnYktTdjVadm5pNms0dXZZWDI2YmVNOHE0YnUxcnNPLTFPQlRyOFJwdzJ1RFc1bWt1ang0cWNhTWhHeHN5NElqdXJrWlBnSl96VEIyT00?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-07-24T15:00:02+00:00",
+      "age_hours": 2.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Delhi HC to decide: Can OpenAI use copyrighted material to train ChatGPT? - The Indian Express",
       "what_happened": "Delhi HC to decide: Can OpenAI use copyrighted material to train ChatGPT? The Indian Express",
@@ -208,28 +230,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-22T22:15:35+00:00",
       "age_hours": 5.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "The Anthropic Economic Index connector - Anthropic",
-      "what_happened": "The Anthropic Economic Index connector Anthropic",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SYk1FQ3paMmNwYURwWWFZQ3VDblA3Yy05c3F4MXJxTnVHLVlHMDQyM2pDQ3A0VjNhNl90Q2xzNFpyYVlhUkdXb2ZTVUR5MFZnVWpkaFRmdkxPUGZoTGYyakJnTzhBOGJOaDF1Q1ZDa3haVkU?oc=5",
-      "source_name": "Anthropic",
-      "source_level": "primary",
-      "published_at": "2026-07-22T17:13:51+00:00",
-      "age_hours": 3.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "OpenAI cyber models broke out of training environment to hack Hugging Face - CNBC",
-      "what_happened": "OpenAI cyber models broke out of training environment to hack Hugging Face CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS0Fzbkw4bWcyTTlMV1YzMlRzZmVzTDFJUkIxUVJxWFVlZjJVcjBHQ1RSaTZXOVZRclhkRkplY1ZDWFM1UVc0WEQ5Z0daUnFhZUpCa2xTMVJOaHVrZXNJbHNZWkMzNU9TSVMwc2JtcExHam9DTGdONHJFbkJaTzhFNtIBhgFBVV95cUxPdVNpQk40cDBmZWliMlZqX1drbFJNVkEwRUE2X19rT0l1WVFjcm5uQkxBaVhXSEk0M3Rvdk5aRWR2bWFqMkJmTmsxNEg1QUIyNHlzWVpQR2dlVGtCeUxGc2EwU3NhbTM1S05vMmtNNTRoWlNsdENUdVBBS0RjV0tlLW5NV1gzZw?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-22T15:54:04+00:00",
-      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
