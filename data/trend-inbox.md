@@ -2,22 +2,40 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-25T14:00:43.029655+00:00
+Updated: 2026-07-25T15:18:22.744594+00:00
 Memory window: 48 hours
 
-## 1. Nvidia and SK Group enter $500 billion AI partnership — plan to supercharge AI infrastructure with next-gen memory and massive AI factories - Tom's Hardware
-Source: Tom's Hardware (reputable)
-URL: https://news.google.com/rss/articles/CBMirwJBVV95cUxNdFVPajJESWc0ZHlxdk1Rdkhja3E4NXktbU12VFBNVWFFQzlRZ3R0bElJNVV1RlRsRUpkcXR5Q0hZWEVNQ0NzQVpjUU8tenlDaVp6VEVMMnhtQjlTd21KTVd4M0Vkd3JuUDZEX3QyUU5EUzAtTlJOUF9iMDg2OThmdHcwaFlvYWgxeVpjSlMwdnRBV1ppRklFQmh6OHdqSEpYT005U2h2Q3hVcjc5eEdmNXdEaExRb2o4THc1Vmt4dXJkRkI3N2g4eS04RE90VTRocU1CcE5zeXd5X0ZFeE5YcjJOMmxfMkpYOHkzOG1Sd0lROVZITDRieWthbG5MN2ljQ3V0b1BkdE10WFMwMUNEMXBrN1g3WjhsWWZ5VmR5YUdfTkYycVhGMUp3emlhZXc?oc=5
+## 1. The next chip leap | India Semiconductor Mission - India Today
+Source: India Today (reputable)
+URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSlhwdl9CckphRzdmUWN0Rm43YlRSajlNcy1LN3RuVHA2aU9LUzJOV0Jzems4SHdLamJLbDV0UFlTNzNjN3V6REtTamZZZWo3d3htYTVUMndHb1Y4VUlHdUo0OU1aOFJTVFlfbHZjSXp3cGRsWEtIbnA0VXpaT0ptRDdOaTBRMkhrMVFvdWJQNmEyWk91ZTc5NE4wY2tOUWVITTRwb3ppRExTV3o3UGp4MmhDZ2Fnb0lMYUhWUFl6LWp3Z9IBxwFBVV95cUxNbFg0WVlGMDdDR2xUbEQ0QWg5R0xFSnBndmZtTi1McjNxaWtzaUYyZzJhbEh6LTdxSy1yemJjM3E0REczR0pmTjVMWk1EZlZBSlBnZlRqTzdqV0pHVDVDWk02OUZXMUtDZXZsZEV1VXk1Y2JVd3k5Z2JUckdMSEotQ052S2tuQW8zLXFyeXIyZEpVUFZmRTR3S3dPaTJUSHphMEdUQncwVGZBOXVwci01ak5BRThZeVdRZVU5a3dzMEc0dmczc1g0?oc=5
 
-Nvidia and SK Group enter $500 billion AI partnership — plan to supercharge AI infrastructure with next-gen memory and massive AI factories Tom's Hardware
+The next chip leap | India Semiconductor Mission India Today
 
-## 2. Anthropic launches Claude Opus 5 AI model: Higher coding performance, lower cost, and new API features - Moneycontrol.com
+## 2. Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters
+Source: Reuters (reputable)
+URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5
+
+Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push Reuters
+
+## 3. SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM - digitimes
+Source: digitimes (reputable)
+URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5
+
+SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM digitimes
+
+## 4. Which AI model is the best stock trader? A finance professor says he's got the answer. - Business Insider
+Source: Business Insider (reputable)
+URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxOUnc5ODQtMkNJNDg3UzZpbFRaeGN0Qk5VNjZNZm9lUDh0VGxiczByS1M4NFNZa2V2NjJiSGZ4OG9wRDFGZ1hmbFVmNHhPMjU3TE5ORnJfOVJGQU5sU3FnN2c3SHZnU1VvV19Vdk41TEw3U21UNFdsY1ZHTU5tc3VZS1VieEVFZ1RKOGVmeDR6VnpNU1YwVGxGakln?oc=5
+
+Which AI model is the best stock trader? A finance professor says he's got the answer. Business Insider
+
+## 5. Anthropic launches Claude Opus 5 AI model: Higher coding performance, lower cost, and new API features - Moneycontrol.com
 Source: Moneycontrol.com (reputable)
 URL: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQa1JtX2gwQ29aamFTdDRJcVZBNHhfQ0wtRTlYS1BtNjhkamZkVmRxZ2tjY09tU2Vpc0ZaUEtqQnJfMTNfT2dKLV9NT01JbzdaTWk5ZEN1aldqYVBFUmJiMjZlTFhJaEpkeFJtemQ5QjhLXzJfNWVqUV9ldHRlSldoc0JqMW51RktrUzQ3SlRlV0VyOTRONFNmSDdDV1VIME9TOUI1YnpsZkg2bTVNS2s2b2NXVUxncHpERXV2V3Q0YkVCbDJ6RElzeTNTSlpwNi1hX1dKRXZCOExsZXFWVGZJejVNYWI4SVJiMjFTOS1HOUwwd1XSAfgBQVVfeXFMTXZPRjU3blBzVXFJMEJjaGFxb0dvY2phZUNuenJGMl9KckdrdW0yU244VXFkdUZDdlp2cGpVQVo5LUFRdzRDTUt0Zi1zRmI3QlRBb0VFaHJ5SUI0SWdsNEZndnRDYm1IN1dXUDZkOWdjNzJMQlB2VDBwMlNrUmcyYVNVN0stbEcxQ1JxUGxwX24wakFKQ2ZyM2VRb3JleEpmcklMX0RJcjFWMEtJYUdwaFI2eWFVNmZ5TG9BN1JNYVVkWUFmSnpBTU81a3ZXeU9SZGVnTUthaTJjYWRPRFlKTTEwaVoxcE42aUpSeFRBS0NaSXYtRDUyb2M?oc=5
 
 Anthropic launches Claude Opus 5 AI model: Higher coding performance, lower cost, and new API features Moneycontrol.com
 
-## 3. China hits Trip.com with US$765 million antitrust penalty - South China Morning Post
+## 6. China hits Trip.com with US$765 million antitrust penalty - South China Morning Post
 Source: South China Morning Post (reputable)
 URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSkhPUFNzRUZ3aWdVVktLOUh5S3RtTnlVU2NLc01HcVpObnFnU2lhUEFkWHlRa1pqc2NBbXhyRFpPdWdKWnBfbjJIQ3BTVnNhdmtKS29PUC1VeEVDZU1LWmhTbjBINllTM1RSR1MzNlotcnVhcmNadXU0U2FmdDJSczZkcWxGLURIQkRra2hvN0tSS01XdUJoOVp1dTkxV2FCZUxHR1ZCQU1peU9wa3JtZ2NtQW5pVGI5WnJ6bGhDdWM2aURSMUMzMNIByAFBVV95cUxQSkhPUFNzRUZ3aWdVVktLOUh5S3RtTnlVU2NLc01HcVpObnFnU2lhUEFkWHlRa1pqc2NBbXhyRFpPdWdKWnBfbjJIQ3BTVnNhdmtKS29PUC1VeEVDZU1LWmhTbjBINllTM1RSR1MzNlotcnVhcmNadXU0U2FmdDJSczZkcWxGLURIQkRra2hvN0tSS01XdUJoOVp1dTkxV2FCZUxHR1ZCQU1peU9wa3JtZ2NtQW5pVGI5WnJ6bGhDdWM2aURSMUMzMA?oc=5
 
