@@ -1,15 +1,37 @@
 {
-  "updated_at": "2026-07-25T09:12:11.596473+00:00",
+  "updated_at": "2026-07-25T10:43:19.853664+00:00",
   "retention_hours": 48,
   "items": [
     {
-      "title": "Free iPhone deal: T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify - Mashable",
-      "what_happened": "Free iPhone deal: T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TSU9HUkQwcWZjczVxTlNRYXd3TzNQYWllXzRGekZBQW1EWm9IOHlxa0s5LVJlN3hmN1U4bW5MMktlM05DYjRpaFdkQWtCUkZud1V3V3I3cnlhRnVOck5XVWl5ZDNnNmc?oc=5",
-      "source_name": "Mashable",
+      "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days - WIRED",
+      "what_happened": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5",
+      "source_name": "WIRED",
       "source_level": "reputable",
-      "published_at": "2026-07-25T07:25:00+00:00",
-      "age_hours": 1.8,
+      "published_at": "2026-07-25T10:30:00+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Which AI model is the best stock trader? A finance professor says he's got the answer. - Business Insider",
+      "what_happened": "Which AI model is the best stock trader? A finance professor says he's got the answer. Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUnc5ODQtMkNJNDg3UzZpbFRaeGN0Qk5VNjZNZm9lUDh0VGxiczByS1M4NFNZa2V2NjJiSGZ4OG9wRDFGZ1hmbFVmNHhPMjU3TE5ORnJfOVJGQU5sU3FnN2c3SHZnU1VvV19Vdk41TEw3U21UNFdsY1ZHTU5tc3VZS1VieEVFZ1RKOGVmeDR6VnpNU1YwVGxGakln?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-07-25T09:16:28+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
+      "what_happened": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-25T09:13:44+00:00",
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,18 +42,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-07-25T07:22:16+00:00",
-      "age_hours": 1.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. - Mashable",
-      "what_happened": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-25T04:03:44+00:00",
-      "age_hours": 5.1,
+      "age_hours": 3.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,18 +53,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 6.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC",
-      "what_happened": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack? BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5",
-      "source_name": "BBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-24T23:11:13+00:00",
-      "age_hours": 10.0,
+      "age_hours": 8.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
