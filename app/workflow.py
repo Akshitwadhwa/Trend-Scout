@@ -478,23 +478,69 @@ class Workflow:
         # breaking-news cluster from Google News.
         ranked_items = sorted(items, key=lambda value: value.get("created_at", ""), reverse=True)
         ranked_items.sort(key=lambda value: value.get("source_type") != "openai_web_research")
+        categories = (
+            "consumer tech",
+            "chips and infrastructure",
+            "developer tools",
+            "security",
+            "business and policy",
+            "AI and models",
+            "other tech",
+        )
+        buckets: dict[str, list[dict[str, Any]]] = {category: [] for category in categories}
         for item in ranked_items:
-            username = item.get("author_username", item.get("author_name", "unknown"))
-            url = item["url"]
-            if url in seen_urls:
-                continue
-            # RSS items share the feed URL as their author. Keep a small batch
-            # from a curated feed so an AI radar can surface several distinct
-            # releases, while still limiting repetition from a single X author.
-            per_source_limit = 4 if item.get("source_type") == "web" else 1
-            if author_counts.get(username, 0) >= per_source_limit:
-                continue
-            selected.append(item)
-            author_counts[username] = author_counts.get(username, 0) + 1
-            seen_urls.add(url)
-            if len(selected) == 12:
+            buckets[self._source_category(item)].append(item)
+
+        # Select breadth-first rather than letting a fast-moving AI or chip
+        # headline cluster monopolise the inbox. A focused mode still works:
+        # when every item is in one category, this reduces to normal recency.
+        # Keep a larger candidate pool here. The verification step below this
+        # selection can then choose trusted stories from every category instead
+        # of being forced to use the first unverified headline in a feed.
+        candidate_limit = 36
+        while len(selected) < candidate_limit:
+            added = False
+            for category in categories:
+                candidates = buckets[category]
+                while candidates:
+                    item = candidates.pop(0)
+                    username = item.get("author_username", item.get("author_name", "unknown"))
+                    url = item["url"]
+                    if url in seen_urls:
+                        continue
+                    # RSS items share the feed URL as their author. Keep a small batch
+                    # from a curated feed while limiting repetitive sources.
+                    per_source_limit = 4 if item.get("source_type") == "web" else 1
+                    if author_counts.get(username, 0) >= per_source_limit:
+                        continue
+                    selected.append(item)
+                    author_counts[username] = author_counts.get(username, 0) + 1
+                    seen_urls.add(url)
+                    added = True
+                    break
+                if len(selected) == candidate_limit:
+                    break
+            if not added:
                 break
         return selected
+
+    def _source_category(self, item: dict[str, Any]) -> str:
+        text = " ".join(
+            (str(item.get("title", "")), str(item.get("text", "")))
+        ).lower()
+        if any(word in text for word in ("iphone", "android", "samsung", "apple", "wearable", "smartwatch", "consumer")):
+            return "consumer tech"
+        if any(word in text for word in ("chip", "gpu", "semiconductor", "nvidia", "amd", "data center", "fab", "foundry")):
+            return "chips and infrastructure"
+        if any(word in text for word in ("developer", "coding", "github", "software", "api", "programming")):
+            return "developer tools"
+        if any(word in text for word in ("security", "cyber", "breach", "hack", "vulnerability", "exploit", "privacy")):
+            return "security"
+        if any(word in text for word in ("startup", "funding", "acquisition", "antitrust", "regulation", "lawsuit", "hiring", "layoff")):
+            return "business and policy"
+        if any(word in text for word in (" ai ", "openai", "anthropic", "gemini", "claude", "llm", "model", "deepseek", "agent")):
+            return "AI and models"
+        return "other tech"
 
     def _manual_source_item(
         self,

@@ -23,7 +23,7 @@ class WebFeedClient:
         if not self.settings.web_feed_urls:
             return []
 
-        items: list[dict[str, Any]] = []
+        items_by_feed: dict[str, list[dict[str, Any]]] = {}
 
         def fetch_one(url: str) -> tuple[str, list[dict[str, Any]], Exception | None]:
             try:
@@ -42,10 +42,30 @@ class WebFeedClient:
                 if error is not None:
                     self.last_errors.append(f"{url}: {error}")
                     continue
-                items.extend(feed_items)
+                items_by_feed[url] = feed_items
 
-        items.sort(key=lambda item: item["created_at"], reverse=True)
-        return items[: self.settings.max_web_results]
+        # Keep the scan broad. A single fast-moving feed (usually AI news) must
+        # not consume the entire result limit and turn every draft into the
+        # same conversation. Round-robin selection preserves recency within
+        # each feed while retaining representation across configured topics.
+        ordered_by_feed = {
+            url: sorted(feed_items, key=lambda item: item["created_at"], reverse=True)
+            for url, feed_items in items_by_feed.items()
+        }
+        items: list[dict[str, Any]] = []
+        while len(items) < self.settings.max_web_results:
+            added = False
+            for url in self.settings.web_feed_urls:
+                feed_items = ordered_by_feed.get(url, [])
+                if not feed_items:
+                    continue
+                items.append(feed_items.pop(0))
+                added = True
+                if len(items) >= self.settings.max_web_results:
+                    break
+            if not added:
+                break
+        return items
 
     def _matches_keywords(self, item: dict[str, Any]) -> bool:
         haystack = " ".join(

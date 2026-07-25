@@ -18,6 +18,7 @@ OFFICIAL_DOMAINS = {
     "microsoft.com",
     "blogs.microsoft.com",
     "nvidia.com",
+    "intel.com",
     "apple.com",
     "news.samsung.com",
     "samsung.com",
@@ -50,19 +51,31 @@ REPUTABLE_FEEDS = {
 REPUTABLE_PUBLICATIONS = {
     "associated press",
     "ap news",
+    "al jazeera",
     "axios",
     "bbc",
     "bloomberg",
+    "business insider",
     "cnbc",
+    "digitimes",
     "financial times",
+    "india today",
+    "the korea times",
+    "mashable",
+    "moneycontrol",
+    "moneycontrol.com",
     "the indian express",
     "the information",
     "the verge",
     "techcrunch",
+    "time",
     "tom's hardware",
     "the guardian",
     "reuters",
     "wired",
+    "the wall street journal",
+    "wsj",
+    "south china morning post",
 }
 
 
@@ -109,16 +122,62 @@ class VerifiedBriefBuilder:
                 value["age_hours"] if value["age_hours"] is not None else 9_999,
             )
         )
+        selected = self._diverse_briefs(briefs, limit=12)
         return {
             "generated_at": now.isoformat(),
             "max_age_hours": self.max_age_hours,
-            "items": briefs[:12],
+            "items": selected,
             "ready_count": sum(1 for item in briefs if item["eligible"] and item["source_level"] != "discovery"),
             "source_counts": {
                 level: sum(1 for item in briefs if item["source_level"] == level)
                 for level in ("primary", "web_researched", "reputable", "discovery")
             },
         }
+
+    def _diverse_briefs(self, briefs: list[dict[str, Any]], *, limit: int) -> list[dict[str, Any]]:
+        """Retain different tech conversations, not twelve variations of one."""
+        categories = (
+            "consumer tech",
+            "chips and infrastructure",
+            "developer tools",
+            "security",
+            "business and policy",
+            "AI and models",
+            "other tech",
+        )
+        buckets: dict[str, list[dict[str, Any]]] = {category: [] for category in categories}
+        for brief in briefs:
+            buckets[self._brief_category(brief)].append(brief)
+
+        selected: list[dict[str, Any]] = []
+        while len(selected) < limit:
+            added = False
+            for category in categories:
+                if not buckets[category]:
+                    continue
+                selected.append(buckets[category].pop(0))
+                added = True
+                if len(selected) >= limit:
+                    break
+            if not added:
+                break
+        return selected
+
+    def _brief_category(self, brief: dict[str, Any]) -> str:
+        text = f"{brief.get('title', '')} {brief.get('what_happened', '')}".lower()
+        if any(word in text for word in ("iphone", "android", "samsung", "apple", "wearable", "smartwatch", "consumer")):
+            return "consumer tech"
+        if any(word in text for word in ("chip", "gpu", "semiconductor", "nvidia", "amd", "data center", "fab", "foundry")):
+            return "chips and infrastructure"
+        if any(word in text for word in ("developer", "coding", "github", "software", "api", "programming")):
+            return "developer tools"
+        if any(word in text for word in ("security", "cyber", "breach", "hack", "vulnerability", "exploit", "privacy")):
+            return "security"
+        if any(word in text for word in ("startup", "funding", "acquisition", "antitrust", "regulation", "lawsuit", "hiring", "layoff")):
+            return "business and policy"
+        if any(word in text for word in (" ai ", "openai", "anthropic", "gemini", "claude", "llm", "model", "deepseek", "agent")):
+            return "AI and models"
+        return "other tech"
 
     def _source_level(self, item: dict[str, Any]) -> tuple[str, str]:
         url = str(item.get("url", ""))

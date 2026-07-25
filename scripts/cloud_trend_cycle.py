@@ -14,19 +14,56 @@ from app.config import load_settings
 from scripts.fresh import build_workflow, settings_for_mode
 
 
+# The cloud inbox is intentionally broad. Focused modes such as ai-radar,
+# wearables, or NVIDIA are run only when the creator explicitly asks for them.
+# Separate Google News queries make the free hourly scan less likely to become
+# an AI-only feed when one topic dominates the news cycle.
+CLOUD_MIXED_FEEDS = [
+    "https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20Gemini%20OR%20AI%20model%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=NVIDIA%20OR%20AMD%20OR%20GPU%20OR%20semiconductor%20OR%20chip%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Apple%20OR%20Samsung%20OR%20smartphone%20OR%20wearable%20OR%20consumer%20tech%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=developer%20tools%20OR%20GitHub%20OR%20software%20release%20OR%20cybersecurity%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=tech%20startup%20OR%20funding%20OR%20antitrust%20OR%20technology%20regulation%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+]
+CLOUD_MIXED_KEYWORDS = [
+    "openai", "anthropic", "gemini", "ai model", "nvidia", "amd", "gpu", "chip", "semiconductor",
+    "apple", "samsung", "smartphone", "wearable", "consumer tech", "developer tools", "github",
+    "software", "cybersecurity", "startup", "funding", "antitrust", "regulation",
+]
+
+
 def main() -> None:
     load_dotenv(ROOT_DIR / ".env")
-    mode = type("Args", (), {"mode": "ai-radar", "limit": 5, "handles": "", "style": ""})()
+    mode = type("Args", (), {"mode": "fresh", "limit": 12, "handles": "", "style": ""})()
     settings = settings_for_mode(load_settings(), mode)
     # This cloud job is deliberately collection-only. It must never spend on
     # a cloud LLM or rely on the laptop's local Ollama server.
-    settings = replace(settings, enable_ollama=False, enable_openai_research=False)
+    settings = replace(
+        settings,
+        topic_query="mixed current technology news",
+        enable_ollama=False,
+        enable_openai_research=False,
+        enable_openai_drafts=False,
+        enable_x_scan=False,
+        enable_x_watchlist=False,
+        enable_x_timeline=False,
+        enable_web_scan=True,
+        max_web_results=max(100, settings.max_web_results),
+        web_feed_urls=CLOUD_MIXED_FEEDS,
+        web_keywords=CLOUD_MIXED_KEYWORDS,
+    )
     workflow = build_workflow(settings)
-    scan = workflow.refresh_trend_inbox(retention_hours=48)
+    # The SQLite topic value can outlive a previous focused local run. The
+    # scheduled cloud job must always use its own broad topic configuration.
+    workflow.db.set_topic_query(settings.topic_query)
+    scan = workflow.refresh_trend_inbox(retention_hours=48, replace_existing=True)
 
     print(json.dumps({
         "saved_topics": scan["inbox_count"],
+        "discovered_topics": scan["discovered_count"],
         "cloud_sources": scan["cloud_source_count"],
+        "web_feed_errors": scan["web_feed_errors"],
+        "source_levels": scan["verified_brief"].get("source_counts", {}),
         "drafts": 0,
         "telegram_sent": False,
         "mode": "free_source_collection",
