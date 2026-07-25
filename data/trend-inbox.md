@@ -2,26 +2,26 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-25T10:43:19.853664+00:00
+Updated: 2026-07-25T12:08:54.444863+00:00
 Memory window: 48 hours
 
-## 1. Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED
+## 1. Why Nvidia, Microsoft and Meta want the US to support open-weight AI - The Indian Express
+Source: The Indian Express (reputable)
+URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGNyMGhPTjFsV1ZkaGxZWWtUenhjYmZUVnBFWHVldFdzeThNUkQ1N05fTWxjeTI1aFpfQ3BaWnA5RjRVYXFnVDYyTE8zUW5nbGdza0lqTnJ4aWdNYW1tZTZodUpJLVh2eVU3amo2ZGZ5YWphT3BUaGpXRm5XM01Rd2ZCMG5JNWV1TFN6dW9SUUVXWDhGZi11Sy1QWkItT1dmMnJlUzdCSmRlVk9tT3U5QlZKRXlaSVlJbW9NN3pBNm9hUdIByAFBVV95cUxNZG54VjBRdTNTUG42b2thUGgybF9tYmR3QmpzRlY0Y0xIdzhDYWN3ekVfOXQ5c0ZKM01GOW5nX3pUdWlfNjFGeHdZUUx1a3dvTFAwcFJGaGNXZHdadC1IdWhrbGlpeWVBVWZ1eHhCS3lmMXpvd21hTUdrR0N3LTZWSURiN09KSUs0Ty1QbHAyaXczYVo3ZGd2LWJiWk82aEhnV0NfenhhY204dG9fYW9URlc4ajRUSWw3dU43bDZPaW5RbGJ5R1diNg?oc=5
+
+Why Nvidia, Microsoft and Meta want the US to support open-weight AI The Indian Express
+
+## 2. Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days - WIRED
 Source: WIRED (reputable)
 URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNRjN1RTBRekZaUlVuVUtzZVlhSzJkVmY0NG8wMHlxU05hcVl3UEdETFVhR09FY09PSHdfZUNCaW9QQ1hwYUwtazBkWVpoeVZtNkY2NkJwd1hodUQ2UFN2MTRDRlpmcFZ6ZkFablktOTJTOVhCSXlzQXNuZTBDNGVxNURyMENuSUFacElGUnRMVXNoVU5RSUQ1YmtjaEdOTzBWTllZV3NiN2tCZkxKUklIbExUb2hKem9lNGh0WnpEaTQyWHBfMDBneGFrRU0?oc=5
 
 Security News This Week: The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days WIRED
 
-## 2. Which AI model is the best stock trader? A finance professor says he's got the answer. - Business Insider
+## 3. Which AI model is the best stock trader? A finance professor says he's got the answer. - Business Insider
 Source: Business Insider (reputable)
 URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxOUnc5ODQtMkNJNDg3UzZpbFRaeGN0Qk5VNjZNZm9lUDh0VGxiczByS1M4NFNZa2V2NjJiSGZ4OG9wRDFGZ1hmbFVmNHhPMjU3TE5ORnJfOVJGQU5sU3FnN2c3SHZnU1VvV19Vdk41TEw3U21UNFdsY1ZHTU5tc3VZS1VieEVFZ1RKOGVmeDR6VnpNU1YwVGxGakln?oc=5
 
 Which AI model is the best stock trader? A finance professor says he's got the answer. Business Insider
-
-## 3. Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters
-Source: Reuters (reputable)
-URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5
-
-Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push Reuters
 
 ## 4. Anthropic launches Claude Opus 5 AI model: Higher coding performance, lower cost, and new API features - Moneycontrol.com
 Source: Moneycontrol.com (reputable)

@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-25T10:43:19.853664+00:00",
+  "updated_at": "2026-07-25T12:08:54.444863+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Why Nvidia, Microsoft and Meta want the US to support open-weight AI - The Indian Express",
+      "what_happened": "Why Nvidia, Microsoft and Meta want the US to support open-weight AI The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMGNyMGhPTjFsV1ZkaGxZWWtUenhjYmZUVnBFWHVldFdzeThNUkQ1N05fTWxjeTI1aFpfQ3BaWnA5RjRVYXFnVDYyTE8zUW5nbGdza0lqTnJ4aWdNYW1tZTZodUpJLVh2eVU3amo2ZGZ5YWphT3BUaGpXRm5XM01Rd2ZCMG5JNWV1TFN6dW9SUUVXWDhGZi11Sy1QWkItT1dmMnJlUzdCSmRlVk9tT3U5QlZKRXlaSVlJbW9NN3pBNm9hUdIByAFBVV95cUxNZG54VjBRdTNTUG42b2thUGgybF9tYmR3QmpzRlY0Y0xIdzhDYWN3ekVfOXQ5c0ZKM01GOW5nX3pUdWlfNjFGeHdZUUx1a3dvTFAwcFJGaGNXZHdadC1IdWhrbGlpeWVBVWZ1eHhCS3lmMXpvd21hTUdrR0N3LTZWSURiN09KSUs0Ty1QbHAyaXczYVo3ZGd2LWJiWk82aEhnV0NfenhhY204dG9fYW9URlc4ajRUSWw3dU43bDZPaW5RbGJ5R1diNg?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-07-25T11:38:06+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days - WIRED",
       "what_happened": "Security News This Week: The OpenAI Models That Hacked Hugging Face Were \u2018Active on the Internet\u2019 for Days WIRED",
@@ -9,7 +20,7 @@
       "source_name": "WIRED",
       "source_level": "reputable",
       "published_at": "2026-07-25T10:30:00+00:00",
-      "age_hours": 0.2,
+      "age_hours": 1.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,18 +31,7 @@
       "source_name": "Business Insider",
       "source_level": "reputable",
       "published_at": "2026-07-25T09:16:28+00:00",
-      "age_hours": 1.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
-      "what_happened": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-25T09:13:44+00:00",
-      "age_hours": 1.5,
+      "age_hours": 2.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-07-25T07:22:16+00:00",
-      "age_hours": 3.4,
+      "age_hours": 4.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +53,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 8.2,
+      "age_hours": 9.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
