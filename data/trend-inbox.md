@@ -2,32 +2,32 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-25T15:18:22.744594+00:00
+Updated: 2026-07-25T17:13:40.746673+00:00
 Memory window: 48 hours
 
-## 1. The next chip leap | India Semiconductor Mission - India Today
-Source: India Today (reputable)
-URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSlhwdl9CckphRzdmUWN0Rm43YlRSajlNcy1LN3RuVHA2aU9LUzJOV0Jzems4SHdLamJLbDV0UFlTNzNjN3V6REtTamZZZWo3d3htYTVUMndHb1Y4VUlHdUo0OU1aOFJTVFlfbHZjSXp3cGRsWEtIbnA0VXpaT0ptRDdOaTBRMkhrMVFvdWJQNmEyWk91ZTc5NE4wY2tOUWVITTRwb3ppRExTV3o3UGp4MmhDZ2Fnb0lMYUhWUFl6LWp3Z9IBxwFBVV95cUxNbFg0WVlGMDdDR2xUbEQ0QWg5R0xFSnBndmZtTi1McjNxaWtzaUYyZzJhbEh6LTdxSy1yemJjM3E0REczR0pmTjVMWk1EZlZBSlBnZlRqTzdqV0pHVDVDWk02OUZXMUtDZXZsZEV1VXk1Y2JVd3k5Z2JUckdMSEotQ052S2tuQW8zLXFyeXIyZEpVUFZmRTR3S3dPaTJUSHphMEdUQncwVGZBOXVwci01ak5BRThZeVdRZVU5a3dzMEc0dmczc1g0?oc=5
+## 1. OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure - Tom's Hardware
+Source: Tom's Hardware (reputable)
+URL: https://news.google.com/rss/articles/CBMinAJBVV95cUxOQmN4ekdZeXppaXlQZkRRd3kxcXhTZnliNy1kQWNVMTR0VmR3cjRJdk9aUXd1SDZoTjIxc25LYTFPMTVSb05WVXRjSlViZ0dUbmtXYkpZVmFYRFBWQlJZay1lSjM1LWFvZWctaVc4bWRBUF9KSFlzZVJoZ3l4dkpZQkdCVUptQ3FUZXFVUHRJRnVvejh0U2lJM2x6VU8zQUtuRjlIaDdwaXZGODJENVVxazFPU294ZEVQUXQyMW9kdTRFMFNUS1hic2JGbGZMN01taDI1WXFhZ0JZREtHa1cydm95ZTRoQlJYU0lXVlJkUE5qUXJrbkdKWlZpYTZfdzZzWDFEZEUwaEpra0dTWm5vMGkybk9yTWNnal83Sg?oc=5
 
-The next chip leap | India Semiconductor Mission India Today
+OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure Tom's Hardware
 
-## 2. Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters
+## 2. Free iPhone deal: T-Mobile is giving away the Apple iPhone 17 for free — how to qualify - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TSU9HUkQwcWZjczVxTlNRYXd3TzNQYWllXzRGekZBQW1EWm9IOHlxa0s5LVJlN3hmN1U4bW5MMktlM05DYjRpaFdkQWtCUkZud1V3V3I3cnlhRnVOck5XVWl5ZDNnNmc?oc=5
+
+Free iPhone deal: T-Mobile is giving away the Apple iPhone 17 for free — how to qualify Mashable
+
+## 3. Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters
 Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5
 
 Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push Reuters
 
-## 3. SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM - digitimes
-Source: digitimes (reputable)
-URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3c5S3NXUHBROGoyTzNzTlpONXJydVhSendtOFdHV0J2VkFCZnlOb3VvSFVSZjJtYXlQM3JmNi04MWxKeFIxX1NMemhneng3cWMtWGF3MGpnX0h6cHk3enBWbl8yakw0WHB2Q0lLTmRlSllHRzdpcjhpdERsNmxIUEVvalFxejdLQmtYazNXT1ZOalctV1lkNVhjaEpaLWs?oc=5
+## 4. Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC
+Source: BBC (reputable)
+URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5
 
-SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM digitimes
-
-## 4. Which AI model is the best stock trader? A finance professor says he's got the answer. - Business Insider
-Source: Business Insider (reputable)
-URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxOUnc5ODQtMkNJNDg3UzZpbFRaeGN0Qk5VNjZNZm9lUDh0VGxiczByS1M4NFNZa2V2NjJiSGZ4OG9wRDFGZ1hmbFVmNHhPMjU3TE5ORnJfOVJGQU5sU3FnN2c3SHZnU1VvV19Vdk41TEw3U21UNFdsY1ZHTU5tc3VZS1VieEVFZ1RKOGVmeDR6VnpNU1YwVGxGakln?oc=5
-
-Which AI model is the best stock trader? A finance professor says he's got the answer. Business Insider
+Warning shot or publicity stunt - how worried should we be about the OpenAI hack? BBC
 
 ## 5. Anthropic launches Claude Opus 5 AI model: Higher coding performance, lower cost, and new API features - Moneycontrol.com
 Source: Moneycontrol.com (reputable)
