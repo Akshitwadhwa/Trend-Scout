@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-25T00:15:16.778129+00:00
+Updated: 2026-07-25T03:39:12.317915+00:00
 Memory window: 48 hours
 
 ## 1. EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
@@ -112,15 +112,3 @@ Source: Axios (reputable)
 URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE9POE1ucXUxZGhna240Q1dQNkw1bFRWaEhWeUhVczZtZmZ2Q0VMcDV4QnBjeVg1WnJfZEdNcVluX0pGcFhoVURXXzRWUm1FZ3dyZDROdERlMUpaOXVnTWRKaFNwNzg2U3JiR1pPeW1ycw?oc=5
 
 Google study finds broad AI use, but little evidence of job automation Axios
-
-## 19. China's Moonshot AI stole from Anthropic, Trump tech adviser says - BBC
-Source: BBC (reputable)
-URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5
-
-China's Moonshot AI stole from Anthropic, Trump tech adviser says BBC
-
-## 20. Safety and alignment in an era of long-horizon models - OpenAI
-Source: OpenAI (primary)
-URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE1mbzNDWlZzdmFsZWRnaHU5RlNtMER2cHpqdkY3Mmh2cEJaMHlrakM4SFpfR0hEdFlrd2M0UmQ0TkhfWXFPWF9fWDNJMnNjbmdKaUJDWmRrenRTMzNQV29TaUxBbEhDcFlJbkh3em9XYUlWV1FGNXVF?oc=5
-
-Safety and alignment in an era of long-horizon models OpenAI
