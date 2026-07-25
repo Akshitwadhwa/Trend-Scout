@@ -2,26 +2,26 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-25T22:09:24.969745+00:00
+Updated: 2026-07-25T23:11:00.285251+00:00
 Memory window: 48 hours
 
-## 1. OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure - Tom's Hardware
+## 1. Samsung seeks smart glasses edge over Meta with smartphone expertise - The Korea Times
+Source: The Korea Times (reputable)
+URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNVFdxcnlqdXVjc1lHR2tJakx2aWVYbGlWNmpkZnhpZFJmdU1zbU5HX3V0WFNqc201dUFHcm94SkdGU1lCVnBsbjRycTVfeWxCX1pnUmppeWtHZzZreXJCTnF6RzNzM0Q0WmdFMWktd2dXNzBsRkd1WGZXX1M3c2xFdFVLc0dkY2pvUEx2clkyM0tQVW56SVhNamNfT1p1SmtzSkoyUW5fZ0xtRjdfb0tKdnl1WkpIck1hRl8tRGdmb3dOR2htMTg1ZWg2WWPSAcwBQVVfeXFMTVRXcXJ5anV1Y3NZR0drSWpMdmllWGxpVjZqZGZ4aWRSZnVNc21OR191dFhTanNtNXVBR3JveEpHRlNZQlZwbG40cnE1X3lsQl9aZ1JqaXlrR2c2a3lyQk5xekczczNENFpnRTFpLXdnVzcwbEZHdVhmV19TN3NsRXRVS3NHZGNqb1BMdnJZMjNLUFVueklYTWpjX09adUprc0pKMlFuX2dMbUY3X29LSnZ5dVpKSHJNYUZfLURnZm93TkdobTE4NWVoNllj?oc=5
+
+Samsung seeks smart glasses edge over Meta with smartphone expertise The Korea Times
+
+## 2. Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push - CNBC
+Source: CNBC (reputable)
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxQakVDSXc3Z2J1MkQxR1IxSkxYVC0yc3VWbWpfYmlxdzE0NTVMc2F6UlkyRXJhVUwwUGhERXFOM2NGSlhMSmZqYlprOURSVHZFMjFLbGpOZElaa1VQV0RIczgxWFBrc29lOEdXR1J5Y0NmaTZfak1idThfQmQtT0ppUF83TDFVc2wydW5vX3pWWlR6LVE2Nm4tdEFwRmszWm1mU0dYWNIBqgFBVV95cUxNeUVBTWVoaDg3OWlnSnpCZlV3c2JCX25UM01wMVk4RHhXRXhCNURqaFVhOVg0d0dhMHowaGl2VGxlakxSZUJzLUpsQjVlV2N5WXExUjQxNGhpdmNXb2NoU2FmX1lLU0dFZ1o0SnZnbTNHazFfaHRDWWpXWnVmR181WDQ5cnU1Nkd5MVo5UGJhS3VzTzlRUVRuOW55NHBJVERId2paa1U3Q0NZQQ?oc=5
+
+Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push CNBC
+
+## 3. OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure - Tom's Hardware
 Source: Tom's Hardware (reputable)
 URL: https://news.google.com/rss/articles/CBMinAJBVV95cUxOQmN4ekdZeXppaXlQZkRRd3kxcXhTZnliNy1kQWNVMTR0VmR3cjRJdk9aUXd1SDZoTjIxc25LYTFPMTVSb05WVXRjSlViZ0dUbmtXYkpZVmFYRFBWQlJZay1lSjM1LWFvZWctaVc4bWRBUF9KSFlzZVJoZ3l4dkpZQkdCVUptQ3FUZXFVUHRJRnVvejh0U2lJM2x6VU8zQUtuRjlIaDdwaXZGODJENVVxazFPU294ZEVQUXQyMW9kdTRFMFNUS1hic2JGbGZMN01taDI1WXFhZ0JZREtHa1cydm95ZTRoQlJYU0lXVlJkUE5qUXJrbkdKWlZpYTZfdzZzWDFEZEUwaEpra0dTWm5vMGkybk9yTWNnal83Sg?oc=5
 
 OpenAI agent goes rogue and hacks popular AI community — left escape plans for future models inside the company's infrastructure Tom's Hardware
-
-## 2. The Best Samsung Galaxy Z Fold 8 Cases for the New Passport-Shaped Smartphone - Business Insider
-Source: Business Insider (reputable)
-URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFkyQWhnemVmdFRwbi1XWFJaLXc3aG41Ylp2NndfOXhDVklzY3VkU01sbnE5bWowSGhSRTIxT0E4QnVzbFhpZ2hmaHI4b3dMN3JmXzJMbllESW1tMXZLRk1FUGxmTFptTXV0NkZUNTVvckJad0EzcjRkeHJJVnhSMlFmUms?oc=5
-
-The Best Samsung Galaxy Z Fold 8 Cases for the New Passport-Shaped Smartphone Business Insider
-
-## 3. Warning shot or publicity stunt - how worried should we be about the OpenAI hack? - BBC
-Source: BBC (reputable)
-URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hSnd2T2JXZE0teEVfV190R2xyMzVCZjdqaEVocXlCem1XU2R4R1hRbFozZmFpNjFCdktKdHJBWEQwUTkxcG5Nay02MVpReURzMnBraXhOTTdVZw?oc=5
-
-Warning shot or publicity stunt - how worried should we be about the OpenAI hack? BBC
 
 ## 4. China hits Trip.com with US$765 million antitrust penalty - South China Morning Post
 Source: South China Morning Post (reputable)
