@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T18:07:31.572469+00:00",
+  "updated_at": "2026-07-25T19:33:30.875156+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Tom's Hardware",
       "source_level": "reputable",
       "published_at": "2026-07-25T16:41:59+00:00",
-      "age_hours": 1.4,
+      "age_hours": 2.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-25T14:32:30+00:00",
-      "age_hours": 3.6,
+      "age_hours": 5.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-07-25T14:25:36+00:00",
-      "age_hours": 3.7,
+      "age_hours": 5.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "BBC",
       "source_level": "reputable",
       "published_at": "2026-07-25T10:14:41+00:00",
-      "age_hours": 7.9,
+      "age_hours": 9.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +53,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-07-25T07:22:16+00:00",
-      "age_hours": 10.8,
+      "age_hours": 12.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +64,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 15.6,
+      "age_hours": 17.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
