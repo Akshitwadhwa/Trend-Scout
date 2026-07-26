@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-25T23:11:00.285251+00:00
+Updated: 2026-07-26T00:12:00.892853+00:00
 Memory window: 48 hours
 
 ## 1. Samsung seeks smart glasses edge over Meta with smartphone expertise - The Korea Times
