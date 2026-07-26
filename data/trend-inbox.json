@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-26T22:11:34.033413+00:00",
+  "updated_at": "2026-07-26T23:11:02.207237+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia to acquire $1 billion of new shares of South Korea's Naver - Reuters",
+      "what_happened": "Nvidia to acquire $1 billion of new shares of South Korea's Naver Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkhjUXN3Z1VSTkZyVjdBMURwLXRFYm1TMkpmZEZGS1FyRFhsRjNkSWpTZ2g1cW1UNVpXUnc4dWNSWkJIVlVkY18wOENjMWsxQm0tWWN6Y3M3RW9lNkxRUXY5Rzc5M3cxMHI2Ry1DbldOOG0xQU5obklobjlXdFNWU2tVcXc2dkM1bzYwNXlUZHowQ1l4OGhWTjN4Y1hybVQwcGoyZnphTXkyVVRYa3lmNW9URQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-26T23:05:43+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
       "what_happened": "Apple is banking on privacy to set its smart glasses apart The Verge",
@@ -9,18 +20,18 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-07-26T19:36:38+00:00",
-      "age_hours": 2.6,
+      "age_hours": 3.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "EU may hit Google with record-breaking fine for antitrust violations - Mashable",
-      "what_happened": "EU may hit Google with record-breaking fine for antitrust violations Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aZjFHdUtCel9kT3RfWm52b2xLbHp5SUM3TWlIZ1FwREtYdWE5RmNrM2FDbXplemVuNlN0XzRRandfdGU5aHJyelhVMTZwQUtxYnMxcVpuOVBMMXZ2Ynk2bVA4YXA?oc=5",
+      "title": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. - Mashable",
+      "what_happened": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
-      "published_at": "2026-07-25T14:43:19+00:00",
-      "age_hours": 31.5,
+      "published_at": "2026-07-26T19:07:30+00:00",
+      "age_hours": 4.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 43.6,
+      "age_hours": 44.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
