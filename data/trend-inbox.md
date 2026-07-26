@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-26T17:14:26.535994+00:00
+Updated: 2026-07-26T18:11:50.507223+00:00
 Memory window: 48 hours
 
 ## 1. What is the risk of using Chinese open AI models like Kimi K3? - Financial Times
