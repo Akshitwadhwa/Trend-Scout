@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-26T03:53:47.647774+00:00",
+  "updated_at": "2026-07-26T06:47:46.649545+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung, SK, Hyundai expand AI partnerships with Big Tech firms to $950 bil. - The Korea Times",
+      "what_happened": "Samsung, SK, Hyundai expand AI partnerships with Big Tech firms to $950 bil. The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0M0Tk1oclVMeFE5Rmg1VVJ5cXF3RmdVWkJZWDA5WjdaRFVKUEp6M05BSldnM09lZFFuaWNjcjB1a19yT3lHbDhYVFhoTnY1N3drQTVqUVEwVVBINklCSGM5V0NNS0NiT1JpS1BLZVFUSFZRQ3dzWk1BdGY4SUloSmlLLUNfcXVoRDRYZ2pEY3ktTVJJbkJZUmUwQWVqcXVUWEFoT1hyYW85al9RR2FhOXRhNmpibG9fd0NzWl82WHJJV1hST3luNtIBzgFBVV95cUxQZnRkdTVjR0wyenN1RzIzbkxNSVNVdjQ4VE1oZ2JYMkdDSXFlQXR2RnFicWFRYnZDVVgxdXNiUVhicFk4VjhWeFlnN3JockxLd0ViQzFmNjQ5dGVmMmdaekRFQk4xdXA5TThXV2xYUkZKaE52QVBud3NGOC1aWGpibUxFSTZ3d3VNSVZfQkdIbWRvZTBYWUJMMUs2czctTFNKX0NDcWVHeXR5dTBlWHZ2V1dxdm10ZXk3Q1hnT2hZcjlVeE1Fbk45eVkwaXZEQQ?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-07-26T05:06:02+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI follows Anthropic's lead in limited release of GPT\u20115.4\u2011Cyber - Mashable",
+      "what_happened": "OpenAI follows Anthropic's lead in limited release of GPT\u20115.4\u2011Cyber Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QNFBsUk1rZkJzTGcxVmJlU0xHRU9PQUMtbjlIS3dJdGVBYlJrdUEzZVpaWjBQNTVRbnNGLXhfbGF6cGV3c2FzTFltNEFBWjVhdXBDY3dFeTZNMWpHVmI0UmZJUkFOcVpOQlltSU1lWkRqZl9mQzhxVC1SQQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-25T14:43:19+00:00",
+      "age_hours": 16.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "China hits Trip.com with US$765 million antitrust penalty - South China Morning Post",
       "what_happened": "China hits Trip.com with US$765 million antitrust penalty South China Morning Post",
@@ -9,20 +31,9 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 25.3,
+      "age_hours": 28.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Introducing Claude Opus 5 - Anthropic",
-      "what_happened": "Introducing Claude Opus 5 Anthropic",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
-      "source_name": "Anthropic",
-      "source_level": "primary",
-      "published_at": "2026-07-24T17:00:57+00:00",
-      "age_hours": 34.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
