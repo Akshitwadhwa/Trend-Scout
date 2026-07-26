@@ -1,40 +1,7 @@
 {
-  "updated_at": "2026-07-26T00:12:00.892853+00:00",
+  "updated_at": "2026-07-26T03:53:47.647774+00:00",
   "retention_hours": 48,
   "items": [
-    {
-      "title": "Samsung seeks smart glasses edge over Meta with smartphone expertise - The Korea Times",
-      "what_happened": "Samsung seeks smart glasses edge over Meta with smartphone expertise The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVFdxcnlqdXVjc1lHR2tJakx2aWVYbGlWNmpkZnhpZFJmdU1zbU5HX3V0WFNqc201dUFHcm94SkdGU1lCVnBsbjRycTVfeWxCX1pnUmppeWtHZzZreXJCTnF6RzNzM0Q0WmdFMWktd2dXNzBsRkd1WGZXX1M3c2xFdFVLc0dkY2pvUEx2clkyM0tQVW56SVhNamNfT1p1SmtzSkoyUW5fZ0xtRjdfb0tKdnl1WkpIck1hRl8tRGdmb3dOR2htMTg1ZWg2WWPSAcwBQVVfeXFMTVRXcXJ5anV1Y3NZR0drSWpMdmllWGxpVjZqZGZ4aWRSZnVNc21OR191dFhTanNtNXVBR3JveEpHRlNZQlZwbG40cnE1X3lsQl9aZ1JqaXlrR2c2a3lyQk5xekczczNENFpnRTFpLXdnVzcwbEZHdVhmV19TN3NsRXRVS3NHZGNqb1BMdnJZMjNLUFVueklYTWpjX09adUprc0pKMlFuX2dMbUY3X29LSnZ5dVpKSHJNYUZfLURnZm93TkdobTE4NWVoNllj?oc=5",
-      "source_name": "The Korea Times",
-      "source_level": "reputable",
-      "published_at": "2026-07-25T23:00:00+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push - CNBC",
-      "what_happened": "Samsung Electronics wins $200 billion Broadcom AI chip partnership, boosting foundry push CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakVDSXc3Z2J1MkQxR1IxSkxYVC0yc3VWbWpfYmlxdzE0NTVMc2F6UlkyRXJhVUwwUGhERXFOM2NGSlhMSmZqYlprOURSVHZFMjFLbGpOZElaa1VQV0RIczgxWFBrc29lOEdXR1J5Y0NmaTZfak1idThfQmQtT0ppUF83TDFVc2wydW5vX3pWWlR6LVE2Nm4tdEFwRmszWm1mU0dYWNIBqgFBVV95cUxNeUVBTWVoaDg3OWlnSnpCZlV3c2JCX25UM01wMVk4RHhXRXhCNURqaFVhOVg0d0dhMHowaGl2VGxlakxSZUJzLUpsQjVlV2N5WXExUjQxNGhpdmNXb2NoU2FmX1lLU0dFZ1o0SnZnbTNHazFfaHRDWWpXWnVmR181WDQ5cnU1Nkd5MVo5UGJhS3VzTzlRUVRuOW55NHBJVERId2paa1U3Q0NZQQ?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-25T21:11:49+00:00",
-      "age_hours": 3.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI agent goes rogue and hacks popular AI community \u2014 left escape plans for future models inside the company's infrastructure - Tom's Hardware",
-      "what_happened": "OpenAI agent goes rogue and hacks popular AI community \u2014 left escape plans for future models inside the company's infrastructure Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOQmN4ekdZeXppaXlQZkRRd3kxcXhTZnliNy1kQWNVMTR0VmR3cjRJdk9aUXd1SDZoTjIxc25LYTFPMTVSb05WVXRjSlViZ0dUbmtXYkpZVmFYRFBWQlJZay1lSjM1LWFvZWctaVc4bWRBUF9KSFlzZVJoZ3l4dkpZQkdCVUptQ3FUZXFVUHRJRnVvejh0U2lJM2x6VU8zQUtuRjlIaDdwaXZGODJENVVxazFPU294ZEVQUXQyMW9kdTRFMFNUS1hic2JGbGZMN01taDI1WXFhZ0JZREtHa1cydm95ZTRoQlJYU0lXVlJkUE5qUXJrbkdKWlZpYTZfdzZzWDFEZEUwaEpra0dTWm5vMGkybk9yTWNnal83Sg?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-07-25T16:41:59+00:00",
-      "age_hours": 7.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
     {
       "title": "China hits Trip.com with US$765 million antitrust penalty - South China Morning Post",
       "what_happened": "China hits Trip.com with US$765 million antitrust penalty South China Morning Post",
@@ -42,9 +9,20 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 21.7,
+      "age_hours": 25.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Introducing Claude Opus 5 - Anthropic",
+      "what_happened": "Introducing Claude Opus 5 Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+      "source_name": "Anthropic",
+      "source_level": "primary",
+      "published_at": "2026-07-24T17:00:57+00:00",
+      "age_hours": 34.9,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
