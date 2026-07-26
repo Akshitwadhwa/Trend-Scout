@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-26T19:33:39.374491+00:00",
+  "updated_at": "2026-07-26T21:10:57.503974+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Apple is banking on privacy to set its smart glasses apart - The Verge",
+      "what_happened": "Apple is banking on privacy to set its smart glasses apart The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PbjVVVmlGNnBOM1hmSUV3bmg4SFFtS19JeGlneXZzMkNGTXRNLVdyclEtRmpGbFE2cUpMcVUtTlRwSFUzazk5S01zYU40T0RVcWQ4UTNQTkg2Q1hJNjZZWVRFN0t4ZkhENXJWenh0LXRIZw?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-07-26T19:36:38+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "What is the risk of using Chinese open AI models like Kimi K3? - Financial Times",
       "what_happened": "What is the risk of using Chinese open AI models like Kimi K3? Financial Times",
@@ -9,7 +20,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-26T15:00:08+00:00",
-      "age_hours": 4.6,
+      "age_hours": 6.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-25T14:43:19+00:00",
-      "age_hours": 28.8,
+      "age_hours": 30.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 41.0,
+      "age_hours": 42.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
