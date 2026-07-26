@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-26T13:54:45.522496+00:00",
+  "updated_at": "2026-07-26T15:20:17.495727+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "How Google Is Using Wall Street Financing Techniques to Expand Chip Sales - The Information",
+      "what_happened": "How Google Is Using Wall Street Financing Techniques to Expand Chip Sales The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDQ4dGlCWUFnSGhZUjRZT1pDTWNkb1Z4STk3cS1QRHdLOEQtcDY2Qi1MVk5kZmZKZnR4QUMyS292S1dIak5IVWVaREhfcWdHcWE5Sk8tbGlqejJiZmV3VkhDMUFncWZXU0VIYW5jems5Wlc4QXptenhsYXpUY3ppVzhQelYtcVc1ZkptVTFGeFJOMEFDU0ZkTGtUVUdFOGh1TXdZcFRB?oc=5",
+      "source_name": "The Information",
+      "source_level": "reputable",
+      "published_at": "2026-07-26T15:00:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "OpenAI follows Anthropic's lead in limited release of GPT\u20115.4\u2011Cyber - Mashable",
       "what_happened": "OpenAI follows Anthropic's lead in limited release of GPT\u20115.4\u2011Cyber Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-25T14:43:19+00:00",
-      "age_hours": 23.2,
+      "age_hours": 24.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-25T14:43:19+00:00",
-      "age_hours": 23.2,
+      "age_hours": 24.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 35.4,
+      "age_hours": 36.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
