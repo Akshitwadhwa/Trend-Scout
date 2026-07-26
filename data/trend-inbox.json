@@ -1,26 +1,15 @@
 {
-  "updated_at": "2026-07-26T15:20:17.495727+00:00",
+  "updated_at": "2026-07-26T17:14:26.535994+00:00",
   "retention_hours": 48,
   "items": [
     {
-      "title": "How Google Is Using Wall Street Financing Techniques to Expand Chip Sales - The Information",
-      "what_happened": "How Google Is Using Wall Street Financing Techniques to Expand Chip Sales The Information",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDQ4dGlCWUFnSGhZUjRZT1pDTWNkb1Z4STk3cS1QRHdLOEQtcDY2Qi1MVk5kZmZKZnR4QUMyS292S1dIak5IVWVaREhfcWdHcWE5Sk8tbGlqejJiZmV3VkhDMUFncWZXU0VIYW5jems5Wlc4QXptenhsYXpUY3ppVzhQelYtcVc1ZkptVTFGeFJOMEFDU0ZkTGtUVUdFOGh1TXdZcFRB?oc=5",
-      "source_name": "The Information",
+      "title": "What is the risk of using Chinese open AI models like Kimi K3? - Financial Times",
+      "what_happened": "What is the risk of using Chinese open AI models like Kimi K3? Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZ0VIRjNVbXhaWDhDMm5STUprMWp6UnR4Q05CQnl3cXNhNFZBaFZVa0FLSjN1SUlUZXUwcG1iRnItV3d5dWVnOU93TF93U2NjTnNnRnZtUjlOUWMxa0kySXM3VzFyUGJHUzNkaWVJazQ?oc=5",
+      "source_name": "Financial Times",
       "source_level": "reputable",
-      "published_at": "2026-07-26T15:00:00+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI follows Anthropic's lead in limited release of GPT\u20115.4\u2011Cyber - Mashable",
-      "what_happened": "OpenAI follows Anthropic's lead in limited release of GPT\u20115.4\u2011Cyber Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QNFBsUk1rZkJzTGcxVmJlU0xHRU9PQUMtbjlIS3dJdGVBYlJrdUEzZVpaWjBQNTVRbnNGLXhfbGF6cGV3c2FzTFltNEFBWjVhdXBDY3dFeTZNMWpHVmI0UmZJUkFOcVpOQlltSU1lWkRqZl9mQzhxVC1SQQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-25T14:43:19+00:00",
-      "age_hours": 24.6,
+      "published_at": "2026-07-26T15:00:08+00:00",
+      "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-25T14:43:19+00:00",
-      "age_hours": 24.6,
+      "age_hours": 26.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +31,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 36.8,
+      "age_hours": 38.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
