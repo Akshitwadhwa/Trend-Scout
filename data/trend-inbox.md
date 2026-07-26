@@ -2,22 +2,16 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-26T06:47:46.649545+00:00
+Updated: 2026-07-26T09:23:25.646082+00:00
 Memory window: 48 hours
 
-## 1. Samsung, SK, Hyundai expand AI partnerships with Big Tech firms to $950 bil. - The Korea Times
-Source: The Korea Times (reputable)
-URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0M0Tk1oclVMeFE5Rmg1VVJ5cXF3RmdVWkJZWDA5WjdaRFVKUEp6M05BSldnM09lZFFuaWNjcjB1a19yT3lHbDhYVFhoTnY1N3drQTVqUVEwVVBINklCSGM5V0NNS0NiT1JpS1BLZVFUSFZRQ3dzWk1BdGY4SUloSmlLLUNfcXVoRDRYZ2pEY3ktTVJJbkJZUmUwQWVqcXVUWEFoT1hyYW85al9RR2FhOXRhNmpibG9fd0NzWl82WHJJV1hST3luNtIBzgFBVV95cUxQZnRkdTVjR0wyenN1RzIzbkxNSVNVdjQ4VE1oZ2JYMkdDSXFlQXR2RnFicWFRYnZDVVgxdXNiUVhicFk4VjhWeFlnN3JockxLd0ViQzFmNjQ5dGVmMmdaekRFQk4xdXA5TThXV2xYUkZKaE52QVBud3NGOC1aWGpibUxFSTZ3d3VNSVZfQkdIbWRvZTBYWUJMMUs2czctTFNKX0NDcWVHeXR5dTBlWHZ2V1dxdm10ZXk3Q1hnT2hZcjlVeE1Fbk45eVkwaXZEQQ?oc=5
-
-Samsung, SK, Hyundai expand AI partnerships with Big Tech firms to $950 bil. The Korea Times
-
-## 2. OpenAI follows Anthropic's lead in limited release of GPT‑5.4‑Cyber - Mashable
+## 1. OpenAI follows Anthropic's lead in limited release of GPT‑5.4‑Cyber - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE5QNFBsUk1rZkJzTGcxVmJlU0xHRU9PQUMtbjlIS3dJdGVBYlJrdUEzZVpaWjBQNTVRbnNGLXhfbGF6cGV3c2FzTFltNEFBWjVhdXBDY3dFeTZNMWpHVmI0UmZJUkFOcVpOQlltSU1lWkRqZl9mQzhxVC1SQQ?oc=5
 
 OpenAI follows Anthropic's lead in limited release of GPT‑5.4‑Cyber Mashable
 
-## 3. China hits Trip.com with US$765 million antitrust penalty - South China Morning Post
+## 2. China hits Trip.com with US$765 million antitrust penalty - South China Morning Post
 Source: South China Morning Post (reputable)
 URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSkhPUFNzRUZ3aWdVVktLOUh5S3RtTnlVU2NLc01HcVpObnFnU2lhUEFkWHlRa1pqc2NBbXhyRFpPdWdKWnBfbjJIQ3BTVnNhdmtKS29PUC1VeEVDZU1LWmhTbjBINllTM1RSR1MzNlotcnVhcmNadXU0U2FmdDJSczZkcWxGLURIQkRra2hvN0tSS01XdUJoOVp1dTkxV2FCZUxHR1ZCQU1peU9wa3JtZ2NtQW5pVGI5WnJ6bGhDdWM2aURSMUMzMNIByAFBVV95cUxQSkhPUFNzRUZ3aWdVVktLOUh5S3RtTnlVU2NLc01HcVpObnFnU2lhUEFkWHlRa1pqc2NBbXhyRFpPdWdKWnBfbjJIQ3BTVnNhdmtKS29PUC1VeEVDZU1LWmhTbjBINllTM1RSR1MzNlotcnVhcmNadXU0U2FmdDJSczZkcWxGLURIQkRra2hvN0tSS01XdUJoOVp1dTkxV2FCZUxHR1ZCQU1peU9wa3JtZ2NtQW5pVGI5WnJ6bGhDdWM2aURSMUMzMA?oc=5
 

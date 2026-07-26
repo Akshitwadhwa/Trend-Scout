@@ -1,18 +1,7 @@
 {
-  "updated_at": "2026-07-26T06:47:46.649545+00:00",
+  "updated_at": "2026-07-26T09:23:25.646082+00:00",
   "retention_hours": 48,
   "items": [
-    {
-      "title": "Samsung, SK, Hyundai expand AI partnerships with Big Tech firms to $950 bil. - The Korea Times",
-      "what_happened": "Samsung, SK, Hyundai expand AI partnerships with Big Tech firms to $950 bil. The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0M0Tk1oclVMeFE5Rmg1VVJ5cXF3RmdVWkJZWDA5WjdaRFVKUEp6M05BSldnM09lZFFuaWNjcjB1a19yT3lHbDhYVFhoTnY1N3drQTVqUVEwVVBINklCSGM5V0NNS0NiT1JpS1BLZVFUSFZRQ3dzWk1BdGY4SUloSmlLLUNfcXVoRDRYZ2pEY3ktTVJJbkJZUmUwQWVqcXVUWEFoT1hyYW85al9RR2FhOXRhNmpibG9fd0NzWl82WHJJV1hST3luNtIBzgFBVV95cUxQZnRkdTVjR0wyenN1RzIzbkxNSVNVdjQ4VE1oZ2JYMkdDSXFlQXR2RnFicWFRYnZDVVgxdXNiUVhicFk4VjhWeFlnN3JockxLd0ViQzFmNjQ5dGVmMmdaekRFQk4xdXA5TThXV2xYUkZKaE52QVBud3NGOC1aWGpibUxFSTZ3d3VNSVZfQkdIbWRvZTBYWUJMMUs2czctTFNKX0NDcWVHeXR5dTBlWHZ2V1dxdm10ZXk3Q1hnT2hZcjlVeE1Fbk45eVkwaXZEQQ?oc=5",
-      "source_name": "The Korea Times",
-      "source_level": "reputable",
-      "published_at": "2026-07-26T05:06:02+00:00",
-      "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
     {
       "title": "OpenAI follows Anthropic's lead in limited release of GPT\u20115.4\u2011Cyber - Mashable",
       "what_happened": "OpenAI follows Anthropic's lead in limited release of GPT\u20115.4\u2011Cyber Mashable",
@@ -20,7 +9,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-25T14:43:19+00:00",
-      "age_hours": 16.1,
+      "age_hours": 18.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +20,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 28.2,
+      "age_hours": 30.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
