@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-27T20:42:29.889230+00:00",
+  "updated_at": "2026-07-27T22:17:06.090211+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "FirstFT: Chinese chip champion CXMT surges 466% in market debut - Financial Times",
+      "what_happened": "FirstFT: Chinese chip champion CXMT surges 466% in market debut Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczhiTlVZYjMza2RPYzNFWThEdmI3M0Q0c2tLaTJoQ294dkpiWkh4Mm5rbmNtVGxWVzlRSGJfRUtmLXZQbGwwc3BwRlVNWnI1VzV6MUF3MVgwSDZnQTNuUGhISUNiUDBKTFNqeWF6MEdCOEE5ZnhIMExEbDRKVkxPZ0hKYk8?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T21:22:23+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia plans $250bn push to bolster OpenAI\u2019s infrastructure ambitions - Al Jazeera",
+      "what_happened": "Nvidia plans $250bn push to bolster OpenAI\u2019s infrastructure ambitions Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHBtbkJMQmdyblQ4Y2VTTURGQW54RzRiR3JRUEZVNzhpN3pfLVJveTR3a01WZGNkOVFYZGNHLXNwOUFWbDA4aHJ2cG16ZXB6dFNRQ0ZLUExFT1RlLUI1U19QQWxMM1hCdDlUTDVSTGdCV0QyaHQ3cnZBUEJkSzBxQkRKZFVxcG0xV2htSzBEVG1jem13RW1vOXhTRkNmcUZYX2FBMDJDOXpSbGdyalhFcNIBtgFBVV95cUxQc1QweFRsTzBsZGNNZU5OWUdGYjRIOVM2akNnWTdlVC1wQVBFT1Q1NWcxWC01ZXlHcE1lRHdEXzZBanNULV9WdFpyWE5jOFJNVWJ1cGdFdEVSd3RBUzBQQmZENTRHcDFHZ2tKdlpsRmc3RFBNU1cyVXN2cGFWZ3hmWTNoYm1mNFl2eGVrelVCenEtNFFCUFRSY1E2U3pDci1xcW5sc1VQX2tBblFWU2J5aTZyLU81UQ?oc=5",
+      "source_name": "Al Jazeera",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T21:11:35+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple ends day as world's most valuable company, passing Nvidia - CNBC",
+      "what_happened": "Apple ends day as world's most valuable company, passing Nvidia CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01cWI2eS1PTkp0QlphT2h1a2t6Y2hOZWJweHE0WHVRcng2SHRJZWdka0wyZVd4VVNWU3FuOVMtTENyZVZwR3pIcXluT1RBMHNXVmktT1RjcnZSaDhjMFBvOW9WanFkdWRPV3ZwVEduRVd0b3U2VDlTTDBxMNIBgAFBVV95cUxQd1prSjRSQnNHQnlXbFVBSHlfVDUyX2JRdkt5Q011NjI4TGo5dXI1bzVGLUhfRERPU290WGhfakZoUzlkdHFEbWNYTFo4clNEUk1ua1RzR1V6akV6d3lJYWQwdFhrRzBPdkZzbHdWZFBlaHAwOHV4Q3VnU09ZcFN1OA?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T21:10:17+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia Falls Behind Apple in Mixed Day for Stocks - WSJ",
+      "what_happened": "Nvidia Falls Behind Apple in Mixed Day for Stocks WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9BSDBZWF95N0lDdHVDYmtmWGZBYzE5XzBCb0ZjZWJOTkk2XzdaaDlBcUFRMWpUUHVoeVhZcWhuWklPRE9FSEJVTlpZbkFMSGxKVXJycTAtQ202enFQVE5WMEZqNXREOEY2Z21fQ3FuOWw1MmJQMkZ5a1NqOEJuYmZ4a1p4YXFRY1IwT213?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T21:05:27+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI hacking incident is \u2018warning shot\u2019 on cyber security, Microsoft\u2019s AI chief warns - Financial Times",
+      "what_happened": "OpenAI hacking incident is \u2018warning shot\u2019 on cyber security, Microsoft\u2019s AI chief warns Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlhIRzlNaExQQTdlTFlKZlBlSk5iTkZydEp4MmhqX3lyODA4TThheGJGbEZNSThCVzFHdWF3cUxPUnhXbE9ZVUNFRVZXT2xkV0RrNTdScFktaVpyS3NMYkcyUDB2SVVqTEpEMk0tRDZiUzM1RERlMFA1elJsamZQaThINWc?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T20:44:09+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Manage GitHub Copilot app access with a dedicated policy - The GitHub Blog",
+      "what_happened": "Manage GitHub Copilot app access with a dedicated policy The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNODVmQ2xoc29jRmdvNUtNSER3aWlteFZzbW15SG9YaWIySjZSS1dkUHFGbE95M3RNZENvRWdHTERJaHhycDBqanRWVUVrU2RmQ2lOVmdBamg3Ym1sLUdRcWNZOFVoS2N6SWZnT3JMQ2tIWFEya1o5NlMtR043RUlob1MzNFFpRm9ybkZqZ3pXbnRnZVpKM1FKYk53YnFTUQ?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-07-27T20:43:37+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Cadence raises annual forecasts as demand booms for AI chip design - Reuters",
       "what_happened": "Cadence raises annual forecasts as demand booms for AI chip design Reuters",
@@ -31,7 +97,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-27T18:32:11+00:00",
-      "age_hours": 2.2,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +108,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-27T18:00:00+00:00",
-      "age_hours": 2.7,
+      "age_hours": 4.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -207,7 +273,7 @@
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:51:00+00:00",
-      "age_hours": 9.9,
+      "age_hours": 11.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
