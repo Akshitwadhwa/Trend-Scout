@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-27T15:12:18.814195+00:00",
+  "updated_at": "2026-07-27T17:06:57.266921+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Why This Time Is Different for SK Hynix and Memory Chips - Bloomberg",
+      "what_happened": "Why This Time Is Different for SK Hynix and Memory Chips Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUjlkVnA5TlloQ3hpSVdZbFdZQnl3YUNOYkhTMGpYRjR0NWtzSWJzQjM1SEs2bEo5ZG1Md05hQWVNMEoxLWt3dTBLWXFWUDVtejllYnUzQzN5azdfQ2VfSDZUMDJmQ0tvRzFSZnJRNDY3djRZUG9BcFhVZVRvN08xVHJpMXdwUU1lNUhISjVwRG80a0Y3OXF5S0ZJbllGYjV3RnJINzZUN1ZWQWdFVzdrSTFieVdrc0hxcEdkWFd5VWJpQQ?oc=5",
+      "source_name": "Bloomberg",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T17:02:18+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "This $430 MacBook Pro has the features Apple fans love at a much better price - Mashable",
+      "what_happened": "This $430 MacBook Pro has the features Apple fans love at a much better price Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lUG1Sd0NqQTlfTWNHcmM1c0hvdFN1dzVhZVQ0X3JObzlGQXFyZTZRYTQ5aXZBZmlLc3RzMkV6QURnUmpieXBSRWFmUVBmVWlxOWxJVEFQNEZHclhLWmpCTTNiMldZV0tEZlktdHZUTGlYd1NVQlNPYk94OXpwdw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T16:27:22+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "The Samsung Odyssey G7 curved monitor is a total game-changer, and it's over $300 off at Amazon - Mashable",
+      "what_happened": "The Samsung Odyssey G7 curved monitor is a total game-changer, and it's over $300 off at Amazon Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iR25MNkdROU1McGNSOExfWHY3OGtndnlXMmlpTFF5YjFiYmR1cjNrX252TFZiQk0xLVNHRW5jYWV0T1VrS2lXbVR5TUxlVkxDMTdqaTVhUmd3YXN6YUFQWmJ0ZTVQZHBKU2VvajhXY2p3QnM?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T16:27:22+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Getting started",
+      "what_happened": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-07-27T16:00:00+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "China\u2019s Moonshot to Release Breakthrough AI Model for Download - Bloomberg",
+      "what_happened": "China\u2019s Moonshot to Release Breakthrough AI Model for Download Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtYSDI3eU9xMml4XzdCZV85a29MLXVtRjFsX2JOQ2hvTTJJMXZWQTd4ZjZiUlhNNDhnMTZMZVlmSEstSGNqcFA0TWtLTm90LTNsbEFDZHZNb1JobWRhVjg2N0FXLXBsWlFXZDVvcTJmcUdOLVdFWjF2SnNfQlRfV1pNZFRHQ2JkZHhRUVRjUmVNenBXVFl0czFSclBOeDAweVAzMVE1QlpwSTNQX0F5Vk5oRQ?oc=5",
+      "source_name": "Bloomberg",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T15:33:54+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research - TechCrunch",
       "what_happened": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research TechCrunch",
@@ -36,17 +91,6 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "This $430 MacBook Pro has the features Apple fans love at a much better price - Mashable",
-      "what_happened": "This $430 MacBook Pro has the features Apple fans love at a much better price Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lUG1Sd0NqQTlfTWNHcmM1c0hvdFN1dzVhZVQ0X3JObzlGQXFyZTZRYTQ5aXZBZmlLc3RzMkV6QURnUmpieXBSRWFmUVBmVWlxOWxJVEFQNEZHclhLWmpCTTNiMldZV0tEZlktdHZUTGlYd1NVQlNPYk94OXpwdw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T12:50:45+00:00",
-      "age_hours": 2.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off - Mashable",
       "what_happened": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZWTlI2RlZrR29JTGRZRGJVNmFaM0lTUzlRdVVYeEVEMHNMMmIycnZzSEw3THJhX000bjBvQVFqU1AxN3FQaEJCMzlScmdINzgyZWFYTm1QYXVwTWRXRWJaeWtwX0I1R3paWTlQLVVBQVZuZ1Z3RFdMaWJadXZ2YnZR?oc=5",
@@ -71,11 +115,11 @@
     {
       "title": "What will the UK tech ministry's abolition mean for policy and regulation? - MLex",
       "what_happened": "What will the UK tech ministry's abolition mean for policy and regulation? MLex",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVWt6T0ZDX0FBaGhOTWljdC1SQ19FbWQwX25SMjhSQWFUa2t5UEVSWEtnSGJJX2tOdlBhenJqUE9ER3dVVmg3NnNTRGdJNzdIWUh2TU83aS1ZYUxVVS1uTVJwMXdWRjl6QU4xOTRGalBtVExhcjBQMXBYZ2JCX1ItNm5XZjA4cThFR0pESXJZaGQ4RV9BVUNuQk1jRGRESEhzM1Z5MXVYOWs4cGNNUW5SR1gyQlhCNHdNcGRpNzE1UzFrNlQwX0VadlRWT2xpVXk3c0xOTXVCVTHSAVpBVV95cUxPalBVSmR4dXYwcmV2V3lKcW5GX2RtaFhIRUhKdVJ4NmVYbk1UZDRTUm5Ca1NLcVRyT2NpbWp5WU9pckJwYWlCcUotcnBFNmp4dlZ2Tm5Md1oyQ3c?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTdXXzFjSDhrY1FjdWR3clRuZ0dPSnRqM2g3ZC1UbEVaN3YtOTlvZDZwQzNVQWdBUDZWeExBRG81TmozeWFTYi1GWFVEUmxOWFpOOEVnUXJObkE4VDJUbEF1V0Zla2k0cWtya0x4YkMycm1vWHViTWVDNkVsejlyOTE3V1M3WktvVG5CR1lqVHMyV2xNM0txMXBITUpMTjZGV29pVG1jQ3FuMDg0cUdjRW1B0gFaQVVfeXFMT2pQVUpkeHV2MHJldld5SnFuRl9kbWhYSEVISnVSeDZlWG5NVGQ0U1JuQmtTS3FUck9jaW1qeVlPaXJCcGFpQnFKLXJwRTZqeHZWdk5uTHdaMkN3?oc=5",
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:51:00+00:00",
-      "age_hours": 4.4,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -104,11 +148,11 @@
     {
       "title": "Manufacturers, software developers, others receive EU Cyber Resilience Act guidance - MLex",
       "what_happened": "Manufacturers, software developers, others receive EU Cyber Resilience Act guidance MLex",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ1JVRDlnd3pEamNqQTRGV1NlMDlZQVZMOVVMSjZJNkFlOUV4ZEVXTFRDT1dCZExCa3FPZUdlQXBFTmZ2RGVUS1ppT0xGcDRvd0tJX3YxaGVzeWc4TmVmQWVrUHZaNDFMZFU1Y0YyLTBCVHJRSFpnQ0hkcFluY21oNGtzZDE5cnBZYXJWLTdySDA5Z2FqZ1FrVVJ3Ulc5QnhDRGRvTDFNaDlLT1ZXNnJNRjBMNEhFWlhodEhYWkFlQmk1UdIBWkFVX3lxTE1sbzF1aGtUSUZSdDdmRHRoR1hSbFZHZUFucTRMM2w1alI1cDFtSUExRVBIYVNGNHoxNS14VWhGOTRWdWZyaDJUY0U2WGJOcmtBRkdzSWN6NGdtdw?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjE2dW1MZGNKSEo2ZE9Pd1ZYbWdSbmtXTDFUcHlJWHJCYklpR1VMVFI1YXNrbmhYU25qLXE2MHh2bEV3SUJTREV1dmZudm5EaUZ3VGc5eDlPYWNZbllBYXpFNjFFRnU0bG1hZlR3RGNLUkZwczRqY1Z6dlU2aG56YzBobVA3LWlyaUFvWEI5SGo1U0xwTjJLUzBIOGRXN25mQ0tfRnc3WWoxbV9IUWVnbWo1SFhIWnNYbG5z0gFaQVVfeXFMTWxvMXVoa1RJRlJ0N2ZEdGhHWFJsVkdlQW5xNEwzbDVqUjVwMW1JQTFFUEhhU0Y0ejE1LXhVaEY5NFZ1ZnJoMlRjRTZYYk5ya0FGR3NJY3o0Z213?oc=5",
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:22:00+00:00",
-      "age_hours": 4.8,
+      "age_hours": 6.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
