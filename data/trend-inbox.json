@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T22:17:06.090211+00:00",
+  "updated_at": "2026-07-27T23:29:08.274401+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -31,7 +31,7 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-07-27T21:10:17+00:00",
-      "age_hours": 1.1,
+      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,18 +53,18 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-27T20:44:09+00:00",
-      "age_hours": 1.5,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Manage GitHub Copilot app access with a dedicated policy - The GitHub Blog",
       "what_happened": "Manage GitHub Copilot app access with a dedicated policy The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNODVmQ2xoc29jRmdvNUtNSER3aWlteFZzbW15SG9YaWIySjZSS1dkUHFGbE95M3RNZENvRWdHTERJaHhycDBqanRWVUVrU2RmQ2lOVmdBamg3Ym1sLUdRcWNZOFVoS2N6SWZnT3JMQ2tIWFEya1o5NlMtR043RUlob1MzNFFpRm9ybkZqZ3pXbnRnZVpKM1FKYk53YnFTUQ?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXc1cVZPa3o2blM0UGFvYm4xZ21sTVVieklMcFdOSzB1WUVBakY1bXpCckVpNjJTTkw0VlRJbXJxNkRKbGIxUUNrTlFmYjhiWXZWWEVuZlJvV1lyVU9VUmJMM0RNcFI2X1IzNlRFcTZ4ZWpJQWJ4X0Rpa1NXVEhGNTZIUjBJaGRFRzJ0U2s4c3l6SVhCYzhjLXVqaXRJTW8?oc=5",
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-27T20:43:37+00:00",
-      "age_hours": 1.6,
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -91,13 +91,35 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off - Mashable",
+      "what_happened": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZWTlI2RlZrR29JTGRZRGJVNmFaM0lTUzlRdVVYeEVEMHNMMmIycnZzSEw3THJhX000bjBvQVFqU1AxN3FQaEJCMzlScmdINzgyZWFYTm1QYXVwTWRXRWJaeWtwX0I1R3paWTlQLVVBQVZuZ1Z3RFdMaWJadXZ2YnZR?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T20:04:34+00:00",
+      "age_hours": 3.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic \u2014 open-weight model performs almost as well as frontier models while being 2-3x easier to run - Tom's Hardware",
+      "what_happened": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic \u2014 open-weight model performs almost as well as frontier models while being 2-3x easier to run Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQUXpwUEpYUTc0OHFCYVpwa182MWt5VFp1WTZfaVhGM2hnT1ctYTNuUDlYc2xqMGRmeElNRHJkWjBTNUNWUEQyR3l4WmN5dFc5ZjRSay03T2xVbDlGd1BDLVFCcUw1YUlWc3B1bE1TaGVxWnAxYUt6dXdlNGdaNkMxUnJmYzExdzBKbml5RElIcFlyQ29KOVVEdjcwYTRsakVBLTZ4c3oxdlZ6OWNieUt1ZExYekV1c2phWEk5SEpUWWVXekl0Q2ZwMGl2WTRfVkplSEx4YzFoZmlSemdHWFZ6bk9xNHhhTVVUd0hzQXRqeUM4cDFOQmZfSEd0NVduLVFiek5yVlJyVzN3SzQ2Z3B6eUR3UU9YbHFuQ2k4dDY1RDBoUTlzVHNWbjNmMkZ1UjBiUjlERWtpd3phN3NlUnFIME53Q1JzYW1CUU5FWDI5OW5OTnF2NFJJNHhFQkdHR0tmSGtrT1UtV01oMlcy?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T18:40:58+00:00",
+      "age_hours": 4.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
       "what_happened": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system TechCrunch",
       "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTlyZDZEcHZxSUhHc01jdjkyemw4RWVSeUgwZGgzN3pXUER1VEo1eWJaN2tORUtSb3NfbDdxdFdRZm1CN1VjZG5IZEJnUFNZbG9jQUlScjhQTkQ5UVM5aThka0FzQ3EwQVNldm5RY3I1c1lORXgxVlR3NEJmM0ZmcGNDV2FGTFNvT2d0V1RhTHFMRGpsRFZENEFkVnhTdXZZVUhFZ0ZEc3Bvbllsc0lfQjlFMS0?oc=5",
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-27T18:32:11+00:00",
-      "age_hours": 3.7,
+      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -108,7 +130,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-27T18:00:00+00:00",
-      "age_hours": 4.3,
+      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -245,17 +267,6 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off - Mashable",
-      "what_happened": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZWTlI2RlZrR29JTGRZRGJVNmFaM0lTUzlRdVVYeEVEMHNMMmIycnZzSEw3THJhX000bjBvQVFqU1AxN3FQaEJCMzlScmdINzgyZWFYTm1QYXVwTWRXRWJaeWtwX0I1R3paWTlQLVVBQVZuZ1Z3RFdMaWJadXZ2YnZR?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T12:11:34+00:00",
-      "age_hours": 3.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack - CNBC",
       "what_happened": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack CNBC",
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFc0dzhYNTVrTGNsdjJ3Sm1kQkFfem9jYUNQd25teExwWWZHbmJSaTJna0ZRdkdKTENHMWVqOGJSNE44dWhMekxSREN3c0JSRXJXQjB2Y3BGSXo5MjQ5a2ZmQ1RoUHhmMDN4RXBLeFNuYnhBSHlXdl92TmxONzJvS1ozZVJuNFNtSUVUa1dR?oc=5",
@@ -273,7 +284,7 @@
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:51:00+00:00",
-      "age_hours": 11.4,
+      "age_hours": 12.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-27T10:19:36+00:00",
       "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung to boost HBM5 speeds with cutting-edge 2-nanometer tech - Korea JoongAng Daily",
-      "what_happened": "Samsung to boost HBM5 speeds with cutting-edge 2-nanometer tech Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHBiV2NtT0RCTjhtUUdmUnkzV0pPbjI3dVRvQ192bzhxRl9LZm5oU2Z3Z0lqWTBFYmJOQlNrbkRsVlVoUzJOWGZ1Sno4Y25QNHdsT25Ta0RjMU5wVmlVMWJrT0lGckFUR2J4NG5wNlFIclNwc3ROakhBbHRqR1R5WWw2T25GNENBRlhZSFNsY2ZZYk1KSzZsQk95RXZ1Yk9qZWNaOFd2QVlUMlBhNmhwYW16UlU?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T10:11:40+00:00",
-      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
