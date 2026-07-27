@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-27T10:44:22.611230+00:00",
+  "updated_at": "2026-07-27T11:37:30.682795+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack - CNBC",
+      "what_happened": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFc0dzhYNTVrTGNsdjJ3Sm1kQkFfem9jYUNQd25teExwWWZHbmJSaTJna0ZRdkdKTENHMWVqOGJSNE44dWhMekxSREN3c0JSRXJXQjB2Y3BGSXo5MjQ5a2ZmQ1RoUHhmMDN4RXBLeFNuYnhBSHlXdl92TmxONzJvS1ozZVJuNFNtSUVUa1dR?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T11:02:03+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "What will the UK tech ministry's abolition mean for policy and regulation? - MLex",
+      "what_happened": "What will the UK tech ministry's abolition mean for policy and regulation? MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVWt6T0ZDX0FBaGhOTWljdC1SQ19FbWQwX25SMjhSQWFUa2t5UEVSWEtnSGJJX2tOdlBhenJqUE9ER3dVVmg3NnNTRGdJNzdIWUh2TU83aS1ZYUxVVS1uTVJwMXdWRjl6QU4xOTRGalBtVExhcjBQMXBYZ2JCX1ItNm5XZjA4cThFR0pESXJZaGQ4RV9BVUNuQk1jRGRESEhzM1Z5MXVYOWs4cGNNUW5SR1gyQlhCNHdNcGRpNzE1UzFrNlQwX0VadlRWT2xpVXk3c0xOTXVCVTHSAVpBVV95cUxPalBVSmR4dXYwcmV2V3lKcW5GX2RtaFhIRUhKdVJ4NmVYbk1UZDRTUm5Ca1NLcVRyT2NpbWp5WU9pckJwYWlCcUotcnBFNmp4dlZ2Tm5Md1oyQ3c?oc=5",
+      "source_name": "MLex",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T10:51:00+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Korean VCs bet on semiconductor material startups as AI chip race escalates - KED Global",
       "what_happened": "Korean VCs bet on semiconductor material startups as AI chip race escalates KED Global",
@@ -31,7 +53,7 @@
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:22:00+00:00",
-      "age_hours": 0.4,
+      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +75,7 @@
       "source_name": "Korea JoongAng Daily",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:11:40+00:00",
-      "age_hours": 0.5,
+      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
