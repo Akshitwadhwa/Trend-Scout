@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-27T11:37:30.682795+00:00",
+  "updated_at": "2026-07-27T15:12:18.814195+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research - TechCrunch",
+      "what_happened": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEpWM0dmdzBOcXF0V09UNldRRlJyWFVJdXZFRmt5cFBuc0QweWhoMm1TR3hZU0ttNFBnUVdtN2h5WkNabHJmdmZxc3FhNVhXRS1mQ2txMVNjNHdYVTA5dE15SE1zeGdoMjJMWE5lTEN4cHRDWTBJZmtObUlYSUZFbEZKT3BVTUlab1BxVEFHV2NWVmJCcUlXRUR5c2UzdXItZW5rTV9YcllVODJsTlB1eVcyMjdiOVV2VWhB?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T15:01:50+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Moonshot, DeepSeek and chips: a guide to Tencent\u2019s growing AI empire - South China Morning Post",
+      "what_happened": "Moonshot, DeepSeek and chips: a guide to Tencent\u2019s growing AI empire South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2N4YUl1Zl9acjRvaV92bUtWMW1sVXl6OVZDNHRZSXBFZExPbEJNTjJ6by1HWTdTdWVCa2NFdm1wSHZQMU5tMFl0UWxqQndLM0dYUkMtYWp6SmZ5ZXZqb3lEbF9UeXk3MjAxcWtSMjZSX3JQRnBRRlFxcmZ5eGRMRTdqUW81M1ZxLXFxMGttUWhCSE9XbmM3alhvMG8xd2RRUTlkZm9xV1RCUmpia2w2d9IBsAFBVV95cUxNQ050aHBXMkJYVkdvcnhINmZYSS1vY2lJdnZVOEhLc2ZwUVItRzJuaEpGcy1tVEhxa0JNa0JOS1FDaThhdjZUSzYtX1FhUXplSERPTmVucXpnRFB3TlI4MDcyUmxNcWh0cDdQQW10NHlCSnJRZDg2RVItdDAxNThNSGlmelVpbFJlT0c5Tk42MDUzLUhuQ2cwTnhzaW95YU10bkU3NDNwekZpQkxkX3Vvaw?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T14:30:06+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Anthropic gets heat for being the only major AI lab not supporting open models - Business Insider",
+      "what_happened": "Anthropic gets heat for being the only major AI lab not supporting open models Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3F1dGIzT2tGQUFfdXB0VVdMOGZxMUxvcUFaV2VaU05icGxhY09IZmkxNEdXTG14YWxZUTNvZjY2RF9aSmZTcmNrbFV5c3pDRVZuSjUyT0ZmeEpQbTFXLUhBVHdQMkVDX3lBYWUzLWk0aTA1SjV1UHhlT2RtakFXbjl0djdZUndpWDYtV2d6NlQ?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T12:57:49+00:00",
+      "age_hours": 2.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "This $430 MacBook Pro has the features Apple fans love at a much better price - Mashable",
+      "what_happened": "This $430 MacBook Pro has the features Apple fans love at a much better price Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lUG1Sd0NqQTlfTWNHcmM1c0hvdFN1dzVhZVQ0X3JObzlGQXFyZTZRYTQ5aXZBZmlLc3RzMkV6QURnUmpieXBSRWFmUVBmVWlxOWxJVEFQNEZHclhLWmpCTTNiMldZV0tEZlktdHZUTGlYd1NVQlNPYk94OXpwdw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T12:50:45+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off - Mashable",
+      "what_happened": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZWTlI2RlZrR29JTGRZRGJVNmFaM0lTUzlRdVVYeEVEMHNMMmIycnZzSEw3THJhX000bjBvQVFqU1AxN3FQaEJCMzlScmdINzgyZWFYTm1QYXVwTWRXRWJaeWtwX0I1R3paWTlQLVVBQVZuZ1Z3RFdMaWJadXZ2YnZR?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T12:11:34+00:00",
+      "age_hours": 3.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack - CNBC",
       "what_happened": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack CNBC",
@@ -20,7 +75,7 @@
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:51:00+00:00",
-      "age_hours": 0.8,
+      "age_hours": 4.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +108,7 @@
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:22:00+00:00",
-      "age_hours": 1.3,
+      "age_hours": 4.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
