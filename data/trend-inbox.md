@@ -2,20 +2,20 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-26T23:11:02.207237+00:00
+Updated: 2026-07-27T00:11:18.359149+00:00
 Memory window: 48 hours
 
-## 1. Nvidia to acquire $1 billion of new shares of South Korea's Naver - Reuters
+## 1. Samsung bolsters energy team as chip projects test power supply - digitimes
+Source: digitimes (reputable)
+URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmUxWjlMb3hZMlVPUW9KOEV3VmtxUmpUR1pPeWQtck9jdzFRdTdoNGF4eERoSEMxQ01lOHR3aVk1VFpvaE8wQTduUWJPdDBqUkhvU2VteFNYY0tsSk5UWC1xblRBTlljbDE5cE1lLWtzS0N2LXRUekprZFRTS1RtQmdyT2FQV2EwQTlHcEhkUzZ6UWc3c3VNX0RrdHI5bWh2Z01yZlVZaFhNU0hDSnpCX0FUc0taTUhfb1E?oc=5
+
+Samsung bolsters energy team as chip projects test power supply digitimes
+
+## 2. Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters
 Source: Reuters (reputable)
-URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkhjUXN3Z1VSTkZyVjdBMURwLXRFYm1TMkpmZEZGS1FyRFhsRjNkSWpTZ2g1cW1UNVpXUnc4dWNSWkJIVlVkY18wOENjMWsxQm0tWWN6Y3M3RW9lNkxRUXY5Rzc5M3cxMHI2Ry1DbldOOG0xQU5obklobjlXdFNWU2tVcXc2dkM1bzYwNXlUZHowQ1l4OGhWTjN4Y1hybVQwcGoyZnphTXkyVVRYa3lmNW9URQ?oc=5
+URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5
 
-Nvidia to acquire $1 billion of new shares of South Korea's Naver Reuters
-
-## 2. Apple is banking on privacy to set its smart glasses apart - The Verge
-Source: The Verge (reputable)
-URL: https://news.google.com/rss/articles/CBMickFVX3lxTE9PbjVVVmlGNnBOM1hmSUV3bmg4SFFtS19JeGlneXZzMkNGTXRNLVdyclEtRmpGbFE2cUpMcVUtTlRwSFUzazk5S01zYU40T0RVcWQ4UTNQTkg2Q1hJNjZZWVRFN0t4ZkhENXJWenh0LXRIZw?oc=5
-
-Apple is banking on privacy to set its smart glasses apart The Verge
+Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports Reuters
 
 ## 3. Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. - Mashable
 Source: Mashable (reputable)
