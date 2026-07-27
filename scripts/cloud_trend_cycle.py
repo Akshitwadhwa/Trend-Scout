@@ -24,6 +24,13 @@ CLOUD_MIXED_FEEDS = [
     "https://news.google.com/rss/search?q=Apple%20OR%20Samsung%20OR%20smartphone%20OR%20wearable%20OR%20consumer%20tech%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=developer%20tools%20OR%20GitHub%20OR%20software%20release%20OR%20cybersecurity%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=tech%20startup%20OR%20funding%20OR%20antitrust%20OR%20technology%20regulation%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+    # Official sources make the free inbox more useful on quiet news days.
+    "https://www.apple.com/newsroom/rss-feed.rss",
+    "https://news.samsung.com/global/feed",
+    "https://newsroom.intel.com/feed/",
+    "https://blogs.microsoft.com/feed/",
+    "https://github.blog/feed/",
+    "https://about.fb.com/feed/",
 ]
 CLOUD_MIXED_KEYWORDS = [
     "openai", "anthropic", "gemini", "ai model", "nvidia", "amd", "gpu", "chip", "semiconductor",
