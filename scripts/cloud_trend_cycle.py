@@ -56,7 +56,10 @@ def main() -> None:
     # The SQLite topic value can outlive a previous focused local run. The
     # scheduled cloud job must always use its own broad topic configuration.
     workflow.db.set_topic_query(settings.topic_query)
-    scan = workflow.refresh_trend_inbox(retention_hours=48, replace_existing=True)
+    # Keep a rolling 48-hour source memory. A quiet hourly scan must never
+    # erase the previous verified stories, otherwise Telegram has nothing
+    # diverse to work with even though the scheduler itself succeeded.
+    scan = workflow.refresh_trend_inbox(retention_hours=48, replace_existing=False)
 
     print(json.dumps({
         "saved_topics": scan["inbox_count"],
