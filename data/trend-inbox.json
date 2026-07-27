@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-27T18:46:27.329439+00:00",
+  "updated_at": "2026-07-27T20:42:29.889230+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Cadence raises annual forecasts as demand booms for AI chip design - Reuters",
+      "what_happened": "Cadence raises annual forecasts as demand booms for AI chip design Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEw5TFphTEV5OHVidlJkNzRwS1c3WDgzMmU2Ql93X3plWmc4dVl6ZEJwSy1kMnBqc1NuRm5Ib0RqcFp5OVctX2VHcV8xWjdvWU5YVnB6THJlRnRMS3l5TnhUUzFRLVVpT2JUUGdHa2dhWDVlelhkSVpjdTh4ck1TUXBXeGxwN3RMd19pZVV1YWNTZm9CamMyUFRwaEdFcjNIRXZkWnVRUTNacU0zcUp3THducUpTWk1vZmNrdQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T20:36:00+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple dethrones Nvidia as the world's most valuable company - Business Insider",
+      "what_happened": "Apple dethrones Nvidia as the world's most valuable company Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWxxY1poVlY3SGZRV0lBTGZIQ3BhYkVibnFMVG9TLTBERkJ5NFd0RnpqY1RpTExNMmZBS2I0RUgxMmxUVVNHRXZ1aXpfRzZIbGZCcWpicmV6cjVQX0FOc1o5a2FEZ0RMV3hEMFhxNFI5UUVyU2hleEdyVFhBY1M3R0E1anc3OC1kQVBpSlV2NElTNGJ6eVA0a2JuUmVvUHE1QVBocEt3?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T20:26:15+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
       "what_happened": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system TechCrunch",
@@ -9,18 +31,18 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-07-27T18:32:11+00:00",
-      "age_hours": 0.2,
+      "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "The harness is all you need (mostly)",
       "what_happened": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/company/the-harness-is-all-you-need-mostly/",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-27T18:00:00+00:00",
-      "age_hours": 0.8,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -54,17 +76,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-27T17:28:05+00:00",
       "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple dethrones Nvidia as the world's most valuable company - Business Insider",
-      "what_happened": "Apple dethrones Nvidia as the world's most valuable company Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWxxY1poVlY3SGZRV0lBTGZIQ3BhYkVibnFMVG9TLTBERkJ5NFd0RnpqY1RpTExNMmZBS2I0RUgxMmxUVVNHRXZ1aXpfRzZIbGZCcWpicmV6cjVQX0FOc1o5a2FEZ0RMV3hEMFhxNFI5UUVyU2hleEdyVFhBY1M3R0E1anc3OC1kQVBpSlV2NElTNGJ6eVA0a2JuUmVvUHE1QVBocEt3?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T17:02:49+00:00",
-      "age_hours": 1.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -119,7 +130,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-27T16:00:00+00:00",
-      "age_hours": 2.8,
+      "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -196,7 +207,7 @@
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:51:00+00:00",
-      "age_hours": 7.9,
+      "age_hours": 9.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
