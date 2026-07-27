@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-27T17:06:57.266921+00:00",
+  "updated_at": "2026-07-27T18:46:27.329439+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
+      "what_happened": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTlyZDZEcHZxSUhHc01jdjkyemw4RWVSeUgwZGgzN3pXUER1VEo1eWJaN2tORUtSb3NfbDdxdFdRZm1CN1VjZG5IZEJnUFNZbG9jQUlScjhQTkQ5UVM5aThka0FzQ3EwQVNldm5RY3I1c1lORXgxVlR3NEJmM0ZmcGNDV2FGTFNvT2d0V1RhTHFMRGpsRFZENEFkVnhTdXZZVUhFZ0ZEc3Bvbllsc0lfQjlFMS0?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T18:32:11+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "The harness is all you need (mostly)",
+      "what_happened": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/company/the-harness-is-all-you-need-mostly/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-07-27T18:00:00+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says - Reuters",
+      "what_happened": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T17:54:25+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control - TechCrunch",
+      "what_happened": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenlaTmRiRFU0WkFNdGN0dE9FeWN6SlVQNHliSmNVZWZXMUctRUJ3alU2SlMzN0MzVF83OGZ2VXJ1c3UtZ0xIVHIzN1cxekU2T1phYUMxZGEzamszRzRmX2tOZzFGWkVVMno5VFlyMFdTVnNFbWlTb3dBR2VaVkFuR0VRc3l1b1BmVFFsb3lDWTY2YXJyRVRzNFhaZlhDQ2UzTFNrMzZ6UUlmWTBfMklUODRFdTE?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T17:28:42+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple AI glasses are set for 2027 debut, report claims - Mashable",
+      "what_happened": "Apple AI glasses are set for 2027 debut, report claims Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wRjB5S1JQaEtJUDlldm5MZUlrUXltZ2RfeFhvZ0ZNalFTVXg2dUxvdC1aVHVidlZyY0FLd2N1UzBJZktad3JNcFBaWmtnU3Z6Uld1RmxEb3JBanRRTnhGOVp3?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T17:28:05+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple dethrones Nvidia as the world's most valuable company - Business Insider",
+      "what_happened": "Apple dethrones Nvidia as the world's most valuable company Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWxxY1poVlY3SGZRV0lBTGZIQ3BhYkVibnFMVG9TLTBERkJ5NFd0RnpqY1RpTExNMmZBS2I0RUgxMmxUVVNHRXZ1aXpfRzZIbGZCcWpicmV6cjVQX0FOc1o5a2FEZ0RMV3hEMFhxNFI5UUVyU2hleEdyVFhBY1M3R0E1anc3OC1kQVBpSlV2NElTNGJ6eVA0a2JuUmVvUHE1QVBocEt3?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T17:02:49+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Why This Time Is Different for SK Hynix and Memory Chips - Bloomberg",
       "what_happened": "Why This Time Is Different for SK Hynix and Memory Chips Bloomberg",
@@ -10,6 +76,17 @@
       "source_level": "reputable",
       "published_at": "2026-07-27T17:02:18+00:00",
       "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI\u2019s High-Stakes, High-Touch Push to Make AI Work for Business - WSJ",
+      "what_happened": "OpenAI\u2019s High-Stakes, High-Touch Push to Make AI Work for Business WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWttaUNncEVSalJpeGlsRGF0MXhWNmZCN19ONjkxNXZ2QjN5MU82TkkzYTB5Tm1ranRRRnhYLXNGaUJYV0ZIeHUwZjgzZFFENHhkTzluYTY1M0RTNHdOeV96SVlwUy1lS2dxemM0ZkZ2dlptY05BWUgyUTdyQ3hvMUl5Um4wYmJjVG9wS1RieHNXeXMybXZUbFBQNVpzc253U29tbnUxMDU?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-07-27T16:48:50+00:00",
+      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +119,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-27T16:00:00+00:00",
-      "age_hours": 1.1,
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -119,7 +196,7 @@
       "source_name": "MLex",
       "source_level": "reputable",
       "published_at": "2026-07-27T10:51:00+00:00",
-      "age_hours": 6.3,
+      "age_hours": 7.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
