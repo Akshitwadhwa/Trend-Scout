@@ -2,17 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-27T04:00:34.995717+00:00
+Updated: 2026-07-27T07:48:43.823910+00:00
 Memory window: 48 hours
 
-## 1. Apple may take on Meta, Google with AI glasses early next year - The Indian Express
-Source: The Indian Express (reputable)
-URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3A5dlo3VlNjMUZNVGphR0ZoRHAxZ3lBZUhxemZuNzNpeWxpUllfNXRUTld2OWU0Z3R1SzJXd25UWkExUzhpcFY4ell2c21tWUkweTF5Y1RSMGRIM19tNUdYWlZ3MTBBV1NYVkR2THo1WTEzNGpZMUtvT2g0Q0hiYVpfdTdaZ1NjRUhHLU16X3d0cEg5cFlKMmpRV1JGUDNJUXo5TWZMWFBNcy1sZy1MbGlyS3FhdFVRZzNnX05yZFpBYVA5Sk55X01IUjXSAdMBQVVfeXFMTWZDMFZOeFNubml1ZVQwUjhCdk1XZHRhSzhjYk1td1I1LWpubldTbE40eGhmdjV2UUNIV0ZCbVhKM2R2ZzhIbjVwTkh3MFRhT0JRbWE2T3ZkdTMtSl8zMExBdG1IUlZST0tnRWVOTG41NFU0Slg3TTVrQmxOQ0szQmd0VjAtQU5JM0pORTlRdG9XSEM5ek5nMTBwXzdTWXlxRV8zVEg0UEhlRTVQd1A2R2VjUmxsbjM2NnpMLWlUZ1dzU2tOR2tuZERQcDJYYjl0YUNhQQ?oc=5
+## 1. Chipmaker CXMT becomes mainland China's most valuable listed firm - BBC
+Source: BBC (reputable)
+URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHQnlCYmEyMmlIUWE4STQtWnp5Q0FhZ1NSNjRQZFA4N0VaT3QtTzNSTXhwWkhJV24yT29mRy1VMmxmYTg0SS1PU0hLZTR1SUNzaVE0YzhYNlFSQQ?oc=5
 
-Apple may take on Meta, Google with AI glasses early next year The Indian Express
-
-## 2. Moonshot's Kimi K3 is ready for public download after spooking OpenAI and Anthropic - India Today
-Source: India Today (reputable)
-URL: https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdktGMmN5eFdVcFhfTXNqOWFOVkRIOGszRi1pb3lEZGxvSG9RdG5vMk90T1RoOGlIdVJuWlkzSGxWMEZURW1IenJuMm1BWC12dWRRMVk1c254VTB3dkRvcFdrQ2VfV2hLSGZwZDlkZnVWdjE0aW9mMzU2clZPUzJhT2ItVG1SSGtPVElqMnBwRkFhVDNEeklqWE4tdEpMOU9jOFdBQkh2VEk3QWZZTXYyQUxEN2NTU0tjdkx5WXZLSnZ2QkVEMUd6QURvTE11ZDlIUzgzTHQyUDlyUzdYOTdpZjVjc9IB6AFBVV95cUxQTEwtc1dCN1MwQ1BNdHFoRXNiTHdKczhIb0M1bkhOR0ljczk5R3NZV2dLeFZWOFlXU2NERHRMNDhzVW4tT1ZCZEkydk1fVWNEMXV1X0h5LUhicEt6cWZ4Mmp0OEtuVEE3MmttY01xY2FJRWhVTGhMYlJyWEdSeC13UVp6TUJZMDZLNWFFYVU5c1dYZkh3SHZQMUx1YnRPclJhbzlGSDJ2Y2xFQzJIRGFCNko1alpIbm94MzhEbzJXVnFRWFpVTVNVWlJfNjB3dkpxTDR2QzFjYmwtVnlGVktfRndkNlBoeFF5?oc=5
-
-Moonshot's Kimi K3 is ready for public download after spooking OpenAI and Anthropic India Today
+Chipmaker CXMT becomes mainland China's most valuable listed firm BBC
