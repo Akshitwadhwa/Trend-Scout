@@ -1,48 +1,26 @@
 {
-  "updated_at": "2026-07-27T00:11:18.359149+00:00",
+  "updated_at": "2026-07-27T04:00:34.995717+00:00",
   "retention_hours": 48,
   "items": [
     {
-      "title": "Samsung bolsters energy team as chip projects test power supply - digitimes",
-      "what_happened": "Samsung bolsters energy team as chip projects test power supply digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmUxWjlMb3hZMlVPUW9KOEV3VmtxUmpUR1pPeWQtck9jdzFRdTdoNGF4eERoSEMxQ01lOHR3aVk1VFpvaE8wQTduUWJPdDBqUkhvU2VteFNYY0tsSk5UWC1xblRBTlljbDE5cE1lLWtzS0N2LXRUekprZFRTS1RtQmdyT2FQV2EwQTlHcEhkUzZ6UWc3c3VNX0RrdHI5bWh2Z01yZlVZaFhNU0hDSnpCX0FUc0taTUhfb1E?oc=5",
-      "source_name": "digitimes",
+      "title": "Apple may take on Meta, Google with AI glasses early next year - The Indian Express",
+      "what_happened": "Apple may take on Meta, Google with AI glasses early next year The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3A5dlo3VlNjMUZNVGphR0ZoRHAxZ3lBZUhxemZuNzNpeWxpUllfNXRUTld2OWU0Z3R1SzJXd25UWkExUzhpcFY4ell2c21tWUkweTF5Y1RSMGRIM19tNUdYWlZ3MTBBV1NYVkR2THo1WTEzNGpZMUtvT2g0Q0hiYVpfdTdaZ1NjRUhHLU16X3d0cEg5cFlKMmpRV1JGUDNJUXo5TWZMWFBNcy1sZy1MbGlyS3FhdFVRZzNnX05yZFpBYVA5Sk55X01IUjXSAdMBQVVfeXFMTWZDMFZOeFNubml1ZVQwUjhCdk1XZHRhSzhjYk1td1I1LWpubldTbE40eGhmdjV2UUNIV0ZCbVhKM2R2ZzhIbjVwTkh3MFRhT0JRbWE2T3ZkdTMtSl8zMExBdG1IUlZST0tnRWVOTG41NFU0Slg3TTVrQmxOQ0szQmd0VjAtQU5JM0pORTlRdG9XSEM5ek5nMTBwXzdTWXlxRV8zVEg0UEhlRTVQd1A2R2VjUmxsbjM2NnpMLWlUZ1dzU2tOR2tuZERQcDJYYjl0YUNhQQ?oc=5",
+      "source_name": "The Indian Express",
       "source_level": "reputable",
-      "published_at": "2026-07-26T23:47:27+00:00",
-      "age_hours": 0.4,
+      "published_at": "2026-07-27T03:51:08+00:00",
+      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
-      "what_happened": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
-      "source_name": "Reuters",
+      "title": "Moonshot's Kimi K3 is ready for public download after spooking OpenAI and Anthropic - India Today",
+      "what_happened": "Moonshot's Kimi K3 is ready for public download after spooking OpenAI and Anthropic India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdktGMmN5eFdVcFhfTXNqOWFOVkRIOGszRi1pb3lEZGxvSG9RdG5vMk90T1RoOGlIdVJuWlkzSGxWMEZURW1IenJuMm1BWC12dWRRMVk1c254VTB3dkRvcFdrQ2VfV2hLSGZwZDlkZnVWdjE0aW9mMzU2clZPUzJhT2ItVG1SSGtPVElqMnBwRkFhVDNEeklqWE4tdEpMOU9jOFdBQkh2VEk3QWZZTXYyQUxEN2NTU0tjdkx5WXZLSnZ2QkVEMUd6QURvTE11ZDlIUzgzTHQyUDlyUzdYOTdpZjVjc9IB6AFBVV95cUxQTEwtc1dCN1MwQ1BNdHFoRXNiTHdKczhIb0M1bkhOR0ljczk5R3NZV2dLeFZWOFlXU2NERHRMNDhzVW4tT1ZCZEkydk1fVWNEMXV1X0h5LUhicEt6cWZ4Mmp0OEtuVEE3MmttY01xY2FJRWhVTGhMYlJyWEdSeC13UVp6TUJZMDZLNWFFYVU5c1dYZkh3SHZQMUx1YnRPclJhbzlGSDJ2Y2xFQzJIRGFCNko1alpIbm94MzhEbzJXVnFRWFpVTVNVWlJfNjB3dkpxTDR2QzFjYmwtVnlGVktfRndkNlBoeFF5?oc=5",
+      "source_name": "India Today",
       "source_level": "reputable",
-      "published_at": "2026-07-26T23:40:13+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. - Mashable",
-      "what_happened": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-26T19:07:30+00:00",
-      "age_hours": 5.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "China hits Trip.com with US$765 million antitrust penalty - South China Morning Post",
-      "what_happened": "China hits Trip.com with US$765 million antitrust penalty South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSkhPUFNzRUZ3aWdVVktLOUh5S3RtTnlVU2NLc01HcVpObnFnU2lhUEFkWHlRa1pqc2NBbXhyRFpPdWdKWnBfbjJIQ3BTVnNhdmtKS29PUC1VeEVDZU1LWmhTbjBINllTM1RSR1MzNlotcnVhcmNadXU0U2FmdDJSczZkcWxGLURIQkRra2hvN0tSS01XdUJoOVp1dTkxV2FCZUxHR1ZCQU1peU9wa3JtZ2NtQW5pVGI5WnJ6bGhDdWM2aURSMUMzMNIByAFBVV95cUxQSkhPUFNzRUZ3aWdVVktLOUh5S3RtTnlVU2NLc01HcVpObnFnU2lhUEFkWHlRa1pqc2NBbXhyRFpPdWdKWnBfbjJIQ3BTVnNhdmtKS29PUC1VeEVDZU1LWmhTbjBINllTM1RSR1MzNlotcnVhcmNadXU0U2FmdDJSczZkcWxGLURIQkRra2hvN0tSS01XdUJoOVp1dTkxV2FCZUxHR1ZCQU1peU9wa3JtZ2NtQW5pVGI5WnJ6bGhDdWM2aURSMUMzMA?oc=5",
-      "source_name": "South China Morning Post",
-      "source_level": "reputable",
-      "published_at": "2026-07-25T02:32:54+00:00",
-      "age_hours": 45.6,
+      "published_at": "2026-07-27T03:04:11+00:00",
+      "age_hours": 0.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
