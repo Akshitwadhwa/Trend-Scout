@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-28T03:33:09.232560+00:00",
+  "updated_at": "2026-07-28T06:39:20.993669+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "US chip design major Cadence bets big on India as local startups gain traction - Moneycontrol.com",
+      "what_happened": "US chip design major Cadence bets big on India as local startups gain traction Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1lLSmVkTE4ybFdLSjNzZklaWlRmRWU5RWNUeWptbGZvZVpFVUtONU53NVU4TVZ3RWQzbjZ5aFdOODZINmE4d09MTTFwRzNrSFMzbGp6cGwyOEVyYVlKWWZsQjRRMVlKTnROak9vVjNpUmUyVE55b1NVeXUwVTMzTHBCal83d0FlYVRUeFl3aG1CUHYtbG1nUU5mdVRUX2lOMm5OU1N3d1kyZ051RExSZEU1NmZ1Z3lNRHNVRWNianBzN05WN3UzeHlWSVBlM1ctd2hvNi1Yb9IB3AFBVV95cUxONjJRazdOaV9YOHVPN2M4cFhNTy1veXBJM1JuSy1yQVpCM1EzekhtY2hjWU1MN0Ffd2NsenVROWQ0Zk9wcEp1dnhReWVQWnRRWG82RGlQaEx1ai1jZlRuUXBJMW5ueWxHWDdjZW04WGtTWDVpdVpnalNzSDJ6SVloYk5CMWhTeFNFTmRFalpjdDNybms1SU9iQXd0dVdrbTVBRTZ0WkhOLWxBckgwZjVQQlhaZ01aZ3Q4bzhVelNURnhRWDNwbC1NYWZsRThOclJvdWNrTHFNRDNsQS0z?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T06:18:24+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Anthropic\u2019s Amodei Rejects Open Model Ban But Calls for Testing - Bloomberg",
+      "what_happened": "Anthropic\u2019s Amodei Rejects Open Model Ban But Calls for Testing Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTVnc1A0RXVTS01BaHM2ajhVRFpCcWF2a1A0WC0yRWhFcWFwRno0T0NZNUEtM2doVHRmZ2NFM3RFZHk1VHFxQ3paT3NaeHhTd0JhbkZlTVlUX3V0NzJ5N21saFJUam5Tc3haUmYwVHlGZkU3UGpaMTBKUjNOMHVJeFMxanByWG1JV1ZlWDdiYUFpUnhXdWZpMlZPU1AtTXo0Y002NWRfNFBlV2UzWmpmVkpnNmo?oc=5",
+      "source_name": "Bloomberg",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T05:10:00+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Will Samsung and SK Hynix face a 1980s-style US trade crackdown? - KED Global",
+      "what_happened": "Will Samsung and SK Hynix face a 1980s-style US trade crackdown? KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GQy1yeUVmMTJzcU53ODkzVkxaZDFmR29wNFpzb0NrZndUN29LVmg1MHNUNm9Wdm1zYXQxVGdBRUhuRzdXaXFwMlFBWnp6STlzVm9SbHpxN1piYWl4SjY1NkRSRlIzcHB2cmdwMTB1NDI3UQ?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T05:00:25+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "LIVE: Nifty Reclaims 24,000! Brent Slips Below $88, China Sparks Chip Sell-Off | Opening Bell - Moneycontrol.com",
       "what_happened": "LIVE: Nifty Reclaims 24,000! Brent Slips Below $88, China Sparks Chip Sell-Off | Opening Bell Moneycontrol.com",
@@ -53,7 +86,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-27T22:08:13+00:00",
-      "age_hours": 5.4,
+      "age_hours": 8.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -119,7 +152,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-27T20:43:37+00:00",
-      "age_hours": 6.8,
+      "age_hours": 9.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -185,7 +218,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-27T18:00:00+00:00",
-      "age_hours": 9.6,
+      "age_hours": 12.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-27T15:01:50+00:00",
       "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Moonshot, DeepSeek and chips: a guide to Tencent\u2019s growing AI empire - South China Morning Post",
-      "what_happened": "Moonshot, DeepSeek and chips: a guide to Tencent\u2019s growing AI empire South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2N4YUl1Zl9acjRvaV92bUtWMW1sVXl6OVZDNHRZSXBFZExPbEJNTjJ6by1HWTdTdWVCa2NFdm1wSHZQMU5tMFl0UWxqQndLM0dYUkMtYWp6SmZ5ZXZqb3lEbF9UeXk3MjAxcWtSMjZSX3JQRnBRRlFxcmZ5eGRMRTdqUW81M1ZxLXFxMGttUWhCSE9XbmM3alhvMG8xd2RRUTlkZm9xV1RCUmpia2w2d9IBsAFBVV95cUxNQ050aHBXMkJYVkdvcnhINmZYSS1vY2lJdnZVOEhLc2ZwUVItRzJuaEpGcy1tVEhxa0JNa0JOS1FDaThhdjZUSzYtX1FhUXplSERPTmVucXpnRFB3TlI4MDcyUmxNcWh0cDdQQW10NHlCSnJRZDg2RVItdDAxNThNSGlmelVpbFJlT0c5Tk42MDUzLUhuQ2cwTnhzaW95YU10bkU3NDNwekZpQkxkX3Vvaw?oc=5",
-      "source_name": "South China Morning Post",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T14:30:06+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic gets heat for being the only major AI lab not supporting open models - Business Insider",
-      "what_happened": "Anthropic gets heat for being the only major AI lab not supporting open models Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3F1dGIzT2tGQUFfdXB0VVdMOGZxMUxvcUFaV2VaU05icGxhY09IZmkxNEdXTG14YWxZUTNvZjY2RF9aSmZTcmNrbFV5c3pDRVZuSjUyT0ZmeEpQbTFXLUhBVHdQMkVDX3lBYWUzLWk0aTA1SjV1UHhlT2RtakFXbjl0djdZUndpWDYtV2d6NlQ?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T12:57:49+00:00",
-      "age_hours": 2.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack - CNBC",
-      "what_happened": "How a Chinese AI model stopped OpenAI\u2019s \u2018unprecedented\u2019 cyber attack CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFc0dzhYNTVrTGNsdjJ3Sm1kQkFfem9jYUNQd25teExwWWZHbmJSaTJna0ZRdkdKTENHMWVqOGJSNE44dWhMekxSREN3c0JSRXJXQjB2Y3BGSXo5MjQ5a2ZmQ1RoUHhmMDN4RXBLeFNuYnhBSHlXdl92TmxONzJvS1ozZVJuNFNtSUVUa1dR?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T11:02:03+00:00",
-      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
