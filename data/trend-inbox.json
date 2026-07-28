@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-28T06:39:20.993669+00:00",
+  "updated_at": "2026-07-28T09:46:49.082279+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Will Samsung and SK Hynix face a 1980s-style US trade crackdown? - KED Global",
+      "what_happened": "Will Samsung and SK Hynix face a 1980s-style US trade crackdown? KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GQy1yeUVmMTJzcU53ODkzVkxaZDFmR29wNFpzb0NrZndUN29LVmg1MHNUNm9Wdm1zYXQxVGdBRUhuRzdXaXFwMlFBWnp6STlzVm9SbHpxN1piYWl4SjY1NkRSRlIzcHB2cmdwMTB1NDI3UQ?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T09:43:24+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "AI sell-off intensifies as investors ditch chip stocks - The Guardian",
+      "what_happened": "AI sell-off intensifies as investors ditch chip stocks The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmVZT1owblRILUJnajMzUHdYa3Y3SmJwc0NrcFpJZXNTWkFSQlpjR191U1dkcHVha0lTUEpFa0stREtycWg5bmFMVTZERGN4R1ZSYkxKdzVWODBVcXFHX25TS3FpaVpZNlplaW9YTVh2Zm5jLVVrNy10RUNHcDJad05LU1FwNnV6WVNweTJVUi1WWEU?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T09:03:00+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "How to skip the $1,800 price tag and score a free Samsung Galaxy Z Fold 8 at AT&T - Mashable",
+      "what_happened": "How to skip the $1,800 price tag and score a free Samsung Galaxy Z Fold 8 at AT&T Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZW9XVWp5MTJvOGU0Tm1kV201eW9HZ1drVzNGRGxLWDZ2YkI0UzJWOS0zNGFOY0UyQ1NEd2hHVVV2aC1ybl9QU0lUenY5SG1nVTJiV1JFUFZSb1dzeTV2QWk0WU44NU4wUmlJWS1ZQUdPOTBZV3c?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T09:02:55+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Microsoft wants to use smaller AI models to fight cyber attacks and save money - India Today",
+      "what_happened": "Microsoft wants to use smaller AI models to fight cyber attacks and save money India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTy1XWFpUWnJCM1IzRHZMcF9DVUZZMU9EUnFDdkFER3dyNFZqZlVUMFV4MFducWlETWpwVVZYd0ROak81RnhKc0hhWU13R2ZiTnV6a01pYjdPRHZvSGRWemczaVJfUldIRVFlV3RaeU8tV3BYbWVJSU1ydktXWXFBd0tGN2wwSC1BV0RrXzZhUmpwdmZhQXZBTG9obHdFU2lYMWdBTk1TM0FxUjV3bDV6LVpEVThLNzhveDVWdDZRYjNYR3BQUnc0aUVkZTZCZC01T1FIQTFVVzdpNFc0YUFqRENXa9IB4wFBVV95cUxOTy1XWFpUWnJCM1IzRHZMcF9DVUZZMU9EUnFDdkFER3dyNFZqZlVUMFV4MFducWlETWpwVVZYd0ROak81RnhKc0hhWU13R2ZiTnV6a01pYjdPRHZvSGRWemczaVJfUldIRVFlV3RaeU8tV3BYbWVJSU1ydktXWXFBd0tGN2wwSC1BV0RrXzZhUmpwdmZhQXZBTG9obHdFU2lYMWdBTk1TM0FxUjV3bDV6LVpEVThLNzhveDVWdDZRYjNYR3BQUnc0aUVkZTZCZC01T1FIQTFVVzdpNFc0YUFqRENXaw?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T08:16:17+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "US chip design major Cadence bets big on India as local startups gain traction - Moneycontrol.com",
       "what_happened": "US chip design major Cadence bets big on India as local startups gain traction Moneycontrol.com",
@@ -21,17 +65,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T05:10:00+00:00",
       "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Will Samsung and SK Hynix face a 1980s-style US trade crackdown? - KED Global",
-      "what_happened": "Will Samsung and SK Hynix face a 1980s-style US trade crackdown? KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GQy1yeUVmMTJzcU53ODkzVkxaZDFmR29wNFpzb0NrZndUN29LVmg1MHNUNm9Wdm1zYXQxVGdBRUhuRzdXaXFwMlFBWnp6STlzVm9SbHpxN1piYWl4SjY1NkRSRlIzcHB2cmdwMTB1NDI3UQ?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T05:00:25+00:00",
-      "age_hours": 1.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -86,7 +119,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-27T22:08:13+00:00",
-      "age_hours": 8.5,
+      "age_hours": 11.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -152,7 +185,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-27T20:43:37+00:00",
-      "age_hours": 9.9,
+      "age_hours": 13.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -218,7 +251,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-27T18:00:00+00:00",
-      "age_hours": 12.7,
+      "age_hours": 15.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-27T16:27:22+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "GitHub Copilot app for Beginners: Getting started",
-      "what_happened": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-07-27T16:00:00+00:00",
-      "age_hours": 4.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "China\u2019s Moonshot to Release Breakthrough AI Model for Download - Bloomberg",
-      "what_happened": "China\u2019s Moonshot to Release Breakthrough AI Model for Download Bloomberg",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmtYSDI3eU9xMml4XzdCZV85a29MLXVtRjFsX2JOQ2hvTTJJMXZWQTd4ZjZiUlhNNDhnMTZMZVlmSEstSGNqcFA0TWtLTm90LTNsbEFDZHZNb1JobWRhVjg2N0FXLXBsWlFXZDVvcTJmcUdOLVdFWjF2SnNfQlRfV1pNZFRHQ2JkZHhRUVRjUmVNenBXVFl0czFSclBOeDAweVAzMVE1QlpwSTNQX0F5Vk5oRQ?oc=5",
-      "source_name": "Bloomberg",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T15:33:54+00:00",
-      "age_hours": 1.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research - TechCrunch",
-      "what_happened": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTEpWM0dmdzBOcXF0V09UNldRRlJyWFVJdXZFRmt5cFBuc0QweWhoMm1TR3hZU0ttNFBnUVdtN2h5WkNabHJmdmZxc3FhNVhXRS1mQ2txMVNjNHdYVTA5dE15SE1zeGdoMjJMWE5lTEN4cHRDWTBJZmtObUlYSUZFbEZKT3BVTUlab1BxVEFHV2NWVmJCcUlXRUR5c2UzdXItZW5rTV9YcllVODJsTlB1eVcyMjdiOVV2VWhB?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T15:01:50+00:00",
-      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
