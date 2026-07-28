@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-28T20:34:08.210017+00:00",
+  "updated_at": "2026-07-28T22:16:13.776444+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "FirstFT: Chip stocks sink as AI sell-off intensifies - Financial Times",
+      "what_happened": "FirstFT: Chip stocks sink as AI sell-off intensifies Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1Rjd2hXSktQX3UtLTJ2SjFlMkhoTkdKb21qQ2ZJTFFJX2JyY1VUWEE5ZWdwNUpvcHgzNU1kb2RweFA5T1J1WjZUUDhUWXB5N2Eyd0F5cXJDcnRnSDF6YW51dVV2VHF2YTA3dFVJTFluMlBGdWt0Qkg3WkNJQ0FqWTlySTM?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T21:52:18+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Teradyne Profit Soars on Semiconductor Testing Demand - WSJ",
+      "what_happened": "Teradyne Profit Soars on Semiconductor Testing Demand WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWloxT29JandrejgwdEFtZkJEeTA4eVdPal9nRklvbVRkSjR2c1pqeGJkMWdxV2V4REJ0bWNvZXQ1cVZ6VGJUaXBfTk1HMFVSYnlhWmpuTktPMnUycEl6OFo3R0N0YXRRVGxDLVBxWFp2YzBOcHVzMDVYWmE2RldfRVlWN1AwUGVDZnJfWlhKaGFCMnlpV3UzTzBUYmZaT2FWZGc?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T20:52:00+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea - TechCrunch",
+      "what_happened": "MCP startup Runlayer accuses Rippling of stealing its product idea TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1NJODVGb0toNHA1U2JaUF9tOHhOd3IwbWVtaXBVMkd3dU45VDBvSEVSTXRSV0RRU0xZdnJoN0RIdkRvTG96RDBwNUVLN0RZQzJaNXBNUWhfVWFmaFJYWDl4ZUhFaVpCMnpEcW5JMmZlQ3FueHFmREh5U29EclI2NFlHNFVuT1dadkpVSlJmMGNSRzhsZXBJQ2hSdUhWNy1kaFdr?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T20:45:12+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Investors Rotate Out of Chip Stocks - WSJ",
       "what_happened": "Investors Rotate Out of Chip Stocks WSJ",
@@ -31,7 +64,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-07-28T18:43:57+00:00",
-      "age_hours": 1.8,
+      "age_hours": 3.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +86,18 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-07-28T17:56:31+00:00",
-      "age_hours": 2.6,
+      "age_hours": 4.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "How to pre-order Samsung Galaxy Z Fold 8, Z Flip 8: See preorder deals - Mashable",
+      "what_happened": "How to pre-order Samsung Galaxy Z Fold 8, Z Flip 8: See preorder deals Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PSXF4NDdHOWFhWm5ZOWllYnVMS0Frdmg1WFlSUjE5aHF0NGFrOEFaaXJIaUxmVFpIajdMaU02VXN6bkNzS2FOVGdRZjNLdGhaX1U4NzExXzlHUTJNRkRSMnRWN3NFTUp3eFRtRFc2cWdRUDdiUHROSlM4R2ptZw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T17:46:19+00:00",
+      "age_hours": 4.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -75,7 +119,7 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-07-28T17:17:10+00:00",
-      "age_hours": 3.3,
+      "age_hours": 5.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -108,7 +152,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 4.6,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-27T22:08:13+00:00",
       "age_hours": 14.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "FirstFT: Chinese chip champion CXMT surges 466% in market debut - Financial Times",
-      "what_happened": "FirstFT: Chinese chip champion CXMT surges 466% in market debut Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPczhiTlVZYjMza2RPYzNFWThEdmI3M0Q0c2tLaTJoQ294dkpiWkh4Mm5rbmNtVGxWVzlRSGJfRUtmLXZQbGwwc3BwRlVNWnI1VzV6MUF3MVgwSDZnQTNuUGhISUNiUDBKTFNqeWF6MEdCOEE5ZnhIMExEbDRKVkxPZ0hKYk8?oc=5",
-      "source_name": "Financial Times",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T21:22:23+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia plans $250bn push to bolster OpenAI\u2019s infrastructure ambitions - Al Jazeera",
-      "what_happened": "Nvidia plans $250bn push to bolster OpenAI\u2019s infrastructure ambitions Al Jazeera",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONHBtbkJMQmdyblQ4Y2VTTURGQW54RzRiR3JRUEZVNzhpN3pfLVJveTR3a01WZGNkOVFYZGNHLXNwOUFWbDA4aHJ2cG16ZXB6dFNRQ0ZLUExFT1RlLUI1U19QQWxMM1hCdDlUTDVSTGdCV0QyaHQ3cnZBUEJkSzBxQkRKZFVxcG0xV2htSzBEVG1jem13RW1vOXhTRkNmcUZYX2FBMDJDOXpSbGdyalhFcNIBtgFBVV95cUxQc1QweFRsTzBsZGNNZU5OWUdGYjRIOVM2akNnWTdlVC1wQVBFT1Q1NWcxWC01ZXlHcE1lRHdEXzZBanNULV9WdFpyWE5jOFJNVWJ1cGdFdEVSd3RBUzBQQmZENTRHcDFHZ2tKdlpsRmc3RFBNU1cyVXN2cGFWZ3hmWTNoYm1mNFl2eGVrelVCenEtNFFCUFRSY1E2U3pDci1xcW5sc1VQX2tBblFWU2J5aTZyLU81UQ?oc=5",
-      "source_name": "Al Jazeera",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T21:11:35+00:00",
-      "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple ends day as world's most valuable company, passing Nvidia - CNBC",
-      "what_happened": "Apple ends day as world's most valuable company, passing Nvidia CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01cWI2eS1PTkp0QlphT2h1a2t6Y2hOZWJweHE0WHVRcng2SHRJZWdka0wyZVd4VVNWU3FuOVMtTENyZVZwR3pIcXluT1RBMHNXVmktT1RjcnZSaDhjMFBvOW9WanFkdWRPV3ZwVEduRVd0b3U2VDlTTDBxMNIBgAFBVV95cUxQd1prSjRSQnNHQnlXbFVBSHlfVDUyX2JRdkt5Q011NjI4TGo5dXI1bzVGLUhfRERPU290WGhfakZoUzlkdHFEbWNYTFo4clNEUk1ua1RzR1V6akV6d3lJYWQwdFhrRzBPdkZzbHdWZFBlaHAwOHV4Q3VnU09ZcFN1OA?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T21:10:17+00:00",
-      "age_hours": 2.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia Falls Behind Apple in Mixed Day for Stocks - WSJ",
-      "what_happened": "Nvidia Falls Behind Apple in Mixed Day for Stocks WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNV9BSDBZWF95N0lDdHVDYmtmWGZBYzE5XzBCb0ZjZWJOTkk2XzdaaDlBcUFRMWpUUHVoeVhZcWhuWklPRE9FSEJVTlpZbkFMSGxKVXJycTAtQ202enFQVE5WMEZqNXREOEY2Z21fQ3FuOWw1MmJQMkZ5a1NqOEJuYmZ4a1p4YXFRY1IwT213?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T21:05:27+00:00",
-      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
