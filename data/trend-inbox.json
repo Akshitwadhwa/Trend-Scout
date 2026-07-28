@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-28T16:49:53.638476+00:00",
+  "updated_at": "2026-07-28T18:44:07.286463+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Halo: Campaign Evolved Launches Today With DLSS - NVIDIA",
+      "what_happened": "Halo: Campaign Evolved Launches Today With DLSS NVIDIA",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjJKZS1fdWkzWXJndmsxTy0wN0NGcXZoUDZZaVdhaDVyNG5aNnFPbjFBNlhQOFZfTTZPQmFaTFBJZnVBVVhzT2FlTDFFSEpvRk11cXZpRGpnN3dLVlFCTTNlWVRuN2g0TUpmaDVYTzVPYm41Sk12WDctdTlPZEhSRzUyaGN6cjRUdmRCbklFRTUtUzlNa3ZmbUhMQURPYWc?oc=5",
+      "source_name": "NVIDIA",
+      "source_level": "primary",
+      "published_at": "2026-07-28T18:22:30+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Microsoft unveils its first cybersecurity AI model - CNBC",
+      "what_happened": "Microsoft unveils its first cybersecurity AI model CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOERtejdaRzF6cWNJYnp0R3A4cjFWTmxYVzNxU0NxTnhYQUxSSGlKQTBXaFY2emctX1Nqb0ZqNVd3WWYwYlZXeDZfQUFIR1hGS3BqNk1ndWJmdU84MS1LdlF6Ny1Ua3FTaHpPQ2JmZVJBZmpwTS1MTkpOTy1TX1dlZHBaT3ROQXpwMURpS3lhb1RTendJYkJtdw?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T17:56:31+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple becomes second ever $5tn company as investors flee AI stocks - The Guardian",
+      "what_happened": "Apple becomes second ever $5tn company as investors flee AI stocks The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4RjFTQ043c1NtcWJjM1huOXBSUGlfQ25kWmpKamRfMlpZbkQ0TXdQVldidEQ4WUU2Sml0dGlaTDFPeHRRN1Rf?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T17:52:00+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "The OpenAI hack was a cybersecurity warning shot - Axios",
+      "what_happened": "The OpenAI hack was a cybersecurity warning shot Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kYjdET29tOFIybC1nRjlzRU1rM0FQWUZ1SmI1QnJMTk05TWEzTWw1cHJKT1VIb0YyclhzYmdFaXUtN2RzdFBCVnFNSFJlal9fMEh3WVIyc1gtakRqUGNvUWd1SGxJWElRNzRhbVk2NWRBTWNDdFRrLXcwcnV4bmM?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T17:46:02+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Discovering cryptographic weaknesses with Claude - Anthropic",
+      "what_happened": "Discovering cryptographic weaknesses with Claude Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
+      "source_name": "Anthropic",
+      "source_level": "primary",
+      "published_at": "2026-07-28T17:17:10+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Investors ditch chip stocks as fears of AI bubble grow - BBC",
       "what_happened": "Investors ditch chip stocks as fears of AI bubble grow BBC",
@@ -31,7 +86,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 0.8,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -276,61 +331,6 @@
       "age_hours": 15.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Cadence raises annual forecasts as demand booms for AI chip design - Reuters",
-      "what_happened": "Cadence raises annual forecasts as demand booms for AI chip design Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZEw5TFphTEV5OHVidlJkNzRwS1c3WDgzMmU2Ql93X3plWmc4dVl6ZEJwSy1kMnBqc1NuRm5Ib0RqcFp5OVctX2VHcV8xWjdvWU5YVnB6THJlRnRMS3l5TnhUUzFRLVVpT2JUUGdHa2dhWDVlelhkSVpjdTh4ck1TUXBXeGxwN3RMd19pZVV1YWNTZm9CamMyUFRwaEdFcjNIRXZkWnVRUTNacU0zcUp3THducUpTWk1vZmNrdQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T20:36:00+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple dethrones Nvidia as the world's most valuable company - Business Insider",
-      "what_happened": "Apple dethrones Nvidia as the world's most valuable company Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWxxY1poVlY3SGZRV0lBTGZIQ3BhYkVibnFMVG9TLTBERkJ5NFd0RnpqY1RpTExNMmZBS2I0RUgxMmxUVVNHRXZ1aXpfRzZIbGZCcWpicmV6cjVQX0FOc1o5a2FEZ0RMV3hEMFhxNFI5UUVyU2hleEdyVFhBY1M3R0E1anc3OC1kQVBpSlV2NElTNGJ6eVA0a2JuUmVvUHE1QVBocEt3?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T20:26:15+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off - Mashable",
-      "what_happened": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZWTlI2RlZrR29JTGRZRGJVNmFaM0lTUzlRdVVYeEVEMHNMMmIycnZzSEw3THJhX000bjBvQVFqU1AxN3FQaEJCMzlScmdINzgyZWFYTm1QYXVwTWRXRWJaeWtwX0I1R3paWTlQLVVBQVZuZ1Z3RFdMaWJadXZ2YnZR?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T20:04:34+00:00",
-      "age_hours": 3.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic \u2014 open-weight model performs almost as well as frontier models while being 2-3x easier to run - Tom's Hardware",
-      "what_happened": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic \u2014 open-weight model performs almost as well as frontier models while being 2-3x easier to run Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQUXpwUEpYUTc0OHFCYVpwa182MWt5VFp1WTZfaVhGM2hnT1ctYTNuUDlYc2xqMGRmeElNRHJkWjBTNUNWUEQyR3l4WmN5dFc5ZjRSay03T2xVbDlGd1BDLVFCcUw1YUlWc3B1bE1TaGVxWnAxYUt6dXdlNGdaNkMxUnJmYzExdzBKbml5RElIcFlyQ29KOVVEdjcwYTRsakVBLTZ4c3oxdlZ6OWNieUt1ZExYekV1c2phWEk5SEpUWWVXekl0Q2ZwMGl2WTRfVkplSEx4YzFoZmlSemdHWFZ6bk9xNHhhTVVUd0hzQXRqeUM4cDFOQmZfSEd0NVduLVFiek5yVlJyVzN3SzQ2Z3B6eUR3UU9YbHFuQ2k4dDY1RDBoUTlzVHNWbjNmMkZ1UjBiUjlERWtpd3phN3NlUnFIME53Q1JzYW1CUU5FWDI5OW5OTnF2NFJJNHhFQkdHR0tmSGtrT1UtV01oMlcy?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T18:40:58+00:00",
-      "age_hours": 4.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system - TechCrunch",
-      "what_happened": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTlyZDZEcHZxSUhHc01jdjkyemw4RWVSeUgwZGgzN3pXUER1VEo1eWJaN2tORUtSb3NfbDdxdFdRZm1CN1VjZG5IZEJnUFNZbG9jQUlScjhQTkQ5UVM5aThka0FzQ3EwQVNldm5RY3I1c1lORXgxVlR3NEJmM0ZmcGNDV2FGTFNvT2d0V1RhTHFMRGpsRFZENEFkVnhTdXZZVUhFZ0ZEc3Bvbllsc0lfQjlFMS0?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T18:32:11+00:00",
-      "age_hours": 4.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
