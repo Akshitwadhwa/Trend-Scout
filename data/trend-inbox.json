@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-28T18:44:07.286463+00:00",
+  "updated_at": "2026-07-28T20:34:08.210017+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Investors Rotate Out of Chip Stocks - WSJ",
+      "what_happened": "Investors Rotate Out of Chip Stocks WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWTlHR1RtRk5GdmJiejZ6ZmVHQml4OEh4Z0hGX2xfMFVydmdzSGk2c3Y1dXhqMkRrVjV3Ny1EVGJkMlhPbTh1Mnh5dkk5VGJlc0FHMkkySkt5dkp3OFY3LWxmVmY0ZEF1b3oycVpUeEJmX2ZIbEh6SnQ5UjFobVJKNl9KLTZhUQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T20:21:00+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple becomes second ever $5tn company as investors flee AI stocks - The Guardian",
+      "what_happened": "Apple becomes second ever $5tn company as investors flee AI stocks The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4RjFTQ043c1NtcWJjM1huOXBSUGlfQ25kWmpKamRfMlpZbkQ0TXdQVldidEQ4WUU2Sml0dGlaTDFPeHRRN1Rf?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T19:57:00+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments - The Verge",
+      "what_happened": "Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODdSaFJULU9INFRGb25rZ0ZYNVZ0VU5kbktHYnBwLS12alI2R1psNVNqOVVCM25sbDlsZkQ5NlVhNF80a2stb3BnT0RwSkd6cEFhdDExQ0VJSDFNOW15Q0ZVaFU4cTlRN1JHZ2hVSU83cXdzMTFQSXZnYXZiMnllMlBzUQ?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T18:43:57+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Halo: Campaign Evolved Launches Today With DLSS - NVIDIA",
       "what_happened": "Halo: Campaign Evolved Launches Today With DLSS NVIDIA",
@@ -20,18 +53,7 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-07-28T17:56:31+00:00",
-      "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple becomes second ever $5tn company as investors flee AI stocks - The Guardian",
-      "what_happened": "Apple becomes second ever $5tn company as investors flee AI stocks The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4RjFTQ043c1NtcWJjM1huOXBSUGlfQ25kWmpKamRfMlpZbkQ0TXdQVldidEQ4WUU2Sml0dGlaTDFPeHRRN1Rf?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T17:52:00+00:00",
-      "age_hours": 0.9,
+      "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +64,7 @@
       "source_name": "Axios",
       "source_level": "reputable",
       "published_at": "2026-07-28T17:46:02+00:00",
-      "age_hours": 1.0,
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +75,7 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-07-28T17:17:10+00:00",
-      "age_hours": 1.4,
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -86,7 +108,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 2.7,
+      "age_hours": 4.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -309,28 +331,6 @@
       "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI hacking incident is \u2018warning shot\u2019 on cyber security, Microsoft\u2019s AI chief warns - Financial Times",
-      "what_happened": "OpenAI hacking incident is \u2018warning shot\u2019 on cyber security, Microsoft\u2019s AI chief warns Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlhIRzlNaExQQTdlTFlKZlBlSk5iTkZydEp4MmhqX3lyODA4TThheGJGbEZNSThCVzFHdWF3cUxPUnhXbE9ZVUNFRVZXT2xkV0RrNTdScFktaVpyS3NMYkcyUDB2SVVqTEpEMk0tRDZiUzM1RERlMFA1elJsamZQaThINWc?oc=5",
-      "source_name": "Financial Times",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T20:44:09+00:00",
-      "age_hours": 6.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Manage GitHub Copilot app access with a dedicated policy - The GitHub Blog",
-      "what_happened": "Manage GitHub Copilot app access with a dedicated policy The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLXc1cVZPa3o2blM0UGFvYm4xZ21sTVVieklMcFdOSzB1WUVBakY1bXpCckVpNjJTTkw0VlRJbXJxNkRKbGIxUUNrTlFmYjhiWXZWWEVuZlJvV1lyVU9VUmJMM0RNcFI2X1IzNlRFcTZ4ZWpJQWJ4X0Rpa1NXVEhGNTZIUjBJaGRFRzJ0U2s4c3l6SVhCYzhjLXVqaXRJTW8?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-07-27T20:43:37+00:00",
-      "age_hours": 15.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
