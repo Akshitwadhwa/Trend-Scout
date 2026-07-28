@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-28T12:12:17.111225+00:00",
+  "updated_at": "2026-07-28T14:35:47.799525+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Is training an AI model \u2018public interest\u2019? Delhi HC verdict goes to heart of copyright debate - The Indian Express",
+      "what_happened": "Is training an AI model \u2018public interest\u2019? Delhi HC verdict goes to heart of copyright debate The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkJhbnF1LVdmQ0VqR3RUanZFSGEwaXlXaElCMUtTSmdUYlZkYVE5MDdxZXh2S0JHdURXYUhFeHhCYTh4bnFQQU5DZWNSc0VPanprWVI3bnpaREt5SHozdFpaWGMyTG5rdGJCNXVQNzgxa2w4cC1EZmczdlJmUWpucC01T1JqVDJGSmpLVXZhZnBXVkJZVUNid3FVdHZmVlJ2NzNCd3hmaFhUQzFjWThZTUlkOVpEOXpFdlHSAcABQVVfeXFMTUdGOUYtcnJhNXd1SUo4REJ1cEluRzVFaXNEV2s3U2luNGtuakFPODYtZWtlWUpFUk1VWnprRFlRQ29nU2pnbEp4b3I1SkdSTDBEYzZBNmhzNFpnbnRneVhkd19UVHQwVlBQY2xUdmJ2eTRqYnlLZHRXWGRwQk82OFBGS3FNY3pUTDFULWFwSkgwX1FKUHpHZzFqMWs3RWUya1dmNkRLR09ocm9LWFpObXN1N25RTlJBWE5wZWdsSnVq?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T13:00:34+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Granola launches an Apple Watch app - TechCrunch",
+      "what_happened": "Granola launches an Apple Watch app TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zSzZ2NlZKem9EWk55WTQzcWR1bk9URzd2Q2E4R1hGMkJ4elhYM3hwUFBsMzBLTy1HbEZFVUV5b2lWWjlYU2VIaTNWSXU1UmFXS1VPWkFCMF9XZmUxVXF4QXV1dGVrMW5JU0s4cm1IRHBXZ3VzNVE5bDZ3?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T13:00:00+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "AMD signs AI data center deal with Core Scientific - Reuters",
       "what_happened": "AMD signs AI data center deal with Core Scientific Reuters",
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-27T17:28:05+00:00",
       "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Why This Time Is Different for SK Hynix and Memory Chips - Bloomberg",
-      "what_happened": "Why This Time Is Different for SK Hynix and Memory Chips Bloomberg",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUjlkVnA5TlloQ3hpSVdZbFdZQnl3YUNOYkhTMGpYRjR0NWtzSWJzQjM1SEs2bEo5ZG1Md05hQWVNMEoxLWt3dTBLWXFWUDVtejllYnUzQzN5azdfQ2VfSDZUMDJmQ0tvRzFSZnJRNDY3djRZUG9BcFhVZVRvN08xVHJpMXdwUU1lNUhISjVwRG80a0Y3OXF5S0ZJbllGYjV3RnJINzZUN1ZWQWdFVzdrSTFieVdrc0hxcEdkWFd5VWJpQQ?oc=5",
-      "source_name": "Bloomberg",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T17:02:18+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI\u2019s High-Stakes, High-Touch Push to Make AI Work for Business - WSJ",
-      "what_happened": "OpenAI\u2019s High-Stakes, High-Touch Push to Make AI Work for Business WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWttaUNncEVSalJpeGlsRGF0MXhWNmZCN19ONjkxNXZ2QjN5MU82TkkzYTB5Tm1ranRRRnhYLXNGaUJYV0ZIeHUwZjgzZFFENHhkTzluYTY1M0RTNHdOeV96SVlwUy1lS2dxemM0ZkZ2dlptY05BWUgyUTdyQ3hvMUl5Um4wYmJjVG9wS1RieHNXeXMybXZUbFBQNVpzc253U29tbnUxMDU?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T16:48:50+00:00",
-      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
