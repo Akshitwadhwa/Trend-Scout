@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-28T14:35:47.799525+00:00",
+  "updated_at": "2026-07-28T16:49:53.638476+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Investors ditch chip stocks as fears of AI bubble grow - BBC",
+      "what_happened": "Investors ditch chip stocks as fears of AI bubble grow BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RU2p5eEk2STAxdjg3Szl0V2thbnhhd05ONXZzR0xmemZHOU9LNUdmdnVFa1dNX3k4UVR2WDRxaXZVU0drZnV6V2VocTBZUmdBTFVHckZ0bmI?oc=5",
+      "source_name": "BBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T16:43:01+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Wall Street climbs as oil decline outweighs chip rout - Moneycontrol.com",
+      "what_happened": "Wall Street climbs as oil decline outweighs chip rout Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlYybGtQRXQ3X25RRUxybXg0MjBFRjdzY3RnQ3hNSVFhS0QxWVdEYjY2djlSNHU5V0VJcDV5UHc1aTlndk1xTUMyQXRIaHhZR2VhTDM0UXhpeGdTR1pWTWtrdW1SMnFzZEMyUlhsUW9mQWpYU0ZteVhERldfNnlkZUhMbFFlR0xheExsc19XMHlLc2Nrb1lJUm10SWR3RG1rSVJxOWVCTmpDb3lhRTQydVRJblZteGNZWGfSAb8BQVVfeXFMT2FGaHBRV0FGUmlYcWl5RG8td3NhdjEwZlVLd0psejlJNmZnb2ttdmxEaWxhSFN1dDNXRGpxUWRMTm5iVVc0aEU3WWt5M2VJcXA0RDV5eERZTmJDQVZYdUJrVWc1bENjenhjdmV0YXV1ZTItTzZ0cTRhTEFfdWdkN19ZS0NWd050bzdMZnNEd2NJTVk0YVlXc0pWRTBRWktfbUE3MWd2Z1czLThJamVDUW9lbklaMkdKM3ROQUNtZGc?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T16:40:35+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+      "what_happened": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-07-28T16:00:00+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Anthropic\u2019s Claude Code Reigns Despite Rising Interest in Codex, Open-Source Models - The Information",
+      "what_happened": "Anthropic\u2019s Claude Code Reigns Despite Rising Interest in Codex, Open-Source Models The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnMyMUZTeWhKa1pYUFAtNFBJVWVQdEpXZEl5MnhMM2pMTlpPdG9kQkRLck1nODFuaDRoMFJNQnBQRkszd3JJdUYwc1BXbUg3ekVvMHZ5STlZNHZEd3dRV294WlBRWm1IXzFHOUZoMmVZOTROWkx5d0UtNkdOWTNoRU9xTzJla0h2Q2I5Z09LTVo4NjNLTGg3TjNhUlJvNWNDeEI1R0gwYzhSVzF6RUVnM0kxVTBfTTQ1ZWc?oc=5",
+      "source_name": "The Information",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T15:00:00+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
+      "what_happened": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2NzVEU5THRFZ3EzNVVuaGY4d1RrSUtldW1SM2pWN3hjWjM1cF9nSXUyZThsazlDa2x0Y014Z05DN29lZjA2YS1LdUpBV1k1cXpqdmV0OHVoVEg5T3QwMkhzMFUxX2VNOC1fd0JxT2daUy11Ti1WNnFtc3QteC1jcVhFcUpLWGdXUXc4a1pqU3JvczRENmE5ZTVLWWFqUjN3YTR4dmUxNmk5eGlUMjhOYUh1cnYtLWpFS1hjUE5ZOFJ5QkZId00yZ1JsVzJuWEJsYkRv?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T14:30:36+00:00",
+      "age_hours": 2.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Is training an AI model \u2018public interest\u2019? Delhi HC verdict goes to heart of copyright debate - The Indian Express",
       "what_happened": "Is training an AI model \u2018public interest\u2019? Delhi HC verdict goes to heart of copyright debate The Indian Express",
@@ -43,17 +98,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T11:27:20+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
-      "what_happened": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2NzVEU5THRFZ3EzNVVuaGY4d1RrSUtldW1SM2pWN3hjWjM1cF9nSXUyZThsazlDa2x0Y014Z05DN29lZjA2YS1LdUpBV1k1cXpqdmV0OHVoVEg5T3QwMkhzMFUxX2VNOC1fd0JxT2daUy11Ti1WNnFtc3QteC1jcVhFcUpLWGdXUXc4a1pqU3JvczRENmE5ZTVLWWFqUjN3YTR4dmUxNmk5eGlUMjhOYUh1cnYtLWpFS1hjUE5ZOFJ5QkZId00yZ1JsVzJuWEJsYkRv?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T10:39:24+00:00",
-      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-27T18:32:11+00:00",
       "age_hours": 4.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "The harness is all you need (mostly)",
-      "what_happened": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-07-27T18:00:00+00:00",
-      "age_hours": 18.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says - Reuters",
-      "what_happened": "Nvidia to invest $5 billion in Ilya Sutskever's AI startup, source says Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWtDYjVuY2NJcTIzMDJaa0hYZy1vaGthWFp5Zm9FNXdwMUU0cmxRNk1HTWhGelZqVjRpY0RvbkoyRHMwaGg4cnM4RENaZE9ob0IwdEpXMEw5SWwyM2VOcE1LUGUwRjlWU2x3eEVkRVA1b3VwVEhiZjdRelBEYlEtanZjZmN5ckRFQWxQVFZHOVFSOEJ2WXJQbWhsSHBIdVgyX0VvcXRtUmcwUFJvVFNaSWQ5MzBxWU4tUmc?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T17:54:25+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control - TechCrunch",
-      "what_happened": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenlaTmRiRFU0WkFNdGN0dE9FeWN6SlVQNHliSmNVZWZXMUctRUJ3alU2SlMzN0MzVF83OGZ2VXJ1c3UtZ0xIVHIzN1cxekU2T1phYUMxZGEzamszRzRmX2tOZzFGWkVVMno5VFlyMFdTVnNFbWlTb3dBR2VaVkFuR0VRc3l1b1BmVFFsb3lDWTY2YXJyRVRzNFhaZlhDQ2UzTFNrMzZ6UUlmWTBfMklUODRFdTE?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T17:28:42+00:00",
-      "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple AI glasses are set for 2027 debut, report claims - Mashable",
-      "what_happened": "Apple AI glasses are set for 2027 debut, report claims Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wRjB5S1JQaEtJUDlldm5MZUlrUXltZ2RfeFhvZ0ZNalFTVXg2dUxvdC1aVHVidlZyY0FLd2N1UzBJZktad3JNcFBaWmtnU3Z6Uld1RmxEb3JBanRRTnhGOVp3?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T17:28:05+00:00",
-      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
