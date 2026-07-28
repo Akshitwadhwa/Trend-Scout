@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T22:16:13.776444+00:00",
+  "updated_at": "2026-07-28T23:16:54.224344+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Financial Times",
       "source_level": "reputable",
       "published_at": "2026-07-28T21:52:18+00:00",
-      "age_hours": 0.4,
+      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +64,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-07-28T18:43:57+00:00",
-      "age_hours": 3.5,
+      "age_hours": 4.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +97,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-28T17:46:19+00:00",
-      "age_hours": 4.5,
+      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -152,7 +152,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 6.3,
+      "age_hours": 7.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
