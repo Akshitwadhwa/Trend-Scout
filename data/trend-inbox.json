@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-29T12:19:37.014396+00:00",
+  "updated_at": "2026-07-29T15:18:42.132085+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Intel\u2019s U.S. Advanced Packaging Enables Next-Generation AI Semiconductors",
+      "what_happened": "As AI demands unprecedented \"brain power,\" the semiconductor industry is moving past the era of relying on single, massive chips. Advanced packaging is the essential craft of interconnecting multiple specialized chips together. This allows them to function as a single, powerful unit that runs faster handling the massive workloads of the future.Intel\u2019s been doing advanced \u2026 The post Intel\u2019s U.S. Advanced Packaging Ena",
+      "source_url": "https://newsroom.intel.com/intel-foundry/intels-us-advanced-packaging-enables-next-generation-ai-semiconductors",
+      "source_name": "newsroom.intel.com",
+      "source_level": "primary",
+      "published_at": "2026-07-29T15:00:03+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "How are AI models able to autonomously hack others? - Al Jazeera",
+      "what_happened": "How are AI models able to autonomously hack others? Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU09BWnhmMktRRlBFR2gtNTFGVWRDSmhSOXc2b25VWkF5RFNMZnk5Q2VoVmcySGp0a0M5WGpiZm11cTlrcGttYVJYV1BLZTBvaklMYzlvZFdhdEJ3STMzOVBITHc2U0ctZ20tY1BINlY3bHdFUzlPUTVzb1pUZGFJRy12VWlxU2F5MkZ0QW1JZEFKV09iTFHSAZsBQVVfeXFMUEc0S1ZLNVdQZmp5LW5uQU1scFIySUItRUY1MVAzU2JiWVZ5dE13YjM1ZnJIQUh0bjAxdWx1bEdhM3NQSVBjVm1yQnVRR0hSWTVXUnFseGtlblN5SGNhNU1yVHhJRk9sdHlWQ1p3R3BMX3hZLXhuVFVHcWlHdGNFWVZLdzZERVNOamRBbVJsMjczeTZaaU9pU1I1RHc?oc=5",
+      "source_name": "Al Jazeera",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T13:29:46+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms - The Guardian",
+      "what_happened": "Rogue OpenAI agent that hacked startup tried to attack other firms The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHUyRzFkQktHQWpzTURFT0tldXRZcDljOG9JN2gtOWstVlEwdEtieV8wTHZJZU16aW12Qk9oV282MGFCa1NFUWN0d2twNTFXZnd2V0NNNmwyOUhTRU0wWVE5VG1OLVRSTFU2U09QLVliUTJYMlhGUjdRRXUtVWJhc0l0enVVNks1T01WTGlKWjlBM3FIUUhza1UtYnoyRVd2Yl9PTlozZE9aODlKNUY5THlaUFRRbm1S?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T12:59:00+00:00",
+      "age_hours": 2.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more - CNBC",
       "what_happened": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more CNBC",
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T16:40:35+00:00",
       "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-      "what_happened": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 17.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Anthropic\u2019s Claude Code Reigns Despite Rising Interest in Codex, Open-Source Models - The Information",
-      "what_happened": "Anthropic\u2019s Claude Code Reigns Despite Rising Interest in Codex, Open-Source Models The Information",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUnMyMUZTeWhKa1pYUFAtNFBJVWVQdEpXZEl5MnhMM2pMTlpPdG9kQkRLck1nODFuaDRoMFJNQnBQRkszd3JJdUYwc1BXbUg3ekVvMHZ5STlZNHZEd3dRV294WlBRWm1IXzFHOUZoMmVZOTROWkx5d0UtNkdOWTNoRU9xTzJla0h2Q2I5Z09LTVo4NjNLTGg3TjNhUlJvNWNDeEI1R0gwYzhSVzF6RUVnM0kxVTBfTTQ1ZWc?oc=5",
-      "source_name": "The Information",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T15:00:00+00:00",
-      "age_hours": 1.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports - Reuters",
-      "what_happened": "Amazon winds down most flagship AI models in strategy overhaul, Business Insider reports Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2NzVEU5THRFZ3EzNVVuaGY4d1RrSUtldW1SM2pWN3hjWjM1cF9nSXUyZThsazlDa2x0Y014Z05DN29lZjA2YS1LdUpBV1k1cXpqdmV0OHVoVEg5T3QwMkhzMFUxX2VNOC1fd0JxT2daUy11Ti1WNnFtc3QteC1jcVhFcUpLWGdXUXc4a1pqU3JvczRENmE5ZTVLWWFqUjN3YTR4dmUxNmk5eGlUMjhOYUh1cnYtLWpFS1hjUE5ZOFJ5QkZId00yZ1JsVzJuWEJsYkRv?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T14:30:36+00:00",
-      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
