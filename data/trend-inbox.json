@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-29T22:11:58.634894+00:00",
+  "updated_at": "2026-07-29T23:12:50.816110+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark - OpenAI",
+      "what_happened": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwcE5jLW96SjBBYTNYYnFQcnM1OFFCYWR5N0R0LVBza3N5WE42YUNfV0NiQTVOZmc4Vl9ZMUdneWNoTVZfOGphbmJlS044Mmw3cWtzVDRKdnhyTWNIYVVoYXJSX3h6cnNVZ1QtUXQxOFBfYnRXcHN0ZExVaw?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-29T22:59:55+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "EXCLUSIVE: Intel providing chip technology to startup led by co-investor of Tan in rare deal - Reuters",
+      "what_happened": "EXCLUSIVE: Intel providing chip technology to startup led by co-investor of Tan in rare deal Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkViaXFBc0t6VzZ6bXIxY25HbmFFSW9HV0F0dUxBcXlhSWxnbjRxOWhuazhGSWlvUEJHTWhITkJGeFV3em9DOTZoQS1FRE5CbEdNZ0R5SVJJMndWaVhoRUZCM3l2OE1yV3VFd0tWSzE3Nkd6MXNiMGg0NXlXLUVXbTE3a0o1eDA5bzBtN0w4ejBzRWVya2xMN0ZzaVJkMDFwdzRkRTBpU0dsWjBETExHNlRrS08?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T22:57:43+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls - Reuters",
+      "what_happened": "OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejhjek5UdU8zQTFoVHhhUHQ5QVBISGpCenZVVlA4RUw5R2FkZUpCYXJNNnBDV0x1ZUhNaW8wdVRDcnpDc2lYNWNmOGF4a3NTbmZ1aFNNbHI0OE1vQ0pud0haNFZsSjhOaVVCOS01UHZrSEo3OHB3U1ZqQUtaRkphNkhFbnBpZUVxaE50ZXZBcmV4M0ZGbzlWVE93NElKc3gzWHI0MG1NQndMYWM5MlBQTGRTODZMN24wU0pmQ2dRSFRTZw?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T21:39:45+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results - NVIDIA Newsroom",
       "what_happened": "NVIDIA Sets Conference Call for Second-Quarter Financial Results NVIDIA Newsroom",
@@ -20,7 +53,18 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-07-29T20:00:00+00:00",
-      "age_hours": 2.2,
+      "age_hours": 3.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung offers smart glasses update after Galaxy Glasses reveal - Mashable",
+      "what_happened": "Samsung offers smart glasses update after Galaxy Glasses reveal Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGMDZvbmo2cTJPQkhsbFRnSDVzZnZ5RnZjS3pHRUhQeW1UeTlFS1Z3c0pSVEoxM3VuWHlKVjdOLW0zNkNUeUhBa0VKTHNjdHQ1Nm5iQko0OHZWOHZ4Rnd5d3Q4LWY0c2VFQndDNlZTRnVlNDFqM0xR?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T19:57:50+00:00",
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +97,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-07-29T18:40:06+00:00",
-      "age_hours": 2.5,
+      "age_hours": 4.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +141,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-29T16:00:00+00:00",
-      "age_hours": 6.2,
+      "age_hours": 7.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T21:52:18+00:00",
       "age_hours": 1.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Teradyne Profit Soars on Semiconductor Testing Demand - WSJ",
-      "what_happened": "Teradyne Profit Soars on Semiconductor Testing Demand WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWloxT29JandrejgwdEFtZkJEeTA4eVdPal9nRklvbVRkSjR2c1pqeGJkMWdxV2V4REJ0bWNvZXQ1cVZ6VGJUaXBfTk1HMFVSYnlhWmpuTktPMnUycEl6OFo3R0N0YXRRVGxDLVBxWFp2YzBOcHVzMDVYWmE2RldfRVlWN1AwUGVDZnJfWlhKaGFCMnlpV3UzTzBUYmZaT2FWZGc?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T20:52:00+00:00",
-      "age_hours": 1.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea - TechCrunch",
-      "what_happened": "MCP startup Runlayer accuses Rippling of stealing its product idea TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1NJODVGb0toNHA1U2JaUF9tOHhOd3IwbWVtaXBVMkd3dU45VDBvSEVSTXRSV0RRU0xZdnJoN0RIdkRvTG96RDBwNUVLN0RZQzJaNXBNUWhfVWFmaFJYWDl4ZUhFaVpCMnpEcW5JMmZlQ3FueHFmREh5U29EclI2NFlHNFVuT1dadkpVSlJmMGNSRzhsZXBJQ2hSdUhWNy1kaFdr?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T20:45:12+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Investors Rotate Out of Chip Stocks - WSJ",
-      "what_happened": "Investors Rotate Out of Chip Stocks WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWTlHR1RtRk5GdmJiejZ6ZmVHQml4OEh4Z0hGX2xfMFVydmdzSGk2c3Y1dXhqMkRrVjV3Ny1EVGJkMlhPbTh1Mnh5dkk5VGJlc0FHMkkySkt5dkp3OFY3LWxmVmY0ZEF1b3oycVpUeEJmX2ZIbEh6SnQ5UjFobVJKNl9KLTZhUQ?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T20:21:00+00:00",
-      "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple becomes second ever $5tn company as investors flee AI stocks - The Guardian",
-      "what_happened": "Apple becomes second ever $5tn company as investors flee AI stocks The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeGVTWHZOYUxkR0pWNUNYX1pjUHZFT2xzSFF4bFREaW8zdjFhNkhUTDZWbmZFOUpORVlUM3Fxd2hYaDRVQ1RXWTJoWDUyZWVfMkVQZ0V5ci1BUlFmbVdsTDdOekplWjd3YmhzYkg4RjFTQ043c1NtcWJjM1huOXBSUGlfQ25kWmpKamRfMlpZbkQ0TXdQVldidEQ4WUU2Sml0dGlaTDFPeHRRN1Rf?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T19:57:00+00:00",
-      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
