@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-29T03:36:37.861290+00:00",
+  "updated_at": "2026-07-29T06:43:51.960943+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Chinese AI chipmaker Cambricon aims for US$14b revenue over 3 years - South China Morning Post",
+      "what_happened": "Chinese AI chipmaker Cambricon aims for US$14b revenue over 3 years South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjAzTk11b2ZYV2lNNXhGb1I4eVVBeUJMa2MtVmZlNUZYSGdQcG5RN3lEWVN5V1llSW1xSEUycFdObVRsRE1tS0Eyd0FfeUN5WVlYMjJxY2NYSWZiQ1Z0bjktRUJLY29pZnpqR3FvZ1VKX0FzdDctQmNObG45QVhrdFV3UmhGQkUzVF9CRUJJRVVEZ0VaTVhHTUZUV1VRTlN3UE5FYXpLZzhPLUN2NVhDekdidmFMQ0x1d0RQUUhTajR0d9IBwgFBVV95cUxQVmRtSDBGTjFPVWtKcUxGM3ZjZXZmNTZMRHQ4MHZCN0xnSU9YVTBEXzNLSzZwcWdSTC1NalRuZm5YeXBHTG5meXJHdmIzOXlVSmF2cXlTd3FNMWNsWHhQbVRWUXlORXR5eGE3ZlhybDg2VHg0aXFla2NrcTRqNHhjT1NmOTI2UzFLYkdSREFiRTZJOW5WQTNkQ3V2dFY0dGhBNFAyYUlPZ1ZOSkhXVnh6MEZHdDcyc01FSDdwdTZSXzFGUQ?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T06:21:19+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "China chip substitution accelerates as chill effect looms - digitimes",
       "what_happened": "China chip substitution accelerates as chill effect looms digitimes",
@@ -240,7 +251,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 11.6,
+      "age_hours": 14.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -317,17 +328,6 @@
       "source_name": "The Guardian",
       "source_level": "reputable",
       "published_at": "2026-07-28T09:03:00+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How to skip the $1,800 price tag and score a free Samsung Galaxy Z Fold 8 at AT&T - Mashable",
-      "what_happened": "How to skip the $1,800 price tag and score a free Samsung Galaxy Z Fold 8 at AT&T Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZW9XVWp5MTJvOGU0Tm1kV201eW9HZ1drVzNGRGxLWDZ2YkI0UzJWOS0zNGFOY0UyQ1NEd2hHVVV2aC1ybl9QU0lUenY5SG1nVTJiV1JFUFZSb1dzeTV2QWk0WU44NU4wUmlJWS1ZQUdPOTBZV3c?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T09:02:55+00:00",
       "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
