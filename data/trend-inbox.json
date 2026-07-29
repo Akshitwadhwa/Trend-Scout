@@ -1,7 +1,73 @@
 {
-  "updated_at": "2026-07-29T00:10:58.893745+00:00",
+  "updated_at": "2026-07-29T03:36:37.861290+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "China chip substitution accelerates as chill effect looms - digitimes",
+      "what_happened": "China chip substitution accelerates as chill effect looms digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0lfS0luSnhrN3NUc3BFblJEZFJNSTluNTl6cFRVQnctUzQxNzBJeGNFNjBlSVVUS2lWaDJyMnNjSHZTQll6UkhrNUl1anYwZkowcDNvVGc2Vi1HTXlwQVBRLXJDMWFodjdwOTR1UUE1TzMzYW93SlNDVkhxbUdyMlNSOWgwUjBDQnR6NVQ0ZTZqS3ZUTFI4?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T03:00:10+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility - Korea JoongAng Daily",
+      "what_happened": "Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T02:54:02+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple touches landmark $5 trillion valuation, second only to Nvidia - India Today",
+      "what_happened": "Apple touches landmark $5 trillion valuation, second only to Nvidia India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV1FxSHZDaGRHTDZvR1M2cWwyVzk5Z1hPcEVGNWFKTndwRWRva2pPV3VvMlJMYTFjS0padVFGeGk0UERHUVc0SVlubl9RMEV4aFpGVXdhdUV4N3Z1alVldjM3WC1RTURkR0RySWR0NHJnRl84dEpibVZEWHhTeFV4Z3g5WG1lcTIza3B6NGRralFfb3d2aTlxZFUtYlVYZkRpN1ZPQWdWQVYxUFJZX2QtRzdmM0xjQjhTX0lWeGtWU3BLZ2hxS2RZSlY3WEFxMEk2Uk8tRzFQaDlzQldzbkVFMDdadVhSR09aaFRDV1pjVF9OUkh4UWY5RGhQZ0E5VGltdjVN0gGIAkFVX3lxTE1JRWVqQ1NobkZVdlptYTI4c1dHR3BIb1JqamFXVUlxc1hNWS1iNVV2aEhDUXprVEF1UFlwOEg5ZVNmVHVLamU3TlhaYUtlX2lKMzZqdW1rZ1p4TnQ4a0JsaUlGOUVjN3JGV0VJMDhLdWpSNTdBRF9yUGRia0FtTEltNzVvQS00bDN1a0FXWE5rbVJZRnVaTXczVWFadnFWNjRWbGhMaVdSendwaVAzTEIydzhMMURGU1VTNno0TlFWeUhNWUo0MlR1eGRVY0hDMDNZZmtlY1c3a250al9VNlk1SjlrZlp2azc1VU1VUWRCOGtZc3dOSmRqdklRVTdfOGRWUWpYbTVXdA?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T02:47:54+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Meta's Zuckerberg says US should not block Chinese AI models, FT reports - Reuters",
+      "what_happened": "Meta's Zuckerberg says US should not block Chinese AI models, FT reports Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T02:34:00+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI\u2019s rogue agent hacked an account at a second technology firm: Report - Al Jazeera",
+      "what_happened": "OpenAI\u2019s rogue agent hacked an account at a second technology firm: Report Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVFuWnA0aUNnUld3UFpWczJKenhXdk9sSUw0QzFjUXBZeC1XMzVvVUdaeF9MZ3VEaVJFem5HdGRpenZTbnBxTW02WXBOcmZrbGFiRDR5TXN6c2hJejUtV2lsX18wWVJNbXJDNXVyQXFOU1JJUlpyc09KYl94b3NraE01VXp1VUJHNTNUSlM3TlFwRi1qOS0xZWIyOVQ4allKVWVyZXZsQ2RodzFwaGk4N0VEd9IBuAFBVV95cUxPMWI1aWhqSG9qMUk2UlFFRXJtQVNMWUxteUYxZU90XzFuRnNKdl9qWTJhSkJod1d6TTBfT3V5Uy01dHNtNWpUM0EzeG9ZUGRrLUQtXzhUNkVzN0V6UjlJVnRVY2FwZ2RwRnhuWng2WXdhVHBtQll1NUFqZHRscERFQUpLdzlYbVBHRXMxZUd0czVvS1o1bC1LMGpLbXVfOXZGUDRzcEM5S2hHcGpObEV3N0QtVjVqZjl4?oc=5",
+      "source_name": "Al Jazeera",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T02:14:15+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile - Mashable",
+      "what_happened": "Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zTExXNS03MDFacS1ZUThiN1hrRnRWcUlFVDEwSXNIUTBWOXQ3MVRhcTVraWNmS1cwNS1XeFBqV2FGYlAzYlp1dTNQT3g3WUdkLU1UUUIyeGdQWEI3SmNMRXZJbGNrb1JZcEJpUTgzMjNDQW5NdlZhRjRlVHRhLXM?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T01:01:46+00:00",
+      "age_hours": 2.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "SK Hynix Q2 profit jumps 557% on AI chip demand, misses forecasts - Reuters",
       "what_happened": "SK Hynix Q2 profit jumps 557% on AI chip demand, misses forecasts Reuters",
@@ -174,7 +240,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 8.2,
+      "age_hours": 11.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -263,72 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T09:02:55+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Microsoft wants to use smaller AI models to fight cyber attacks and save money - India Today",
-      "what_happened": "Microsoft wants to use smaller AI models to fight cyber attacks and save money India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTy1XWFpUWnJCM1IzRHZMcF9DVUZZMU9EUnFDdkFER3dyNFZqZlVUMFV4MFducWlETWpwVVZYd0ROak81RnhKc0hhWU13R2ZiTnV6a01pYjdPRHZvSGRWemczaVJfUldIRVFlV3RaeU8tV3BYbWVJSU1ydktXWXFBd0tGN2wwSC1BV0RrXzZhUmpwdmZhQXZBTG9obHdFU2lYMWdBTk1TM0FxUjV3bDV6LVpEVThLNzhveDVWdDZRYjNYR3BQUnc0aUVkZTZCZC01T1FIQTFVVzdpNFc0YUFqRENXa9IB4wFBVV95cUxOTy1XWFpUWnJCM1IzRHZMcF9DVUZZMU9EUnFDdkFER3dyNFZqZlVUMFV4MFducWlETWpwVVZYd0ROak81RnhKc0hhWU13R2ZiTnV6a01pYjdPRHZvSGRWemczaVJfUldIRVFlV3RaeU8tV3BYbWVJSU1ydktXWXFBd0tGN2wwSC1BV0RrXzZhUmpwdmZhQXZBTG9obHdFU2lYMWdBTk1TM0FxUjV3bDV6LVpEVThLNzhveDVWdDZRYjNYR3BQUnc0aUVkZTZCZC01T1FIQTFVVzdpNFc0YUFqRENXaw?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T08:16:17+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "US chip design major Cadence bets big on India as local startups gain traction - Moneycontrol.com",
-      "what_happened": "US chip design major Cadence bets big on India as local startups gain traction Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1lLSmVkTE4ybFdLSjNzZklaWlRmRWU5RWNUeWptbGZvZVpFVUtONU53NVU4TVZ3RWQzbjZ5aFdOODZINmE4d09MTTFwRzNrSFMzbGp6cGwyOEVyYVlKWWZsQjRRMVlKTnROak9vVjNpUmUyVE55b1NVeXUwVTMzTHBCal83d0FlYVRUeFl3aG1CUHYtbG1nUU5mdVRUX2lOMm5OU1N3d1kyZ051RExSZEU1NmZ1Z3lNRHNVRWNianBzN05WN3UzeHlWSVBlM1ctd2hvNi1Yb9IB3AFBVV95cUxONjJRazdOaV9YOHVPN2M4cFhNTy1veXBJM1JuSy1yQVpCM1EzekhtY2hjWU1MN0Ffd2NsenVROWQ0Zk9wcEp1dnhReWVQWnRRWG82RGlQaEx1ai1jZlRuUXBJMW5ueWxHWDdjZW04WGtTWDVpdVpnalNzSDJ6SVloYk5CMWhTeFNFTmRFalpjdDNybms1SU9iQXd0dVdrbTVBRTZ0WkhOLWxBckgwZjVQQlhaZ01aZ3Q4bzhVelNURnhRWDNwbC1NYWZsRThOclJvdWNrTHFNRDNsQS0z?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T06:18:24+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic\u2019s Amodei Rejects Open Model Ban But Calls for Testing - Bloomberg",
-      "what_happened": "Anthropic\u2019s Amodei Rejects Open Model Ban But Calls for Testing Bloomberg",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTVnc1A0RXVTS01BaHM2ajhVRFpCcWF2a1A0WC0yRWhFcWFwRno0T0NZNUEtM2doVHRmZ2NFM3RFZHk1VHFxQ3paT3NaeHhTd0JhbkZlTVlUX3V0NzJ5N21saFJUam5Tc3haUmYwVHlGZkU3UGpaMTBKUjNOMHVJeFMxanByWG1JV1ZlWDdiYUFpUnhXdWZpMlZPU1AtTXo0Y002NWRfNFBlV2UzWmpmVkpnNmo?oc=5",
-      "source_name": "Bloomberg",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T05:10:00+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "LIVE: Nifty Reclaims 24,000! Brent Slips Below $88, China Sparks Chip Sell-Off | Opening Bell - Moneycontrol.com",
-      "what_happened": "LIVE: Nifty Reclaims 24,000! Brent Slips Below $88, China Sparks Chip Sell-Off | Opening Bell Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZ1BJS3ExbHBQbHh2dkUwQ1V2YTd3V0Z4U0VIME1qREVFRE9nc19Eejdyal9TVENmSjR1QXVWSU1odDNZajRBWGZ3NmVoUW1FcWNXOHQwWl9wZ0ZEM2lNWmpHQnF0QXNhaVRrcjJWalpnZUJzaUlXRlM0Q3lFaGtmMFRiRE1XZjVqYTJQZTdLQVpOdENRTXd6dlZFQ1Y1aDJ5a0drOEw4cGI1bDNCalVVUUVwUHhMUmtsTXdzZS1MbHkwNjdqZUNaQ0ZKT05XNk41Mjk1cklsZWtOOWNPR3NZcUdXUGdEYU9JMzl3d1JvbnLSAfYBQVVfeXFMTTdKd29CYzhQd1JQNWllRnlEQVhxSmY2THl3V3MwWFpyLTZiamo4b29QaHM0YnZjdnJXRDlnX0VHUVlEUGpCVlRIVlFxNUdvYWhJcDRVblVHajA5enE3OU9tUlYxMjd6YThKRmYwX0dhRFJZNVFVYVF6dUdhVGRjb3gyWTQ5Qm4xOVZ5SlNERkNrT2JiRmlYSTVfSkVIbVBORmdpQzlBV01PcDA3QnV5aEpYX2pYV1dBVnpaQ2xUUUtMX1Q5VXdjTm05TUJyVlR3WkhfdEhqUV96WW16dUZoT0JoOEhaakZISmtkTDJSYmMyRTFHTW9B?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T03:05:32+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Chip-led sell-off sends Kospi below 6,300, triggers circuit breaker - Korea JoongAng Daily",
-      "what_happened": "Chip-led sell-off sends Kospi below 6,300, triggers circuit breaker Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVHI3T3BmQ1RwVXZ2U2dtV1A3dGZZUHJNQXBxSUdCb0NCcmtZb3BiMlZsUFpYOURWb250RlVMOC1kdWliS0NtMkZSN3loOHZKMDVMdW1jNGR3eFZRblVTR0l1dHFSWTczU2FhdUlDMHZSZm8tSHJ0Z0NWaWRndFJvWlRkUFZyTGlkOUNiWFRNLWRoMVg1N1VDMXBER2QtZ2l6UHJWWV84T1FxYm5fdFkzcHlQa3E4Qk0?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T02:41:27+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI - TechCrunch",
-      "what_happened": "Anthropic's Dario Amodei responds: doesn't oppose open-weight models, but fears Chinese AI TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSkZqakVyZ2htYkthcGIwZG84QXdmQWV2UTVUS0dnSC0wU1p1NEhJcmZTcFpaRmFjZkFHdmhPRkZUaVp1eWx6SU9kM2Z3elNNbnI4ZWpTeGctT0diMEsyVVdEeEY1TGFOZjF2eDVSaEFjX0ZITGF0WVd5X3liT2lHNGhGUHhnX3dab1lIdGNHeGlodVhYZFZzdjhrTUplcW5LQnVyeHNGeUJiLUdFMy1GZ21NdXJZUnZwdWpZY01B?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T00:13:33+00:00",
-      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
