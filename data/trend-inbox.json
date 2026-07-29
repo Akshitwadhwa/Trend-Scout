@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-29T19:41:33.253131+00:00",
+  "updated_at": "2026-07-29T21:11:52.913760+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results - NVIDIA Newsroom",
+      "what_happened": "NVIDIA Sets Conference Call for Second-Quarter Financial Results NVIDIA Newsroom",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVpVTkZFc2k0UUJxejF1dFlJTVBiaEc4MmNRV0REczlKSVlCdDNuZUtOWmJtY3ltLU1ZUS1COXpWUUJ2bzJiR1FjamZmRTY4TVJodUdqcG1rQzRGTjl2WTNlV3JvZzNhNmU1blk0ZTViNEhDa1E4SURDWHJRakw0aHBSUXlYTEEzeFFwYVVFUEVlMGdUQ1RLZ3FaWXhWMGlwTkxwcEU4NW12b3c?oc=5",
+      "source_name": "NVIDIA Newsroom",
+      "source_level": "primary",
+      "published_at": "2026-07-29T21:07:42+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "NEWSLETTER: The fallout from the OpenAI-Hugging Face hack - Reuters",
+      "what_happened": "NEWSLETTER: The fallout from the OpenAI-Hugging Face hack Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmZpRC0yaFZNY1VPc2w3S0NIc2JpajBXcENTUnVVdkE2azRNWFpGdWxIek1PbThhYUZSYjRDM1lKSnUzWkgteXJIeEp5YVBQM2w1UHBqMnh1cmM3Mk9QbVlPQ0N4UDl3VHpMakp1QkMzdFZobGxXS3NELW9TY29CeF92bFlVenNodzUzQUVwNTRxaFp0OTY0UFQ2V0xCWU9MVVlSQ3BR?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T20:00:00+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "What\u2019s the catch with the Apple Upgrade program? - The Verge",
       "what_happened": "What\u2019s the catch with the Apple Upgrade program? The Verge",
@@ -9,7 +31,29 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-07-29T18:40:06+00:00",
-      "age_hours": 1.0,
+      "age_hours": 2.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Z Fold and Flip 8 pricing: Is going with the older model more affordable? - Mashable",
+      "what_happened": "Samsung Z Fold and Flip 8 pricing: Is going with the older model more affordable? Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90VGNoeW5uN2NHMF9BZGlxaDZ1QmhoWXJSSXNvemRwMUVSVHJ1ZXBkS0RvbDhiU1NwZGk0RGtnMzFDVEl3ZFNXV0RPOTY4QTM0bFBQejRKUUZFZzFvRDlnZTNPN2EwaHd4X2JsQlJ4TnRzZw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T18:30:01+00:00",
+      "age_hours": 2.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models - WIRED",
+      "what_happened": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNFBwNDJQRkw0VnhCelRZOHl4a3E3TnNBNzY4VFpNZVhYUU9nc1ZrSllwdjdxbC1BWnRLcjRWWkRwVkFzWHh3TzNnMGNESWJPVk51di1TdVhNZlVTT2xWYl8yN1hPNk1ZZzZjZzhxLWs1X1BqZC1TQTYyeDRwX29IV0tzNzFGUVJzWTdFVA?oc=5",
+      "source_name": "WIRED",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T18:30:00+00:00",
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +86,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-29T16:00:00+00:00",
-      "age_hours": 3.7,
+      "age_hours": 5.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T18:43:57+00:00",
       "age_hours": 5.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Halo: Campaign Evolved Launches Today With DLSS - NVIDIA",
-      "what_happened": "Halo: Campaign Evolved Launches Today With DLSS NVIDIA",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjJKZS1fdWkzWXJndmsxTy0wN0NGcXZoUDZZaVdhaDVyNG5aNnFPbjFBNlhQOFZfTTZPQmFaTFBJZnVBVVhzT2FlTDFFSEpvRk11cXZpRGpnN3dLVlFCTTNlWVRuN2g0TUpmaDVYTzVPYm41Sk12WDctdTlPZEhSRzUyaGN6cjRUdmRCbklFRTUtUzlNa3ZmbUhMQURPYWc?oc=5",
-      "source_name": "NVIDIA",
-      "source_level": "primary",
-      "published_at": "2026-07-28T18:22:30+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Microsoft unveils its first cybersecurity AI model - CNBC",
-      "what_happened": "Microsoft unveils its first cybersecurity AI model CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOERtejdaRzF6cWNJYnp0R3A4cjFWTmxYVzNxU0NxTnhYQUxSSGlKQTBXaFY2emctX1Nqb0ZqNVd3WWYwYlZXeDZfQUFIR1hGS3BqNk1ndWJmdU84MS1LdlF6Ny1Ua3FTaHpPQ2JmZVJBZmpwTS1MTkpOTy1TX1dlZHBaT3ROQXpwMURpS3lhb1RTendJYkJtdw?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T17:56:31+00:00",
-      "age_hours": 4.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How to pre-order Samsung Galaxy Z Fold 8, Z Flip 8: See preorder deals - Mashable",
-      "what_happened": "How to pre-order Samsung Galaxy Z Fold 8, Z Flip 8: See preorder deals Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PSXF4NDdHOWFhWm5ZOWllYnVMS0Frdmg1WFlSUjE5aHF0NGFrOEFaaXJIaUxmVFpIajdMaU02VXN6bkNzS2FOVGdRZjNLdGhaX1U4NzExXzlHUTJNRkRSMnRWN3NFTUp3eFRtRFc2cWdRUDdiUHROSlM4R2ptZw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T17:46:19+00:00",
-      "age_hours": 6.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "The OpenAI hack was a cybersecurity warning shot - Axios",
-      "what_happened": "The OpenAI hack was a cybersecurity warning shot Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kYjdET29tOFIybC1nRjlzRU1rM0FQWUZ1SmI1QnJMTk05TWEzTWw1cHJKT1VIb0YyclhzYmdFaXUtN2RzdFBCVnFNSFJlal9fMEh3WVIyc1gtakRqUGNvUWd1SGxJWElRNzRhbVk2NWRBTWNDdFRrLXcwcnV4bmM?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T17:46:02+00:00",
-      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
