@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-28T23:16:54.224344+00:00",
+  "updated_at": "2026-07-29T00:10:58.893745+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "SK Hynix Q2 profit jumps 557% on AI chip demand, misses forecasts - Reuters",
+      "what_happened": "SK Hynix Q2 profit jumps 557% on AI chip demand, misses forecasts Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUxxQWE3ZTZIXzd3RHJtdUUyRlBFSngwTzVkV1RTTmgta3llNWNPN1BwZ3BvdnN6NlhuNUJxTDFQZmVpVWg3UEhmS0thYngyLVkwM1NmUjN5MDRQSnlhaFpMeG9ULW9kekJYQUtCWmdVbW5oT0diTmpidGJTQkd3N19mM0J0WEtuc054ZllnMkNGUFNLaXhfSnJnVXdubHlMdEFNd0ZQQmp3U21FSF9XeHhNSXRQQQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T22:57:46+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI's agents hacked second firm during model testing - Axios",
+      "what_happened": "OpenAI's agents hacked second firm during model testing Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMm12SVRVVUtNQnRUOHpfTS1xYXEtYUszQ1N3MEFsWGxMRFg3LVl6NU1YckRlOE1qVjd0Z2RsZ25nUWlWamtzeV81cjNjZ2tMY0paSW85YVprWEM1R0tZT293ZHp3TGptX3NLeUh4WWJickhRam9v?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-07-28T22:10:12+00:00",
+      "age_hours": 2.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "FirstFT: Chip stocks sink as AI sell-off intensifies - Financial Times",
       "what_happened": "FirstFT: Chip stocks sink as AI sell-off intensifies Financial Times",
@@ -64,7 +86,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-07-28T18:43:57+00:00",
-      "age_hours": 4.5,
+      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +119,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-28T17:46:19+00:00",
-      "age_hours": 5.5,
+      "age_hours": 6.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -152,7 +174,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 7.3,
+      "age_hours": 8.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T00:13:33+00:00",
       "age_hours": 3.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models - CNBC",
-      "what_happened": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T23:42:46+00:00",
-      "age_hours": 3.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "EU may hit Google with record-breaking fine for antitrust violations - Mashable",
-      "what_happened": "EU may hit Google with record-breaking fine for antitrust violations Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aZjFHdUtCel9kT3RfWm52b2xLbHp5SUM3TWlIZ1FwREtYdWE5RmNrM2FDbXplemVuNlN0XzRRandfdGU5aHJyelhVMTZwQUtxYnMxcVpuOVBMMXZ2Ynk2bVA4YXA?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-27T22:08:13+00:00",
-      "age_hours": 14.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
