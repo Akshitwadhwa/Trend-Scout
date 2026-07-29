@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-29T09:48:43.128044+00:00",
+  "updated_at": "2026-07-29T12:19:37.014396+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more - CNBC",
+      "what_happened": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlY1Ukx4MzJoZFMyX0xSMElyTUxIY1VmXzFQV3hTY2RjS0tkZmNuTUFlUkhRcm45NmNXTTVpbUtFcWNIdFJZNWVPYkRYQ2RQR3MzeVhmOVVyYkZFZHpRTjFHNDl0Q2hpc1VaVDU5Y2JNS0c3WmRFM051dVBjYnVHdmRaYkxaV1ZkWmQyLTdoSWUxY3NlU2g4?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T12:17:11+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple set for strongest June-quarter sales growth in 5 years - Reuters",
+      "what_happened": "Apple set for strongest June-quarter sales growth in 5 years Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW5OMTZJaTdoN2ItUzRBN1pXUmg0Mkhfbld2djB4RHhCRlpMbnJDTVl5OE9MMExmd3I2U0NQY01mSFZpamZrczVJSGJpdGtFMlVYSGEzSnFRRTY1RTJQWnRINEU2VU1kaHhKSm1vYk9FRTVVZG00cWZfckQ3akdCUFk1LUZKTFgxenpPb19vMkJrRUJaa1FNektvVUJIem9WejB6bUpONVBFOWJVM2Rhc0E3aHY?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T10:59:02+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "ASM International Shares Slump After Chip-Equipment Supplier\u2019s Guidance Underwhelms - WSJ",
       "what_happened": "ASM International Shares Slump After Chip-Equipment Supplier\u2019s Guidance Underwhelms WSJ",
@@ -179,6 +201,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Grok 4.5 is now available in GitHub Copilot - The GitHub Blog",
+      "what_happened": "Grok 4.5 is now available in GitHub Copilot The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVdRRDZYWW9Zb2RuZERSNVJFSWtZeHJseGQyX3JGWF9RREJQQnJRLXZBc254dlBIQU94Z0VOdzRKRzZuR0sxYnhlN0Q4ZmNoRWpVeXZYLVlhRi1xVHEtVk4wTUZHMUpGUTR5MnFyOTF0RWl6MV80SEJtLVNHVVhMckcwRXg2R3lTa0NORmxR?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-07-28T19:10:45+00:00",
+      "age_hours": 17.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments - The Verge",
       "what_happened": "Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments The Verge",
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODdSaFJULU9INFRGb25rZ0ZYNVZ0VU5kbktHYnBwLS12alI2R1psNVNqOVVCM25sbDlsZkQ5NlVhNF80a2stb3BnT0RwSkd6cEFhdDExQ0VJSDFNOW15Q0ZVaFU4cTlRN1JHZ2hVSU83cXdzMTFQSXZnYXZiMnllMlBzUQ?oc=5",
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T14:30:36+00:00",
       "age_hours": 2.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Is training an AI model \u2018public interest\u2019? Delhi HC verdict goes to heart of copyright debate - The Indian Express",
-      "what_happened": "Is training an AI model \u2018public interest\u2019? Delhi HC verdict goes to heart of copyright debate The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkJhbnF1LVdmQ0VqR3RUanZFSGEwaXlXaElCMUtTSmdUYlZkYVE5MDdxZXh2S0JHdURXYUhFeHhCYTh4bnFQQU5DZWNSc0VPanprWVI3bnpaREt5SHozdFpaWGMyTG5rdGJCNXVQNzgxa2w4cC1EZmczdlJmUWpucC01T1JqVDJGSmpLVXZhZnBXVkJZVUNid3FVdHZmVlJ2NzNCd3hmaFhUQzFjWThZTUlkOVpEOXpFdlHSAcABQVVfeXFMTUdGOUYtcnJhNXd1SUo4REJ1cEluRzVFaXNEV2s3U2luNGtuakFPODYtZWtlWUpFUk1VWnprRFlRQ29nU2pnbEp4b3I1SkdSTDBEYzZBNmhzNFpnbnRneVhkd19UVHQwVlBQY2xUdmJ2eTRqYnlLZHRXWGRwQk82OFBGS3FNY3pUTDFULWFwSkgwX1FKUHpHZzFqMWs3RWUya1dmNkRLR09ocm9LWFpObXN1N25RTlJBWE5wZWdsSnVq?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T13:00:34+00:00",
-      "age_hours": 1.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Granola launches an Apple Watch app - TechCrunch",
-      "what_happened": "Granola launches an Apple Watch app TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zSzZ2NlZKem9EWk55WTQzcWR1bk9URzd2Q2E4R1hGMkJ4elhYM3hwUFBsMzBLTy1HbEZFVUV5b2lWWjlYU2VIaTNWSXU1UmFXS1VPWkFCMF9XZmUxVXF4QXV1dGVrMW5JU0s4cm1IRHBXZ3VzNVE5bDZ3?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T13:00:00+00:00",
-      "age_hours": 1.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "AMD signs AI data center deal with Core Scientific - Reuters",
-      "what_happened": "AMD signs AI data center deal with Core Scientific Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnFiRjVManVtR3hxSVQ2N1Z0eF94RHl3aEVmQVY2emcwTVBDRHphZVBEUzlFSkRhaWI5X3hsa2Z3VGlNa2FyNF9ERjAwemFfWURDTFowUkV6MGhydVdNVFFNMUl3TUk4NGZ4UnRXdll6ZEVEOWpXNUpQZF9XNUQwWkxvemlqZHh2S3RhRE9EZFRPUm5IeUo0b0wySV9Falk?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T11:55:57+00:00",
-      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
