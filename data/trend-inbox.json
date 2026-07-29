@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-29T15:18:42.132085+00:00",
+  "updated_at": "2026-07-29T17:37:12.521761+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Apple Upgrade program: Common questions about Apple's new leasing program, answered - Mashable",
+      "what_happened": "Apple Upgrade program: Common questions about Apple's new leasing program, answered Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jeE90NWFqZnNncWtBMEtTalF1Wl9zOGZYUUlCSE5VWjRhXzI3VDBsLVQzRTlGTXlpWDMyeU90cWtUTVdnWGhiQWVQdGcwbWdyTnZnQnAwTjYwallZcmdKX2doVlFFZV8tSE9OWk5fM0l4QjQ4?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T17:09:55+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms - The Guardian",
+      "what_happened": "Rogue OpenAI agent that hacked startup tried to attack other firms The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHUyRzFkQktHQWpzTURFT0tldXRZcDljOG9JN2gtOWstVlEwdEtieV8wTHZJZU16aW12Qk9oV282MGFCa1NFUWN0d2twNTFXZnd2V0NNNmwyOUhTRU0wWVE5VG1OLVRSTFU2U09QLVliUTJYMlhGUjdRRXUtVWJhc0l0enVVNks1T01WTGlKWjlBM3FIUUhza1UtYnoyRVd2Yl9PTlozZE9aODlKNUY5THlaUFRRbm1S?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T16:05:00+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "what_happened": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-07-29T16:00:00+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Intel\u2019s U.S. Advanced Packaging Enables Next-Generation AI Semiconductors",
       "what_happened": "As AI demands unprecedented \"brain power,\" the semiconductor industry is moving past the era of relying on single, massive chips. Advanced packaging is the essential craft of interconnecting multiple specialized chips together. This allows them to function as a single, powerful unit that runs faster handling the massive workloads of the future.Intel\u2019s been doing advanced \u2026 The post Intel\u2019s U.S. Advanced Packaging Ena",
@@ -21,17 +54,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-29T13:29:46+00:00",
       "age_hours": 1.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms - The Guardian",
-      "what_happened": "Rogue OpenAI agent that hacked startup tried to attack other firms The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHUyRzFkQktHQWpzTURFT0tldXRZcDljOG9JN2gtOWstVlEwdEtieV8wTHZJZU16aW12Qk9oV282MGFCa1NFUWN0d2twNTFXZnd2V0NNNmwyOUhTRU0wWVE5VG1OLVRSTFU2U09QLVliUTJYMlhGUjdRRXUtVWJhc0l0enVVNks1T01WTGlKWjlBM3FIUUhza1UtYnoyRVd2Yl9PTlozZE9aODlKNUY5THlaUFRRbm1S?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T12:59:00+00:00",
-      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -309,28 +331,6 @@
       "age_hours": 5.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Investors ditch chip stocks as fears of AI bubble grow - BBC",
-      "what_happened": "Investors ditch chip stocks as fears of AI bubble grow BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RU2p5eEk2STAxdjg3Szl0V2thbnhhd05ONXZzR0xmemZHOU9LNUdmdnVFa1dNX3k4UVR2WDRxaXZVU0drZnV6V2VocTBZUmdBTFVHckZ0bmI?oc=5",
-      "source_name": "BBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T16:43:01+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Wall Street climbs as oil decline outweighs chip rout - Moneycontrol.com",
-      "what_happened": "Wall Street climbs as oil decline outweighs chip rout Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSlYybGtQRXQ3X25RRUxybXg0MjBFRjdzY3RnQ3hNSVFhS0QxWVdEYjY2djlSNHU5V0VJcDV5UHc1aTlndk1xTUMyQXRIaHhZR2VhTDM0UXhpeGdTR1pWTWtrdW1SMnFzZEMyUlhsUW9mQWpYU0ZteVhERldfNnlkZUhMbFFlR0xheExsc19XMHlLc2Nrb1lJUm10SWR3RG1rSVJxOWVCTmpDb3lhRTQydVRJblZteGNZWGfSAb8BQVVfeXFMT2FGaHBRV0FGUmlYcWl5RG8td3NhdjEwZlVLd0psejlJNmZnb2ttdmxEaWxhSFN1dDNXRGpxUWRMTm5iVVc0aEU3WWt5M2VJcXA0RDV5eERZTmJDQVZYdUJrVWc1bENjenhjdmV0YXV1ZTItTzZ0cTRhTEFfdWdkN19ZS0NWd050bzdMZnNEd2NJTVk0YVlXc0pWRTBRWktfbUE3MWd2Z1czLThJamVDUW9lbklaMkdKM3ROQUNtZGc?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T16:40:35+00:00",
-      "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
