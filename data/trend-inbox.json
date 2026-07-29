@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-29T06:43:51.960943+00:00",
+  "updated_at": "2026-07-29T09:48:43.128044+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "ASM International Shares Slump After Chip-Equipment Supplier\u2019s Guidance Underwhelms - WSJ",
+      "what_happened": "ASM International Shares Slump After Chip-Equipment Supplier\u2019s Guidance Underwhelms WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTm51SG9oQmtlNzdjck5zZzZjbzk1dzlpSmhtUjdRQ29MR19jRmJNY3NKQkVpRHBZVkt1eFlHNDZIU2xUWW44TmNCaVlxQ1ltUERCNUJSTDg5U051YWRHbzBPekNNQ2FGNVUzdzRVaVJLNUJZQ3dvakw4cktGNDg0VVJScHdydDZFVjhSeUlKNHRRZC1zSUpQOFV2QUc3X1RmR3VETk0zX0NmU3BfLU43c0dfQ2tlZlFsUTBIMmUwWGNoeFlBZ2NxRQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T09:02:00+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Don't fall in love with this Samsung heart-shaped phone. It's an AI fake. - Mashable",
+      "what_happened": "Don't fall in love with this Samsung heart-shaped phone. It's an AI fake. Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53OGdfNWZvS0ZGRGNQY2dESExOVUNoMmxGMVMyZXB4V0w0N2xhWGdQc1N5aXdtbGFYSHJMMFBQTzZtQnJGNlcxNEo3SEp6Y3pGd2FkcUFESVliS2lSQXNnWGtPNWpDRTlOQWNNNUVteXJGSVZEenJr?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T08:00:08+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Chinese AI chipmaker Cambricon aims for US$14b revenue over 3 years - South China Morning Post",
       "what_happened": "Chinese AI chipmaker Cambricon aims for US$14b revenue over 3 years South China Morning Post",
@@ -251,7 +273,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-28T16:00:00+00:00",
-      "age_hours": 14.7,
+      "age_hours": 17.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T11:55:57+00:00",
       "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Will Samsung and SK Hynix face a 1980s-style US trade crackdown? - KED Global",
-      "what_happened": "Will Samsung and SK Hynix face a 1980s-style US trade crackdown? KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GQy1yeUVmMTJzcU53ODkzVkxaZDFmR29wNFpzb0NrZndUN29LVmg1MHNUNm9Wdm1zYXQxVGdBRUhuRzdXaXFwMlFBWnp6STlzVm9SbHpxN1piYWl4SjY1NkRSRlIzcHB2cmdwMTB1NDI3UQ?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T11:27:20+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "AI sell-off intensifies as investors ditch chip stocks - The Guardian",
-      "what_happened": "AI sell-off intensifies as investors ditch chip stocks The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmVZT1owblRILUJnajMzUHdYa3Y3SmJwc0NrcFpJZXNTWkFSQlpjR191U1dkcHVha0lTUEpFa0stREtycWg5bmFMVTZERGN4R1ZSYkxKdzVWODBVcXFHX25TS3FpaVpZNlplaW9YTVh2Zm5jLVVrNy10RUNHcDJad05LU1FwNnV6WVNweTJVUi1WWEU?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T09:03:00+00:00",
-      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
