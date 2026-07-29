@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-29T17:37:12.521761+00:00",
+  "updated_at": "2026-07-29T19:41:33.253131+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "What\u2019s the catch with the Apple Upgrade program? - The Verge",
+      "what_happened": "What\u2019s the catch with the Apple Upgrade program? The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96OXgyNDBLanVXUkZZbDRNRWN6dGw0SldBYmIyRXRQUnBMTVRORjl5THFfMHNnU0ZsNThvVmlUdDFrZl9VZThfNXYwUUIwNGRqYmE4Vl9UU1VEdUFCY0JTQWFjamZ5c3NiSVF6a29SRXI?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T18:40:06+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Apple Upgrade program: Common questions about Apple's new leasing program, answered - Mashable",
       "what_happened": "Apple Upgrade program: Common questions about Apple's new leasing program, answered Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-29T17:09:55+00:00",
-      "age_hours": 0.5,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-29T16:00:00+00:00",
-      "age_hours": 1.6,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Discovering cryptographic weaknesses with Claude - Anthropic",
-      "what_happened": "Discovering cryptographic weaknesses with Claude Anthropic",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13elp4eC1EQlJMdmtBdDZYaGQ0UXJoVE9sOGNtSDZIRFRYV3pkU1E4TnlNX3BTai1QVjduNVJUampVZGVySmlKRmVtcUFXcDBlNFVTQVdHN2ZiUUdjSlNtLUhXb3JialVEWGprd0tjdUVZQ2dhSFExaUtoTQ?oc=5",
-      "source_name": "Anthropic",
-      "source_level": "primary",
-      "published_at": "2026-07-28T17:17:10+00:00",
-      "age_hours": 5.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
