@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T21:11:52.913760+00:00",
+  "updated_at": "2026-07-29T22:11:58.634894+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -20,7 +20,29 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-07-29T20:00:00+00:00",
-      "age_hours": 1.2,
+      "age_hours": 2.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency - OpenAI",
+      "what_happened": "How GPT-5.6 fuses frontier intelligence with frontier efficiency OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVE1UdnNURWZXWHE3dlU1Q0NDanNJdlRWODRrenIwTGZiSFBYTk02QUs4bEtRUmRuZU5vMlBmQm1TNGtXblhzdGVrM1E4R01JYkpnQ3MzUldxOHJJejRXeU9uQndxM2REOXZyN1Y5ckFsNjRq?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-29T19:50:11+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms - The Guardian",
+      "what_happened": "Rogue OpenAI agent that hacked startup tried to attack other firms The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHUyRzFkQktHQWpzTURFT0tldXRZcDljOG9JN2gtOWstVlEwdEtieV8wTHZJZU16aW12Qk9oV282MGFCa1NFUWN0d2twNTFXZnd2V0NNNmwyOUhTRU0wWVE5VG1OLVRSTFU2U09QLVliUTJYMlhGUjdRRXUtVWJhc0l0enVVNks1T01WTGlKWjlBM3FIUUhza1UtYnoyRVd2Yl9PTlozZE9aODlKNUY5THlaUFRRbm1S?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T19:34:00+00:00",
+      "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +64,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-29T18:30:01+00:00",
-      "age_hours": 2.7,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -69,26 +91,26 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms - The Guardian",
-      "what_happened": "Rogue OpenAI agent that hacked startup tried to attack other firms The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHUyRzFkQktHQWpzTURFT0tldXRZcDljOG9JN2gtOWstVlEwdEtieV8wTHZJZU16aW12Qk9oV282MGFCa1NFUWN0d2twNTFXZnd2V0NNNmwyOUhTRU0wWVE5VG1OLVRSTFU2U09QLVliUTJYMlhGUjdRRXUtVWJhc0l0enVVNks1T01WTGlKWjlBM3FIUUhza1UtYnoyRVd2Yl9PTlozZE9aODlKNUY5THlaUFRRbm1S?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T16:05:00+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
       "what_happened": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
       "source_url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-29T16:00:00+00:00",
-      "age_hours": 5.2,
+      "age_hours": 6.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung Galaxy users complain of battery drain and overheating after update - Mashable",
+      "what_happened": "Samsung Galaxy users complain of battery drain and overheating after update Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTFMLUR6MkVPZjRCZEM3bUJ2cHVrdEpveGFiRVNMSHFmenhnTnA2ckltYUtBdDI5YTVTcjBIR0xxWHlrR2c4Nk41MER4Q29mLW5QVEZGak84MGtlMnRDa3hPcjJBZGJRNVlmcHFpRHBHZTZWNlFZa1NRc2ExbzlBZzIwSm5SVUU?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T15:35:23+00:00",
+      "age_hours": 6.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Intel\u2019s U.S. Advanced Packaging Enables Next-Generation AI Semiconductors",
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-28T19:57:00+00:00",
       "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Grok 4.5 is now available in GitHub Copilot - The GitHub Blog",
-      "what_happened": "Grok 4.5 is now available in GitHub Copilot The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVdRRDZYWW9Zb2RuZERSNVJFSWtZeHJseGQyX3JGWF9RREJQQnJRLXZBc254dlBIQU94Z0VOdzRKRzZuR0sxYnhlN0Q4ZmNoRWpVeXZYLVlhRi1xVHEtVk4wTUZHMUpGUTR5MnFyOTF0RWl6MV80SEJtLVNHVVhMckcwRXg2R3lTa0NORmxR?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-07-28T19:10:45+00:00",
-      "age_hours": 17.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments - The Verge",
-      "what_happened": "Apple won\u2019t turn on any \u2018restricted mode\u2019 for missed lease payments The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPODdSaFJULU9INFRGb25rZ0ZYNVZ0VU5kbktHYnBwLS12alI2R1psNVNqOVVCM25sbDlsZkQ5NlVhNF80a2stb3BnT0RwSkd6cEFhdDExQ0VJSDFNOW15Q0ZVaFU4cTlRN1JHZ2hVSU83cXdzMTFQSXZnYXZiMnllMlBzUQ?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T18:43:57+00:00",
-      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
