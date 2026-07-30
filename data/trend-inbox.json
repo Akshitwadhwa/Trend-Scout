@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-29T23:12:50.816110+00:00",
+  "updated_at": "2026-07-30T00:10:02.424706+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "AMD's Helios gains ground in challenge to Nvidia's CUDA - digitimes",
+      "what_happened": "AMD's Helios gains ground in challenge to Nvidia's CUDA digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQektocUV1TkNJamxHOG9YWmFHd055ZzlwZVAzLUFZSHZoSUhIT0VGVU1ic1hpOFVXVUZDdTRuTC1YeEg0M1pYMG1KLTI3SGpnbmx2Uk83aFRZMXpQSzNBYXFMaDlGWVVJbENFV0hNWm5fMmlfQk03bUl2LVFtdG5wWUVvZVJIRXAtTTNPWDRoMV9fbnVBZDdTQw?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T00:00:19+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Electronics Announces Second Quarter 2026 Results - Samsung Global Newsroom",
+      "what_happened": "Samsung Electronics Announces Second Quarter 2026 Results Samsung Global Newsroom",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYm5zLXZOdnRBZlF6eTBrdEozZVJjZUdWVlhjNlBqVHdxNWhoWWowT2MzeU54anJpVTk2YXBOMWZ2eUFwRG9STkJzdkw2c0d0UmZRaHZSb25qNUg5WGN6Y2FIbHlGaGpzZW5nbmpGYUtpb3M3dUIyNUVTNVNEak1kUjljanFsZWVaQ0N5cGF5N2VsWEk?oc=5",
+      "source_name": "Samsung Global Newsroom",
+      "source_level": "primary",
+      "published_at": "2026-07-29T23:56:00+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "[BREAKING] Samsung Electronics posts Q2 profit of $62 bil., up nearly 20-fold - The Korea Times",
+      "what_happened": "[BREAKING] Samsung Electronics posts Q2 profit of $62 bil., up nearly 20-fold The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVJWNFpEWE1UeUp6MHliOElKRzhkbk5oSWxFcnZmSlNPbU8yS2YxczVaMEh2Ui1xa1BvWFdjb3o1bV9HOVFCaTk4OG5uVDM3NkdDcFplRlM1d1c3dXAwQ3k4WGxid01KcS1zdjA1Uzg5WkRzZFExVF9CdFJOZF9JWGFNX1c0TGFpb2dsSy1Nd3M2ZXJzVi1CbmpDaXRnbGZQaGI3SkRfcmt3VF9PZVpJNHNYcjJWMnQ3NmhMOdIBwgFBVV95cUxPOHBsZGtYeXlUNlpWUG1ZQUQtbXUtdXdCUWlEd2ZVcEMtam9MR1BhNE1wcHdkMUkxWDNGUFRkYWJneHJPajVlbHlvNnJnYjhLeUc2SkUtLWl2bENNV3owSXEwRE0zT1RqOUxlZ0ZMOXcxVXZlSE9NOVFzTEdDT2txMTUtUllyUE11Uk9hbXdJaVZJajdtbHRDVDhad3FScGliWUk2aUtZck1mTjcwWEhwNVY2b3hJVVdJVVgzZTVCa1V1QQ?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T23:56:00+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia invests US$1B in Naver's sovereign AI push - digitimes",
+      "what_happened": "Nvidia invests US$1B in Naver's sovereign AI push digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmtwNHJfWkVSUE5uMVhxZ0JieGtDX0lqWXp5aV95N3NuTTBtRHBkWU9rVjlaSXdYejdqZ3o2ZUZ6dmhMVnBRb1lWS2xqdXNKUXNDOGJCQzlMZjczcThhS1AyWDFBQ1VYY1Z2N2lUdFpqTm1lMHFKSkwwM3Rad0RiLU8tRnNST1dDMndQVkN6YXJSVVdlSzY5VXFDeloxV3RXMno1amZNbEpfX0tQZVE?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-07-29T23:54:26+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark - OpenAI",
       "what_happened": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark OpenAI",
@@ -9,7 +53,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-07-29T22:59:55+00:00",
-      "age_hours": 0.2,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -31,7 +75,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-07-29T21:39:45+00:00",
-      "age_hours": 1.6,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +97,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-07-29T20:00:00+00:00",
-      "age_hours": 3.2,
+      "age_hours": 4.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -141,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-29T16:00:00+00:00",
-      "age_hours": 7.2,
+      "age_hours": 8.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -284,50 +328,6 @@
       "source_name": "Al Jazeera",
       "source_level": "reputable",
       "published_at": "2026-07-29T02:14:15+00:00",
-      "age_hours": 1.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile - Mashable",
-      "what_happened": "Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zTExXNS03MDFacS1ZUThiN1hrRnRWcUlFVDEwSXNIUTBWOXQ3MVRhcTVraWNmS1cwNS1XeFBqV2FGYlAzYlp1dTNQT3g3WUdkLU1UUUIyeGdQWEI3SmNMRXZJbGNrb1JZcEJpUTgzMjNDQW5NdlZhRjRlVHRhLXM?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T01:01:46+00:00",
-      "age_hours": 2.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "SK Hynix Q2 profit jumps 557% on AI chip demand, misses forecasts - Reuters",
-      "what_happened": "SK Hynix Q2 profit jumps 557% on AI chip demand, misses forecasts Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUxxQWE3ZTZIXzd3RHJtdUUyRlBFSngwTzVkV1RTTmgta3llNWNPN1BwZ3BvdnN6NlhuNUJxTDFQZmVpVWg3UEhmS0thYngyLVkwM1NmUjN5MDRQSnlhaFpMeG9ULW9kekJYQUtCWmdVbW5oT0diTmpidGJTQkd3N19mM0J0WEtuc054ZllnMkNGUFNLaXhfSnJnVXdubHlMdEFNd0ZQQmp3U21FSF9XeHhNSXRQQQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T22:57:46+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI's agents hacked second firm during model testing - Axios",
-      "what_happened": "OpenAI's agents hacked second firm during model testing Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMm12SVRVVUtNQnRUOHpfTS1xYXEtYUszQ1N3MEFsWGxMRFg3LVl6NU1YckRlOE1qVjd0Z2RsZ25nUWlWamtzeV81cjNjZ2tMY0paSW85YVprWEM1R0tZT293ZHp3TGptX3NLeUh4WWJickhRam9v?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T22:10:12+00:00",
-      "age_hours": 2.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "FirstFT: Chip stocks sink as AI sell-off intensifies - Financial Times",
-      "what_happened": "FirstFT: Chip stocks sink as AI sell-off intensifies Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT1Rjd2hXSktQX3UtLTJ2SjFlMkhoTkdKb21qQ2ZJTFFJX2JyY1VUWEE5ZWdwNUpvcHgzNU1kb2RweFA5T1J1WjZUUDhUWXB5N2Eyd0F5cXJDcnRnSDF6YW51dVV2VHF2YTA3dFVJTFluMlBGdWt0Qkg3WkNJQ0FqWTlySTM?oc=5",
-      "source_name": "Financial Times",
-      "source_level": "reputable",
-      "published_at": "2026-07-28T21:52:18+00:00",
       "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
