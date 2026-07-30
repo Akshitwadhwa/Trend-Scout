@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-30T00:10:02.424706+00:00",
+  "updated_at": "2026-07-30T03:26:25.266265+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "[Interview] [Galaxy Unpacked July 2026] Inside the Engineering Behind the Latest Galaxy Z Series",
+      "what_happened": "On July 22 at Galaxy Unpacked July 2026, Samsung Electronics unveiled Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8, marking the eighth generation of the Galaxy Z series. Across seven generations, Samsung has helped define the foldable category through advances in display technology, hinge engineering and materials innovation \u2014 all driven by [\u2026]",
+      "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-inside-the-engineering-behind-the-latest-galaxy-z-series",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-07-30T10:41:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
+      "what_happened": "Samsung Electronics today reported financial results for the second quarter ended June 30, 2026. The Company posted KRW 171.5 trillion in consolidated revenue, another all-time quarterly high, representing a quarter-on-quarter (QoQ) increase of 28%. Operating profit also reached another all-time high, increasing to KRW 89.5 trillion. Earnings per share for both common and preferred shares [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-07-30T08:56:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Qualcomm's push into data centers and cars signals a broader shift in chip strategy - digitimes",
+      "what_happened": "Qualcomm's push into data centers and cars signals a broader shift in chip strategy digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0JfeWw1eXRPRVRYcGVVSXhUUjFkWWdzNkR5RXYzby1Sb2o4a2lFQlV6SUJmS3BhX3JOc2pBMC1tZm9IS3FiM1JSeHhGWkdVZk9uR3NvUUdTNkNKcnB6c1VlMFBiNEZxMC1RbEN0a25COFM0NzRPaEtZOU9xRXlvZjFla0x2d2tIM2JoazlTVFhVVEs4d2c?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T02:35:57+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever - TechCrunch",
+      "what_happened": "Microsoft is openly competing with OpenAI, Anthropic more than ever TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T00:21:06+00:00",
+      "age_hours": 3.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "AMD's Helios gains ground in challenge to Nvidia's CUDA - digitimes",
       "what_happened": "AMD's Helios gains ground in challenge to Nvidia's CUDA digitimes",
@@ -53,7 +97,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-07-29T22:59:55+00:00",
-      "age_hours": 1.2,
+      "age_hours": 4.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -185,7 +229,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-29T16:00:00+00:00",
-      "age_hours": 8.2,
+      "age_hours": 11.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-29T03:00:10+00:00",
       "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility - Korea JoongAng Daily",
-      "what_happened": "Presidential policy chief does not consider demand for AI, semiconductors as temporary despite market volatility Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeTN4a1g2bkJTR0dTRkxGSFQzeDJWSktxV3d6OFhJVDdYQi10cGwzN05vTFo3SzdNR2VudVBvcVlaMnZjekdta0t6NzlUMHk4Sm1TdDBITldFYmQ2Mk9RRFh1TDB0YXNjLUotM0xEcXQ1TzYydzk1QmVRbWRXdkRRMFRkcGxOaVE5TEE2T1Q3aXhqclZiQ3pISXBSZlg3THpLOGQ3RFIxbEVVWnlTcE9WN2dEcTZFWVBmdkhBcUhZbXU4RGVuaTVNaVNoQVpiajA1TzRPSVlBQVF1V1lnanUyei1XNldwbzZuY2tINUtobVZ3bXZmODBaaE9MOA?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T02:54:02+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple touches landmark $5 trillion valuation, second only to Nvidia - India Today",
-      "what_happened": "Apple touches landmark $5 trillion valuation, second only to Nvidia India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNV1FxSHZDaGRHTDZvR1M2cWwyVzk5Z1hPcEVGNWFKTndwRWRva2pPV3VvMlJMYTFjS0padVFGeGk0UERHUVc0SVlubl9RMEV4aFpGVXdhdUV4N3Z1alVldjM3WC1RTURkR0RySWR0NHJnRl84dEpibVZEWHhTeFV4Z3g5WG1lcTIza3B6NGRralFfb3d2aTlxZFUtYlVYZkRpN1ZPQWdWQVYxUFJZX2QtRzdmM0xjQjhTX0lWeGtWU3BLZ2hxS2RZSlY3WEFxMEk2Uk8tRzFQaDlzQldzbkVFMDdadVhSR09aaFRDV1pjVF9OUkh4UWY5RGhQZ0E5VGltdjVN0gGIAkFVX3lxTE1JRWVqQ1NobkZVdlptYTI4c1dHR3BIb1JqamFXVUlxc1hNWS1iNVV2aEhDUXprVEF1UFlwOEg5ZVNmVHVLamU3TlhaYUtlX2lKMzZqdW1rZ1p4TnQ4a0JsaUlGOUVjN3JGV0VJMDhLdWpSNTdBRF9yUGRia0FtTEltNzVvQS00bDN1a0FXWE5rbVJZRnVaTXczVWFadnFWNjRWbGhMaVdSendwaVAzTEIydzhMMURGU1VTNno0TlFWeUhNWUo0MlR1eGRVY0hDMDNZZmtlY1c3a250al9VNlk1SjlrZlp2azc1VU1VUWRCOGtZc3dOSmRqdklRVTdfOGRWUWpYbTVXdA?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T02:47:54+00:00",
-      "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta's Zuckerberg says US should not block Chinese AI models, FT reports - Reuters",
-      "what_happened": "Meta's Zuckerberg says US should not block Chinese AI models, FT reports Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGM3TlNxUEczUHdxRW5fUWYwM3g0YTNVR01kQURibVZtbEtPY1VWRUk1MmhVV0J1QjlVc05nSTFUM2dPcDBKT3BXa3pUZ0xmTUJ2TWJBcGRfNXMwMVotZjNhdVJGeWZIemVQTm1XelUyZ0tkMXFLVHVydEo4OTNFRnRLUVA0aE5mLW1CRWc2Y3FpY2dmd1J2c0xTZXplZUVKX1paR09fSzZMbTZfVkg3N0dFMnZ3aW5pOFE?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T02:34:00+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI\u2019s rogue agent hacked an account at a second technology firm: Report - Al Jazeera",
-      "what_happened": "OpenAI\u2019s rogue agent hacked an account at a second technology firm: Report Al Jazeera",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVFuWnA0aUNnUld3UFpWczJKenhXdk9sSUw0QzFjUXBZeC1XMzVvVUdaeF9MZ3VEaVJFem5HdGRpenZTbnBxTW02WXBOcmZrbGFiRDR5TXN6c2hJejUtV2lsX18wWVJNbXJDNXVyQXFOU1JJUlpyc09KYl94b3NraE01VXp1VUJHNTNUSlM3TlFwRi1qOS0xZWIyOVQ4allKVWVyZXZsQ2RodzFwaGk4N0VEd9IBuAFBVV95cUxPMWI1aWhqSG9qMUk2UlFFRXJtQVNMWUxteUYxZU90XzFuRnNKdl9qWTJhSkJod1d6TTBfT3V5Uy01dHNtNWpUM0EzeG9ZUGRrLUQtXzhUNkVzN0V6UjlJVnRVY2FwZ2RwRnhuWng2WXdhVHBtQll1NUFqZHRscERFQUpLdzlYbVBHRXMxZUd0czVvS1o1bC1LMGpLbXVfOXZGUDRzcEM5S2hHcGpObEV3N0QtVjVqZjl4?oc=5",
-      "source_name": "Al Jazeera",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T02:14:15+00:00",
-      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
