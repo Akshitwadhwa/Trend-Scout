@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-07-30T09:40:47.254931+00:00
+Updated: 2026-07-30T12:03:29.407434+00:00
 Memory window: 48 hours
 
 ## 1. [Interview] [Galaxy Unpacked July 2026] Inside the Engineering Behind the Latest Galaxy Z Series
@@ -23,35 +23,35 @@ URL: https://news.samsung.com/global/samsung-electronics-announces-second-quarte
 
 Samsung Electronics today reported financial results for the second quarter ended June 30, 2026. The Company posted KRW 171.5 trillion in consolidated revenue, another all-time quarterly high, representing a quarter-on-quarter (QoQ) increase of 28%. Operating profit also reached another all-time high, increasing to KRW 89.5 trillion. Earnings per share for both common and preferred shares […]
 
-## 4. Sarvam announces 1 trillion parametre AI model, vision and speech getting new updates - India Today
+## 4. Trump considering AI controls after OpenAI hacking incidents - BBC
+Source: BBC (reputable)
+URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5
+
+Trump considering AI controls after OpenAI hacking incidents BBC
+
+## 5. Sarvam announces 1 trillion parametre AI model, vision and speech getting new updates - India Today
 Source: India Today (reputable)
 URL: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFF2UEtFMkpVa1ZaR0ZmanA2QldYWlJtSXZYbFBmOVRTVVFLVDB5MXgxb3VuN2d1MU1DQzlXN3N5eVBBWVd6QUJBcWFCakRhbUtsRE1NV0NyVElMN1FvZVVwOXBTM21lWWV3ekZUS2pRQjBCT3JsS3NaQkdhNEo1QlJMZkI2bmV0U093dkM2c3hzbnU0ZDgtdHpoM0xWd2tLU1lGWGo5U3dWX1N3ejYybjdxb3hkaGhWcFphVzcxY2NvVXhnX0c1aWI3ZGhhN3VndmpwUG9EQXVTRFRka014Y2wzdkJUN1diVFZr0gHrAUFVX3lxTFBQUXZQS0UySlVrVlpHRmZqcDZCV1haUm1JdlhsUGY5VFNVUUtUMHkxeDFvdW43Z3UxTUNDOVc3c3l5UEFZV3pBQkFxYUJqRGFtS2xETU1XQ3JUSUw3UW9lVXA5cFMzbWVZZXd6RlRLalFCMEJPcmxLc1pCR2E0SjVCUkxmQjZuZXRTT3d2QzZzeHNudTRkOC10emgzTFZ3a0tTWUZYajlTd1ZfU3d6NjJuN3FveGRoaFZwWmFXNzFjY29VeGdfRzVpYjdkaGE3dWd2anBQb0RBdVNEVGRrTXhjbDN2QlQ3V2JUVms?oc=5
 
 Sarvam announces 1 trillion parametre AI model, vision and speech getting new updates India Today
 
-## 5. OpenAI is giving free access to its most advanced ChatGPT models to 1 lakh researchers - India Today
+## 6. OpenAI is giving free access to its most advanced ChatGPT models to 1 lakh researchers - India Today
 Source: India Today (reputable)
 URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMFBCcnhYd3M2RS02YXlRcXlHeXNYWGE4M1c5MFdPOWNaMFBkWHlEMzlwS1NCS2FDY1RxNDJEOS1YeGhVNXJDWE4xNnNnSGl5djhLWGIwZ3BSSTkyVXlMNXJvaGZ5a1U4TXkyMUNpejFIUTJHSDZkWVp3VTgxWDU3SjdPbEoyOF9iN0djQUxTMVZXVTZjNHd2SjAwalZZek5KQy1LU0dqX01tWVdHOG56X2JHX19vRXFYbVNoRXFka25md1dzdjdhclp0a3BzS3IyMTBjX1ZaRdIB3AFBVV95cUxNSU9vYUdyemQxMDZnTFdPaFhtVFlvVHdhMGl0Yk01cVowaTJYZUstTEZWNzdjbDlfNDNjX1EzZDVnUnRmQWxfbkVvTEswOFRYZVBUMWYtSnhyX3FDMDdUUVlmWjBvY3A5emxDMG8wTklCUW5zSThzYVJodUQ5NEo4c3hIU3FkRUQ3dnZmYU10QUExT0tKbEZ4aGYydVRWdzJCV3RSYjZTYjFUNmVyQ0EtM2ZLc01aY3VDSS1VTkFRVDBwMVFoVDNlSjlZRjJRUmNnVEFQUi1qMTh1aVB4?oc=5
 
 OpenAI is giving free access to its most advanced ChatGPT models to 1 lakh researchers India Today
 
-## 6. Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA - digitimes
+## 7. Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA - digitimes
 Source: digitimes (reputable)
 URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTcwMDItWGl1Q2V6LTEtUzQtTGs0dS1jOUNpMzd1TVJ0SUZwdkdLdVNLVmRaSGJCQ0htdmRCVHVmU1drODhfVFpaNUV2VmRpSGpyM0ZsN3FXQVZXSmIwdWUyWGQ4ZjdFNmMxcHo0ZG12cDR3a19vd0Z0MFRmVkF3QzFqbF8wVVREcnVOZGln?oc=5
 
 Commentary: How AMD and Anthropic plan to build an AI factory not dependent on CUDA digitimes
 
-## 7. Qualcomm's push into data centers and cars signals a broader shift in chip strategy - digitimes
+## 8. Qualcomm's push into data centers and cars signals a broader shift in chip strategy - digitimes
 Source: digitimes (reputable)
 URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0JfeWw1eXRPRVRYcGVVSXhUUjFkWWdzNkR5RXYzby1Sb2o4a2lFQlV6SUJmS3BhX3JOc2pBMC1tZm9IS3FiM1JSeHhGWkdVZk9uR3NvUUdTNkNKcnB6c1VlMFBiNEZxMC1RbEN0a25COFM0NzRPaEtZOU9xRXlvZjFla0x2d2tIM2JoazlTVFhVVEs4d2c?oc=5
 
 Qualcomm's push into data centers and cars signals a broader shift in chip strategy digitimes
-
-## 8. Trump considering AI controls after OpenAI hacking incidents - BBC
-Source: BBC (reputable)
-URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5
-
-Trump considering AI controls after OpenAI hacking incidents BBC
 
 ## 9. Microsoft is openly competing with OpenAI, Anthropic more than ever - TechCrunch
 Source: TechCrunch (reputable)

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T09:40:47.254931+00:00",
+  "updated_at": "2026-07-30T12:03:29.407434+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -20,7 +20,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-07-30T09:25:00+00:00",
-      "age_hours": 0.3,
+      "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -34,6 +34,17 @@
       "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Trump considering AI controls after OpenAI hacking incidents - BBC",
+      "what_happened": "Trump considering AI controls after OpenAI hacking incidents BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5",
+      "source_name": "BBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T07:23:11+00:00",
+      "age_hours": 4.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Sarvam announces 1 trillion parametre AI model, vision and speech getting new updates - India Today",
@@ -76,17 +87,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-30T02:35:57+00:00",
       "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Trump considering AI controls after OpenAI hacking incidents - BBC",
-      "what_happened": "Trump considering AI controls after OpenAI hacking incidents BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5",
-      "source_name": "BBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T00:41:28+00:00",
-      "age_hours": 9.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
