@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-30T14:29:51.489246+00:00",
+  "updated_at": "2026-07-30T16:47:46.186502+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Best SSD deal: The Samsung internal SSD 990 is 30% off - Mashable",
+      "what_happened": "Best SSD deal: The Samsung internal SSD 990 is 30% off Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWHlLdUlSM2tJZlE2MzI4NHZ5Q0Y1UTVaQThlQ2lWLUNBU3lJLVYzbFhrV3RLeDAzdzh6R1VQYXQ1ZDJWd0NfSTBhUTZuYU5ZQlkxUTF1MWdFdEJqdHNn?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T16:21:45+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Introducing Gemini Robotics ER 2 - blog.google",
+      "what_happened": "Introducing Gemini Robotics ER 2 blog.google",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTm5kVDZidVI2WUlXTUs4UmplRDVCR1hTOUc4RWY3YnFyRjVUZGNVTVlkT1FTdU1WdkZqQmZfX2pTYlJXRHd5dmR1dWpRZFBrSTNDNXlOX2Jmdkw5NmNTb2ZmM3B5YmJUd1kxOUkxcHJTUm9DTlR1RU5hZ0pFbmNNT3Z4WndfWUdPejRReFlib0lUVzlXS2VHeXlsNA?oc=5",
+      "source_name": "blog.google",
+      "source_level": "primary",
+      "published_at": "2026-07-30T15:12:58+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots - Google DeepMind",
+      "what_happened": "Gemini Robotics 2 brings whole body intelligence to robots Google DeepMind",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEljb2ZqM3EyZWp0SHNWT3NaaWJEQWpITjMtSGQyaHYwd1d0dndlZ2luNl9RaERRbUR4cmlZcDIzUmJDUDNHZ0tDTWNKd0FjTFBFaUc5STF2QkZKbEVJMHhDZzFxOWFpWHZCU2hwTHljQWhNTmZpSlpoN0lTZkwySW9qaTVodnB6Nm9XNjM2MkJEUQ?oc=5",
+      "source_name": "Google DeepMind",
+      "source_level": "primary",
+      "published_at": "2026-07-30T15:04:50+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "GitHub Copilot in Visual Studio \u2014 July update - The GitHub Blog",
+      "what_happened": "GitHub Copilot in Visual Studio \u2014 July update The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDFEX1ZlN0prNVZrQml4Snc3MUtMbUdVZ2tRWUNEM0RYSC1OM0ZwNTJDUFI4SUo2aU85UFZBRHJDVWhIMDJqQjNJNXFxVXk4MUlpZy13U2JfaDZHM2s0SjZvYTUxMHV1WDZTQ29ueldlcC1oWl9jeWl3V2F2dGQtTnRWUGZRVklqRDNnVDhR?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-07-30T15:01:48+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "[Interview] [Galaxy Unpacked July 2026] Inside the Engineering Behind the Latest Galaxy Z Series",
       "what_happened": "On July 22 at Galaxy Unpacked July 2026, Samsung Electronics unveiled Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8, marking the eighth generation of the Galaxy Z series. Across seven generations, Samsung has helped define the foldable category through advances in display technology, hinge engineering and materials innovation \u2014 all driven by [\u2026]",
@@ -287,50 +331,6 @@
       "age_hours": 17.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung Galaxy users complain of battery drain and overheating after update - Mashable",
-      "what_happened": "Samsung Galaxy users complain of battery drain and overheating after update Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTFMLUR6MkVPZjRCZEM3bUJ2cHVrdEpveGFiRVNMSHFmenhnTnA2ckltYUtBdDI5YTVTcjBIR0xxWHlrR2c4Nk41MER4Q29mLW5QVEZGak84MGtlMnRDa3hPcjJBZGJRNVlmcHFpRHBHZTZWNlFZa1NRc2ExbzlBZzIwSm5SVUU?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T15:35:23+00:00",
-      "age_hours": 6.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Intel\u2019s U.S. Advanced Packaging Enables Next-Generation AI Semiconductors",
-      "what_happened": "As AI demands unprecedented \"brain power,\" the semiconductor industry is moving past the era of relying on single, massive chips. Advanced packaging is the essential craft of interconnecting multiple specialized chips together. This allows them to function as a single, powerful unit that runs faster handling the massive workloads of the future.Intel\u2019s been doing advanced \u2026 The post Intel\u2019s U.S. Advanced Packaging Ena",
-      "source_url": "https://newsroom.intel.com/intel-foundry/intels-us-advanced-packaging-enables-next-generation-ai-semiconductors",
-      "source_name": "newsroom.intel.com",
-      "source_level": "primary",
-      "published_at": "2026-07-29T15:00:03+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "How are AI models able to autonomously hack others? - Al Jazeera",
-      "what_happened": "How are AI models able to autonomously hack others? Al Jazeera",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU09BWnhmMktRRlBFR2gtNTFGVWRDSmhSOXc2b25VWkF5RFNMZnk5Q2VoVmcySGp0a0M5WGpiZm11cTlrcGttYVJYV1BLZTBvaklMYzlvZFdhdEJ3STMzOVBITHc2U0ctZ20tY1BINlY3bHdFUzlPUTVzb1pUZGFJRy12VWlxU2F5MkZ0QW1JZEFKV09iTFHSAZsBQVVfeXFMUEc0S1ZLNVdQZmp5LW5uQU1scFIySUItRUY1MVAzU2JiWVZ5dE13YjM1ZnJIQUh0bjAxdWx1bEdhM3NQSVBjVm1yQnVRR0hSWTVXUnFseGtlblN5SGNhNU1yVHhJRk9sdHlWQ1p3R3BMX3hZLXhuVFVHcWlHdGNFWVZLdzZERVNOamRBbVJsMjczeTZaaU9pU1I1RHc?oc=5",
-      "source_name": "Al Jazeera",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T13:29:46+00:00",
-      "age_hours": 1.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more - CNBC",
-      "what_happened": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVlY1Ukx4MzJoZFMyX0xSMElyTUxIY1VmXzFQV3hTY2RjS0tkZmNuTUFlUkhRcm45NmNXTTVpbUtFcWNIdFJZNWVPYkRYQ2RQR3MzeVhmOVVyYkZFZHpRTjFHNDl0Q2hpc1VaVDU5Y2JNS0c3WmRFM051dVBjYnVHdmRaYkxaV1ZkWmQyLTdoSWUxY3NlU2g4?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T12:17:11+00:00",
-      "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
