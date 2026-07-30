@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-30T20:34:35.227402+00:00",
+  "updated_at": "2026-07-30T22:18:20.920621+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Apple\u2019s iPhone and Mac sales keep growing despite RAM shortages - The Verge",
+      "what_happened": "Apple\u2019s iPhone and Mac sales keep growing despite RAM shortages The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01b0kyOV83cTVBUEQ5WXMtX3c1UnhKVndDUlQ5a2hIT3lEV2hSekdqYVdWZF91YXBIQ2hqY0VNS0Q2cHRoOG00a2NacGFuX2VlVUNhYmdwWUo5RGhlV3ZYbnFEdGpBV09nZnVF?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T20:49:32+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Apple reports third quarter results",
       "what_happened": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
@@ -10,6 +21,17 @@
       "source_level": "primary",
       "published_at": "2026-07-30T20:30:21.672000+00:00",
       "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6 - OpenAI",
+      "what_happened": "Advancing the price-performance frontier with GPT-5.6 OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-30T20:29:58+00:00",
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -34,6 +56,17 @@
       "age_hours": 0.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "GitHub Models is now retired - The GitHub Blog",
+      "what_happened": "GitHub Models is now retired The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtRFlfNkNxWXdwOG5IeGpQVjlkMk1LOUlyMzVGaFJVS0IxT0VxczZxMkhTQ2ViYTBNRmxabUl4OUxuYVVPcDZ2YmhnYjFFY0wzN1BtN2lpYTktMFF3eHdndmpkQXUwMFBxcjM0aHV2akF3bV9tZ0ltYWlB?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-07-30T19:14:22+00:00",
+      "age_hours": 3.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "US signs letters of intent worth $874 million to boost semiconductor research - Reuters",
@@ -64,7 +97,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-30T17:30:24+00:00",
-      "age_hours": 3.1,
+      "age_hours": 4.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -78,17 +111,6 @@
       "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6 - OpenAI",
-      "what_happened": "Advancing the price-performance frontier with GPT-5.6 OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-30T17:16:22+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Best SSD deal: The Samsung internal SSD 990 is 30% off - Mashable",
@@ -309,28 +331,6 @@
       "age_hours": 8.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls - Reuters",
-      "what_happened": "OpenAI's Sam Altman discusses rogue agent with US senators, as Trump considers AI controls Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNejhjek5UdU8zQTFoVHhhUHQ5QVBISGpCenZVVlA4RUw5R2FkZUpCYXJNNnBDV0x1ZUhNaW8wdVRDcnpDc2lYNWNmOGF4a3NTbmZ1aFNNbHI0OE1vQ0pud0haNFZsSjhOaVVCOS01UHZrSEo3OHB3U1ZqQUtaRkphNkhFbnBpZUVxaE50ZXZBcmV4M0ZGbzlWVE93NElKc3gzWHI0MG1NQndMYWM5MlBQTGRTODZMN24wU0pmQ2dRSFRTZw?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T21:39:45+00:00",
-      "age_hours": 2.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "NVIDIA Sets Conference Call for Second-Quarter Financial Results - NVIDIA Newsroom",
-      "what_happened": "NVIDIA Sets Conference Call for Second-Quarter Financial Results NVIDIA Newsroom",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbVpVTkZFc2k0UUJxejF1dFlJTVBiaEc4MmNRV0REczlKSVlCdDNuZUtOWmJtY3ltLU1ZUS1COXpWUUJ2bzJiR1FjamZmRTY4TVJodUdqcG1rQzRGTjl2WTNlV3JvZzNhNmU1blk0ZTViNEhDa1E4SURDWHJRakw0aHBSUXlYTEEzeFFwYVVFUEVlMGdUQ1RLZ3FaWXhWMGlwTkxwcEU4NW12b3c?oc=5",
-      "source_name": "NVIDIA Newsroom",
-      "source_level": "primary",
-      "published_at": "2026-07-29T21:07:42+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
