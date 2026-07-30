@@ -1,15 +1,70 @@
 {
-  "updated_at": "2026-07-30T16:47:46.186502+00:00",
+  "updated_at": "2026-07-30T18:44:13.285349+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "US signs letters of intent worth $874 million to boost semiconductor research - Reuters",
+      "what_happened": "US signs letters of intent worth $874 million to boost semiconductor research Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2N6YTNQZGpiY3RtS1lDbjFBV0U1eHQ1MzY5QVNDZ1FtSi1MT2ctX2p6UlJjdExjdWhQemdWb3l6ckp2NFEycEVSNGJSM0FTOHRwZGswcVZiVUh4b1cyeVRzdGJRR2xsWkJJd19tQ0hhbk9LSzB6U1d3alJVeW5kMDhUUDFLaEhOLXJPaHRXU2wzbTdJTEdLQXZWaWZ6WGJLQXlZeGVQYVZKT1pLTEQ2ejRhUE5aeGFE?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T18:35:43+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Tech and chip makers lose $1 trillion in massive AI sell-off - Mashable",
+      "what_happened": "Tech and chip makers lose $1 trillion in massive AI sell-off Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9saDdmZUNpMVJzTkU5eG1QZXZyZDhKVTlNQTJ0NzlKOGFULU45eTZ6MHZWeWw4UlFjcVlDUFZFUnprdjlXNklReHZvWVJ3QWNTaHpEb3F0ejlpcTNQT3ZBQ1dmcXhlOW94SlhOYThmSHptOW5HSHNneHJJcWQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T18:27:28+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "what_happened": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-07-30T17:30:24+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body - The Verge",
+      "what_happened": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORENXNFhPbHQ1RVpaNGpWd3ZLRTZWdkVuWmExazBfdndpVk43SWZRLWpzMEFDR2pvTGdCbTlVSGxmNWZIR1MtOW44YXJTMVFnVmc1UUJFdS1KSElWYnVLcWdva1Y0OWd0S1psZEdlb3BjeWhyekhLSnJsNmRtaTdVTW9wR1FqdmxQ?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T17:18:45+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6 - OpenAI",
+      "what_happened": "Advancing the price-performance frontier with GPT-5.6 OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-07-30T17:16:22+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Best SSD deal: The Samsung internal SSD 990 is 30% off - Mashable",
       "what_happened": "Best SSD deal: The Samsung internal SSD 990 is 30% off Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWHlLdUlSM2tJZlE2MzI4NHZ5Q0Y1UTVaQThlQ2lWLUNBU3lJLVYzbFhrV3RLeDAzdzh6R1VQYXQ1ZDJWd0NfSTBhUTZuYU5ZQlkxUTF1MWdFdEJqdHNn?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
-      "published_at": "2026-07-30T16:21:45+00:00",
-      "age_hours": 0.4,
+      "published_at": "2026-07-30T16:11:12+00:00",
+      "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +97,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-30T15:01:48+00:00",
-      "age_hours": 1.8,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -276,61 +331,6 @@
       "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "What\u2019s the catch with the Apple Upgrade program? - The Verge",
-      "what_happened": "What\u2019s the catch with the Apple Upgrade program? The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96OXgyNDBLanVXUkZZbDRNRWN6dGw0SldBYmIyRXRQUnBMTVRORjl5THFfMHNnU0ZsNThvVmlUdDFrZl9VZThfNXYwUUIwNGRqYmE4Vl9UU1VEdUFCY0JTQWFjamZ5c3NiSVF6a29SRXI?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T18:40:06+00:00",
-      "age_hours": 4.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Z Fold and Flip 8 pricing: Is going with the older model more affordable? - Mashable",
-      "what_happened": "Samsung Z Fold and Flip 8 pricing: Is going with the older model more affordable? Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE90VGNoeW5uN2NHMF9BZGlxaDZ1QmhoWXJSSXNvemRwMUVSVHJ1ZXBkS0RvbDhiU1NwZGk0RGtnMzFDVEl3ZFNXV0RPOTY4QTM0bFBQejRKUUZFZzFvRDlnZTNPN2EwaHd4X2JsQlJ4TnRzZw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T18:30:01+00:00",
-      "age_hours": 3.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models - WIRED",
-      "what_happened": "It\u2019s Frighteningly Easy to Jailbreak Some Frontier AI Models WIRED",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNFBwNDJQRkw0VnhCelRZOHl4a3E3TnNBNzY4VFpNZVhYUU9nc1ZrSllwdjdxbC1BWnRLcjRWWkRwVkFzWHh3TzNnMGNESWJPVk51di1TdVhNZlVTT2xWYl8yN1hPNk1ZZzZjZzhxLWs1X1BqZC1TQTYyeDRwX29IV0tzNzFGUVJzWTdFVA?oc=5",
-      "source_name": "WIRED",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T18:30:00+00:00",
-      "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple Upgrade program: Common questions about Apple's new leasing program, answered - Mashable",
-      "what_happened": "Apple Upgrade program: Common questions about Apple's new leasing program, answered Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jeE90NWFqZnNncWtBMEtTalF1Wl9zOGZYUUlCSE5VWjRhXzI3VDBsLVQzRTlGTXlpWDMyeU90cWtUTVdnWGhiQWVQdGcwbWdyTnZnQnAwTjYwallZcmdKX2doVlFFZV8tSE9OWk5fM0l4QjQ4?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T17:09:55+00:00",
-      "age_hours": 2.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
-      "what_happened": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-07-29T16:00:00+00:00",
-      "age_hours": 17.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
