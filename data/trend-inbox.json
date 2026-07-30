@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T06:40:06.750332+00:00",
+  "updated_at": "2026-07-30T09:40:47.254931+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,15 +14,37 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
+      "title": "What Chinese AI model Kimi\u2019s success says about the next phase of US-China AI race - The Indian Express",
+      "what_happened": "What Chinese AI model Kimi\u2019s success says about the next phase of US-China AI race The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOai1pRzRqMi05b2hJWHNmZVhUcXNqc3huR2hfVHkxbEU1ZzBHUUpEMkg3Ymc2SGxIeUxYa1hkQWpBYURYeTY0YWVLMGFEREc0aF9Peld6MV9FQ3lCNWw4Vm9GczJMZFZNcjhHMEJkVHo3aGRUdlRkNFdfLW5BX0k4RWNBTWw2azBHVzZxR2lLQWlaeXZRTnIyaFV2ZEc4RXNnWWNteXVjcHcxRm9Ha0RQZG1UZXJfV3FsZHfSAcABQVVfeXFMTmlIUjhkSEthM0dMVFZYbUlicHR1Z3hYQVEzZUo3Q2F3eTZxbVlad2ZQMU5IVG1MeU03clVibGZsMW01MUlWMFN5WWhkQjI2RW04cTIwTnJvd0JPNnZ6a2stVlpwWnFYazltUTllUWcxVjRtM05JZmFaYWw0NURqSWIxM3ZJb3dEOUlIMGJkT3F5OHRnWXJjQkFaYzJ6eDE5NzZGLVlTN3VGdG84RlFTVHNJQmZrdlNrWjFEYWJYWmYw?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T09:25:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Samsung Electronics Announces Second Quarter 2026 Results",
       "what_happened": "Samsung Electronics today reported financial results for the second quarter ended June 30, 2026. The Company posted KRW 171.5 trillion in consolidated revenue, another all-time quarterly high, representing a quarter-on-quarter (QoQ) increase of 28%. Operating profit also reached another all-time high, increasing to KRW 89.5 trillion. Earnings per share for both common and preferred shares [\u2026]",
       "source_url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-07-30T08:56:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Sarvam announces 1 trillion parametre AI model, vision and speech getting new updates - India Today",
+      "what_happened": "Sarvam announces 1 trillion parametre AI model, vision and speech getting new updates India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFF2UEtFMkpVa1ZaR0ZmanA2QldYWlJtSXZYbFBmOVRTVVFLVDB5MXgxb3VuN2d1MU1DQzlXN3N5eVBBWVd6QUJBcWFCakRhbUtsRE1NV0NyVElMN1FvZVVwOXBTM21lWWV3ekZUS2pRQjBCT3JsS3NaQkdhNEo1QlJMZkI2bmV0U093dkM2c3hzbnU0ZDgtdHpoM0xWd2tLU1lGWGo5U3dWX1N3ejYybjdxb3hkaGhWcFphVzcxY2NvVXhnX0c1aWI3ZGhhN3VndmpwUG9EQXVTRFRka014Y2wzdkJUN1diVFZr0gHrAUFVX3lxTFBQUXZQS0UySlVrVlpHRmZqcDZCV1haUm1JdlhsUGY5VFNVUUtUMHkxeDFvdW43Z3UxTUNDOVc3c3l5UEFZV3pBQkFxYUJqRGFtS2xETU1XQ3JUSUw3UW9lVXA5cFMzbWVZZXd6RlRLalFCMEJPcmxLc1pCR2E0SjVCUkxmQjZuZXRTT3d2QzZzeHNudTRkOC10emgzTFZ3a0tTWUZYajlTd1ZfU3d6NjJuN3FveGRoaFZwWmFXNzFjY29VeGdfRzVpYjdkaGE3dWd2anBQb0RBdVNEVGRrTXhjbDN2QlQ3V2JUVms?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T07:18:18+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "OpenAI is giving free access to its most advanced ChatGPT models to 1 lakh researchers - India Today",
@@ -60,11 +82,11 @@
     {
       "title": "Trump considering AI controls after OpenAI hacking incidents - BBC",
       "what_happened": "Trump considering AI controls after OpenAI hacking incidents BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kVzAxSWk5cThzeUJld1hVbm4wRlBVMnN4QTA5T3VXb3l6ZHo2dm9XOERlV1lrc0R1N2EzajNoWHpIUDVCZjBzeWYxUzg4eHNmcUwza3c2UkhyTm9v?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5",
       "source_name": "BBC",
       "source_level": "reputable",
       "published_at": "2026-07-30T00:41:28+00:00",
-      "age_hours": 6.0,
+      "age_hours": 9.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -262,7 +284,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-29T16:00:00+00:00",
-      "age_hours": 14.7,
+      "age_hours": 17.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-29T12:17:11+00:00",
       "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple set for strongest June-quarter sales growth in 5 years - Reuters",
-      "what_happened": "Apple set for strongest June-quarter sales growth in 5 years Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW5OMTZJaTdoN2ItUzRBN1pXUmg0Mkhfbld2djB4RHhCRlpMbnJDTVl5OE9MMExmd3I2U0NQY01mSFZpamZrczVJSGJpdGtFMlVYSGEzSnFRRTY1RTJQWnRINEU2VU1kaHhKSm1vYk9FRTVVZG00cWZfckQ3akdCUFk1LUZKTFgxenpPb19vMkJrRUJaa1FNektvVUJIem9WejB6bUpONVBFOWJVM2Rhc0E3aHY?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T10:59:02+00:00",
-      "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "ASM International Shares Slump After Chip-Equipment Supplier\u2019s Guidance Underwhelms - WSJ",
-      "what_happened": "ASM International Shares Slump After Chip-Equipment Supplier\u2019s Guidance Underwhelms WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTm51SG9oQmtlNzdjck5zZzZjbzk1dzlpSmhtUjdRQ29MR19jRmJNY3NKQkVpRHBZVkt1eFlHNDZIU2xUWW44TmNCaVlxQ1ltUERCNUJSTDg5U051YWRHbzBPekNNQ2FGNVUzdzRVaVJLNUJZQ3dvakw4cktGNDg0VVJScHdydDZFVjhSeUlKNHRRZC1zSUpQOFV2QUc3X1RmR3VETk0zX0NmU3BfLU43c0dfQ2tlZlFsUTBIMmUwWGNoeFlBZ2NxRQ?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T09:02:00+00:00",
-      "age_hours": 0.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
