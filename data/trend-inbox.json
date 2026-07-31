@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T03:50:56.753676+00:00",
+  "updated_at": "2026-07-31T07:12:54.908548+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -23,6 +23,28 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "LG unveils K-Exaone 2.0, Korea\u2019s largest open-source AI model on Hugging Face - Korea JoongAng Daily",
+      "what_happened": "LG unveils K-Exaone 2.0, Korea\u2019s largest open-source AI model on Hugging Face Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmpFT3BkdUM1enEzZGl4QmUyR3pKQVUyYWwxT1FtSldkMG9OUVdKY0RqMmtDMXZlN0p0SmlFTU9ibktITUJZSUQxZ2dYalpwTG8wTjBiVTJ6aG9Oay1JcGVjWFYxTldxdjRzRmFHNWh0NVlFS3A4amdRdTdmRHpudEdIUHJEanJJeVhDY1VpYi1fZTNzcldCVGVhNHY0X1pjaEVDTjVRb2pOTTI1RkE?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T07:09:59+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Claude AI hacked 3 companies using basic techniques, Anthropic admits mistake - India Today",
+      "what_happened": "Claude AI hacked 3 companies using basic techniques, Anthropic admits mistake India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnF5S0prZ01xcDBZVUdBS1FJeEJLeFpqQW1UYzNCcDQ0S3lhaElNeUVTUUhYc2hQYjQ4WUozcXUwbmZHNUtYbzhUUl9kRG5NMHFpNE5PQ0NkTXFabFNwczl1a1Y0QjZHc0UxdjBnVURDQ190d0R5NmxtREFzQmZCdUxlQm51dm9FeURNU2VVb3R3RjZObllkME1INWp4cTRJLTJENjBYTlZJajBPU25RaDhsb19PMW9ZUFlaemJaNjdDMkxjTzZBLW9qRjU1T2ExOTlXdDUxREZPOHhVZHJTUNIB4AFBVV95cUxQYnF5S0prZ01xcDBZVUdBS1FJeEJLeFpqQW1UYzNCcDQ0S3lhaElNeUVTUUhYc2hQYjQ4WUozcXUwbmZHNUtYbzhUUl9kRG5NMHFpNE5PQ0NkTXFabFNwczl1a1Y0QjZHc0UxdjBnVURDQ190d0R5NmxtREFzQmZCdUxlQm51dm9FeURNU2VVb3R3RjZObllkME1INWp4cTRJLTJENjBYTlZJajBPU25RaDhsb19PMW9ZUFlaemJaNjdDMkxjTzZBLW9qRjU1T2ExOTlXdDUxREZPOHhVZHJTUA?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T06:18:01+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Anthropic says Claude AI models breached systems of 3 companies during cybersecurity tests - The Indian Express",
@@ -174,7 +196,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-30T17:30:24+00:00",
-      "age_hours": 10.3,
+      "age_hours": 13.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -207,7 +229,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-07-30T15:12:58+00:00",
-      "age_hours": 12.6,
+      "age_hours": 16.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -229,7 +251,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-30T15:01:48+00:00",
-      "age_hours": 12.8,
+      "age_hours": 16.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-30T05:56:09+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Qualcomm's push into data centers and cars signals a broader shift in chip strategy - digitimes",
-      "what_happened": "Qualcomm's push into data centers and cars signals a broader shift in chip strategy digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM0JfeWw1eXRPRVRYcGVVSXhUUjFkWWdzNkR5RXYzby1Sb2o4a2lFQlV6SUJmS3BhX3JOc2pBMC1tZm9IS3FiM1JSeHhGWkdVZk9uR3NvUUdTNkNKcnB6c1VlMFBiNEZxMC1RbEN0a25COFM0NzRPaEtZOU9xRXlvZjFla0x2d2tIM2JoazlTVFhVVEs4d2c?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T02:35:57+00:00",
-      "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever - TechCrunch",
-      "what_happened": "Microsoft is openly competing with OpenAI, Anthropic more than ever TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWhuY2s3SC1VTV9rLTRCUmF4WGVZVHh3RGJYVTFvcHpjLWg1SmJfMEh4dVRuQkdkRkRSa0tZV3FCUU9UVTJ3VE55eERfNkhldHBxcWl2WGFxUnJJTDN2Vm5RdV93Y0d3aS1sTFBrV25xa21FZG9ObmVWaTMtMUZPMkk4MnJDWDZsTWFlUFI1cVV0MnlwUmhubHhIbmZIZktEZXBF?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T00:21:06+00:00",
-      "age_hours": 3.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
