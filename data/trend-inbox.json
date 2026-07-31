@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-07-31T14:37:19.395001+00:00",
+  "updated_at": "2026-07-31T16:56:13.761397+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Companies from US, Europe, Japan among those keen to join India's chip making ecosystem: Official - Moneycontrol.com",
+      "what_happened": "Companies from US, Europe, Japan among those keen to join India's chip making ecosystem: Official Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFdrYW5Bc0FBVmo4czZHb0hXbW5wZWNCNEJIeDE1dlROendzMEdxbVNKM3hjTUphYVRWMXhaMnZ5aVhtSDVKQlMxcjFfWG5ZSXR6OEMySkhoQnNoUkZMRWRzb1BCZGdMbDI2R2QteGpQbExMc1dMbzBienYzallsSHQ3V0p3U0h5ZXlObzJockxLUHNNMlQwTlpjTWdwX0dxa2JaYTBFODZaclpMem1UeEZvUFZOdV85cjk1SlFsY19XSFZWeHFFOGZrZlRaVmw1VkItdXV3UnNFblkta0FyckpJX3ZzZ9IB6wFBVV95cUxPVnpXUFNndERDdDFEdmJPVHhSMG9TZ3B1bXFYZXI5OUttWnoxbmdod3pVMEREa1ZUXzRubUJRZ3dvazRkNkZzUG5reThPMWNzZlNES2oxbXY2aWpNRHZIQVFSTmExcVEwOXhXWVAzV2V4Y2dqSm1sTDdtOTBfU012NGhGUHNZN2NSRTZpTUpiQi1PSkdrd1dfT1Q4ZkxOejNjdFVRYnhyNWd0Q0tmZUVyUmZwYUM5S0ZaRFljVDVDME11ZWhoZUppby1zOTRnR1NZNVdOdk1qajhnLWEtMm53N2NxaWoxMDl5eXI4?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T16:47:45+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Don\u2019t stop early: Case-folding source code at memory speed",
+      "what_happened": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don\u2019t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-07-31T16:00:00+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028 - TechCrunch",
+      "what_happened": "Samsung expects memory shortage to worsen through 2027 and last until 2028 TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmtZXzZfZjc1dThRTXAyUGJ1bW5nWHdncTh4dXo3SzNHYnNSRGRnUlZPT2xRdExpWkZIVjBWcFVZMHpkOUJqOHVQVHpWaEw4cTVaZENrVXVmaFNNd2Q3TFkwRzBzbjNlLU4xSkVfVzZreW5pdG5WQTRwMGxsS0VPWVZoaHBQZUowN0FCdDJXalhLWHlrSVlUSmJ6SzU2U1lMbXVCWnpOUXVMM2F0cWc?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T15:37:58+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models - CNBC",
+      "what_happened": "U.S. lawmakers request information from DoorDash on use of Chinese AI models CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmlsRTliVVMyYzluS1l0d2JPUmxUMDY4cjZKYWp6bERkUHhuVkszem1Ga0ZJYTN1dXVfcVNHbGx3U2QzY3lYNkNjN0VlZjhxU1FrRkNTZGJueTVZSFFEWEFodjNCUTZnVHVmaXU4LTJZWnFKRlhqMmVYV05xX3lFT2dn0gGHAUFVX3lxTE5tc09LT0c2aXdwa3c5RmlSVExTbmRsTmdqb2w1QmxsMGNQb1ctVzJCQ2VGZ3djTkpqSHRWZFhhY3A2QVItWUhpUVlXS2hwTVlCbVplOS1jSEZoU1hIVVFBanluczl5dHk2X0d5Mm9RTzFiVEtoQU5rWFI3SF9iVlJaSlR3SDc4QQ?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T14:39:59+00:00",
+      "age_hours": 2.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple Slump Drags on Tech Stocks - WSJ",
+      "what_happened": "Apple Slump Drags on Tech Stocks WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakZJSnYtc0Q2VHd2YVlWSWRjdThSS0FKeFVoLUk0cEZOMXhzajN4dlhGWVRHdVhSSEtMQWhsdjFWMnFjbnltTWRWMWM3eWRIOU8zd3JSa3ZtYUZDS0N0UW5JRE82N3ZzZG9ZcG5DN3R6bDRsbFNxOTd6YXRNcEFxVldrc3J0Zjg1QVgxM1RiaW1oMGxzTFpB?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T14:33:00+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Amazon, chipmakers lift US stocks despite oil and inflation worries - India Today",
       "what_happened": "Amazon, chipmakers lift US stocks despite oil and inflation worries India Today",
@@ -240,7 +295,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-30T17:30:24+00:00",
-      "age_hours": 21.1,
+      "age_hours": 23.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -274,61 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-07-30T15:12:58+00:00",
       "age_hours": 16.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots - Google DeepMind",
-      "what_happened": "Gemini Robotics 2 brings whole body intelligence to robots Google DeepMind",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEljb2ZqM3EyZWp0SHNWT3NaaWJEQWpITjMtSGQyaHYwd1d0dndlZ2luNl9RaERRbUR4cmlZcDIzUmJDUDNHZ0tDTWNKd0FjTFBFaUc5STF2QkZKbEVJMHhDZzFxOWFpWHZCU2hwTHljQWhNTmZpSlpoN0lTZkwySW9qaTVodnB6Nm9XNjM2MkJEUQ?oc=5",
-      "source_name": "Google DeepMind",
-      "source_level": "primary",
-      "published_at": "2026-07-30T15:04:50+00:00",
-      "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "GitHub Copilot in Visual Studio \u2014 July update - The GitHub Blog",
-      "what_happened": "GitHub Copilot in Visual Studio \u2014 July update The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaDFEX1ZlN0prNVZrQml4Snc3MUtMbUdVZ2tRWUNEM0RYSC1OM0ZwNTJDUFI4SUo2aU85UFZBRHJDVWhIMDJqQjNJNXFxVXk4MUlpZy13U2JfaDZHM2s0SjZvYTUxMHV1WDZTQ29ueldlcC1oWl9jeWl3V2F2dGQtTnRWUGZRVklqRDNnVDhR?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-07-30T15:01:48+00:00",
-      "age_hours": 23.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "[Interview] [Galaxy Unpacked July 2026] Inside the Engineering Behind the Latest Galaxy Z Series",
-      "what_happened": "On July 22 at Galaxy Unpacked July 2026, Samsung Electronics unveiled Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8, marking the eighth generation of the Galaxy Z series. Across seven generations, Samsung has helped define the foldable category through advances in display technology, hinge engineering and materials innovation \u2014 all driven by [\u2026]",
-      "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-inside-the-engineering-behind-the-latest-galaxy-z-series",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-07-30T10:41:00+00:00",
-      "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "What Chinese AI model Kimi\u2019s success says about the next phase of US-China AI race - The Indian Express",
-      "what_happened": "What Chinese AI model Kimi\u2019s success says about the next phase of US-China AI race The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOai1pRzRqMi05b2hJWHNmZVhUcXNqc3huR2hfVHkxbEU1ZzBHUUpEMkg3Ymc2SGxIeUxYa1hkQWpBYURYeTY0YWVLMGFEREc0aF9Peld6MV9FQ3lCNWw4Vm9GczJMZFZNcjhHMEJkVHo3aGRUdlRkNFdfLW5BX0k4RWNBTWw2azBHVzZxR2lLQWlaeXZRTnIyaFV2ZEc4RXNnWWNteXVjcHcxRm9Ha0RQZG1UZXJfV3FsZHfSAcABQVVfeXFMTmlIUjhkSEthM0dMVFZYbUlicHR1Z3hYQVEzZUo3Q2F3eTZxbVlad2ZQMU5IVG1MeU03clVibGZsMW01MUlWMFN5WWhkQjI2RW04cTIwTnJvd0JPNnZ6a2stVlpwWnFYazltUTllUWcxVjRtM05JZmFaYWw0NURqSWIxM3ZJb3dEOUlIMGJkT3F5OHRnWXJjQkFaYzJ6eDE5NzZGLVlTN3VGdG84RlFTVHNJQmZrdlNrWjFEYWJYWmYw?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T09:25:00+00:00",
-      "age_hours": 2.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Electronics Announces Second Quarter 2026 Results",
-      "what_happened": "Samsung Electronics today reported financial results for the second quarter ended June 30, 2026. The Company posted KRW 171.5 trillion in consolidated revenue, another all-time quarterly high, representing a quarter-on-quarter (QoQ) increase of 28%. Operating profit also reached another all-time high, increasing to KRW 89.5 trillion. Earnings per share for both common and preferred shares [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-electronics-announces-second-quarter-2026-results",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-07-30T08:56:00+00:00",
-      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
