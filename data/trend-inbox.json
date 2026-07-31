@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-07-31T20:36:12.697206+00:00",
+  "updated_at": "2026-07-31T22:15:13.486839+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Exclusive: OpenAI Previews \u2018Astra\u2019 AI Model in DC - The Information",
+      "what_happened": "Exclusive: OpenAI Previews \u2018Astra\u2019 AI Model in DC The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNBZGhQZFk0YXdGc0FQRUsxd0Jrd2RuTkRBXzFMMTdpUXZqZWpOYjR5dEhrMkg4X0hYcjFEemFBWEdGQU9Tc1hjMXZWN0lxQVlNU2FBcHpMQ0ctSHplVklWOEFhQmljYTQ0NERkZ3V5di0tZUR3Rm1zX0R3X1k1MDRDNzRydEFtenplMg?oc=5",
+      "source_name": "The Information",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T22:09:00+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "FTC approves IonQ acquisition of SkyWater semiconductor \u200dfoundry - Reuters",
+      "what_happened": "FTC approves IonQ acquisition of SkyWater semiconductor \u200dfoundry Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T21:46:29+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "After stock market whiplash, Korea's chip industry now faces growing China risk - Korea JoongAng Daily",
+      "what_happened": "After stock market whiplash, Korea's chip industry now faces growing China risk Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORXdkZzJadmoyNkJKUERla0Iya2NfdUxJbEVveVBvRnEySWpzOS1xaWpuNkR3OGhFak5qRjdvZ3FRUnh6Y0czNDRUaWxGdE5oN0NrOFpURTdCalBsWl9vX0lLc3FEbnZKWTkwaktKeE9fUzZtdlotS1ZPZWNJeVJoV1RrZmo4R2loR2JuZF9oWkFXLWozZURSLW5raDNjakM1Z3NPUS1Db1ZaVHR4X1B2MFZSTW5sZWZ3Wks0Y2JDUVJFTHotY0JHSEI0VFo5RFU?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T21:04:08+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes - WSJ",
+      "what_happened": "U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkI4Ty1IeVBJQm5ZOEJIcVdYMXVCZjVBSlAtUXJCbDFZaWtDZ2xrWGtGTUNGQlU4NXZEVElhQjNuY1owdElXSUpvU3RlMVE4ckVVNE9uekZMR0d4T3BSQ0E1X1k2MTFXYUxZQkJZZW10UGdmRnFlbV9WUURtTmI3YlpOdmJVNEFVZ0IycVUxRmdFMHpzcnJtYjdnOXNwUmtRVVpB?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T20:40:00+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Chip Rebound Gives Stocks a Reprieve After Heady Month - Bloomberg",
       "what_happened": "Chip Rebound Gives Stocks a Reprieve After Heady Month Bloomberg",
@@ -42,7 +86,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 4.6,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -287,50 +331,6 @@
       "age_hours": 0.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "GitHub Models is now retired - The GitHub Blog",
-      "what_happened": "GitHub Models is now retired The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtRFlfNkNxWXdwOG5IeGpQVjlkMk1LOUlyMzVGaFJVS0IxT0VxczZxMkhTQ2ViYTBNRmxabUl4OUxuYVVPcDZ2YmhnYjFFY0wzN1BtN2lpYTktMFF3eHdndmpkQXUwMFBxcjM0aHV2akF3bV9tZ0ltYWlB?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-07-30T19:14:22+00:00",
-      "age_hours": 3.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "US signs letters of intent worth $874 million to boost semiconductor research - Reuters",
-      "what_happened": "US signs letters of intent worth $874 million to boost semiconductor research Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2N6YTNQZGpiY3RtS1lDbjFBV0U1eHQ1MzY5QVNDZ1FtSi1MT2ctX2p6UlJjdExjdWhQemdWb3l6ckp2NFEycEVSNGJSM0FTOHRwZGswcVZiVUh4b1cyeVRzdGJRR2xsWkJJd19tQ0hhbk9LSzB6U1d3alJVeW5kMDhUUDFLaEhOLXJPaHRXU2wzbTdJTEdLQXZWaWZ6WGJLQXlZeGVQYVZKT1pLTEQ2ejRhUE5aeGFE?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T18:35:43+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Tech and chip makers lose $1 trillion in massive AI sell-off - Mashable",
-      "what_happened": "Tech and chip makers lose $1 trillion in massive AI sell-off Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9saDdmZUNpMVJzTkU5eG1QZXZyZDhKVTlNQTJ0NzlKOGFULU45eTZ6MHZWeWw4UlFjcVlDUFZFUnprdjlXNklReHZvWVJ3QWNTaHpEb3F0ejlpcTNQT3ZBQ1dmcXhlOW94SlhOYThmSHptOW5HSHNneHJJcWQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T18:27:28+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
-      "what_happened": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-07-30T17:30:24+00:00",
-      "age_hours": 23.4,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
