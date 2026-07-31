@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T22:15:13.486839+00:00",
+  "updated_at": "2026-07-31T23:16:28.485431+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "The Information",
       "source_level": "reputable",
       "published_at": "2026-07-31T22:09:00+00:00",
-      "age_hours": 0.1,
+      "age_hours": 1.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-07-31T21:46:29+00:00",
-      "age_hours": 0.5,
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -41,8 +41,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkI4Ty1IeVBJQm5ZOEJIcVdYMXVCZjVBSlAtUXJCbDFZaWtDZ2xrWGtGTUNGQlU4NXZEVElhQjNuY1owdElXSUpvU3RlMVE4ckVVNE9uekZMR0d4T3BSQ0E1X1k2MTFXYUxZQkJZZW10UGdmRnFlbV9WUURtTmI3YlpOdmJVNEFVZ0IycVUxRmdFMHpzcnJtYjdnOXNwUmtRVVpB?oc=5",
       "source_name": "WSJ",
       "source_level": "reputable",
-      "published_at": "2026-07-31T20:40:00+00:00",
-      "age_hours": 1.6,
+      "published_at": "2026-07-31T20:41:44+00:00",
+      "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -86,7 +86,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 6.3,
+      "age_hours": 7.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
