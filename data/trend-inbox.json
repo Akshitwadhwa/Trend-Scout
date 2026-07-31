@@ -1,15 +1,26 @@
 {
-  "updated_at": "2026-07-31T12:15:40.299938+00:00",
+  "updated_at": "2026-07-31T14:37:19.395001+00:00",
   "retention_hours": 48,
   "items": [
     {
-      "title": "Linde to invest $1 billion in Arizona after winning semiconductor supply deal - Reuters",
-      "what_happened": "Linde to invest $1 billion in Arizona after winning semiconductor supply deal Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa1R2Vjh1TnFqVDJvVmJEOTZZajhIT3Rxc3cyOXZkMDM3MGVrME1neEZaZXJWQ0drckpNaFk0QjRxODdvcFpjeE1ic0JLQi1rT0dMVVdSX3ZycXM5S2R1VDM5cXFucjd4U1RWaWN5UnVXQkpOb3A1MDA5elVYMmtSNGpLemJYOVFuR2UteWU2RGZzWTdmM0Z1MDFoUy1WMGxvbUpBcnJYYUVoVE5ocEs5c0NQSWFtWkJtajRYalV0Yw?oc=5",
-      "source_name": "Reuters",
+      "title": "Amazon, chipmakers lift US stocks despite oil and inflation worries - India Today",
+      "what_happened": "Amazon, chipmakers lift US stocks despite oil and inflation worries India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFNkc2dWdW5zekM1ZEJONXBaMmNjZ3VSTExObFl2TUZPMTJMMjZiT1BNZVE5ZGN4OVlZOWZEakc3M3h0TU1uYXRFOFVNMU1hTTVYeU1YZU9KWVVtelpMNlRxcFVDR1gzQ1JkZ1U2c0drX2JqaUpPd2EzcC00blNQZlpPTktHWEs4RU11NGtHS2g4aVJNUEJ4Q3d0d29FYmFlZWI5VXJ3bzk2WUpYRzVidG9TVUIzQ2NQQzgzNWxDMGZqOERabEtyd21CTU1aZlUteWlJ0gHYAUFVX3lxTFBjRUg1dHFUSHM0UzFMR2huY0ozY053Rk1HMF9nMS1Vb0lNUkg1aURGd2k0cUM1dlNUQy1Sd3MwYk8tclR6OW5qNmticFpvR3c3R2d4RzVaemVsdVN6cjYyT3R4ejJSY3NIZ1o1NXcyYUs0ZUE3czNZbEFScTdjM25CMHlEeTJTTkV4emQybVdMRW1kQnpOUnYzRkVqSC1BZGhuX1E1TEs2dW1oSWNLUFFRMEFCaU9jeDd4N1ZfX2w2eVpZNXhnbzU5MEg0S3ZJeXdWSFhUQ3prdQ?oc=5",
+      "source_name": "India Today",
       "source_level": "reputable",
-      "published_at": "2026-07-31T09:27:31+00:00",
-      "age_hours": 0.4,
+      "published_at": "2026-07-31T14:16:33+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung, SK Hynix shares jump nearly 30%; Kospi posts record daily gain - KED Global",
+      "what_happened": "Samsung, SK Hynix shares jump nearly 30%; Kospi posts record daily gain KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VZkh1T0ZIcFVsNFVjWGlBWlZMNlZNczI3QU5FQ09ycGYtWGlGUERnaV83Znd5c1dkNk11cWNzeGpNTXdYZjJjdUpPOVlyb3otbXpnczBOc3JtVVVCa3FnUGdvNDA0SER2VGw0ZXpreUM4MnNLSF9BMlFR?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T12:20:00+00:00",
+      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -19,8 +30,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2QlZMcUJ4dUVteXdkZVAxOElRaVhib0pnTVZuZzBQY043YzMySTE0NUtkQ1Y3NnY5MTJkOHdaemxhdkFjdmJmY2U0cmdDRGYtdnEzUVZvMXZjZw?oc=5",
       "source_name": "BBC",
       "source_level": "reputable",
-      "published_at": "2026-07-31T09:03:37+00:00",
-      "age_hours": 3.2,
+      "published_at": "2026-07-31T10:18:54+00:00",
+      "age_hours": 4.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Linde to invest $1 billion in Arizona after winning semiconductor supply deal - Reuters",
+      "what_happened": "Linde to invest $1 billion in Arizona after winning semiconductor supply deal Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa1R2Vjh1TnFqVDJvVmJEOTZZajhIT3Rxc3cyOXZkMDM3MGVrME1neEZaZXJWQ0drckpNaFk0QjRxODdvcFpjeE1ic0JLQi1rT0dMVVdSX3ZycXM5S2R1VDM5cXFucjd4U1RWaWN5UnVXQkpOb3A1MDA5elVYMmtSNGpLemJYOVFuR2UteWU2RGZzWTdmM0Z1MDFoUy1WMGxvbUpBcnJYYUVoVE5ocEs5c0NQSWFtWkJtajRYalV0Yw?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T09:27:31+00:00",
+      "age_hours": 0.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -218,7 +240,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-30T17:30:24+00:00",
-      "age_hours": 18.8,
+      "age_hours": 21.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -273,7 +295,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-30T15:01:48+00:00",
-      "age_hours": 21.2,
+      "age_hours": 23.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -309,28 +331,6 @@
       "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Trump considering AI controls after OpenAI hacking incidents - BBC",
-      "what_happened": "Trump considering AI controls after OpenAI hacking incidents BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SVFnVVBaNE5iY2hEd2h1RmhmVDhUQUVpbHBLOVY2TGloYUNlel90RF9JcHVLbWZMblM1QW9hRDlfZVBRLTl5SjZISnB2MlV4RmxaMGdzZlM3Zw?oc=5",
-      "source_name": "BBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T07:23:11+00:00",
-      "age_hours": 4.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Sarvam announces 1 trillion parametre AI model, vision and speech getting new updates - India Today",
-      "what_happened": "Sarvam announces 1 trillion parametre AI model, vision and speech getting new updates India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUFF2UEtFMkpVa1ZaR0ZmanA2QldYWlJtSXZYbFBmOVRTVVFLVDB5MXgxb3VuN2d1MU1DQzlXN3N5eVBBWVd6QUJBcWFCakRhbUtsRE1NV0NyVElMN1FvZVVwOXBTM21lWWV3ekZUS2pRQjBCT3JsS3NaQkdhNEo1QlJMZkI2bmV0U093dkM2c3hzbnU0ZDgtdHpoM0xWd2tLU1lGWGo5U3dWX1N3ejYybjdxb3hkaGhWcFphVzcxY2NvVXhnX0c1aWI3ZGhhN3VndmpwUG9EQXVTRFRka014Y2wzdkJUN1diVFZr0gHrAUFVX3lxTFBQUXZQS0UySlVrVlpHRmZqcDZCV1haUm1JdlhsUGY5VFNVUUtUMHkxeDFvdW43Z3UxTUNDOVc3c3l5UEFZV3pBQkFxYUJqRGFtS2xETU1XQ3JUSUw3UW9lVXA5cFMzbWVZZXd6RlRLalFCMEJPcmxLc1pCR2E0SjVCUkxmQjZuZXRTT3d2QzZzeHNudTRkOC10emgzTFZ3a0tTWUZYajlTd1ZfU3d6NjJuN3FveGRoaFZwWmFXNzFjY29VeGdfRzVpYjdkaGE3dWd2anBQb0RBdVNEVGRrTXhjbDN2QlQ3V2JUVms?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T07:18:18+00:00",
-      "age_hours": 2.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
