@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-07-31T18:44:21.441507+00:00",
+  "updated_at": "2026-07-31T20:36:12.697206+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Chip Rebound Gives Stocks a Reprieve After Heady Month - Bloomberg",
+      "what_happened": "Chip Rebound Gives Stocks a Reprieve After Heady Month Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjNUM0JIUThOXzM2anB2YklGYm5mN2JSZjR3ckltaVhVcmI3VFRMZXRpZS1UWUdVLS1jZ2VhQ1hhNEppNXB4NG4yRDBCdU41V29PVVBNLWU3THRGR2EzaHZWcUVjWnBPR0JTb184SkZJRnZCWHNrSjdSdzNqU3NkNnpsY0RKNlUxck9xSGlYYUtnbFFWckpPZ2F3NnVtdi15YV9ubGxMcmUxZWY1?oc=5",
+      "source_name": "Bloomberg",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T20:19:27+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off - Mashable",
+      "what_happened": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZWTlI2RlZrR29JTGRZRGJVNmFaM0lTUzlRdVVYeEVEMHNMMmIycnZzSEw3THJhX000bjBvQVFqU1AxN3FQaEJCMzlScmdINzgyZWFYTm1QYXVwTWRXRWJaeWtwX0I1R3paWTlQLVVBQVZuZ1Z3RFdMaWJadXZ2YnZR?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T18:28:23+00:00",
+      "age_hours": 2.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Companies from US, Europe, Japan among those keen to join India's chip making ecosystem: Official - Moneycontrol.com",
       "what_happened": "Companies from US, Europe, Japan among those keen to join India's chip making ecosystem: Official Moneycontrol.com",
@@ -20,7 +42,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 2.7,
+      "age_hours": 4.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -309,28 +331,6 @@
       "age_hours": 23.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body - The Verge",
-      "what_happened": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORENXNFhPbHQ1RVpaNGpWd3ZLRTZWdkVuWmExazBfdndpVk43SWZRLWpzMEFDR2pvTGdCbTlVSGxmNWZIR1MtOW44YXJTMVFnVmc1UUJFdS1KSElWYnVLcWdva1Y0OWd0S1psZEdlb3BjeWhyekhLSnJsNmRtaTdVTW9wR1FqdmxQ?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T17:18:45+00:00",
-      "age_hours": 1.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best SSD deal: The Samsung internal SSD 990 is 30% off - Mashable",
-      "what_happened": "Best SSD deal: The Samsung internal SSD 990 is 30% off Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWHlLdUlSM2tJZlE2MzI4NHZ5Q0Y1UTVaQThlQ2lWLUNBU3lJLVYzbFhrV3RLeDAzdzh6R1VQYXQ1ZDJWd0NfSTBhUTZuYU5ZQlkxUTF1MWdFdEJqdHNn?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T16:11:12+00:00",
-      "age_hours": 2.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
