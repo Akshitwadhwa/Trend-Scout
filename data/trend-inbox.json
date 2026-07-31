@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-07-30T22:18:20.920621+00:00",
+  "updated_at": "2026-07-31T00:14:51.142458+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Anthropic says its AI models hacked systems of three companies during tests - Reuters",
+      "what_happened": "Anthropic says its AI models hacked systems of three companies during tests Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T23:21:13+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple got a $2.2 billion tariff refund this quarter - Mashable",
+      "what_happened": "Apple got a $2.2 billion tariff refund this quarter Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjJ1Z3lKTF95WWFBVTN4YkIwbWtoWkdrQXBBN08yMFhLUlVudFRRZG9CS09sZ3ZVVzFZNXhWOUNGbWE2dHVFT2d5dTN3M0p5Tkx0azVmMzhROE5VRG5SeDdLaXpLWFdGSXRJX2pOdWI4RVNtdzl2TVRmbzZ4NkRZNUhuZDlCSTdpVGxQc293?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-30T23:20:16+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
+      "what_happened": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "source_name": "Anthropic",
+      "source_level": "primary",
+      "published_at": "2026-07-30T23:03:16+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Apple\u2019s iPhone and Mac sales keep growing despite RAM shortages - The Verge",
       "what_happened": "Apple\u2019s iPhone and Mac sales keep growing despite RAM shortages The Verge",
@@ -97,7 +130,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-30T17:30:24+00:00",
-      "age_hours": 4.8,
+      "age_hours": 6.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -130,7 +163,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-07-30T15:12:58+00:00",
-      "age_hours": 1.6,
+      "age_hours": 9.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -152,7 +185,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-07-30T15:01:48+00:00",
-      "age_hours": 5.5,
+      "age_hours": 9.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-29T23:54:26+00:00",
       "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark - OpenAI",
-      "what_happened": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwcE5jLW96SjBBYTNYYnFQcnM1OFFCYWR5N0R0LVBza3N5WE42YUNfV0NiQTVOZmc4Vl9ZMUdneWNoTVZfOGphbmJlS044Mmw3cWtzVDRKdnhyTWNIYVVoYXJSX3h6cnNVZ1QtUXQxOFBfYnRXcHN0ZExVaw?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-29T22:59:55+00:00",
-      "age_hours": 7.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "EXCLUSIVE: Intel providing chip technology to startup led by co-investor of Tan in rare deal - Reuters",
-      "what_happened": "EXCLUSIVE: Intel providing chip technology to startup led by co-investor of Tan in rare deal Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkViaXFBc0t6VzZ6bXIxY25HbmFFSW9HV0F0dUxBcXlhSWxnbjRxOWhuazhGSWlvUEJHTWhITkJGeFV3em9DOTZoQS1FRE5CbEdNZ0R5SVJJMndWaVhoRUZCM3l2OE1yV3VFd0tWSzE3Nkd6MXNiMGg0NXlXLUVXbTE3a0o1eDA5bzBtN0w4ejBzRWVya2xMN0ZzaVJkMDFwdzRkRTBpU0dsWjBETExHNlRrS08?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T22:57:43+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "NEWSLETTER: The fallout from the OpenAI-Hugging Face hack - Reuters",
-      "what_happened": "NEWSLETTER: The fallout from the OpenAI-Hugging Face hack Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbmZpRC0yaFZNY1VPc2w3S0NIc2JpajBXcENTUnVVdkE2azRNWFpGdWxIek1PbThhYUZSYjRDM1lKSnUzWkgteXJIeEp5YVBQM2w1UHBqMnh1cmM3Mk9QbVlPQ0N4UDl3VHpMakp1QkMzdFZobGxXS3NELW9TY29CeF92bFlVenNodzUzQUVwNTRxaFp0OTY0UFQ2V0xCWU9MVVlSQ3BR?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-29T21:44:38+00:00",
-      "age_hours": 8.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
