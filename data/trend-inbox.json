@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-01T00:12:31.260439+00:00",
+  "updated_at": "2026-08-01T03:48:16.051585+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Advancing responsible AI across Europe - openai.com",
+      "what_happened": "Advancing responsible AI across Europe openai.com",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGc1V0ekFVbVd4RTRGMGNBTXVNVjhfUk9HZnFsR1RXTnd6cy0xVFlmRHhTSFU5Z1oyLXA5U3BfWXVDemVlbFEwTXhtRC1CaE1KZEdqUTdGWU9iSHVIR0s2SGMzZnFERzAyTHY4elVqZm9pSE9rZDBPYWNDUQ?oc=5",
+      "source_name": "openai.com",
+      "source_level": "primary",
+      "published_at": "2026-08-01T00:13:49+00:00",
+      "age_hours": 3.6,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
       "what_happened": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters",
@@ -75,7 +86,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-31T19:48:33+00:00",
-      "age_hours": 4.4,
+      "age_hours": 8.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -108,7 +119,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 8.2,
+      "age_hours": 11.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-07-30T20:30:21.672000+00:00",
       "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6 - OpenAI",
-      "what_happened": "Advancing the price-performance frontier with GPT-5.6 OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-30T20:29:58+00:00",
-      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
