@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-01T03:48:16.051585+00:00",
+  "updated_at": "2026-08-01T06:39:58.905032+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Advancing responsible AI across Europe - OpenAI",
+      "what_happened": "Advancing responsible AI across Europe OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGc1V0ekFVbVd4RTRGMGNBTXVNVjhfUk9HZnFsR1RXTnd6cy0xVFlmRHhTSFU5Z1oyLXA5U3BfWXVDemVlbFEwTXhtRC1CaE1KZEdqUTdGWU9iSHVIR0s2SGMzZnFERzAyTHY4elVqZm9pSE9rZDBPYWNDUQ?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-08-01T00:13:49+00:00",
+      "age_hours": 6.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Advancing responsible AI across Europe - openai.com",
       "what_happened": "Advancing responsible AI across Europe openai.com",
@@ -12,6 +23,17 @@
       "age_hours": 3.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "iPhone 20: Rumor has it Apple is prepping a radical redesign - Mashable",
+      "what_happened": "iPhone 20: Rumor has it Apple is prepping a radical redesign Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPcFZKTDY5Ync0Zk5Uc3BlNGVGNTdtcG1BTTRtY25jZkU1V081REczbmtKTmxtbWNXVDVBTlctTXVlLUhydHlxWEdfZnNlT0RUZ2VNSzBNcWkwT0ZBbmZqRGUzYzZ6blRMWDlKSkZ6cHRJelBLdUE?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T23:15:00+00:00",
+      "age_hours": 7.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
@@ -119,7 +141,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 11.8,
+      "age_hours": 14.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-07-30T23:03:16+00:00",
       "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Apple\u2019s iPhone and Mac sales keep growing despite RAM shortages - The Verge",
-      "what_happened": "Apple\u2019s iPhone and Mac sales keep growing despite RAM shortages The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01b0kyOV83cTVBUEQ5WXMtX3c1UnhKVndDUlQ5a2hIT3lEV2hSekdqYVdWZF91YXBIQ2hqY0VNS0Q2cHRoOG00a2NacGFuX2VlVUNhYmdwWUo5RGhlV3ZYbnFEdGpBV09nZnVF?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T20:49:32+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple reports third quarter results",
-      "what_happened": "Apple today announced financial results for its fiscal 2026 third quarter ended June 27, 2026.",
-      "source_url": "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
-      "source_name": "apple.com",
-      "source_level": "primary",
-      "published_at": "2026-07-30T20:30:21.672000+00:00",
-      "age_hours": 0.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
