@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-01T19:32:06.465371+00:00
+Updated: 2026-08-01T21:08:21.868857+00:00
 Memory window: 48 hours
 
 ## 1. Should you still buy your next smartphone — or subscribe to it instead? - TechCrunch
