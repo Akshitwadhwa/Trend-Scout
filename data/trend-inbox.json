@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-01T06:39:58.905032+00:00",
+  "updated_at": "2026-08-01T09:19:52.695429+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable",
+      "what_happened": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T09:00:47+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Ten advances in mathematics and theoretical computer science - OpenAI",
+      "what_happened": "Ten advances in mathematics and theoretical computer science OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-08-01T07:46:00+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Advancing responsible AI across Europe - OpenAI",
       "what_happened": "Advancing responsible AI across Europe OpenAI",
@@ -23,6 +45,17 @@
       "age_hours": 3.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung Galaxy users complain of battery drain and overheating after update - Mashable",
+      "what_happened": "Samsung Galaxy users complain of battery drain and overheating after update Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTFMLUR6MkVPZjRCZEM3bUJ2cHVrdEpveGFiRVNMSHFmenhnTnA2ckltYUtBdDI5YTVTcjBIR0xxWHlrR2c4Nk41MER4Q29mLW5QVEZGak84MGtlMnRDa3hPcjJBZGJRNVlmcHFpRHBHZTZWNlFZa1NRc2ExbzlBZzIwSm5SVUU?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T23:15:00+00:00",
+      "age_hours": 10.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "iPhone 20: Rumor has it Apple is prepping a radical redesign - Mashable",
@@ -141,7 +174,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 14.7,
+      "age_hours": 17.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -298,39 +331,6 @@
       "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic says its AI models hacked systems of three companies during tests - Reuters",
-      "what_happened": "Anthropic says its AI models hacked systems of three companies during tests Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0FyTjVjNWQzY2dYblVWRlNJdGJwYkVuVVlXbkhBNURXR2VYenltaUVUR2I0emloLVB5S0dBTnpwUDJ0Q013dU1DQmZrLVhPeXcxY09pb0hyS3R4Q0ZFa2x4Y3Y5bzNJMGdtOVZZWE5iMFpjNmNLNjNOZlNKRnlBcmdRVW1NTUdrX1VYRk1nYjBKM3JCa3IwUENVbHRQNW44b25HRk91MUxNVVlDNXNxYTJWNjhLMHo0SzVqY203Yw?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T23:21:13+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple got a $2.2 billion tariff refund this quarter - Mashable",
-      "what_happened": "Apple got a $2.2 billion tariff refund this quarter Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjJ1Z3lKTF95WWFBVTN4YkIwbWtoWkdrQXBBN08yMFhLUlVudFRRZG9CS09sZ3ZVVzFZNXhWOUNGbWE2dHVFT2d5dTN3M0p5Tkx0azVmMzhROE5VRG5SeDdLaXpLWFdGSXRJX2pOdWI4RVNtdzl2TVRmbzZ4NkRZNUhuZDlCSTdpVGxQc293?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T23:20:16+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
-      "what_happened": "Investigating three real-world incidents in our cybersecurity evaluations Anthropic",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
-      "source_name": "Anthropic",
-      "source_level": "primary",
-      "published_at": "2026-07-30T23:03:16+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
