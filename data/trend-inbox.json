@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:53:10.851633+00:00",
+  "updated_at": "2026-08-01T15:17:33.172461+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,13 +14,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 \u2014 only today - Mashable",
+      "what_happened": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 \u2014 only today Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTVheHBhTmhsbkRsSURYX1hWUEstdkhmdV9zcnpWX0UyOEJQampwRlZ5amVqc0huSVltQWE2ZGVHME1yX0ZhS0RfcTZWS0lOakdhbklSRUxybzQ2RGRWOFEzeHZPczlpR3ZpM1MxT3JrQUlNTF9fT2FkTWREeHJyYndBNHhKR0xmTXhn?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T09:15:43+00:00",
+      "age_hours": 6.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable",
       "what_happened": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XcDJVS24tUDAzOUNMVE1fcUhtcVV2bk90TkxPT0hwLXFfUXRLZ0ZLNXhtWXg0b1ZWVVdQNjRwZE5hUkZTR2Z2eGVmem9NZld0NFZ4UGc0VzZQTEdZSC1ZQ25ORU5fckZtYm40Z3NxaTkzaHE4dDM5SGpTWQ?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-01T09:05:09+00:00",
-      "age_hours": 4.8,
+      "age_hours": 6.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-01T09:00:47+00:00",
-      "age_hours": 4.9,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +75,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-01T07:46:00+00:00",
-      "age_hours": 6.1,
+      "age_hours": 7.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -218,7 +229,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 21.9,
+      "age_hours": 23.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-07-31T08:00:00+00:00",
       "age_hours": 1.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "[Interview] [Galaxy Unpacked July 2026] Intelligent Eyewear: The First Step Toward the Next Mobile AI Interface",
-      "what_happened": "On July 22 at Galaxy Unpacked July 2026, Samsung Electronics introduced intelligent eyewear as the first step toward making AI glasses the next interface for mobile AI. Built on decades of expertise in mobile engineering, hardware design and product craftsmanship, intelligent eyewear combines true wearability with mobile AI experiences and seamless connectivity within the Galaxy [\u2026]",
-      "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-intelligent-eyewear-the-first-step-toward-the-next-mobile-ai-interface",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-07-31T08:00:00+00:00",
-      "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
