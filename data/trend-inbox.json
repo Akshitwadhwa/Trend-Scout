@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-01T11:34:10.453224+00:00",
+  "updated_at": "2026-08-01T13:53:10.851633+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics - The Indian Express",
+      "what_happened": "UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzFiMUExWEt4dGhOakszNVIzYjQ2OHFPMHk2QnByOGpkbmJLMmh3S3paTmpTSkNpQlpZUThUSF8zeVJTMEI2S0c3amxMY2VXS2ZvQkJwU3pMVXh5WVR0WkdBdnI1VTQxVTBPR1EwNHUyWWlBRWRZSDZsUzBxck5fbEN1WnhlS2phSjBQa0dfU2JhYkpXVUJvMTBzQTlFZzBYUnJtT1M1Ry03UVdjVGNEZGt2TGJHY0J1SGhaOTVZWjJxc29EQ1ow0gHOAUFVX3lxTFBLb1IzME9RT3Vwa0syT2JsTHR1OFdZamx0czZCR183MzY5V1RGd2t5QzZNZWhYeXZaVWZ3U01KMkxnS19wZWdvbmcxb09hcnhSMlFpbmwzUE9lVXNEMGFWbFozakdaU196bjNvZndQeER0dHVIelVYWUdfMFFuM3JpdFZZZUFSQjBHUFlnUndvc1RPS2NkbzFlS3hvSlV2OC05em14RHExWDRGM2F1U2dPSlFpZ2FOSm5qUm81dUt4NWhwWWxGb1FOajNkTzh3?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T11:51:07+00:00",
+      "age_hours": 2.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable",
       "what_happened": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-01T09:05:09+00:00",
-      "age_hours": 2.5,
+      "age_hours": 4.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-01T09:00:47+00:00",
-      "age_hours": 2.6,
+      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +64,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-01T07:46:00+00:00",
-      "age_hours": 3.8,
+      "age_hours": 6.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -207,7 +218,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 19.6,
+      "age_hours": 21.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "LG unveils K-Exaone 2.0, Korea\u2019s largest open-source AI model on Hugging Face - Korea JoongAng Daily",
-      "what_happened": "LG unveils K-Exaone 2.0, Korea\u2019s largest open-source AI model on Hugging Face Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmpFT3BkdUM1enEzZGl4QmUyR3pKQVUyYWwxT1FtSldkMG9OUVdKY0RqMmtDMXZlN0p0SmlFTU9ibktITUJZSUQxZ2dYalpwTG8wTjBiVTJ6aG9Oay1JcGVjWFYxTldxdjRzRmFHNWh0NVlFS3A4amdRdTdmRHpudEdIUHJEanJJeVhDY1VpYi1fZTNzcldCVGVhNHY0X1pjaEVDTjVRb2pOTTI1RkE?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T07:09:59+00:00",
-      "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
