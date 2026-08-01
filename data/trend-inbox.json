@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-07-31T23:16:28.485431+00:00",
+  "updated_at": "2026-08-01T00:12:31.260439+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+      "what_happened": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T22:39:05+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Exclusive: OpenAI Previews \u2018Astra\u2019 AI Model in DC - The Information",
       "what_happened": "Exclusive: OpenAI Previews \u2018Astra\u2019 AI Model in DC The Information",
@@ -9,7 +20,7 @@
       "source_name": "The Information",
       "source_level": "reputable",
       "published_at": "2026-07-31T22:09:00+00:00",
-      "age_hours": 1.1,
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -58,13 +69,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile - Mashable",
+      "what_happened": "Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zTExXNS03MDFacS1ZUThiN1hrRnRWcUlFVDEwSXNIUTBWOXQ3MVRhcTVraWNmS1cwNS1XeFBqV2FGYlAzYlp1dTNQT3g3WUdkLU1UUUIyeGdQWEI3SmNMRXZJbGNrb1JZcEJpUTgzMjNDQW5NdlZhRjRlVHRhLXM?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-07-31T19:48:33+00:00",
+      "age_hours": 4.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off - Mashable",
       "what_happened": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZWTlI2RlZrR29JTGRZRGJVNmFaM0lTUzlRdVVYeEVEMHNMMmIycnZzSEw3THJhX000bjBvQVFqU1AxN3FQaEJCMzlScmdINzgyZWFYTm1QYXVwTWRXRWJaeWtwX0I1R3paWTlQLVVBQVZuZ1Z3RFdMaWJadXZ2YnZR?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-07-31T18:28:23+00:00",
-      "age_hours": 2.1,
+      "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -86,7 +108,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 7.3,
+      "age_hours": 8.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -309,28 +331,6 @@
       "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Advancing the price-performance frontier with GPT-5.6 - openai.com",
-      "what_happened": "Advancing the price-performance frontier with GPT-5.6 openai.com",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnlkYzM3c2c5ajVNcWNYZ3ZoV3M1anl1T3lFSUtHRzVBcmU1cUpaSkJ2MHR1ZXpJVWtLSWhfQTZOQzdfY252YmhzeG1DX2t2elJmVXVNYmR3VkN2NjRES0JHaS1WUmdMNGhnTi1wVE5yMGYzeU9Hanh4Q2E3YnRBM1VVTEVDdw?oc=5",
-      "source_name": "openai.com",
-      "source_level": "primary",
-      "published_at": "2026-07-30T20:26:15+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "We asked our readers what gadgets they expect Apple to release this year: See the top answers - Mashable",
-      "what_happened": "We asked our readers what gadgets they expect Apple to release this year: See the top answers Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sTzkzVDJ5LWNoaWhBTDl1M2Z2WGIwY0VPNEcwWlhVN1RnUnpONjVJV21NZWVsV2FqeFpLd3J0bHdUNWtMeW5ZbElPMGo5NHROdURlV2FNR2RZUmZ1REJXb25BY2xoSXdwX25nY1JaVXNBNEd0MHZtT3JNc1lKb1E?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-30T19:38:24+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
