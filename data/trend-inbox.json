@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-01T15:17:33.172461+00:00",
+  "updated_at": "2026-08-01T17:13:15.189239+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Ten advances in mathematics and theoretical computer science - OpenAI",
+      "what_happened": "Ten advances in mathematics and theoretical computer science OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-08-01T16:26:45+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable",
+      "what_happened": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XcDJVS24tUDAzOUNMVE1fcUhtcVV2bk90TkxPT0hwLXFfUXRLZ0ZLNXhtWXg0b1ZWVVdQNjRwZE5hUkZTR2Z2eGVmem9NZld0NFZ4UGc0VzZQTEdZSC1ZQ25ORU5fckZtYm40Z3NxaTkzaHE4dDM5SGpTWQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T13:36:33+00:00",
+      "age_hours": 3.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable",
+      "what_happened": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T13:36:33+00:00",
+      "age_hours": 3.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC",
+      "what_happened": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T12:00:01+00:00",
+      "age_hours": 5.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics - The Indian Express",
       "what_happened": "UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics The Indian Express",
@@ -9,7 +53,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-01T11:51:07+00:00",
-      "age_hours": 2.0,
+      "age_hours": 5.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -25,17 +69,6 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable",
-      "what_happened": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XcDJVS24tUDAzOUNMVE1fcUhtcVV2bk90TkxPT0hwLXFfUXRLZ0ZLNXhtWXg0b1ZWVVdQNjRwZE5hUkZTR2Z2eGVmem9NZld0NFZ4UGc0VzZQTEdZSC1ZQ25ORU5fckZtYm40Z3NxaTkzaHE4dDM5SGpTWQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-01T09:05:09+00:00",
-      "age_hours": 6.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 claim yours this weekend - Mashable",
       "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 claim yours this weekend Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TF9qNXdVeFVlZVJXME00R3FtMVFiYzJaMndtWnJKd1ZlTXB0amZkOUE3dGFXeU5HQUdxQ0x3V2xfR2l4dzJHVE0tbGgzZDkwTFV2WXZDdWtlVnAtVjgxTHBKNkg?oc=5",
@@ -43,17 +76,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-01T09:00:47+00:00",
       "age_hours": 6.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable",
-      "what_happened": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-01T09:00:47+00:00",
-      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -67,17 +89,6 @@
       "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science - OpenAI",
-      "what_happened": "Ten advances in mathematics and theoretical computer science OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-08-01T07:46:00+00:00",
-      "age_hours": 7.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Advancing responsible AI across Europe - OpenAI",
@@ -229,7 +240,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 23.3,
+      "age_hours": 25.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 0.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "[Video] Unfolding New Experiences With the Galaxy Z Series",
-      "what_happened": "AI has become part of everyday life \u2014 from editing photos and videos to planning trips and creating and enjoying content. Samsung Electronics\u2019 new Galaxy Z Fold8 Ultra, Galaxy Z Fold8 and Galaxy Z Flip8 expand everyday experiences even further. Combining agentic AI with the versatility of the foldable form factor, the new Galaxy Z [\u2026]",
-      "source_url": "https://news.samsung.com/global/video-unfolding-new-experiences-with-the-galaxy-z-series",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-07-31T08:00:00+00:00",
-      "age_hours": 1.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
