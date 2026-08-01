@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-01T18:10:33.510202+00:00",
+  "updated_at": "2026-08-01T19:32:06.465371+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Should you still buy your next smartphone \u2014 or subscribe to it instead? - TechCrunch",
+      "what_happened": "Should you still buy your next smartphone \u2014 or subscribe to it instead? TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3VKOWtMZTRXM05vQWVzLW1SQWdvcTVzX050eENMdUFOSk0yQjJJdDhhUkE2MHI3YThHbnpKeFVDX240LXZyMHZpVHczMmdjdXhMN3hCU1JyOG9ja2FWRW9VQjRpWlZXZW8tX01XUVBqWFZXUFh6MDRsTHd1aXktMWdtbm9kbHp4b25MemdzdGxiV3FRd0d6THhQbEJuWFFTMmozUGh3?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T18:47:27+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable",
       "what_happened": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-01T17:03:40+00:00",
-      "age_hours": 1.1,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-01T16:26:45+00:00",
-      "age_hours": 1.7,
+      "age_hours": 3.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -31,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-01T13:36:33+00:00",
-      "age_hours": 4.6,
+      "age_hours": 5.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -240,7 +251,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 26.2,
+      "age_hours": 27.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-31T10:18:54+00:00",
       "age_hours": 4.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Linde to invest $1 billion in Arizona after winning semiconductor supply deal - Reuters",
-      "what_happened": "Linde to invest $1 billion in Arizona after winning semiconductor supply deal Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa1R2Vjh1TnFqVDJvVmJEOTZZajhIT3Rxc3cyOXZkMDM3MGVrME1neEZaZXJWQ0drckpNaFk0QjRxODdvcFpjeE1ic0JLQi1rT0dMVVdSX3ZycXM5S2R1VDM5cXFucjd4U1RWaWN5UnVXQkpOb3A1MDA5elVYMmtSNGpLemJYOVFuR2UteWU2RGZzWTdmM0Z1MDFoUy1WMGxvbUpBcnJYYUVoVE5ocEs5c0NQSWFtWkJtajRYalV0Yw?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T09:27:31+00:00",
-      "age_hours": 0.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
