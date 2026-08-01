@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-01T09:19:52.695429+00:00",
+  "updated_at": "2026-08-01T11:34:10.453224+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable",
+      "what_happened": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XcDJVS24tUDAzOUNMVE1fcUhtcVV2bk90TkxPT0hwLXFfUXRLZ0ZLNXhtWXg0b1ZWVVdQNjRwZE5hUkZTR2Z2eGVmem9NZld0NFZ4UGc0VzZQTEdZSC1ZQ25ORU5fckZtYm40Z3NxaTkzaHE4dDM5SGpTWQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T09:05:09+00:00",
+      "age_hours": 2.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 claim yours this weekend - Mashable",
+      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 claim yours this weekend Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TF9qNXdVeFVlZVJXME00R3FtMVFiYzJaMndtWnJKd1ZlTXB0amZkOUE3dGFXeU5HQUdxQ0x3V2xfR2l4dzJHVE0tbGgzZDkwTFV2WXZDdWtlVnAtVjgxTHBKNkg?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T09:00:47+00:00",
+      "age_hours": 2.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable",
       "what_happened": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable",
@@ -14,13 +36,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Anthropic release Claude Opus 5, its 'safest model yet' - Mashable",
+      "what_happened": "Anthropic release Claude Opus 5, its 'safest model yet' Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMVFubElTTldzb1BrR2ZjNHlaalVXbFBiSVAxLUpDMms3b2dYalQzT05pRncySmhHRmtLSmtPeEl5Qk1aMU5mSjQ0MVN5eTFPUFdlcTFueS1DUTQxa25ReHE5N1J6akVsRFE?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-01T08:45:09+00:00",
+      "age_hours": 2.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Ten advances in mathematics and theoretical computer science - OpenAI",
       "what_happened": "Ten advances in mathematics and theoretical computer science OpenAI",
       "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5",
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-01T07:46:00+00:00",
-      "age_hours": 1.6,
+      "age_hours": 3.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -174,7 +207,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 17.3,
+      "age_hours": 19.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-31T07:09:59+00:00",
       "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Claude AI hacked 3 companies using basic techniques, Anthropic admits mistake - India Today",
-      "what_happened": "Claude AI hacked 3 companies using basic techniques, Anthropic admits mistake India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnF5S0prZ01xcDBZVUdBS1FJeEJLeFpqQW1UYzNCcDQ0S3lhaElNeUVTUUhYc2hQYjQ4WUozcXUwbmZHNUtYbzhUUl9kRG5NMHFpNE5PQ0NkTXFabFNwczl1a1Y0QjZHc0UxdjBnVURDQ190d0R5NmxtREFzQmZCdUxlQm51dm9FeURNU2VVb3R3RjZObllkME1INWp4cTRJLTJENjBYTlZJajBPU25RaDhsb19PMW9ZUFlaemJaNjdDMkxjTzZBLW9qRjU1T2ExOTlXdDUxREZPOHhVZHJTUNIB4AFBVV95cUxQYnF5S0prZ01xcDBZVUdBS1FJeEJLeFpqQW1UYzNCcDQ0S3lhaElNeUVTUUhYc2hQYjQ4WUozcXUwbmZHNUtYbzhUUl9kRG5NMHFpNE5PQ0NkTXFabFNwczl1a1Y0QjZHc0UxdjBnVURDQ190d0R5NmxtREFzQmZCdUxlQm51dm9FeURNU2VVb3R3RjZObllkME1INWp4cTRJLTJENjBYTlZJajBPU25RaDhsb19PMW9ZUFlaemJaNjdDMkxjTzZBLW9qRjU1T2ExOTlXdDUxREZPOHhVZHJTUA?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T06:18:01+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic says Claude AI models breached systems of 3 companies during cybersecurity tests - The Indian Express",
-      "what_happened": "Anthropic says Claude AI models breached systems of 3 companies during cybersecurity tests The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGR1YW1CMGhZZHVyODRiYW9uZDRsekdpNVZCOU1DN3JZUVdkbzA3MXRSdjh5cmxWYWtUMG56cmtSQlFLS21YYjllUEdRRDJ6MzI3SWw4WnU4eTJLRE9fTXNwQVhBZ0NBc3k1RHNpT1NCSi1hc05CR1VmR0hidUlYX2l3NU9KRVFnY2VUTzUtdU5fWVNzZFg1NnlTeGJqcjJlejd5N2w0MHhtZU52eW5TdlEzVGVaY1V0TFZMTXg2aF9mQ1hjSC1LcE85VXZ3MFB40gHXAUFVX3lxTE80UDhucldkc1FWeFlQajE4dGNrZnR6WG9UQ0JxeGM4aXc4VHBqWm5GNGhhdHFENlR1UFVyQ1VteEc2UE1haGtCbl9EcHRJUmVFbVU5SGxxU2l3RHNXeU1SU0xpOTdhLTY5ek1kMXpMbElXbDdDaml4eEJlOUZIM25nZHdGaXZ3WnJnWV9PTG1sWDB4RHNiMHVQLVRVLS1pR3dRREZFd2EzRkpDaW91VGtOT0N4bFdnV1hZVEd4TWNyakE4eEVKUzhaa2g4X2Flbi1BdmI1dTZn?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T03:17:09+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI slashes ChatGPT prices by 80% after Kimi K3 takes the AI world by storm - India Today",
-      "what_happened": "OpenAI slashes ChatGPT prices by 80% after Kimi K3 takes the AI world by storm India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZjBXVGFSSmY1WkY1Tk91VjU5YnJaRjU4elRpc1l3NGRtZElhZ0JWTW40OTl5VWZfTUJjclNUUzVkakFqczViSXVITWxRbHZmWFNBaUJ0N1c1bHFCdVNPNW03Yy01REtSVEZJTG5QNHR0WVpKanZRUmNzYUV4Q0NQVjd4eUo0VnBnNExyT2FFNU0xNHo2eGlNSUZzOVNNcWlBNXoydVRLR2JSTlVFd0J6WlN3VmpranhBU1hkSVFSQ3VuSmRpd2ZKdEs1bGY2NEx5QkdIM2ZXdkcyU0Q10gHiAUFVX3lxTFBLVGdDZ25RVXJ6UHR4MWV0Q1NBeF9BRG50U2ppZG9nRzFrc1hoemdBYm16RHdjZ1lWUVo4S3BkakNvQmFjbU1OYkRjeEUxbDVTay1ZaVRmTDhFR3JtRmUyN01wWno2V0plUktBaEl6STFjVWxBRFViOE54cElPX3ZvUHliT0dYLXNCVEdvU2RCYzFYenVEOVNaWEJaTWFtVm94bXlTMEE5YmlTTWdmM1JuWTVmQ1BYcHRjdTd5NmpTSkx2NkVUczdvb3dWY255TUF1bFFvdXhBZTcwMTJsMm5KOHc?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T03:06:50+00:00",
-      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
