@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-01T22:09:58.309154+00:00
+Updated: 2026-08-01T23:10:17.561804+00:00
 Memory window: 48 hours
 
 ## 1. The Samsung Galaxy Watch Ultra 2 comes with a free $100 gift card this weekend - Mashable
@@ -17,47 +17,47 @@ URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3VKOWtMZTRXM05vQWVzLW
 
 Should you still buy your next smartphone — or subscribe to it instead? TechCrunch
 
-## 3. Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable
+## 3. T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TF9qNXdVeFVlZVJXME00R3FtMVFiYzJaMndtWnJKd1ZlTXB0amZkOUE3dGFXeU5HQUdxQ0x3V2xfR2l4dzJHVE0tbGgzZDkwTFV2WXZDdWtlVnAtVjgxTHBKNkg?oc=5
+
+T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend Mashable
+
+## 4. Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5
 
 Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable
 
-## 4. Ten advances in mathematics and theoretical computer science - OpenAI
+## 5. Ten advances in mathematics and theoretical computer science - OpenAI
 Source: OpenAI (primary)
 URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5
 
 Ten advances in mathematics and theoretical computer science OpenAI
 
-## 5. There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable
+## 6. There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE9XcDJVS24tUDAzOUNMVE1fcUhtcVV2bk90TkxPT0hwLXFfUXRLZ0ZLNXhtWXg0b1ZWVVdQNjRwZE5hUkZTR2Z2eGVmem9NZld0NFZ4UGc0VzZQTEdZSC1ZQ25ORU5fckZtYm40Z3NxaTkzaHE4dDM5SGpTWQ?oc=5
 
 There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable
 
-## 6. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC
+## 7. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5
 
 OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' CNBC
 
-## 7. UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics - The Indian Express
+## 8. UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics - The Indian Express
 Source: The Indian Express (reputable)
 URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzFiMUExWEt4dGhOakszNVIzYjQ2OHFPMHk2QnByOGpkbmJLMmh3S3paTmpTSkNpQlpZUThUSF8zeVJTMEI2S0c3amxMY2VXS2ZvQkJwU3pMVXh5WVR0WkdBdnI1VTQxVTBPR1EwNHUyWWlBRWRZSDZsUzBxck5fbEN1WnhlS2phSjBQa0dfU2JhYkpXVUJvMTBzQTlFZzBYUnJtT1M1Ry03UVdjVGNEZGt2TGJHY0J1SGhaOTVZWjJxc29EQ1ow0gHOAUFVX3lxTFBLb1IzME9RT3Vwa0syT2JsTHR1OFdZamx0czZCR183MzY5V1RGd2t5QzZNZWhYeXZaVWZ3U01KMkxnS19wZWdvbmcxb09hcnhSMlFpbmwzUE9lVXNEMGFWbFozakdaU196bjNvZndQeER0dHVIelVYWUdfMFFuM3JpdFZZZUFSQjBHUFlnUndvc1RPS2NkbzFlS3hvSlV2OC05em14RHExWDRGM2F1U2dPSlFpZ2FOSm5qUm81dUt4NWhwWWxGb1FOajNkTzh3?oc=5
 
 UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics The Indian Express
 
-## 8. Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today - Mashable
+## 9. Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTVheHBhTmhsbkRsSURYX1hWUEstdkhmdV9zcnpWX0UyOEJQampwRlZ5amVqc0huSVltQWE2ZGVHME1yX0ZhS0RfcTZWS0lOakdhbklSRUxybzQ2RGRWOFEzeHZPczlpR3ZpM1MxT3JrQUlNTF9fT2FkTWREeHJyYndBNHhKR0xmTXhn?oc=5
 
 Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today Mashable
-
-## 9. T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TF9qNXdVeFVlZVJXME00R3FtMVFiYzJaMndtWnJKd1ZlTXB0amZkOUE3dGFXeU5HQUdxQ0x3V2xfR2l4dzJHVE0tbGgzZDkwTFV2WXZDdWtlVnAtVjgxTHBKNkg?oc=5
-
-T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend Mashable
 
 ## 10. Anthropic release Claude Opus 5, its 'safest model yet' - Mashable
 Source: Mashable (reputable)
