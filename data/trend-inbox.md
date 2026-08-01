@@ -2,26 +2,26 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-01T17:13:15.189239+00:00
+Updated: 2026-08-01T18:10:33.510202+00:00
 Memory window: 48 hours
 
-## 1. Ten advances in mathematics and theoretical computer science - OpenAI
+## 1. Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5
+
+Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable
+
+## 2. Ten advances in mathematics and theoretical computer science - OpenAI
 Source: OpenAI (primary)
 URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5
 
 Ten advances in mathematics and theoretical computer science OpenAI
 
-## 2. There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable
+## 3. There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE9XcDJVS24tUDAzOUNMVE1fcUhtcVV2bk90TkxPT0hwLXFfUXRLZ0ZLNXhtWXg0b1ZWVVdQNjRwZE5hUkZTR2Z2eGVmem9NZld0NFZ4UGc0VzZQTEdZSC1ZQ25ORU5fckZtYm40Z3NxaTkzaHE4dDM5SGpTWQ?oc=5
 
 There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable
-
-## 3. Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5
-
-Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable
 
 ## 4. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC
 Source: CNBC (reputable)
