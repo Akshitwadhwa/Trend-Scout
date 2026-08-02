@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T06:44:06.138939+00:00",
+  "updated_at": "2026-08-02T09:20:10.030086+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -306,7 +306,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 38.7,
+      "age_hours": 41.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },

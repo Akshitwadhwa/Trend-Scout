@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-02T06:44:06.138939+00:00
+Updated: 2026-08-02T09:20:10.030086+00:00
 Memory window: 48 hours
 
 ## 1. A new a-peel: Potato chips revamp their image from junk food to healthy snack - Korea JoongAng Daily
