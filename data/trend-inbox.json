@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-02T17:13:58.871781+00:00",
+  "updated_at": "2026-08-02T18:10:51.408928+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global",
+      "what_happened": "Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93UWpSVmlEa1h2LS1ibmZJdnRmZkRKMUs2N0ZjTzRUbWtrTS13d2YwWjRQWjhFWmVaNmZuOExaVXR0SWc1X01uSTdlT0l4bDdLdWNiTGhuRHpaMlpFdmUyeDdTd0M0S1AzOVE?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-02T18:00:48+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card - Mashable",
       "what_happened": "Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T16:08:43+00:00",
-      "age_hours": 1.1,
+      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T10:00:00+00:00",
-      "age_hours": 7.2,
+      "age_hours": 8.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +53,7 @@
       "source_name": "Business Insider",
       "source_level": "reputable",
       "published_at": "2026-08-02T09:00:08+00:00",
-      "age_hours": 8.2,
+      "age_hours": 9.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-31T19:48:33+00:00",
       "age_hours": 8.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off - Mashable",
-      "what_happened": "The Samsung Galaxy Z Flip 8 just launched \u2014 grab this stylish case for 30% off Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQlZWTlI2RlZrR29JTGRZRGJVNmFaM0lTUzlRdVVYeEVEMHNMMmIycnZzSEw3THJhX000bjBvQVFqU1AxN3FQaEJCMzlScmdINzgyZWFYTm1QYXVwTWRXRWJaeWtwX0I1R3paWTlQLVVBQVZuZ1Z3RFdMaWJadXZ2YnZR?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T18:28:23+00:00",
-      "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
