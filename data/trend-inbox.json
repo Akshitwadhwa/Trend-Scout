@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T11:33:44.242240+00:00",
+  "updated_at": "2026-08-02T13:52:39.965793+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -20,7 +20,29 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T10:00:00+00:00",
-      "age_hours": 1.6,
+      "age_hours": 3.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple said to delay smart glasses launch after Meta backlash - Mashable",
+      "what_happened": "Apple said to delay smart glasses launch after Meta backlash Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzODlmSld2el9xcHg1STB1bU8zYW9aa2EyVVVEZHE5V08zX0g3azN5UzZjdjBzbnBaZEl5Y1dVak1wME5RU1puaG5yOXIxSjc4S2ZuV041UUdWaF9Ba1pzcXU1LTI4UXpQTkp6N1NMM1dIdGI0?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-02T09:23:03+00:00",
+      "age_hours": 4.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' - Business Insider",
+      "what_happened": "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGVQSTFFQzNPYVN2S3VmamlwN1ZqTHF5UDI0TEtMUGZnRUpTcDhnUzNBYjgwbUhwOUhUT3FlM2VaWUZXaVNKczR2VWd4bTJYbFBrWFQ2cHpVNlNnbXBOeUpjSHlqMDkwMlo1RlItZDhEZkVVRG5oQ3hlczU1TG9UVzgybUlVQkVZTlY2c2VZT0VoT29mQ0RJa185RUkydw?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-08-02T09:00:00+00:00",
+      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -309,28 +331,6 @@
       "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Companies from US, Europe, Japan among those keen to join India's chip making ecosystem: Official - Moneycontrol.com",
-      "what_happened": "Companies from US, Europe, Japan among those keen to join India's chip making ecosystem: Official Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFdrYW5Bc0FBVmo4czZHb0hXbW5wZWNCNEJIeDE1dlROendzMEdxbVNKM3hjTUphYVRWMXhaMnZ5aVhtSDVKQlMxcjFfWG5ZSXR6OEMySkhoQnNoUkZMRWRzb1BCZGdMbDI2R2QteGpQbExMc1dMbzBienYzallsSHQ3V0p3U0h5ZXlObzJockxLUHNNMlQwTlpjTWdwX0dxa2JaYTBFODZaclpMem1UeEZvUFZOdV85cjk1SlFsY19XSFZWeHFFOGZrZlRaVmw1VkItdXV3UnNFblkta0FyckpJX3ZzZ9IB6wFBVV95cUxPVnpXUFNndERDdDFEdmJPVHhSMG9TZ3B1bXFYZXI5OUttWnoxbmdod3pVMEREa1ZUXzRubUJRZ3dvazRkNkZzUG5reThPMWNzZlNES2oxbXY2aWpNRHZIQVFSTmExcVEwOXhXWVAzV2V4Y2dqSm1sTDdtOTBfU012NGhGUHNZN2NSRTZpTUpiQi1PSkdrd1dfT1Q4ZkxOejNjdFVRYnhyNWd0Q0tmZUVyUmZwYUM5S0ZaRFljVDVDME11ZWhoZUppby1zOTRnR1NZNVdOdk1qajhnLWEtMm53N2NxaWoxMDl5eXI4?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T16:47:45+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Don\u2019t stop early: Case-folding source code at memory speed",
-      "what_happened": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don\u2019t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 43.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
