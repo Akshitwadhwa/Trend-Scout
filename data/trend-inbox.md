@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-02T21:09:53.078787+00:00
+Updated: 2026-08-02T22:09:27.541622+00:00
 Memory window: 48 hours
 
 ## 1. Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global
@@ -23,71 +23,71 @@ URL: https://news.google.com/rss/articles/CBMie0FVX3lxTFBfVlNhdklGYjc5OWJTX3NQa0
 
 Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card Mashable
 
-## 4. Survey says: Here are the Apple products readers still expect this year - Mashable
+## 4. Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5
+
+Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable
+
+## 5. Survey says: Here are the Apple products readers still expect this year - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1sTzkzVDJ5LWNoaWhBTDl1M2Z2WGIwY0VPNEcwWlhVN1RnUnpONjVJV21NZWVsV2FqeFpLd3J0bHdUNWtMeW5ZbElPMGo5NHROdURlV2FNR2RZUmZ1REJXb25BY2xoSXdwX25nY1JaVXNBNEd0MHZtT3JNc1lKb1E?oc=5
 
 Survey says: Here are the Apple products readers still expect this year Mashable
 
-## 5. Apple said to delay smart glasses launch after Meta backlash - Mashable
+## 6. Apple said to delay smart glasses launch after Meta backlash - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFAzODlmSld2el9xcHg1STB1bU8zYW9aa2EyVVVEZHE5V08zX0g3azN5UzZjdjBzbnBaZEl5Y1dVak1wME5RU1puaG5yOXIxSjc4S2ZuV041UUdWaF9Ba1pzcXU1LTI4UXpQTkp6N1NMM1dIdGI0?oc=5
 
 Apple said to delay smart glasses launch after Meta backlash Mashable
 
-## 6. At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' - Business Insider
+## 7. At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' - Business Insider
 Source: Business Insider (reputable)
 URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQWGVQSTFFQzNPYVN2S3VmamlwN1ZqTHF5UDI0TEtMUGZnRUpTcDhnUzNBYjgwbUhwOUhUT3FlM2VaWUZXaVNKczR2VWd4bTJYbFBrWFQ2cHpVNlNnbXBOeUpjSHlqMDkwMlo1RlItZDhEZkVVRG5oQ3hlczU1TG9UVzgybUlVQkVZTlY2c2VZT0VoT29mQ0RJa185RUkydw?oc=5
 
 At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' Business Insider
 
-## 7. A new a-peel: Potato chips revamp their image from junk food to healthy snack - Korea JoongAng Daily
+## 8. A new a-peel: Potato chips revamp their image from junk food to healthy snack - Korea JoongAng Daily
 Source: Korea JoongAng Daily (reputable)
 URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1RicnIwYTZXN29ITTVOeHlFWWFMenprLTBUSXJfSUJBVmMxVzRLSHpyRGI5SUZmTTVXaGgwRXNQVnpFdDZBY3VfcGYyN1hqR1l5Zk5EYmZCVkZSMU1RQ3gtd01USkFTQVROaHpzcXN2VV9BeldmWjVONXktdVE1anBaOWFQWTFUQ2ZwN29aNm5VYk14VHRfanN5RzhaNUFvbmNmSmVoWjY2QkUxQXhWM0tMUlEwTUozNG1xSEphZl80RUZzVV84?oc=5
 
 A new a-peel: Potato chips revamp their image from junk food to healthy snack Korea JoongAng Daily
 
-## 8. Chip boom reshapes children’s career dreams - Korea JoongAng Daily
+## 9. Chip boom reshapes children’s career dreams - Korea JoongAng Daily
 Source: Korea JoongAng Daily (reputable)
 URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnNWTERUbXNWZ0VhTFptS2cwTVRVaDlLelFxVVlvR2NEanZfNzBvOW4tc1pQUGlIUVNSR1hoUnpNb0V5dDZZZnYxTXB4a2Vad01PMmVrUVNpQmJuaUZ5WU9PUlZ0eFcxNVBrcGNmdzNFenlFWFpiVWlmZmxlWHUyOFdpRVJoUG11akhoLWtVem5UM2VkWkNCNk1CSQ?oc=5
 
 Chip boom reshapes children’s career dreams Korea JoongAng Daily
 
-## 9. AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS - digitimes
+## 10. AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS - digitimes
 Source: digitimes (reputable)
 URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzljSkt1YkxDeDJlcWVuSU1jQ1hlWWpaOU0taVFKNW4zR0o4Yy1QVGlrMzdwOHZjU2RWZkxmQXVVZ0VuYkFlZ1pSTGhtNjhWYTNuYVN1a044N2hjUkhPbUF0ZzdSamdrMDhHTkRqa1Fjd0MtQm1CVzBUS21ZUmdoaFZsYmdpYlFtNFpTMVRwQQ?oc=5
 
 AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS digitimes
 
-## 10. Memory costs overtake smartphone chip costs as SoC shipments are set to fall 14% - digitimes
+## 11. Memory costs overtake smartphone chip costs as SoC shipments are set to fall 14% - digitimes
 Source: digitimes (reputable)
 URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQTGxNeWROZkxmXzJpa1BTVnhnR3RfM2U1RTNvbzNlSVV6VG9taF9ubFZhT2JkYnNXcndVODRXdmt0eEdSZkMyOXJvSEhGTEp6dWRhdGhOQWs5bVprV01JYUlmZXROaWNZRXFnOTRPN1YwdGJ0ekswS2xnQThIcDl1Y25USkxSZW1Qc0JrNG0yYmpoTTli?oc=5
 
 Memory costs overtake smartphone chip costs as SoC shipments are set to fall 14% digitimes
 
-## 11. The Samsung Galaxy Watch Ultra 2 comes with a free $100 gift card this weekend - Mashable
+## 12. The Samsung Galaxy Watch Ultra 2 comes with a free $100 gift card this weekend - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1pCbW9vVEdOQzh2VXd1N3oyRk9hWk1OOFpDMUNEenpDMUJtZFNEYV90eHVDRU5BVGlFcHJBUm8zTUx0Rko1WTAybm9pNFJKLVpXSUJraGRCX2tvdU1pSlVDTmFsZnMtMWREVVFlS0RsbWc4NURTXzVkWFRaZGtyM1Vn?oc=5
 
 The Samsung Galaxy Watch Ultra 2 comes with a free $100 gift card this weekend Mashable
 
-## 12. Should you still buy your next smartphone — or subscribe to it instead? - TechCrunch
+## 13. Should you still buy your next smartphone — or subscribe to it instead? - TechCrunch
 Source: TechCrunch (reputable)
 URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3VKOWtMZTRXM05vQWVzLW1SQWdvcTVzX050eENMdUFOSk0yQjJJdDhhUkE2MHI3YThHbnpKeFVDX240LXZyMHZpVHczMmdjdXhMN3hCU1JyOG9ja2FWRW9VQjRpWlZXZW8tX01XUVBqWFZXUFh6MDRsTHd1aXktMWdtbm9kbHp4b25MemdzdGxiV3FRd0d6THhQbEJuWFFTMmozUGh3?oc=5
 
 Should you still buy your next smartphone — or subscribe to it instead? TechCrunch
 
-## 13. T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend - Mashable
+## 14. T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TF9qNXdVeFVlZVJXME00R3FtMVFiYzJaMndtWnJKd1ZlTXB0amZkOUE3dGFXeU5HQUdxQ0x3V2xfR2l4dzJHVE0tbGgzZDkwTFV2WXZDdWtlVnAtVjgxTHBKNkg?oc=5
 
 T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend Mashable
-
-## 14. Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5
-
-Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable
 
 ## 15. Ten advances in mathematics and theoretical computer science - OpenAI
 Source: OpenAI (primary)
@@ -148,15 +148,3 @@ Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5
 
 EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters
-
-## 25. Exclusive: OpenAI Previews ‘Astra’ AI Model in DC - The Information
-Source: The Information (reputable)
-URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNBZGhQZFk0YXdGc0FQRUsxd0Jrd2RuTkRBXzFMMTdpUXZqZWpOYjR5dEhrMkg4X0hYcjFEemFBWEdGQU9Tc1hjMXZWN0lxQVlNU2FBcHpMQ0ctSHplVklWOEFhQmljYTQ0NERkZ3V5di0tZUR3Rm1zX0R3X1k1MDRDNzRydEFtenplMg?oc=5
-
-Exclusive: OpenAI Previews ‘Astra’ AI Model in DC The Information
-
-## 26. FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry - Reuters
-Source: Reuters (reputable)
-URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5
-
-FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry Reuters
