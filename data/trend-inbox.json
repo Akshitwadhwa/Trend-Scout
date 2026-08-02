@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T18:10:51.408928+00:00",
+  "updated_at": "2026-08-02T19:32:24.558275+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,13 +14,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 \u2014 only today - Mashable",
+      "what_happened": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 \u2014 only today Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTVheHBhTmhsbkRsSURYX1hWUEstdkhmdV9zcnpWX0UyOEJQampwRlZ5amVqc0huSVltQWE2ZGVHME1yX0ZhS0RfcTZWS0lOakdhbklSRUxybzQ2RGRWOFEzeHZPczlpR3ZpM1MxT3JrQUlNTF9fT2FkTWREeHJyYndBNHhKR0xmTXhn?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-02T16:52:05+00:00",
+      "age_hours": 2.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card - Mashable",
       "what_happened": "Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfVlNhdklGYjc5OWJTX3NQa05NeWpGN0FsRjBrNDdWbUp3TWR1YkhyT1BlVkl0enVXeHB0WnpGdkxqSHRTWW5La2k3S0hlUzVMQkgxZXhTYkRoUmNFX3pFeWxFS1l1NW9XeEsxclJzdG5qaVNVTlY1ODNhQQ?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T16:08:43+00:00",
-      "age_hours": 2.0,
+      "age_hours": 3.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T10:00:00+00:00",
-      "age_hours": 8.2,
+      "age_hours": 9.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -186,17 +197,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-01T11:51:07+00:00",
       "age_hours": 6.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 \u2014 only today - Mashable",
-      "what_happened": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 \u2014 only today Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTVheHBhTmhsbkRsSURYX1hWUEstdkhmdV9zcnpWX0UyOEJQampwRlZ5amVqc0huSVltQWE2ZGVHME1yX0ZhS0RfcTZWS0lOakdhbklSRUxybzQ2RGRWOFEzeHZPczlpR3ZpM1MxT3JrQUlNTF9fT2FkTWREeHJyYndBNHhKR0xmTXhn?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-01T09:15:43+00:00",
-      "age_hours": 6.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
