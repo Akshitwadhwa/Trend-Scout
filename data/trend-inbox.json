@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-02T09:20:10.030086+00:00",
+  "updated_at": "2026-08-02T11:33:44.242240+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card - Mashable",
+      "what_happened": "Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfVlNhdklGYjc5OWJTX3NQa05NeWpGN0FsRjBrNDdWbUp3TWR1YkhyT1BlVkl0enVXeHB0WnpGdkxqSHRTWW5La2k3S0hlUzVMQkgxZXhTYkRoUmNFX3pFeWxFS1l1NW9XeEsxclJzdG5qaVNVTlY1ODNhQQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-02T10:31:32+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Survey says: Here are the Apple products readers still expect this year - Mashable",
+      "what_happened": "Survey says: Here are the Apple products readers still expect this year Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sTzkzVDJ5LWNoaWhBTDl1M2Z2WGIwY0VPNEcwWlhVN1RnUnpONjVJV21NZWVsV2FqeFpLd3J0bHdUNWtMeW5ZbElPMGo5NHROdURlV2FNR2RZUmZ1REJXb25BY2xoSXdwX25nY1JaVXNBNEd0MHZtT3JNc1lKb1E?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-02T10:00:00+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "A new a-peel: Potato chips revamp their image from junk food to healthy snack - Korea JoongAng Daily",
       "what_happened": "A new a-peel: Potato chips revamp their image from junk food to healthy snack Korea JoongAng Daily",
@@ -306,29 +328,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 41.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028 - TechCrunch",
-      "what_happened": "Samsung expects memory shortage to worsen through 2027 and last until 2028 TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdmtZXzZfZjc1dThRTXAyUGJ1bW5nWHdncTh4dXo3SzNHYnNSRGRnUlZPT2xRdExpWkZIVjBWcFVZMHpkOUJqOHVQVHpWaEw4cTVaZENrVXVmaFNNd2Q3TFkwRzBzbjNlLU4xSkVfVzZreW5pdG5WQTRwMGxsS0VPWVZoaHBQZUowN0FCdDJXalhLWHlrSVlUSmJ6SzU2U1lMbXVCWnpOUXVMM2F0cWc?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T15:37:58+00:00",
-      "age_hours": 3.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Building abundant intelligence - OpenAI",
-      "what_happened": "Building abundant intelligence OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBObjk4d1E4cU02NFZHNVhmdUI4ODJFVWJoUlNHSUQ5YXFYOUZNaHh3S3FjbG5Vb2FHbGgyNDVvd2h1Y1M4SzRtb0xDcVh3X05kVFgzWTRyZGJoRXZHeDhaMlR4Tnd1RE0?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-07-31T15:06:49+00:00",
-      "age_hours": 3.6,
+      "age_hours": 43.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
