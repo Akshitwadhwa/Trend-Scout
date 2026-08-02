@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-02T19:32:24.558275+00:00
+Updated: 2026-08-02T21:09:53.078787+00:00
 Memory window: 48 hours
 
 ## 1. Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global
@@ -160,27 +160,3 @@ Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5
 
 FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry Reuters
-
-## 27. After stock market whiplash, Korea's chip industry now faces growing China risk - Korea JoongAng Daily
-Source: Korea JoongAng Daily (reputable)
-URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxORXdkZzJadmoyNkJKUERla0Iya2NfdUxJbEVveVBvRnEySWpzOS1xaWpuNkR3OGhFak5qRjdvZ3FRUnh6Y0czNDRUaWxGdE5oN0NrOFpURTdCalBsWl9vX0lLc3FEbnZKWTkwaktKeE9fUzZtdlotS1ZPZWNJeVJoV1RrZmo4R2loR2JuZF9oWkFXLWozZURSLW5raDNjakM1Z3NPUS1Db1ZaVHR4X1B2MFZSTW5sZWZ3Wks0Y2JDUVJFTHotY0JHSEI0VFo5RFU?oc=5
-
-After stock market whiplash, Korea's chip industry now faces growing China risk Korea JoongAng Daily
-
-## 28. U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes - WSJ
-Source: WSJ (reputable)
-URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkI4Ty1IeVBJQm5ZOEJIcVdYMXVCZjVBSlAtUXJCbDFZaWtDZ2xrWGtGTUNGQlU4NXZEVElhQjNuY1owdElXSUpvU3RlMVE4ckVVNE9uekZMR0d4T3BSQ0E1X1k2MTFXYUxZQkJZZW10UGdmRnFlbV9WUURtTmI3YlpOdmJVNEFVZ0IycVUxRmdFMHpzcnJtYjdnOXNwUmtRVVpB?oc=5
-
-U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes WSJ
-
-## 29. Chip Rebound Gives Stocks a Reprieve After Heady Month - Bloomberg
-Source: Bloomberg (reputable)
-URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjNUM0JIUThOXzM2anB2YklGYm5mN2JSZjR3ckltaVhVcmI3VFRMZXRpZS1UWUdVLS1jZ2VhQ1hhNEppNXB4NG4yRDBCdU41V29PVVBNLWU3THRGR2EzaHZWcUVjWnBPR0JTb184SkZJRnZCWHNrSjdSdzNqU3NkNnpsY0RKNlUxck9xSGlYYUtnbFFWckpPZ2F3NnVtdi15YV9ubGxMcmUxZWY1?oc=5
-
-Chip Rebound Gives Stocks a Reprieve After Heady Month Bloomberg
-
-## 30. Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE8zTExXNS03MDFacS1ZUThiN1hrRnRWcUlFVDEwSXNIUTBWOXQ3MVRhcTVraWNmS1cwNS1XeFBqV2FGYlAzYlp1dTNQT3g3WUdkLU1UUUIyeGdQWEI3SmNMRXZJbGNrb1JZcEJpUTgzMjNDQW5NdlZhRjRlVHRhLXM?oc=5
-
-Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile Mashable

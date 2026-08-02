@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T19:32:24.558275+00:00",
+  "updated_at": "2026-08-02T21:09:53.078787+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -8,8 +8,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93UWpSVmlEa1h2LS1ibmZJdnRmZkRKMUs2N0ZjTzRUbWtrTS13d2YwWjRQWjhFWmVaNmZuOExaVXR0SWc1X01uSTdlT0l4bDdLdWNiTGhuRHpaMlpFdmUyeDdTd0M0S1AzOVE?oc=5",
       "source_name": "KED Global",
       "source_level": "reputable",
-      "published_at": "2026-08-02T18:00:48+00:00",
-      "age_hours": 0.2,
+      "published_at": "2026-08-02T19:45:45+00:00",
+      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T16:52:05+00:00",
-      "age_hours": 2.7,
+      "age_hours": 4.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T16:08:43+00:00",
-      "age_hours": 3.4,
+      "age_hours": 5.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -285,50 +285,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-31T21:46:29+00:00",
       "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "After stock market whiplash, Korea's chip industry now faces growing China risk - Korea JoongAng Daily",
-      "what_happened": "After stock market whiplash, Korea's chip industry now faces growing China risk Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORXdkZzJadmoyNkJKUERla0Iya2NfdUxJbEVveVBvRnEySWpzOS1xaWpuNkR3OGhFak5qRjdvZ3FRUnh6Y0czNDRUaWxGdE5oN0NrOFpURTdCalBsWl9vX0lLc3FEbnZKWTkwaktKeE9fUzZtdlotS1ZPZWNJeVJoV1RrZmo4R2loR2JuZF9oWkFXLWozZURSLW5raDNjakM1Z3NPUS1Db1ZaVHR4X1B2MFZSTW5sZWZ3Wks0Y2JDUVJFTHotY0JHSEI0VFo5RFU?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T21:04:08+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes - WSJ",
-      "what_happened": "U.S. Stocks Rise as Amazon Earnings Offset Apple Chip Woes WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkI4Ty1IeVBJQm5ZOEJIcVdYMXVCZjVBSlAtUXJCbDFZaWtDZ2xrWGtGTUNGQlU4NXZEVElhQjNuY1owdElXSUpvU3RlMVE4ckVVNE9uekZMR0d4T3BSQ0E1X1k2MTFXYUxZQkJZZW10UGdmRnFlbV9WUURtTmI3YlpOdmJVNEFVZ0IycVUxRmdFMHpzcnJtYjdnOXNwUmtRVVpB?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T20:41:44+00:00",
-      "age_hours": 2.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Chip Rebound Gives Stocks a Reprieve After Heady Month - Bloomberg",
-      "what_happened": "Chip Rebound Gives Stocks a Reprieve After Heady Month Bloomberg",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZjNUM0JIUThOXzM2anB2YklGYm5mN2JSZjR3ckltaVhVcmI3VFRMZXRpZS1UWUdVLS1jZ2VhQ1hhNEppNXB4NG4yRDBCdU41V29PVVBNLWU3THRGR2EzaHZWcUVjWnBPR0JTb184SkZJRnZCWHNrSjdSdzNqU3NkNnpsY0RKNlUxck9xSGlYYUtnbFFWckpPZ2F3NnVtdi15YV9ubGxMcmUxZWY1?oc=5",
-      "source_name": "Bloomberg",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T20:19:27+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile - Mashable",
-      "what_happened": "Save $1,100 on a Samsung Galaxy Fold8 Ultra when you preorder at T-Mobile Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zTExXNS03MDFacS1ZUThiN1hrRnRWcUlFVDEwSXNIUTBWOXQ3MVRhcTVraWNmS1cwNS1XeFBqV2FGYlAzYlp1dTNQT3g3WUdkLU1UUUIyeGdQWEI3SmNMRXZJbGNrb1JZcEJpUTgzMjNDQW5NdlZhRjRlVHRhLXM?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T19:48:33+00:00",
-      "age_hours": 8.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
