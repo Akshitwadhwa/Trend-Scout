@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T15:18:37.766056+00:00",
+  "updated_at": "2026-08-02T17:13:58.871781+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -8,8 +8,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfVlNhdklGYjc5OWJTX3NQa05NeWpGN0FsRjBrNDdWbUp3TWR1YkhyT1BlVkl0enVXeHB0WnpGdkxqSHRTWW5La2k3S0hlUzVMQkgxZXhTYkRoUmNFX3pFeWxFS1l1NW9XeEsxclJzdG5qaVNVTlY1ODNhQQ?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
-      "published_at": "2026-08-02T10:31:32+00:00",
-      "age_hours": 1.0,
+      "published_at": "2026-08-02T16:08:43+00:00",
+      "age_hours": 1.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T10:00:00+00:00",
-      "age_hours": 5.3,
+      "age_hours": 7.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -41,8 +41,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGVQSTFFQzNPYVN2S3VmamlwN1ZqTHF5UDI0TEtMUGZnRUpTcDhnUzNBYjgwbUhwOUhUT3FlM2VaWUZXaVNKczR2VWd4bTJYbFBrWFQ2cHpVNlNnbXBOeUpjSHlqMDkwMlo1RlItZDhEZkVVRG5oQ3hlczU1TG9UVzgybUlVQkVZTlY2c2VZT0VoT29mQ0RJa185RUkydw?oc=5",
       "source_name": "Business Insider",
       "source_level": "reputable",
-      "published_at": "2026-08-02T09:00:00+00:00",
-      "age_hours": 6.3,
+      "published_at": "2026-08-02T09:00:08+00:00",
+      "age_hours": 8.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
