@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:52:39.965793+00:00",
+  "updated_at": "2026-08-02T15:18:37.766056+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -20,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T10:00:00+00:00",
-      "age_hours": 3.9,
+      "age_hours": 5.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T09:23:03+00:00",
-      "age_hours": 4.5,
+      "age_hours": 5.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "Business Insider",
       "source_level": "reputable",
       "published_at": "2026-08-02T09:00:00+00:00",
-      "age_hours": 4.9,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
