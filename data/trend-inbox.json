@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-02T03:50:56.366747+00:00",
+  "updated_at": "2026-08-02T06:44:06.138939+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "A new a-peel: Potato chips revamp their image from junk food to healthy snack - Korea JoongAng Daily",
+      "what_happened": "A new a-peel: Potato chips revamp their image from junk food to healthy snack Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1RicnIwYTZXN29ITTVOeHlFWWFMenprLTBUSXJfSUJBVmMxVzRLSHpyRGI5SUZmTTVXaGgwRXNQVnpFdDZBY3VfcGYyN1hqR1l5Zk5EYmZCVkZSMU1RQ3gtd01USkFTQVROaHpzcXN2VV9BeldmWjVONXktdVE1anBaOWFQWTFUQ2ZwN29aNm5VYk14VHRfanN5RzhaNUFvbmNmSmVoWjY2QkUxQXhWM0tMUlEwTUozNG1xSEphZl80RUZzVV84?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-08-02T06:33:14+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Chip boom reshapes children\u2019s career dreams - Korea JoongAng Daily",
       "what_happened": "Chip boom reshapes children\u2019s career dreams Korea JoongAng Daily",
@@ -53,7 +64,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-01T18:47:27+00:00",
-      "age_hours": 9.1,
+      "age_hours": 11.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -295,7 +306,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-07-31T16:00:00+00:00",
-      "age_hours": 35.8,
+      "age_hours": 38.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 3.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models - CNBC",
-      "what_happened": "U.S. lawmakers request information from DoorDash on use of Chinese AI models CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmlsRTliVVMyYzluS1l0d2JPUmxUMDY4cjZKYWp6bERkUHhuVkszem1Ga0ZJYTN1dXVfcVNHbGx3U2QzY3lYNkNjN0VlZjhxU1FrRkNTZGJueTVZSFFEWEFodjNCUTZnVHVmaXU4LTJZWnFKRlhqMmVYV05xX3lFT2dn0gGHAUFVX3lxTE5tc09LT0c2aXdwa3c5RmlSVExTbmRsTmdqb2w1QmxsMGNQb1ctVzJCQ2VGZ3djTkpqSHRWZFhhY3A2QVItWUhpUVlXS2hwTVlCbVplOS1jSEZoU1hIVVFBanluczl5dHk2X0d5Mm9RTzFiVEtoQU5rWFI3SF9iVlJaSlR3SDc4QQ?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T14:39:59+00:00",
-      "age_hours": 4.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
