@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-02T22:09:27.541622+00:00
+Updated: 2026-08-02T23:09:51.216066+00:00
 Memory window: 48 hours
 
 ## 1. Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global
@@ -142,9 +142,3 @@ Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBPcFZKTDY5Ync0Zk5Uc3BlNGVGNTdtcG1BTTRtY25jZkU1V081REczbmtKTmxtbWNXVDVBTlctTXVlLUhydHlxWEdfZnNlT0RUZ2VNSzBNcWkwT0ZBbmZqRGUzYzZ6blRMWDlKSkZ6cHRJelBLdUE?oc=5
 
 iPhone 20: Rumor has it Apple is prepping a radical redesign Mashable
-
-## 24. EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
-Source: Reuters (reputable)
-URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5
-
-EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters

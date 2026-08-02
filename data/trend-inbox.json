@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T22:09:27.541622+00:00",
+  "updated_at": "2026-08-02T23:09:51.216066+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -20,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T16:52:05+00:00",
-      "age_hours": 5.3,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T16:08:43+00:00",
-      "age_hours": 6.0,
+      "age_hours": 7.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-02T16:08:43+00:00",
-      "age_hours": 6.0,
+      "age_hours": 7.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -252,17 +252,6 @@
       "source_level": "reputable",
       "published_at": "2026-07-31T23:15:00+00:00",
       "age_hours": 7.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-      "what_happened": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T22:39:05+00:00",
-      "age_hours": 1.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
