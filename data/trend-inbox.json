@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-03T03:52:58.627501+00:00",
+  "updated_at": "2026-08-03T07:44:41.995816+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "[Interview] [Galaxy Unpacked July 2026] Inside the Design Behind the Latest Galaxy Z Series and Galaxy Watch",
+      "what_happened": "On July 22 at Galaxy Unpacked July 2026, Samsung Electronics introduced Galaxy Z Fold8 Ultra, Galaxy Z Fold8, Galaxy Z Flip8, Galaxy Watch Ultra2 and Galaxy Watch9. From foldables to smartwatches, Samsung\u2019s latest Galaxy devices take different forms but share the same design philosophy \u2014 comfort. Samsung Newsroom spoke with Hubert Lee, Executive Vice President [\u2026]",
+      "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-inside-the-design-behind-the-latest-galaxy-z-series-and-galaxy-watch",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-03T13:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "James Dacombe, 25, triples AI chip start-up\u2019s valuation to $3.3bn - Financial Times",
+      "what_happened": "James Dacombe, 25, triples AI chip start-up\u2019s valuation to $3.3bn Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zWDVhc1lDU2EzWGpyMElYUEpvYUlZYVdJZ1dSWm1KSWhnY2RsMnNhaXdiRzdGSF9XX1JYMW9jVDVIak0yS3dfcXAwdVRER19LMWRBM29JLVRNTWY1ZWxCcGJBSkRsemxLVXN3MlhlSTM?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T07:26:29+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple's most popular MacBook Air hit by chip shortage after Mac Mini and Mac Studio - India Today",
+      "what_happened": "Apple's most popular MacBook Air hit by chip shortage after Mac Mini and Mac Studio India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ296Ym1KRFhFMTBrWkhQQlI1aTFDX2ExVWhvUFM4aGtnRlJ3V0xEM04zQWpNVkUwbzZQckFBb1lMQmFoek5ZdnJ5Skk1dE9DTmNLR1doMzBGQWx1QkJmbjZfXzFRLXRDS1hyWlJLRGE1TjBHX1pScnVWdG5HbE1zYlNQV29pZTNRTHFyYmV4LXgzSTFuSWdlblk0NUNhemFHdXRwSHJWY2pVOWtmZTFWY1gzYWZ2TDRwQVROOUQya1BodmJKZ0FXSjVPa0hsa1NQWHZLQWZjQzFZb0I4Sm4zMDRBU3A5RFRk0gHoAUFVX3lxTFBDb3pibUpEWEUxMGtaSFBCUjVpMUNfYTFVaG9QUzhoa2dGUndXTEQzTjNBak1WRTBvNlByQUFvWUxCYWh6Tll2cnlKSTV0T0NOY0tHV2gzMEZBbHVCQmZuNl9fMVEtdENLWHJaUktEYTVOMEdfWlJydVZ0bkdsTXNiU1BXb2llM1FMcXJiZXgteDNJMW5JZ2VuWTQ1Q2F6YUd1dHBIclZjalU5a2ZlMVZjWDNhZnZMNHBBVE45RDJrUGh2YkpnQVdKNU9rSGxrU1BYdktBZmNDMVlvQjhKbjMwNEFTcDlEVGQ?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T07:21:39+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Alibaba\u2019s AI model Qwen3.8-Max widely accessible ahead of open-weights release - South China Morning Post",
       "what_happened": "Alibaba\u2019s AI model Qwen3.8-Max widely accessible ahead of open-weights release South China Morning Post",
