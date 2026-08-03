@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-03T17:19:20.637882+00:00",
+  "updated_at": "2026-08-03T19:56:16.678335+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "DesignArena creators raise $7.9 million to bring taste to AI models - TechCrunch",
+      "what_happened": "DesignArena creators raise $7.9 million to bring taste to AI models TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0lVWkE5MDQyQmZsSHY0U1ZwQ1ZySUdXT2FfRFFLOUtjZEc4WHBEWloyT0E0NGdpZzBhcUY3eThzS0xtSEU4Wml2SVl2UTRxLXlrR1hTTE5fWW43d0ZsNzJoZkNyQ2txRWYtemtqNlNaeGhKenMxSldibHg0alhKbzU1MGFLdDhlaDIxS2FjaDFYMW5FamFBYTN5bGxvbkJPNWxz?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T19:28:57+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Best SSD deal: The Samsung internal SSD 990 is 30% off - Mashable",
+      "what_happened": "Best SSD deal: The Samsung internal SSD 990 is 30% off Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWHlLdUlSM2tJZlE2MzI4NHZ5Q0Y1UTVaQThlQ2lWLUNBU3lJLVYzbFhrV3RLeDAzdzh6R1VQYXQ1ZDJWd0NfSTBhUTZuYU5ZQlkxUTF1MWdFdEJqdHNn?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T18:56:46+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple launches legal challenge against UK government demand to access data - The Guardian",
+      "what_happened": "Apple launches legal challenge against UK government demand to access data The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDZac1JoSXoyRmM1WnhNalBpcHQzbFV1MmRqM3VJVHZiNkRlSXEzV1pSQUtYQlVDXzFXVEZoUjE4S2kzWlJ6WnNSUHpFMU4zQkdLbkhJU3BkOC1XSWwwc1lwMHdDdkxtaGdVUWRoTWUta3ZPMkRWLVVhdFlCX2UzZmhTOGVrcjY5a3FWWGYzdW5pb2xJdjZqQk9mV1h1UGc?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T18:21:00+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure - developer.nvidia.com",
       "what_happened": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure developer.nvidia.com",
@@ -274,17 +307,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-01T22:03:52+00:00",
       "age_hours": 5.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Should you still buy your next smartphone \u2014 or subscribe to it instead? - TechCrunch",
-      "what_happened": "Should you still buy your next smartphone \u2014 or subscribe to it instead? TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3VKOWtMZTRXM05vQWVzLW1SQWdvcTVzX050eENMdUFOSk0yQjJJdDhhUkE2MHI3YThHbnpKeFVDX240LXZyMHZpVHczMmdjdXhMN3hCU1JyOG9ja2FWRW9VQjRpWlZXZW8tX01XUVBqWFZXUFh6MDRsTHd1aXktMWdtbm9kbHp4b25MemdzdGxiV3FRd0d6THhQbEJuWFFTMmozUGh3?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-01T18:47:27+00:00",
-      "age_hours": 11.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
