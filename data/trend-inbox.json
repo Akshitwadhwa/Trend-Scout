@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-03T00:11:25.323825+00:00",
+  "updated_at": "2026-08-03T03:52:58.627501+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Alibaba\u2019s AI model Qwen3.8-Max widely accessible ahead of open-weights release - South China Morning Post",
+      "what_happened": "Alibaba\u2019s AI model Qwen3.8-Max widely accessible ahead of open-weights release South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2JaU2cyc2JoeTZWTk5Sa0JWOVZxUnlSaTd0NDhLZzVWX3U1RHZaRjBZTVg5cExTdVluWFZQamkyeVh2RklTVDYwNXQ0eER0eXpPbDJIWUVwSHZsNm1WbVBoOWItN3RiWUtyMVliZGIzVlZxb054MlpPd2JiLWlXSDVwQjd5ZmVlNjV0UV9QY1lTeFNqMkxPMUR2VGMwZG5iVWhNSE5XdFdkQ0pfNnRGZEZrMjlvVDhUYURyedIBvAFBVV95cUxNUjRzZjVrM0hfN3FGVUoyaFMzRUdvdjQxLUlsWVdTNjNXU3FzWGk4SXp0dDJQUElUdTNhTEVKYnZCNVhnWWJyb0tDWVlldXhlVDBqQnlvV1NxeGw4U3ZsLUJ6NzZzSlR2cDY3ekNPTlVmekotUGJfNmtLSWV1c1I3NDdDR21NVFVXSDNQTU5QWEE1bW11UkVPY2ZsbDhqWEdiSXg1ZnlwcmEwN2RzdzF1RGQzLWtxQXJxTW5ZRw?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T03:01:39+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push - digitimes",
+      "what_happened": "India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmVxek9LNm1NX3RFc0lnd0RkN1JnMVBqVXZwWVliWmppeWJLY0J1RWE5OThYdVdpaG8zTE9GQ2F0VU0xcE5Fc0VzVFF0aTdmY2RTYy1RQTViQmR5OW05ZkR5RmJBNC1vZXpLZFVfVGNpVE02Y0UyMWNTa3NTLU5WWU1RNkMxQnpaQ2UyWDVQSGtxM01QLVNKRFFwaUE?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T02:49:27+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global",
       "what_happened": "Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth KED Global",
@@ -210,28 +232,6 @@
       "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Advancing responsible AI across Europe - OpenAI",
-      "what_happened": "Advancing responsible AI across Europe OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGc1V0ekFVbVd4RTRGMGNBTXVNVjhfUk9HZnFsR1RXTnd6cy0xVFlmRHhTSFU5Z1oyLXA5U3BfWXVDemVlbFEwTXhtRC1CaE1KZEdqUTdGWU9iSHVIR0s2SGMzZnFERzAyTHY4elVqZm9pSE9rZDBPYWNDUQ?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-08-01T00:13:49+00:00",
-      "age_hours": 6.4,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Advancing responsible AI across Europe - openai.com",
-      "what_happened": "Advancing responsible AI across Europe openai.com",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGc1V0ekFVbVd4RTRGMGNBTXVNVjhfUk9HZnFsR1RXTnd6cy0xVFlmRHhTSFU5Z1oyLXA5U3BfWXVDemVlbFEwTXhtRC1CaE1KZEdqUTdGWU9iSHVIR0s2SGMzZnFERzAyTHY4elVqZm9pSE9rZDBPYWNDUQ?oc=5",
-      "source_name": "openai.com",
-      "source_level": "primary",
-      "published_at": "2026-08-01T00:13:49+00:00",
-      "age_hours": 3.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
