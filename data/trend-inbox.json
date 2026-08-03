@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T07:44:41.995816+00:00",
+  "updated_at": "2026-08-03T11:42:42.345716+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,61 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "GPU prices for current-gen Nvidia and AMD: Price increases, why have the prices not dropped, and can you still buy a cheap GPU? - Tom's Hardware",
+      "what_happened": "GPU prices for current-gen Nvidia and AMD: Price increases, why have the prices not dropped, and can you still buy a cheap GPU? Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRmpEU3pfVEhzYkhUSEI5UzZna3RvZmprbWtyaVB0dHhETWo2Qk9iTi1QdFlDcnVPNUd2WGJGQzV4U2g3cEpqV3hYamdXME1RNF9paHNLd20yeFN4UXpDczBLb1FPVGRyQVFneGlqeWxFdU11Y0VDZFl1cWdIaXdFR1JtalJoMlJBdnBaanZkVEpUelo0djZMeEZzTUtiSDQ3ZTRSRFY4T2d0NTA4b3pFRE1fbmgtS0VRdms1dktSanpZc0c5WS1ZZjRrV1RXRG9kV2lhYnBVLVFGdHVhUGlmcEZ4UU5BZ3NkTWFUTlgtY21vY0NrMmRXekhmOUc5TDBr?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T11:30:00+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers - CNBC",
+      "what_happened": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjkyZXhrLU11dksxVTNxUFlkZEhKdUtQU2dDMUpNUExTNG9PdGFGZFAxY05UamxEWFNlcGYwSWJQOERRV3FwN2F2ZXRHc014bDkwUTh5SktKekgzVFlseWh0WXRfUlBMTkpEMnR6dlp1YWPSAXhBVV95cUxNMFJrbWFkYTFaNGxpVVpScmJ5dVdrZGhMZ0NmZFU4dmdNSnlLa0dVaU1scllBOThZcjFQUXBuazFmMEJNZi1laGVPQjBFZ2UzZ1E3QjQwSE1fa0M2WjM4bUx4N1RKQ2NGMi1RdklGMzh1bTBLR01Ba3Q?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T10:59:18+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC",
+      "what_happened": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOHNuTXBFVE9uUDBvRm5oSFBmSHFvZ0R1T256QzJUNXFOTjVyZDJlT19NNUxhM1NwVXQzS08tZFlmRXRDVzE0Q3lobzFGYllSMWJPNVdIUzRaSHpLbklBNjBZNWpGS0RVUEMyOERfNUJzOVMzWXh4MUIycjVudmvSAYQBQVVfeXFMTmNfWEdiZ0E3andENy1sZXZhLVZxWi1FY0ZyZnozeDFxQXppQzI1NGdDZlVlODZBR0I5dGhvaHJlWmhfWnJFekhyT050aUo3UTFRTWFxUnkwN3JFSDliXzNJVjh1T2JwY2RESVgyT2I5UDZQMVFlalR6dDI4cmU0T2toLWJV?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T10:34:35+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem - TechCrunch",
+      "what_happened": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUtLMElDZ2gyZHY3TVJnXzc1b0dkQ0lhYTQzdDIzYTdzVDB5WnFiYzFOUXdzQjhSblpGd0kyTU5NRDAwNnRSVm1IZVZJaEo2dkRuRkZUeVZTc2s1YnVxOU5pMGtHNHh1bUlSbXV6N21ZcWxNMVJQZTBqQjhSNXNpSXZhaHdnOUc4OUNWQ190Ty1VRXdHMHRDLXRLdEl6WnBYRXVlNmpzb1lzWThVN2JV?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T10:00:00+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra is 25% off right now \u2014 save over $300 at Amazon - Mashable",
+      "what_happened": "Samsung Galaxy S26 Ultra is 25% off right now \u2014 save over $300 at Amazon Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZ0c2LTNNNkRoVk9zTlZQR0pkTXBmVlJfMEd2VktUdUtEWENpRk44dzgtbDZSMHpjVUFKcEZXa1A4RnY0cXZQUGlvam5CQ21pZW9sTUk5cmt1UVhHcnlNUGV1WmRjTGhSbEJFTjBR?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T09:16:02+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "James Dacombe, 25, triples AI chip start-up\u2019s valuation to $3.3bn - Financial Times",
@@ -252,17 +307,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-01T11:51:07+00:00",
       "age_hours": 6.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic release Claude Opus 5, its 'safest model yet' - Mashable",
-      "what_happened": "Anthropic release Claude Opus 5, its 'safest model yet' Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QMVFubElTTldzb1BrR2ZjNHlaalVXbFBiSVAxLUpDMms3b2dYalQzT05pRncySmhHRmtLSmtPeEl5Qk1aMU5mSjQ0MVN5eTFPUFdlcTFueS1DUTQxa25ReHE5N1J6akVsRFE?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-01T08:45:09+00:00",
-      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
