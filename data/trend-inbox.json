@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-03T19:56:16.678335+00:00",
+  "updated_at": "2026-08-03T21:20:50.561434+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "ON Semiconductor Reports Higher Profit, Revenue on Growing AI Data Center Business - WSJ",
+      "what_happened": "ON Semiconductor Reports Higher Profit, Revenue on Growing AI Data Center Business WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDNyWDh1TTFxRm40QVZoSEVJVjRlTFFlLXNIZVp2S19tcmpNVkNpQWp3bW5OdWxfbC02VWo1WEJ4VENXME16SndiZ1VlR29LNWZUSHhUclJSSWJpc25BcUZ1N1VvaGg2cFExMUJsSU53UzFWR2Z6MUhiSWVtTnR6cnhXREVpY25KdjRYSlJpejZMVlRZTnQwbHg3RGRDaHZXbVk2aWs2ZDdkOEljSGRxWVNiaDBrSEI1a3RLNTE0UWJEQ2FsQ1ZZ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T20:44:00+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple launches legal challenge against UK government demand to access data - The Guardian",
+      "what_happened": "Apple launches legal challenge against UK government demand to access data The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDZac1JoSXoyRmM1WnhNalBpcHQzbFV1MmRqM3VJVHZiNkRlSXEzV1pSQUtYQlVDXzFXVEZoUjE4S2kzWlJ6WnNSUHpFMU4zQkdLbkhJU3BkOC1XSWwwc1lwMHdDdkxtaGdVUWRoTWUta3ZPMkRWLVVhdFlCX2UzZmhTOGVrcjY5a3FWWGYzdW5pb2xJdjZqQk9mV1h1UGc?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-08-03T20:18:00+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "DesignArena creators raise $7.9 million to bring taste to AI models - TechCrunch",
       "what_happened": "DesignArena creators raise $7.9 million to bring taste to AI models TechCrunch",
@@ -20,18 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-03T18:56:46+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple launches legal challenge against UK government demand to access data - The Guardian",
-      "what_happened": "Apple launches legal challenge against UK government demand to access data The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDZac1JoSXoyRmM1WnhNalBpcHQzbFV1MmRqM3VJVHZiNkRlSXEzV1pSQUtYQlVDXzFXVEZoUjE4S2kzWlJ6WnNSUHpFMU4zQkdLbkhJU3BkOC1XSWwwc1lwMHdDdkxtaGdVUWRoTWUta3ZPMkRWLVVhdFlCX2UzZmhTOGVrcjY5a3FWWGYzdW5pb2xJdjZqQk9mV1h1UGc?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T18:21:00+00:00",
-      "age_hours": 1.6,
+      "age_hours": 2.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
