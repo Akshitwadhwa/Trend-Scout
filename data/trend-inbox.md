@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-02T23:09:51.216066+00:00
+Updated: 2026-08-03T00:11:25.323825+00:00
 Memory window: 48 hours
 
 ## 1. Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global
@@ -130,15 +130,3 @@ Source: openai.com (primary)
 URL: https://news.google.com/rss/articles/CBMie0FVX3lxTFBGc1V0ekFVbVd4RTRGMGNBTXVNVjhfUk9HZnFsR1RXTnd6cy0xVFlmRHhTSFU5Z1oyLXA5U3BfWXVDemVlbFEwTXhtRC1CaE1KZEdqUTdGWU9iSHVIR0s2SGMzZnFERzAyTHY4elVqZm9pSE9rZDBPYWNDUQ?oc=5
 
 Advancing responsible AI across Europe openai.com
-
-## 22. Samsung Galaxy users complain of battery drain and overheating after update - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTFMLUR6MkVPZjRCZEM3bUJ2cHVrdEpveGFiRVNMSHFmenhnTnA2ckltYUtBdDI5YTVTcjBIR0xxWHlrR2c4Nk41MER4Q29mLW5QVEZGak84MGtlMnRDa3hPcjJBZGJRNVlmcHFpRHBHZTZWNlFZa1NRc2ExbzlBZzIwSm5SVUU?oc=5
-
-Samsung Galaxy users complain of battery drain and overheating after update Mashable
-
-## 23. iPhone 20: Rumor has it Apple is prepping a radical redesign - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFBPcFZKTDY5Ync0Zk5Uc3BlNGVGNTdtcG1BTTRtY25jZkU1V081REczbmtKTmxtbWNXVDVBTlctTXVlLUhydHlxWEdfZnNlT0RUZ2VNSzBNcWkwT0ZBbmZqRGUzYzZ6blRMWDlKSkZ6cHRJelBLdUE?oc=5
-
-iPhone 20: Rumor has it Apple is prepping a radical redesign Mashable

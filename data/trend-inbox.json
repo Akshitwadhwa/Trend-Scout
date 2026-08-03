@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T23:09:51.216066+00:00",
+  "updated_at": "2026-08-03T00:11:25.323825+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -232,28 +232,6 @@
       "age_hours": 3.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung Galaxy users complain of battery drain and overheating after update - Mashable",
-      "what_happened": "Samsung Galaxy users complain of battery drain and overheating after update Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTFMLUR6MkVPZjRCZEM3bUJ2cHVrdEpveGFiRVNMSHFmenhnTnA2ckltYUtBdDI5YTVTcjBIR0xxWHlrR2c4Nk41MER4Q29mLW5QVEZGak84MGtlMnRDa3hPcjJBZGJRNVlmcHFpRHBHZTZWNlFZa1NRc2ExbzlBZzIwSm5SVUU?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T23:15:00+00:00",
-      "age_hours": 10.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "iPhone 20: Rumor has it Apple is prepping a radical redesign - Mashable",
-      "what_happened": "iPhone 20: Rumor has it Apple is prepping a radical redesign Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPcFZKTDY5Ync0Zk5Uc3BlNGVGNTdtcG1BTTRtY25jZkU1V081REczbmtKTmxtbWNXVDVBTlctTXVlLUhydHlxWEdfZnNlT0RUZ2VNSzBNcWkwT0ZBbmZqRGUzYzZ6blRMWDlKSkZ6cHRJelBLdUE?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-07-31T23:15:00+00:00",
-      "age_hours": 7.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
