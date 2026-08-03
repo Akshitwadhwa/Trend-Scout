@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-03T11:42:42.345716+00:00",
+  "updated_at": "2026-08-03T15:14:20.035489+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+      "what_happened": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX \u2014 kicks off tomorrow, August 4, on Apple TV.",
+      "source_url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
+      "source_name": "apple.com",
+      "source_level": "primary",
+      "published_at": "2026-08-03T14:59:10.761000+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "[Interview] [Galaxy Unpacked July 2026] Inside the Design Behind the Latest Galaxy Z Series and Galaxy Watch",
       "what_happened": "On July 22 at Galaxy Unpacked July 2026, Samsung Electronics introduced Galaxy Z Fold8 Ultra, Galaxy Z Fold8, Galaxy Z Flip8, Galaxy Watch Ultra2 and Galaxy Watch9. From foldables to smartwatches, Samsung\u2019s latest Galaxy devices take different forms but share the same design philosophy \u2014 comfort. Samsung Newsroom spoke with Hubert Lee, Executive Vice President [\u2026]",
@@ -276,39 +287,6 @@
       "age_hours": 11.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable",
-      "what_happened": "There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XcDJVS24tUDAzOUNMVE1fcUhtcVV2bk90TkxPT0hwLXFfUXRLZ0ZLNXhtWXg0b1ZWVVdQNjRwZE5hUkZTR2Z2eGVmem9NZld0NFZ4UGc0VzZQTEdZSC1ZQ25ORU5fckZtYm40Z3NxaTkzaHE4dDM5SGpTWQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-01T13:36:33+00:00",
-      "age_hours": 7.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC",
-      "what_happened": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-01T12:00:01+00:00",
-      "age_hours": 15.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics - The Indian Express",
-      "what_happened": "UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzFiMUExWEt4dGhOakszNVIzYjQ2OHFPMHk2QnByOGpkbmJLMmh3S3paTmpTSkNpQlpZUThUSF8zeVJTMEI2S0c3amxMY2VXS2ZvQkJwU3pMVXh5WVR0WkdBdnI1VTQxVTBPR1EwNHUyWWlBRWRZSDZsUzBxck5fbEN1WnhlS2phSjBQa0dfU2JhYkpXVUJvMTBzQTlFZzBYUnJtT1M1Ry03UVdjVGNEZGt2TGJHY0J1SGhaOTVZWjJxc29EQ1ow0gHOAUFVX3lxTFBLb1IzME9RT3Vwa0syT2JsTHR1OFdZamx0czZCR183MzY5V1RGd2t5QzZNZWhYeXZaVWZ3U01KMkxnS19wZWdvbmcxb09hcnhSMlFpbmwzUE9lVXNEMGFWbFozakdaU196bjNvZndQeER0dHVIelVYWUdfMFFuM3JpdFZZZUFSQjBHUFlnUndvc1RPS2NkbzFlS3hvSlV2OC05em14RHExWDRGM2F1U2dPSlFpZ2FOSm5qUm81dUt4NWhwWWxGb1FOajNkTzh3?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-08-01T11:51:07+00:00",
-      "age_hours": 6.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }

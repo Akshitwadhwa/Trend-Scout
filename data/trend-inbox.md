@@ -2,173 +2,161 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-03T11:42:42.345716+00:00
+Updated: 2026-08-03T15:14:20.035489+00:00
 Memory window: 48 hours
 
-## 1. [Interview] [Galaxy Unpacked July 2026] Inside the Design Behind the Latest Galaxy Z Series and Galaxy Watch
+## 1. Leagues Cup kicks off tomorrow, August 4, on Apple TV
+Source: apple.com (primary)
+URL: https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/
+
+The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.
+
+## 2. [Interview] [Galaxy Unpacked July 2026] Inside the Design Behind the Latest Galaxy Z Series and Galaxy Watch
 Source: news.samsung.com (primary)
 URL: https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-inside-the-design-behind-the-latest-galaxy-z-series-and-galaxy-watch
 
 On July 22 at Galaxy Unpacked July 2026, Samsung Electronics introduced Galaxy Z Fold8 Ultra, Galaxy Z Fold8, Galaxy Z Flip8, Galaxy Watch Ultra2 and Galaxy Watch9. From foldables to smartwatches, Samsung’s latest Galaxy devices take different forms but share the same design philosophy — comfort. Samsung Newsroom spoke with Hubert Lee, Executive Vice President […]
 
-## 2. GPU prices for current-gen Nvidia and AMD: Price increases, why have the prices not dropped, and can you still buy a cheap GPU? - Tom's Hardware
+## 3. GPU prices for current-gen Nvidia and AMD: Price increases, why have the prices not dropped, and can you still buy a cheap GPU? - Tom's Hardware
 Source: Tom's Hardware (reputable)
 URL: https://news.google.com/rss/articles/CBMigAJBVV95cUxQRmpEU3pfVEhzYkhUSEI5UzZna3RvZmprbWtyaVB0dHhETWo2Qk9iTi1QdFlDcnVPNUd2WGJGQzV4U2g3cEpqV3hYamdXME1RNF9paHNLd20yeFN4UXpDczBLb1FPVGRyQVFneGlqeWxFdU11Y0VDZFl1cWdIaXdFR1JtalJoMlJBdnBaanZkVEpUelo0djZMeEZzTUtiSDQ3ZTRSRFY4T2d0NTA4b3pFRE1fbmgtS0VRdms1dktSanpZc0c5WS1ZZjRrV1RXRG9kV2lhYnBVLVFGdHVhUGlmcEZ4UU5BZ3NkTWFUTlgtY21vY0NrMmRXekhmOUc5TDBr?oc=5
 
 GPU prices for current-gen Nvidia and AMD: Price increases, why have the prices not dropped, and can you still buy a cheap GPU? Tom's Hardware
 
-## 3. Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers - CNBC
+## 4. Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjkyZXhrLU11dksxVTNxUFlkZEhKdUtQU2dDMUpNUExTNG9PdGFGZFAxY05UamxEWFNlcGYwSWJQOERRV3FwN2F2ZXRHc014bDkwUTh5SktKekgzVFlseWh0WXRfUlBMTkpEMnR6dlp1YWPSAXhBVV95cUxNMFJrbWFkYTFaNGxpVVpScmJ5dVdrZGhMZ0NmZFU4dmdNSnlLa0dVaU1scllBOThZcjFQUXBuazFmMEJNZi1laGVPQjBFZ2UzZ1E3QjQwSE1fa0M2WjM4bUx4N1RKQ2NGMi1RdklGMzh1bTBLR01Ba3Q?oc=5
 
 Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers CNBC
 
-## 4. Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC
+## 5. Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOHNuTXBFVE9uUDBvRm5oSFBmSHFvZ0R1T256QzJUNXFOTjVyZDJlT19NNUxhM1NwVXQzS08tZFlmRXRDVzE0Q3lobzFGYllSMWJPNVdIUzRaSHpLbklBNjBZNWpGS0RVUEMyOERfNUJzOVMzWXh4MUIycjVudmvSAYQBQVVfeXFMTmNfWEdiZ0E3andENy1sZXZhLVZxWi1FY0ZyZnozeDFxQXppQzI1NGdDZlVlODZBR0I5dGhvaHJlWmhfWnJFekhyT050aUo3UTFRTWFxUnkwN3JFSDliXzNJVjh1T2JwY2RESVgyT2I5UDZQMVFlalR6dDI4cmU0T2toLWJV?oc=5
 
 Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up CNBC
 
-## 5. A Marc Benioff-backed startup thinks AI can solve the AI deployment problem - TechCrunch
+## 6. A Marc Benioff-backed startup thinks AI can solve the AI deployment problem - TechCrunch
 Source: TechCrunch (reputable)
 URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUtLMElDZ2gyZHY3TVJnXzc1b0dkQ0lhYTQzdDIzYTdzVDB5WnFiYzFOUXdzQjhSblpGd0kyTU5NRDAwNnRSVm1IZVZJaEo2dkRuRkZUeVZTc2s1YnVxOU5pMGtHNHh1bUlSbXV6N21ZcWxNMVJQZTBqQjhSNXNpSXZhaHdnOUc4OUNWQ190Ty1VRXdHMHRDLXRLdEl6WnBYRXVlNmpzb1lzWThVN2JV?oc=5
 
 A Marc Benioff-backed startup thinks AI can solve the AI deployment problem TechCrunch
 
-## 6. Samsung Galaxy S26 Ultra is 25% off right now — save over $300 at Amazon - Mashable
+## 7. Samsung Galaxy S26 Ultra is 25% off right now — save over $300 at Amazon - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZ0c2LTNNNkRoVk9zTlZQR0pkTXBmVlJfMEd2VktUdUtEWENpRk44dzgtbDZSMHpjVUFKcEZXa1A4RnY0cXZQUGlvam5CQ21pZW9sTUk5cmt1UVhHcnlNUGV1WmRjTGhSbEJFTjBR?oc=5
 
 Samsung Galaxy S26 Ultra is 25% off right now — save over $300 at Amazon Mashable
 
-## 7. James Dacombe, 25, triples AI chip start-up’s valuation to $3.3bn - Financial Times
+## 8. James Dacombe, 25, triples AI chip start-up’s valuation to $3.3bn - Financial Times
 Source: Financial Times (reputable)
 URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1zWDVhc1lDU2EzWGpyMElYUEpvYUlZYVdJZ1dSWm1KSWhnY2RsMnNhaXdiRzdGSF9XX1JYMW9jVDVIak0yS3dfcXAwdVRER19LMWRBM29JLVRNTWY1ZWxCcGJBSkRsemxLVXN3MlhlSTM?oc=5
 
 James Dacombe, 25, triples AI chip start-up’s valuation to $3.3bn Financial Times
 
-## 8. Apple's most popular MacBook Air hit by chip shortage after Mac Mini and Mac Studio - India Today
+## 9. Apple's most popular MacBook Air hit by chip shortage after Mac Mini and Mac Studio - India Today
 Source: India Today (reputable)
 URL: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ296Ym1KRFhFMTBrWkhQQlI1aTFDX2ExVWhvUFM4aGtnRlJ3V0xEM04zQWpNVkUwbzZQckFBb1lMQmFoek5ZdnJ5Skk1dE9DTmNLR1doMzBGQWx1QkJmbjZfXzFRLXRDS1hyWlJLRGE1TjBHX1pScnVWdG5HbE1zYlNQV29pZTNRTHFyYmV4LXgzSTFuSWdlblk0NUNhemFHdXRwSHJWY2pVOWtmZTFWY1gzYWZ2TDRwQVROOUQya1BodmJKZ0FXSjVPa0hsa1NQWHZLQWZjQzFZb0I4Sm4zMDRBU3A5RFRk0gHoAUFVX3lxTFBDb3pibUpEWEUxMGtaSFBCUjVpMUNfYTFVaG9QUzhoa2dGUndXTEQzTjNBak1WRTBvNlByQUFvWUxCYWh6Tll2cnlKSTV0T0NOY0tHV2gzMEZBbHVCQmZuNl9fMVEtdENLWHJaUktEYTVOMEdfWlJydVZ0bkdsTXNiU1BXb2llM1FMcXJiZXgteDNJMW5JZ2VuWTQ1Q2F6YUd1dHBIclZjalU5a2ZlMVZjWDNhZnZMNHBBVE45RDJrUGh2YkpnQVdKNU9rSGxrU1BYdktBZmNDMVlvQjhKbjMwNEFTcDlEVGQ?oc=5
 
 Apple's most popular MacBook Air hit by chip shortage after Mac Mini and Mac Studio India Today
 
-## 9. Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release - South China Morning Post
+## 10. Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release - South China Morning Post
 Source: South China Morning Post (reputable)
 URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2JaU2cyc2JoeTZWTk5Sa0JWOVZxUnlSaTd0NDhLZzVWX3U1RHZaRjBZTVg5cExTdVluWFZQamkyeVh2RklTVDYwNXQ0eER0eXpPbDJIWUVwSHZsNm1WbVBoOWItN3RiWUtyMVliZGIzVlZxb054MlpPd2JiLWlXSDVwQjd5ZmVlNjV0UV9QY1lTeFNqMkxPMUR2VGMwZG5iVWhNSE5XdFdkQ0pfNnRGZEZrMjlvVDhUYURyedIBvAFBVV95cUxNUjRzZjVrM0hfN3FGVUoyaFMzRUdvdjQxLUlsWVdTNjNXU3FzWGk4SXp0dDJQUElUdTNhTEVKYnZCNVhnWWJyb0tDWVlldXhlVDBqQnlvV1NxeGw4U3ZsLUJ6NzZzSlR2cDY3ekNPTlVmekotUGJfNmtLSWV1c1I3NDdDR21NVFVXSDNQTU5QWEE1bW11UkVPY2ZsbDhqWEdiSXg1ZnlwcmEwN2RzdzF1RGQzLWtxQXJxTW5ZRw?oc=5
 
 Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release South China Morning Post
 
-## 10. India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push - digitimes
+## 11. India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push - digitimes
 Source: digitimes (reputable)
 URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmVxek9LNm1NX3RFc0lnd0RkN1JnMVBqVXZwWVliWmppeWJLY0J1RWE5OThYdVdpaG8zTE9GQ2F0VU0xcE5Fc0VzVFF0aTdmY2RTYy1RQTViQmR5OW05ZkR5RmJBNC1vZXpLZFVfVGNpVE02Y0UyMWNTa3NTLU5WWU1RNkMxQnpaQ2UyWDVQSGtxM01QLVNKRFFwaUE?oc=5
 
 India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push digitimes
 
-## 11. Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global
+## 12. Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global
 Source: KED Global (reputable)
 URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE93UWpSVmlEa1h2LS1ibmZJdnRmZkRKMUs2N0ZjTzRUbWtrTS13d2YwWjRQWjhFWmVaNmZuOExaVXR0SWc1X01uSTdlT0l4bDdLdWNiTGhuRHpaMlpFdmUyeDdTd0M0S1AzOVE?oc=5
 
 Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth KED Global
 
-## 12. Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today - Mashable
+## 13. Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTVheHBhTmhsbkRsSURYX1hWUEstdkhmdV9zcnpWX0UyOEJQampwRlZ5amVqc0huSVltQWE2ZGVHME1yX0ZhS0RfcTZWS0lOakdhbklSRUxybzQ2RGRWOFEzeHZPczlpR3ZpM1MxT3JrQUlNTF9fT2FkTWREeHJyYndBNHhKR0xmTXhn?oc=5
 
 Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 — only today Mashable
 
-## 13. Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card - Mashable
+## 14. Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMie0FVX3lxTFBfVlNhdklGYjc5OWJTX3NQa05NeWpGN0FsRjBrNDdWbUp3TWR1YkhyT1BlVkl0enVXeHB0WnpGdkxqSHRTWW5La2k3S0hlUzVMQkgxZXhTYkRoUmNFX3pFeWxFS1l1NW9XeEsxclJzdG5qaVNVTlY1ODNhQQ?oc=5
 
 Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card Mashable
 
-## 14. Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable
+## 15. Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5
 
 Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable
 
-## 15. Survey says: Here are the Apple products readers still expect this year - Mashable
+## 16. Survey says: Here are the Apple products readers still expect this year - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE1sTzkzVDJ5LWNoaWhBTDl1M2Z2WGIwY0VPNEcwWlhVN1RnUnpONjVJV21NZWVsV2FqeFpLd3J0bHdUNWtMeW5ZbElPMGo5NHROdURlV2FNR2RZUmZ1REJXb25BY2xoSXdwX25nY1JaVXNBNEd0MHZtT3JNc1lKb1E?oc=5
 
 Survey says: Here are the Apple products readers still expect this year Mashable
 
-## 16. Apple said to delay smart glasses launch after Meta backlash - Mashable
+## 17. Apple said to delay smart glasses launch after Meta backlash - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFAzODlmSld2el9xcHg1STB1bU8zYW9aa2EyVVVEZHE5V08zX0g3azN5UzZjdjBzbnBaZEl5Y1dVak1wME5RU1puaG5yOXIxSjc4S2ZuV041UUdWaF9Ba1pzcXU1LTI4UXpQTkp6N1NMM1dIdGI0?oc=5
 
 Apple said to delay smart glasses launch after Meta backlash Mashable
 
-## 17. At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' - Business Insider
+## 18. At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' - Business Insider
 Source: Business Insider (reputable)
 URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQWGVQSTFFQzNPYVN2S3VmamlwN1ZqTHF5UDI0TEtMUGZnRUpTcDhnUzNBYjgwbUhwOUhUT3FlM2VaWUZXaVNKczR2VWd4bTJYbFBrWFQ2cHpVNlNnbXBOeUpjSHlqMDkwMlo1RlItZDhEZkVVRG5oQ3hlczU1TG9UVzgybUlVQkVZTlY2c2VZT0VoT29mQ0RJa185RUkydw?oc=5
 
 At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' Business Insider
 
-## 18. A new a-peel: Potato chips revamp their image from junk food to healthy snack - Korea JoongAng Daily
+## 19. A new a-peel: Potato chips revamp their image from junk food to healthy snack - Korea JoongAng Daily
 Source: Korea JoongAng Daily (reputable)
 URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1RicnIwYTZXN29ITTVOeHlFWWFMenprLTBUSXJfSUJBVmMxVzRLSHpyRGI5SUZmTTVXaGgwRXNQVnpFdDZBY3VfcGYyN1hqR1l5Zk5EYmZCVkZSMU1RQ3gtd01USkFTQVROaHpzcXN2VV9BeldmWjVONXktdVE1anBaOWFQWTFUQ2ZwN29aNm5VYk14VHRfanN5RzhaNUFvbmNmSmVoWjY2QkUxQXhWM0tMUlEwTUozNG1xSEphZl80RUZzVV84?oc=5
 
 A new a-peel: Potato chips revamp their image from junk food to healthy snack Korea JoongAng Daily
 
-## 19. Chip boom reshapes children’s career dreams - Korea JoongAng Daily
+## 20. Chip boom reshapes children’s career dreams - Korea JoongAng Daily
 Source: Korea JoongAng Daily (reputable)
 URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnNWTERUbXNWZ0VhTFptS2cwTVRVaDlLelFxVVlvR2NEanZfNzBvOW4tc1pQUGlIUVNSR1hoUnpNb0V5dDZZZnYxTXB4a2Vad01PMmVrUVNpQmJuaUZ5WU9PUlZ0eFcxNVBrcGNmdzNFenlFWFpiVWlmZmxlWHUyOFdpRVJoUG11akhoLWtVem5UM2VkWkNCNk1CSQ?oc=5
 
 Chip boom reshapes children’s career dreams Korea JoongAng Daily
 
-## 20. AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS - digitimes
+## 21. AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS - digitimes
 Source: digitimes (reputable)
 URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxPZzljSkt1YkxDeDJlcWVuSU1jQ1hlWWpaOU0taVFKNW4zR0o4Yy1QVGlrMzdwOHZjU2RWZkxmQXVVZ0VuYkFlZ1pSTGhtNjhWYTNuYVN1a044N2hjUkhPbUF0ZzdSamdrMDhHTkRqa1Fjd0MtQm1CVzBUS21ZUmdoaFZsYmdpYlFtNFpTMVRwQQ?oc=5
 
 AWS chip business passes US$25 billion run rate; CEO Jassy says there is 'real chance' of selling Trainium outside AWS digitimes
 
-## 21. Memory costs overtake smartphone chip costs as SoC shipments are set to fall 14% - digitimes
+## 22. Memory costs overtake smartphone chip costs as SoC shipments are set to fall 14% - digitimes
 Source: digitimes (reputable)
 URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQTGxNeWROZkxmXzJpa1BTVnhnR3RfM2U1RTNvbzNlSVV6VG9taF9ubFZhT2JkYnNXcndVODRXdmt0eEdSZkMyOXJvSEhGTEp6dWRhdGhOQWs5bVprV01JYUlmZXROaWNZRXFnOTRPN1YwdGJ0ekswS2xnQThIcDl1Y25USkxSZW1Qc0JrNG0yYmpoTTli?oc=5
 
 Memory costs overtake smartphone chip costs as SoC shipments are set to fall 14% digitimes
 
-## 22. The Samsung Galaxy Watch Ultra 2 comes with a free $100 gift card this weekend - Mashable
+## 23. The Samsung Galaxy Watch Ultra 2 comes with a free $100 gift card this weekend - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxNM1pCbW9vVEdOQzh2VXd1N3oyRk9hWk1OOFpDMUNEenpDMUJtZFNEYV90eHVDRU5BVGlFcHJBUm8zTUx0Rko1WTAybm9pNFJKLVpXSUJraGRCX2tvdU1pSlVDTmFsZnMtMWREVVFlS0RsbWc4NURTXzVkWFRaZGtyM1Vn?oc=5
 
 The Samsung Galaxy Watch Ultra 2 comes with a free $100 gift card this weekend Mashable
 
-## 23. Should you still buy your next smartphone — or subscribe to it instead? - TechCrunch
+## 24. Should you still buy your next smartphone — or subscribe to it instead? - TechCrunch
 Source: TechCrunch (reputable)
 URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ3VKOWtMZTRXM05vQWVzLW1SQWdvcTVzX050eENMdUFOSk0yQjJJdDhhUkE2MHI3YThHbnpKeFVDX240LXZyMHZpVHczMmdjdXhMN3hCU1JyOG9ja2FWRW9VQjRpWlZXZW8tX01XUVBqWFZXUFh6MDRsTHd1aXktMWdtbm9kbHp4b25MemdzdGxiV3FRd0d6THhQbEJuWFFTMmozUGh3?oc=5
 
 Should you still buy your next smartphone — or subscribe to it instead? TechCrunch
 
-## 24. T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend - Mashable
+## 25. T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40TF9qNXdVeFVlZVJXME00R3FtMVFiYzJaMndtWnJKd1ZlTXB0amZkOUE3dGFXeU5HQUdxQ0x3V2xfR2l4dzJHVE0tbGgzZDkwTFV2WXZDdWtlVnAtVjgxTHBKNkg?oc=5
 
 T-Mobile is giving away the Apple iPhone 17 for free — claim yours this weekend Mashable
 
-## 25. Ten advances in mathematics and theoretical computer science - OpenAI
+## 26. Ten advances in mathematics and theoretical computer science - OpenAI
 Source: OpenAI (primary)
 URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5
 
 Ten advances in mathematics and theoretical computer science OpenAI
-
-## 26. There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE9XcDJVS24tUDAzOUNMVE1fcUhtcVV2bk90TkxPT0hwLXFfUXRLZ0ZLNXhtWXg0b1ZWVVdQNjRwZE5hUkZTR2Z2eGVmem9NZld0NFZ4UGc0VzZQTEdZSC1ZQ25ORU5fckZtYm40Z3NxaTkzaHE4dDM5SGpTWQ?oc=5
-
-There's still time to pre-order the Samsung Galaxy Z Fold 8 with a free $350 Amazon gift card Mashable
-
-## 27. OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' - CNBC
-Source: CNBC (reputable)
-URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5
-
-OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora's box is open' CNBC
-
-## 28. UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics - The Indian Express
-Source: The Indian Express (reputable)
-URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxQYzFiMUExWEt4dGhOakszNVIzYjQ2OHFPMHk2QnByOGpkbmJLMmh3S3paTmpTSkNpQlpZUThUSF8zeVJTMEI2S0c3amxMY2VXS2ZvQkJwU3pMVXh5WVR0WkdBdnI1VTQxVTBPR1EwNHUyWWlBRWRZSDZsUzBxck5fbEN1WnhlS2phSjBQa0dfU2JhYkpXVUJvMTBzQTlFZzBYUnJtT1M1Ry03UVdjVGNEZGt2TGJHY0J1SGhaOTVZWjJxc29EQ1ow0gHOAUFVX3lxTFBLb1IzME9RT3Vwa0syT2JsTHR1OFdZamx0czZCR183MzY5V1RGd2t5QzZNZWhYeXZaVWZ3U01KMkxnS19wZWdvbmcxb09hcnhSMlFpbmwzUE9lVXNEMGFWbFozakdaU196bjNvZndQeER0dHVIelVYWUdfMFFuM3JpdFZZZUFSQjBHUFlnUndvc1RPS2NkbzFlS3hvSlV2OC05em14RHExWDRGM2F1U2dPSlFpZ2FOSm5qUm81dUt4NWhwWWxGb1FOajNkTzh3?oc=5
-
-UPSC Key: Open-Weight AI Models, National Offshore Exploration Scheme and Monsoon Dynamics The Indian Express
