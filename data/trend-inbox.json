@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-04T12:17:25.619420+00:00",
+  "updated_at": "2026-08-04T15:34:15.984325+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super - NVIDIA Developer",
+      "what_happened": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super NVIDIA Developer",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkxVbzM4MUtqekt3bDZDaFhOZFBDcS13MkZyc1Z0M0RndEVQalg3Tlo5cThQclVLRmIwekFxaXBFcFRDSEtkZ1NQWGlQQ2p2NVd2ZWVNVGdJVGN6Y0ZpX2FpYzg5SDJ2d3BUajVWcnBobGFXaE5qR0YtUUJuX0dlbDRjTkdaOFpUeE5mQjR3bUF0dVlQOGM4WXRiLURJa0FXWTcwd0VaalNiZE40aGxyR2ktbWh5Z2V4dUE?oc=5",
+      "source_name": "NVIDIA Developer",
+      "source_level": "primary",
+      "published_at": "2026-08-04T15:27:14+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "As AI Increases Demands on Memory, Storage Steps Up - blogs.nvidia.com",
+      "what_happened": "As AI Increases Demands on Memory, Storage Steps Up blogs.nvidia.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wWkNQQXhGQmZ6QXRESTJ3RU1SaU15b0tudy1EN3JOQ2VUUTVZQWFBaXlPbldnV2oxNHJxSzlrMHR6SmQ0VGgxMlVCSHRoNEdjSVkyLTFUbFg?oc=5",
+      "source_name": "blogs.nvidia.com",
+      "source_level": "primary",
+      "published_at": "2026-08-04T15:07:02+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Apple is working on iPhone-to-Windows copy-paste - The Verge",
+      "what_happened": "Apple is working on iPhone-to-Windows copy-paste The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vQmZfbVJZamwydG91VldyR2p0OWYwSmNtajRSb3JGTEp3ZVRkVUR6SGxiWDA2bGJaR3F1NlJncnZhUDlDejVBMjlCclZMcFZKeWtfbDZ3cUVaRExIRkl0aV9xNTFaUHloWmNWSlMwLV9DMzhPOHc?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T14:42:31+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Former chip executives launch athlete discovery platform - Reuters",
       "what_happened": "Former chip executives launch athlete discovery platform Reuters",
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-03T10:00:00+00:00",
       "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra is 25% off right now \u2014 save over $300 at Amazon - Mashable",
-      "what_happened": "Samsung Galaxy S26 Ultra is 25% off right now \u2014 save over $300 at Amazon Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TZ0c2LTNNNkRoVk9zTlZQR0pkTXBmVlJfMEd2VktUdUtEWENpRk44dzgtbDZSMHpjVUFKcEZXa1A4RnY0cXZQUGlvam5CQ21pZW9sTUk5cmt1UVhHcnlNUGV1WmRjTGhSbEJFTjBR?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T09:16:02+00:00",
-      "age_hours": 2.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "James Dacombe, 25, triples AI chip start-up\u2019s valuation to $3.3bn - Financial Times",
-      "what_happened": "James Dacombe, 25, triples AI chip start-up\u2019s valuation to $3.3bn Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zWDVhc1lDU2EzWGpyMElYUEpvYUlZYVdJZ1dSWm1KSWhnY2RsMnNhaXdiRzdGSF9XX1JYMW9jVDVIak0yS3dfcXAwdVRER19LMWRBM29JLVRNTWY1ZWxCcGJBSkRsemxLVXN3MlhlSTM?oc=5",
-      "source_name": "Financial Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T07:26:29+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple's most popular MacBook Air hit by chip shortage after Mac Mini and Mac Studio - India Today",
-      "what_happened": "Apple's most popular MacBook Air hit by chip shortage after Mac Mini and Mac Studio India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ296Ym1KRFhFMTBrWkhQQlI1aTFDX2ExVWhvUFM4aGtnRlJ3V0xEM04zQWpNVkUwbzZQckFBb1lMQmFoek5ZdnJ5Skk1dE9DTmNLR1doMzBGQWx1QkJmbjZfXzFRLXRDS1hyWlJLRGE1TjBHX1pScnVWdG5HbE1zYlNQV29pZTNRTHFyYmV4LXgzSTFuSWdlblk0NUNhemFHdXRwSHJWY2pVOWtmZTFWY1gzYWZ2TDRwQVROOUQya1BodmJKZ0FXSjVPa0hsa1NQWHZLQWZjQzFZb0I4Sm4zMDRBU3A5RFRk0gHoAUFVX3lxTFBDb3pibUpEWEUxMGtaSFBCUjVpMUNfYTFVaG9QUzhoa2dGUndXTEQzTjNBak1WRTBvNlByQUFvWUxCYWh6Tll2cnlKSTV0T0NOY0tHV2gzMEZBbHVCQmZuNl9fMVEtdENLWHJaUktEYTVOMEdfWlJydVZ0bkdsTXNiU1BXb2llM1FMcXJiZXgteDNJMW5JZ2VuWTQ1Q2F6YUd1dHBIclZjalU5a2ZlMVZjWDNhZnZMNHBBVE45RDJrUGh2YkpnQVdKNU9rSGxrU1BYdktBZmNDMVlvQjhKbjMwNEFTcDlEVGQ?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T07:21:39+00:00",
-      "age_hours": 0.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
