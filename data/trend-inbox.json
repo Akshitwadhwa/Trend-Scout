@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-04T06:39:38.853179+00:00",
+  "updated_at": "2026-08-04T09:49:52.958742+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Kosdaq rallies as chip stocks lose steam; Kospi edges higher - KED Global",
+      "what_happened": "Kosdaq rallies as chip stocks lose steam; Kospi edges higher KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XWURfRklvRlc5aGlWbUxnZVJndkJGSXQ5ZHJfNHdjeTV1MlRHLXU5MWxlQzdzWDV1a1RBclZEcTZMRDdmRXdpUW5NcjlVdzRhTHFTdkhxSWpDbm5FaEQ5aVBJbVZibTZIc1BjV3JmSkY3OWY4V0VjVnR3?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T09:16:00+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise - digitimes",
+      "what_happened": "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2UzQS1yamZOQVlEdU5pVUFFc0twRjdyVHdiOG1tWlR2RUUtWEpBSDQ0NjJqbXhuN0UwbXdEdlRuTGUwcGdXT2tIdzdvRGsxWldldGZlc3lia05CXzVicmRmTEl3YVZBbi14eFNETS1ZY0tRNnVCWDhLc3Fxc0FGQk1VbEN1dWsxdUJSdVhMakw0dw?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T09:15:00+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung's retail investors seek extra shareholder meeting over buybacks, bonuses - Reuters",
+      "what_happened": "Samsung's retail investors seek extra shareholder meeting over buybacks, bonuses Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2EtVUhKbFQ2S0JyX1V5Q2sxa2RJNUE1clFmc0pkRV9fZ1RiNld1cnU3YVVZUHNxSFhFV1RoU0EwZkRxWm5UTFZpUFBpbEdkd29PWFlZN05lZmxFM25pRGpSQWhocGZQck9MdjlyLUdZVWlVYkxfQ2ZnQ1FLQkdobW5aUnY1dGt2eWxCenVSSkllXy13S1Vvckd2OUM4R3VVN0gzNmt1WDBTUE5ILXd0Q2h4R0s3RS0ydVNvaU1PSmJSYkZkRzdZYndOSQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T09:01:45+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Launches World\u2019s First HDR10+ ADVANCED Streaming Experience on Prime Video",
       "what_happened": "Samsung Electronics today announced that Prime Video will be the first streaming service to offer HDR10+ ADVANCED on supported titles globally beginning August 2026, with the service being first available on Samsung\u2019s 2026 TV lineup. The next-generation High Dynamic Range (HDR) standard \u2014 designed to deliver brighter, more immersive picture quality for supported movies and [\u2026]",
@@ -9,7 +42,7 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-04T08:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-02T19:45:45+00:00",
       "age_hours": 2.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 \u2014 only today - Mashable",
-      "what_happened": "Unlock ChatGPT, Gemini, and other AI models for life for a one-time $70 \u2014 only today Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQTVheHBhTmhsbkRsSURYX1hWUEstdkhmdV9zcnpWX0UyOEJQampwRlZ5amVqc0huSVltQWE2ZGVHME1yX0ZhS0RfcTZWS0lOakdhbklSRUxybzQ2RGRWOFEzeHZPczlpR3ZpM1MxT3JrQUlNTF9fT2FkTWREeHJyYndBNHhKR0xmTXhn?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-02T16:52:05+00:00",
-      "age_hours": 6.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card - Mashable",
-      "what_happened": "Best foldable phone deal: Samsung Galaxy Z Flip 8 comes with a $200 Amazon gift card Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfVlNhdklGYjc5OWJTX3NQa05NeWpGN0FsRjBrNDdWbUp3TWR1YkhyT1BlVkl0enVXeHB0WnpGdkxqSHRTWW5La2k3S0hlUzVMQkgxZXhTYkRoUmNFX3pFeWxFS1l1NW9XeEsxclJzdG5qaVNVTlY1ODNhQQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-02T16:08:43+00:00",
-      "age_hours": 7.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card - Mashable",
-      "what_happened": "Pre-order the Samsung Galaxy Watch 9 this weekend and get a free $50 Amazon gift card Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yazFnN0U0OWprRFFsX3RndXVXYTZ1dzgtRXgxRzlCelZwSWlkajhXbTRxaXRyMEZqTEZfR1p5V1gtZXlLcUs0eTF5Z0Z2VktZQTFidURycVg2Uk5MalFYTWcwRkI1UFdBUVVrczhSS28tUTF6bmgtOHlB?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-02T16:08:43+00:00",
-      "age_hours": 7.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
