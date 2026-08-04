@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T03:34:58.089807+00:00",
+  "updated_at": "2026-08-04T06:39:38.853179+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -21,6 +21,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-04T02:57:02+00:00",
       "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI, Anthropic, Google and Meta to join White House AI security meeting - The Indian Express",
+      "what_happened": "OpenAI, Anthropic, Google and Meta to join White House AI security meeting The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUp2M2hOTzJQRF9VRHlicHowWkJOalZKYXlyYVc0N1REOHB6aEZ0ZFlLb2J4bUJiODJYSEdod1p0ZkNONnQyeThxUjBfNDRXd091V3h6eG9xVlp3aUdDQ2VuVFZYLTZ4NEpnTzlFRHhlWTNpQkVKaDd4Z25uaUV6OENnS0dBZlB3NEdyam5oZFNlemswVkdxRm1Nbk1yNHpxblh1ekNrM05tdk5IaDhwRkxMSEJoX0hWd2U1WlJRNWRvd2NhVVZCZNIBzwFBVV95cUxPZkQ3a1g2OHJqdmU0QTYwVkpKX1dhYjRhclNWV2VKcnF4WUNzZGFwemhIN1JMS09uU3NvTm9XZk5wNjB3aV9tbXlZencyaFdwTmoxbng5QmtWbVA3UTBPbHNTNFdRbVZ0TTZxZUEyWGhweHp0eTdBYjM0SERpbU5UUzJuS252alFFdjBkcWN4XzlIOHR1c05MSF9uZVF6Tjc1U1NPWHJZbzBXOS1mSG9LSG0wMWpXY3dUV2dDeEtmVWZ0b2FSdGJWNWQyWEJJc0U?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T02:31:25+00:00",
+      "age_hours": 4.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +75,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-03T20:44:49+00:00",
-      "age_hours": 6.8,
+      "age_hours": 9.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-02T16:08:43+00:00",
       "age_hours": 7.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Survey says: Here are the Apple products readers still expect this year - Mashable",
-      "what_happened": "Survey says: Here are the Apple products readers still expect this year Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sTzkzVDJ5LWNoaWhBTDl1M2Z2WGIwY0VPNEcwWlhVN1RnUnpONjVJV21NZWVsV2FqeFpLd3J0bHdUNWtMeW5ZbElPMGo5NHROdURlV2FNR2RZUmZ1REJXb25BY2xoSXdwX25nY1JaVXNBNEd0MHZtT3JNc1lKb1E?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-02T10:00:00+00:00",
-      "age_hours": 9.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
