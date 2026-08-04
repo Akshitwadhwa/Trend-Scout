@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-04T09:49:52.958742+00:00",
+  "updated_at": "2026-08-04T12:17:25.619420+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Former chip executives launch athlete discovery platform - Reuters",
+      "what_happened": "Former chip executives launch athlete discovery platform Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVllkWkJjNW9zUHA4MmJPMXhjazk1LVAwNlpZOHhJT2xsb3lMNHZIUFFhb0VsalpiT3Zsb3BHalQwT1Q4QzBHRDZacDM1dEk3QUlEUEUxQlhWSFhuMkk2QnRNcGNFbDRKVW1OMHE5bUZieGJTeThHWk9oazNMajU0LXNZdmkwSVRYcDA3TzVPd1FIYmNMZHdLQS1UeTdXQVl4RjQw?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T12:10:01+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "\u2018Apple is getting this wrong,\u2019 says OpenAI \u2014 startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees - Tom's Hardware",
+      "what_happened": "\u2018Apple is getting this wrong,\u2019 says OpenAI \u2014 startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWkxuamJEMEdGYTJJVk0wb3EzVmhxemsxY0ZSZkxFSERjRkJUREN0S0lkTkNlSDdyRWtHQXhicVhqSFh4T21lZ1laVFNQaXo3SThjeDIwZjNsc2llZDY5TnJtZzVxNTdiLXBFMTl4bnpuZHN3T1pZdVBycGs0Q0JWdFVueE5kcmlBdWJfUGlicEhyekljdWFueUwxQ0ExNzBPT0txT2NhTHJCNzVaRi1wZHktbDE3UGhOSTlFRHlxN2Q2QkRWdnJ4SlZQNmxKclFmT280bENlcTBZYUU1LW5kcGdLeXdzVmZSN2R5M29qOXRZVDQtZlMwUEJuOEtNNUdFYjhTZEY1cFVPaUctVlJ2ZURqMVhVamlwTmxhUVhBN0kzRDZJNjhSUjZB?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T11:52:34+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple pulls Telegram from app store, gets a snarky response - Mashable",
+      "what_happened": "Apple pulls Telegram from app store, gets a snarky response Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ITHRYTlhSY1NhQ3pNZFY3SFFpekVXako5OGdqbjU3TFgwRUxZWlNIQjE0UFpGc1VxdVUzOFJ6R1l0OW5EaUpNb2Jyc3NKbklvREp3OVlmenNKMmNtbk5iQUU1X2xzbkE?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T10:49:50+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Kosdaq rallies as chip stocks lose steam; Kospi edges higher - KED Global",
       "what_happened": "Kosdaq rallies as chip stocks lose steam; Kospi edges higher KED Global",
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-03T07:21:39+00:00",
       "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Alibaba\u2019s AI model Qwen3.8-Max widely accessible ahead of open-weights release - South China Morning Post",
-      "what_happened": "Alibaba\u2019s AI model Qwen3.8-Max widely accessible ahead of open-weights release South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ2JaU2cyc2JoeTZWTk5Sa0JWOVZxUnlSaTd0NDhLZzVWX3U1RHZaRjBZTVg5cExTdVluWFZQamkyeVh2RklTVDYwNXQ0eER0eXpPbDJIWUVwSHZsNm1WbVBoOWItN3RiWUtyMVliZGIzVlZxb054MlpPd2JiLWlXSDVwQjd5ZmVlNjV0UV9QY1lTeFNqMkxPMUR2VGMwZG5iVWhNSE5XdFdkQ0pfNnRGZEZrMjlvVDhUYURyedIBvAFBVV95cUxNUjRzZjVrM0hfN3FGVUoyaFMzRUdvdjQxLUlsWVdTNjNXU3FzWGk4SXp0dDJQUElUdTNhTEVKYnZCNVhnWWJyb0tDWVlldXhlVDBqQnlvV1NxeGw4U3ZsLUJ6NzZzSlR2cDY3ekNPTlVmekotUGJfNmtLSWV1c1I3NDdDR21NVFVXSDNQTU5QWEE1bW11UkVPY2ZsbDhqWEdiSXg1ZnlwcmEwN2RzdzF1RGQzLWtxQXJxTW5ZRw?oc=5",
-      "source_name": "South China Morning Post",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T03:01:39+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push - digitimes",
-      "what_happened": "India advances semiconductor ambitions as Visakhapatnam OSAT plant anchors South India packaging push digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmVxek9LNm1NX3RFc0lnd0RkN1JnMVBqVXZwWVliWmppeWJLY0J1RWE5OThYdVdpaG8zTE9GQ2F0VU0xcE5Fc0VzVFF0aTdmY2RTYy1RQTViQmR5OW05ZkR5RmJBNC1vZXpLZFVfVGNpVE02Y0UyMWNTa3NTLU5WWU1RNkMxQnpaQ2UyWDVQSGtxM01QLVNKRFFwaUE?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T02:49:27+00:00",
-      "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth - KED Global",
-      "what_happened": "Korea's July exports near $100 bn, 2nd-highest on record; chip boom powers broad-based growth KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93UWpSVmlEa1h2LS1ibmZJdnRmZkRKMUs2N0ZjTzRUbWtrTS13d2YwWjRQWjhFWmVaNmZuOExaVXR0SWc1X01uSTdlT0l4bDdLdWNiTGhuRHpaMlpFdmUyeDdTd0M0S1AzOVE?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-02T19:45:45+00:00",
-      "age_hours": 2.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
