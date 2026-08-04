@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T21:34:23.470492+00:00",
+  "updated_at": "2026-08-04T23:17:42.280985+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -20,7 +20,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-04T21:05:32+00:00",
-      "age_hours": 0.5,
+      "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -31,7 +31,7 @@
       "source_name": "Axios",
       "source_level": "reputable",
       "published_at": "2026-08-04T21:01:25+00:00",
-      "age_hours": 0.5,
+      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +64,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-04T20:05:26+00:00",
-      "age_hours": 1.5,
+      "age_hours": 3.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -78,6 +78,17 @@
       "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure - samsung.com",
+      "what_happened": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure samsung.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFBBLTdxMWxLN3djSUtCaFNxZjFRbUdrcE9xTDdpbE91WTFVUEIzV1V5QjBMcDZJanF2YWQ0NDVLRFhlQmJac1RJNGF0NEpjNFNiMHJPMEpBVHFic2o4RENuQjFlVWdMdUlEY20wVjktZG5abDluZXA0NzVQN3pvMUNESDhCLUNPMVZLTnhNWlVoQ2w5ckpXV3BDRWJFOUcxOEJ4cDZjVHdLSEpJN3RLeUd3WHFuSjFHekotLU9JWTdONFVQ?oc=5",
+      "source_name": "samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-04T19:30:00+00:00",
+      "age_hours": 3.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Nvidia doesn't mess around: A week after open AI industry group formed, it's already showing progress - TechCrunch",
@@ -97,7 +108,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 2.5,
+      "age_hours": 4.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -141,7 +152,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T16:47:18+00:00",
-      "age_hours": 4.8,
+      "age_hours": 6.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-03T20:44:00+00:00",
       "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple launches legal challenge against UK government demand to access data - The Guardian",
-      "what_happened": "Apple launches legal challenge against UK government demand to access data The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDZac1JoSXoyRmM1WnhNalBpcHQzbFV1MmRqM3VJVHZiNkRlSXEzV1pSQUtYQlVDXzFXVEZoUjE4S2kzWlJ6WnNSUHpFMU4zQkdLbkhJU3BkOC1XSWwwc1lwMHdDdkxtaGdVUWRoTWUta3ZPMkRWLVVhdFlCX2UzZmhTOGVrcjY5a3FWWGYzdW5pb2xJdjZqQk9mV1h1UGc?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T20:18:00+00:00",
-      "age_hours": 3.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
