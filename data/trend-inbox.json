@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-04T18:02:43.280307+00:00",
+  "updated_at": "2026-08-04T19:55:05.218284+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Electronics launches next-generation AI memory technology - Reuters",
+      "what_happened": "Samsung Electronics launches next-generation AI memory technology Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T19:33:44+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia doesn't mess around: A week after open AI industry group formed, it's already showing progress - TechCrunch",
+      "what_happened": "Nvidia doesn't mess around: A week after open AI industry group formed, it's already showing progress TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaG9RUm9TdENzOENVSklibmJrQ1FjM2dqR2RTRTJfTnhacXd1eHdvREtXTG81RllxUzV5RkY3a0pEZ3k0YnBxWi1vVkZ4bXB6TlA0SG9qQXNOMDBtcmtRVDlXVFJLUUhHcmJQVWRNSFdwZHc4WEJQcW5yeHRaS1F6VThwelVReWhaMnFOdnZ0bDU2dWwtUEljR1hrRDdxenh5RGV3eERPQkpNTWt3VFNiYm1GM3FrX2lPc0RvSElvZ3VRUU5SZWpvaThfMVM?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T19:28:49+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "what_happened": "Learn how to build tools to simplify how you work\u2014without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-04T19:02:34+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. - Axios",
+      "what_happened": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGhSVmNXS2hTdzBLaXMyQXFTTGowXzd4ODNHRzdyYzktdU5seFg0U1JnZFUzaEd0N2RQX0c1aDVPOFE0RVRnR0szQTdEdVpnZDFJWjJoNjNhdjlRU3lNRUh1TGtRa2VaQ3dNcUpQeS1VZnVOUThBU3lQWnNpQWhUWTlB?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T17:58:48+00:00",
+      "age_hours": 1.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
       "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
@@ -31,7 +75,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T16:47:18+00:00",
-      "age_hours": 1.3,
+      "age_hours": 3.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-03T16:00:04+00:00",
       "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
-      "what_happened": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX \u2014 kicks off tomorrow, August 4, on Apple TV.",
-      "source_url": "https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/",
-      "source_name": "apple.com",
-      "source_level": "primary",
-      "published_at": "2026-08-03T14:59:10.761000+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "[Interview] [Galaxy Unpacked July 2026] Inside the Design Behind the Latest Galaxy Z Series and Galaxy Watch",
-      "what_happened": "On July 22 at Galaxy Unpacked July 2026, Samsung Electronics introduced Galaxy Z Fold8 Ultra, Galaxy Z Fold8, Galaxy Z Flip8, Galaxy Watch Ultra2 and Galaxy Watch9. From foldables to smartwatches, Samsung\u2019s latest Galaxy devices take different forms but share the same design philosophy \u2014 comfort. Samsung Newsroom spoke with Hubert Lee, Executive Vice President [\u2026]",
-      "source_url": "https://news.samsung.com/global/interview-galaxy-unpacked-july-2026-inside-the-design-behind-the-latest-galaxy-z-series-and-galaxy-watch",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-03T13:00:00+00:00",
-      "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "GPU prices for current-gen Nvidia and AMD: Price increases, why have the prices not dropped, and can you still buy a cheap GPU? - Tom's Hardware",
-      "what_happened": "GPU prices for current-gen Nvidia and AMD: Price increases, why have the prices not dropped, and can you still buy a cheap GPU? Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRmpEU3pfVEhzYkhUSEI5UzZna3RvZmprbWtyaVB0dHhETWo2Qk9iTi1QdFlDcnVPNUd2WGJGQzV4U2g3cEpqV3hYamdXME1RNF9paHNLd20yeFN4UXpDczBLb1FPVGRyQVFneGlqeWxFdU11Y0VDZFl1cWdIaXdFR1JtalJoMlJBdnBaanZkVEpUelo0djZMeEZzTUtiSDQ3ZTRSRFY4T2d0NTA4b3pFRE1fbmgtS0VRdms1dktSanpZc0c5WS1ZZjRrV1RXRG9kV2lhYnBVLVFGdHVhUGlmcEZ4UU5BZ3NkTWFUTlgtY21vY0NrMmRXekhmOUc5TDBr?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T11:30:00+00:00",
-      "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers - CNBC",
-      "what_happened": "Anthropic, OpenAI among firms facing new scrutiny under EU AI Act enforcement powers CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZSjkyZXhrLU11dksxVTNxUFlkZEhKdUtQU2dDMUpNUExTNG9PdGFGZFAxY05UamxEWFNlcGYwSWJQOERRV3FwN2F2ZXRHc014bDkwUTh5SktKekgzVFlseWh0WXRfUlBMTkpEMnR6dlp1YWPSAXhBVV95cUxNMFJrbWFkYTFaNGxpVVpScmJ5dVdrZGhMZ0NmZFU4dmdNSnlLa0dVaU1scllBOThZcjFQUXBuazFmMEJNZi1laGVPQjBFZ2UzZ1E3QjQwSE1fa0M2WjM4bUx4N1RKQ2NGMi1RdklGMzh1bTBLR01Ba3Q?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T10:59:18+00:00",
-      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
