@@ -1,15 +1,81 @@
 {
-  "updated_at": "2026-08-04T19:55:05.218284+00:00",
+  "updated_at": "2026-08-04T21:34:23.470492+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
+      "what_happened": "Samsung Electronics a global leader in advanced memory technology, today showcased its latest AI memory innovations at Future of Memory and Storage (FMS) 2026 in Santa Clara, California. With broad expertise spanning DRAM, NAND, enterprise storage and relevant advanced semiconductor technologies, Samsung presented its latest AI memory portfolio and technology roadmap, including a preview of [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-05T04:30:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models - OpenAI",
+      "what_happened": "Third-party cyber evaluations involving OpenAI models OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeENBNFQwQ0gzSm1EbTFlZmNhZmhBX2RPYzRSR3E4YUYtNmNsYnZ2Ml9ncDN4TGJOOExiSkNxYlhTbV9Zek1kSmZxVUYxck93bWc5VnpGcE11X1RRYWhnZDZZNC1XalhtMVgzNFc4WHBwVmNzM05tMHo1aV9jM0YtUndhbG1JZw?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-08-04T21:05:32+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "The U.K. government is the latest to say it's seen OpenAI, Anthropic models try hacking into companies - Axios",
+      "what_happened": "The U.K. government is the latest to say it's seen OpenAI, Anthropic models try hacking into companies Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCQ3RLbHlKZ2VuWTR1X3hKMlUzVFQ2NS1YZDVSQjdwZl9hVFNiMlZaYzlEQ1IzY1Y1WDB6M1NwTjFJcEdtYV9zZ3JPWDJ3Z0VENmNpVWR4Uk1Ld3NRSk5zLWoxSG50LW5qVkV4enA4TWR3ZDdqZTN3RnRjYTg0LW8?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T21:01:25+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations - Reuters",
+      "what_happened": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T20:56:52+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "AMD Shares Slip as Company Narrowly Beats Revenue Forecasts - WSJ",
+      "what_happened": "AMD Shares Slip as Company Narrowly Beats Revenue Forecasts WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFaGtxOHFMdFctcDd6TTgzZndpV0U1QUFGRV9nbFdxcVZDemlTTW80ZmZTOWxXT0N1ZUJYM3ByQ3Z1ZGF3d1E5S2FjRlp3dzBicVRtaGNBMUV5V1BEWUFfZ2lwaE9kck1xYlNYTENuTnFlMEFkcHlwRGpxYlY1UQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T20:41:00+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. - TechCrunch",
+      "what_happened": "Open-weight AI models are catching up to the frontier. The safety gap remains. TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T20:05:26+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Electronics launches next-generation AI memory technology - Reuters",
       "what_happened": "Samsung Electronics launches next-generation AI memory technology Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5",
       "source_name": "Reuters",
       "source_level": "reputable",
-      "published_at": "2026-08-04T19:33:44+00:00",
-      "age_hours": 0.4,
+      "published_at": "2026-08-04T19:42:53+00:00",
+      "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +97,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 0.9,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -75,7 +141,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T16:47:18+00:00",
-      "age_hours": 3.1,
+      "age_hours": 4.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -263,72 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-03T20:18:00+00:00",
       "age_hours": 3.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big - TechCrunch",
-      "what_happened": "AWS is helping vibe-coding startup Superblocks, and the implications are big TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNnFOUXg4ZEd5WDY5LTNnbGstN3ZVdmZvQ3lHd1hMM0JNSG4xd2lWN2twVUJDcnpoVmdUWm45TTZPMFBwelNBR1JQOXRhYVEteEFMTTV5cmNockJKTFRQc1RiTGZRS1VKYk1GT2FDVkx3d1RjVFRVc0YyaXVrcVJrZ1I5d1QyRGYwUTZMYnJMS3RnX283S1IzY2RZWlBIWnIwamlHajdYM1UwRHV2ZGtN?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T20:00:00+00:00",
-      "age_hours": 3.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated - TechCrunch",
-      "what_happened": "Who\u2019s legally to blame for Anthropic and OpenAI\u2019s autonomous AI hacks? It\u2019s complicated TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeElRRk9QY09IQTJvbG1sU0VLSlM2TmY4VWV5bVlsdS1vTDRqVDRFb18zVTRlSU5IT0NxV3EzVkVLdlAxaDVNcE1OaVFqNXZzd3J2M3g0UVBtZU1lcVdHNzBnd1RJTW44X1Rva0h4S2lObl9pbEQ4dmY1Y2VBTGRvanlkbnJ0TUx3SDAzLTljSmNRclRIdzZsVUNLUHJjbDZyZVVneUNzREtaUnBKdmtrNkdKUDExcENoSFE?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T19:45:35+00:00",
-      "age_hours": 3.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "DesignArena creators raise $7.9 million to bring taste to AI models - TechCrunch",
-      "what_happened": "DesignArena creators raise $7.9 million to bring taste to AI models TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR0lVWkE5MDQyQmZsSHY0U1ZwQ1ZySUdXT2FfRFFLOUtjZEc4WHBEWloyT0E0NGdpZzBhcUY3eThzS0xtSEU4Wml2SVl2UTRxLXlrR1hTTE5fWW43d0ZsNzJoZkNyQ2txRWYtemtqNlNaeGhKenMxSldibHg0alhKbzU1MGFLdDhlaDIxS2FjaDFYMW5FamFBYTN5bGxvbkJPNWxz?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T19:28:57+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best SSD deal: The Samsung internal SSD 990 is 30% off - Mashable",
-      "what_happened": "Best SSD deal: The Samsung internal SSD 990 is 30% off Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWHlLdUlSM2tJZlE2MzI4NHZ5Q0Y1UTVaQThlQ2lWLUNBU3lJLVYzbFhrV3RLeDAzdzh6R1VQYXQ1ZDJWd0NfSTBhUTZuYU5ZQlkxUTF1MWdFdEJqdHNn?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T18:56:46+00:00",
-      "age_hours": 2.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure - developer.nvidia.com",
-      "what_happened": "How to Run Isolated Tenant Kubernetes Clusters on Shared GPU Infrastructure developer.nvidia.com",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSGtheVp3TjVkYjVleXRDb0c0aTZJeVhaMUFOdGJDclpSZmpKWk1fTFFVcVVuNmJCODVuVHpUbE95c3EzOW9wZ3ZvX3B0WWw4QnhrUWJEM1F6b3RZSHBiTVlPWFNZLXVESnQ4d0FWOFJQYmRxNjdDLVFvMF82YnpsTUJHLVg0RkE5N1Z0a0c3bFVVcUVMcGM0ZlhfNFpvaDFkX3NybktjeFRMYzJ4bE9j?oc=5",
-      "source_name": "developer.nvidia.com",
-      "source_level": "primary",
-      "published_at": "2026-08-03T16:03:44+00:00",
-      "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Apple AirPods with cameras could arrive in weeks. What we know. - Mashable",
-      "what_happened": "Apple AirPods with cameras could arrive in weeks. What we know. Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50U0E1V2pKeFc5MnFCSTdzeDRUcGQxMHJxNVRqYW43bjYyaHE3S1dtUlFtLU9mUjdwOTE5em5uQ2xKNFZJQXBQWnVkUF8tVzdVTGNqZW9QZVJqLWJWdF9VUzg2NkQta2dNRkJJdk81SlJnZDhJWTdlU2E5aw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T16:00:04+00:00",
-      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
