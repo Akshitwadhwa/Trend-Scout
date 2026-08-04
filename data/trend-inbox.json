@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-04T15:34:15.984325+00:00",
+  "updated_at": "2026-08-04T18:02:43.280307+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
+      "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2VvbDBMR1VoNlhUcG5aZ3ZfaDdkMElsMG11aDE4WWd1RGx5c2JRRTFUcktPamJnUWk4WklEYWpCSHJQaGwxU0kyT19iX1V4UEN2S1VtOHF1Wm5MSVBoY1hmMDQ4elZkelg3UVdhMzVmRWVTb3l1ek9xdlNaYThtSHpXcEw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T17:30:12+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple pulls Telegram from app store, gets a snarky response - Mashable",
+      "what_happened": "Apple pulls Telegram from app store, gets a snarky response Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ITHRYTlhSY1NhQ3pNZFY3SFFpekVXako5OGdqbjU3TFgwRUxZWlNIQjE0UFpGc1VxdVUzOFJ6R1l0OW5EaUpNb2Jyc3NKbklvREp3OVlmenNKMmNtbk5iQUU1X2xzbkE?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T17:00:06+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "what_happened": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-04T16:47:18+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super - NVIDIA Developer",
       "what_happened": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super NVIDIA Developer",
@@ -54,17 +87,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-04T11:52:34+00:00",
       "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple pulls Telegram from app store, gets a snarky response - Mashable",
-      "what_happened": "Apple pulls Telegram from app store, gets a snarky response Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ITHRYTlhSY1NhQ3pNZFY3SFFpekVXako5OGdqbjU3TFgwRUxZWlNIQjE0UFpGc1VxdVUzOFJ6R1l0OW5EaUpNb2Jyc3NKbklvREp3OVlmenNKMmNtbk5iQUU1X2xzbkE?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T10:49:50+00:00",
-      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-03T10:59:18+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up - CNBC",
-      "what_happened": "Alibaba shares rally after unveiling its 'most powerful' AI model as U.S.-China competition heats up CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoOHNuTXBFVE9uUDBvRm5oSFBmSHFvZ0R1T256QzJUNXFOTjVyZDJlT19NNUxhM1NwVXQzS08tZFlmRXRDVzE0Q3lobzFGYllSMWJPNVdIUzRaSHpLbklBNjBZNWpGS0RVUEMyOERfNUJzOVMzWXh4MUIycjVudmvSAYQBQVVfeXFMTmNfWEdiZ0E3andENy1sZXZhLVZxWi1FY0ZyZnozeDFxQXppQzI1NGdDZlVlODZBR0I5dGhvaHJlWmhfWnJFekhyT050aUo3UTFRTWFxUnkwN3JFSDliXzNJVjh1T2JwY2RESVgyT2I5UDZQMVFlalR6dDI4cmU0T2toLWJV?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T10:34:35+00:00",
-      "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem - TechCrunch",
-      "what_happened": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUtLMElDZ2gyZHY3TVJnXzc1b0dkQ0lhYTQzdDIzYTdzVDB5WnFiYzFOUXdzQjhSblpGd0kyTU5NRDAwNnRSVm1IZVZJaEo2dkRuRkZUeVZTc2s1YnVxOU5pMGtHNHh1bUlSbXV6N21ZcWxNMVJQZTBqQjhSNXNpSXZhaHdnOUc4OUNWQ190Ty1VRXdHMHRDLXRLdEl6WnBYRXVlNmpzb1lzWThVN2JV?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T10:00:00+00:00",
-      "age_hours": 1.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
