@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-03T23:18:20.158486+00:00",
+  "updated_at": "2026-08-04T03:34:58.089807+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Launches World\u2019s First HDR10+ ADVANCED Streaming Experience on Prime Video",
+      "what_happened": "Samsung Electronics today announced that Prime Video will be the first streaming service to offer HDR10+ ADVANCED on supported titles globally beginning August 2026, with the service being first available on Samsung\u2019s 2026 TV lineup. The next-generation High Dynamic Range (HDR) standard \u2014 designed to deliver brighter, more immersive picture quality for supported movies and [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-launches-worlds-first-hdr10-advanced-streaming-experience-on-prime-video",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-04T08:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Taiwan-Japan semiconductor ties go beyond supply chain partnerships - digitimes",
+      "what_happened": "Taiwan-Japan semiconductor ties go beyond supply chain partnerships digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmZrRHI4M0JTYmRkcEotMnllb2tNTGJoOG9pY3VETmNuQkRSajl1U2JldlV5ZkxzUDNQejJsYmU2YkRHeGthUDdzWkF3VXZlcnJFRkE4NWJNc1RRWGZBXzdQSUlMWnp2dW9JYTJjcVFWT0d2UkJnYWFkSkhBZFFuLWQzYkpzdmE3NlQyS2hiVDdUa2lPMEtiTjh4NEJOT3dpWm9yckxPYndDdWVXV0I2ek1FOS1fTlZK?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T02:57:02+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Interview: Topco Scientific expands to Fukuoka signaling chip regionalization - digitimes",
+      "what_happened": "Interview: Topco Scientific expands to Fukuoka signaling chip regionalization digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmxWbnh5bHhqTktNdTg1R3BPaEZMR1JNcGt2LXhmUXNBQmlFOVRlTDBvMEx3eXNwTS1sM3FWT0VyYXBiUXg5VlNsRGRoeGU4bW1kYlh2N19mdjRPZy1iOEtwZ3NuRFZrNUZvMlhmS3doMXMwR25YOFFyWHA0a1ItM1JIRDUxZWNNY3VQaXpUNkNtUQ?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T02:07:32+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Not like South Korea? Chinese brokers forecast A-share tech and chip rebound - South China Morning Post",
       "what_happened": "Not like South Korea? Chinese brokers forecast A-share tech and chip rebound South China Morning Post",
@@ -31,7 +64,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-03T20:44:49+00:00",
-      "age_hours": 2.6,
+      "age_hours": 6.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-02T10:00:00+00:00",
       "age_hours": 9.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple said to delay smart glasses launch after Meta backlash - Mashable",
-      "what_happened": "Apple said to delay smart glasses launch after Meta backlash Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzODlmSld2el9xcHg1STB1bU8zYW9aa2EyVVVEZHE5V08zX0g3azN5UzZjdjBzbnBaZEl5Y1dVak1wME5RU1puaG5yOXIxSjc4S2ZuV041UUdWaF9Ba1pzcXU1LTI4UXpQTkp6N1NMM1dIdGI0?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-02T09:23:03+00:00",
-      "age_hours": 5.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' - Business Insider",
-      "what_happened": "At an ex-OpenAI researcher's influential lab, $500,000 salaries aren't enough to fix a talent 'bottleneck' Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGVQSTFFQzNPYVN2S3VmamlwN1ZqTHF5UDI0TEtMUGZnRUpTcDhnUzNBYjgwbUhwOUhUT3FlM2VaWUZXaVNKczR2VWd4bTJYbFBrWFQ2cHpVNlNnbXBOeUpjSHlqMDkwMlo1RlItZDhEZkVVRG5oQ3hlczU1TG9UVzgybUlVQkVZTlY2c2VZT0VoT29mQ0RJa185RUkydw?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-08-02T09:00:08+00:00",
-      "age_hours": 9.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "A new a-peel: Potato chips revamp their image from junk food to healthy snack - Korea JoongAng Daily",
-      "what_happened": "A new a-peel: Potato chips revamp their image from junk food to healthy snack Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1RicnIwYTZXN29ITTVOeHlFWWFMenprLTBUSXJfSUJBVmMxVzRLSHpyRGI5SUZmTTVXaGgwRXNQVnpFdDZBY3VfcGYyN1hqR1l5Zk5EYmZCVkZSMU1RQ3gtd01USkFTQVROaHpzcXN2VV9BeldmWjVONXktdVE1anBaOWFQWTFUQ2ZwN29aNm5VYk14VHRfanN5RzhaNUFvbmNmSmVoWjY2QkUxQXhWM0tMUlEwTUozNG1xSEphZl80RUZzVV84?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-08-02T06:33:14+00:00",
-      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
