@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T23:17:42.280985+00:00",
+  "updated_at": "2026-08-05T03:30:41.847540+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,72 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Vanguard International Semiconductor sees AI demand lift mature-node prices through 2027 - digitimes",
+      "what_happened": "Vanguard International Semiconductor sees AI demand lift mature-node prices through 2027 digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHYwdHptRU9GNmRmbmRvRUZEMl9kOG4xeUZraFJPVTFnSHNWZ2c2UjBrZmNIZHRXM0p0UkQ5eFBnWnBEN2JxMzEtbTJzQmJwNzNFWi1abnpRZFpXWW9ISER6MUhOY3g4elNvQmxCendtUi1TV3FuVGFCeGphMWx1OWgwbzdVYi1fbm5mRzNKOEMzU1Zk?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T02:59:58+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Vanguard International Semiconductor lifts 2Q26 profit on AI server chip demand - digitimes",
+      "what_happened": "Vanguard International Semiconductor lifts 2Q26 profit on AI server chip demand digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzE4MWNJRHRGeDlQWF9lUVh0N1I2bHIxZERQbUcxQWFoVnR6aE5UQzlCNDR2aTBwd2tOS1FMaS1KTGNESzVyTUR2SFN3TVZsekxjdkNYRWs0Z1lFaHl3UGdNbUVVbXBSY3JMT01wRGRKM09rcTFIMG1veU82czhRYkRHeHkwdXNnVzVZ?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T02:27:46+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks - Reuters",
+      "what_happened": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU9NVTFKTDhzZ3Rxa3dWbk9vSktaSE5xd3p3TG5KTlpNRFpLY0IyNEZuRzVTWFV0LWx0LURCdkRvcjdCVE9pU3lGSktXampPUUtZWExRSlNLZ0pzU2thX2pXQWRDLVBUd2JYRGh5RGplLWdsb0tOek8zdXk5elBiZlZwbTd2X0dDSU5hWFRKWHBLZkUteDBSR2VndEpxREMwYTUzY1pJcllRSUZPci1vOQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T02:02:00+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI, Anthropic model tests reveal more 'unsanctioned' actions - Moneycontrol.com",
+      "what_happened": "OpenAI, Anthropic model tests reveal more 'unsanctioned' actions Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYnlDaVRXN2dFSlFjZ3BfU3d1ODRRc3V4N3R0V2V0aHQ3YXdHX2dlOU85WmlEODZUNThKeWRiQU9SblgwQ3VEWW9DN1ctbWJwWGhtLXgwZlJKVjhVTFdXQ3JFb0hPQ0NxMmxlY2wtbld3UnpwN1RQV1hDYXAwXzBJY0dWeHVQSUhjemtIQUdPX2F5VENwMFYxYmdxamNlMHNGM3lUbkxzeHh3NXk4QlNzUDNmOGd5Q1N3QzIyTC1Qa9IBvwFBVV95cUxOYnlDaVRXN2dFSlFjZ3BfU3d1ODRRc3V4N3R0V2V0aHQ3YXdHX2dlOU85WmlEODZUNThKeWRiQU9SblgwQ3VEWW9DN1ctbWJwWGhtLXgwZlJKVjhVTFdXQ3JFb0hPQ0NxMmxlY2wtbld3UnpwN1RQV1hDYXAwXzBJY0dWeHVQSUhjemtIQUdPX2F5VENwMFYxYmdxamNlMHNGM3lUbkxzeHh3NXk4QlNzUDNmOGd5Q1N3QzIyTC1Qaw?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T01:02:36+00:00",
+      "age_hours": 2.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. - Mashable",
+      "what_happened": "Where is Gemini 3.5 Pro? The AI model announced at Google I/O is still MIA. Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45S215YXpCY2JjNi1SSC1qaXNFT0k0WjdnZ0FRcEp1anYzcjJaaEtwSkN0VTdvdWVST2VfN0M0WWtTVWpCVEs5TlBpMnliRENjUG5vYWJCLTY0anRZb2g0Y2UwYw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T23:37:36+00:00",
+      "age_hours": 3.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says - Financial Times",
+      "what_happened": "OpenAI and Anthropic models went rogue in cyber tests, UK watchdog says Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzljVTVSUVRxaUJweXNMdlBxeHJ0TGs1QWdHeS1sUzl2V1NCWlZLYXlxT21NOVVjZUFxVHN6N0N3QjBKVnVNWUNib09aTHYzZVVCdjRINUZ1d1dvT1dqekJMNXk2WFVObE13N1Q1LXVCVXR5R19ZaXFVMzhfWFRtamtXd28?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-04T21:46:13+00:00",
+      "age_hours": 5.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Third-party cyber evaluations involving OpenAI models - OpenAI",
@@ -108,7 +174,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 4.3,
+      "age_hours": 8.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -152,7 +218,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T16:47:18+00:00",
-      "age_hours": 6.5,
+      "age_hours": 10.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -262,72 +328,6 @@
       "source_name": "digitimes",
       "source_level": "reputable",
       "published_at": "2026-08-04T02:57:02+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI, Anthropic, Google and Meta to join White House AI security meeting - The Indian Express",
-      "what_happened": "OpenAI, Anthropic, Google and Meta to join White House AI security meeting The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcUp2M2hOTzJQRF9VRHlicHowWkJOalZKYXlyYVc0N1REOHB6aEZ0ZFlLb2J4bUJiODJYSEdod1p0ZkNONnQyeThxUjBfNDRXd091V3h6eG9xVlp3aUdDQ2VuVFZYLTZ4NEpnTzlFRHhlWTNpQkVKaDd4Z25uaUV6OENnS0dBZlB3NEdyam5oZFNlemswVkdxRm1Nbk1yNHpxblh1ekNrM05tdk5IaDhwRkxMSEJoX0hWd2U1WlJRNWRvd2NhVVZCZNIBzwFBVV95cUxPZkQ3a1g2OHJqdmU0QTYwVkpKX1dhYjRhclNWV2VKcnF4WUNzZGFwemhIN1JMS09uU3NvTm9XZk5wNjB3aV9tbXlZencyaFdwTmoxbng5QmtWbVA3UTBPbHNTNFdRbVZ0TTZxZUEyWGhweHp0eTdBYjM0SERpbU5UUzJuS252alFFdjBkcWN4XzlIOHR1c05MSF9uZVF6Tjc1U1NPWHJZbzBXOS1mSG9LSG0wMWpXY3dUV2dDeEtmVWZ0b2FSdGJWNWQyWEJJc0U?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T02:31:25+00:00",
-      "age_hours": 4.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Interview: Topco Scientific expands to Fukuoka signaling chip regionalization - digitimes",
-      "what_happened": "Interview: Topco Scientific expands to Fukuoka signaling chip regionalization digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmxWbnh5bHhqTktNdTg1R3BPaEZMR1JNcGt2LXhmUXNBQmlFOVRlTDBvMEx3eXNwTS1sM3FWT0VyYXBiUXg5VlNsRGRoeGU4bW1kYlh2N19mdjRPZy1iOEtwZ3NuRFZrNUZvMlhmS3doMXMwR25YOFFyWHA0a1ItM1JIRDUxZWNNY3VQaXpUNkNtUQ?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T02:07:32+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Not like South Korea? Chinese brokers forecast A-share tech and chip rebound - South China Morning Post",
-      "what_happened": "Not like South Korea? Chinese brokers forecast A-share tech and chip rebound South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWh1aHRySkt1aWJJT3pFc2NhVlF3SWMzSUFKZnUzTmJ1Q3ZKcW1TNEhGVG9sTlcwb3FvTUk1NGY2bzA3S242ZFh4RzFLdHppU3pVSHVMUkswU0R0a2M1OG1YektsakVuT0FlOHZoTGplT1pOaVFycVRJV3FWSDBZb1JqLXZKYVNBajhzT2hqQW5hamo1X3ZrbmZxdjh5ZlFuLVRSODNWVVVUbzE0M1840gGvAUFVX3lxTE5lTnRpTjZZblRINVRRZUNLNHpOUHJTZXNieDN2RkZIXzdTTndQZWdRZDNQbGczdlh6N2lUSWUzLWppNDJmbno3QjhEcDJaS09ZTzYtaU13UGJBeDFHQTA0dlRDTlJlZHhDTXNqbEFPRDNYRWpkMkkyME9RVzZLZnhjR0tMYm02eUZ0QTR3LWVURDJmQVpaMXNCSGVFQ25wamNwWVgyMUN0LWpvSmZSSms?oc=5",
-      "source_name": "South China Morning Post",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T23:00:05+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Your Fitbit data can now connect directly to Apple Health - The Verge",
-      "what_happened": "Your Fitbit data can now connect directly to Apple Health The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWxzaFgtNEhwRENuVnF5bkVodFZVQ29WUmF4akNxV01CYWl3OEhzWGR5c2RsU3JYcGpBaTVpX3JGM2RGbFpGRTZ1azlkd3ZHenVTLTNydE5CRnc3N1gxalF4WW9oQVZhOFNDQWU1XzZNei1zVWJEazdQNjNYWGZyTFRtZjJHSTBhSURyOXVxOA?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T21:24:23+00:00",
-      "age_hours": 1.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How we built a realtime system for responsive voice AI in six months - OpenAI",
-      "what_happened": "How we built a realtime system for responsive voice AI in six months OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UcG9ubmpPbGl3VkV2bFlmd2NWbllZMURHdzFyZHlZQzZsS1NjampUeGl2X3V2R01ReVhlemU3ZmV4ZWNLbFlQeFZabXJNaFNnQ3NiRXNFRVRTNnNpTzBwX1F0ckIwRExlaHAtc2RxazdocVdsWE04?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-08-03T20:44:49+00:00",
-      "age_hours": 9.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "ON Semiconductor Reports Higher Profit, Revenue on Growing AI Data Center Business - WSJ",
-      "what_happened": "ON Semiconductor Reports Higher Profit, Revenue on Growing AI Data Center Business WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSDNyWDh1TTFxRm40QVZoSEVJVjRlTFFlLXNIZVp2S19tcmpNVkNpQWp3bW5OdWxfbC02VWo1WEJ4VENXME16SndiZ1VlR29LNWZUSHhUclJSSWJpc25BcUZ1N1VvaGg2cFExMUJsSU53UzFWR2Z6MUhiSWVtTnR6cnhXREVpY25KdjRYSlJpejZMVlRZTnQwbHg3RGRDaHZXbVk2aWs2ZDdkOEljSGRxWVNiaDBrSEI1a3RLNTE0UWJEQ2FsQ1ZZ?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-03T20:44:00+00:00",
       "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
