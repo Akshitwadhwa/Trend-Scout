@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-05T14:34:06.142596+00:00",
+  "updated_at": "2026-08-05T16:51:50.806118+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Best iPad deal: Get an 11-inch A16 Apple iPad for $399.99 at Amazon - Mashable",
+      "what_happened": "Best iPad deal: Get an 11-inch A16 Apple iPad for $399.99 at Amazon Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rLURnRlVpYmt1OWo5ZEJoUVVVYl9sYU5lOXFNZHV5dEJObkVTNnZRb2VXYmpxWlgtMTE3QXFrWDFXVDI1bGhFc1JabHkzRlNGXzlOcHF0THRnQ1pLR0dF?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T15:19:56+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
+      "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2VvbDBMR1VoNlhUcG5aZ3ZfaDdkMElsMG11aDE4WWd1RGx5c2JRRTFUcktPamJnUWk4WklEYWpCSHJQaGwxU0kyT19iX1V4UEN2S1VtOHF1Wm5MSVBoY1hmMDQ4elZkelg3UVdhMzVmRWVTb3l1ek9xdlNaYThtSHpXcEw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T14:18:12+00:00",
+      "age_hours": 2.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "GlobalFoundries tops second quarter estimates on AI chip demand - Reuters",
       "what_happened": "GlobalFoundries tops second quarter estimates on AI chip demand Reuters",
@@ -43,17 +65,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-05T11:15:30+00:00",
       "age_hours": 3.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
-      "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2VvbDBMR1VoNlhUcG5aZ3ZfaDdkMElsMG11aDE4WWd1RGx5c2JRRTFUcktPamJnUWk4WklEYWpCSHJQaGwxU0kyT19iX1V4UEN2S1VtOHF1Wm5MSVBoY1hmMDQ4elZkelg3UVdhMzVmRWVTb3l1ek9xdlNaYThtSHpXcEw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T11:10:57+00:00",
-      "age_hours": 1.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -317,20 +328,9 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 19.5,
+      "age_hours": 21.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. - Axios",
-      "what_happened": "OpenAI and Anthropic's models hacked into real-world systems. Human error was behind it. Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGhSVmNXS2hTdzBLaXMyQXFTTGowXzd4ODNHRzdyYzktdU5seFg0U1JnZFUzaEd0N2RQX0c1aDVPOFE0RVRnR0szQTdEdVpnZDFJWjJoNjNhdjlRU3lNRUh1TGtRa2VaQ3dNcUpQeS1VZnVOUThBU3lQWnNpQWhUWTlB?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T17:58:48+00:00",
-      "age_hours": 1.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
