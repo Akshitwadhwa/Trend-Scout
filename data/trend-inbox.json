@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-05T09:47:45.857439+00:00",
+  "updated_at": "2026-08-05T12:15:08.616641+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Netlist, Samsung settle patent disputes in new five-year memory deal - Reuters",
+      "what_happened": "Netlist, Samsung settle patent disputes in new five-year memory deal Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQmhmMmZIenJMdVNhZ1N4ZXdzY1FnNU1Wb0lUcTR4eW13MGJTYllRZlk2THFFYm02cTd6NDIxekV3dllHZTY0S19qVnIwUkVUVEQ1Z3UwR1JTamRYQkFDdEp2VzgwTlhLZ0ZSN094UkdYVURjak1ZOFFVWnV1U1hfLXpGM3ZKQVZWeU9ITHdiWXQtcWw0eW11ZFJaWEdlMGFQbFhLUDNGTlZoVjlFU2poWUVoUHB0VnlLa28w?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T11:15:30+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
+      "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2VvbDBMR1VoNlhUcG5aZ3ZfaDdkMElsMG11aDE4WWd1RGx5c2JRRTFUcktPamJnUWk4WklEYWpCSHJQaGwxU0kyT19iX1V4UEN2S1VtOHF1Wm5MSVBoY1hmMDQ4elZkelg3UVdhMzVmRWVTb3l1ek9xdlNaYThtSHpXcEw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T11:10:57+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident - CNBC",
+      "what_happened": "Anthropic's Mythos created fake identities to fool humans in new cyber incident CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSnczdkhBOUtXUHZ0a28xaUVDTnlGUmUtWGZaM1M5eVhmaHdrSkFIeHZranFSSXBnbEphbHZpcnBSNk1oSXZYUXJHMmxOeXFsV3NNRWY5YU1iVjdIb3NGVG9aNzhJMHZ6eEN3M1JpaUx2TkFNODhITmlSckZEWlZxQm1JYTB3WjR3dUHSAYoBQVVfeXFMTkp3M3ZIQTlLV1B2dGtvMWlFQ055RlJlLVhmWjNTOXlYZmh3a0pBSHh2a2pxUklwZ2xKYWx2aXJwUjZNaEl2WFFyRzJsTnlxbFdzTUVmOWFNYlY3SG9zRlRvWjc4STB2enhDdzNSaWlMdk5BTTg4SE5pUnJGRFpWcUJtSWEwd1o0d3VB?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T10:18:07+00:00",
+      "age_hours": 2.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Why Nvidia bankrolls its rivals - Axios",
       "what_happened": "Why Nvidia bankrolls its rivals Axios",
@@ -21,6 +54,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-05T09:33:43+00:00",
       "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack - BBC",
+      "what_happened": "Anthropic AI created fake profiles and impersonated people in attempted hack BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cW1FRW5ELW1tV0ZySExSZG4zek5yT3BaZVBJMDdBYms0Wk4ySEQ1YjVNVnp6X2RGR29ERG9OakpRQlpRT1JvTXhtZVdMTWVIV1JxUFdUQU9GUQ?oc=5",
+      "source_name": "BBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T09:24:18+00:00",
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -240,7 +284,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 14.8,
+      "age_hours": 17.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -252,17 +296,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-04T17:58:48+00:00",
       "age_hours": 1.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
-      "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2VvbDBMR1VoNlhUcG5aZ3ZfaDdkMElsMG11aDE4WWd1RGx5c2JRRTFUcktPamJnUWk4WklEYWpCSHJQaGwxU0kyT19iX1V4UEN2S1VtOHF1Wm5MSVBoY1hmMDQ4elZkelg3UVdhMzVmRWVTb3l1ek9xdlNaYThtSHpXcEw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T17:30:12+00:00",
-      "age_hours": 0.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -284,7 +317,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T16:47:18+00:00",
-      "age_hours": 17.0,
+      "age_hours": 19.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -298,39 +331,6 @@
       "age_hours": 0.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "As AI Increases Demands on Memory, Storage Steps Up - blogs.nvidia.com",
-      "what_happened": "As AI Increases Demands on Memory, Storage Steps Up blogs.nvidia.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wWkNQQXhGQmZ6QXRESTJ3RU1SaU15b0tudy1EN3JOQ2VUUTVZQWFBaXlPbldnV2oxNHJxSzlrMHR6SmQ0VGgxMlVCSHRoNEdjSVkyLTFUbFg?oc=5",
-      "source_name": "blogs.nvidia.com",
-      "source_level": "primary",
-      "published_at": "2026-08-04T15:07:02+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Apple is working on iPhone-to-Windows copy-paste - The Verge",
-      "what_happened": "Apple is working on iPhone-to-Windows copy-paste The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vQmZfbVJZamwydG91VldyR2p0OWYwSmNtajRSb3JGTEp3ZVRkVUR6SGxiWDA2bGJaR3F1NlJncnZhUDlDejVBMjlCclZMcFZKeWtfbDZ3cUVaRExIRkl0aV9xNTFaUHloWmNWSlMwLV9DMzhPOHc?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T14:42:31+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Former chip executives launch athlete discovery platform - Reuters",
-      "what_happened": "Former chip executives launch athlete discovery platform Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVllkWkJjNW9zUHA4MmJPMXhjazk1LVAwNlpZOHhJT2xsb3lMNHZIUFFhb0VsalpiT3Zsb3BHalQwT1Q4QzBHRDZacDM1dEk3QUlEUEUxQlhWSFhuMkk2QnRNcGNFbDRKVW1OMHE5bUZieGJTeThHWk9oazNMajU0LXNZdmkwSVRYcDA3TzVPd1FIYmNMZHdLQS1UeTdXQVl4RjQw?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T12:10:01+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
