@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-05T03:30:41.847540+00:00",
+  "updated_at": "2026-08-05T06:40:39.270714+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Chip Maker Infineon Forecasts Strong Revenue Growth on Booming AI Demand - WSJ",
+      "what_happened": "Chip Maker Infineon Forecasts Strong Revenue Growth on Booming AI Demand WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRFpiRzVlLWZUbjFjem1ja3F0RloyYXAyRzFYSTJtVm9lQnhIdzk5SzlDdUk4U2tfdXZreVZocWlMdlNlb1ctOEZ4OUlXUWNNSUtjQ1M0ZWkxbFh1c09DYkppYmdmYUt3LTBMTGtQVTFwYjFiUFI5X0ZPM0QybXo0ZUVNMU5GSzVCTENqN0dwdDVLMUJ5OVdya1VDY29jal9YQlBvSXFBWEhsS3VPWTI1OXBVNHNPdy04a2Mw?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T05:52:00+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
       "what_happened": "Samsung Electronics a global leader in advanced memory technology, today showcased its latest AI memory innovations at Future of Memory and Storage (FMS) 2026 in Santa Clara, California. With broad expertise spanning DRAM, NAND, enterprise storage and relevant advanced semiconductor technologies, Samsung presented its latest AI memory portfolio and technology roadmap, including a preview of [\u2026]",
@@ -9,9 +20,20 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-05T04:30:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Anthropic, OpenAI AI agents go fully rogue in testing, Mythos breaks the most rules - India Today",
+      "what_happened": "Anthropic, OpenAI AI agents go fully rogue in testing, Mythos breaks the most rules India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXNFZF9YTXNETEs3eVZGYm55TU5IdnZQN01Sb2hNTjV6S1NOajhvNTUxN1g1SVowTkJ5cG5tb1N1VENVQlpIR3R4YTVIRG5kU3Nta1FCcDZMUGx6NmpuRG5tVGN6eFZwREdYMGpwSlFIWVhUUFR2cnlsUzl5VU83TS1LUjBqZFNRMlJqYVFaTXBqOFRXejJpZUQzRFFJcTZkU2hfczFxbFh4ek5ka3FUVmg2WnNLZmdnYmVWNG11cU1NYUdCWXdtME5VUkktRzc1cHp2b29Ta3RPVEM2RDEzLVlpVHJwMU3SAecBQVVfeXFMTklzRWRfWE1zRExLN3lWRmJueU1OSHZ2UDdNUm9oTU41ektTTmo4bzU1MTdYNUlaME5CeXBubW9TdVRDVUJaSEd0eGE1SERuZFNzbWtRQnA2TFBsejZqbkRubVRjenhWcERHWDBqcEpRSFlYVFBUdnJ5bFM5eVVPN00tS1IwamRTUTJSamFRWk1wajhUV3oyaWVEM0RRSXE2ZFNoX3MxcWxYeHpOZGtxVFZoNlpzS2ZnZ2JlVjRtdXFNTWFHQll3bTBOVVJJLUc3NXB6dm9vU2t0T1RDNkQxMy1ZaVRycDFN?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T03:17:38+00:00",
+      "age_hours": 3.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Vanguard International Semiconductor sees AI demand lift mature-node prices through 2027 - digitimes",
@@ -174,7 +196,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 8.5,
+      "age_hours": 11.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -218,7 +240,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T16:47:18+00:00",
-      "age_hours": 10.7,
+      "age_hours": 13.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-04T09:01:45+00:00",
       "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Launches World\u2019s First HDR10+ ADVANCED Streaming Experience on Prime Video",
-      "what_happened": "Samsung Electronics today announced that Prime Video will be the first streaming service to offer HDR10+ ADVANCED on supported titles globally beginning August 2026, with the service being first available on Samsung\u2019s 2026 TV lineup. The next-generation High Dynamic Range (HDR) standard \u2014 designed to deliver brighter, more immersive picture quality for supported movies and [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-launches-worlds-first-hdr10-advanced-streaming-experience-on-prime-video",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-04T08:00:00+00:00",
-      "age_hours": 1.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Taiwan-Japan semiconductor ties go beyond supply chain partnerships - digitimes",
-      "what_happened": "Taiwan-Japan semiconductor ties go beyond supply chain partnerships digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmZrRHI4M0JTYmRkcEotMnllb2tNTGJoOG9pY3VETmNuQkRSajl1U2JldlV5ZkxzUDNQejJsYmU2YkRHeGthUDdzWkF3VXZlcnJFRkE4NWJNc1RRWGZBXzdQSUlMWnp2dW9JYTJjcVFWT0d2UkJnYWFkSkhBZFFuLWQzYkpzdmE3NlQyS2hiVDdUa2lPMEtiTjh4NEJOT3dpWm9yckxPYndDdWVXV0I2ek1FOS1fTlZK?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T02:57:02+00:00",
-      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
