@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-05T12:15:08.616641+00:00",
+  "updated_at": "2026-08-05T14:34:06.142596+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "GlobalFoundries tops second quarter estimates on AI chip demand - Reuters",
+      "what_happened": "GlobalFoundries tops second quarter estimates on AI chip demand Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3M2M3BPLXpSSFBXMktMVG5vRlFGcmEwT0FYRzFfV3dHcG1RSU5xTzFNeU5ubkpWZWcwcjRMQmFfWTF1c3NUZEtHU1V6Wl8zakI0Y1lWRk5NSnNROGRFMHdIbGtKRXpDWFMybDU1b2d1Y24wdlBzcDJmU3dERDM3Q3hpemgyTmNnLURjaW1VOVlKX0RfTEZFWTVMTG02RmFHelQ4ODVTUFQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T14:13:43+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "ByteDance\u2019s Founder Rules Out Distillation on AI Models - The Information",
+      "what_happened": "ByteDance\u2019s Founder Rules Out Distillation on AI Models The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUVJ4WkRtM0o4OURVSkd5OE1qOUU1YTdDZkphYW82dEVNbjRwR2tyQ2ZtQmJfX29VZkRZRFFRWVlzSC1UdWJPbWlyRTMyVEQ3WXdfSDZBRzNUM3M1MkxrWlp0ZjRjMGdNZ3BFY0c2Z1diMTllUXNSZm5qdkJlSlZwNVNnY1c1ak81Tk5tVHVMLUE?oc=5",
+      "source_name": "The Information",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T13:19:00+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung, SK Hynix pledge stronger shareholder returns - Reuters",
+      "what_happened": "Samsung, SK Hynix pledge stronger shareholder returns Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUN6LWpaTWZfUS1qcWc4dHBDbHlvb2xsS2RkZ3Z4Yi1udU4wNFVFVkxrUTZwanlaNVFPUnJlQjktcjIzUlZ3alRHTnB1TkcyelhVLTNxZjh0bzM3U3BEM3VNVXZyWGhLcDJUYXE5cThWVDdic3ZzV1cwNzlCNlgzVUtnY1RaS1A2dm1MZzE5a2prcXRaYzkzWHRGSXJGY3h6eTRSMVpFdnlFWE0?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T12:19:43+00:00",
+      "age_hours": 2.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Netlist, Samsung settle patent disputes in new five-year memory deal - Reuters",
       "what_happened": "Netlist, Samsung settle patent disputes in new five-year memory deal Reuters",
@@ -9,7 +42,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-05T11:15:30+00:00",
-      "age_hours": 1.0,
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -284,7 +317,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 17.2,
+      "age_hours": 19.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -298,39 +331,6 @@
       "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple pulls Telegram from app store, gets a snarky response - Mashable",
-      "what_happened": "Apple pulls Telegram from app store, gets a snarky response Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ITHRYTlhSY1NhQ3pNZFY3SFFpekVXako5OGdqbjU3TFgwRUxZWlNIQjE0UFpGc1VxdVUzOFJ6R1l0OW5EaUpNb2Jyc3NKbklvREp3OVlmenNKMmNtbk5iQUU1X2xzbkE?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T17:00:06+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Turn one giant AI-generated pull request to a reviewable stack",
-      "what_happened": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-04T16:47:18+00:00",
-      "age_hours": 19.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super - NVIDIA Developer",
-      "what_happened": "Generate Trajectories, Reasoning Traces, and Auto-Labels with NVIDIA Alpamayo 2 Super NVIDIA Developer",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkxVbzM4MUtqekt3bDZDaFhOZFBDcS13MkZyc1Z0M0RndEVQalg3Tlo5cThQclVLRmIwekFxaXBFcFRDSEtkZ1NQWGlQQ2p2NVd2ZWVNVGdJVGN6Y0ZpX2FpYzg5SDJ2d3BUajVWcnBobGFXaE5qR0YtUUJuX0dlbDRjTkdaOFpUeE5mQjR3bUF0dVlQOGM4WXRiLURJa0FXWTcwd0VaalNiZE40aGxyR2ktbWh5Z2V4dUE?oc=5",
-      "source_name": "NVIDIA Developer",
-      "source_level": "primary",
-      "published_at": "2026-08-04T15:27:14+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
