@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-05T16:51:50.806118+00:00",
+  "updated_at": "2026-08-05T18:48:59.289648+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "AI models have been going rogue in tests \u2013 how worried should we be? - The Guardian",
+      "what_happened": "AI models have been going rogue in tests \u2013 how worried should we be? The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T17:43:00+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "4 of Google\u2019s Top AI Brains Are Leaving\u2014and Launching Their Own AI Startup - WIRED",
+      "what_happened": "4 of Google\u2019s Top AI Brains Are Leaving\u2014and Launching Their Own AI Startup WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3Z2N1RDJQR21MdHE5UE82NWt5akZEbE1nSWotc0V5SUtiUDRLeUVuVEdabEU3TUUzM3BhaE9tOEc3Z08tcDV6MFAxZG80NkMtN0QtNWJCSm1OVzdkWXFCLTMwR29NeWdkcFFSbzJVaHNib3pyWW00?oc=5",
+      "source_name": "WIRED",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T16:00:00+00:00",
+      "age_hours": 2.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Best iPad deal: Get an 11-inch A16 Apple iPad for $399.99 at Amazon - Mashable",
       "what_happened": "Best iPad deal: Get an 11-inch A16 Apple iPad for $399.99 at Amazon Mashable",
@@ -9,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-05T15:19:56+00:00",
-      "age_hours": 1.5,
+      "age_hours": 3.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-05T14:18:12+00:00",
-      "age_hours": 2.6,
+      "age_hours": 4.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +64,7 @@
       "source_name": "The Information",
       "source_level": "reputable",
       "published_at": "2026-08-05T13:19:00+00:00",
-      "age_hours": 1.3,
+      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -109,6 +131,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-05T09:24:18+00:00",
       "age_hours": 2.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "AI models shock UK testers by using fake identities to try to trick developers - The Guardian",
+      "what_happened": "AI models shock UK testers by using fake identities to try to trick developers The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T08:40:00+00:00",
+      "age_hours": 10.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -298,39 +331,6 @@
       "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure - samsung.com",
-      "what_happened": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure samsung.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFBBLTdxMWxLN3djSUtCaFNxZjFRbUdrcE9xTDdpbE91WTFVUEIzV1V5QjBMcDZJanF2YWQ0NDVLRFhlQmJac1RJNGF0NEpjNFNiMHJPMEpBVHFic2o4RENuQjFlVWdMdUlEY20wVjktZG5abDluZXA0NzVQN3pvMUNESDhCLUNPMVZLTnhNWlVoQ2w5ckpXV3BDRWJFOUcxOEJ4cDZjVHdLSEpJN3RLeUd3WHFuSjFHekotLU9JWTdONFVQ?oc=5",
-      "source_name": "samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-04T19:30:00+00:00",
-      "age_hours": 3.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Nvidia doesn't mess around: A week after open AI industry group formed, it's already showing progress - TechCrunch",
-      "what_happened": "Nvidia doesn't mess around: A week after open AI industry group formed, it's already showing progress TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaG9RUm9TdENzOENVSklibmJrQ1FjM2dqR2RTRTJfTnhacXd1eHdvREtXTG81RllxUzV5RkY3a0pEZ3k0YnBxWi1vVkZ4bXB6TlA0SG9qQXNOMDBtcmtRVDlXVFJLUUhHcmJQVWRNSFdwZHc4WEJQcW5yeHRaS1F6VThwelVReWhaMnFOdnZ0bDU2dWwtUEljR1hrRDdxenh5RGV3eERPQkpNTWt3VFNiYm1GM3FrX2lPc0RvSElvZ3VRUU5SZWpvaThfMVM?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T19:28:49+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-      "what_happened": "Learn how to build tools to simplify how you work\u2014without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 21.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
