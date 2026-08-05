@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-05T06:40:39.270714+00:00",
+  "updated_at": "2026-08-05T09:47:45.857439+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Why Nvidia bankrolls its rivals - Axios",
+      "what_happened": "Why Nvidia bankrolls its rivals Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13c2dSempucWRoNlpSa1JKVVFTR1RFRkw3Y3lyQ3BIQUZMZ2lhUTQybkZHdFBuLS1fMmdhWThMQlMydVpkUks3N3ptV0p0dHc4X0Jsc2dWNVoxallGaGxTdmNEelN2Zjhfb1o0?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T09:43:06+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "S&P 500, Dow futures inch up as MidEast hopes offset SpaceX, AMD drag - Reuters",
+      "what_happened": "S&P 500, Dow futures inch up as MidEast hopes offset SpaceX, AMD drag Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T09:33:43+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI and Anthropic models \u2018went rogue\u2019 during UK cybersecurity test - The Guardian",
+      "what_happened": "OpenAI and Anthropic models \u2018went rogue\u2019 during UK cybersecurity test The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T08:40:00+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "UK cyber test reveals how AI models tried to outsmart cybersecurity checks - Moneycontrol.com",
+      "what_happened": "UK cyber test reveals how AI models tried to outsmart cybersecurity checks Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkJVNV9KejZ5blVaRGlCclpZclc1dkNodmJRWFU1VER2X2JlMFF0SEpDdEplbFR1dzBGRHpEeHBBV3FqbHdrSmthVF9KLUtRRk1vaC03SXhJWXZ0cklFS0F3WWc1T1hMakdNQ1l6OUdUSFpoZE1TUUllZEdKMm03Ym1razVRV0ZvQkRYcEZQSHZ1SmFqdW41TnVKSk1Ia1pCSWRUdzI3aU4zWG5xdExWWmtaOTlBU1hMUFlqTlhROTJwa2JtcTEzS2tTc9IB0AFBVV95cUxQTEVIYUVtU0ZYVFoyUlR1NExMOGZ2eFlCNktjNVVEM0pBZHg4WW9BLVdDSnRtNVB0ZXJwTHhMUXFUNGgwQ2ZsYmxYcG5rOWVYSjloTzNkVzZsTWh5X09xbGpqY0lYVEEyLU5HMGZGUkhETkZjQXg3T1ZpUVFvbTVyT2ZKaUhiT0NnYXNzWllGamxzLTQ5QW80NUZ4MG83a2h2a2IxTFJoUFRYcTFlNFgwRThqOTAxQUFUNEhtZmxNTUZhUGFyRlhhOGpOOWZSVGV6?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-05T07:36:28+00:00",
+      "age_hours": 2.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Chip Maker Infineon Forecasts Strong Revenue Growth on Booming AI Demand - WSJ",
       "what_happened": "Chip Maker Infineon Forecasts Strong Revenue Growth on Booming AI Demand WSJ",
@@ -196,7 +240,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T19:02:34+00:00",
-      "age_hours": 11.6,
+      "age_hours": 14.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -240,7 +284,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-04T16:47:18+00:00",
-      "age_hours": 13.9,
+      "age_hours": 17.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-04T12:10:01+00:00",
       "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "\u2018Apple is getting this wrong,\u2019 says OpenAI \u2014 startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees - Tom's Hardware",
-      "what_happened": "\u2018Apple is getting this wrong,\u2019 says OpenAI \u2014 startup blasts iPhone maker over lawsuit alleging it stole confidential information through ex-Apple employees Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQWkxuamJEMEdGYTJJVk0wb3EzVmhxemsxY0ZSZkxFSERjRkJUREN0S0lkTkNlSDdyRWtHQXhicVhqSFh4T21lZ1laVFNQaXo3SThjeDIwZjNsc2llZDY5TnJtZzVxNTdiLXBFMTl4bnpuZHN3T1pZdVBycGs0Q0JWdFVueE5kcmlBdWJfUGlicEhyekljdWFueUwxQ0ExNzBPT0txT2NhTHJCNzVaRi1wZHktbDE3UGhOSTlFRHlxN2Q2QkRWdnJ4SlZQNmxKclFmT280bENlcTBZYUU1LW5kcGdLeXdzVmZSN2R5M29qOXRZVDQtZlMwUEJuOEtNNUdFYjhTZEY1cFVPaUctVlJ2ZURqMVhVamlwTmxhUVhBN0kzRDZJNjhSUjZB?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T11:52:34+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Kosdaq rallies as chip stocks lose steam; Kospi edges higher - KED Global",
-      "what_happened": "Kosdaq rallies as chip stocks lose steam; Kospi edges higher KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XWURfRklvRlc5aGlWbUxnZVJndkJGSXQ5ZHJfNHdjeTV1MlRHLXU5MWxlQzdzWDV1a1RBclZEcTZMRDdmRXdpUW5NcjlVdzRhTHFTdkhxSWpDbm5FaEQ5aVBJbVZibTZIc1BjV3JmSkY3OWY4V0VjVnR3?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T09:16:00+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise - digitimes",
-      "what_happened": "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2UzQS1yamZOQVlEdU5pVUFFc0twRjdyVHdiOG1tWlR2RUUtWEpBSDQ0NjJqbXhuN0UwbXdEdlRuTGUwcGdXT2tIdzdvRGsxWldldGZlc3lia05CXzVicmRmTEl3YVZBbi14eFNETS1ZY0tRNnVCWDhLc3Fxc0FGQk1VbEN1dWsxdUJSdVhMakw0dw?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T09:15:00+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung's retail investors seek extra shareholder meeting over buybacks, bonuses - Reuters",
-      "what_happened": "Samsung's retail investors seek extra shareholder meeting over buybacks, bonuses Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS2EtVUhKbFQ2S0JyX1V5Q2sxa2RJNUE1clFmc0pkRV9fZ1RiNld1cnU3YVVZUHNxSFhFV1RoU0EwZkRxWm5UTFZpUFBpbEdkd29PWFlZN05lZmxFM25pRGpSQWhocGZQck9MdjlyLUdZVWlVYkxfQ2ZnQ1FLQkdobW5aUnY1dGt2eWxCenVSSkllXy13S1Vvckd2OUM4R3VVN0gzNmt1WDBTUE5ILXd0Q2h4R0s3RS0ydVNvaU1PSmJSYkZkRzdZYndOSQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-04T09:01:45+00:00",
-      "age_hours": 0.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
