@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T03:34:30.274668+00:00",
+  "updated_at": "2026-08-06T06:44:24.420270+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,39 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "US polysilicon tariff exposes chip security's solar dependence - digitimes",
+      "what_happened": "US polysilicon tariff exposes chip security's solar dependence digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGFjTGc1VWVMUzROOU5QcGtvdHBzSTRGdkJJZ2lTLXh0RVoxN1ZFOGFmaERKeGY0VDZLdVJlQXhWR0FqWnAwUnEzcF92WTYybk5zeXR4RDFXYlRwdUFXOEVDX0UzQ3NwQURkS1pqLVlBZ1c2NmQtVEd0dlB4eXVuRmltWTVvOGxwTld4LWNXUUk4c1FB?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T06:00:49+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI says rogue AI agents talked to each other in secret, plans to slow down AI research for safety - India Today",
+      "what_happened": "OpenAI says rogue AI agents talked to each other in secret, plans to slow down AI research for safety India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSGN3aURoaW1OWmE0UEdaUG5SMDlsUlhncDBRMENRZkJ0MVhUS1Y2a01UV3NQTnhVQW5YOEhnVW1fR0dLcU5iYzlTZWc4cE9xODZqaW0zNVBHMDh4dGl1MXBUVG54MnpsQXhTUkpFOW1WRmtwRU9OMDRzOVQ2VUdMUDdTRTV0eEZoUHQ5eDVkRGFPVjFfRHZ6akVPWEVJcTVQcjJnVjRFLXRzTkJwUDlET2h3X0JGNERCODJvRk8zOVBDa242OFY4ZUI5MzAzbzJ1QmdkU3YwVTd1SWR4WS1oRmptR1ZqaWlTOUk2YmxOY0NfZ1hMdWdWZ0NRMm9XOW910gGAAkFVX3lxTFBIY3dpRGhpbU5aYTRQR1pQblIwOWxSWGdwMFEwQ1FmQnQxWFRLVjZrTVRXc1BOeFVBblg4SGdVbV9HR0txTmJjOVNlZzhwT3E4NmppbTM1UEcwOHh0aXUxcFRUbngyemxBeFNSSkU5bVZGa3BFT04wNHM5VDZVR0xQN1NFNXR4RmhQdDl4NWREYU9WMV9EdnpqRU9YRUlxNVByMmdWNEUtdHNOQnBQOURPaHdfQkY0REI4Mm9GTzM5UENrbjY4VjhlQjkzMDNvMnVCZ2RTdjBVN3VJZHhZLWhGam1HVmppaVM5STZibE5jQ19nWEx1Z1ZnQ1Eyb1c5b3U?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T04:10:28+00:00",
+      "age_hours": 2.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple pulls Telegram from app store, gets a snarky response - Mashable",
+      "what_happened": "Apple pulls Telegram from app store, gets a snarky response Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ITHRYTlhSY1NhQ3pNZFY3SFFpekVXako5OGdqbjU3TFgwRUxZWlNIQjE0UFpGc1VxdVUzOFJ6R1l0OW5EaUpNb2Jyc3NKbklvREp3OVlmenNKMmNtbk5iQUU1X2xzbkE?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T04:04:19+00:00",
+      "age_hours": 2.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Chunghwa Precision Test posts record July revenue on AI chip demand - digitimes",
@@ -240,7 +273,7 @@
       "source_name": "The Guardian",
       "source_level": "reputable",
       "published_at": "2026-08-05T08:40:00+00:00",
-      "age_hours": 18.9,
+      "age_hours": 22.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-05T03:17:38+00:00",
       "age_hours": 3.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Vanguard International Semiconductor sees AI demand lift mature-node prices through 2027 - digitimes",
-      "what_happened": "Vanguard International Semiconductor sees AI demand lift mature-node prices through 2027 digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHYwdHptRU9GNmRmbmRvRUZEMl9kOG4xeUZraFJPVTFnSHNWZ2c2UjBrZmNIZHRXM0p0UkQ5eFBnWnBEN2JxMzEtbTJzQmJwNzNFWi1abnpRZFpXWW9ISER6MUhOY3g4elNvQmxCendtUi1TV3FuVGFCeGphMWx1OWgwbzdVYi1fbm5mRzNKOEMzU1Zk?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T02:59:58+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Vanguard International Semiconductor lifts 2Q26 profit on AI server chip demand - digitimes",
-      "what_happened": "Vanguard International Semiconductor lifts 2Q26 profit on AI server chip demand digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQzE4MWNJRHRGeDlQWF9lUVh0N1I2bHIxZERQbUcxQWFoVnR6aE5UQzlCNDR2aTBwd2tOS1FMaS1KTGNESzVyTUR2SFN3TVZsekxjdkNYRWs0Z1lFaHl3UGdNbUVVbXBSY3JMT01wRGRKM09rcTFIMG1veU82czhRYkRHeHkwdXNnVzVZ?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T02:27:46+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks - Reuters",
-      "what_happened": "EXCLUSIVE: Samsung, SK Hynix test Chinese chip tools as hedge against US risks Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeU9NVTFKTDhzZ3Rxa3dWbk9vSktaSE5xd3p3TG5KTlpNRFpLY0IyNEZuRzVTWFV0LWx0LURCdkRvcjdCVE9pU3lGSktXampPUUtZWExRSlNLZ0pzU2thX2pXQWRDLVBUd2JYRGh5RGplLWdsb0tOek8zdXk5elBiZlZwbTd2X0dDSU5hWFRKWHBLZkUteDBSR2VndEpxREMwYTUzY1pJcllRSUZPci1vOQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T02:02:00+00:00",
-      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
