@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-06T09:50:23.534926+00:00",
+  "updated_at": "2026-08-06T12:17:47.722055+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Best Apple Watch deal: Save $100 on Apple Watch Series 11 - Mashable",
+      "what_happened": "Best Apple Watch deal: Save $100 on Apple Watch Series 11 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lYlJzWGJoc0dSdlhDd2dtZzNDblEtclQxcWJOV1FrSXFTbFlMVlZuaXpUSk12T1Jocm5MUjFRWUJZV2xuamhubGdNbWlscVNJa3VTZjF0WnBuaW1zMXE2TlRPRHZfcTdIa2c?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T12:10:53+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
+      "what_happened": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T11:41:00+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Even Big Profits Aren\u2019t Enough to Keep Chip Investors Happy - WSJ",
+      "what_happened": "Even Big Profits Aren\u2019t Enough to Keep Chip Investors Happy WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVRDUHcyYkdqR2NTWjZhbjNyWkF3OTFyZVlSQnNGTGZrSGlOdEx0UkJOTzhDeFNQUFhDZkh0V3VyMEVnUWR0Q2dDaTQ3M0l5VzhJdmI2Tm8wVzdTenJFWWJPZzBhMHJoREUtNWVTMXVhQUVIZkY1UVpXcmVNUC1zVEw2cVMxVXVFaUh1NG0zdm5Jc19rS2Nwb1Bib0RBOWR6OFBXaA?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T11:38:35+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight - Mashable",
+      "what_happened": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWFETFRESld4U2FCSmJGSzBLOXR3MlZMdlcxMGJUN2R0NjM0YmVkcnJuUWxnUTBwVWtEZjBCd0o1XzNHVkVHX0gzSEtjVTJWOUZfZzM0YnkzYmk1b0w5MzZhc2E5eWpxNmhnQU1HNUVkc21EX3FjZFF5V1V2bkFVWnFqdUV2a2dhaGc?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T11:37:28+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9",
       "what_happened": "Samsung Electronics today announced that the new Galaxy Z series and Galaxy Watch lineup are beginning to roll out worldwide. Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 are available through carriers, retailers, Samsung.com and Samsung Experience Stores, with sales beginning Aug 7 in select markets and expanding globally. Strong early demand reflects [\u2026]",
@@ -284,53 +328,9 @@
       "source_name": "The Guardian",
       "source_level": "reputable",
       "published_at": "2026-08-05T08:40:00+00:00",
-      "age_hours": 25.2,
+      "age_hours": 27.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI and Anthropic models \u2018went rogue\u2019 during UK cybersecurity test - The Guardian",
-      "what_happened": "OpenAI and Anthropic models \u2018went rogue\u2019 during UK cybersecurity test The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T08:40:00+00:00",
-      "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "UK cyber test reveals how AI models tried to outsmart cybersecurity checks - Moneycontrol.com",
-      "what_happened": "UK cyber test reveals how AI models tried to outsmart cybersecurity checks Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkJVNV9KejZ5blVaRGlCclpZclc1dkNodmJRWFU1VER2X2JlMFF0SEpDdEplbFR1dzBGRHpEeHBBV3FqbHdrSmthVF9KLUtRRk1vaC03SXhJWXZ0cklFS0F3WWc1T1hMakdNQ1l6OUdUSFpoZE1TUUllZEdKMm03Ym1razVRV0ZvQkRYcEZQSHZ1SmFqdW41TnVKSk1Ia1pCSWRUdzI3aU4zWG5xdExWWmtaOTlBU1hMUFlqTlhROTJwa2JtcTEzS2tTc9IB0AFBVV95cUxQTEVIYUVtU0ZYVFoyUlR1NExMOGZ2eFlCNktjNVVEM0pBZHg4WW9BLVdDSnRtNVB0ZXJwTHhMUXFUNGgwQ2ZsYmxYcG5rOWVYSjloTzNkVzZsTWh5X09xbGpqY0lYVEEyLU5HMGZGUkhETkZjQXg3T1ZpUVFvbTVyT2ZKaUhiT0NnYXNzWllGamxzLTQ5QW80NUZ4MG83a2h2a2IxTFJoUFRYcTFlNFgwRThqOTAxQUFUNEhtZmxNTUZhUGFyRlhhOGpOOWZSVGV6?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T07:36:28+00:00",
-      "age_hours": 2.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Chip Maker Infineon Forecasts Strong Revenue Growth on Booming AI Demand - WSJ",
-      "what_happened": "Chip Maker Infineon Forecasts Strong Revenue Growth on Booming AI Demand WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRFpiRzVlLWZUbjFjem1ja3F0RloyYXAyRzFYSTJtVm9lQnhIdzk5SzlDdUk4U2tfdXZreVZocWlMdlNlb1ctOEZ4OUlXUWNNSUtjQ1M0ZWkxbFh1c09DYkppYmdmYUt3LTBMTGtQVTFwYjFiUFI5X0ZPM0QybXo0ZUVNMU5GSzVCTENqN0dwdDVLMUJ5OVdya1VDY29jal9YQlBvSXFBWEhsS3VPWTI1OXBVNHNPdy04a2Mw?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T05:52:00+00:00",
-      "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
-      "what_happened": "Samsung Electronics a global leader in advanced memory technology, today showcased its latest AI memory innovations at Future of Memory and Storage (FMS) 2026 in Santa Clara, California. With broad expertise spanning DRAM, NAND, enterprise storage and relevant advanced semiconductor technologies, Samsung presented its latest AI memory portfolio and technology roadmap, including a preview of [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-05T04:30:00+00:00",
-      "age_hours": 2.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
