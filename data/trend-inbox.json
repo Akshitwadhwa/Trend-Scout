@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T06:44:24.420270+00:00",
+  "updated_at": "2026-08-06T09:50:23.534926+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,9 +9,20 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-06T08:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Mark Zuckerberg launches Muse Code AI, says it can do all software engineering tasks - India Today",
+      "what_happened": "Mark Zuckerberg launches Muse Code AI, says it can do all software engineering tasks India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWdyM1JFcEFxN0VRUF9VQjdvTkJLTGpaU2dEY1NKMm1yQ2kxMWRySi1TMWRMYU1zREJ2VHJCMDdhY1VCMlZNZG5hdmVQM01ZY21rWXJKb3VLQzVoOXRIMWhKUmJYemZLSkQ2Z3dmbVktV2lSWXFUbktGMnR4U254QVFpQ09TWjRsMDRRMzl6b2ZPUW92LUktUGxKeUhWZVpKX3VFYjgtQnhFT1ZaSThpeG5HTEV0ZHlyc2lRTkt30gG-AUFVX3lxTE4tZ3IzUkVwQXE3RVFQX1VCN29OQktMalpTZ0RjU0oybXJDaTExZHJKLVMxZExhTXNEQnZUckIwN2FjVUIyVk1kbmF2ZVAzTVljbWtZckpvdUtDNWg5dEgxaEpSYlh6ZktKRDZnd2ZtWS1XaVJZcVRuS0YydHhTbnhBUWlDT1NaNGwwNFEzOXpvZk9Rb3YtSS1QbEp5SFZlWkpfdUViOC1CeEVPVlpJOGl4bkdMRXRkeXJzaVFOS3c?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T07:00:18+00:00",
+      "age_hours": 2.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "US polysilicon tariff exposes chip security's solar dependence - digitimes",
@@ -273,7 +284,7 @@
       "source_name": "The Guardian",
       "source_level": "reputable",
       "published_at": "2026-08-05T08:40:00+00:00",
-      "age_hours": 22.1,
+      "age_hours": 25.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -320,17 +331,6 @@
       "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Anthropic, OpenAI AI agents go fully rogue in testing, Mythos breaks the most rules - India Today",
-      "what_happened": "Anthropic, OpenAI AI agents go fully rogue in testing, Mythos breaks the most rules India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSXNFZF9YTXNETEs3eVZGYm55TU5IdnZQN01Sb2hNTjV6S1NOajhvNTUxN1g1SVowTkJ5cG5tb1N1VENVQlpIR3R4YTVIRG5kU3Nta1FCcDZMUGx6NmpuRG5tVGN6eFZwREdYMGpwSlFIWVhUUFR2cnlsUzl5VU83TS1LUjBqZFNRMlJqYVFaTXBqOFRXejJpZUQzRFFJcTZkU2hfczFxbFh4ek5ka3FUVmg2WnNLZmdnYmVWNG11cU1NYUdCWXdtME5VUkktRzc1cHp2b29Ta3RPVEM2RDEzLVlpVHJwMU3SAecBQVVfeXFMTklzRWRfWE1zRExLN3lWRmJueU1OSHZ2UDdNUm9oTU41ektTTmo4bzU1MTdYNUlaME5CeXBubW9TdVRDVUJaSEd0eGE1SERuZFNzbWtRQnA2TFBsejZqbkRubVRjenhWcERHWDBqcEpRSFlYVFBUdnJ5bFM5eVVPN00tS1IwamRTUTJSamFRWk1wajhUV3oyaWVEM0RRSXE2ZFNoX3MxcWxYeHpOZGtxVFZoNlpzS2ZnZ2JlVjRtdXFNTWFHQll3bTBOVVJJLUc3NXB6dm9vU2t0T1RDNkQxMy1ZaVRycDFN?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T03:17:38+00:00",
-      "age_hours": 3.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
