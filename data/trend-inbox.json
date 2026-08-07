@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-07T17:06:08.265596+00:00",
+  "updated_at": "2026-08-07T18:00:51.201397+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
+      "what_happened": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T17:50:07+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Trade Tracker: Kevin Simpson buys more Nvidia - CNBC",
+      "what_happened": "Trade Tracker: Kevin Simpson buys more Nvidia CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmt5R1oyUmtOekd5WElHeVlOelVhci0zaTlxTlFtOHVnNnQ3ZUdOOGxqSFdVWEdNeXNZY1FSMHo4czNTU29xXzVPYy1RQ1hIWGdtay14Q3RndGUzMkVSbi1hZlJ6Wkg0NUwxYy1LbWZOWVZHbDV6NUNNOWhqN3AtWEo0QWRaaGRkWExPRmxfb3o?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T17:04:42+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
       "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
@@ -20,9 +42,20 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-07T16:37:16+00:00",
-      "age_hours": 0.5,
+      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "What is OpenAI Astra? Everything we know about the quantum math-solving model. - Mashable",
+      "what_happened": "What is OpenAI Astra? Everything we know about the quantum math-solving model. Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdDNjX3BqbW52dzB3X0hCU0NqUEFfR0F4ZEtvVVF3UW1NNWw3dG1JWWRCS1VJUnlIZWF4a2hvb25SQncwa0N4TzN2WWQ5UFVXQllQaE1FcVZqT1JjVWdCbTJ0Wm9mNjJJUEotSnBpTUwtTFk?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T15:38:37+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
@@ -53,7 +86,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T14:18:30+00:00",
-      "age_hours": 2.8,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -86,7 +119,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T13:05:49+00:00",
-      "age_hours": 4.0,
+      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -273,7 +306,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 21.3,
+      "age_hours": 22.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -284,7 +317,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 24.2,
+      "age_hours": 25.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-06T12:10:53+00:00",
       "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots - WSJ",
-      "what_happened": "Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZS0wZHRJSVM4dWhIX1I2eVJqTE82c0VaU2JOU0tnVDE1em5ad3I3THZrNGFGaWVfaC1CVjZtQ0U4bThuVmJZU2N2VDRIRFpaN1hXWms1WXpaTDRfVjhrUHktQWVLQTJ1ZnpwdUNEUzhsbmNUeEowNU56ay02OGZlaEVSckRIaGJOSU1oOU1LMWd1d0hXVjJyQnVCNVZTejEzYXRVUkoxZWhFakF5?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T11:41:00+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Even Big Profits Aren\u2019t Enough to Keep Chip Investors Happy - WSJ",
-      "what_happened": "Even Big Profits Aren\u2019t Enough to Keep Chip Investors Happy WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVRDUHcyYkdqR2NTWjZhbjNyWkF3OTFyZVlSQnNGTGZrSGlOdEx0UkJOTzhDeFNQUFhDZkh0V3VyMEVnUWR0Q2dDaTQ3M0l5VzhJdmI2Tm8wVzdTenJFWWJPZzBhMHJoREUtNWVTMXVhQUVIZkY1UVpXcmVNUC1zVEw2cVMxVXVFaUh1NG0zdm5Jc19rS2Nwb1Bib0RBOWR6OFBXaA?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T11:38:35+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight - Mashable",
-      "what_happened": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWFETFRESld4U2FCSmJGSzBLOXR3MlZMdlcxMGJUN2R0NjM0YmVkcnJuUWxnUTBwVWtEZjBCd0o1XzNHVkVHX0gzSEtjVTJWOUZfZzM0YnkzYmk1b0w5MzZhc2E5eWpxNmhnQU1HNUVkc21EX3FjZFF5V1V2bkFVWnFqdUV2a2dhaGc?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T11:37:28+00:00",
-      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
