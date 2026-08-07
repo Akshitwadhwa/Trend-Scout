@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-07T16:08:15.616349+00:00",
+  "updated_at": "2026-08-07T17:06:08.265596+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
+      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T16:41:15+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities - OpenAI",
+      "what_happened": "Responding to the next frontier of critical cyber capabilities OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-08-07T16:37:16+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
       "what_happened": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say Reuters",
@@ -31,7 +53,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T14:18:30+00:00",
-      "age_hours": 1.8,
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,18 +86,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T13:05:49+00:00",
-      "age_hours": 3.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
-      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T12:48:17+00:00",
-      "age_hours": 3.3,
+      "age_hours": 4.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -262,7 +273,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 20.3,
+      "age_hours": 21.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -273,7 +284,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 23.3,
+      "age_hours": 24.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9",
-      "what_happened": "Samsung Electronics today announced that the new Galaxy Z series and Galaxy Watch lineup are beginning to roll out worldwide. Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9 are available through carriers, retailers, Samsung.com and Samsung Experience Stores, with sales beginning Aug 7 in select markets and expanding globally. Strong early demand reflects [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-officially-launches-galaxy-z-fold8-ultra-fold8-flip8-watch-ultra2-and-watch9",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-06T08:00:00+00:00",
-      "age_hours": 1.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
