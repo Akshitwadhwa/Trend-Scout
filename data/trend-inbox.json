@@ -1,7 +1,84 @@
 {
-  "updated_at": "2026-08-06T12:17:47.722055+00:00",
+  "updated_at": "2026-08-07T00:14:10.769256+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia seeks China AI-RAN partners to bring GPU computing into 6G networks - digitimes",
+      "what_happened": "Nvidia seeks China AI-RAN partners to bring GPU computing into 6G networks digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWlNaENDcTZTaDhOb2tfOTNUbGFxa2NLZm1NSXVPaVNfa1VpU2Z0RmZCdVFTSnZHd0JsUHcyUTE4TDZHamdraHJRbXVIY05hX3owMlBBSzhhaC1pM1RtMDRKeUx2alVJVGRKb0FLemNqU0h0eERiam5wa3E4UzhjaWxDa083SDZBZHc?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T00:05:24+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "V5 July revenue reaches NT$273 million on AI chip demand, packaging expansion - digitimes",
+      "what_happened": "V5 July revenue reaches NT$273 million on AI chip demand, packaging expansion digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFcyYl9FNTRxaU8ydlIwU24tMk1GcVgzdjlZN2Z1bHBobnpDNkhnOUZqT1k3TlVzTll2RldCQjVIeGhNbEVWajZ6ZVI5ZDA2elRFazYxWWZ5WnZsZzl2LWQ2WXA3TVgwZ3VUdzBrTUh0TEdXcFZralRxb3JUbm9fcXdSaGZRX2Zidmw3amxxVXZpM2g4?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T23:56:34+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Alibaba\u2019s latest AI model puts it back in the great game - Financial Times",
+      "what_happened": "Alibaba\u2019s latest AI model puts it back in the great game Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeUtoZ0x3NVNLSEZsYVFjc0poMlJ2NmN1UGJWR2FicFFhX2ZMMGowYWtUSUNFbjg0dzVubXdmbUNkYkJIaldJdDZPU3JhWDFjVXBPaDdUanBpWHdhR3VvUERkdEhvbTJtUkh4SUNoSF9pX0FYcGFkRlJMUm5Lak5tUWlkZm8?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T23:00:03+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Ultra is still the best foldable, but it's not a big upgrade - Mashable",
+      "what_happened": "Samsung Galaxy Z Fold 8 Ultra is still the best foldable, but it's not a big upgrade Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90RFF1R0F1dW9qdnNfR3RSSGVscG5DNHB2NFUxSlF3V3l3S25tcDkxd1Rud1hmalB4aEdtMW12ZGd0WEx1Y1I4WXpOakZNTHc3UVlKSkVDMElJM1ZpSjF0OFBQV3B5Zw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T20:44:40+00:00",
+      "age_hours": 3.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "iPhone 20: Rumor has it Apple is prepping a radical redesign - Mashable",
+      "what_happened": "iPhone 20: Rumor has it Apple is prepping a radical redesign Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPcFZKTDY5Ync0Zk5Uc3BlNGVGNTdtcG1BTTRtY25jZkU1V081REczbmtKTmxtbWNXVDVBTlctTXVlLUhydHlxWEdfZnNlT0RUZ2VNSzBNcWkwT0ZBbmZqRGUzYzZ6blRMWDlKSkZ6cHRJelBLdUE?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-06T19:55:04+00:00",
+      "age_hours": 4.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "A guide to slash commands in the GitHub Copilot app",
+      "what_happened": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-06T19:49:34+00:00",
+      "age_hours": 4.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "How we took malware advisories beyond npm",
+      "what_happened": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-06T16:51:12+00:00",
+      "age_hours": 7.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Best Apple Watch deal: Save $100 on Apple Watch Series 11 - Mashable",
       "what_happened": "Best Apple Watch deal: Save $100 on Apple Watch Series 11 Mashable",
@@ -252,83 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-05T14:13:43+00:00",
       "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "ByteDance\u2019s Founder Rules Out Distillation on AI Models - The Information",
-      "what_happened": "ByteDance\u2019s Founder Rules Out Distillation on AI Models The Information",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUVJ4WkRtM0o4OURVSkd5OE1qOUU1YTdDZkphYW82dEVNbjRwR2tyQ2ZtQmJfX29VZkRZRFFRWVlzSC1UdWJPbWlyRTMyVEQ3WXdfSDZBRzNUM3M1MkxrWlp0ZjRjMGdNZ3BFY0c2Z1diMTllUXNSZm5qdkJlSlZwNVNnY1c1ak81Tk5tVHVMLUE?oc=5",
-      "source_name": "The Information",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T13:19:00+00:00",
-      "age_hours": 5.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung, SK Hynix pledge stronger shareholder returns - Reuters",
-      "what_happened": "Samsung, SK Hynix pledge stronger shareholder returns Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUN6LWpaTWZfUS1qcWc4dHBDbHlvb2xsS2RkZ3Z4Yi1udU4wNFVFVkxrUTZwanlaNVFPUnJlQjktcjIzUlZ3alRHTnB1TkcyelhVLTNxZjh0bzM3U3BEM3VNVXZyWGhLcDJUYXE5cThWVDdic3ZzV1cwNzlCNlgzVUtnY1RaS1A2dm1MZzE5a2prcXRaYzkzWHRGSXJGY3h6eTRSMVpFdnlFWE0?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T12:19:43+00:00",
-      "age_hours": 2.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic's Mythos created fake identities to fool humans in new cyber incident - CNBC",
-      "what_happened": "Anthropic's Mythos created fake identities to fool humans in new cyber incident CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSnczdkhBOUtXUHZ0a28xaUVDTnlGUmUtWGZaM1M5eVhmaHdrSkFIeHZranFSSXBnbEphbHZpcnBSNk1oSXZYUXJHMmxOeXFsV3NNRWY5YU1iVjdIb3NGVG9aNzhJMHZ6eEN3M1JpaUx2TkFNODhITmlSckZEWlZxQm1JYTB3WjR3dUHSAYoBQVVfeXFMTkp3M3ZIQTlLV1B2dGtvMWlFQ055RlJlLVhmWjNTOXlYZmh3a0pBSHh2a2pxUklwZ2xKYWx2aXJwUjZNaEl2WFFyRzJsTnlxbFdzTUVmOWFNYlY3SG9zRlRvWjc4STB2enhDdzNSaWlMdk5BTTg4SE5pUnJGRFpWcUJtSWEwd1o0d3VB?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T10:18:07+00:00",
-      "age_hours": 2.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Why Nvidia bankrolls its rivals - Axios",
-      "what_happened": "Why Nvidia bankrolls its rivals Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13c2dSempucWRoNlpSa1JKVVFTR1RFRkw3Y3lyQ3BIQUZMZ2lhUTQybkZHdFBuLS1fMmdhWThMQlMydVpkUks3N3ptV0p0dHc4X0Jsc2dWNVoxallGaGxTdmNEelN2Zjhfb1o0?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T09:43:06+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "S&P 500, Dow futures inch up as MidEast hopes offset SpaceX, AMD drag - Reuters",
-      "what_happened": "S&P 500, Dow futures inch up as MidEast hopes offset SpaceX, AMD drag Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T09:33:43+00:00",
-      "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack - BBC",
-      "what_happened": "Anthropic AI created fake profiles and impersonated people in attempted hack BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cW1FRW5ELW1tV0ZySExSZG4zek5yT3BaZVBJMDdBYms0Wk4ySEQ1YjVNVnp6X2RGR29ERG9OakpRQlpRT1JvTXhtZVdMTWVIV1JxUFdUQU9GUQ?oc=5",
-      "source_name": "BBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T09:24:18+00:00",
-      "age_hours": 2.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "AI models shock UK testers by using fake identities to try to trick developers - The Guardian",
-      "what_happened": "AI models shock UK testers by using fake identities to try to trick developers The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3dmZ3FReWJ6X0p4TjQ1dEVrZ0JHd3BKdDl3VjJULW1NVGxCV2pDaktaZHVHQko0WVRoQV9lb2FUSC1RdG1YZVhPRUhQZHlKTGtqZUp0YkQzcHp6ODFfbURCR0M2LWJuUGo1cUd2RXA0Y0tOR1hwNnpvWEJldWVTWEVyV0w0TUtuSGNGT1dEVzRjT1RhQlBkak9wdlhWZnFfU1czNzNqcTk1UmFPRVZlSjNXbTVOLUpmNkZTZE5hNHlMc19u?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T08:40:00+00:00",
-      "age_hours": 27.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
