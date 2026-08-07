@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-07T19:58:53.012575+00:00
+Updated: 2026-08-07T20:57:23.371836+00:00
 Memory window: 48 hours
 
 ## 1. OpenAI puts the brakes on a new model because it’s supposedly too powerful - The Verge
