@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T06:17:50.854544+00:00",
+  "updated_at": "2026-08-07T08:20:23.804426+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-07T08:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,9 +20,53 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-07T08:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Wah Hong speeds AI cooling and semiconductor materials push with Taoyuan pilot line - digitimes",
+      "what_happened": "Wah Hong speeds AI cooling and semiconductor materials push with Taoyuan pilot line digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2JiUW5Kb3ZIUFB4NGF3bHA0eE1WUUtfMks4LURmUDZwYVhTMFd3NFJtX0dDUnB1bVdkLVFPcjhha0dFS2V2UWpGV0RVdUo4SmV3N3NHTUZ5T0J1SHNFbWs0LThWbWp1RndnVl9WNTZqb29nTlk1WGhLLVZOXzVqS1RGaFZVR1hySVRMc1l6UXdmaVB2WFd5V0N3?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T07:49:16+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
+      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T07:36:19+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "South Korea overtakes Japan in H1 exports on AI chip boom - KED Global",
+      "what_happened": "South Korea overtakes Japan in H1 exports on AI chip boom KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZWZEY2wyTzdHdnh2VHZHdGlReW9Qd3VlTjhiM1kzNTBhZzBCYjA5bF9IRFBhaHZiU0pYRHZYTkw1XzM5RHduOXJHMkEzVEFGb3Rpc3lyM3FyTnViS2hVLXQwZDFETWFNNmc?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T07:34:05+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
+      "what_happened": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T07:18:36+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports - Reuters",
@@ -130,7 +174,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 10.5,
+      "age_hours": 12.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -141,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 13.4,
+      "age_hours": 15.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-06T01:30:00+00:00",
       "age_hours": 2.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
-      "what_happened": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T23:07:43+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Galaxy Z series is breaking pre-order records - Mashable",
-      "what_happened": "Samsung Galaxy Z series is breaking pre-order records Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGRzVU5HUkpWQlpMLW41Y210Mlk1TXJlbEstTFh2TDZnSWhjejlZcTk5YjF5TERBdUt5dDAxUWZUVmtLaVp6STg5LU4xRGdLWGxuTVBvQ1h1ZEpCZ08tTFZqMEFobHNNNWoyaTIzdE9GQWlwLUpvbGtnRldMRnB4S2didmt6eW93MnRxOXVB?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T23:07:03+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia no longer an AI 'darling' but still 'critical,' investor says - Reuters",
-      "what_happened": "Nvidia no longer an AI 'darling' but still 'critical,' investor says Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aVWM5YkxYUGR1NzdVNVJ2OGVndEtqeTN4OHdkTFBMX2Y1YjRaNFFhTTRzNDVoT2R4NjZJclYyNkUxaUJieUg2RjNYeTl1d0ZPeExVaHRTVFhtMHhPR0JneHR5NENEamM?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T21:17:58+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
-      "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2VvbDBMR1VoNlhUcG5aZ3ZfaDdkMElsMG11aDE4WWd1RGx5c2JRRTFUcktPamJnUWk4WklEYWpCSHJQaGwxU0kyT19iX1V4UEN2S1VtOHF1Wm5MSVBoY1hmMDQ4elZkelg3UVdhMzVmRWVTb3l1ek9xdlNaYThtSHpXcEw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T20:33:06+00:00",
-      "age_hours": 3.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
