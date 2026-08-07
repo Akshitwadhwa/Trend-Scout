@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-07T20:57:23.371836+00:00",
+  "updated_at": "2026-08-07T21:54:42.162502+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns - WSJ",
+      "what_happened": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T21:17:00+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "OpenAI puts the brakes on a new model because it\u2019s supposedly too powerful - The Verge",
       "what_happened": "OpenAI puts the brakes on a new model because it\u2019s supposedly too powerful The Verge",
@@ -9,7 +20,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-08-07T18:40:34+00:00",
-      "age_hours": 2.3,
+      "age_hours": 3.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-07T17:50:07+00:00",
-      "age_hours": 3.1,
+      "age_hours": 4.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +64,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T17:06:22+00:00",
-      "age_hours": 2.9,
+      "age_hours": 4.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +108,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T15:38:37+00:00",
-      "age_hours": 4.3,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -130,7 +141,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T14:18:30+00:00",
-      "age_hours": 5.7,
+      "age_hours": 7.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-06T23:00:03+00:00",
       "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 Ultra is still the best foldable, but it's not a big upgrade - Mashable",
-      "what_happened": "Samsung Galaxy Z Fold 8 Ultra is still the best foldable, but it's not a big upgrade Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90RFF1R0F1dW9qdnNfR3RSSGVscG5DNHB2NFUxSlF3V3l3S25tcDkxd1Rud1hmalB4aEdtMW12ZGd0WEx1Y1I4WXpOakZNTHc3UVlKSkVDMElJM1ZpSjF0OFBQV3B5Zw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T20:44:40+00:00",
-      "age_hours": 3.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
