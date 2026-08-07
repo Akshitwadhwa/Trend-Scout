@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:08:22.454189+00:00",
+  "updated_at": "2026-08-07T16:08:15.616349+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-07T14:38:25+00:00",
-      "age_hours": 0.5,
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,18 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-07T14:28:31+00:00",
-      "age_hours": 0.7,
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Best Apple deal: Save $59.01 on AirPods Pro 3 - Mashable",
+      "what_happened": "Best Apple deal: Save $59.01 on AirPods Pro 3 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zS1U2blFGSVlmNXNGakJNcXNSWXdkRld3QmJFOTlKc1lMSzMxSXU4Y1VURXFCWDNtTFhrOVFnVGZIYzA1Z2J5VDVlb0IyVk53R1hpekVVRUIxSWFzQmRab1pVek9DWGs?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T14:18:30+00:00",
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-08-07T14:18:26+00:00",
-      "age_hours": 0.8,
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -53,7 +64,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T13:05:49+00:00",
-      "age_hours": 2.0,
+      "age_hours": 3.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +75,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T12:48:17+00:00",
-      "age_hours": 2.3,
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -251,7 +262,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 19.3,
+      "age_hours": 20.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -262,7 +273,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 22.3,
+      "age_hours": 23.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Mark Zuckerberg launches Muse Code AI, says it can do all software engineering tasks - India Today",
-      "what_happened": "Mark Zuckerberg launches Muse Code AI, says it can do all software engineering tasks India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLWdyM1JFcEFxN0VRUF9VQjdvTkJLTGpaU2dEY1NKMm1yQ2kxMWRySi1TMWRMYU1zREJ2VHJCMDdhY1VCMlZNZG5hdmVQM01ZY21rWXJKb3VLQzVoOXRIMWhKUmJYemZLSkQ2Z3dmbVktV2lSWXFUbktGMnR4U254QVFpQ09TWjRsMDRRMzl6b2ZPUW92LUktUGxKeUhWZVpKX3VFYjgtQnhFT1ZaSThpeG5HTEV0ZHlyc2lRTkt30gG-AUFVX3lxTE4tZ3IzUkVwQXE3RVFQX1VCN29OQktMalpTZ0RjU0oybXJDaTExZHJKLVMxZExhTXNEQnZUckIwN2FjVUIyVk1kbmF2ZVAzTVljbWtZckpvdUtDNWg5dEgxaEpSYlh6ZktKRDZnd2ZtWS1XaVJZcVRuS0YydHhTbnhBUWlDT1NaNGwwNFEzOXpvZk9Rb3YtSS1QbEp5SFZlWkpfdUViOC1CeEVPVlpJOGl4bkdMRXRkeXJzaVFOS3c?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T07:00:18+00:00",
-      "age_hours": 2.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
