@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-07T11:55:57.624605+00:00",
+  "updated_at": "2026-08-07T13:37:31.569159+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "South Korea overtakes Japan in H1 exports on AI chip boom - KED Global",
+      "what_happened": "South Korea overtakes Japan in H1 exports on AI chip boom KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZWZEY2wyTzdHdnh2VHZHdGlReW9Qd3VlTjhiM1kzNTBhZzBCYjA5bF9IRFBhaHZiU0pYRHZYTkw1XzM5RHduOXJHMkEzVEFGb3Rpc3lyM3FyTnViS2hVLXQwZDFETWFNNmc?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T13:34:05+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
+      "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2VvbDBMR1VoNlhUcG5aZ3ZfaDdkMElsMG11aDE4WWd1RGx5c2JRRTFUcktPamJnUWk4WklEYWpCSHJQaGwxU0kyT19iX1V4UEN2S1VtOHF1Wm5MSVBoY1hmMDQ4elZkelg3UVdhMzVmRWVTb3l1ek9xdlNaYThtSHpXcEw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T11:52:45+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom - South China Morning Post",
       "what_happened": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom South China Morning Post",
@@ -20,7 +42,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-08-07T11:00:00+00:00",
-      "age_hours": 0.9,
+      "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -76,17 +98,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T07:36:19+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "South Korea overtakes Japan in H1 exports on AI chip boom - KED Global",
-      "what_happened": "South Korea overtakes Japan in H1 exports on AI chip boom KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZWZEY2wyTzdHdnh2VHZHdGlReW9Qd3VlTjhiM1kzNTBhZzBCYjA5bF9IRFBhaHZiU0pYRHZYTkw1XzM5RHduOXJHMkEzVEFGb3Rpc3lyM3FyTnViS2hVLXQwZDFETWFNNmc?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T07:34:05+00:00",
-      "age_hours": 0.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -207,7 +218,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 16.1,
+      "age_hours": 17.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -218,7 +229,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 19.1,
+      "age_hours": 20.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-06T04:04:19+00:00",
       "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Chunghwa Precision Test posts record July revenue on AI chip demand - digitimes",
-      "what_happened": "Chunghwa Precision Test posts record July revenue on AI chip demand digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHRMV2d1NEFZcWVQemVMdTJPYVFyYUJTb0lNcmRhQ3dKUldPSk5rTjZPUlRBYldXSE5NVWtvSDJOSzB6T1BBQWpMbVlRaFFmMnI2TTdEWVh4VlZKdnNIc0ZUSjhlRDE0OEhUVlgtdjFORjRGa2pGRGsyVDZYODFnYmRIc3dYMWY4a3h3?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T03:00:00+00:00",
-      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
