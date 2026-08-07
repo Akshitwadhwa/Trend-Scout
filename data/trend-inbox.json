@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-07T13:37:31.569159+00:00",
+  "updated_at": "2026-08-07T15:08:22.454189+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
+      "what_happened": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T14:38:25+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say - TechCrunch",
+      "what_happened": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2NpajBveEZEMlMxOS1TVjlwaDZJYmVmWU1EZnZHbTJBaHZWbkxYdG44aF92TkZ3MW9RUlM2dWlFTFMtTGZXb1R1a0oydzE0YU81WHh4S1pHd3JOaDd5OW5BT1Y4VWItaVBZekVYcFM2T2dMNWlBSjU0eGpnaXJOeDE0bkJSNDFKaVhmdFE5WFMzVEZYWG1BWGJmc1FENl9haTFBdTVFNVRzRVNzS0ZsNUtyQ1ZvdjFWbmc?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T14:28:31+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "See what 5 builders are making with Gemini Omni - blog.google",
+      "what_happened": "See what 5 builders are making with Gemini Omni blog.google",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFllWnRiM0M0S0FNWlVDcElWNnpGdnFMUERkOVVMSHpfWnFMbU4ta1Q3bGhIbUFITFRWdTZnMWVDVzU2anh0OUU5LWIxSDlUWFhOeGIyMGt3cDVYeTNZQzJURUlwc2hldEY0SHFpcU5mZkNnd3hyaVNNNVVhOTFpYTJRU1c2dkhXVG1ESnhjMmY4WGlmV0VMeQ?oc=5",
+      "source_name": "blog.google",
+      "source_level": "primary",
+      "published_at": "2026-08-07T14:18:26+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "South Korea overtakes Japan in H1 exports on AI chip boom - KED Global",
       "what_happened": "South Korea overtakes Japan in H1 exports on AI chip boom KED Global",
@@ -14,13 +47,35 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Apple AirPods with cameras could arrive in weeks. What we know. - Mashable",
+      "what_happened": "Apple AirPods with cameras could arrive in weeks. What we know. Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50U0E1V2pKeFc5MnFCSTdzeDRUcGQxMHJxNVRqYW43bjYyaHE3S1dtUlFtLU9mUjdwOTE5em5uQ2xKNFZJQXBQWnVkUF8tVzdVTGNqZW9QZVJqLWJWdF9VUzg2NkQta2dNRkJJdk81SlJnZDhJWTdlU2E5aw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T13:05:49+00:00",
+      "age_hours": 2.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
+      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T12:48:17+00:00",
+      "age_hours": 2.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Using the Apple Upgrade program locks you into the big three mobile providers - Mashable",
       "what_happened": "Using the Apple Upgrade program locks you into the big three mobile providers Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX2VvbDBMR1VoNlhUcG5aZ3ZfaDdkMElsMG11aDE4WWd1RGx5c2JRRTFUcktPamJnUWk4WklEYWpCSHJQaGwxU0kyT19iX1V4UEN2S1VtOHF1Wm5MSVBoY1hmMDQ4elZkelg3UVdhMzVmRWVTb3l1ek9xdlNaYThtSHpXcEw?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T11:52:45+00:00",
-      "age_hours": 1.7,
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -43,17 +98,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T11:00:00+00:00",
       "age_hours": 2.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
-      "what_happened": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T08:48:13+00:00",
-      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -87,17 +131,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T07:49:16+00:00",
       "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
-      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T07:36:19+00:00",
-      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -218,7 +251,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 17.8,
+      "age_hours": 19.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -229,7 +262,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 20.8,
+      "age_hours": 22.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-06T07:00:18+00:00",
       "age_hours": 2.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "US polysilicon tariff exposes chip security's solar dependence - digitimes",
-      "what_happened": "US polysilicon tariff exposes chip security's solar dependence digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGFjTGc1VWVMUzROOU5QcGtvdHBzSTRGdkJJZ2lTLXh0RVoxN1ZFOGFmaERKeGY0VDZLdVJlQXhWR0FqWnAwUnEzcF92WTYybk5zeXR4RDFXYlRwdUFXOEVDX0UzQ3NwQURkS1pqLVlBZ1c2NmQtVEd0dlB4eXVuRmltWTVvOGxwTld4LWNXUUk4c1FB?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T06:00:49+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI says rogue AI agents talked to each other in secret, plans to slow down AI research for safety - India Today",
-      "what_happened": "OpenAI says rogue AI agents talked to each other in secret, plans to slow down AI research for safety India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSGN3aURoaW1OWmE0UEdaUG5SMDlsUlhncDBRMENRZkJ0MVhUS1Y2a01UV3NQTnhVQW5YOEhnVW1fR0dLcU5iYzlTZWc4cE9xODZqaW0zNVBHMDh4dGl1MXBUVG54MnpsQXhTUkpFOW1WRmtwRU9OMDRzOVQ2VUdMUDdTRTV0eEZoUHQ5eDVkRGFPVjFfRHZ6akVPWEVJcTVQcjJnVjRFLXRzTkJwUDlET2h3X0JGNERCODJvRk8zOVBDa242OFY4ZUI5MzAzbzJ1QmdkU3YwVTd1SWR4WS1oRmptR1ZqaWlTOUk2YmxOY0NfZ1hMdWdWZ0NRMm9XOW910gGAAkFVX3lxTFBIY3dpRGhpbU5aYTRQR1pQblIwOWxSWGdwMFEwQ1FmQnQxWFRLVjZrTVRXc1BOeFVBblg4SGdVbV9HR0txTmJjOVNlZzhwT3E4NmppbTM1UEcwOHh0aXUxcFRUbngyemxBeFNSSkU5bVZGa3BFT04wNHM5VDZVR0xQN1NFNXR4RmhQdDl4NWREYU9WMV9EdnpqRU9YRUlxNVByMmdWNEUtdHNOQnBQOURPaHdfQkY0REI4Mm9GTzM5UENrbjY4VjhlQjkzMDNvMnVCZ2RTdjBVN3VJZHhZLWhGam1HVmppaVM5STZibE5jQ19nWEx1Z1ZnQ1Eyb1c5b3U?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T04:10:28+00:00",
-      "age_hours": 2.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple pulls Telegram from app store, gets a snarky response - Mashable",
-      "what_happened": "Apple pulls Telegram from app store, gets a snarky response Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ITHRYTlhSY1NhQ3pNZFY3SFFpekVXako5OGdqbjU3TFgwRUxZWlNIQjE0UFpGc1VxdVUzOFJ6R1l0OW5EaUpNb2Jyc3NKbklvREp3OVlmenNKMmNtbk5iQUU1X2xzbkE?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T04:04:19+00:00",
-      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
