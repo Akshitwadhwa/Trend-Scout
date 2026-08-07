@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-07T19:13:50.312196+00:00
+Updated: 2026-08-07T19:58:53.012575+00:00
 Memory window: 48 hours
 
 ## 1. OpenAI puts the brakes on a new model because it’s supposedly too powerful - The Verge
@@ -17,17 +17,17 @@ URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWHlLdUlSM2tJZlE2MzI4NH
 
 Best SSD deal: The Samsung internal SSD 990 is 30% off Mashable
 
-## 3. Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios
-Source: Axios (reputable)
-URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5
-
-Exclusive: OpenAI slows release of Astra model citing cyber capabilities Axios
-
-## 4. OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters
+## 3. OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters
 Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5
 
 OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls Reuters
+
+## 4. Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios
+Source: Axios (reputable)
+URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5
+
+Exclusive: OpenAI slows release of Astra model citing cyber capabilities Axios
 
 ## 5. Save $70 on this Anker 3-in-1 charging station for all your Apple devices - Mashable
 Source: Mashable (reputable)

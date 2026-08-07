@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T19:13:50.312196+00:00",
+  "updated_at": "2026-08-07T19:58:53.012575+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-08-07T18:40:34+00:00",
-      "age_hours": 0.6,
+      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -25,24 +25,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
-      "what_happened": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T17:54:45+00:00",
-      "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
       "what_happened": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-07T17:50:07+00:00",
-      "age_hours": 1.4,
+      "age_hours": 2.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
+      "what_happened": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T17:44:56+00:00",
+      "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +53,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T17:06:22+00:00",
-      "age_hours": 2.1,
+      "age_hours": 2.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +97,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T15:38:37+00:00",
-      "age_hours": 3.6,
+      "age_hours": 4.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -130,7 +130,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T14:18:30+00:00",
-      "age_hours": 3.7,
+      "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
