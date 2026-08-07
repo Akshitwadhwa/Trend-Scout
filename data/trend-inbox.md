@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-07T22:54:28.947771+00:00
+Updated: 2026-08-07T23:47:21.017878+00:00
 Memory window: 48 hours
 
 ## 1. OpenAI says it slowed Astra model development over security concerns - TechCrunch
