@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-07T08:20:23.804426+00:00",
+  "updated_at": "2026-08-07T10:09:22.935048+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
+      "what_happened": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T08:48:13+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "[Interview] From Stage to Screen: Samsung TV Plus and Eclipsa Audio Usher in a New Era of Home Entertainment",
       "what_happened": "What if a TV could recreate the atmosphere of a live performance? Eclipsa Audio, a 3D audio technology jointly developed by Samsung Electronics and Google, makes that possible. Built on the open 3D audio standard, Immersive Audio Model and Formats (IAMF), Eclipsa Audio optimizes the spatial positioning of sound for playback devices such as TVs [\u2026]",
@@ -174,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 12.5,
+      "age_hours": 14.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -185,7 +196,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 15.5,
+      "age_hours": 17.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-06T02:43:54+00:00",
       "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "AI models have been going rogue in tests \u2013 how worried should we be? - The Guardian",
-      "what_happened": "AI models have been going rogue in tests \u2013 how worried should we be? The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOUJWRDNOdmNreGYwZFdIRUctd3J1djdvUVNNdE5uNGJRaldUYmR6UWdmNTFTSVQ0eHZ4WXpzb21OczRUaUJXZ1NoWVNsZUM3MFVBMWNYblBzcmtFS2ozSEcyeHZYMS1IUjA2YzZ5VW43THdVZHlGZ29TRDJXZFBWUXI0M0RYbm1WaHN3UmNMd3l2dEJYdzRaYnVyd19KY3l2RTl6dWNoLUthSUZxbWVPUl85eUhpZmM?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T01:30:00+00:00",
-      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
