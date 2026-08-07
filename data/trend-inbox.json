@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-07T11:05:58.740290+00:00",
+  "updated_at": "2026-08-07T11:55:57.624605+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom - South China Morning Post",
+      "what_happened": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWFuR1BxU0J6UHp4OVRTcS11anRIb2NBTVNBSG5PWnVHdTBjQTdhWkxxN1BjcEFFM1BGTkp3enFjckNGU1g0blVkdm0zQzdHYXplSDJDSkkxRWdjbmp5Z0xqU0FKMVBSR0dMR1FGVmI3RTd4a3E2MlkwMlVmc242ZlpxU2RfclFXc2xWUHhrVnVHaHlWbXJPWnhtX1BzTDk1QzZpM1VrclRpSThNMXJiRUxvd0I2dFU2Qy1vYmgzelMwVnh2dE1zYklISFDSAcwBQVVfeXFMTkRNdXAzUy03TVhRTWw3MmpfSGtEZ0htWW00MWltWmFyTkd4WnBhNkFfeTRmckk5Ukx3cjV5alN5YWxmTkNMb0pGRVdfVEtjbkpHZzdpd2dpdjVxNW9KZUszX2dRM2hSbjNiSzhyRkpsYW9qYTBkTnpaOUZ2aUNtbFg0N0szZHJySFNneGJacjlsNUhYM09Qc3Q1SVFibnZzSDl6QzhvdzhTcnJPSzJWYWQ2RWlGN09TMHJFVklEMmtTdEhja1drTWlRbUxO?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T11:30:07+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Why does Apple keep banning Telegram, but never X? - The Verge",
       "what_happened": "Why does Apple keep banning Telegram, but never X? The Verge",
@@ -9,7 +20,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-08-07T11:00:00+00:00",
-      "age_hours": 0.1,
+      "age_hours": 0.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -196,7 +207,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 15.3,
+      "age_hours": 16.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -207,7 +218,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 18.2,
+      "age_hours": 19.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -317,17 +328,6 @@
       "source_name": "digitimes",
       "source_level": "reputable",
       "published_at": "2026-08-06T03:00:00+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic builds in-house chip design team, signaling AI firms' turn to custom silicon - digitimes",
-      "what_happened": "Anthropic builds in-house chip design team, signaling AI firms' turn to custom silicon digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdDVFcGFYU1VFTVVJQ1l1NmIzaWZQZTZyU2tzaWJVMmJlVzEtS0lGVFpkeWhELWNubUE5X1NUS29BMlFCbjVMcUpuSXFzbDdkZEVXRHZCTk45VTJtS1J2SWNWUkFORExIYWJOdGZTbV9kbDRZeFpRaG5TbkRiNy12Ylo2c1lrWHVEX0tKdXhJZE8wQQ?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T02:55:33+00:00",
       "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
