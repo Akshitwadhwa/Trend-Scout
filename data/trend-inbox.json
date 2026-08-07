@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-07T10:09:22.935048+00:00",
+  "updated_at": "2026-08-07T11:05:58.740290+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Why does Apple keep banning Telegram, but never X? - The Verge",
+      "what_happened": "Why does Apple keep banning Telegram, but never X? The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDdtLVVmZVVzNEZHRGxfRTBkT042cjV6eGFyWkd2SzNkZHpmYnpHM2g2YVpOY3VMSUZHeS15SkRjMG1zNC0wWWVPWGVOTnBMbS1kbER3UmllcDJSYjBYWlZSNnVlUUh3dlFOaVRQT1BTandKWE84TFl0UEp1ZE1LdUw3R3Q?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T11:00:00+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
       "what_happened": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say Reuters",
@@ -185,7 +196,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 14.3,
+      "age_hours": 15.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -196,7 +207,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 17.3,
+      "age_hours": 18.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-06T02:55:33+00:00",
       "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung pitches 5nm as HBM4, Nvidia orders push 4nm lines to full capacity - digitimes",
-      "what_happened": "Samsung pitches 5nm as HBM4, Nvidia orders push 4nm lines to full capacity digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdWhMaVRNYzQ2NnE5dmg0aWtDY21PR1JRX3FXbDdQU2pybXA5T0YxTGE5clFCU2ZjSmlZdUE2TDk3MXJCVXNTZEdqTVV2UFM5blVHQzBQaTYyRFNmaHBFX2c0dmJsV2R6aXdlb29XSzZiMDBWZThNbGFXNl8tZ2dkQXBlRVhBWjBucDBHTEZpTQ?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-06T02:43:54+00:00",
-      "age_hours": 0.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
