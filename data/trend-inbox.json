@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-07T00:14:10.769256+00:00",
+  "updated_at": "2026-08-07T03:14:55.739241+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "[Interview] From Stage to Screen: Samsung TV Plus and Eclipsa Audio Usher in a New Era of Home Entertainment",
+      "what_happened": "What if a TV could recreate the atmosphere of a live performance? Eclipsa Audio, a 3D audio technology jointly developed by Samsung Electronics and Google, makes that possible. Built on the open 3D audio standard, Immersive Audio Model and Formats (IAMF), Eclipsa Audio optimizes the spatial positioning of sound for playback devices such as TVs [\u2026]",
+      "source_url": "https://news.samsung.com/global/interview-from-stage-to-screen-samsung-tv-plus-and-eclipsa-audio-usher-in-a-new-era-of-home-entertainment",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-07T08:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "[Video] Smarter Fitness and Everyday Wellness With New Galaxy Watch",
+      "what_happened": "From rugged mountain trails to a restful night\u2019s sleep, wearable devices are making everyday life smarter. Samsung Electronics\u2019 new Galaxy Watch Ultra2 and Galaxy Watch9 support healthier lifestyles with advanced fitness tracking and everyday wellness features. Galaxy Watch Ultra2 helps runners maintain their pace in different environments with Trail Run, while Galaxy Watch9 provides personalized [\u2026]",
+      "source_url": "https://news.samsung.com/global/video-smarter-fitness-and-everyday-wellness-with-new-galaxy-watch",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-07T08:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "One of China\u2019s Most Powerful AI Models Has Also Escaped Containment - WIRED",
+      "what_happened": "One of China\u2019s Most Powerful AI Models Has Also Escaped Containment WIRED",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzUHl5MU1HbXJUemVtQWI4MzVQYmtWaUhHU19SMUp3bnFEY1NGaTN0LVpibXhwUTFNamtZMFBuLTNmOFhsN2VMRXRGWU9yMFBLbVlFNkhKVTVNc3JtdXRnY093aDdWaUJhcVhaX2NTQkgxNFhPdWw1SQ?oc=5",
+      "source_name": "WIRED",
+      "source_level": "reputable",
+      "published_at": "2026-08-07T01:16:00+00:00",
+      "age_hours": 2.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Nvidia seeks China AI-RAN partners to bring GPU computing into 6G networks - digitimes",
       "what_happened": "Nvidia seeks China AI-RAN partners to bring GPU computing into 6G networks digitimes",
@@ -64,7 +97,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T19:49:34+00:00",
-      "age_hours": 4.4,
+      "age_hours": 7.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -75,7 +108,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-06T16:51:12+00:00",
-      "age_hours": 7.4,
+      "age_hours": 10.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-05T19:00:17+00:00",
       "age_hours": 8.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "4 of Google\u2019s Top AI Brains Are Leaving\u2014and Launching Their Own AI Startup - WIRED",
-      "what_happened": "4 of Google\u2019s Top AI Brains Are Leaving\u2014and Launching Their Own AI Startup WIRED",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3Z2N1RDJQR21MdHE5UE82NWt5akZEbE1nSWotc0V5SUtiUDRLeUVuVEdabEU3TUUzM3BhaE9tOEc3Z08tcDV6MFAxZG80NkMtN0QtNWJCSm1OVzdkWXFCLTMwR29NeWdkcFFSbzJVaHNib3pyWW00?oc=5",
-      "source_name": "WIRED",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T16:00:00+00:00",
-      "age_hours": 2.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best iPad deal: Get an 11-inch A16 Apple iPad for $399.99 at Amazon - Mashable",
-      "what_happened": "Best iPad deal: Get an 11-inch A16 Apple iPad for $399.99 at Amazon Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rLURnRlVpYmt1OWo5ZEJoUVVVYl9sYU5lOXFNZHV5dEJObkVTNnZRb2VXYmpxWlgtMTE3QXFrWDFXVDI1bGhFc1JabHkzRlNGXzlOcHF0THRnQ1pLR0dF?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T15:19:56+00:00",
-      "age_hours": 3.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "GlobalFoundries tops second quarter estimates on AI chip demand - Reuters",
-      "what_happened": "GlobalFoundries tops second quarter estimates on AI chip demand Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3M2M3BPLXpSSFBXMktMVG5vRlFGcmEwT0FYRzFfV3dHcG1RSU5xTzFNeU5ubkpWZWcwcjRMQmFfWTF1c3NUZEtHU1V6Wl8zakI0Y1lWRk5NSnNROGRFMHdIbGtKRXpDWFMybDU1b2d1Y24wdlBzcDJmU3dERDM3Q3hpemgyTmNnLURjaW1VOVlKX0RfTEZFWTVMTG02RmFHelQ4ODVTUFQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-05T14:13:43+00:00",
-      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
