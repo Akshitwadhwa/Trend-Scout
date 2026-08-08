@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-08T09:53:30.391170+00:00",
+  "updated_at": "2026-08-08T10:49:56.343841+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia - NVIDIA Blog",
+      "what_happened": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia NVIDIA Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFhLSV9ISjJIVzQ4d2IyN0dVTk9RbkJ6T0NtYmtsZUhVeklkRUJnLVhraWdKYWE5eWc5OW9xMWRrdDVvTUxTOTJpX1lVZ0ZhNW5GendIWVpVZnYwQ25NWVFFRGc3cDR3TDNfZjNScmVMbDhnMXg2YkxSc1lXazAzWlc4ejg?oc=5",
+      "source_name": "NVIDIA Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-08T10:29:36+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust - Business Insider",
       "what_happened": "Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust Business Insider",
@@ -124,6 +135,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Copilot impact dashboard adds a return on investment section - github.blog",
+      "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-07T21:05:37+00:00",
+      "age_hours": 13.7,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
       "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
@@ -141,7 +163,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T20:37:20+00:00",
-      "age_hours": 13.3,
+      "age_hours": 14.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T13:05:49+00:00",
       "age_hours": 4.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom - South China Morning Post",
-      "what_happened": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWFuR1BxU0J6UHp4OVRTcS11anRIb2NBTVNBSG5PWnVHdTBjQTdhWkxxN1BjcEFFM1BGTkp3enFjckNGU1g0blVkdm0zQzdHYXplSDJDSkkxRWdjbmp5Z0xqU0FKMVBSR0dMR1FGVmI3RTd4a3E2MlkwMlVmc242ZlpxU2RfclFXc2xWUHhrVnVHaHlWbXJPWnhtX1BzTDk1QzZpM1VrclRpSThNMXJiRUxvd0I2dFU2Qy1vYmgzelMwVnh2dE1zYklISFDSAcwBQVVfeXFMTkRNdXAzUy03TVhRTWw3MmpfSGtEZ0htWW00MWltWmFyTkd4WnBhNkFfeTRmckk5Ukx3cjV5alN5YWxmTkNMb0pGRVdfVEtjbkpHZzdpd2dpdjVxNW9KZUszX2dRM2hSbjNiSzhyRkpsYW9qYTBkTnpaOUZ2aUNtbFg0N0szZHJySFNneGJacjlsNUhYM09Qc3Q1SVFibnZzSDl6QzhvdzhTcnJPSzJWYWQ2RWlGN09TMHJFVklEMmtTdEhja1drTWlRbUxO?oc=5",
-      "source_name": "South China Morning Post",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T11:30:07+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Why does Apple keep banning Telegram, but never X? - The Verge",
-      "what_happened": "Why does Apple keep banning Telegram, but never X? The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDdtLVVmZVVzNEZHRGxfRTBkT042cjV6eGFyWkd2SzNkZHpmYnpHM2g2YVpOY3VMSUZHeS15SkRjMG1zNC0wWWVPWGVOTnBMbS1kbER3UmllcDJSYjBYWlZSNnVlUUh3dlFOaVRQT1BTandKWE84TFl0UEp1ZE1LdUw3R3Q?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T11:00:00+00:00",
-      "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
