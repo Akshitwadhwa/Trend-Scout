@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-08T02:20:21.770055+00:00",
+  "updated_at": "2026-08-08T04:20:09.122506+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea - Mashable",
+      "what_happened": "Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGRzVU5HUkpWQlpMLW41Y210Mlk1TXJlbEstTFh2TDZnSWhjejlZcTk5YjF5TERBdUt5dDAxUWZUVmtLaVp6STg5LU4xRGdLWGxuTVBvQ1h1ZEpCZ08tTFZqMEFobHNNNWoyaTIzdE9GQWlwLUpvbGtnRldMRnB4S2didmt6eW93MnRxOXVB?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T02:48:27+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Thailand looks to Siam Silica to propel it to top Asean semiconductor player - South China Morning Post",
       "what_happened": "Thailand looks to Siam Silica to propel it to top Asean semiconductor player South China Morning Post",
@@ -31,7 +42,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-07T23:12:19+00:00",
-      "age_hours": 3.1,
+      "age_hours": 5.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -75,7 +86,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 5.2,
+      "age_hours": 7.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -86,7 +97,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T20:37:20+00:00",
-      "age_hours": 5.7,
+      "age_hours": 7.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T07:18:36+00:00",
       "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "ByteDance targets mega AI model that could match Mythos scale, FT reports - Reuters",
-      "what_happened": "ByteDance targets mega AI model that could match Mythos scale, FT reports Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY191Y2FEemJtMWI3NGhTYXBXTUEtQnZiWE9lTG1CVWhaWnc3aUVuZC1sTXNkdXc4eFRtSExvaS1UaUFqYi10X1VLZzN3cXF0N0JXeHYtY1p0QXJQLVlCTlV5LVpPYjQzUGpmbTg2ZzI4a29MMi1FeWl0LVlmRW9ObkpHVlBCNjUtRHljZWg5NzVTU0l5bURsSFBvWDlnWjNja2FQbWVESGZha29OQjJmZC1YRVczdw?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T05:42:00+00:00",
-      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
