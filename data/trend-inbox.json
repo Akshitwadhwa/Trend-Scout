@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-08T13:55:38.044773+00:00",
+  "updated_at": "2026-08-08T14:48:54.512486+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
+      "what_happened": "Apple says Mac users in China can connect to Alibaba's Qwen AI service Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T12:35:45+00:00",
+      "age_hours": 2.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia - NVIDIA Blog",
       "what_happened": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia NVIDIA Blog",
@@ -157,6 +168,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
+      "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-07T21:05:37+00:00",
+      "age_hours": 17.7,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Copilot impact dashboard adds a return on investment section - github.blog",
       "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
@@ -164,17 +186,6 @@
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
       "age_hours": 16.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
-      "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 14.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 7.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "See what 5 builders are making with Gemini Omni - blog.google",
-      "what_happened": "See what 5 builders are making with Gemini Omni blog.google",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFllWnRiM0M0S0FNWlVDcElWNnpGdnFMUERkOVVMSHpfWnFMbU4ta1Q3bGhIbUFITFRWdTZnMWVDVzU2anh0OUU5LWIxSDlUWFhOeGIyMGt3cDVYeTNZQzJURUlwc2hldEY0SHFpcU5mZkNnd3hyaVNNNVVhOTFpYTJRU1c2dkhXVG1ESnhjMmY4WGlmV0VMeQ?oc=5",
-      "source_name": "blog.google",
-      "source_level": "primary",
-      "published_at": "2026-08-07T14:18:26+00:00",
-      "age_hours": 1.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
