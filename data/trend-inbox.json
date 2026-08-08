@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-08T22:45:05.099502+00:00",
+  "updated_at": "2026-08-08T23:43:47.900495+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia - NVIDIA Blog",
+      "what_happened": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia NVIDIA Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFhLSV9ISjJIVzQ4d2IyN0dVTk9RbkJ6T0NtYmtsZUhVeklkRUJnLVhraWdKYWE5eWc5OW9xMWRrdDVvTUxTOTJpX1lVZ0ZhNW5GendIWVpVZnYwQ25NWVFFRGc3cDR3TDNfZjNScmVMbDhnMXg2YkxSc1lXazAzWlc4ejg?oc=5",
+      "source_name": "NVIDIA Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-08T23:26:15+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle \u2014 retailers hold GPUs hostage similar to the crypto boom - Tom's Hardware",
       "what_happened": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle \u2014 retailers hold GPUs hostage similar to the crypto boom Tom's Hardware",
@@ -31,7 +42,7 @@
       "source_name": "The Guardian",
       "source_level": "reputable",
       "published_at": "2026-08-08T16:51:00+00:00",
-      "age_hours": 5.9,
+      "age_hours": 6.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +75,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-08T13:39:47+00:00",
-      "age_hours": 9.1,
+      "age_hours": 10.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -89,17 +100,6 @@
       "age_hours": 9.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia - NVIDIA Blog",
-      "what_happened": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia NVIDIA Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFhLSV9ISjJIVzQ4d2IyN0dVTk9RbkJ6T0NtYmtsZUhVeklkRUJnLVhraWdKYWE5eWc5OW9xMWRrdDVvTUxTOTJpX1lVZ0ZhNW5GendIWVpVZnYwQ25NWVFFRGc3cDR3TDNfZjNScmVMbDhnMXg2YkxSc1lXazAzWlc4ejg?oc=5",
-      "source_name": "NVIDIA Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-08T10:29:36+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust - Business Insider",
@@ -240,7 +240,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 25.7,
+      "age_hours": 26.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },

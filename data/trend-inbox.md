@@ -2,62 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-08T22:45:05.099502+00:00
+Updated: 2026-08-08T23:43:47.900495+00:00
 Memory window: 48 hours
 
-## 1. Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom - Tom's Hardware
+## 1. Firebird Launches CIS Region’s Largest AI Factory in Armenia - NVIDIA Blog
+Source: NVIDIA Blog (primary)
+URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFhLSV9ISjJIVzQ4d2IyN0dVTk9RbkJ6T0NtYmtsZUhVeklkRUJnLVhraWdKYWE5eWc5OW9xMWRrdDVvTUxTOTJpX1lVZ0ZhNW5GendIWVpVZnYwQ25NWVFFRGc3cDR3TDNfZjNScmVMbDhnMXg2YkxSc1lXazAzWlc4ejg?oc=5
+
+Firebird Launches CIS Region’s Largest AI Factory in Armenia NVIDIA Blog
+
+## 2. Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom - Tom's Hardware
 Source: Tom's Hardware (reputable)
 URL: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd1NLZmM5OGZLdk9qZXpqRnRjLXFLTjNVUkpEeUFDUUtRLXdwUFJtTWx2aW8xRFh4Q0dqSmVFd1daNDhRaTV3NzVNdEVoMnlpeTZabFI1Mk1lRWw5R0dPU05PdVFUWURkX180Ym80MmZqenNzbjR2VEFCOXVKNHlhU1JaLWhmUnRWZ3p6ZHpBU0ZpU1Z1WXkwbDMxck5Mcy0wSHdGakp3WUFYTldrRTdHZGJsQ1ZZNXEyc1JUeFhOVDNzcDh3UW5rM1BpWXRlSjFUTjREamRHdGo3M0EyNzNHbTRoRGNLR0dKUE5VZA?oc=5
 
 Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom Tom's Hardware
 
-## 2. Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable
+## 3. Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5
 
 Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code Mashable
 
-## 3. OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian
+## 4. OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian
 Source: The Guardian (reputable)
 URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5
 
 OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) The Guardian
 
-## 4. OpenAI to pause some work on AI model Astra due to security concerns - The Guardian
+## 5. OpenAI to pause some work on AI model Astra due to security concerns - The Guardian
 Source: The Guardian (reputable)
 URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5
 
 OpenAI to pause some work on AI model Astra due to security concerns The Guardian
 
-## 5. OpenAI to pause work on AI model Astra due to security concerns - The Guardian
+## 6. OpenAI to pause work on AI model Astra due to security concerns - The Guardian
 Source: The Guardian (reputable)
 URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5
 
 OpenAI to pause work on AI model Astra due to security concerns The Guardian
 
-## 6. OpenAI Astra: The mysterious new quantum math-solving model - Mashable
+## 7. OpenAI Astra: The mysterious new quantum math-solving model - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdDNjX3BqbW52dzB3X0hCU0NqUEFfR0F4ZEtvVVF3UW1NNWw3dG1JWWRCS1VJUnlIZWF4a2hvb25SQncwa0N4TzN2WWQ5UFVXQllQaE1FcVZqT1JjVWdCbTJ0Wm9mNjJJUEotSnBpTUwtTFk?oc=5
 
 OpenAI Astra: The mysterious new quantum math-solving model Mashable
 
-## 7. Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios
+## 8. Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios
 Source: Axios (reputable)
 URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5
 
 Exclusive: OpenAI slows release of Astra model citing cyber capabilities Axios
 
-## 8. Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters
+## 9. Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters
 Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5
 
 Apple says Mac users in China can connect to Alibaba's Qwen AI service Reuters
-
-## 9. Firebird Launches CIS Region’s Largest AI Factory in Armenia - NVIDIA Blog
-Source: NVIDIA Blog (primary)
-URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFhLSV9ISjJIVzQ4d2IyN0dVTk9RbkJ6T0NtYmtsZUhVeklkRUJnLVhraWdKYWE5eWc5OW9xMWRrdDVvTUxTOTJpX1lVZ0ZhNW5GendIWVpVZnYwQ25NWVFFRGc3cDR3TDNfZjNScmVMbDhnMXg2YkxSc1lXazAzWlc4ejg?oc=5
-
-Firebird Launches CIS Region’s Largest AI Factory in Armenia NVIDIA Blog
 
 ## 10. Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust - Business Insider
 Source: Business Insider (reputable)
