@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T13:11:08.265605+00:00",
+  "updated_at": "2026-08-08T13:55:38.044773+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -21,6 +21,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T09:37:15+00:00",
       "age_hours": 3.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable",
+      "what_happened": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T09:00:00+00:00",
+      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -152,7 +163,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 16.1,
+      "age_hours": 16.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -185,7 +196,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T20:13:57+00:00",
-      "age_hours": 15.5,
+      "age_hours": 17.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -320,17 +331,6 @@
       "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "South Korea overtakes Japan in H1 exports on AI chip boom - KED Global",
-      "what_happened": "South Korea overtakes Japan in H1 exports on AI chip boom KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZWZEY2wyTzdHdnh2VHZHdGlReW9Qd3VlTjhiM1kzNTBhZzBCYjA5bF9IRFBhaHZiU0pYRHZYTkw1XzM5RHduOXJHMkEzVEFGb3Rpc3lyM3FyTnViS2hVLXQwZDFETWFNNmc?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T13:34:05+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
