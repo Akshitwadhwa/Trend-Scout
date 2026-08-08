@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T19:43:09.912134+00:00",
+  "updated_at": "2026-08-08T20:47:06.161520+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -20,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-08T16:57:07+00:00",
-      "age_hours": 2.8,
+      "age_hours": 3.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "The Guardian",
       "source_level": "reputable",
       "published_at": "2026-08-08T16:51:00+00:00",
-      "age_hours": 2.9,
+      "age_hours": 3.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -47,13 +47,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
+      "what_happened": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T12:56:32+00:00",
+      "age_hours": 7.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
       "what_happened": "Apple says Mac users in China can connect to Alibaba's Qwen AI service Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-08T12:35:45+00:00",
-      "age_hours": 7.1,
+      "age_hours": 8.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -207,7 +218,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 22.6,
+      "age_hours": 23.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -263,17 +274,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T18:09:55+00:00",
       "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
-      "what_happened": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T17:44:56+00:00",
-      "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
