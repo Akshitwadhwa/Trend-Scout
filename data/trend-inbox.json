@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:40:58.987543+00:00",
+  "updated_at": "2026-08-08T13:11:08.265605+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -19,8 +19,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmFISm0zVkhsQzhCelFtMnlyd21URzBZOXJfNnNhLWxzS24zeldnUnB5bjMwMFc3Ul9qbU1XVTc0ai0waUFOLWhIeTMtREhZUnVtTEZlYkVCZWpLSFY3VFN3SjM1ZmtnUnE3YldkdDdpaEtqUy1fZUllZTYzMkM5Sjc4OHp6UXFEM1R6VzJNc0RJRFB4ZHlubVV3Zw?oc=5",
       "source_name": "Business Insider",
       "source_level": "reputable",
-      "published_at": "2026-08-08T09:36:21+00:00",
-      "age_hours": 0.3,
+      "published_at": "2026-08-08T09:37:15+00:00",
+      "age_hours": 3.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -75,7 +75,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-08T02:17:49+00:00",
-      "age_hours": 9.4,
+      "age_hours": 10.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -146,6 +146,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Copilot impact dashboard adds a return on investment section - github.blog",
+      "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-07T21:05:37+00:00",
+      "age_hours": 16.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
       "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
@@ -153,17 +164,6 @@
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
       "age_hours": 14.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Copilot impact dashboard adds a return on investment section - github.blog",
-      "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 13.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },

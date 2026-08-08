@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-08T11:40:58.987543+00:00
+Updated: 2026-08-08T13:11:08.265605+00:00
 Memory window: 48 hours
 
 ## 1. Firebird Launches CIS Region’s Largest AI Factory in Armenia - NVIDIA Blog
@@ -83,17 +83,17 @@ URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZT
 
 OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns WSJ
 
-## 14. Copilot impact dashboard adds a return on investment section - The GitHub Blog
-Source: The GitHub Blog (primary)
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5
-
-Copilot impact dashboard adds a return on investment section The GitHub Blog
-
-## 15. Copilot impact dashboard adds a return on investment section - github.blog
+## 14. Copilot impact dashboard adds a return on investment section - github.blog
 Source: github.blog (primary)
 URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5
 
 Copilot impact dashboard adds a return on investment section github.blog
+
+## 15. Copilot impact dashboard adds a return on investment section - The GitHub Blog
+Source: The GitHub Blog (primary)
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5
+
+Copilot impact dashboard adds a return on investment section The GitHub Blog
 
 ## 16. Using the Apple Upgrade program locks you into the big three mobile providers - Mashable
 Source: Mashable (reputable)
