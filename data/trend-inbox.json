@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-08T07:12:59.880865+00:00",
+  "updated_at": "2026-08-08T07:58:38.879694+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Sam Altman says Astra model is so powerful, OpenAI can't launch it now - India Today",
+      "what_happened": "Sam Altman says Astra model is so powerful, OpenAI can't launch it now India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmtHYTd3b0lrT0FWRkg5Q1BqRXZQY2dQQ21sOWZObGZwNkVQX2RWSExKcU9ROG1RcExtSXR6WF9QeXcwdmF4LUNxeG5SdzJ5dGMxZm85OEtmSzA2NFJkNGZmT2tHVUdyOF9fZGxOVWs0NUxCMm9FM29XdmYxRlAzS0RBQVpzZDhBTGptZWwzYTdJLUFiLWNsbHhFVUF6QmJ2ellhQkxHQkRNTk5qV2p3VklWWUdDT3F3MDZRTXNhOEtnWFB4SVRLLUFWN1p5OUVf0gHWAUFVX3lxTFBEcGM1ekxyR1VuRGxSVTh3aU9iSFU4WUdIOVJ4TmoyYUxocXhDQ1VieEVwT3JoQ3JXSW5vZFFUSm8wQUdEMjNlVkhoQnhHSlIwOG5sMFNNVDBSZXNzdWp3R1RNZWZsSkhXLURyclFmaW1FTWhpemdNLTVGT0dxYVNkcWFQdTBrUEYxel9aR1VQUXpXWTh4SVk0Y2Z1ajE5ZW5wSGFyNGRIWnJpdV9DRml4Q2FoMWUyblFSRlU1OXhzeFlGOE04c3VORzJNSnZPLVdCSlNuMkE?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T05:52:58+00:00",
+      "age_hours": 2.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold - Moneycontrol.com",
       "what_happened": "OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold Moneycontrol.com",
@@ -9,7 +20,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-08T04:18:34+00:00",
-      "age_hours": 2.9,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -21,6 +32,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T02:48:27+00:00",
       "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight - Mashable",
+      "what_happened": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWFETFRESld4U2FCSmJGSzBLOXR3MlZMdlcxMGJUN2R0NjM0YmVkcnJuUWxnUTBwVWtEZjBCd0o1XzNHVkVHX0gzSEtjVTJWOUZfZzM0YnkzYmk1b0w5MzZhc2E5eWpxNmhnQU1HNUVkc21EX3FjZFF5V1V2bkFVWnFqdUV2a2dhaGc?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T02:26:15+00:00",
+      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +119,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 10.1,
+      "age_hours": 10.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -108,7 +130,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T20:37:20+00:00",
-      "age_hours": 9.3,
+      "age_hours": 11.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -309,28 +331,6 @@
       "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "[Video] Smarter Fitness and Everyday Wellness With New Galaxy Watch",
-      "what_happened": "From rugged mountain trails to a restful night\u2019s sleep, wearable devices are making everyday life smarter. Samsung Electronics\u2019 new Galaxy Watch Ultra2 and Galaxy Watch9 support healthier lifestyles with advanced fitness tracking and everyday wellness features. Galaxy Watch Ultra2 helps runners maintain their pace in different environments with Trail Run, while Galaxy Watch9 provides personalized [\u2026]",
-      "source_url": "https://news.samsung.com/global/video-smarter-fitness-and-everyday-wellness-with-new-galaxy-watch",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-07T08:00:00+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Wah Hong speeds AI cooling and semiconductor materials push with Taoyuan pilot line - digitimes",
-      "what_happened": "Wah Hong speeds AI cooling and semiconductor materials push with Taoyuan pilot line digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2JiUW5Kb3ZIUFB4NGF3bHA0eE1WUUtfMks4LURmUDZwYVhTMFd3NFJtX0dDUnB1bVdkLVFPcjhha0dFS2V2UWpGV0RVdUo4SmV3N3NHTUZ5T0J1SHNFbWs0LThWbWp1RndnVl9WNTZqb29nTlk1WGhLLVZOXzVqS1RGaFZVR1hySVRMc1l6UXdmaVB2WFd5V0N3?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T07:49:16+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
