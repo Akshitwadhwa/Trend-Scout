@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-08T20:47:06.161520+00:00
+Updated: 2026-08-08T21:44:26.347702+00:00
 Memory window: 48 hours
 
 ## 1. Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom - Tom's Hardware
