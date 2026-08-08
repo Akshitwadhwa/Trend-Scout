@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-08T14:48:54.512486+00:00
+Updated: 2026-08-08T15:44:09.646403+00:00
 Memory window: 48 hours
 
 ## 1. Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters
