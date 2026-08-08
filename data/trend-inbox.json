@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T18:57:01.678726+00:00",
+  "updated_at": "2026-08-08T19:43:09.912134+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,13 +14,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable",
+      "what_happened": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T16:57:07+00:00",
+      "age_hours": 2.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "OpenAI to pause some work on AI model Astra due to security concerns - The Guardian",
       "what_happened": "OpenAI to pause some work on AI model Astra due to security concerns The Guardian",
       "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
       "source_name": "The Guardian",
       "source_level": "reputable",
       "published_at": "2026-08-08T16:51:00+00:00",
-      "age_hours": 2.1,
+      "age_hours": 2.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +53,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-08T12:35:45+00:00",
-      "age_hours": 6.4,
+      "age_hours": 7.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -65,17 +76,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T09:37:15+00:00",
       "age_hours": 3.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable",
-      "what_happened": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T09:00:00+00:00",
-      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -207,7 +207,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 21.9,
+      "age_hours": 22.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },

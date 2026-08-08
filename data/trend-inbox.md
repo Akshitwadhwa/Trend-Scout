@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-08T18:57:01.678726+00:00
+Updated: 2026-08-08T19:43:09.912134+00:00
 Memory window: 48 hours
 
 ## 1. Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom - Tom's Hardware
@@ -11,41 +11,41 @@ URL: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd1NLZmM5OGZLdk9qZXpqRn
 
 Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom Tom's Hardware
 
-## 2. OpenAI to pause some work on AI model Astra due to security concerns - The Guardian
+## 2. Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5
+
+Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code Mashable
+
+## 3. OpenAI to pause some work on AI model Astra due to security concerns - The Guardian
 Source: The Guardian (reputable)
 URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5
 
 OpenAI to pause some work on AI model Astra due to security concerns The Guardian
 
-## 3. OpenAI to pause work on AI model Astra due to security concerns - The Guardian
+## 4. OpenAI to pause work on AI model Astra due to security concerns - The Guardian
 Source: The Guardian (reputable)
 URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5
 
 OpenAI to pause work on AI model Astra due to security concerns The Guardian
 
-## 4. Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters
+## 5. Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters
 Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5
 
 Apple says Mac users in China can connect to Alibaba's Qwen AI service Reuters
 
-## 5. Firebird Launches CIS Region’s Largest AI Factory in Armenia - NVIDIA Blog
+## 6. Firebird Launches CIS Region’s Largest AI Factory in Armenia - NVIDIA Blog
 Source: NVIDIA Blog (primary)
 URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFhLSV9ISjJIVzQ4d2IyN0dVTk9RbkJ6T0NtYmtsZUhVeklkRUJnLVhraWdKYWE5eWc5OW9xMWRrdDVvTUxTOTJpX1lVZ0ZhNW5GendIWVpVZnYwQ25NWVFFRGc3cDR3TDNfZjNScmVMbDhnMXg2YkxSc1lXazAzWlc4ejg?oc=5
 
 Firebird Launches CIS Region’s Largest AI Factory in Armenia NVIDIA Blog
 
-## 6. Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust - Business Insider
+## 7. Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust - Business Insider
 Source: Business Insider (reputable)
 URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmFISm0zVkhsQzhCelFtMnlyd21URzBZOXJfNnNhLWxzS24zeldnUnB5bjMwMFc3Ul9qbU1XVTc0ai0waUFOLWhIeTMtREhZUnVtTEZlYkVCZWpLSFY3VFN3SjM1ZmtnUnE3YldkdDdpaEtqUy1fZUllZTYzMkM5Sjc4OHp6UXFEM1R6VzJNc0RJRFB4ZHlubVV3Zw?oc=5
 
 Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust Business Insider
-
-## 7. Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5
-
-Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code Mashable
 
 ## 8. Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 — offer ends tonight - Mashable
 Source: Mashable (reputable)
