@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-08T07:58:38.879694+00:00",
+  "updated_at": "2026-08-08T08:58:50.195143+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight - Mashable",
+      "what_happened": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWFETFRESld4U2FCSmJGSzBLOXR3MlZMdlcxMGJUN2R0NjM0YmVkcnJuUWxnUTBwVWtEZjBCd0o1XzNHVkVHX0gzSEtjVTJWOUZfZzM0YnkzYmk1b0w5MzZhc2E5eWpxNmhnQU1HNUVkc21EX3FjZFF5V1V2bkFVWnFqdUV2a2dhaGc?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T08:17:08+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Sam Altman says Astra model is so powerful, OpenAI can't launch it now - India Today",
       "what_happened": "Sam Altman says Astra model is so powerful, OpenAI can't launch it now India Today",
@@ -9,7 +20,7 @@
       "source_name": "India Today",
       "source_level": "reputable",
       "published_at": "2026-08-08T05:52:58+00:00",
-      "age_hours": 2.1,
+      "age_hours": 3.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-08T04:18:34+00:00",
-      "age_hours": 3.7,
+      "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -32,17 +43,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T02:48:27+00:00",
       "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight - Mashable",
-      "what_happened": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWFETFRESld4U2FCSmJGSzBLOXR3MlZMdlcxMGJUN2R0NjM0YmVkcnJuUWxnUTBwVWtEZjBCd0o1XzNHVkVHX0gzSEtjVTJWOUZfZzM0YnkzYmk1b0w5MzZhc2E5eWpxNmhnQU1HNUVkc21EX3FjZFF5V1V2bkFVWnFqdUV2a2dhaGc?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T02:26:15+00:00",
-      "age_hours": 5.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -119,7 +119,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 10.9,
+      "age_hours": 11.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -130,7 +130,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T20:37:20+00:00",
-      "age_hours": 11.4,
+      "age_hours": 12.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },

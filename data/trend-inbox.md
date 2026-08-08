@@ -2,32 +2,32 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-08T07:58:38.879694+00:00
+Updated: 2026-08-08T08:58:50.195143+00:00
 Memory window: 48 hours
 
-## 1. Sam Altman says Astra model is so powerful, OpenAI can't launch it now - India Today
+## 1. Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 — offer ends tonight - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWFETFRESld4U2FCSmJGSzBLOXR3MlZMdlcxMGJUN2R0NjM0YmVkcnJuUWxnUTBwVWtEZjBCd0o1XzNHVkVHX0gzSEtjVTJWOUZfZzM0YnkzYmk1b0w5MzZhc2E5eWpxNmhnQU1HNUVkc21EX3FjZFF5V1V2bkFVWnFqdUV2a2dhaGc?oc=5
+
+Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 — offer ends tonight Mashable
+
+## 2. Sam Altman says Astra model is so powerful, OpenAI can't launch it now - India Today
 Source: India Today (reputable)
 URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmtHYTd3b0lrT0FWRkg5Q1BqRXZQY2dQQ21sOWZObGZwNkVQX2RWSExKcU9ROG1RcExtSXR6WF9QeXcwdmF4LUNxeG5SdzJ5dGMxZm85OEtmSzA2NFJkNGZmT2tHVUdyOF9fZGxOVWs0NUxCMm9FM29XdmYxRlAzS0RBQVpzZDhBTGptZWwzYTdJLUFiLWNsbHhFVUF6QmJ2ellhQkxHQkRNTk5qV2p3VklWWUdDT3F3MDZRTXNhOEtnWFB4SVRLLUFWN1p5OUVf0gHWAUFVX3lxTFBEcGM1ekxyR1VuRGxSVTh3aU9iSFU4WUdIOVJ4TmoyYUxocXhDQ1VieEVwT3JoQ3JXSW5vZFFUSm8wQUdEMjNlVkhoQnhHSlIwOG5sMFNNVDBSZXNzdWp3R1RNZWZsSkhXLURyclFmaW1FTWhpemdNLTVGT0dxYVNkcWFQdTBrUEYxel9aR1VQUXpXWTh4SVk0Y2Z1ajE5ZW5wSGFyNGRIWnJpdV9DRml4Q2FoMWUyblFSRlU1OXhzeFlGOE04c3VORzJNSnZPLVdCSlNuMkE?oc=5
 
 Sam Altman says Astra model is so powerful, OpenAI can't launch it now India Today
 
-## 2. OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold - Moneycontrol.com
+## 3. OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold - Moneycontrol.com
 Source: Moneycontrol.com (reputable)
 URL: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQekFDUkpFNVJMNzRQZXdOalN3dTRZUS1rM1JnRUVlekJDa0hPUHQ5MTB6Q2xtUjdIQV9iQVAxR2Y5S3lmdTNaamF2NERDaTM4WkExRWNEdFRicUJ5N1pWQ2ZrQy1GTzd2cmpUQ292TTBZOE83Skh2b0FxLTV5bW5KQVBLLXNRXzU2dG1tTUs0RTVlN0V6dGE4QmxDVlhQUHA2YXhZRFFyOURVZnZiS0JVT3N6YTVxUWFJckQ1eWYyV2tVcVpsRGd1QVN5VHlEWTZnbG1UNThzSTRsZGZLY21zcjNranMwcm9BZnlHV01ucktPUdIB8gFBVV95cUxQekFDUkpFNVJMNzRQZXdOalN3dTRZUS1rM1JnRUVlekJDa0hPUHQ5MTB6Q2xtUjdIQV9iQVAxR2Y5S3lmdTNaamF2NERDaTM4WkExRWNEdFRicUJ5N1pWQ2ZrQy1GTzd2cmpUQ292TTBZOE83Skh2b0FxLTV5bW5KQVBLLXNRXzU2dG1tTUs0RTVlN0V6dGE4QmxDVlhQUHA2YXhZRFFyOURVZnZiS0JVT3N6YTVxUWFJckQ1eWYyV2tVcVpsRGd1QVN5VHlEWTZnbG1UNThzSTRsZGZLY21zcjNranMwcm9BZnlHV01ucktPUQ?oc=5
 
 OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold Moneycontrol.com
 
-## 3. Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea - Mashable
+## 4. Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGRzVU5HUkpWQlpMLW41Y210Mlk1TXJlbEstTFh2TDZnSWhjejlZcTk5YjF5TERBdUt5dDAxUWZUVmtLaVp6STg5LU4xRGdLWGxuTVBvQ1h1ZEpCZ08tTFZqMEFobHNNNWoyaTIzdE9GQWlwLUpvbGtnRldMRnB4S2didmt6eW93MnRxOXVB?oc=5
 
 Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea Mashable
-
-## 4. Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 — offer ends tonight - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWFETFRESld4U2FCSmJGSzBLOXR3MlZMdlcxMGJUN2R0NjM0YmVkcnJuUWxnUTBwVWtEZjBCd0o1XzNHVkVHX0gzSEtjVTJWOUZfZzM0YnkzYmk1b0w5MzZhc2E5eWpxNmhnQU1HNUVkc21EX3FjZFF5V1V2bkFVWnFqdUV2a2dhaGc?oc=5
-
-Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 — offer ends tonight Mashable
 
 ## 5. Thailand looks to Siam Silica to propel it to top Asean semiconductor player - South China Morning Post
 Source: South China Morning Post (reputable)
