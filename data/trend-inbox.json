@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-08T05:55:28.470404+00:00",
+  "updated_at": "2026-08-08T07:12:59.880865+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold - Moneycontrol.com",
+      "what_happened": "OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQekFDUkpFNVJMNzRQZXdOalN3dTRZUS1rM1JnRUVlekJDa0hPUHQ5MTB6Q2xtUjdIQV9iQVAxR2Y5S3lmdTNaamF2NERDaTM4WkExRWNEdFRicUJ5N1pWQ2ZrQy1GTzd2cmpUQ292TTBZOE83Skh2b0FxLTV5bW5KQVBLLXNRXzU2dG1tTUs0RTVlN0V6dGE4QmxDVlhQUHA2YXhZRFFyOURVZnZiS0JVT3N6YTVxUWFJckQ1eWYyV2tVcVpsRGd1QVN5VHlEWTZnbG1UNThzSTRsZGZLY21zcjNranMwcm9BZnlHV01ucktPUdIB8gFBVV95cUxQekFDUkpFNVJMNzRQZXdOalN3dTRZUS1rM1JnRUVlekJDa0hPUHQ5MTB6Q2xtUjdIQV9iQVAxR2Y5S3lmdTNaamF2NERDaTM4WkExRWNEdFRicUJ5N1pWQ2ZrQy1GTzd2cmpUQ292TTBZOE83Skh2b0FxLTV5bW5KQVBLLXNRXzU2dG1tTUs0RTVlN0V6dGE4QmxDVlhQUHA2YXhZRFFyOURVZnZiS0JVT3N6YTVxUWFJckQ1eWYyV2tVcVpsRGd1QVN5VHlEWTZnbG1UNThzSTRsZGZLY21zcjNranMwcm9BZnlHV01ucktPUQ?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T04:18:34+00:00",
+      "age_hours": 2.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea - Mashable",
       "what_happened": "Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea Mashable",
@@ -86,7 +97,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 8.8,
+      "age_hours": 10.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T07:49:16+00:00",
       "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say - Reuters",
-      "what_happened": "EXCLUSIVE: Alibaba plans to charge big users of its next open-source AI model, sources say Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE5xeXpfUzZwaHRia2xzb1A2V3VQU0xPVmpLWG1rckR6dzJYUW51Y1NjdzdtQjUzWlFRdGVJcXE5Y29NZGlKMHdxZDU3dkpHY3BTREx3U0xjVXJ6S1QtSXgwb2xEeHpveEVuVmJIYTRkMDNTNE1lTlM4Wng3V2JMcTNYWExvWnpCZW4xWEdqQ2ktdThBWnJXX0haRW1TRjUwOExfVHBGQ1dHQTNibWNmTjRNQzVMb0ozTGRnMkx6dE9VbXNVR25BYmplc2ZoQQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T07:18:36+00:00",
-      "age_hours": 1.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
