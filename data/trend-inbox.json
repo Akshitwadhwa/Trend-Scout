@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-08T16:50:29.910606+00:00",
+  "updated_at": "2026-08-08T17:45:02.200833+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle \u2014 retailers hold GPUs hostage similar to the crypto boom - Tom's Hardware",
+      "what_happened": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle \u2014 retailers hold GPUs hostage similar to the crypto boom Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd1NLZmM5OGZLdk9qZXpqRnRjLXFLTjNVUkpEeUFDUUtRLXdwUFJtTWx2aW8xRFh4Q0dqSmVFd1daNDhRaTV3NzVNdEVoMnlpeTZabFI1Mk1lRWw5R0dPU05PdVFUWURkX180Ym80MmZqenNzbjR2VEFCOXVKNHlhU1JaLWhmUnRWZ3p6ZHpBU0ZpU1Z1WXkwbDMxck5Mcy0wSHdGakp3WUFYTldrRTdHZGJsQ1ZZNXEyc1JUeFhOVDNzcDh3UW5rM1BpWXRlSjFUTjREamRHdGo3M0EyNzNHbTRoRGNLR0dKUE5VZA?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T17:08:45+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI to pause work on AI model Astra due to security concerns - The Guardian",
+      "what_happened": "OpenAI to pause work on AI model Astra due to security concerns The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T16:51:00+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
       "what_happened": "Apple says Mac users in China can connect to Alibaba's Qwen AI service Reuters",
@@ -9,7 +31,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-08T12:35:45+00:00",
-      "age_hours": 4.2,
+      "age_hours": 5.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -174,7 +196,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 19.7,
+      "age_hours": 20.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T14:38:25+00:00",
       "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say - TechCrunch",
-      "what_happened": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX2NpajBveEZEMlMxOS1TVjlwaDZJYmVmWU1EZnZHbTJBaHZWbkxYdG44aF92TkZ3MW9RUlM2dWlFTFMtTGZXb1R1a0oydzE0YU81WHh4S1pHd3JOaDd5OW5BT1Y4VWItaVBZekVYcFM2T2dMNWlBSjU0eGpnaXJOeDE0bkJSNDFKaVhmdFE5WFMzVEZYWG1BWGJmc1FENl9haTFBdTVFNVRzRVNzS0ZsNUtyQ1ZvdjFWbmc?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T14:28:31+00:00",
-      "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best Apple deal: Save $59.01 on AirPods Pro 3 - Mashable",
-      "what_happened": "Best Apple deal: Save $59.01 on AirPods Pro 3 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zS1U2blFGSVlmNXNGakJNcXNSWXdkRld3QmJFOTlKc1lMSzMxSXU4Y1VURXFCWDNtTFhrOVFnVGZIYzA1Z2J5VDVlb0IyVk53R1hpekVVRUIxSWFzQmRab1pVek9DWGs?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T14:18:30+00:00",
-      "age_hours": 7.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
