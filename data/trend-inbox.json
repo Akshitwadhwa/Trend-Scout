@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T21:44:26.347702+00:00",
+  "updated_at": "2026-08-08T22:45:05.099502+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -20,7 +20,18 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-08T16:57:07+00:00",
-      "age_hours": 4.8,
+      "age_hours": 5.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian",
+      "what_happened": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T16:51:00+00:00",
+      "age_hours": 5.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -43,6 +54,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T16:51:00+00:00",
       "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI Astra: The mysterious new quantum math-solving model - Mashable",
+      "what_happened": "OpenAI Astra: The mysterious new quantum math-solving model Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdDNjX3BqbW52dzB3X0hCU0NqUEFfR0F4ZEtvVVF3UW1NNWw3dG1JWWRCS1VJUnlIZWF4a2hvb25SQncwa0N4TzN2WWQ5UFVXQllQaE1FcVZqT1JjVWdCbTJ0Wm9mNjJJUEotSnBpTUwtTFk?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T13:39:47+00:00",
+      "age_hours": 9.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -218,7 +240,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 24.6,
+      "age_hours": 25.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T17:04:42+00:00",
       "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities - OpenAI",
-      "what_happened": "Responding to the next frontier of critical cyber capabilities OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2NXUG1KWUhSOVU2TE1wWWk5LUtwOHRBc2dGQWxlZTh2azJ2MHlnUHlTcWhaTWJKZ1g4WXUzS0VxcnRxbTByNjR6LUdJS3pYRUtKVmVwb3hQTVFqQXNSQjliUDRLSFVpR01uR3hjcTNreG1hR3FDc2ZpMW1qYXRUT25KdE8?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-08-07T16:37:16+00:00",
-      "age_hours": 1.4,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "What is OpenAI Astra? Everything we know about the quantum math-solving model. - Mashable",
-      "what_happened": "What is OpenAI Astra? Everything we know about the quantum math-solving model. Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdDNjX3BqbW52dzB3X0hCU0NqUEFfR0F4ZEtvVVF3UW1NNWw3dG1JWWRCS1VJUnlIZWF4a2hvb25SQncwa0N4TzN2WWQ5UFVXQllQaE1FcVZqT1JjVWdCbTJ0Wm9mNjJJUEotSnBpTUwtTFk?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T15:38:37+00:00",
-      "age_hours": 10.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
