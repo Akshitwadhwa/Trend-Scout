@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-08T08:58:50.195143+00:00",
+  "updated_at": "2026-08-08T09:53:30.391170+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust - Business Insider",
+      "what_happened": "Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmFISm0zVkhsQzhCelFtMnlyd21URzBZOXJfNnNhLWxzS24zeldnUnB5bjMwMFc3Ul9qbU1XVTc0ai0waUFOLWhIeTMtREhZUnVtTEZlYkVCZWpLSFY3VFN3SjM1ZmtnUnE3YldkdDdpaEtqUy1fZUllZTYzMkM5Sjc4OHp6UXFEM1R6VzJNc0RJRFB4ZHlubVV3Zw?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-08-08T09:36:21+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight - Mashable",
       "what_happened": "Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 \u2014 offer ends tonight Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-08T08:17:08+00:00",
-      "age_hours": 0.7,
+      "age_hours": 1.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "India Today",
       "source_level": "reputable",
       "published_at": "2026-08-08T05:52:58+00:00",
-      "age_hours": 3.1,
+      "age_hours": 4.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -119,7 +130,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 11.9,
+      "age_hours": 12.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -130,7 +141,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-07T20:37:20+00:00",
-      "age_hours": 12.4,
+      "age_hours": 13.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -320,17 +331,6 @@
       "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "[Interview] From Stage to Screen: Samsung TV Plus and Eclipsa Audio Usher in a New Era of Home Entertainment",
-      "what_happened": "What if a TV could recreate the atmosphere of a live performance? Eclipsa Audio, a 3D audio technology jointly developed by Samsung Electronics and Google, makes that possible. Built on the open 3D audio standard, Immersive Audio Model and Formats (IAMF), Eclipsa Audio optimizes the spatial positioning of sound for playback devices such as TVs [\u2026]",
-      "source_url": "https://news.samsung.com/global/interview-from-stage-to-screen-samsung-tv-plus-and-eclipsa-audio-usher-in-a-new-era-of-home-entertainment",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-07T08:00:00+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
