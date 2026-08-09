@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T02:27:24.569942+00:00",
+  "updated_at": "2026-08-09T04:35:30.335594+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Profit-linked bonuses at Samsung, SK unlikely to spread across Korean biz - The Korea Times",
+      "what_happened": "Profit-linked bonuses at Samsung, SK unlikely to spread across Korean biz The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTHp0OHZxVWt6M0tYZ21IY3pyX0RZZktCOXBfQjVTekFabGh1V2g2X0xYei1YT3M0aU9MNWkxWUpISERiWXdPZUJqMVJqM1NCX045RWpjTFcxUUFfVHNSWkNhWmVkbWs5QkZrSXFvOFhGb01SN3djelFOYnVNNGZHREhBVXU0UDl3c2JxLXJHV3RvRHdSSHNMVTdCSkU1X3lrT3o2RVNicEM5ZXZYa2tPM25TN0ktOExFMjNNdGg3cnBoMjBwSE5IMHd6NllhQdIBzgFBVV95cUxNTHp0OHZxVWt6M0tYZ21IY3pyX0RZZktCOXBfQjVTekFabGh1V2g2X0xYei1YT3M0aU9MNWkxWUpISERiWXdPZUJqMVJqM1NCX045RWpjTFcxUUFfVHNSWkNhWmVkbWs5QkZrSXFvOFhGb01SN3djelFOYnVNNGZHREhBVXU0UDl3c2JxLXJHV3RvRHdSSHNMVTdCSkU1X3lrT3o2RVNicEM5ZXZYa2tPM25TN0ktOExFMjNNdGg3cnBoMjBwSE5IMHd6NllhQQ?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T02:35:00+00:00",
+      "age_hours": 2.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia - NVIDIA Blog",
       "what_happened": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia NVIDIA Blog",
@@ -42,7 +53,7 @@
       "source_name": "The Guardian",
       "source_level": "reputable",
       "published_at": "2026-08-08T16:51:00+00:00",
-      "age_hours": 9.6,
+      "age_hours": 11.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -75,7 +86,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-08T13:39:47+00:00",
-      "age_hours": 12.8,
+      "age_hours": 14.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -240,7 +251,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 29.4,
+      "age_hours": 31.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T17:06:22+00:00",
       "age_hours": 4.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Trade Tracker: Kevin Simpson buys more Nvidia - CNBC",
-      "what_happened": "Trade Tracker: Kevin Simpson buys more Nvidia CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmt5R1oyUmtOekd5WElHeVlOelVhci0zaTlxTlFtOHVnNnQ3ZUdOOGxqSFdVWEdNeXNZY1FSMHo4czNTU29xXzVPYy1RQ1hIWGdtay14Q3RndGUzMkVSbi1hZlJ6Wkg0NUwxYy1LbWZOWVZHbDV6NUNNOWhqN3AtWEo0QWRaaGRkWExPRmxfb3o?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T17:04:42+00:00",
-      "age_hours": 0.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
