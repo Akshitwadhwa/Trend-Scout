@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-08T23:43:47.900495+00:00
+Updated: 2026-08-09T02:27:24.569942+00:00
 Memory window: 48 hours
 
 ## 1. Firebird Launches CIS Region’s Largest AI Factory in Armenia - NVIDIA Blog
