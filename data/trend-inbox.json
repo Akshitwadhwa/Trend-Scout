@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T13:14:33.263684+00:00",
+  "updated_at": "2026-08-09T13:58:42.544156+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-08-09T11:31:42+00:00",
-      "age_hours": 1.7,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-09T11:08:55+00:00",
-      "age_hours": 2.1,
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-09T10:54:00+00:00",
-      "age_hours": 2.3,
+      "age_hours": 3.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +53,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-08-09T09:00:06+00:00",
-      "age_hours": 4.2,
+      "age_hours": 5.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -317,7 +317,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 40.1,
+      "age_hours": 40.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
