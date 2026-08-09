@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-09T19:47:21.159720+00:00",
+  "updated_at": "2026-08-09T20:50:29.023148+00:00",
   "retention_hours": 48,
   "items": [
-    {
-      "title": "Opinion | Banning Chinese AI Models Is Complicated - WSJ",
-      "what_happened": "Opinion | Banning Chinese AI Models Is Complicated WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU5reldnaEtJUWVoVVlIMGZjaTlHQWd2LWpQd1pUN2xVV19tWlRDZzNISVZoOGJUdDRQR0kzSmlhYmJTcURpZzdXc2lxNGlWWGVSWVBKR2htWjVNYWVGWU1tNTBMRzBTSk5nVXJFS29ZUDVHV3ktQ2JROWI1NUpDNGN1Yw?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T18:18:09+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
     {
       "title": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
       "what_happened": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
-      "published_at": "2026-08-09T17:16:56+00:00",
-      "age_hours": 2.5,
+      "published_at": "2026-08-09T20:17:42+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Opinion | Banning Chinese AI Models Is Complicated - WSJ",
+      "what_happened": "Opinion | Banning Chinese AI Models Is Complicated WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU5reldnaEtJUWVoVVlIMGZjaTlHQWd2LWpQd1pUN2xVV19tWlRDZzNISVZoOGJUdDRQR0kzSmlhYmJTcURpZzdXc2lxNGlWWGVSWVBKR2htWjVNYWVGWU1tNTBMRzBTSk5nVXJFS29ZUDVHV3ktQ2JROWI1NUpDNGN1Yw?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T19:43:09+00:00",
+      "age_hours": 1.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -32,6 +32,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-09T14:15:00+00:00",
       "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Musk\u2019s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined \u2014 all-in-one chip manufacturing facility visualized to show the project\u2019s massive footprint - Tom's Hardware",
+      "what_happened": "Musk\u2019s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined \u2014 all-in-one chip manufacturing facility visualized to show the project\u2019s massive footprint Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNC1ZMUtPbDBxencwbTNsV3N4U1VuNENCWVEwX1NuNm51MlR0YldrZHFxMUxocGt6ZDI3RG9lTHBqY2xhV2RyQ19vZkNSVldaQWZBVFNyWnB0ZkQySDJCS05RcTZjSW5qekFfQmRQWm94ZldUbzJ6UDFvQzg5WExHTGlLRjEyVDdZRDVac3QtWXB0Rkd0ampVajJmV012X3Q4QWRIbEpXcFVKX2ktNDJ2U3g2eXFEMXROaXgzUVZWQU8xX25RRjI2elVnOUZydmhLN3dzNXFsRVNJWE5xbHd2dkFmWFNYUzR0U0hsRG45QzhUUE1yLVp0OTRXal9MUGtoaGYzczJPQ3BmTmVyRS1fakZpVTU3ejBpZURBSE0yX2tEczVkbWxLVjczR19xWWRPWnRkZkRTMEg4VlQ5VktQWTVhdTVvVU53T1dGelFfYll3R1cxRmZPQkFfcTB0WE1YVWhNcXQzQnZhYmZL?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T13:55:00+00:00",
+      "age_hours": 6.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T01:42:00+00:00",
       "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
-      "what_happened": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T23:12:19+00:00",
-      "age_hours": 5.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
