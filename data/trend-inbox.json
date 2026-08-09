@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T21:46:37.314512+00:00",
+  "updated_at": "2026-08-09T22:48:43.246164+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-09T20:35:17+00:00",
-      "age_hours": 1.2,
+      "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-09T20:17:42+00:00",
-      "age_hours": 1.5,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-09T14:42:00+00:00",
-      "age_hours": 7.1,
+      "age_hours": 8.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },

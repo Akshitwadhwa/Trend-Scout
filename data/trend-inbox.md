@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-09T21:46:37.314512+00:00
+Updated: 2026-08-09T22:48:43.246164+00:00
 Memory window: 48 hours
 
 ## 1. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry - TechCrunch
