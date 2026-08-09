@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T07:14:54.048567+00:00",
+  "updated_at": "2026-08-09T08:01:56.199959+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "iPhone 18 Pro launching in few weeks, here are 10 updates Apple likely to introduce - India Today",
+      "what_happened": "iPhone 18 Pro launching in few weeks, here are 10 updates Apple likely to introduce India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEIzbkl0T3R1ZHZfbkIwWHJtNUpxSDhfeWt6cGtRUDU4VmdnNXFQSC11bFZCNE90dlRMTDlhdzNlWW85VTk5UFgwSS13Y1dBY3FfbFNGWUxJRHlYYnowVnU3N1VocnFnQTUxZ29janY3c0NMVWRqYmFPVlhsRnk1V0w5dV9vNWYzRWJzNzU1TS1JRXRtTDAwWU1BQmZxeEJDejZHWlA2UmdUMWJ3X3oyaTI3WGpzT2lBd0R1WTlRSExRMVV2MXl0TU9WazVNQ03SAc8BQVVfeXFMTzRCM25JdE90dWR2X25CMFhybTVKcUg4X3lrenBrUVA1OFZnZzVxUEgtdWxWQjRPdHZUTEw5YXczZVlvOVU5OVBYMEktd2NXQWNxX2xTRllMSUR5WGJ6MFZ1NzdVaHJxZ0E1MWdvY2p2N3NDTFVkamJhT1ZYbEZ5NVdMOXVfbzVmM0Viczc1NU0tSUV0bUwwMFlNQUJmcXhCQ3o2R1pQNlJnVDFid196MmkyN1hqc09pQXdEdVk5UUhMUTFVdjF5dE1PVms1TUNN?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T07:59:14+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Apple says Mac users in China can connect to Alibaba\u2019s Qwen AI service - The Indian Express",
       "what_happened": "Apple says Mac users in China can connect to Alibaba\u2019s Qwen AI service The Indian Express",
@@ -256,6 +267,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Copilot impact dashboard adds a return on investment section - github.blog",
+      "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-07T21:05:37+00:00",
+      "age_hours": 34.9,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
       "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
@@ -263,17 +285,6 @@
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
       "age_hours": 34.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Copilot impact dashboard adds a return on investment section - github.blog",
-      "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 16.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T18:09:55+00:00",
       "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Final hours: Get a free $200 Amazon gift card when you pre-order the Samsung Galaxy Z Flip 8 - Mashable",
-      "what_happened": "Final hours: Get a free $200 Amazon gift card when you pre-order the Samsung Galaxy Z Flip 8 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGFaVGEzeXc4aGRXM3NkWkR6ZERVNnVTbVZ6M1dYZFpFRExJWWRjMTEwRVMyMnZMODAya2EyT0U4TDhRS1NMbkFFSmVjRUxYNFZXdVZfTTJsZlo4ekxNT1ZWdkQ3ZzlYc3NORjZkWHJva2FReGNBMjFPZmgwMTJMbw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T17:44:26+00:00",
-      "age_hours": 8.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
