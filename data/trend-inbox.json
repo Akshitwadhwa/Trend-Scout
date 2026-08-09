@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T09:01:14.329953+00:00",
+  "updated_at": "2026-08-09T09:54:58.001250+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Jevon\u2019s Paradox: why China\u2019s cheap AI models could be good for Silicon Valley - South China Morning Post",
+      "what_happened": "Jevon\u2019s Paradox: why China\u2019s cheap AI models could be good for Silicon Valley South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR3I2SEZVVUlCbEFObFNaalhvQ3lIcG40bTNqX3BmdkVUdEJheTd3WnRKd0xSRnJpU1RwQjV6RDI1aUhmNXNBZG9DUnV0YmpjanhuU19JN2g3Y0F5Z1JqUWdhd1JRX21QTUZGeHQ3WjZCRlpRNFE3NHlJZ0h0SFl0em5qdFV0TERZNmtfZ0lxS1JmYVM5Mi1sdkhMUUlkNGdiYTNJajdneW9kcmtQa3Z0bHpTcEN6M1BnOUphMV9YOWFtZ9IBwgFBVV95cUxPZjV2bGNYcmhzM3I1N1lTZ2JaLTA0Sy14dXlWUlZyY1Mzb1BFcTBaWmhIS3hXcThMbnZSa3JFWm5vbmd1RUo1ekk1NTFMZDM3c1V3NXVBRGJYb0NoaXdzZ1FiS3dFRlIyTzVYSHRRLXVRUzU3cnJQM1ZUbldyLVlPSXZBR0NxQmg3MDl5MS1adHp2SERQX3Vqek9lcFpmbGNpenpEM1ZiMGZzZTJjR0ZBWmVXckVuTzV6MjhoUjlTT0xzUQ?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T09:00:06+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans - The Indian Express",
       "what_happened": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans The Indian Express",
@@ -9,7 +20,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-09T08:11:09+00:00",
-      "age_hours": 0.8,
+      "age_hours": 1.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -284,7 +295,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 35.9,
+      "age_hours": 36.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T20:13:57+00:00",
       "age_hours": 17.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI puts the brakes on a new model because it\u2019s supposedly too powerful - The Verge",
-      "what_happened": "OpenAI puts the brakes on a new model because it\u2019s supposedly too powerful The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTROTmJrS2xkRmpKem5rTV93eWc1UTNvbUU1R0ZDUTVjdjdfTVowUUhZUDVfcDdJcXVCbDdmdnRfR2tNQl9MREVfNlBIc05fRmNxU3ljYnpjeUFqUUdfWjhVb0RCd2d5X19FZ3Z5ZU1oVFhpb1NnNHNiWTdleTMtTDltbzloWkJnRm5jUU9JX2p4N0FOdURiektLZXpubG5ScXRIanFxMDZBVy1nYjVRUg?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T18:40:34+00:00",
-      "age_hours": 4.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
