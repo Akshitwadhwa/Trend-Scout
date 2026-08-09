@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:59:50.475167+00:00",
+  "updated_at": "2026-08-09T19:47:21.159720+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -8,8 +8,19 @@
       "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU5reldnaEtJUWVoVVlIMGZjaTlHQWd2LWpQd1pUN2xVV19tWlRDZzNISVZoOGJUdDRQR0kzSmlhYmJTcURpZzdXc2lxNGlWWGVSWVBKR2htWjVNYWVGWU1tNTBMRzBTSk5nVXJFS29ZUDVHV3ktQ2JROWI1NUpDNGN1Yw?oc=5",
       "source_name": "WSJ",
       "source_level": "reputable",
-      "published_at": "2026-08-09T14:42:00+00:00",
-      "age_hours": 3.1,
+      "published_at": "2026-08-09T18:18:09+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
+      "what_happened": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T17:16:56+00:00",
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -21,6 +32,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-09T14:15:00+00:00",
       "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "How to get a free Apple iPhone 17 from T-Mobile this weekend - Mashable",
+      "what_happened": "How to get a free Apple iPhone 17 from T-Mobile this weekend Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUmV0UEpBWk84MW5sZ0tFcmJMaU1YOXRRbU9PY0hOcDloSUo1b2MxY0xrcTNwRmJJZG5FNG9JMEhON0pyVzBoS3RkeTZURWVwbkJudzNjNUpEUTN6b2l6WWRsXzk?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T13:32:28+00:00",
+      "age_hours": 6.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T23:12:19+00:00",
       "age_hours": 5.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns - TechCrunch",
-      "what_happened": "OpenAI says it slowed Astra model development over security concerns TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3B2a2NoaGtOdmJ5WEhERFMwbTZOX3p1MHplbG1ocnRsa25kaDFIRXU5SjVwVmFzRW1ZTWJWZ1dnYmljZ0pMVUZ1SE5RZXpaVy0ydnpjd2lVaHpuTUZEckZDSUI0MGF5N1dYZkItcmNiQkdiVlBPZFZwRENjNzIwYkVQdml5b0Z0c1Rzd3BTMXFWQ2t5N01qQ2w0T1N2bmN4US1Ra2pR?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T22:48:24+00:00",
-      "age_hours": 3.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns - WSJ",
-      "what_happened": "OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZTF1QlBHTXRSd21LRlpHMGVlQlBHVXl5a2R1ZWFpazJQLVBkcG9LVHhpVGpwUnRobER0S3RPWEtvNDduUDVJdTA1UTBuc0FVVVppQ1Y5WnhhU2hnbnhEUjhTUUVleHE1NG9PcDd0UEVoaUo5ZTlheEhQN2wxQ0YzVDBXQ2sxX2J2U09VQy0welEtOEIxX0hDQQ?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T21:17:00+00:00",
-      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
