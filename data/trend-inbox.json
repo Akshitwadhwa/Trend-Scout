@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T08:01:56.199959+00:00",
+  "updated_at": "2026-08-09T09:01:14.329953+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans - The Indian Express",
+      "what_happened": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFFTzFUZ3RjeXo3Ym90czRpOF9oZFJMeVBwbmNwZ2lBcGNZd1hWOUd2X1p0VWo4STQwVW5tdW5Tai16SUVkQU9OYTl3YndheDBRT3NsWkRvdGFaM0hzYXdVeDBadGFVdjdBZEZGd282XzRFOXhLSWtBbkQyVGk4UnFLeDNhUkpWSHo3a2x3dWVpdTNlZGtZNG5SYzFacGvSAaYBQVVfeXFMUC1vSGFFMkx1NEVhUlRZS25LY2h2bjYtemg3bEJXS1hYWXdUSGhFNlNhbGk3WVZMcmxiS0xHZXpZS284aEEzMEVMa2V4M1RDUExuNGxTamVLMmREVjVtWVFURGdSbTBaSXNDc2xkWEZUN2V5Qzh6ME9uZzlLREc2RUdEOElTMFFSV09mYVRmRl9pUXdnTk5HTnlvcTlCZjFNX1hHODl3Zw?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T08:11:09+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "iPhone 18 Pro launching in few weeks, here are 10 updates Apple likely to introduce - India Today",
       "what_happened": "iPhone 18 Pro launching in few weeks, here are 10 updates Apple likely to introduce India Today",
@@ -267,6 +278,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
+      "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-07T21:05:37+00:00",
+      "age_hours": 35.9,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Copilot impact dashboard adds a return on investment section - github.blog",
       "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
@@ -274,17 +296,6 @@
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
       "age_hours": 34.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
-      "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 34.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-07T18:40:34+00:00",
       "age_hours": 4.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best SSD deal: The Samsung internal SSD 990 is 30% off - Mashable",
-      "what_happened": "Best SSD deal: The Samsung internal SSD 990 is 30% off Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oWHlLdUlSM2tJZlE2MzI4NHZ5Q0Y1UTVaQThlQ2lWLUNBU3lJLVYzbFhrV3RLeDAzdzh6R1VQYXQ1ZDJWd0NfSTBhUTZuYU5ZQlkxUTF1MWdFdEJqdHNn?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-07T18:09:55+00:00",
-      "age_hours": 1.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
