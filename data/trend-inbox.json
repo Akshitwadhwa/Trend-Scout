@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T13:58:42.544156+00:00",
+  "updated_at": "2026-08-09T14:51:19.094396+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block \u2014 drops RTX 2060 Super load temps to 28\u00b0C despite initial leaks - Tom's Hardware",
+      "what_happened": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block \u2014 drops RTX 2060 Super load temps to 28\u00b0C despite initial leaks Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMlBnWXN6OU9ERXFHU3l0aDJvU3hwZ2VsaXBuclJpcjZPNE5IazMtVnVKTlpJWm51ZjdkWlVLMDJMcHFaLXZudUFTUU5Raklxc21YemMxek1lajl6WnFVOFNUWmJQM2g2MWFBcEtFR0hydUdmZ2VEYlFoMXN1Z1ZjOWtiTjNxeHZ2ek1Kd0owM2E4WTVZWU9feDVvbmd3eS0tcEp6MDRubUNtckZ4UlZ6QlI0WHpoeDlKeFdoMWo0dlZQdUJpenQzM01XWlpvX1BXMWNHdTFQXzB3YTVlcUs5NWdaY3pOTDRqMUxic05PR09JaHlmZXB6c284SVdXZm1lR3VCTGo1WUVWcndWenc2U2twX2VMWGlpS3lR?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T14:15:00+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
       "what_happened": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta CNBC",
@@ -9,7 +20,7 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-08-09T11:31:42+00:00",
-      "age_hours": 2.5,
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-09T11:08:55+00:00",
-      "age_hours": 2.8,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -311,24 +322,13 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
-      "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 40.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
       "title": "Copilot impact dashboard adds a return on investment section - github.blog",
       "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 38.6,
+      "age_hours": 41.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
