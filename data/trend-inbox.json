@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T05:57:05.542201+00:00",
+  "updated_at": "2026-08-09T07:14:54.048567+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-09T04:32:18+00:00",
-      "age_hours": 1.4,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "The Korea Times",
       "source_level": "reputable",
       "published_at": "2026-08-09T02:35:03+00:00",
-      "age_hours": 3.4,
+      "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -262,7 +262,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 32.9,
+      "age_hours": 34.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
