@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-09T11:43:35.265540+00:00
+Updated: 2026-08-09T13:14:33.263684+00:00
 Memory window: 48 hours
 
 ## 1. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC
@@ -11,29 +11,29 @@ URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdn
 
 How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta CNBC
 
-## 2. Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ
+## 2. Samsung Galaxy Z Fold 8 review: The ‘pocket phone’ that actually fits your jeans - The Indian Express
+Source: The Indian Express (reputable)
+URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFFTzFUZ3RjeXo3Ym90czRpOF9oZFJMeVBwbmNwZ2lBcGNZd1hWOUd2X1p0VWo4STQwVW5tdW5Tai16SUVkQU9OYTl3YndheDBRT3NsWkRvdGFaM0hzYXdVeDBadGFVdjdBZEZGd282XzRFOXhLSWtBbkQyVGk4UnFLeDNhUkpWSHo3a2x3dWVpdTNlZGtZNG5SYzFacGvSAaYBQVVfeXFMUC1vSGFFMkx1NEVhUlRZS25LY2h2bjYtemg3bEJXS1hYWXdUSGhFNlNhbGk3WVZMcmxiS0xHZXpZS284aEEzMEVMa2V4M1RDUExuNGxTamVLMmREVjVtWVFURGdSbTBaSXNDc2xkWEZUN2V5Qzh6ME9uZzlLREc2RUdEOElTMFFSV09mYVRmRl9pUXdnTk5HTnlvcTlCZjFNX1hHODl3Zw?oc=5
+
+Samsung Galaxy Z Fold 8 review: The ‘pocket phone’ that actually fits your jeans The Indian Express
+
+## 3. Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjNUTWV1UWhiQkpLWXhpWURhVlpuSm5GOVc3OWhOSFRxZWI5SnZxRkdnR0ZPaUxla0lCRFpXT2xYSmVNejVsaHFKTlhwM1BkU3RPc3c4NmtkeXRqYkVMZDB3UUI4VHJaQjZPNVZnUHFaVThVM1hrNDNaSjVILTgwMWJCeHNxTmlQc0JGZ0dtQUpMZkdGNnB3c0tLZ3NneFpQNE5EUW9hUENQejFFYmRkQg?oc=5
 
 Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash WSJ
 
-## 3. Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ
+## 4. Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlR2QW5JZE9sLXYta285NU5Oa3kwdHhXQUk0WE5nT3lPbGxhSEJXQzlOUndnYnp3VzE3UmZJNzUya2NFS3pGUU1LWEFFbEZIaTVzajRrX09CYnBqRnBTSU1aXzgwSXlDTEVKMXNOc1BpcVA0M3BBSUVaQU1UWGc3NlZTempuTlZ0WDluUjdCZ0xtSm1D?oc=5
 
 Apple Tests Chinese Memory Chips as Supply Squeeze Bites WSJ
 
-## 4. Jevon’s Paradox: why China’s cheap AI models could be good for Silicon Valley - South China Morning Post
+## 5. Jevon’s Paradox: why China’s cheap AI models could be good for Silicon Valley - South China Morning Post
 Source: South China Morning Post (reputable)
 URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR3I2SEZVVUlCbEFObFNaalhvQ3lIcG40bTNqX3BmdkVUdEJheTd3WnRKd0xSRnJpU1RwQjV6RDI1aUhmNXNBZG9DUnV0YmpjanhuU19JN2g3Y0F5Z1JqUWdhd1JRX21QTUZGeHQ3WjZCRlpRNFE3NHlJZ0h0SFl0em5qdFV0TERZNmtfZ0lxS1JmYVM5Mi1sdkhMUUlkNGdiYTNJajdneW9kcmtQa3Z0bHpTcEN6M1BnOUphMV9YOWFtZ9IBwgFBVV95cUxPZjV2bGNYcmhzM3I1N1lTZ2JaLTA0Sy14dXlWUlZyY1Mzb1BFcTBaWmhIS3hXcThMbnZSa3JFWm5vbmd1RUo1ekk1NTFMZDM3c1V3NXVBRGJYb0NoaXdzZ1FiS3dFRlIyTzVYSHRRLXVRUzU3cnJQM1ZUbldyLVlPSXZBR0NxQmg3MDl5MS1adHp2SERQX3Vqek9lcFpmbGNpenpEM1ZiMGZzZTJjR0ZBWmVXckVuTzV6MjhoUjlTT0xzUQ?oc=5
 
 Jevon’s Paradox: why China’s cheap AI models could be good for Silicon Valley South China Morning Post
-
-## 5. Samsung Galaxy Z Fold 8 review: The ‘pocket phone’ that actually fits your jeans - The Indian Express
-Source: The Indian Express (reputable)
-URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFFTzFUZ3RjeXo3Ym90czRpOF9oZFJMeVBwbmNwZ2lBcGNZd1hWOUd2X1p0VWo4STQwVW5tdW5Tai16SUVkQU9OYTl3YndheDBRT3NsWkRvdGFaM0hzYXdVeDBadGFVdjdBZEZGd282XzRFOXhLSWtBbkQyVGk4UnFLeDNhUkpWSHo3a2x3dWVpdTNlZGtZNG5SYzFacGvSAaYBQVVfeXFMUC1vSGFFMkx1NEVhUlRZS25LY2h2bjYtemg3bEJXS1hYWXdUSGhFNlNhbGk3WVZMcmxiS0xHZXpZS284aEEzMEVMa2V4M1RDUExuNGxTamVLMmREVjVtWVFURGdSbTBaSXNDc2xkWEZUN2V5Qzh6ME9uZzlLREc2RUdEOElTMFFSV09mYVRmRl9pUXdnTk5HTnlvcTlCZjFNX1hHODl3Zw?oc=5
-
-Samsung Galaxy Z Fold 8 review: The ‘pocket phone’ that actually fits your jeans The Indian Express
 
 ## 6. iPhone 18 Pro launching in few weeks, here are 10 updates Apple likely to introduce - India Today
 Source: India Today (reputable)
@@ -173,14 +173,14 @@ URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tmTlJ1OFNOUlNlOEdxZT
 
 OpenAI Pauses Some Work on New AI Model Over Cybersecurity Concerns WSJ
 
-## 29. Copilot impact dashboard adds a return on investment section - github.blog
-Source: github.blog (primary)
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5
-
-Copilot impact dashboard adds a return on investment section github.blog
-
-## 30. Copilot impact dashboard adds a return on investment section - The GitHub Blog
+## 29. Copilot impact dashboard adds a return on investment section - The GitHub Blog
 Source: The GitHub Blog (primary)
 URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5
 
 Copilot impact dashboard adds a return on investment section The GitHub Blog
+
+## 30. Copilot impact dashboard adds a return on investment section - github.blog
+Source: github.blog (primary)
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5
+
+Copilot impact dashboard adds a return on investment section github.blog

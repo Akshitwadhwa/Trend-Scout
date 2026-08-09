@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T11:43:35.265540+00:00",
+  "updated_at": "2026-08-09T13:14:33.263684+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,18 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-08-09T11:31:42+00:00",
-      "age_hours": 0.2,
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans - The Indian Express",
+      "what_happened": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFFTzFUZ3RjeXo3Ym90czRpOF9oZFJMeVBwbmNwZ2lBcGNZd1hWOUd2X1p0VWo4STQwVW5tdW5Tai16SUVkQU9OYTl3YndheDBRT3NsWkRvdGFaM0hzYXdVeDBadGFVdjdBZEZGd282XzRFOXhLSWtBbkQyVGk4UnFLeDNhUkpWSHo3a2x3dWVpdTNlZGtZNG5SYzFacGvSAaYBQVVfeXFMUC1vSGFFMkx1NEVhUlRZS25LY2h2bjYtemg3bEJXS1hYWXdUSGhFNlNhbGk3WVZMcmxiS0xHZXpZS284aEEzMEVMa2V4M1RDUExuNGxTamVLMmREVjVtWVFURGdSbTBaSXNDc2xkWEZUN2V5Qzh6ME9uZzlLREc2RUdEOElTMFFSV09mYVRmRl9pUXdnTk5HTnlvcTlCZjFNX1hHODl3Zw?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T11:08:55+00:00",
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-09T10:54:00+00:00",
-      "age_hours": 0.8,
+      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,18 +53,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-08-09T09:00:06+00:00",
-      "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans - The Indian Express",
-      "what_happened": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFFTzFUZ3RjeXo3Ym90czRpOF9oZFJMeVBwbmNwZ2lBcGNZd1hWOUd2X1p0VWo4STQwVW5tdW5Tai16SUVkQU9OYTl3YndheDBRT3NsWkRvdGFaM0hzYXdVeDBadGFVdjdBZEZGd282XzRFOXhLSWtBbkQyVGk4UnFLeDNhUkpWSHo3a2x3dWVpdTNlZGtZNG5SYzFacGvSAaYBQVVfeXFMUC1vSGFFMkx1NEVhUlRZS25LY2h2bjYtemg3bEJXS1hYWXdUSGhFNlNhbGk3WVZMcmxiS0xHZXpZS284aEEzMEVMa2V4M1RDUExuNGxTamVLMmREVjVtWVFURGdSbTBaSXNDc2xkWEZUN2V5Qzh6ME9uZzlLREc2RUdEOElTMFFSV09mYVRmRl9pUXdnTk5HTnlvcTlCZjFNX1hHODl3Zw?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T08:11:09+00:00",
-      "age_hours": 2.7,
+      "age_hours": 4.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -311,6 +311,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
+      "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-07T21:05:37+00:00",
+      "age_hours": 40.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Copilot impact dashboard adds a return on investment section - github.blog",
       "what_happened": "Copilot impact dashboard adds a return on investment section github.blog",
       "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
@@ -318,17 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
       "age_hours": 38.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Copilot impact dashboard adds a return on investment section - The GitHub Blog",
-      "what_happened": "Copilot impact dashboard adds a return on investment section The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0hNZnNQR0tPdXpGdXI3RXpuWENEUE5PSFoyQ2pfcUxJNklEYVczbWF4QzVLY0oyYmRlU1dqY0NVOGJiM3I5VVoySkRZQi04WEYyRl9DUVN0UDNvNGgtNWt5eTd2aWxRbWctZE90bWwzTTlrdzE1YUZEMllCNXBRSGxYYnpsOEc1ZEphUHdVSTV6eDRhbElISkxFYjhIeHdZWWtNdQ?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 37.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
