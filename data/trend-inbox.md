@@ -2,20 +2,20 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-09T22:48:43.246164+00:00
+Updated: 2026-08-09T23:45:03.828722+00:00
 Memory window: 48 hours
 
-## 1. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry - TechCrunch
-Source: TechCrunch (reputable)
-URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxQQW13OFBLanRnQWNldExZUkRzVFdnaDByQThKVGREN3V0RVFmblo3QjZXeFRpeGhuNGFkTVNBajlrengwMGNPdWRLODN1d3lFVUI0RG5CU212cVdQWFd5bWZSeFNsTURpM3hGQmY5UnlNT2RNNE9zcVl2RE1NOWpEY0QxTEl6aVRzV1J5azhienNJekhtWE9xOURrcXdCRlg4ZV9oQkl1dzZObndBUVF4Tm80WXA1RTIzNVJnc2xn?oc=5
-
-Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry TechCrunch
-
-## 2. Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable
+## 1. Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5
 
 Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable
+
+## 2. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry - TechCrunch
+Source: TechCrunch (reputable)
+URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxQQW13OFBLanRnQWNldExZUkRzVFdnaDByQThKVGREN3V0RVFmblo3QjZXeFRpeGhuNGFkTVNBajlrengwMGNPdWRLODN1d3lFVUI0RG5CU212cVdQWFd5bWZSeFNsTURpM3hGQmY5UnlNT2RNNE9zcVl2RE1NOWpEY0QxTEl6aVRzV1J5azhienNJekhtWE9xOURrcXdCRlg4ZV9oQkl1dzZObndBUVF4Tm80WXA1RTIzNVJnc2xn?oc=5
+
+Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry TechCrunch
 
 ## 3. Opinion | Banning Chinese AI Models Is Complicated - WSJ
 Source: WSJ (reputable)

@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-09T22:48:43.246164+00:00",
+  "updated_at": "2026-08-09T23:45:03.828722+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
+      "what_happened": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-09T23:18:16+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry - TechCrunch",
       "what_happened": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry TechCrunch",
@@ -10,17 +21,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-09T20:35:17+00:00",
       "age_hours": 2.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
-      "what_happened": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T20:17:42+00:00",
-      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
