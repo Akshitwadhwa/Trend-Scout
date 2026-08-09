@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T09:54:58.001250+00:00",
+  "updated_at": "2026-08-09T10:51:46.888662+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-08-09T09:00:06+00:00",
-      "age_hours": 0.9,
+      "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-09T08:11:09+00:00",
-      "age_hours": 1.7,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -295,7 +295,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-07T21:05:37+00:00",
-      "age_hours": 36.8,
+      "age_hours": 37.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },

@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-09T09:54:58.001250+00:00
+Updated: 2026-08-09T10:51:46.888662+00:00
 Memory window: 48 hours
 
 ## 1. Jevon’s Paradox: why China’s cheap AI models could be good for Silicon Valley - South China Morning Post
