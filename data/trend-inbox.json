@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-10T18:02:20.607160+00:00",
+  "updated_at": "2026-08-10T19:15:05.776802+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push - CNBC",
+      "what_happened": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkc0VE5DYXlTRVNaYU1DRElZUVVwNDR3VG5aQ0pUTzlGS0c1UFNzUVA5Z3NIdFktV3hscktUVnVsS0UtR2RxZ0JQOWJZcElRZDNZRGNncXBWSTZFWFp3NWdwM054MFJ2OHVkWkpSdVJjVGFxbmNIQjdKanlZVFdmRkJvUFdzZkVlN0pCMEdqbzNCX1Yy0gGaAUFVX3lxTE90YzhwRlVTdmQ1aTNHZzl6elRlR2FJTDJTd2llX3d6Ym1yNnR1bUtRbjRjWXVkTGlZZVloanNKTDdMdmdZUFZma2hlMnYwNjNicDZUOTF6emxlaXRSbXhUejFId01ib1lyaVBnelVWRjhfTVg1ek45QjJPSlEwcWFSZm9faVB0WS1XLXlMOGR1UUNWcHVGWnBqN3c?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T18:58:47+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve - CNBC",
+      "what_happened": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QOGwxSHNLd2VfQzc4ZC1aaGgyMGFzQjV3b3ZWR0NQUmpXUmVHalRlSERRTFlQUEZQMDQ0azJlYnJEZGlObk9sR2xXUG9oRkpWTXFMaUhWWXRCLWZ1MTB0b1JRQ2NNcGNHWDVmbWI4UlNlZ2toRXfSAXtBVV95cUxObk1PT3kwQWxxemdBSmh6RGVKODJMb2VNWWtOM0hsc193Y2ZOTF9NNnhyZExNWDE4SzNQR0JzMW5mNnl5RVZTd0R1dU5pcDFOMUFCNWVqd1h1YWRZTmJGcUpuVUU3b1dSUHg3TW82dy1wWnF6bjYtd3dNcmM?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T18:40:32+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows - OpenAI",
+      "what_happened": "Expanding Daybreak as the Cyber Defense Window Narrows OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHhOZWxZTjFGeVhORk1uYkFLc2tpM2d1SmxadExqMU1KM1lrMmt3VVh2SXpFZ01GRGFBSWJYcG1NSU02a1ZLTFEzb3hwd1VJcUt6bk9oam9ZYXZLdFZBTEdveF9SQjl3Z1B5Z3JlOS1uN2pnd1JTclY4b21hREdzUmxSOFZ1alE?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-08-10T18:33:45+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Best Samsung phone deal: Save $259.99 on the Samsung Galaxy S26+ - Mashable",
+      "what_happened": "Best Samsung phone deal: Save $259.99 on the Samsung Galaxy S26+ Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YWmNDT3k3STlSdmp0RVRub2hZdVgwRjVzQTJhYWZESEZHQktRcm5PRkJGLXJSY0paMmV6SjlxN3RRUEc2cTFucjBlbm1HV0pjbXAwcUx6WEIxNWZ1TmlLXzVSQ1RhaExDWnIwUDlB?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T17:40:52+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Nvidia to team with Wall Street on $500 billion package, FT says - Moneycontrol.com",
       "what_happened": "Nvidia to team with Wall Street on $500 billion package, FT says Moneycontrol.com",
@@ -20,17 +64,6 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-10T17:02:43+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best Samsung phone deal: Save $259.99 on the Samsung Galaxy S26+ - Mashable",
-      "what_happened": "Best Samsung phone deal: Save $259.99 on the Samsung Galaxy S26+ Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YWmNDT3k3STlSdmp0RVRub2hZdVgwRjVzQTJhYWZESEZHQktRcm5PRkJGLXJSY0paMmV6SjlxN3RRUEc2cTFucjBlbm1HV0pjbXAwcUx6WEIxNWZ1TmlLXzVSQ1RhaExDWnIwUDlB?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T17:00:55+00:00",
       "age_hours": 1.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
@@ -97,7 +130,7 @@
       "source_name": "KED Global",
       "source_level": "reputable",
       "published_at": "2026-08-10T14:50:00+00:00",
-      "age_hours": 3.2,
+      "age_hours": 4.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-09T11:31:42+00:00",
       "age_hours": 6.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans - The Indian Express",
-      "what_happened": "Samsung Galaxy Z Fold 8 review: The \u2018pocket phone\u2019 that actually fits your jeans The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFFTzFUZ3RjeXo3Ym90czRpOF9oZFJMeVBwbmNwZ2lBcGNZd1hWOUd2X1p0VWo4STQwVW5tdW5Tai16SUVkQU9OYTl3YndheDBRT3NsWkRvdGFaM0hzYXdVeDBadGFVdjdBZEZGd282XzRFOXhLSWtBbkQyVGk4UnFLeDNhUkpWSHo3a2x3dWVpdTNlZGtZNG5SYzFacGvSAaYBQVVfeXFMUC1vSGFFMkx1NEVhUlRZS25LY2h2bjYtemg3bEJXS1hYWXdUSGhFNlNhbGk3WVZMcmxiS0xHZXpZS284aEEzMEVMa2V4M1RDUExuNGxTamVLMmREVjVtWVFURGdSbTBaSXNDc2xkWEZUN2V5Qzh6ME9uZzlLREc2RUdEOElTMFFSV09mYVRmRl9pUXdnTk5HTnlvcTlCZjFNX1hHODl3Zw?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T11:08:55+00:00",
-      "age_hours": 6.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ",
-      "what_happened": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlR2QW5JZE9sLXYta285NU5Oa3kwdHhXQUk0WE5nT3lPbGxhSEJXQzlOUndnYnp3VzE3UmZJNzUya2NFS3pGUU1LWEFFbEZIaTVzajRrX09CYnBqRnBTSU1aXzgwSXlDTEVKMXNOc1BpcVA0M3BBSUVaQU1UWGc3NlZTempuTlZ0WDluUjdCZ0xtSm1D?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T10:54:00+00:00",
-      "age_hours": 3.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Jevon\u2019s Paradox: why China\u2019s cheap AI models could be good for Silicon Valley - South China Morning Post",
-      "what_happened": "Jevon\u2019s Paradox: why China\u2019s cheap AI models could be good for Silicon Valley South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR3I2SEZVVUlCbEFObFNaalhvQ3lIcG40bTNqX3BmdkVUdEJheTd3WnRKd0xSRnJpU1RwQjV6RDI1aUhmNXNBZG9DUnV0YmpjanhuU19JN2g3Y0F5Z1JqUWdhd1JRX21QTUZGeHQ3WjZCRlpRNFE3NHlJZ0h0SFl0em5qdFV0TERZNmtfZ0lxS1JmYVM5Mi1sdkhMUUlkNGdiYTNJajdneW9kcmtQa3Z0bHpTcEN6M1BnOUphMV9YOWFtZ9IBwgFBVV95cUxPZjV2bGNYcmhzM3I1N1lTZ2JaLTA0Sy14dXlWUlZyY1Mzb1BFcTBaWmhIS3hXcThMbnZSa3JFWm5vbmd1RUo1ekk1NTFMZDM3c1V3NXVBRGJYb0NoaXdzZ1FiS3dFRlIyTzVYSHRRLXVRUzU3cnJQM1ZUbldyLVlPSXZBR0NxQmg3MDl5MS1adHp2SERQX3Vqek9lcFpmbGNpenpEM1ZiMGZzZTJjR0ZBWmVXckVuTzV6MjhoUjlTT0xzUQ?oc=5",
-      "source_name": "South China Morning Post",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T09:00:06+00:00",
-      "age_hours": 5.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
