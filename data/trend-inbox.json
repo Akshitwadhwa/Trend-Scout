@@ -1,26 +1,15 @@
 {
-  "updated_at": "2026-08-10T04:52:28.512704+00:00",
+  "updated_at": "2026-08-10T06:21:50.877002+00:00",
   "retention_hours": 48,
   "items": [
     {
-      "title": "Apple tests China\u2019s CXMT memory chips for iPhones and MacBooks: Report - The Indian Express",
-      "what_happened": "Apple tests China\u2019s CXMT memory chips for iPhones and MacBooks: Report The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb3g2RVNWSktLTGV2azAxS09jdlk3M0tZTUtqSlJPSjFaczFHNzhJVWFySVdRVTIxb2tQSzdqQzVEdWNCMk1ZcDhtOTRoMGVWV0k5U0EwT0MxSkNFd1lULWo1ZTdESHd5VGxmdG5LUGRzcm85ZVZxV0ZLMTdaY1hRcTBfcG9oR0gyQXJkVDZkbHBaWVNYNEp2aDdReHJlUzRfckdxUUF2cVQyQ1d1ajN1LTJnNmRubERKaEJlTEs5anpmMzVfdXpmemZMSjZQVlA2bVRHR1ViQVhyZUxi0gHjAUFVX3lxTE52TVlqdHlleHlmXzJTZVFNd282XzRFUVI4NGYtR3hmbHRiZ2VrVWdyeHNFVWd4dGZFeTlMZmRIZjZIejgyWmtnS3RlbFRJZ183d05USV85Qnp2eXc0R0RmSnFPRDE0SVJWTkg0Um9vWWxlTzRpNlV5eGJjMWIwTXpIcG5KNjV1cUFGRjZ1M1RQdTlUVy0xLUc0OUJaMFlEek5fQU8wOG53Nm8wSTczazNfbnlmUWxZcU1wUnhEVENVQW5JcTlrdkVDeWFuYVNXUVRTS25Ha1NQSlFWMWVSbndlNTdR?oc=5",
-      "source_name": "The Indian Express",
+      "title": "South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster - Reuters",
+      "what_happened": "South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnZjclJ4ZTNzOU1TQllqMUJkMTRUWDVXakRfV21XQWpXWGg1OVlzYUhDV2RPSTlwQnhrVVhCZm5ZMWVVZmNPMUlPN2FVZ0RtOVBOTHNWRzZmRXRJYUh5bU00UW0yYjY2SC1jcEE2ekIxbHpyNTM1YzQ3TTdOaExTN3o0cnM2WTRsNExXVFVSN0wtclpxVDctZWl6Uk9FM2RMREIwbGV0Z3NhRW9Xa0VENUhFdGo4SV9sdHV2QXctSTJnVERCM2I1LQ?oc=5",
+      "source_name": "Reuters",
       "source_level": "reputable",
-      "published_at": "2026-08-10T03:50:18+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
-      "what_happened": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T02:20:56+00:00",
-      "age_hours": 2.5,
+      "published_at": "2026-08-10T06:13:00+00:00",
+      "age_hours": 0.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -30,8 +19,52 @@
       "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjNUTWV1UWhiQkpLWXhpWURhVlpuSm5GOVc3OWhOSFRxZWI5SnZxRkdnR0ZPaUxla0lCRFpXT2xYSmVNejVsaHFKTlhwM1BkU3RPc3c4NmtkeXRqYkVMZDB3UUI4VHJaQjZPNVZnUHFaVThVM1hrNDNaSjVILTgwMWJCeHNxTmlQc0JGZ0dtQUpMZkdGNnB3c0tLZ3NneFpQNE5EUW9hUENQejFFYmRkQg?oc=5",
       "source_name": "WSJ",
       "source_level": "reputable",
-      "published_at": "2026-08-10T02:05:07+00:00",
-      "age_hours": 0.5,
+      "published_at": "2026-08-10T06:02:49+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
+      "what_happened": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T05:21:39+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI and Anthropic AI models went rogue, cases are linked to one Israeli startup - India Today",
+      "what_happened": "OpenAI and Anthropic AI models went rogue, cases are linked to one Israeli startup India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZmxjdE8zYkU5Q25EdThVWWdwalU1Uld0OVV5T2RxakhMWTJ4ZldOOTVoNXFuLWFQOXJIMm5yRlBQbGxLempYLXJMNDdxcC1fdzBUbDBmMmZNdnU4UTl3Uy1yc0c2bGU5LWdfa25OSFRyN0hmeWZSSU0yTVFVUXV1SElDS183RUZvNkkya1NtakhwZHF0SkZoYkNlNlJWWUZMNmhxUmQ5ei0wWWNWMVN6V05uT2hjR21MUl9xZ3Nfa1VjTkJaZ0xGTEM4NmxRVjNFNnIxaUlyS3VfRV9VOEhETE9LZjhXeUXSAecBQVVfeXFMT2ZsY3RPM2JFOUNuRHU4VVlncGpVNVJXdDlVeU9kcWpITFkyeGZXTjk1aDVxbi1hUDlySDJuckZQUGxsS3pqWC1yTDQ3cXAtX3cwVGwwZjJmTXZ1OFE5d1MtcnNHNmxlOS1nX2tuTkhUcjdIZnlmUklNMk1RVVF1dUhJQ0tfN0VGbzZJMmtTbWpIcGRxdEpGaGJDZTZSVllGTDZocVJkOXotMFljVjFTeldObk9oY0dtTFJfcWdzX2tVY05CWmdMRkxDODZsUVYzRTZyMWlJckt1X0VfVThIRExPS2Y4V3lF?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T05:02:03+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Wallet launches paperless train ticket service with Korail - The Korea Times",
+      "what_happened": "Samsung Wallet launches paperless train ticket service with Korail The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3U0c0FGWFE1Q2NwQkVGT1FEc2NCX0ExM0RfSTRsOWNrdFRhV3J1UjJHQW1SQlZhZWxVcnFrMVdlcGhvXzlocGpZajVsQnozeVloLU94R3gxNU1QSVpqR01PbWpidUhqUzNxcFpPVjF2OTlwR1lTak9uc0VvY0JPVWtIZWVDSHdGb2JFSEFtb1pIMF9rOS1PS201cUdSY3k1bUFDbW1NX19wSThYX2h3RFNqT2EwOUJhRUdSV0QyNFRpUDFvdVHSAcYBQVVfeXFMT0N1NHNBRlhRNUNjcEJFRk9RRHNjQl9BMTNEX0k0bDlja3RUYVdydVIyR0FtUkJWYWVsVXJxazFXZXBob185aHBqWWo1bEJ6M3lZaC1PeEd4MTVNUElaakdNT21qYnVIalMzcXBaT1Yxdjk5cEdZU2pPbnNFb2NCT1VrSGVlQ0h3Rm9iRUhBbW9aSDBfazktT0ttNXFHUmN5NW1BQ21tTV9fcEk4WF9od0RTak9hMDlCYUVHUldEMjRUaVAxb3VR?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T04:32:00+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple tests China\u2019s CXMT memory chips for iPhones and MacBooks: Report - The Indian Express",
+      "what_happened": "Apple tests China\u2019s CXMT memory chips for iPhones and MacBooks: Report The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb3g2RVNWSktLTGV2azAxS09jdlk3M0tZTUtqSlJPSjFaczFHNzhJVWFySVdRVTIxb2tQSzdqQzVEdWNCMk1ZcDhtOTRoMGVWV0k5U0EwT0MxSkNFd1lULWo1ZTdESHd5VGxmdG5LUGRzcm85ZVZxV0ZLMTdaY1hRcTBfcG9oR0gyQXJkVDZkbHBaWVNYNEp2aDdReHJlUzRfckdxUUF2cVQyQ1d1ajN1LTJnNmRubERKaEJlTEs5anpmMzVfdXpmemZMSjZQVlA2bVRHR1ViQVhyZUxi0gHjAUFVX3lxTE52TVlqdHlleHlmXzJTZVFNd282XzRFUVI4NGYtR3hmbHRiZ2VrVWdyeHNFVWd4dGZFeTlMZmRIZjZIejgyWmtnS3RlbFRJZ183d05USV85Qnp2eXc0R0RmSnFPRDE0SVJWTkg0Um9vWWxlTzRpNlV5eGJjMWIwTXpIcG5KNjV1cUFGRjZ1M1RQdTlUVy0xLUc0OUJaMFlEek5fQU8wOG53Nm8wSTczazNfbnlmUWxZcU1wUnhEVENVQW5JcTlrdkVDeWFuYVNXUVRTS25Ha1NQSlFWMWVSbndlNTdR?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T03:50:18+00:00",
+      "age_hours": 1.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -285,17 +318,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T08:17:08+00:00",
       "age_hours": 1.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Sam Altman says Astra model is so powerful, OpenAI can't launch it now - India Today",
-      "what_happened": "Sam Altman says Astra model is so powerful, OpenAI can't launch it now India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmtHYTd3b0lrT0FWRkg5Q1BqRXZQY2dQQ21sOWZObGZwNkVQX2RWSExKcU9ROG1RcExtSXR6WF9QeXcwdmF4LUNxeG5SdzJ5dGMxZm85OEtmSzA2NFJkNGZmT2tHVUdyOF9fZGxOVWs0NUxCMm9FM29XdmYxRlAzS0RBQVpzZDhBTGptZWwzYTdJLUFiLWNsbHhFVUF6QmJ2ellhQkxHQkRNTk5qV2p3VklWWUdDT3F3MDZRTXNhOEtnWFB4SVRLLUFWN1p5OUVf0gHWAUFVX3lxTFBEcGM1ekxyR1VuRGxSVTh3aU9iSFU4WUdIOVJ4TmoyYUxocXhDQ1VieEVwT3JoQ3JXSW5vZFFUSm8wQUdEMjNlVkhoQnhHSlIwOG5sMFNNVDBSZXNzdWp3R1RNZWZsSkhXLURyclFmaW1FTWhpemdNLTVGT0dxYVNkcWFQdTBrUEYxel9aR1VQUXpXWTh4SVk0Y2Z1ajE5ZW5wSGFyNGRIWnJpdV9DRml4Q2FoMWUyblFSRlU1OXhzeFlGOE04c3VORzJNSnZPLVdCSlNuMkE?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T05:52:58+00:00",
-      "age_hours": 4.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
