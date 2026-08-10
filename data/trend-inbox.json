@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-10T17:07:26.671128+00:00",
+  "updated_at": "2026-08-10T18:02:20.607160+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia to team with Wall Street on $500 billion package, FT says - Moneycontrol.com",
+      "what_happened": "Nvidia to team with Wall Street on $500 billion package, FT says Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONFJCVkl4WGZGbmgwZ2hvMEl3ZFdCckNMN1dVWW9jb29idHJJWGVzc1E3MG84c3RIV2gwRVMyUy1oZGNfOS1iNHpPV2QwTFlZSEF5V2hEVXlmWFNpSHJZR0locVlQSGdUbWpYREJwN1FwaUpEd21tUVlaVjNIbENHZU85aGY5T2ZfS3BFQ3dicWdjUGJvQU42eUt2YmN1NnlpazZZdDllNkpmV3lRbmhXbnFsWGkzZW1HMlE1MU5SZzJzWVYtQ2fSAcsBQVVfeXFMTi05dEtLaTRlWFo0UGlud2lWZHRDZHdQX1VEU0hRTlNWR1Mxc2RVb19SQzdwc1lHQmR6X2RsaFNQNFRobDhyUmsya2luLUp4TXpPSXRHYUprRW5kNzB4RHdqQmlHWDlxYV9qcEFvUHlwLXBrY3h5bndaQ0hjUVlwMnI1UzFUSTVGN0xhV1h1LVE3MHg2NG5vQXVTUDBpZlJ6cWZab1JTdlFLS0g0Rl9uZjIzU1ZnUVNWNTJRR0FzUXM1aUNGbmEwVVJjX2s?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T17:31:50+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "A major Apple Watch redesign may be coming - Mashable",
       "what_happened": "A major Apple Watch redesign may be coming Mashable",
@@ -9,7 +20,18 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-10T17:02:43+00:00",
-      "age_hours": 0.1,
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Best Samsung phone deal: Save $259.99 on the Samsung Galaxy S26+ - Mashable",
+      "what_happened": "Best Samsung phone deal: Save $259.99 on the Samsung Galaxy S26+ Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YWmNDT3k3STlSdmp0RVRub2hZdVgwRjVzQTJhYWZESEZHQktRcm5PRkJGLXJSY0paMmV6SjlxN3RRUEc2cTFucjBlbm1HV0pjbXAwcUx6WEIxNWZ1TmlLXzVSQ1RhaExDWnIwUDlB?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T17:00:55+00:00",
+      "age_hours": 1.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +53,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-10T16:20:13+00:00",
-      "age_hours": 0.8,
+      "age_hours": 1.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -75,7 +97,7 @@
       "source_name": "KED Global",
       "source_level": "reputable",
       "published_at": "2026-08-10T14:50:00+00:00",
-      "age_hours": 2.3,
+      "age_hours": 3.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-09T09:00:06+00:00",
       "age_hours": 5.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "iPhone 18 Pro launching in few weeks, here are 10 updates Apple likely to introduce - India Today",
-      "what_happened": "iPhone 18 Pro launching in few weeks, here are 10 updates Apple likely to introduce India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEIzbkl0T3R1ZHZfbkIwWHJtNUpxSDhfeWt6cGtRUDU4VmdnNXFQSC11bFZCNE90dlRMTDlhdzNlWW85VTk5UFgwSS13Y1dBY3FfbFNGWUxJRHlYYnowVnU3N1VocnFnQTUxZ29janY3c0NMVWRqYmFPVlhsRnk1V0w5dV9vNWYzRWJzNzU1TS1JRXRtTDAwWU1BQmZxeEJDejZHWlA2UmdUMWJ3X3oyaTI3WGpzT2lBd0R1WTlRSExRMVV2MXl0TU9WazVNQ03SAc8BQVVfeXFMTzRCM25JdE90dWR2X25CMFhybTVKcUg4X3lrenBrUVA1OFZnZzVxUEgtdWxWQjRPdHZUTEw5YXczZVlvOVU5OVBYMEktd2NXQWNxX2xTRllMSUR5WGJ6MFZ1NzdVaHJxZ0E1MWdvY2p2N3NDTFVkamJhT1ZYbEZ5NVdMOXVfbzVmM0Viczc1NU0tSUV0bUwwMFlNQUJmcXhCQ3o2R1pQNlJnVDFid196MmkyN1hqc09pQXdEdVk5UUhMUTFVdjF5dE1PVms1TUNN?oc=5",
-      "source_name": "India Today",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T07:59:14+00:00",
-      "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple says Mac users in China can connect to Alibaba\u2019s Qwen AI service - The Indian Express",
-      "what_happened": "Apple says Mac users in China can connect to Alibaba\u2019s Qwen AI service The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSktDSnRzXzU4Q3NjTzMwT3hPTEpUWnN0Y1k1M0pVN2I2bzJTN1FtOVBSR0lxZ2RwMjhVSVlCZmdpSVNOdEJGYk9kT290bEVUMWM0bmkwbnFyaHVIT0syejVvX1plRl9EcF9QNW9ZWWZTWmRPZ0VTVWNMckJUWlE4bTlxU0Rtb3dOYmJFRG5VRklvWjhLMFR2X2E3Umc3R3VnSjFGczNrRE9xUVZXZ0xRb3ZxdVdlS3BYWmFWZGxzZEhGXzhPNWZvdldNV2FZT3NqQm54ek40cEtpeVV4dnfSAeQBQVVfeXFMTWMzSDQ1dXdWVkxCSGNwUV96cUZlV2pjbjU4S3cwa2lRS2h1RHJGMEdRNmNmYnpUMDdlWnA5eEJlSmVUX1JvZGo5X1JsdjlPdlJOTF9mcldNaUpUTW91VHFhd0FTQVlubEp0UC1nM1pSSnUyUzBoTlgwX19SbW0teHQyVHE4bktCcDBLc0ZFQkhjS21hZDMtVHV3SFB2MXA4QXE5QjAtVG5rRjd1U3RrNDl0Z1lzTlhDSHB2U0tYMndRbHRTMWJMMkdiRjdCdzYzZTB6QjhpSDFKUkdMQ0dFZEY1OVpM?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T04:32:18+00:00",
-      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
