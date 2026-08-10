@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-10T16:09:33.438872+00:00",
+  "updated_at": "2026-08-10T17:07:26.671128+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "A major Apple Watch redesign may be coming - Mashable",
+      "what_happened": "A major Apple Watch redesign may be coming Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VcEdpY29RRTQzRHNYb0k4WU8xTHg3RjlRQkM3eE1Ob3lNbl9UX1NjVnV3WHdyZWh1aGttSzltT1BDaVZCQzliY0pablJ1Q3pyWDlmRmp4WFZvUEpCSlVyRS1lakY?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T17:02:43+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Wall Street giants to partner with Nvidia on $500 billion AI financing deal, FT reports - Reuters",
+      "what_happened": "Wall Street giants to partner with Nvidia on $500 billion AI financing deal, FT reports Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC15TDEteDI0VXNtbnFkb016anJWMDJqVHRSTDlRNVNkTXFIS2NVWWlDVVVldmN1Qld0ZWIyeXowZ3d6WkFQR2YtQWN6SUU1Tzl3VFR2YmphekZzUWtCZGpsQmFWQVR4bzhEdGI1Tkxfby15cy1xVWVhWXYzQUU5WTlYWDRHc2d1azhzYXJaMHcyeGxJT0pBdU5RRXpfZG15QTJrdmRBd3hrSnlDLV9wTUdiU3U5NW5PYXBUbGJoZEdmVHBY?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T16:46:56+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision - TechCrunch",
+      "what_happened": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T16:20:13+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Meta's new AI model is a 'positive development for the ecosystem,' says D.A. Davidson's Gil Luria - CNBC",
       "what_happened": "Meta's new AI model is a 'positive development for the ecosystem,' says D.A. Davidson's Gil Luria CNBC",
@@ -42,7 +75,7 @@
       "source_name": "KED Global",
       "source_level": "reputable",
       "published_at": "2026-08-10T14:50:00+00:00",
-      "age_hours": 1.3,
+      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-09T04:32:18+00:00",
       "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Profit-linked bonuses at Samsung, SK unlikely to spread across Korean biz - The Korea Times",
-      "what_happened": "Profit-linked bonuses at Samsung, SK unlikely to spread across Korean biz The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVRQRHJZZjZqUF9BYjRtOWJWTW9UZFZhU3AwcUJ0Q3dPZ3ZhU3NJb3pxY05JTm5rQXFFWUptVjhpekk3ZUNCeHZBalA2NmppVHdnMS1ITlFySThFTkV2cFIyeDZIYUgtWXZpQVFNTkwtSlFudFJFMkF6T2JlWTdCUl9abFRmbFNHdDFiLWNPVVd5R2NIQTN1cnZXa1BzVHAyY2RaNXFHazgyNUN0bVRFcUJSNnQ5c3ZfWG5zbFhqNUdHcHJTa18zbdIBzgFBVV95cUxNTHp0OHZxVWt6M0tYZ21IY3pyX0RZZktCOXBfQjVTekFabGh1V2g2X0xYei1YT3M0aU9MNWkxWUpISERiWXdPZUJqMVJqM1NCX045RWpjTFcxUUFfVHNSWkNhWmVkbWs5QkZrSXFvOFhGb01SN3djelFOYnVNNGZHREhBVXU0UDl3c2JxLXJHV3RvRHdSSHNMVTdCSkU1X3lrT3o2RVNicEM5ZXZYa2tPM25TN0ktOExFMjNNdGg3cnBoMjBwSE5IMHd6NllhQQ?oc=5",
-      "source_name": "The Korea Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T02:35:03+00:00",
-      "age_hours": 4.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia - NVIDIA Blog",
-      "what_happened": "Firebird Launches CIS Region\u2019s Largest AI Factory in Armenia NVIDIA Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFhLSV9ISjJIVzQ4d2IyN0dVTk9RbkJ6T0NtYmtsZUhVeklkRUJnLVhraWdKYWE5eWc5OW9xMWRrdDVvTUxTOTJpX1lVZ0ZhNW5GendIWVpVZnYwQ25NWVFFRGc3cDR3TDNfZjNScmVMbDhnMXg2YkxSc1lXazAzWlc4ejg?oc=5",
-      "source_name": "NVIDIA Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-08T23:26:15+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle \u2014 retailers hold GPUs hostage similar to the crypto boom - Tom's Hardware",
-      "what_happened": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle \u2014 retailers hold GPUs hostage similar to the crypto boom Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd1NLZmM5OGZLdk9qZXpqRnRjLXFLTjNVUkpEeUFDUUtRLXdwUFJtTWx2aW8xRFh4Q0dqSmVFd1daNDhRaTV3NzVNdEVoMnlpeTZabFI1Mk1lRWw5R0dPU05PdVFUWURkX180Ym80MmZqenNzbjR2VEFCOXVKNHlhU1JaLWhmUnRWZ3p6ZHpBU0ZpU1Z1WXkwbDMxck5Mcy0wSHdGakp3WUFYTldrRTdHZGJsQ1ZZNXEyc1JUeFhOVDNzcDh3UW5rM1BpWXRlSjFUTjREamRHdGo3M0EyNzNHbTRoRGNLR0dKUE5VZA?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T17:08:45+00:00",
-      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
