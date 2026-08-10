@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-09T23:45:03.828722+00:00
+Updated: 2026-08-10T02:32:52.610978+00:00
 Memory window: 48 hours
 
 ## 1. Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable
@@ -11,53 +11,53 @@ URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3
 
 Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable
 
-## 2. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry - TechCrunch
+## 2. Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ
+Source: WSJ (reputable)
+URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjNUTWV1UWhiQkpLWXhpWURhVlpuSm5GOVc3OWhOSFRxZWI5SnZxRkdnR0ZPaUxla0lCRFpXT2xYSmVNejVsaHFKTlhwM1BkU3RPc3c4NmtkeXRqYkVMZDB3UUI4VHJaQjZPNVZnUHFaVThVM1hrNDNaSjVILTgwMWJCeHNxTmlQc0JGZ0dtQUpMZkdGNnB3c0tLZ3NneFpQNE5EUW9hUENQejFFYmRkQg?oc=5
+
+Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash WSJ
+
+## 3. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry - TechCrunch
 Source: TechCrunch (reputable)
 URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxQQW13OFBLanRnQWNldExZUkRzVFdnaDByQThKVGREN3V0RVFmblo3QjZXeFRpeGhuNGFkTVNBajlrengwMGNPdWRLODN1d3lFVUI0RG5CU212cVdQWFd5bWZSeFNsTURpM3hGQmY5UnlNT2RNNE9zcVl2RE1NOWpEY0QxTEl6aVRzV1J5azhienNJekhtWE9xOURrcXdCRlg4ZV9oQkl1dzZObndBUVF4Tm80WXA1RTIzNVJnc2xn?oc=5
 
 Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry TechCrunch
 
-## 3. Opinion | Banning Chinese AI Models Is Complicated - WSJ
+## 4. Opinion | Banning Chinese AI Models Is Complicated - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU5reldnaEtJUWVoVVlIMGZjaTlHQWd2LWpQd1pUN2xVV19tWlRDZzNISVZoOGJUdDRQR0kzSmlhYmJTcURpZzdXc2lxNGlWWGVSWVBKR2htWjVNYWVGWU1tNTBMRzBTSk5nVXJFS29ZUDVHV3ktQ2JROWI1NUpDNGN1Yw?oc=5
 
 Opinion | Banning Chinese AI Models Is Complicated WSJ
 
-## 4. Modder pumps liquid directly over bare GPU silicon via 3D-printed block — drops RTX 2060 Super load temps to 28°C despite initial leaks - Tom's Hardware
+## 5. Modder pumps liquid directly over bare GPU silicon via 3D-printed block — drops RTX 2060 Super load temps to 28°C despite initial leaks - Tom's Hardware
 Source: Tom's Hardware (reputable)
 URL: https://news.google.com/rss/articles/CBMimwJBVV95cUxOMlBnWXN6OU9ERXFHU3l0aDJvU3hwZ2VsaXBuclJpcjZPNE5IazMtVnVKTlpJWm51ZjdkWlVLMDJMcHFaLXZudUFTUU5Raklxc21YemMxek1lajl6WnFVOFNUWmJQM2g2MWFBcEtFR0hydUdmZ2VEYlFoMXN1Z1ZjOWtiTjNxeHZ2ek1Kd0owM2E4WTVZWU9feDVvbmd3eS0tcEp6MDRubUNtckZ4UlZ6QlI0WHpoeDlKeFdoMWo0dlZQdUJpenQzM01XWlpvX1BXMWNHdTFQXzB3YTVlcUs5NWdaY3pOTDRqMUxic05PR09JaHlmZXB6c284SVdXZm1lR3VCTGo1WUVWcndWenc2U2twX2VMWGlpS3lR?oc=5
 
 Modder pumps liquid directly over bare GPU silicon via 3D-printed block — drops RTX 2060 Super load temps to 28°C despite initial leaks Tom's Hardware
 
-## 5. Musk’s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined — all-in-one chip manufacturing facility visualized to show the project’s massive footprint - Tom's Hardware
+## 6. Musk’s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined — all-in-one chip manufacturing facility visualized to show the project’s massive footprint - Tom's Hardware
 Source: Tom's Hardware (reputable)
 URL: https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNC1ZMUtPbDBxencwbTNsV3N4U1VuNENCWVEwX1NuNm51MlR0YldrZHFxMUxocGt6ZDI3RG9lTHBqY2xhV2RyQ19vZkNSVldaQWZBVFNyWnB0ZkQySDJCS05RcTZjSW5qekFfQmRQWm94ZldUbzJ6UDFvQzg5WExHTGlLRjEyVDdZRDVac3QtWXB0Rkd0ampVajJmV012X3Q4QWRIbEpXcFVKX2ktNDJ2U3g2eXFEMXROaXgzUVZWQU8xX25RRjI2elVnOUZydmhLN3dzNXFsRVNJWE5xbHd2dkFmWFNYUzR0U0hsRG45QzhUUE1yLVp0OTRXal9MUGtoaGYzczJPQ3BmTmVyRS1fakZpVTU3ejBpZURBSE0yX2tEczVkbWxLVjczR19xWWRPWnRkZkRTMEg4VlQ5VktQWTVhdTVvVU53T1dGelFfYll3R1cxRmZPQkFfcTB0WE1YVWhNcXQzQnZhYmZL?oc=5
 
 Musk’s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined — all-in-one chip manufacturing facility visualized to show the project’s massive footprint Tom's Hardware
 
-## 6. How to get a free Apple iPhone 17 from T-Mobile this weekend - Mashable
+## 7. How to get a free Apple iPhone 17 from T-Mobile this weekend - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUmV0UEpBWk84MW5sZ0tFcmJMaU1YOXRRbU9PY0hOcDloSUo1b2MxY0xrcTNwRmJJZG5FNG9JMEhON0pyVzBoS3RkeTZURWVwbkJudzNjNUpEUTN6b2l6WWRsXzk?oc=5
 
 How to get a free Apple iPhone 17 from T-Mobile this weekend Mashable
 
-## 7. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC
+## 8. How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5
 
 How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta CNBC
 
-## 8. Samsung Galaxy Z Fold 8 review: The ‘pocket phone’ that actually fits your jeans - The Indian Express
+## 9. Samsung Galaxy Z Fold 8 review: The ‘pocket phone’ that actually fits your jeans - The Indian Express
 Source: The Indian Express (reputable)
 URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYjFFTzFUZ3RjeXo3Ym90czRpOF9oZFJMeVBwbmNwZ2lBcGNZd1hWOUd2X1p0VWo4STQwVW5tdW5Tai16SUVkQU9OYTl3YndheDBRT3NsWkRvdGFaM0hzYXdVeDBadGFVdjdBZEZGd282XzRFOXhLSWtBbkQyVGk4UnFLeDNhUkpWSHo3a2x3dWVpdTNlZGtZNG5SYzFacGvSAaYBQVVfeXFMUC1vSGFFMkx1NEVhUlRZS25LY2h2bjYtemg3bEJXS1hYWXdUSGhFNlNhbGk3WVZMcmxiS0xHZXpZS284aEEzMEVMa2V4M1RDUExuNGxTamVLMmREVjVtWVFURGdSbTBaSXNDc2xkWEZUN2V5Qzh6ME9uZzlLREc2RUdEOElTMFFSV09mYVRmRl9pUXdnTk5HTnlvcTlCZjFNX1hHODl3Zw?oc=5
 
 Samsung Galaxy Z Fold 8 review: The ‘pocket phone’ that actually fits your jeans The Indian Express
-
-## 9. Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ
-Source: WSJ (reputable)
-URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjNUTWV1UWhiQkpLWXhpWURhVlpuSm5GOVc3OWhOSFRxZWI5SnZxRkdnR0ZPaUxla0lCRFpXT2xYSmVNejVsaHFKTlhwM1BkU3RPc3c4NmtkeXRqYkVMZDB3UUI4VHJaQjZPNVZnUHFaVThVM1hrNDNaSjVILTgwMWJCeHNxTmlQc0JGZ0dtQUpMZkdGNnB3c0tLZ3NneFpQNE5EUW9hUENQejFFYmRkQg?oc=5
-
-Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash WSJ
 
 ## 10. Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ
 Source: WSJ (reputable)
@@ -172,15 +172,3 @@ Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGRzVU5HUkpWQlpMLW41Y210Mlk1TXJlbEstTFh2TDZnSWhjejlZcTk5YjF5TERBdUt5dDAxUWZUVmtLaVp6STg5LU4xRGdLWGxuTVBvQ1h1ZEpCZ08tTFZqMEFobHNNNWoyaTIzdE9GQWlwLUpvbGtnRldMRnB4S2didmt6eW93MnRxOXVB?oc=5
 
 Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea Mashable
-
-## 29. OpenAI takes Apple lawsuit to court of public opinion, posts texts - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE04eDRRWFhONlFXOXZOcnlVNmhwV1d3QkN6WFM3cExXZldaZHNVSXM1aWs4dzF4Wml1QTY4TkRoS2xPTlRpVzk4LXhSVmpoNGQyTDJGcHZLRm5sczVlRzlSU2tXWHJDV2gxVGhWUlZ4YVY3VjRkQjl5djBfbHZmdw?oc=5
-
-OpenAI takes Apple lawsuit to court of public opinion, posts texts Mashable
-
-## 30. Thailand looks to Siam Silica to propel it to top Asean semiconductor player - South China Morning Post
-Source: South China Morning Post (reputable)
-URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb00xUzhJaEpwNVJIMDN3YXktYkpiSTlmRHhkbzNtZmltaFR6YjlyeTlCeUhsNEVmUDJ3MURpQVJfUmRLVnpxM0pWMTRVSmt5WF9qd3J1NU5naElXU1VrQ3V6aEQyOGhQUWJLRzdVY05KQzQxZUdhRm1UY3FaNkJCZHRBZG9FVTFsMGpmYUo2UkxoS0pvcE1uMzl2bFFkaGhGNzJxc194YXZmNzd5bUtLMmZ4Q3hSMFl2TjRFM1ZfQlLSAcABQVVfeXFMT3FHbC01bjk1dEpDWEh3TzJFeGVhZmFMUHY3QU81NHV2RURHLVNZazFSZnZoZExHbEkxWmJxb1Noc0Z5MktvaDdXY1loUnp2S2ZyU1NRTXZJUU1DempJcklydTU3RW1faE9wd2diNWZoY2pmbFBqMXJDdmQ1Z3B5WTBwNXpNS0NqUzFYczIzVW1CVU5iWUkwSFBSemRnRi1KVHV4MVdyUUJZT2c0cTUwbWhrdllXTU1kckJFdDRVbUhh?oc=5
-
-Thailand looks to Siam Silica to propel it to top Asean semiconductor player South China Morning Post
