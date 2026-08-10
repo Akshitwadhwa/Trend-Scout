@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-10T02:32:52.610978+00:00",
+  "updated_at": "2026-08-10T04:52:28.512704+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Apple tests China\u2019s CXMT memory chips for iPhones and MacBooks: Report - The Indian Express",
+      "what_happened": "Apple tests China\u2019s CXMT memory chips for iPhones and MacBooks: Report The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPb3g2RVNWSktLTGV2azAxS09jdlk3M0tZTUtqSlJPSjFaczFHNzhJVWFySVdRVTIxb2tQSzdqQzVEdWNCMk1ZcDhtOTRoMGVWV0k5U0EwT0MxSkNFd1lULWo1ZTdESHd5VGxmdG5LUGRzcm85ZVZxV0ZLMTdaY1hRcTBfcG9oR0gyQXJkVDZkbHBaWVNYNEp2aDdReHJlUzRfckdxUUF2cVQyQ1d1ajN1LTJnNmRubERKaEJlTEs5anpmMzVfdXpmemZMSjZQVlA2bVRHR1ViQVhyZUxi0gHjAUFVX3lxTE52TVlqdHlleHlmXzJTZVFNd282XzRFUVI4NGYtR3hmbHRiZ2VrVWdyeHNFVWd4dGZFeTlMZmRIZjZIejgyWmtnS3RlbFRJZ183d05USV85Qnp2eXc0R0RmSnFPRDE0SVJWTkg0Um9vWWxlTzRpNlV5eGJjMWIwTXpIcG5KNjV1cUFGRjZ1M1RQdTlUVy0xLUc0OUJaMFlEek5fQU8wOG53Nm8wSTczazNfbnlmUWxZcU1wUnhEVENVQW5JcTlrdkVDeWFuYVNXUVRTS25Ha1NQSlFWMWVSbndlNTdR?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T03:50:18+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
       "what_happened": "Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-10T02:20:56+00:00",
-      "age_hours": 0.2,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -285,28 +296,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T05:52:58+00:00",
       "age_hours": 4.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold - Moneycontrol.com",
-      "what_happened": "OpenAI strengthens security controls as upcoming Astra AI model nears critical cyber threshold Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQekFDUkpFNVJMNzRQZXdOalN3dTRZUS1rM1JnRUVlekJDa0hPUHQ5MTB6Q2xtUjdIQV9iQVAxR2Y5S3lmdTNaamF2NERDaTM4WkExRWNEdFRicUJ5N1pWQ2ZrQy1GTzd2cmpUQ292TTBZOE83Skh2b0FxLTV5bW5KQVBLLXNRXzU2dG1tTUs0RTVlN0V6dGE4QmxDVlhQUHA2YXhZRFFyOURVZnZiS0JVT3N6YTVxUWFJckQ1eWYyV2tVcVpsRGd1QVN5VHlEWTZnbG1UNThzSTRsZGZLY21zcjNranMwcm9BZnlHV01ucktPUdIB8gFBVV95cUxQekFDUkpFNVJMNzRQZXdOalN3dTRZUS1rM1JnRUVlekJDa0hPUHQ5MTB6Q2xtUjdIQV9iQVAxR2Y5S3lmdTNaamF2NERDaTM4WkExRWNEdFRicUJ5N1pWQ2ZrQy1GTzd2cmpUQ292TTBZOE83Skh2b0FxLTV5bW5KQVBLLXNRXzU2dG1tTUs0RTVlN0V6dGE4QmxDVlhQUHA2YXhZRFFyOURVZnZiS0JVT3N6YTVxUWFJckQ1eWYyV2tVcVpsRGd1QVN5VHlEWTZnbG1UNThzSTRsZGZLY21zcjNranMwcm9BZnlHV01ucktPUQ?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T04:18:34+00:00",
-      "age_hours": 4.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea - Mashable",
-      "what_happened": "Samsung Galaxy Z series foldables are breaking pre-order records in the US and Korea Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGRzVU5HUkpWQlpMLW41Y210Mlk1TXJlbEstTFh2TDZnSWhjejlZcTk5YjF5TERBdUt5dDAxUWZUVmtLaVp6STg5LU4xRGdLWGxuTVBvQ1h1ZEpCZ08tTFZqMEFobHNNNWoyaTIzdE9GQWlwLUpvbGtnRldMRnB4S2didmt6eW93MnRxOXVB?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T02:48:27+00:00",
-      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
