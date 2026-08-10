@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-10T20:02:40.744627+00:00",
+  "updated_at": "2026-08-10T21:01:04.336000+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia CEO Jensen Huang: Computing industry is going through a fundamental platform shift - CNBC",
+      "what_happened": "Nvidia CEO Jensen Huang: Computing industry is going through a fundamental platform shift CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORGxJdlZkMkthbEFZQk5TcnZxYVNjcjk4UE9XREVXcnFpMWU0VGVFX1k5NlNZS3Z3NjVfREo0cl9FckVQQm9fY1F5Z3gzWFVBUWE5X2x2Mk1CSW9FbzFQQldwaWJWZHRicmdyOG4zdnJKTmV2RkJVa0hNczRxaU1qX08xNjR6UjAxanRySUc5eUpzdFpFczRGaFY3Uy1mUElkOGtjYi15NzNOMG1mS1J6OWQxTjR0d1RSY2hHbktYNUl0TWpOeWwzRnk3UQ?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T20:26:20+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push - CNBC",
+      "what_happened": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1REN2lzYWhpVmNzZENwUS00b3Ewa0wySXdRSUNkNm8zQ1hXM3JpSjUxNHgxUE5wNTBNN0NGbDVFa1pJZm5yY1daX0tQeHVmcS1oTmIweGxSanBYeVAzVURCSnNvMVQzWVdrSm5qbURLZ2I2dVRsSHNoNmttX2ItOXphTFc4S011bTRfdlNLR2V0ck1Pb1JvcDNCOGRHNE5QOW9rS3g2QTlJNTJ4ZnZFTWVYV0RjSlVmSG9aM0NsSEZpWDQ4eWpz?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T20:21:21+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
       "what_happened": "US House Democrats press Anthropic, OpenAI about rogue AI agents Reuters",
@@ -9,7 +31,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-10T19:48:45+00:00",
-      "age_hours": 0.2,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,20 +42,9 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-10T19:30:00+00:00",
-      "age_hours": 0.5,
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push - CNBC",
-      "what_happened": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRkc0VE5DYXlTRVNaYU1DRElZUVVwNDR3VG5aQ0pUTzlGS0c1UFNzUVA5Z3NIdFktV3hscktUVnVsS0UtR2RxZ0JQOWJZcElRZDNZRGNncXBWSTZFWFp3NWdwM054MFJ2OHVkWkpSdVJjVGFxbmNIQjdKanlZVFdmRkJvUFdzZkVlN0pCMEdqbzNCX1Yy0gGaAUFVX3lxTE90YzhwRlVTdmQ1aTNHZzl6elRlR2FJTDJTd2llX3d6Ym1yNnR1bUtRbjRjWXVkTGlZZVloanNKTDdMdmdZUFZma2hlMnYwNjNicDZUOTF6emxlaXRSbXhUejFId01ib1lyaVBnelVWRjhfTVg1ek45QjJPSlEwcWFSZm9faVB0WS1XLXlMOGR1UUNWcHVGWnBqN3c?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T18:58:47+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve - CNBC",
@@ -42,9 +53,20 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-08-10T18:40:32+00:00",
-      "age_hours": 1.4,
+      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows - openai.com",
+      "what_happened": "Expanding Daybreak as the Cyber Defense Window Narrows openai.com",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHhOZWxZTjFGeVhORk1uYkFLc2tpM2d1SmxadExqMU1KM1lrMmt3VVh2SXpFZ01GRGFBSWJYcG1NSU02a1ZLTFEzb3hwd1VJcUt6bk9oam9ZYXZLdFZBTEdveF9SQjl3Z1B5Z3JlOS1uN2pnd1JTclY4b21hREdzUmxSOFZ1alE?oc=5",
+      "source_name": "openai.com",
+      "source_level": "primary",
+      "published_at": "2026-08-10T18:35:46+00:00",
+      "age_hours": 2.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows - OpenAI",
@@ -152,7 +174,7 @@
       "source_name": "KED Global",
       "source_level": "reputable",
       "published_at": "2026-08-10T14:50:00+00:00",
-      "age_hours": 5.2,
+      "age_hours": 6.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-09T14:42:00+00:00",
       "age_hours": 8.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block \u2014 drops RTX 2060 Super load temps to 28\u00b0C despite initial leaks - Tom's Hardware",
-      "what_happened": "Modder pumps liquid directly over bare GPU silicon via 3D-printed block \u2014 drops RTX 2060 Super load temps to 28\u00b0C despite initial leaks Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMlBnWXN6OU9ERXFHU3l0aDJvU3hwZ2VsaXBuclJpcjZPNE5IazMtVnVKTlpJWm51ZjdkWlVLMDJMcHFaLXZudUFTUU5Raklxc21YemMxek1lajl6WnFVOFNUWmJQM2g2MWFBcEtFR0hydUdmZ2VEYlFoMXN1Z1ZjOWtiTjNxeHZ2ek1Kd0owM2E4WTVZWU9feDVvbmd3eS0tcEp6MDRubUNtckZ4UlZ6QlI0WHpoeDlKeFdoMWo0dlZQdUJpenQzM01XWlpvX1BXMWNHdTFQXzB3YTVlcUs5NWdaY3pOTDRqMUxic05PR09JaHlmZXB6c284SVdXZm1lR3VCTGo1WUVWcndWenc2U2twX2VMWGlpS3lR?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T14:15:00+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Musk\u2019s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined \u2014 all-in-one chip manufacturing facility visualized to show the project\u2019s massive footprint - Tom's Hardware",
-      "what_happened": "Musk\u2019s Terafab projected to be larger than the Pentagon, Apple Park, Mall of America, and Giga Texas, combined \u2014 all-in-one chip manufacturing facility visualized to show the project\u2019s massive footprint Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNC1ZMUtPbDBxencwbTNsV3N4U1VuNENCWVEwX1NuNm51MlR0YldrZHFxMUxocGt6ZDI3RG9lTHBqY2xhV2RyQ19vZkNSVldaQWZBVFNyWnB0ZkQySDJCS05RcTZjSW5qekFfQmRQWm94ZldUbzJ6UDFvQzg5WExHTGlLRjEyVDdZRDVac3QtWXB0Rkd0ampVajJmV012X3Q4QWRIbEpXcFVKX2ktNDJ2U3g2eXFEMXROaXgzUVZWQU8xX25RRjI2elVnOUZydmhLN3dzNXFsRVNJWE5xbHd2dkFmWFNYUzR0U0hsRG45QzhUUE1yLVp0OTRXal9MUGtoaGYzczJPQ3BmTmVyRS1fakZpVTU3ejBpZURBSE0yX2tEczVkbWxLVjczR19xWWRPWnRkZkRTMEg4VlQ5VktQWTVhdTVvVU53T1dGelFfYll3R1cxRmZPQkFfcTB0WE1YVWhNcXQzQnZhYmZL?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T13:55:00+00:00",
-      "age_hours": 7.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
