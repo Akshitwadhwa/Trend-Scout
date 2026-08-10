@@ -2,26 +2,26 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-10T06:21:50.877002+00:00
+Updated: 2026-08-10T08:50:34.340071+00:00
 Memory window: 48 hours
 
-## 1. South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster - Reuters
+## 1. Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5
+
+Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable
+
+## 2. South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster - Reuters
 Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdnZjclJ4ZTNzOU1TQllqMUJkMTRUWDVXakRfV21XQWpXWGg1OVlzYUhDV2RPSTlwQnhrVVhCZm5ZMWVVZmNPMUlPN2FVZ0RtOVBOTHNWRzZmRXRJYUh5bU00UW0yYjY2SC1jcEE2ekIxbHpyNTM1YzQ3TTdOaExTN3o0cnM2WTRsNExXVFVSN0wtclpxVDctZWl6Uk9FM2RMREIwbGV0Z3NhRW9Xa0VENUhFdGo4SV9sdHV2QXctSTJnVERCM2I1LQ?oc=5
 
 South Korea's Lee wants military airbase relocated by mid-2028 for chip cluster Reuters
 
-## 2. Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ
+## 3. Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjNUTWV1UWhiQkpLWXhpWURhVlpuSm5GOVc3OWhOSFRxZWI5SnZxRkdnR0ZPaUxla0lCRFpXT2xYSmVNejVsaHFKTlhwM1BkU3RPc3c4NmtkeXRqYkVMZDB3UUI4VHJaQjZPNVZnUHFaVThVM1hrNDNaSjVILTgwMWJCeHNxTmlQc0JGZ0dtQUpMZkdGNnB3c0tLZ3NneFpQNE5EUW9hUENQejFFYmRkQg?oc=5
 
 Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash WSJ
-
-## 3. Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUnE0emduTGpSSVU4dktOM3I2eTA3cGlDYWtqYk5uNEV5b08wRVA4RFJTQkZHQy1zZWxBc2tuMmNBZGVKNWJ0TkFneW5IYzAxQV9saW50TmNuUEpV?oc=5
-
-Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable
 
 ## 4. OpenAI and Anthropic AI models went rogue, cases are linked to one Israeli startup - India Today
 Source: India Today (reputable)
@@ -172,9 +172,3 @@ Source: Business Insider (reputable)
 URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmFISm0zVkhsQzhCelFtMnlyd21URzBZOXJfNnNhLWxzS24zeldnUnB5bjMwMFc3Ul9qbU1XVTc0ai0waUFOLWhIeTMtREhZUnVtTEZlYkVCZWpLSFY3VFN3SjM1ZmtnUnE3YldkdDdpaEtqUy1fZUllZTYzMkM5Sjc4OHp6UXFEM1R6VzJNc0RJRFB4ZHlubVV3Zw?oc=5
 
 Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust Business Insider
-
-## 29. Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 — offer ends tonight - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxQTWFETFRESld4U2FCSmJGSzBLOXR3MlZMdlcxMGJUN2R0NjM0YmVkcnJuUWxnUTBwVWtEZjBCd0o1XzNHVkVHX0gzSEtjVTJWOUZfZzM0YnkzYmk1b0w5MzZhc2E5eWpxNmhnQU1HNUVkc21EX3FjZFF5V1V2bkFVWnFqdUV2a2dhaGc?oc=5
-
-Amazon is giving away $100 gift cards with the Samsung Galaxy Watch Ultra 2 — offer ends tonight Mashable
