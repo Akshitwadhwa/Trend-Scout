@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-10T13:42:01.396367+00:00",
+  "updated_at": "2026-08-10T15:15:09.815906+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Apple, MLB announce September \u201cFriday Night Baseball\u201d schedule",
+      "what_happened": "Apple and Major League Baseball unveiled the September schedule for \u201cFriday Night Baseball.\u201d",
+      "source_url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
+      "source_name": "apple.com",
+      "source_level": "primary",
+      "published_at": "2026-08-10T14:59:21.977000+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Korea\u2019s too rigid antitrust rules risk pushing key display tech into Chinese hands - KED Global",
+      "what_happened": "Korea\u2019s too rigid antitrust rules risk pushing key display tech into Chinese hands KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FQkg2S3pESm5IRThWUGtiQjNma2prVTdNVlk4eXo1M2U2cFRkY2NKMnhKUmdxMWlScFJ2empETUFtbWduX0tQQ3E5QjNveTk3LUg5T055TDI5Q0p1Tk1TMThuOHU3YTlKWTJpckxUOA?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T14:50:00+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 survives the ultimate stress test - Mashable",
+      "what_happened": "Samsung Galaxy Z Fold 8 survives the ultimate stress test Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lRWgwYUJORUE0NzBIV2JiLU44ek4zelo4Q1ViYXIwZ3RnX3FzOFNvRXM4SU1FTHFid1hSeG0zV3dUN1BjTU1vYk02UVJrVzBMVU1QbDZWUHdSYXVTUFVyN0V2ZHNKV1dCMmlILVNB?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T14:00:32+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA - NVIDIA Developer",
       "what_happened": "Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA NVIDIA Developer",
@@ -54,17 +87,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T12:18:10+00:00",
       "age_hours": 1.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Korea\u2019s too rigid antitrust rules risk pushing key display tech into Chinese hands - KED Global",
-      "what_happened": "Korea\u2019s too rigid antitrust rules risk pushing key display tech into Chinese hands KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FQkg2S3pESm5IRThWUGtiQjNma2prVTdNVlk4eXo1M2U2cFRkY2NKMnhKUmdxMWlScFJ2empETUFtbWduX0tQQ3E5QjNveTk3LUg5T055TDI5Q0p1Tk1TMThuOHU3YTlKWTJpckxUOA?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T09:06:00+00:00",
-      "age_hours": 2.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T16:51:00+00:00",
       "age_hours": 11.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI to pause some work on AI model Astra due to security concerns - The Guardian",
-      "what_happened": "OpenAI to pause some work on AI model Astra due to security concerns The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T16:51:00+00:00",
-      "age_hours": 4.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI to pause work on AI model Astra due to security concerns - The Guardian",
-      "what_happened": "OpenAI to pause work on AI model Astra due to security concerns The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T16:51:00+00:00",
-      "age_hours": 0.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
