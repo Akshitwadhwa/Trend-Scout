@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-10T19:15:05.776802+00:00",
+  "updated_at": "2026-08-10T20:02:40.744627+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
+      "what_happened": "US House Democrats press Anthropic, OpenAI about rogue AI agents Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T19:48:45+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Using the GitHub Copilot SDK for Java",
+      "what_happened": "Enterprise Java developers have a new superpower\u2014drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-10T19:30:00+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push - CNBC",
       "what_happened": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push CNBC",
@@ -20,7 +42,7 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-08-10T18:40:32+00:00",
-      "age_hours": 0.6,
+      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +53,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-10T18:33:45+00:00",
-      "age_hours": 0.7,
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -42,7 +64,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-10T17:40:52+00:00",
-      "age_hours": 1.6,
+      "age_hours": 2.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -130,7 +152,7 @@
       "source_name": "KED Global",
       "source_level": "reputable",
       "published_at": "2026-08-10T14:50:00+00:00",
-      "age_hours": 4.4,
+      "age_hours": 5.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-09T13:55:00+00:00",
       "age_hours": 7.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How to get a free Apple iPhone 17 from T-Mobile this weekend - Mashable",
-      "what_happened": "How to get a free Apple iPhone 17 from T-Mobile this weekend Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUmV0UEpBWk84MW5sZ0tFcmJMaU1YOXRRbU9PY0hOcDloSUo1b2MxY0xrcTNwRmJJZG5FNG9JMEhON0pyVzBoS3RkeTZURWVwbkJudzNjNUpEUTN6b2l6WWRsXzk?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T13:32:28+00:00",
-      "age_hours": 6.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta - CNBC",
-      "what_happened": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU95TFhjeUdscnZoOElsdnRhRmV5eTNEZ0dpa3VRTmFCdEVmSTRNOGIyWjJOcTl1aFo3OENPNC1DTFJoWGk5YTJjSVhEQjd1ZzhFQVFteEI1R3dwb0ctbkNuREx2MkpMbHVMVnBfczV5eG1NQlZ2anZ6MXlDdnplS2ljSWVoVlBQaWhZS0JfdUQxNGZEY3VqLUZBTWY5MENKRUpKTnpn0gGrAUFVX3lxTE1uTHVPT3VwRk16aWFGZFFmdEI2akJOaXhmVmpjNkhzVDRkdUpoRDcyZS1HQ2NzZzAyRTJzcjJGTDIyNG5CYTMxY2NxNC1NS2hZQ2VRdUNZUVgweWNPZnBoQjJpd3BudHN5WFJFU2RrcU1EbU5OMEprNGlHQVJzRk1UbndLeUNOSjd0S0FiNjhUbjBkVXdaN2lkdlBTRWt1MjZ3WVh1SmtyNVdXcw?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T11:31:42+00:00",
-      "age_hours": 6.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
