@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T21:56:51.126694+00:00",
+  "updated_at": "2026-08-10T22:55:27.380493+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -64,7 +64,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-10T19:30:00+00:00",
-      "age_hours": 2.4,
+      "age_hours": 3.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -196,7 +196,7 @@
       "source_name": "KED Global",
       "source_level": "reputable",
       "published_at": "2026-08-10T14:50:00+00:00",
-      "age_hours": 7.1,
+      "age_hours": 8.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
