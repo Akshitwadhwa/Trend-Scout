@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-10T11:57:45.952730+00:00",
+  "updated_at": "2026-08-10T13:42:01.396367+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA - NVIDIA Developer",
+      "what_happened": "Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA NVIDIA Developer",
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2l4UGplR3p1OXVuS2tCc3Q3TDV6MmtVRkVmdUhodzJSZE9EeG91dmt0S3VQbkU4OWpFM3dHb2NHS1R3M21uOVloT25jdTh2M2IzZ3EyUnVzUDhRRTZQc2NxbjNjUkpONnRMSFZqWUJRTHlaMWZJanlOLUFUSzRlUExXVFFpWDRpRFF2M3d5X1FKZ2ItNXdWR1FwZVF6V2xP?oc=5",
+      "source_name": "NVIDIA Developer",
+      "source_level": "primary",
+      "published_at": "2026-08-10T13:29:50+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Microsoft plans to unveil new Maia 300 AI chip in September, The Information reports - Reuters",
+      "what_happened": "Microsoft plans to unveil new Maia 300 AI chip in September, The Information reports Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenR3bGI3XzFrd0ZXY205bU84b3ZLUFR5VEFhYjBGMEVWekNKeHhWZnJYaEE2TC1ETk9oNVZreEJDeEZWaU8zbjVVMHhNRlZjcGRQNXRXWlJOOTdFQWJ3RkNCRmVrdDJuOTl6eTRTUzRQdXNNN3g3RkdnUHp2eFlPM3lCM2xQN3NYSlJ3bmFyXzNpNHo2SzUwNGZqN0RVVjh5cjF4ZUNvWTNId1MyZG9IdkdvMzNGb1VkSUZGZXdRWQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T13:20:58+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
+      "what_happened": "Meta launches new AI model as Zuckerberg champions open-weight push Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T12:26:21+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic - CNBC",
+      "what_happened": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLQ?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T12:23:11+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Tech transforming rural classrooms, Samsung Galaxy Z Fold 8 review & Meta India controversy | Tech Today - India Today - India Today",
+      "what_happened": "Tech transforming rural classrooms, Samsung Galaxy Z Fold 8 review & Meta India controversy | Tech Today - India Today India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNLUpQWlpkQkdHcldVM21qWktqc0Q4MnE4V1pWUTlnZnNvbGpEeThLSkF0cDFZRWkzLURrZjdHTnBpbldTTFk5RThLVmc2X20zVEY0dVIyTGl6QWxJWTZLXy1qbkNOazhHLTBDODdPT3FESHhua1d6NmNBZ0o0dW16NlRVU1lLbGplU2cwQmliV2hpVDRmRW0teDZabGNHY0drWllBbHkwRVNRdUFYQXpySXdTZE5qTmNEUnZKMjhZeHVZYklaMWVvQk9lOWl2VmkzalE0RnNyZVptTHFJWW9jUHdzbjZMdmpXcG1WcDByU0tiU3NfM2JCNC1Vam12VWNIRExSMnlmZ9IBhwJBVV95cUxNLUpQWlpkQkdHcldVM21qWktqc0Q4MnE4V1pWUTlnZnNvbGpEeThLSkF0cDFZRWkzLURrZjdHTnBpbldTTFk5RThLVmc2X20zVEY0dVIyTGl6QWxJWTZLXy1qbkNOazhHLTBDODdPT3FESHhua1d6NmNBZ0o0dW16NlRVU1lLbGplU2cwQmliV2hpVDRmRW0teDZabGNHY0drWllBbHkwRVNRdUFYQXpySXdTZE5qTmNEUnZKMjhZeHVZYklaMWVvQk9lOWl2VmkzalE0RnNyZVptTHFJWW9jUHdzbjZMdmpXcG1WcDByU0tiU3NfM2JCNC1Vam12VWNIRExSMnlmZw?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T12:18:10+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Korea\u2019s too rigid antitrust rules risk pushing key display tech into Chinese hands - KED Global",
       "what_happened": "Korea\u2019s too rigid antitrust rules risk pushing key display tech into Chinese hands KED Global",
@@ -274,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T16:51:00+00:00",
       "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI Astra: The mysterious new quantum math-solving model - Mashable",
-      "what_happened": "OpenAI Astra: The mysterious new quantum math-solving model Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zdDNjX3BqbW52dzB3X0hCU0NqUEFfR0F4ZEtvVVF3UW1NNWw3dG1JWWRCS1VJUnlIZWF4a2hvb25SQncwa0N4TzN2WWQ5UFVXQllQaE1FcVZqT1JjVWdCbTJ0Wm9mNjJJUEotSnBpTUwtTFk?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T13:39:47+00:00",
-      "age_hours": 16.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities - Axios",
-      "what_happened": "Exclusive: OpenAI slows release of Astra model citing cyber capabilities Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdko0MVp5V3ZKdjJjSTd3cE1QUktsRC1PMGNheTRZNVRUTmR5T3NLNTFBSkMwZjBzLTJiMFBSZVN0WTJ6UlhPMEh5TmM4eThSQi1YTGJ4UUg3M1dnZmVyQ3ZMN1N2Wkl0SEt6eDZQa3d0N2dsR1I1R25XeVVEMHp6aWdrcw?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T12:56:32+00:00",
-      "age_hours": 8.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
-      "what_happened": "Apple says Mac users in China can connect to Alibaba's Qwen AI service Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T12:35:45+00:00",
-      "age_hours": 9.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
