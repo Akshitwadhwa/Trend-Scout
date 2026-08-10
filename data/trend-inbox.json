@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-10T21:01:04.336000+00:00",
+  "updated_at": "2026-08-10T21:56:51.126694+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "'Fast Money' traders talk Nvidia partnering with six Wall Street firms to fund AI infrastructure - CNBC",
+      "what_happened": "'Fast Money' traders talk Nvidia partnering with six Wall Street firms to fund AI infrastructure CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZzFZcFVvM1lLZTZPM0lwOU42aXJRc3Y0TWlqMFc1QjRBbW5RaF9GanlNMGhXZWZJbzMyNU1yaHR1T1Frelo5MjZLOW5XM1h5QWZrWXA4S21xZDNjSURKOTdsY19xNmtLbTd2VzE1ZHlkWEtXQ1hYVGhHbjQzTzFlZ3U4NUtUQ2RkUGpnNjBteElnd0EwVGNKdmpDTGVJNEhjanBtVHBUeFViZlVTWktqNjY1ZmdwYnJLX3N2Ym40QVZoSUdscF82ekhVSlBWM0kxU293?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T21:25:51+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Watch CNBC's full panel with Nvidia's Jensen Huang, BlackRock's Larry Fink, Goldman Sachs' David Solomon, and other top Wall Street executives - CNBC",
+      "what_happened": "Watch CNBC's full panel with Nvidia's Jensen Huang, BlackRock's Larry Fink, Goldman Sachs' David Solomon, and other top Wall Street executives CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMk0xSTJaY00tVHdIWmM5UFZQXzY1M2gyYk43dDBiVm9MdXpsTjl3Q252czZzZ1JUSkVnaG1PcDBfQTVMZlFELUNQS1JyWXJXeWJEMTZfRC12YWNVc1pnSGN6UFBCMVBzMTFjSnBmOXRtZk05TkpvWElzZ1BLZFU0SUg1YU8?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T21:21:53+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Nvidia CEO Jensen Huang: Computing industry is going through a fundamental platform shift - CNBC",
       "what_happened": "Nvidia CEO Jensen Huang: Computing industry is going through a fundamental platform shift CNBC",
@@ -31,7 +53,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-10T19:48:45+00:00",
-      "age_hours": 1.2,
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +64,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-10T19:30:00+00:00",
-      "age_hours": 1.5,
+      "age_hours": 2.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -174,7 +196,7 @@
       "source_name": "KED Global",
       "source_level": "reputable",
       "published_at": "2026-08-10T14:50:00+00:00",
-      "age_hours": 6.2,
+      "age_hours": 7.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T03:50:18+00:00",
       "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry - TechCrunch",
-      "what_happened": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQW13OFBLanRnQWNldExZUkRzVFdnaDByQThKVGREN3V0RVFmblo3QjZXeFRpeGhuNGFkTVNBajlrengwMGNPdWRLODN1d3lFVUI0RG5CU212cVdQWFd5bWZSeFNsTURpM3hGQmY5UnlNT2RNNE9zcVl2RE1NOWpEY0QxTEl6aVRzV1J5azhienNJekhtWE9xOURrcXdCRlg4ZV9oQkl1dzZObndBUVF4Tm80WXA1RTIzNVJnc2xn?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T20:35:17+00:00",
-      "age_hours": 2.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Opinion | Banning Chinese AI Models Is Complicated - WSJ",
-      "what_happened": "Opinion | Banning Chinese AI Models Is Complicated WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU5reldnaEtJUWVoVVlIMGZjaTlHQWd2LWpQd1pUN2xVV19tWlRDZzNISVZoOGJUdDRQR0kzSmlhYmJTcURpZzdXc2lxNGlWWGVSWVBKR2htWjVNYWVGWU1tNTBMRzBTSk5nVXJFS29ZUDVHV3ktQ2JROWI1NUpDNGN1Yw?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-09T14:42:00+00:00",
-      "age_hours": 8.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
