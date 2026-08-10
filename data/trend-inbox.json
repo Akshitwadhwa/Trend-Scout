@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-10T15:15:09.815906+00:00",
+  "updated_at": "2026-08-10T16:09:33.438872+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Meta's new AI model is a 'positive development for the ecosystem,' says D.A. Davidson's Gil Luria - CNBC",
+      "what_happened": "Meta's new AI model is a 'positive development for the ecosystem,' says D.A. Davidson's Gil Luria CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTJJMDRrbXAtMmZXWEtNRFhfMTVIT1hnMmszRTNKSEdoZmFNUzdxWU9ubW9KUVBITkJ6SkpCVkk4MHoydG5JckVhLVB4Z1lKRUVESWRaWWU2VTFXX0pNRDZ5UUtUemR2R1EtTHJkX0RrMVBCUFpsdU1ndnYxdXdhNHRUY2l5N2ZIeFI5emZBTWtvdU1WTGFqZkVxX3FsWk45WThGazIyelFvaTZUTlNKRjhsbWM4R3haOFl5ZnkxZkpGTnd5?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T15:44:08+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Meta launches Muse Glimmer AI model for laptops - Mashable",
+      "what_happened": "Meta launches Muse Glimmer AI model for laptops Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wMlRwYU51WHM2c1U2bEJsTTh4bE1ES3FSWnMxWTVaWm5ObmRIMjMzYUhHSHpna20zTUgtcjR6aGVRRVVzV1lyWmNJU3F1XzBUMlZyVmF0SkZtRGZPM3BrdktUZzFTLUI1Z05V?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-10T15:43:09+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Apple, MLB announce September \u201cFriday Night Baseball\u201d schedule",
       "what_happened": "Apple and Major League Baseball unveiled the September schedule for \u201cFriday Night Baseball.\u201d",
@@ -9,7 +31,7 @@
       "source_name": "apple.com",
       "source_level": "primary",
       "published_at": "2026-08-10T14:59:21.977000+00:00",
-      "age_hours": 0.3,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,7 +42,7 @@
       "source_name": "KED Global",
       "source_level": "reputable",
       "published_at": "2026-08-10T14:50:00+00:00",
-      "age_hours": 0.4,
+      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T17:08:45+00:00",
       "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code - Mashable",
-      "what_happened": "Lifetime access to Claude, GPT, Gemini, and 17+ other AI models is $60 with this promo code Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDhEWllMN2tzeUJxS2pJOFdBNzViaC15S3FFeGlUOWk4UTBFSzRMa1c1TVhvekxOYnRVRWpxR0F6OVVGallyQ2hiNjh6Z3RmRUVNWW1rUjZDLW0tY01lY3pZdlJyWnBQQTRoREI5WFVQXzVCOEFxU3V4dWczQWVIc05Fb2RFX1ZTRzRvcGtMWGI?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T16:57:07+00:00",
-      "age_hours": 5.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) - The Guardian",
-      "what_happened": "OpenAI to pause some work on AI model Astra due to security concerns | AI (artificial intelligence) The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T16:51:00+00:00",
-      "age_hours": 11.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
