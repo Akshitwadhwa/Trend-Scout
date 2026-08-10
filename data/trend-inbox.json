@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T08:50:34.340071+00:00",
+  "updated_at": "2026-08-10T10:35:35.286432+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -296,17 +296,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-08T12:35:45+00:00",
       "age_hours": 9.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust - Business Insider",
-      "what_happened": "Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmFISm0zVkhsQzhCelFtMnlyd21URzBZOXJfNnNhLWxzS24zeldnUnB5bjMwMFc3Ul9qbU1XVTc0ai0waUFOLWhIeTMtREhZUnVtTEZlYkVCZWpLSFY3VFN3SjM1ZmtnUnE3YldkdDdpaEtqUy1fZUllZTYzMkM5Sjc4OHp6UXFEM1R6VzJNc0RJRFB4ZHlubVV3Zw?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-08-08T09:37:15+00:00",
-      "age_hours": 3.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }

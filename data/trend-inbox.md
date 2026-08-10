@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-10T08:50:34.340071+00:00
+Updated: 2026-08-10T10:35:35.286432+00:00
 Memory window: 48 hours
 
 ## 1. Best SSD deals at Amazon this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable
@@ -166,9 +166,3 @@ Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5
 
 Apple says Mac users in China can connect to Alibaba's Qwen AI service Reuters
-
-## 28. Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust - Business Insider
-Source: Business Insider (reputable)
-URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmFISm0zVkhsQzhCelFtMnlyd21URzBZOXJfNnNhLWxzS24zeldnUnB5bjMwMFc3Ul9qbU1XVTc0ai0waUFOLWhIeTMtREhZUnVtTEZlYkVCZWpLSFY3VFN3SjM1ZmtnUnE3YldkdDdpaEtqUy1fZUllZTYzMkM5Sjc4OHp6UXFEM1R6VzJNc0RJRFB4ZHlubVV3Zw?oc=5
-
-Arena AI CEO Says Enterprises Don't Know Which AI Models to Trust Business Insider
