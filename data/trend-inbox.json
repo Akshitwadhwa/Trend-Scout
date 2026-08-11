@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-11T07:35:08.145612+00:00",
+  "updated_at": "2026-08-11T09:12:39.769020+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Seoul shares rise for second day as chip stocks lead rebound - Korea JoongAng Daily",
+      "what_happened": "Seoul shares rise for second day as chip stocks lead rebound Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUdlZEJfbi0yUnVqZE1yVjRmcmlpbWZlXzhOUHJ3N05KQ1BMcFd6Rkd6a2JrMlNvTkt0RUNEaWg0ZFkxTVVtdFlVMWdaTDFEbUJKOVlEMDk1ekNiZGNJbGY5c3pIRlpENjk1VVFveGo1RWd4RlFPejk3cVpVVkNhMjlaVE5OVnBtd2VlT1ljTEdXUmx1Y3VnQUhDREhETDVtZ2QtZjdZd3ZCTHVKWWVvdzlYaw?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-08-11T08:41:26+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung To Showcase Latest Gaming Innovations at Gamescom 2026",
       "what_happened": "Samsung Electronics today announced its participation at Gamescom 2026, taking place at Koelnmesse in Cologne, Germany, from Aug. 26-30. There, the company will showcase its full-stack gaming vision that seamlessly connects various gaming platforms. As the world\u2019s largest gaming event, Gamescom features approximately 1,500 software, hardware and game content companies. The event attracted 360,000 visitors [\u2026]",
@@ -9,7 +20,7 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-11T08:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,9 +31,20 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-11T08:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "OpenAI launches GPT-5.6-Cyber, expands Daybreak initiative with 2 new tiers - The Indian Express",
+      "what_happened": "OpenAI launches GPT-5.6-Cyber, expands Daybreak initiative with 2 new tiers The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYVo3QWxFanRZWlZ5THhFUjNzS2RNcDQxYWlnTG1fT3c1STdyUExONVcwbzdFU09lWFNrdGhlS1Q5YlR3QTZYZlVpeVgxVmV0RWpURVY5TFNIemgyakQwRlk2RlB3TTY4aFlIMFVSZHFaWFprZlI1Rkc2LTktQzhEVk9MYUNXcFlqTi1NSUs3NmFzbWx4TUR0cllTOUEyWGtTUDFOS0FqXzkzZkRXZEY1czJRLUFhM1RuM0J6aWFNR2RMRkNCVjROZG9ZbEhwdGNpWGkwV2hLUjNQZ9IB4AFBVV95cUxPamRHWkhjaEZSakNnRXF2dDBkOVpWWk00RUtqQ3ZnN3NPNzJndHl5dUVaMW5ZUVpxOWFucU9VOHNicGhHYlh3UlpkQUN4SXNCbHFVclgyc0NpSmxaZUJDOXZib2pzXzdrRkg4NVNEVGdBek90eGVEdktoZWhxbTFZaDh6b1BFM09ROFVlNWl1V0E1elI5SS1IbjM0cXVRbmVFTmluYjVZLVFwMDRrOEt3dmNub1lmQVg4WWRUXzJiWktuWk9RLXdNZ3lubzEtVlFKX2FwNkQyY0RFY0FyRk9JOQ?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-11T07:32:11+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Mark Zuckerberg bats for distillation, open AI models in 6,500 word AI manifesto: 7 key takeaways - Moneycontrol.com",
@@ -31,7 +53,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-11T07:12:01+00:00",
-      "age_hours": 0.4,
+      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -163,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-10T19:30:00+00:00",
-      "age_hours": 12.1,
+      "age_hours": 13.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T14:00:32+00:00",
       "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA - NVIDIA Developer",
-      "what_happened": "Run Local Agentic AI Workflows with Meta\u2019s Muse Glimmer on NVIDIA NVIDIA Developer",
-      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2l4UGplR3p1OXVuS2tCc3Q3TDV6MmtVRkVmdUhodzJSZE9EeG91dmt0S3VQbkU4OWpFM3dHb2NHS1R3M21uOVloT25jdTh2M2IzZ3EyUnVzUDhRRTZQc2NxbjNjUkpONnRMSFZqWUJRTHlaMWZJanlOLUFUSzRlUExXVFFpWDRpRFF2M3d5X1FKZ2ItNXdWR1FwZVF6V2xP?oc=5",
-      "source_name": "NVIDIA Developer",
-      "source_level": "primary",
-      "published_at": "2026-08-10T13:29:50+00:00",
-      "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Microsoft plans to unveil new Maia 300 AI chip in September, The Information reports - Reuters",
-      "what_happened": "Microsoft plans to unveil new Maia 300 AI chip in September, The Information reports Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPenR3bGI3XzFrd0ZXY205bU84b3ZLUFR5VEFhYjBGMEVWekNKeHhWZnJYaEE2TC1ETk9oNVZreEJDeEZWaU8zbjVVMHhNRlZjcGRQNXRXWlJOOTdFQWJ3RkNCRmVrdDJuOTl6eTRTUzRQdXNNN3g3RkdnUHp2eFlPM3lCM2xQN3NYSlJ3bmFyXzNpNHo2SzUwNGZqN0RVVjh5cjF4ZUNvWTNId1MyZG9IdkdvMzNGb1VkSUZGZXdRWQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T13:20:58+00:00",
-      "age_hours": 0.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
