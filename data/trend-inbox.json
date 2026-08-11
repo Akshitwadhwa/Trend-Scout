@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T21:02:58.443665+00:00",
+  "updated_at": "2026-08-11T22:03:00.332548+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,18 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-11T22:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Daybreak models are now available on AWS - openai.com",
+      "what_happened": "Daybreak models are now available on AWS openai.com",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SU9RVTVwLVo0ZVNlYVp6Mkd2TGM1dEc3eUtwRHJuQ3ZHeXZqbTd0SHZkZXZsRUhObWd0d2t2WlB3YWUyTVJfdTlNVlpUbkJONGc3N1NqR2hLQVc0N1NIZTlCQi1UOHlwSTJlTjU4TUFfSGxt?oc=5",
+      "source_name": "openai.com",
+      "source_level": "primary",
+      "published_at": "2026-08-11T21:50:32+00:00",
+      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,7 +31,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-11T20:26:26+00:00",
-      "age_hours": 0.6,
+      "age_hours": 1.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -42,7 +53,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-11T18:38:17+00:00",
-      "age_hours": 2.4,
+      "age_hours": 3.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T21:25:51+00:00",
       "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Watch CNBC's full panel with Nvidia's Jensen Huang, BlackRock's Larry Fink, Goldman Sachs' David Solomon, and other top Wall Street executives - CNBC",
-      "what_happened": "Watch CNBC's full panel with Nvidia's Jensen Huang, BlackRock's Larry Fink, Goldman Sachs' David Solomon, and other top Wall Street executives CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMk0xSTJaY00tVHdIWmM5UFZQXzY1M2gyYk43dDBiVm9MdXpsTjl3Q252czZzZ1JUSkVnaG1PcDBfQTVMZlFELUNQS1JyWXJXeWJEMTZfRC12YWNVc1pnSGN6UFBCMVBzMTFjSnBmOXRtZk05TkpvWElzZ1BLZFU0SUg1YU8?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T21:21:53+00:00",
-      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
