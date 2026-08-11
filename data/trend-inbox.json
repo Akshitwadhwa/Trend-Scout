@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-11T11:55:32.613923+00:00",
+  "updated_at": "2026-08-11T13:41:10.846946+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia Releases New Open Model - WSJ",
+      "what_happened": "Nvidia Releases New Open Model WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRlA3QlhOMEdmQ1VVbDZMOV9TNlhCdm0tcWRyaXFFX2d4VzFfalRFWUw3cGhmeXBwWThxczh2QnlWQWlNbEZuWGgxTTVnd1pxRWZSalZrN2cxLUpKNEFpN1A4RU9KUzhRa3dpaWdXZ2RJc0otcEV6Tzk1Yw?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-11T13:04:00+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - NVIDIA Blog",
+      "what_happened": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents NVIDIA Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5",
+      "source_name": "NVIDIA Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-11T13:03:13+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026 - TechCrunch",
+      "what_happened": "What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026 TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGdWMS1sc2o1TkQ5TjZuSm9KckRURE1BbmNCUEE4YWM5WXlzNmV0SVhNUlR1TkwzQ2xSczA2UHZIdmYyS1JrRllnZXQ2REhlemtiSzc5dXBPRktaZVBlUFFPekt5TTdWZTZhSGVlazJreDV4czBiTW8zbm5JcmtNSGpBRFRIUUo2ZWdXTG9OTUFzZmJQWWFpYU9pWDRLVWVSdl9sVWpxQnlLbnh4Y1M0dnhVdUVQTG5HSFJmVmViM1ZFaURCRTFvS0dERmY?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-11T12:30:00+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Nvidia lines up $500B in financing, partners with 6 Wall Street firms on lending platforms - CNBC",
       "what_happened": "Nvidia lines up $500B in financing, partners with 6 Wall Street firms on lending platforms CNBC",
@@ -218,7 +251,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-10T19:30:00+00:00",
-      "age_hours": 16.4,
+      "age_hours": 18.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T16:46:56+00:00",
       "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision - TechCrunch",
-      "what_happened": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWwzeUJxYkFGS3MxY0xucVh5QXRpWUNaVjZuUUwwVU1JWWtrYUlDZlJYNFE2bWh5dkFlQm5lNm5xdXRxdmpPc1N5S3B6dGhqREtMR2ZaaVhVeERlNlpfSlhCRHBZMGttcnVtaWZpQy1BRkptV2RIRXhYeVlQaVJWSkxfRmpPeTNQUVZhSXhoSWE3cTE1VUg5cEpqbzVraXNrdWg2TmlfbXFmSkRhSmtGNnVNblR3eHpRMTU0?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T16:20:13+00:00",
-      "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta's new AI model is a 'positive development for the ecosystem,' says D.A. Davidson's Gil Luria - CNBC",
-      "what_happened": "Meta's new AI model is a 'positive development for the ecosystem,' says D.A. Davidson's Gil Luria CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTJJMDRrbXAtMmZXWEtNRFhfMTVIT1hnMmszRTNKSEdoZmFNUzdxWU9ubW9KUVBITkJ6SkpCVkk4MHoydG5JckVhLVB4Z1lKRUVESWRaWWU2VTFXX0pNRDZ5UUtUemR2R1EtTHJkX0RrMVBCUFpsdU1ndnYxdXdhNHRUY2l5N2ZIeFI5emZBTWtvdU1WTGFqZkVxX3FsWk45WThGazIyelFvaTZUTlNKRjhsbWM4R3haOFl5ZnkxZkpGTnd5?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T15:44:08+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta launches Muse Glimmer AI model for laptops - Mashable",
-      "what_happened": "Meta launches Muse Glimmer AI model for laptops Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wMlRwYU51WHM2c1U2bEJsTTh4bE1ES3FSWnMxWTVaWm5ObmRIMjMzYUhHSHpna20zTUgtcjR6aGVRRVVzV1lyWmNJU3F1XzBUMlZyVmF0SkZtRGZPM3BrdktUZzFTLUI1Z05V?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T15:43:09+00:00",
-      "age_hours": 0.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
