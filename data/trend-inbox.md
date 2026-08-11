@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-11T10:09:35.924461+00:00
+Updated: 2026-08-11T11:04:01.786192+00:00
 Memory window: 48 hours
 
 ## 1. Seoul shares rise for second day as chip stocks lead rebound - Korea JoongAng Daily
