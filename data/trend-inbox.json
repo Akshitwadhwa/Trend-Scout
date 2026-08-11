@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T06:03:04.991864+00:00",
+  "updated_at": "2026-08-11T07:35:08.145612+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -23,6 +23,28 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Mark Zuckerberg bats for distillation, open AI models in 6,500 word AI manifesto: 7 key takeaways - Moneycontrol.com",
+      "what_happened": "Mark Zuckerberg bats for distillation, open AI models in 6,500 word AI manifesto: 7 key takeaways Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOX0tyd2FmU2p0d2ZfQTlPNExWNTllTHptbG9DbjJlWlR5Vm5INlpKSGNnUUt6UnRTLTZCVlp3TUJrNHZxMFd0azk4MF9hUkx3NDlpVzJUbTZGQ2NpTjU3TzlyQUVCYXRJajRVVjdIRHdDRU1vYWJiUlhZeThmbmc4S2pBSmRwYzk3eW44NmZRT0YzZEY1RnVZdFY5cHJSY3dJWU94cHlIVFRWbzIwOXVCY29rUkY0T3JCb1lyVmpXeFVKdzhoUk1YcWQzX0pIVjNROGJtNmVwQ01PRklwZERYNWMteHBOanNzUGF6UUcxNDhRWUh4ZEJQZlRQczlqdEXSAYQCQVVfeXFMTlpOTTdWMFpnU2pBU0JnYjE3czRqZVVYNVFMM2V6aW9lN1FZU3NaeFFNT3NCbWRVUUFUb2U5YzFPOFh3bkxrOW1KWEdRR1pmQ01VTUplZHpvLXVINzdKanZKQkpySkx3Z0U4U0d5S1ZLaXBhWURXT04yTmVVc3d4cEN5ZW0tNm9QZjdCcjRWcmsteHA1U0FzaDkxSUpqNXoxcGtzcEpuajVCMzYteE9uM1lrZUhTZWJ0eGRIdXhmVUJQeXVPR21mN21sQ1JzdUhiT1pfcHNWY0JNVXB0eEprVnJiVi1FUmJPVk50bHJHOWJLT2huZjF5dnRwd3dncWMwYmNkMEE?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-11T07:12:01+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "KOSPI rises slightly on strong semiconductor exports - The Korea Times",
+      "what_happened": "KOSPI rises slightly on strong semiconductor exports The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjZ2QkJYYW5adVNBdmJEMzAtdkZwemY4RnR4dURxRjktdGg1Q3RQMW1tYzFmbDluWHdzemU2MU8wZ0l2bDZSOGdiczJJNnFiRWtoY0NhdVVLZk5RTlc3eFVkemh1R1N6ZWRuczcxOFBCM1hmSFUxTUNGTDkzMjhxM2xIZ0NwdzB1VFZJYTZJelVEOXhFWXhXd3BGYXNRZVnSAaQBQVVfeXFMTUVfSHRWVEtYOVhfUzJVejJuX2VTT3dob000YU9JbllQOVZ2d0s4UzRIaUJZd1I3Y2FPOUM3Y0luN295anlQZ1RRUHpROXcteUZJVUdhRUJNTC1TTmxFcjVCbENxbzJwMnR4R3NqVzYzbnJGdFBielNKM0xsQlpBc01nTzBtakNVN0JLUktBcllXQ3dtZ3NVWkpncm12VFc3VEc2ZG8?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-11T07:06:03+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Can a 30-person start-up build Britain\u2019s answer to OpenAI? - Financial Times",
@@ -141,7 +163,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-10T19:30:00+00:00",
-      "age_hours": 10.6,
+      "age_hours": 12.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T13:20:58+00:00",
       "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
-      "what_happened": "Meta launches new AI model as Zuckerberg champions open-weight push Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T12:26:21+00:00",
-      "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic - CNBC",
-      "what_happened": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94cE0tMnZmYVlZOXdtN3BtNTJPZGRNR1pHckM1OThqLUtveFBRbWhFNzZycl9ZVjJsLXZoMGUxbmQ0VC1kSFVSNk1RdkQ5NkN0bkJIaTVFX0FyVllDS2hwWlhNZ0FVLW1teW00VkMxbWx1TWpyRWNmLQ?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T12:23:11+00:00",
-      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
