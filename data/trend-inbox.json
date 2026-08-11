@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T16:11:23.056363+00:00",
+  "updated_at": "2026-08-11T17:11:27.075233+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,13 +14,35 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
+      "title": "Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class - Business Insider",
+      "what_happened": "Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVNtZU5wM1lSU2tvTFozZUNTMVFNbFdCYXZTU292N1gyeU9hTjZVbGFpNDJWWnR2cExyVUVXaUdqMDl3X256bS15YWl3cTlQZWhsajFHN253MjdfMkp6Q29HRXdRMmpKV0VYZE5WZVJEWW5rZWN6ZmZsVGpmX3dCUzlYSTJfcjZ3a1RKYTZLemxkendGRFRmbk1KV3lNbEh0WVE?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-08-11T16:53:33+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - blogs.nvidia.com",
+      "what_happened": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents blogs.nvidia.com",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5",
+      "source_name": "blogs.nvidia.com",
+      "source_level": "primary",
+      "published_at": "2026-08-11T16:40:02+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Why Open-Weight AI Models Matter and Meta Benefits from Them - WSJ",
       "what_happened": "Why Open-Weight AI Models Matter and Meta Benefits from Them WSJ",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVlXWC1QNDVMNW9KR0h1cVVhVlAwTWdHOWVuWG5URS1TVjh1TXlLQjgwYXNCWlVBdmsxSjJMZlF5VWg1b05hWlh4eFVKcUxyOW1sTW1qN09oenZmdTVIRHZxR3d2YWhZVDVYVDBHakJMYkdURENLbndSUXJRbXpIb2QtdjFYbF9hbWREQkJXTGNhMjl5dTR6SFROeURyZw?oc=5",
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-11T16:00:00+00:00",
-      "age_hours": 0.2,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +86,7 @@
       "source_name": "apple.com",
       "source_level": "primary",
       "published_at": "2026-08-11T13:59:21.581000+00:00",
-      "age_hours": 2.2,
+      "age_hours": 3.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T19:48:45+00:00",
       "age_hours": 2.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Using the GitHub Copilot SDK for Java",
-      "what_happened": "Enterprise Java developers have a new superpower\u2014drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-10T19:30:00+00:00",
-      "age_hours": 20.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve - CNBC",
-      "what_happened": "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QOGwxSHNLd2VfQzc4ZC1aaGgyMGFzQjV3b3ZWR0NQUmpXUmVHalRlSERRTFlQUEZQMDQ0azJlYnJEZGlObk9sR2xXUG9oRkpWTXFMaUhWWXRCLWZ1MTB0b1JRQ2NNcGNHWDVmbWI4UlNlZ2toRXfSAXtBVV95cUxObk1PT3kwQWxxemdBSmh6RGVKODJMb2VNWWtOM0hsc193Y2ZOTF9NNnhyZExNWDE4SzNQR0JzMW5mNnl5RVZTd0R1dU5pcDFOMUFCNWVqd1h1YWRZTmJGcUpuVUU3b1dSUHg3TW82dy1wWnF6bjYtd3dNcmM?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T18:40:32+00:00",
-      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
