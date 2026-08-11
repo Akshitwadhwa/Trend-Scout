@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T18:05:42.726738+00:00",
+  "updated_at": "2026-08-11T19:18:18.180921+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -10,6 +10,28 @@
       "source_level": "primary",
       "published_at": "2026-08-11T22:00:00+00:00",
       "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - NVIDIA Blog",
+      "what_happened": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents NVIDIA Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5",
+      "source_name": "NVIDIA Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-11T18:41:09+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "From coder to orchestrator: How agents shift the role of a developer",
+      "what_happened": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-11T18:38:17+00:00",
+      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -42,7 +64,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-11T16:25:20+00:00",
-      "age_hours": 1.7,
+      "age_hours": 2.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +119,7 @@
       "source_name": "apple.com",
       "source_level": "primary",
       "published_at": "2026-08-11T13:59:21.581000+00:00",
-      "age_hours": 4.1,
+      "age_hours": 5.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -111,17 +133,6 @@
       "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - NVIDIA Blog",
-      "what_happened": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents NVIDIA Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5",
-      "source_name": "NVIDIA Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-11T13:03:13+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026 - TechCrunch",
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T20:26:20+00:00",
       "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push - CNBC",
-      "what_happened": "Nvidia teams up with Wall Street asset managers on $500 billion AI infrastructure push CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1REN2lzYWhpVmNzZENwUS00b3Ewa0wySXdRSUNkNm8zQ1hXM3JpSjUxNHgxUE5wNTBNN0NGbDVFa1pJZm5yY1daX0tQeHVmcS1oTmIweGxSanBYeVAzVURCSnNvMVQzWVdrSm5qbURLZ2I2dVRsSHNoNmttX2ItOXphTFc4S011bTRfdlNLR2V0ck1Pb1JvcDNCOGRHNE5QOW9rS3g2QTlJNTJ4ZnZFTWVYV0RjSlVmSG9aM0NsSEZpWDQ4eWpz?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T20:21:21+00:00",
-      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
