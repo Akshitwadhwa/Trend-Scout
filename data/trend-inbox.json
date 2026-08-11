@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T17:11:27.075233+00:00",
+  "updated_at": "2026-08-11T18:05:42.726738+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -34,6 +34,17 @@
       "age_hours": 0.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems - TechCrunch",
+      "what_happened": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU9WU2lITXVsNkVXSV9xSldxQWdnUWwyMWN6bzFMY1J3OUY4RWtBSVpTaG9od3pzYy1BWkdwVHhNcllRNlN2MTJBU3d5aEJXQ2JCQ1F1SEVoMWl1bUFLd3V0OXZUb01sZVhERHg4RnlON3ZvYmprcWU3eEJVbGJtNW13dTBwZjJOUkloV0l0TzJnOEFfeUpYQlZfdVRFQWVRNkM1LXZlNVYyRmRGM0QxRmlKdmRPeURqazI1RQ?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-11T16:25:20+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Why Open-Weight AI Models Matter and Meta Benefits from Them - WSJ",
@@ -86,7 +97,7 @@
       "source_name": "apple.com",
       "source_level": "primary",
       "published_at": "2026-08-11T13:59:21.581000+00:00",
-      "age_hours": 3.2,
+      "age_hours": 4.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-10T20:21:21+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
-      "what_happened": "US House Democrats press Anthropic, OpenAI about rogue AI agents Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T19:48:45+00:00",
-      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
