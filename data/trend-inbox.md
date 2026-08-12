@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-12T16:08:47.529248+00:00
+Updated: 2026-08-12T17:10:56.353908+00:00
 Memory window: 48 hours
 
 ## 1. Samsung, SK Hynix reignite Kospi rally as AI spending fears fade - KED Global
