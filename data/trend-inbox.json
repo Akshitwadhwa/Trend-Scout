@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-12T11:56:51.232650+00:00",
+  "updated_at": "2026-08-12T13:44:35.208058+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung, SK Hynix reignite Kospi rally as AI spending fears fade - KED Global",
+      "what_happened": "Samsung, SK Hynix reignite Kospi rally as AI spending fears fade KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43N0sxSGxjNV9DMVltdjJ3WVJtbXpaNE82QlFXZGpiVU1qZC13SDR2T2twTmVVdE1JbVR2LVpUMEl5NWxSc1owUVhsckFJZG83Z2NyVkxsb2lJMVFLZlFtTGRUQ0ppM0JmcWZGTldxazNpczBHY1JXX29R?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T13:24:47+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "A brain chip through the neck? China is testing a 10-minute implant - Moneycontrol.com",
+      "what_happened": "A brain chip through the neck? China is testing a 10-minute implant Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTVCRjl2Z0hkOFBDUnJkMDZ5VFRndlBLR3VBY203RmtaRUpRVERwVThhTXpsX1E4alAwc2hsbTF0WXNVREVEUEtiYlVvLXg2X3dKb2VmU0FRdTl3bExwM1oyMXZmVGJ2emd2YVhBSm9LTW9NV3piQ28tZ1RxWlVuUjNSdGx5VkVSNjVoSWpldmZoUTU4d015MzVrenNVbnI4cUNQNXhkY0dvdXVUOFlSOUZrQVljMS1CODVqdHVn0gHDAUFVX3lxTE5ucDAyVWhhX2wyUjBwX0RfeGhhV0ZIbU43VWFKeDAySF9KaHNnUEYtb2F4WXRRX3Rqc0kzUjNPR2xndDEweWdlN1FneGNXcTNhWkZKc3ZuZVhyR0V5c3Z4NHJHNmFXTnhxNzh5QkdvdkZYNGhaUXB3bWJDTl9TX0NNQkxNeFhadzJIM240c01YTGNfM216OFVNNk53Tl93dEFMQlRRbldPT0dKbzZwb0JUXy1UdnZObnNYVnByNnpRVkpSUQ?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T13:20:48+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "[Video] Samsung AMS Transforms Shared Classroom Displays Into Personalized Workspaces for Teachers",
       "what_happened": "Shared interactive displays have become a central hub for classroom instruction, helping teachers access lesson materials and digital tools throughout the school day. However, when multiple teachers share the same display, keeping personal settings and classroom content private while ensuring a consistent experience can be challenging. Samsung AMS (Account Management Solution) helps transform shared Samsung [\u2026]",
@@ -9,9 +31,20 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-12T11:00:00+00:00",
-      "age_hours": 0.9,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
+      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T10:47:05+00:00",
+      "age_hours": 3.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "SK hynix to hold groundbreaking ceremony for Indiana chip packaging plant on Aug. 27 - The Korea Times",
@@ -119,7 +152,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-11T20:26:26+00:00",
-      "age_hours": 15.5,
+      "age_hours": 17.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -152,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-11T18:38:17+00:00",
-      "age_hours": 17.3,
+      "age_hours": 19.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -298,39 +331,6 @@
       "age_hours": 0.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Seoul shares rise for second day as chip stocks lead rebound - Korea JoongAng Daily",
-      "what_happened": "Seoul shares rise for second day as chip stocks lead rebound Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaUdlZEJfbi0yUnVqZE1yVjRmcmlpbWZlXzhOUHJ3N05KQ1BMcFd6Rkd6a2JrMlNvTkt0RUNEaWg0ZFkxTVVtdFlVMWdaTDFEbUJKOVlEMDk1ekNiZGNJbGY5c3pIRlpENjk1VVFveGo1RWd4RlFPejk3cVpVVkNhMjlaVE5OVnBtd2VlT1ljTEdXUmx1Y3VnQUhDREhETDVtZ2QtZjdZd3ZCTHVKWWVvdzlYaw?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T08:41:26+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung To Showcase Latest Gaming Innovations at Gamescom 2026",
-      "what_happened": "Samsung Electronics today announced its participation at Gamescom 2026, taking place at Koelnmesse in Cologne, Germany, from Aug. 26-30. There, the company will showcase its full-stack gaming vision that seamlessly connects various gaming platforms. As the world\u2019s largest gaming event, Gamescom features approximately 1,500 software, hardware and game content companies. The event attracted 360,000 visitors [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-to-showcase-latest-gaming-innovations-at-gamescom-2026",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-11T08:00:00+00:00",
-      "age_hours": 3.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung\u2019s 2026 TV and Audio Lineup Earns Praise for Picture, Sound and Gaming",
-      "what_happened": "Samsung Electronics\u2019 latest TV and audio lineup is earning recognition from leading global technology and home entertainment publications. From the Micro RGB TV to Neo QLED 4K and OLED TVs, Q-Series soundbars and Music Studio Wi-Fi speakers, reviewers praised innovations that elevate the viewing, gaming and listening experience. The strong reception reinforces Samsung\u2019s leadership in [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsungs-2026-tv-and-audio-lineup-earns-praise-for-picture-sound-and-gaming",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-11T08:00:00+00:00",
-      "age_hours": 3.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
