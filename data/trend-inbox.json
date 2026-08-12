@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-12T18:06:05.490996+00:00",
+  "updated_at": "2026-08-12T19:18:32.651060+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon - Mashable",
+      "what_happened": "Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42WHlZb3lKTWRmYVN0WkphRUlwR0x1TDNlczZIZ2g4bUh5YmxXSU5OdjRCS3lLTTc0VWI0VDQ5cDVrMWZJaVo1MEFuNmIySVNzY0tBcnAxRHNvVmZFVnBJUnZCbDdZSkFa?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T19:02:05+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "what_happened": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-12T19:00:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72 - NVIDIA Developer",
+      "what_happened": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72 NVIDIA Developer",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHBlRVZPd1pMMDlFM3pmd3RVcnVxUWlKejJCWHZZb0kyUnB6akZWRVNkQnA1bGppQzItdm43dW8xRVIyZ2k0X19MYWRqcmlhQ3NvNGluME1IX2JlX01xM2RMT3d4aDZiUFhVN3JxZ0xEamdqVEh6OVNfWEk5QlRGUUxMempxZGZYX3RBYlAtNHVFMk50d2Z1eV9saXdscnhtWFFmbTlOQjZYMHc1Mkt1X1dIQnA4aDR0NEpPa1ZGYVBGdjhHRHVfNm5lMA?oc=5",
+      "source_name": "NVIDIA Developer",
+      "source_level": "primary",
+      "published_at": "2026-08-12T18:30:30+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Grab a new smartwatch with $100 off the Samsung Galaxy Watch Ultra2 and a free $100 Amazon Gift Card - Mashable",
+      "what_happened": "Grab a new smartwatch with $100 off the Samsung Galaxy Watch Ultra2 and a free $100 Amazon Gift Card Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CWDNkZkpQQXhNdXJVRXhsR3Y0THMwWGZUOXZEdE9IalF5YTVReEx4WVlmb25wUkRFd2NTMHFtM2dudzdrX3g2R3dyV0dGSnI2cDVjdmR6bUpjOTVadngwYzFDWDI1OXd5c1h2dWJFclNwNXc?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T18:11:15+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Your contributors are AI-first now. Is your project?",
       "what_happened": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog .",
@@ -9,7 +53,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T18:00:08+00:00",
-      "age_hours": 0.1,
+      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -54,17 +98,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-12T15:03:11+00:00",
       "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon - Mashable",
-      "what_happened": "Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42WHlZb3lKTWRmYVN0WkphRUlwR0x1TDNlczZIZ2g4bUh5YmxXSU5OdjRCS3lLTTc0VWI0VDQ5cDVrMWZJaVo1MEFuNmIySVNzY0tBcnAxRHNvVmZFVnBJUnZCbDdZSkFa?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T14:37:30+00:00",
-      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -298,39 +331,6 @@
       "age_hours": 0.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems - TechCrunch",
-      "what_happened": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU9WU2lITXVsNkVXSV9xSldxQWdnUWwyMWN6bzFMY1J3OUY4RWtBSVpTaG9od3pzYy1BWkdwVHhNcllRNlN2MTJBU3d5aEJXQ2JCQ1F1SEVoMWl1bUFLd3V0OXZUb01sZVhERHg4RnlON3ZvYmprcWU3eEJVbGJtNW13dTBwZjJOUkloV0l0TzJnOEFfeUpYQlZfdVRFQWVRNkM1LXZlNVYyRmRGM0QxRmlKdmRPeURqazI1RQ?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T16:25:20+00:00",
-      "age_hours": 2.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Why Open-Weight AI Models Matter and Meta Benefits from Them - WSJ",
-      "what_happened": "Why Open-Weight AI Models Matter and Meta Benefits from Them WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVlXWC1QNDVMNW9KR0h1cVVhVlAwTWdHOWVuWG5URS1TVjh1TXlLQjgwYXNCWlVBdmsxSjJMZlF5VWg1b05hWlh4eFVKcUxyOW1sTW1qN09oenZmdTVIRHZxR3d2YWhZVDVYVDBHakJMYkdURENLbndSUXJRbXpIb2QtdjFYbF9hbWREQkJXTGNhMjl5dTR6SFROeURyZw?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T16:00:00+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia partners with money managers to create new asset class: Here's what to know - CNBC",
-      "what_happened": "Nvidia partners with money managers to create new asset class: Here's what to know CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVpQMExiYmlPWmluUEdxUTU2VWs1RWZjNmhORXhXMm5DakxVSjhFV2lwN2gtUDk1U2s0NjRJVjFTQlc3S2RjMW9ycFo0WE55b0VERWhxQW4zbGlhcmtxODcxNXhzT0xreVlQUzVpeUduU25lVTZYTmt0bXAwQS1TLU8zdk9hZ0F3TlQyQWZsYWd4T3VaeG1Da1BGU1RBZHE5NXN6dTN4YVdDZUlOSkVvbzBLLTB1a0x6cVlRakhwd1o?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T15:45:38+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
