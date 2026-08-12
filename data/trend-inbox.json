@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T22:59:45.845013+00:00",
+  "updated_at": "2026-08-12T23:56:42.487327+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T22:17:32+00:00",
-      "age_hours": 0.7,
+      "age_hours": 1.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,7 +20,7 @@
       "source_name": "Business Insider",
       "source_level": "reputable",
       "published_at": "2026-08-12T22:03:50+00:00",
-      "age_hours": 0.9,
+      "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-12T20:44:27+00:00",
-      "age_hours": 2.3,
+      "age_hours": 3.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -64,7 +64,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-08-12T19:27:47+00:00",
-      "age_hours": 3.5,
+      "age_hours": 4.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +97,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T19:00:00+00:00",
-      "age_hours": 4.0,
+      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
