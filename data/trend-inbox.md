@@ -2,185 +2,185 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-12T13:44:35.208058+00:00
+Updated: 2026-08-12T15:13:22.409392+00:00
 Memory window: 48 hours
 
-## 1. Samsung, SK Hynix reignite Kospi rally as AI spending fears fade - KED Global
+## 1. Why Korean chip stocks could be primed for a comeback - Korea JoongAng Daily
+Source: Korea JoongAng Daily (reputable)
+URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEFmSDNVTWZLWWk1WXUyS2NlSDhYb1R0QXR3SGZVcnNPaWc1RE1JMVpzNmlIUU9SYjhHMkxlZ0lEUGJMemozTEpfLWJBRF92VElnTFJleFFIOGJmMkozQUkyaW1QdnJGRUhVUXBIeV9PUEZETnI5NFhrNXZ0RnlLN2dEaExRSk5sbi1RVmczTHFuV1dTVzBsX1AzaGtVSjhnZndhVHpmQk1Kdw?oc=5
+
+Why Korean chip stocks could be primed for a comeback Korea JoongAng Daily
+
+## 2. Honam’s chip dream faces a power and water reality - Korea JoongAng Daily
+Source: Korea JoongAng Daily (reputable)
+URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2NwaU5XZ0N2TVZNVDFCeTZWZmdvbFhEQWV5anVxMGpuZGxFVFBWdUJseS10cmU1MVl0UE1UNGFiY2pmVWJFZVJ3aXlwUFMxZWZKS3FiSkFiNTBKNTR1X3FGdmZPMU5ZTXF0cFFlQVBfaWh4WEl0a1Bobl9aaTB4M1hsTWxORGh0SGk3UWtvcDEyU09yYTVGM2IxZjhvM0U?oc=5
+
+Honam’s chip dream faces a power and water reality Korea JoongAng Daily
+
+## 3. Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE42WHlZb3lKTWRmYVN0WkphRUlwR0x1TDNlczZIZ2g4bUh5YmxXSU5OdjRCS3lLTTc0VWI0VDQ5cDVrMWZJaVo1MEFuNmIySVNzY0tBcnAxRHNvVmZFVnBJUnZCbDdZSkFa?oc=5
+
+Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon Mashable
+
+## 4. Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5
+
+Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable
+
+## 5. OpenAI finds a crack in Anthropic's business AI lead - Business Insider
+Source: Business Insider (reputable)
+URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTdHQ1BndlBUQ2lIcGVjQTNweWVGQjZ0bTBpVkdrRGpfUUhfaEUwNjFLUmxvU2FrVF9sMmM2MFZEQUcwUXc0LUJ5MTBmdXU0WE02WHd0N0NrNUJmbURHQ0pBOGRGbUYxU21mYmhwdldRNzJ1ZjhFdkhMX1RoeU1pQWpLV0RibWM?oc=5
+
+OpenAI finds a crack in Anthropic's business AI lead Business Insider
+
+## 6. Samsung, SK Hynix reignite Kospi rally as AI spending fears fade - KED Global
 Source: KED Global (reputable)
 URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE43N0sxSGxjNV9DMVltdjJ3WVJtbXpaNE82QlFXZGpiVU1qZC13SDR2T2twTmVVdE1JbVR2LVpUMEl5NWxSc1owUVhsckFJZG83Z2NyVkxsb2lJMVFLZlFtTGRUQ0ppM0JmcWZGTldxazNpczBHY1JXX29R?oc=5
 
 Samsung, SK Hynix reignite Kospi rally as AI spending fears fade KED Global
 
-## 2. A brain chip through the neck? China is testing a 10-minute implant - Moneycontrol.com
+## 7. A brain chip through the neck? China is testing a 10-minute implant - Moneycontrol.com
 Source: Moneycontrol.com (reputable)
 URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPOTVCRjl2Z0hkOFBDUnJkMDZ5VFRndlBLR3VBY203RmtaRUpRVERwVThhTXpsX1E4alAwc2hsbTF0WXNVREVEUEtiYlVvLXg2X3dKb2VmU0FRdTl3bExwM1oyMXZmVGJ2emd2YVhBSm9LTW9NV3piQ28tZ1RxWlVuUjNSdGx5VkVSNjVoSWpldmZoUTU4d015MzVrenNVbnI4cUNQNXhkY0dvdXVUOFlSOUZrQVljMS1CODVqdHVn0gHDAUFVX3lxTE5ucDAyVWhhX2wyUjBwX0RfeGhhV0ZIbU43VWFKeDAySF9KaHNnUEYtb2F4WXRRX3Rqc0kzUjNPR2xndDEweWdlN1FneGNXcTNhWkZKc3ZuZVhyR0V5c3Z4NHJHNmFXTnhxNzh5QkdvdkZYNGhaUXB3bWJDTl9TX0NNQkxNeFhadzJIM240c01YTGNfM216OFVNNk53Tl93dEFMQlRRbldPT0dKbzZwb0JUXy1UdnZObnNYVnByNnpRVkpSUQ?oc=5
 
 A brain chip through the neck? China is testing a 10-minute implant Moneycontrol.com
 
-## 3. [Video] Samsung AMS Transforms Shared Classroom Displays Into Personalized Workspaces for Teachers
+## 8. [Video] Samsung AMS Transforms Shared Classroom Displays Into Personalized Workspaces for Teachers
 Source: news.samsung.com (primary)
 URL: https://news.samsung.com/global/video-samsung-ams-transforms-shared-classroom-displays-into-personalized-workspaces-for-teachers
 
 Shared interactive displays have become a central hub for classroom instruction, helping teachers access lesson materials and digital tools throughout the school day. However, when multiple teachers share the same display, keeping personal settings and classroom content private while ensuring a consistent experience can be challenging. Samsung AMS (Account Management Solution) helps transform shared Samsung […]
 
-## 4. Meta confirms its AI model escaped containment, hacked third party - Mashable
+## 9. Meta confirms its AI model escaped containment, hacked third party - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5
 
 Meta confirms its AI model escaped containment, hacked third party Mashable
 
-## 5. SK hynix to hold groundbreaking ceremony for Indiana chip packaging plant on Aug. 27 - The Korea Times
+## 10. SK hynix to hold groundbreaking ceremony for Indiana chip packaging plant on Aug. 27 - The Korea Times
 Source: The Korea Times (reputable)
 URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSHhXSXE2dGEtMVVtS0N5SVd6VDdKVlJoTWJDQ2dEMGdTS3V3dEtIZVk5ZjZiUGNRWmpHS2dhb3lhc0Q0SGhCZDZVVjc2c3JTY0xXVGE5YVo2ODBWcUJHSmQ5VlZzNHdZT3J1MHVBNVExTU0ySkR6UHZRMlJ5bkhzaUJBNjBvNFh3Q2FaVm5WazVWbjFncXJYem1Ba0d2d1dSazZPdWp0LWk4dTFVODhvMHdaN240MmlsQTMxRjhIcVpqbGNfX3NkMVpnVV94VHJIczZTQ3loc9IB3AFBVV95cUxPUG9VVUg3YU1mbkR4VWIxd195SXZvX3FMbEhGb3B0X05zZnllX0FDemhFOUtTWm1oS1Fidk5MZF81ZjUtUUYybmhTc1MyT0xERUFqcHNjd1p6SW1UbkpEelVhQTNGNWgzUktMdk92bkpoTTBoVUhNV3F2c25KdnNQVUs3czdCQTNUNXB3bEZfcFpJTHJnYVBSdXpoRk9IOVpaZEFrdlRveUo4X2hkRzd1WDM5YVRrUkVjVDNIUk0wUXZrTVFiOE1lb29QQnZxYy1RT1ljWWxQTEVwMWdY?oc=5
 
 SK hynix to hold groundbreaking ceremony for Indiana chip packaging plant on Aug. 27 The Korea Times
 
-## 6. Shares spike for 3rd day on chip rally as won strengthens - Korea JoongAng Daily
+## 11. Shares spike for 3rd day on chip rally as won strengthens - Korea JoongAng Daily
 Source: Korea JoongAng Daily (reputable)
 URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxNZTFid05yM3lHVFFSemJxWl9JYWhKbVQtMHMyUjQ2M3ltc3ZJTjk3cEt2UzZEakpDX2FxNmkxZkREcEx2N3hLUjdkZlloS3A4UUlMTF9SYVl0dGRycFR2Mkx4aE40RnR5TW9rU01PM1lBU1dNLWdheVd0S3VTOWdiUENheXZMaV9nNVVSSjFoVTNzZGgxWFhqN0U4YjdsQzN5cldMWjJ1SzFRZV8xeFlJ?oc=5
 
 Shares spike for 3rd day on chip rally as won strengthens Korea JoongAng Daily
 
-## 7. [Video] Samsung Brings Chopin’s Nocturne to Galaxy as New One UI 9 Ringtone
+## 12. [Video] Samsung Brings Chopin’s Nocturne to Galaxy as New One UI 9 Ringtone
 Source: news.samsung.com (primary)
 URL: https://news.samsung.com/global/video-samsung-brings-chopins-nocturne-to-galaxy-as-new-one-ui-9-ringtone
 
 Samsung Electronics has introduced a new ringtone featuring a classical masterpiece on the Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8. Performed by pianist Yekwon Sunwoo, Frédéric Chopin’s “Nocturne in E-flat Major, Op. 9, No. 2” adds a lyrical dimension to everyday life. Sunwoo became the first Korean to win the Van […]
 
-## 8. Google’s new AI boss inherits a race to catch OpenAI and Anthropic - CNBC
+## 13. Gov't to establish deregulation committee for venture, startup businesses: PM - The Korea Times
+Source: The Korea Times (reputable)
+URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUmFzSzFGOHpIX1ZsZzVqd3gzRzRTS1R6NE5aWTd6QUFRNTE5Q3lMVGZYQlY5NEVUZjNvWGNRX2VndjNOQ3VVMmNlWnlTVl9LQmxjamVjdVZUOThqd1FVZ2hxRnhHMUxsTUxWb1JqS09MUnVibU4xQ1NxZDZDX195V3VCejdaMTRFam5ueF9SWkptVWJ6LVpOcXZlTHk1d1hLUi1mOFJLcFFTWTEzMlM5NlJ6RVVlREszXzJqbG1fVnRPcmZrdll1aGF4Ml_SAdIBQVVfeXFMTzJNVm4xQWtlTS1UaFBzLS1FZmNqY1ZuTENsZi1ZLURCZlc5M1gtNnFrWEphYjIxa2NwWXBQSDdTTWpHMFlCT1FMY1pDcXdocWFYYkNzRHFyMGFZSmxyQVJBNVRWa0NrUDV5VW5IcjZlYmMwNGpSQm9ocFpBcEpMSVN5cmxZMDlZWldFZEN2YV8weU9mZkJtN3hCb3JmMURPemkySUJyYUJvdF9WeV8tMFlQNEFrdU9JNC1UV2tVNVVuemxjMUtJLWsxV0cyZVlIak9B?oc=5
+
+Gov't to establish deregulation committee for venture, startup businesses: PM The Korea Times
+
+## 14. Google’s new AI boss inherits a race to catch OpenAI and Anthropic - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE1GdzdHeVhqMkp3QnhRTmNUeDdGNXFPcXUzME5SR0dSenc0OG9qcFFJYk53RE5scUVzNlpneG5panpMb2pmUWlLS0dqVDJxRGJPLW9EdFlYdW1UV3RsdjB3LUVyTU1rYTYxY19DUDZjX2JWbkZaOTR4dzZ30gF_QVVfeXFMTUZqWnlpYnMzVXlYeW9XYXFDWEVhUjdjZzIxaU1VbmdRUXI1eHhkUjRGOGxkNDQ2c3RRdnRNRGVRXzFUcDNzRXQtYW5pTjNsc1lTVzRzaGNTREtYVDRzbFdrenFBVklKRDZRVW9NSnN1LXJaYl9PZ18zYXpDd05VNA?oc=5
 
 Google’s new AI boss inherits a race to catch OpenAI and Anthropic CNBC
 
-## 9. Why does SK Hynix want to sell its chip facility in southwest China? - South China Morning Post
+## 15. Why does SK Hynix want to sell its chip facility in southwest China? - South China Morning Post
 Source: South China Morning Post (reputable)
 URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFMzdU05RjNwSVBra2dpVWNwWjJJYkE3Y25LaTJ2U1RCUFhfMENlQWZGN1JkdnVnX3lNdFhkQWpNNGs2cHBRbnZMRTgtVDc4SmMzQW9OVEFCcFpQbkVQSFdTSHVxUURSSTA3OUllRTdoWm9UUnh5bmtZVm1sSlNfbHZXTGYxN1I3S2k4b1Rpa2lfdDF6RmR3Qk53QW1BRC04cFNaN081ZWtiZ3Q5TzY3UVdR0gGyAUFVX3lxTFBqWmdEVU1tMXJES2dPZm9iT2toYVNqc1pZaGRJUjlZMnN6SGVyOUFkc2Z2QlhZX3ZyZk5IWTZWS09MN2ozMlRodWM2N1JOTkZUT2pLdnBSdWoycW1BakJMbFNYdmk4Y3JKVi1sZ1dkLXBfbW5mR3hLM05DYk1mdEFVbHZ6VXFpWHBfQU5HeVF2ck81ZHRSZUQxQlJDT1I2cUhOdGNfUm93a0ktdXIySE1FWFE?oc=5
 
 Why does SK Hynix want to sell its chip facility in southwest China? South China Morning Post
 
-## 10. Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom - WSJ
+## 16. Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXkzcldHWlgwNW5GaHM4MHpSR3ZuSFp4RTBtMXdXLTJoZ2w4WFZBNEtSaGZwblk0WUpwWFJtZjV4NVZrbXgtMVJZYWxnQ21EMlIyTkNoUmNLZ3c3elFEcmpyOWl3WEIyRU1ZdmhvR3FzUW1FMm1tdXhmOFEyY01Uazh3YWpPSmpuS2lZVC1MMlRIak9pTndidWNlX3Y5Y2RNUU80cXAwTzVGWS1WdThKMG54STBTWHFy?oc=5
 
 Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom WSJ
 
-## 11. Samsung’s Hearing Aid Feature on Galaxy Buds Cleared by FDA
+## 17. Samsung’s Hearing Aid Feature on Galaxy Buds Cleared by FDA
 Source: news.samsung.com (primary)
 URL: https://news.samsung.com/global/samsungs-hearing-aid-feature-on-galaxy-buds-cleared-by-fda
 
 Samsung Electronics today announced that its Galaxy Buds Hearing Aid feature has received U.S. Food and Drug Administration (FDA) clearance. The feature enables compatible Galaxy Buds to serve as an over-the-counter (OTC) hearing aid, offering users 18 years and older a convenient solution for addressing perceived mild to moderate hearing loss — which may be […]
 
-## 12. Daybreak models are now available on AWS - OpenAI
+## 18. Daybreak models are now available on AWS - OpenAI
 Source: OpenAI (primary)
 URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE45SU9RVTVwLVo0ZVNlYVp6Mkd2TGM1dEc3eUtwRHJuQ3ZHeXZqbTd0SHZkZXZsRUhObWd0d2t2WlB3YWUyTVJfdTlNVlpUbkJONGc3N1NqR2hLQVc0N1NIZTlCQi1UOHlwSTJlTjU4TUFfSGxt?oc=5
 
 Daybreak models are now available on AWS OpenAI
 
-## 13. Daybreak models are now available on AWS - openai.com
+## 19. Daybreak models are now available on AWS - openai.com
 Source: openai.com (primary)
 URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE45SU9RVTVwLVo0ZVNlYVp6Mkd2TGM1dEc3eUtwRHJuQ3ZHeXZqbTd0SHZkZXZsRUhObWd0d2t2WlB3YWUyTVJfdTlNVlpUbkJONGc3N1NqR2hLQVc0N1NIZTlCQi1UOHlwSTJlTjU4TUFfSGxt?oc=5
 
 Daybreak models are now available on AWS openai.com
 
-## 14. GitHub Enterprise Server 3.22 release candidate - The GitHub Blog
+## 20. GitHub Enterprise Server 3.22 release candidate - The GitHub Blog
 Source: The GitHub Blog (primary)
 URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmFEM1Bscm5ENkJ4RVo1ZmR6OHJSaUFFSXRFZ19tZEtXSDE1UDFPT0FVWXJoZTlXTVhodENUX2lia2c2RFFsOHE3OEJxMFhzTnFvRjBCQi01ejJiUFBrZHRRNWswa3hnaWs4MUdmYVpzM1JiVVpYWFI0RDZPTE0xdVhmNUM3dnlyTHVzdC1sVmFpdjg?oc=5
 
 GitHub Enterprise Server 3.22 release candidate The GitHub Blog
 
-## 15. GitHub Enterprise Server 3.22 release candidate - github.blog
+## 21. GitHub Enterprise Server 3.22 release candidate - github.blog
 Source: github.blog (primary)
 URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxOdm16ai1GS25Od0pFZVIyeDFfY3N6VkotU3NLcGhqb2w0R1NmeUtBV0xSZy1MUzRCMzU4VW5jZEdLUkJZMVpzVjV4QmVmZWdWVkNKZHFLZjNBMjQxZ00tbUFVV3BFZkViUTY0NHFUY1dtQUI3VjVaTUlESmE1Y25PUDRXYlJRMm4zajBUMW9mdEU0dw?oc=5
 
 GitHub Enterprise Server 3.22 release candidate github.blog
 
-## 16. NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - NVIDIA Blog
+## 22. NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - NVIDIA Blog
 Source: NVIDIA Blog (primary)
 URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5
 
 NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents NVIDIA Blog
 
-## 17. From coder to orchestrator: How agents shift the role of a developer
+## 23. From coder to orchestrator: How agents shift the role of a developer
 Source: github.blog (primary)
 URL: https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/
 
 Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .
 
-## 18. Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class - Business Insider
+## 24. Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class - Business Insider
 Source: Business Insider (reputable)
 URL: https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVNtZU5wM1lSU2tvTFozZUNTMVFNbFdCYXZTU292N1gyeU9hTjZVbGFpNDJWWnR2cExyVUVXaUdqMDl3X256bS15YWl3cTlQZWhsajFHN253MjdfMkp6Q29HRXdRMmpKV0VYZE5WZVJEWW5rZWN6ZmZsVGpmX3dCUzlYSTJfcjZ3a1RKYTZLemxkendGRFRmbk1KV3lNbEh0WVE?oc=5
 
 Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class Business Insider
 
-## 19. NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - blogs.nvidia.com
+## 25. NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - blogs.nvidia.com
 Source: blogs.nvidia.com (primary)
 URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5
 
 NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents blogs.nvidia.com
 
-## 20. An unreleased Anthropic model made progress on one of math’s biggest unsolved problems - TechCrunch
+## 26. An unreleased Anthropic model made progress on one of math’s biggest unsolved problems - TechCrunch
 Source: TechCrunch (reputable)
 URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxNRU9WU2lITXVsNkVXSV9xSldxQWdnUWwyMWN6bzFMY1J3OUY4RWtBSVpTaG9od3pzYy1BWkdwVHhNcllRNlN2MTJBU3d5aEJXQ2JCQ1F1SEVoMWl1bUFLd3V0OXZUb01sZVhERHg4RnlON3ZvYmprcWU3eEJVbGJtNW13dTBwZjJOUkloV0l0TzJnOEFfeUpYQlZfdVRFQWVRNkM1LXZlNVYyRmRGM0QxRmlKdmRPeURqazI1RQ?oc=5
 
 An unreleased Anthropic model made progress on one of math’s biggest unsolved problems TechCrunch
 
-## 21. Why Open-Weight AI Models Matter and Meta Benefits from Them - WSJ
+## 27. Why Open-Weight AI Models Matter and Meta Benefits from Them - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMingFBVV95cUxOTVlXWC1QNDVMNW9KR0h1cVVhVlAwTWdHOWVuWG5URS1TVjh1TXlLQjgwYXNCWlVBdmsxSjJMZlF5VWg1b05hWlh4eFVKcUxyOW1sTW1qN09oenZmdTVIRHZxR3d2YWhZVDVYVDBHakJMYkdURENLbndSUXJRbXpIb2QtdjFYbF9hbWREQkJXTGNhMjl5dTR6SFROeURyZw?oc=5
 
 Why Open-Weight AI Models Matter and Meta Benefits from Them WSJ
 
-## 22. Nvidia partners with money managers to create new asset class: Here's what to know - CNBC
+## 28. Nvidia partners with money managers to create new asset class: Here's what to know - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVpQMExiYmlPWmluUEdxUTU2VWs1RWZjNmhORXhXMm5DakxVSjhFV2lwN2gtUDk1U2s0NjRJVjFTQlc3S2RjMW9ycFo0WE55b0VERWhxQW4zbGlhcmtxODcxNXhzT0xreVlQUzVpeUduU25lVTZYTmt0bXAwQS1TLU8zdk9hZ0F3TlQyQWZsYWd4T3VaeG1Da1BGU1RBZHE5NXN6dTN4YVdDZUlOSkVvbzBLLTB1a0x6cVlRakhwd1o?oc=5
 
 Nvidia partners with money managers to create new asset class: Here's what to know CNBC
 
-## 23. Nvidia is trying to quiet 'circular financing' accusations. Wall Street is unsure it will - CNBC
+## 29. Nvidia is trying to quiet 'circular financing' accusations. Wall Street is unsure it will - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVFPbW1VX1I5Q0gxQzU2b0M2QUNhb3VaN2Vjd3pHZHBTME9jR1QxaDZLZ0hjd2UyMnZ6SjJPQXdzVEJyTEtoU2ZqR09BYkZkeVpPS2wtaGlnRWhLZ21YaTN1RmpkWjcycnBvU1pDZTUwVmVhSlFkYV9NVnhLU2tYREVkUEJ5RTNwN3F2UFczVTBzMHJuMGNpczJGSTJMdXJ5UV9hYWwtX0trR3lpQnJnbkF6b1VOX0Qy?oc=5
 
 Nvidia is trying to quiet 'circular financing' accusations. Wall Street is unsure it will CNBC
 
-## 24. Why Scaling AI Compute Performance Requires a New Power Architecture - NVIDIA Blog
+## 30. Why Scaling AI Compute Performance Requires a New Power Architecture - NVIDIA Blog
 Source: NVIDIA Blog (primary)
 URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE13MS13RjJVcmJmNzVHa2xfZlBTYkFZSm1sQ1M1c0ZtM1RyUnhUZW56TFZjb3BLckE1SVdIR2FqZi01a2pheFpIM0FmdGNoTU5Xd2NDSVdrdlJwNHQzTEFGVzhDTzNTWDlXbTJTUnhTSm5UdUExNWhR?oc=5
 
 Why Scaling AI Compute Performance Requires a New Power Architecture NVIDIA Blog
-
-## 25. Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+
-Source: apple.com (primary)
-URL: https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/
-
-Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.
-
-## 26. Nvidia Releases New Open Model - WSJ
-Source: WSJ (reputable)
-URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRlA3QlhOMEdmQ1VVbDZMOV9TNlhCdm0tcWRyaXFFX2d4VzFfalRFWUw3cGhmeXBwWThxczh2QnlWQWlNbEZuWGgxTTVnd1pxRWZSalZrN2cxLUpKNEFpN1A4RU9KUzhRa3dpaWdXZ2RJc0otcEV6Tzk1Yw?oc=5
-
-Nvidia Releases New Open Model WSJ
-
-## 27. What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026 - TechCrunch
-Source: TechCrunch (reputable)
-URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGdWMS1sc2o1TkQ5TjZuSm9KckRURE1BbmNCUEE4YWM5WXlzNmV0SVhNUlR1TkwzQ2xSczA2UHZIdmYyS1JrRllnZXQ2REhlemtiSzc5dXBPRktaZVBlUFFPekt5TTdWZTZhSGVlazJreDV4czBiTW8zbm5JcmtNSGpBRFRIUUo2ZWdXTG9OTUFzZmJQWWFpYU9pWDRLVWVSdl9sVWpxQnlLbnh4Y1M0dnhVdUVQTG5HSFJmVmViM1ZFaURCRTFvS0dERmY?oc=5
-
-What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026 TechCrunch
-
-## 28. Nvidia lines up $500B in financing, partners with 6 Wall Street firms on lending platforms - CNBC
-Source: CNBC (reputable)
-URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxNb0ZGRjVqTGxBX2VCRHZNTzhzUTcwanhnMHE5UnF1WDBJZlloa2Rhb1k0aDJxTnMtMHlFZm1mLWRYOV9VZzVmN0kwRnFIMUlBOGc5V2UyVm1tNWZVVTM3VnpFTVlIMnBDMlBPZUppWlhMemowTFdIZ3FHUlBCWFd2U3BsVHFZNW5aY3lQcXNidWEzYTdQTXFBZHZRSkRZZkk5QzVGQXdoNTBMbDQxakdfODl3MTlmTlZqVVN0bGRsUWFJSVFyWlctNjVjSQ?oc=5
-
-Nvidia lines up $500B in financing, partners with 6 Wall Street firms on lending platforms CNBC
-
-## 29. Former Deputy Treasury Sec. Faulkender: 'CFIUS for AI' model should be used to review new AI models - CNBC
-Source: CNBC (reputable)
-URL: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekdHa2ZfUDFhMGpiOXNZZ3IyNURCcG15YWVUNDFITVBJT0E3TjBQNDZqZHZneHhpRHAwaTlQXzhsNEVTb3hadWFKallaNXBvak9lS1JXU282aEpOaTFpVFhBbU5EdThxRl9MYmhXeW15VUlFWkVQOU01ckZESzFXcEU5ajJlYmpnTkYwSmhMaGh1WFlsWDI2cW9FS01qRkNFcGRabUYxdFdaZXRfOS16TnBhSWVIMnlzMjU2QzZ2Zi14V3dYWG9iOF9KTjFpSE84RU11Sw?oc=5
-
-Former Deputy Treasury Sec. Faulkender: 'CFIUS for AI' model should be used to review new AI models CNBC
-
-## 30. A New Trick Reveals AI Models’ Inner Thoughts - WIRED
-Source: WIRED (reputable)
-URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE1kcWkwclBIdDJtS3lQbkJONHJ1Mm8ydFU0R2x4X1ZHYVdUbl9BNUhWWk9lRkpEVXE3SFR0aV9KclpFdzFMX1BYRnlpM3dRRlM1cWNZNDVFbnlMNURnNFJfLTdVd0RraWtNeU1UbzA2eUxRbHBGOS1vbTdHaWhVQQ?oc=5
-
-A New Trick Reveals AI Models’ Inner Thoughts WIRED

@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-12T13:44:35.208058+00:00",
+  "updated_at": "2026-08-12T15:13:22.409392+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Why Korean chip stocks could be primed for a comeback - Korea JoongAng Daily",
+      "what_happened": "Why Korean chip stocks could be primed for a comeback Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEFmSDNVTWZLWWk1WXUyS2NlSDhYb1R0QXR3SGZVcnNPaWc1RE1JMVpzNmlIUU9SYjhHMkxlZ0lEUGJMemozTEpfLWJBRF92VElnTFJleFFIOGJmMkozQUkyaW1QdnJGRUhVUXBIeV9PUEZETnI5NFhrNXZ0RnlLN2dEaExRSk5sbi1RVmczTHFuV1dTVzBsX1AzaGtVSjhnZndhVHpmQk1Kdw?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T15:03:11+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Honam\u2019s chip dream faces a power and water reality - Korea JoongAng Daily",
+      "what_happened": "Honam\u2019s chip dream faces a power and water reality Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2NwaU5XZ0N2TVZNVDFCeTZWZmdvbFhEQWV5anVxMGpuZGxFVFBWdUJseS10cmU1MVl0UE1UNGFiY2pmVWJFZVJ3aXlwUFMxZWZKS3FiSkFiNTBKNTR1X3FGdmZPMU5ZTXF0cFFlQVBfaWh4WEl0a1Bobl9aaTB4M1hsTWxORGh0SGk3UWtvcDEyU09yYTVGM2IxZjhvM0U?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T15:03:11+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon - Mashable",
+      "what_happened": "Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42WHlZb3lKTWRmYVN0WkphRUlwR0x1TDNlczZIZ2g4bUh5YmxXSU5OdjRCS3lLTTc0VWI0VDQ5cDVrMWZJaVo1MEFuNmIySVNzY0tBcnAxRHNvVmZFVnBJUnZCbDdZSkFa?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T14:37:30+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
+      "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T14:15:52+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI finds a crack in Anthropic's business AI lead - Business Insider",
+      "what_happened": "OpenAI finds a crack in Anthropic's business AI lead Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTdHQ1BndlBUQ2lIcGVjQTNweWVGQjZ0bTBpVkdrRGpfUUhfaEUwNjFLUmxvU2FrVF9sMmM2MFZEQUcwUXc0LUJ5MTBmdXU0WE02WHd0N0NrNUJmbURHQ0pBOGRGbUYxU21mYmhwdldRNzJ1ZjhFdkhMX1RoeU1pQWpLV0RibWM?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T14:01:23+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung, SK Hynix reignite Kospi rally as AI spending fears fade - KED Global",
       "what_happened": "Samsung, SK Hynix reignite Kospi rally as AI spending fears fade KED Global",
@@ -42,7 +97,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-12T10:47:05+00:00",
-      "age_hours": 3.0,
+      "age_hours": 4.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -78,6 +133,17 @@
       "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Gov't to establish deregulation committee for venture, startup businesses: PM - The Korea Times",
+      "what_happened": "Gov't to establish deregulation committee for venture, startup businesses: PM The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUmFzSzFGOHpIX1ZsZzVqd3gzRzRTS1R6NE5aWTd6QUFRNTE5Q3lMVGZYQlY5NEVUZjNvWGNRX2VndjNOQ3VVMmNlWnlTVl9LQmxjamVjdVZUOThqd1FVZ2hxRnhHMUxsTUxWb1JqS09MUnVibU4xQ1NxZDZDX195V3VCejdaMTRFam5ueF9SWkptVWJ6LVpOcXZlTHk1d1hLUi1mOFJLcFFTWTEzMlM5NlJ6RVVlREszXzJqbG1fVnRPcmZrdll1aGF4Ml_SAdIBQVVfeXFMTzJNVm4xQWtlTS1UaFBzLS1FZmNqY1ZuTENsZi1ZLURCZlc5M1gtNnFrWEphYjIxa2NwWXBQSDdTTWpHMFlCT1FMY1pDcXdocWFYYkNzRHFyMGFZSmxyQVJBNVRWa0NrUDV5VW5IcjZlYmMwNGpSQm9ocFpBcEpMSVN5cmxZMDlZWldFZEN2YV8weU9mZkJtN3hCb3JmMURPemkySUJyYUJvdF9WeV8tMFlQNEFrdU9JNC1UV2tVNVVuemxjMUtJLWsxV0cyZVlIak9B?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T06:42:02+00:00",
+      "age_hours": 8.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Google\u2019s new AI boss inherits a race to catch OpenAI and Anthropic - CNBC",
@@ -152,7 +218,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-11T20:26:26+00:00",
-      "age_hours": 17.3,
+      "age_hours": 18.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -185,7 +251,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-11T18:38:17+00:00",
-      "age_hours": 19.1,
+      "age_hours": 20.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -265,72 +331,6 @@
       "age_hours": 0.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
-      "what_happened": "Apple Arcade upgrades its catalog of hit puzzle games with Block Blast+ and Art of Fauna: Cozy Puzzles+.",
-      "source_url": "https://www.apple.com/newsroom/2026/08/apple-arcade-levels-up-with-block-blast-plus-and-art-of-fauna-cozy-puzzles-plus/",
-      "source_name": "apple.com",
-      "source_level": "primary",
-      "published_at": "2026-08-11T13:59:21.581000+00:00",
-      "age_hours": 5.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Nvidia Releases New Open Model - WSJ",
-      "what_happened": "Nvidia Releases New Open Model WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LRlA3QlhOMEdmQ1VVbDZMOV9TNlhCdm0tcWRyaXFFX2d4VzFfalRFWUw3cGhmeXBwWThxczh2QnlWQWlNbEZuWGgxTTVnd1pxRWZSalZrN2cxLUpKNEFpN1A4RU9KUzhRa3dpaWdXZ2RJc0otcEV6Tzk1Yw?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T13:04:00+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026 - TechCrunch",
-      "what_happened": "What comes after the smartphone? Amazon's Panos Panay will make his case at TechCrunch Disrupt 2026 TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGdWMS1sc2o1TkQ5TjZuSm9KckRURE1BbmNCUEE4YWM5WXlzNmV0SVhNUlR1TkwzQ2xSczA2UHZIdmYyS1JrRllnZXQ2REhlemtiSzc5dXBPRktaZVBlUFFPekt5TTdWZTZhSGVlazJreDV4czBiTW8zbm5JcmtNSGpBRFRIUUo2ZWdXTG9OTUFzZmJQWWFpYU9pWDRLVWVSdl9sVWpxQnlLbnh4Y1M0dnhVdUVQTG5HSFJmVmViM1ZFaURCRTFvS0dERmY?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T12:30:00+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia lines up $500B in financing, partners with 6 Wall Street firms on lending platforms - CNBC",
-      "what_happened": "Nvidia lines up $500B in financing, partners with 6 Wall Street firms on lending platforms CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb0ZGRjVqTGxBX2VCRHZNTzhzUTcwanhnMHE5UnF1WDBJZlloa2Rhb1k0aDJxTnMtMHlFZm1mLWRYOV9VZzVmN0kwRnFIMUlBOGc5V2UyVm1tNWZVVTM3VnpFTVlIMnBDMlBPZUppWlhMemowTFdIZ3FHUlBCWFd2U3BsVHFZNW5aY3lQcXNidWEzYTdQTXFBZHZRSkRZZkk5QzVGQXdoNTBMbDQxakdfODl3MTlmTlZqVVN0bGRsUWFJSVFyWlctNjVjSQ?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T11:39:09+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Former Deputy Treasury Sec. Faulkender: 'CFIUS for AI' model should be used to review new AI models - CNBC",
-      "what_happened": "Former Deputy Treasury Sec. Faulkender: 'CFIUS for AI' model should be used to review new AI models CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQekdHa2ZfUDFhMGpiOXNZZ3IyNURCcG15YWVUNDFITVBJT0E3TjBQNDZqZHZneHhpRHAwaTlQXzhsNEVTb3hadWFKallaNXBvak9lS1JXU282aEpOaTFpVFhBbU5EdThxRl9MYmhXeW15VUlFWkVQOU01ckZESzFXcEU5ajJlYmpnTkYwSmhMaGh1WFlsWDI2cW9FS01qRkNFcGRabUYxdFdaZXRfOS16TnBhSWVIMnlzMjU2QzZ2Zi14V3dYWG9iOF9KTjFpSE84RU11Sw?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T11:14:56+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "A New Trick Reveals AI Models\u2019 Inner Thoughts - WIRED",
-      "what_happened": "A New Trick Reveals AI Models\u2019 Inner Thoughts WIRED",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kcWkwclBIdDJtS3lQbkJONHJ1Mm8ydFU0R2x4X1ZHYVdUbl9BNUhWWk9lRkpEVXE3SFR0aV9KclpFdzFMX1BYRnlpM3dRRlM1cWNZNDVFbnlMNURnNFJfLTdVd0RraWtNeU1UbzA2eUxRbHBGOS1vbTdHaWhVQQ?oc=5",
-      "source_name": "WIRED",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T11:00:00+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
