@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-12T19:18:32.651060+00:00",
+  "updated_at": "2026-08-12T21:01:43.790774+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes - samsung.com",
+      "what_happened": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes samsung.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVYyQlRmV096V2xiMDFXQ3ZMMElvZC1Sd3I2RUF0Qm9VTEZGOTRjVk1lN1J2cjQzcXlHRkN5M0tVc2VMNVdEQlRpdkp0NkRra1NHOXBiUDl2LXFjQXM5ZExoQXZYdHRxUGJjYUdsOXVlcmFPd2lMZ3RFSDhNU05BdC1JeGRQZUJxX0VtYlF5MVljMTNxQm5zZFBCME9zZ1lHa1l2WnBDZw?oc=5",
+      "source_name": "samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-12T20:44:27+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Cerebras raises annual targets on strong AI chip demand - Reuters",
+      "what_happened": "Cerebras raises annual targets on strong AI chip demand Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RxTUJxMTh2Mk9XSmgxdm1MZDh6MlRtcVl5aFM1bmF1ajVmWlFnUF9nNU0yYjloQ0pON2VSWFZBYTVldmJ0TGI5N2psYlcwZVRuSURZaUM1NkYzVkh4NGVNRUtjd0F0M3RMTno2X0RSNG9VbF91V2lDOUh0OG5nSDJiY2M4cDdrM1lGRnNicldnNXBBQTBDRFVzNHdJQQ?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T20:25:06+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "It looks like Apple\u2019s iPhone 18 really will skip the fall launch this year - The Verge",
+      "what_happened": "It looks like Apple\u2019s iPhone 18 really will skip the fall launch this year The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmdzJ5WE9FN19PS1k1bGxpUkdhQ3ZmZlRlMzFiOFBSSnBDS2E5WVBBc2RMUnhoMmxhQzB4d2ExN29MUFJuUnF5SFROdzdERnM5RFVSaTMxSXo4a3UxTnpuVWl6eXU3U3RqSG1qNXNHMnJGTGFMb0NSX2l4NDg?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T19:27:47+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "NEWSLETTER: American AI model makers smell an opportunity - Reuters",
+      "what_happened": "NEWSLETTER: American AI model makers smell an opportunity Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjdFeGZSYlRfS0Z2ajQwNkNMQm1vUDE2SFJiRkF2NlNMTnVMRjdDaWlSOG9BTDZhWXZ5R3M3MENRbGpBaUFrRVptYmxEbmstQXBhdEVIYmhYQUJSQmRONzcxTG9MVlhmOFRxc0Y5QUdKMF9wRkZvaS10VUc4WFNuWjNPdlE3YVV5cjRoNnUtZ3VvSnJWd3BpVWl6X1BFMUptNzBTNDBYTGNCLXhFLUZ4YkVFMHpRNFE?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T19:15:00+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon - Mashable",
       "what_happened": "Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon Mashable",
@@ -20,7 +64,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T19:00:00+00:00",
-      "age_hours": 0.3,
+      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -53,7 +97,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T18:00:08+00:00",
-      "age_hours": 1.3,
+      "age_hours": 3.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-08-11T20:26:26+00:00",
       "age_hours": 1.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - NVIDIA Blog",
-      "what_happened": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents NVIDIA Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5",
-      "source_name": "NVIDIA Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-11T18:41:09+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "From coder to orchestrator: How agents shift the role of a developer",
-      "what_happened": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-11T18:38:17+00:00",
-      "age_hours": 22.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class - Business Insider",
-      "what_happened": "Jensen Huang's latest pitch to investors: Nvidia's AI compute is its own asset class Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTVNtZU5wM1lSU2tvTFozZUNTMVFNbFdCYXZTU292N1gyeU9hTjZVbGFpNDJWWnR2cExyVUVXaUdqMDl3X256bS15YWl3cTlQZWhsajFHN253MjdfMkp6Q29HRXdRMmpKV0VYZE5WZVJEWW5rZWN6ZmZsVGpmX3dCUzlYSTJfcjZ3a1RKYTZLemxkendGRFRmbk1KV3lNbEh0WVE?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T16:53:33+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents - blogs.nvidia.com",
-      "what_happened": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents blogs.nvidia.com",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45UUttUUMyRTI3WHVUbF9oMlRKX0NIUHJ2WUFobm9Ta3NubmhVS0pmRjkxMzZILU0wWEFFa1JWTXVBYVhzTkhhS292U1hOWUFoUkRrOUJTTFY3RURHTkZjMWlyTVhlYjE1bHQ2M3ZDRzNlSWlpNDJPTUM1d0l0eFU?oc=5",
-      "source_name": "blogs.nvidia.com",
-      "source_level": "primary",
-      "published_at": "2026-08-11T16:40:02+00:00",
-      "age_hours": 0.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
