@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-11T23:58:10.288590+00:00",
+  "updated_at": "2026-08-12T02:42:18.661774+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "[Video] Samsung Brings Chopin\u2019s Nocturne to Galaxy as New One UI 9 Ringtone",
+      "what_happened": "Samsung Electronics has introduced a new ringtone featuring a classical masterpiece on the Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8. Performed by pianist Yekwon Sunwoo, Fr\u00e9d\u00e9ric Chopin\u2019s \u201cNocturne in E-flat Major, Op. 9, No. 2\u201d adds a lyrical dimension to everyday life. Sunwoo became the first Korean to win the Van [\u2026]",
+      "source_url": "https://news.samsung.com/global/video-samsung-brings-chopins-nocturne-to-galaxy-as-new-one-ui-9-ringtone",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-12T08:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Why does SK Hynix want to sell its chip facility in southwest China? - South China Morning Post",
+      "what_happened": "Why does SK Hynix want to sell its chip facility in southwest China? South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFMzdU05RjNwSVBra2dpVWNwWjJJYkE3Y25LaTJ2U1RCUFhfMENlQWZGN1JkdnVnX3lNdFhkQWpNNGs2cHBRbnZMRTgtVDc4SmMzQW9OVEFCcFpQbkVQSFdTSHVxUURSSTA3OUllRTdoWm9UUnh5bmtZVm1sSlNfbHZXTGYxN1I3S2k4b1Rpa2lfdDF6RmR3Qk53QW1BRC04cFNaN081ZWtiZ3Q5TzY3UVdR0gGyAUFVX3lxTFBqWmdEVU1tMXJES2dPZm9iT2toYVNqc1pZaGRJUjlZMnN6SGVyOUFkc2Z2QlhZX3ZyZk5IWTZWS09MN2ozMlRodWM2N1JOTkZUT2pLdnBSdWoycW1BakJMbFNYdmk4Y3JKVi1sZ1dkLXBfbW5mR3hLM05DYk1mdEFVbHZ6VXFpWHBfQU5HeVF2ck81ZHRSZUQxQlJDT1I2cUhOdGNfUm93a0ktdXIySE1FWFE?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T02:00:29+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom - WSJ",
+      "what_happened": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXkzcldHWlgwNW5GaHM4MHpSR3ZuSFp4RTBtMXdXLTJoZ2w4WFZBNEtSaGZwblk0WUpwWFJtZjV4NVZrbXgtMVJZYWxnQ21EMlIyTkNoUmNLZ3c3elFEcmpyOWl3WEIyRU1ZdmhvR3FzUW1FMm1tdXhmOFEyY01Uazh3YWpPSmpuS2lZVC1MMlRIak9pTndidWNlX3Y5Y2RNUU80cXAwTzVGWS1WdThKMG54STBTWHFy?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-12T01:17:00+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung\u2019s Hearing Aid Feature on Galaxy Buds Cleared by FDA",
       "what_happened": "Samsung Electronics today announced that its Galaxy Buds Hearing Aid feature has received U.S. Food and Drug Administration (FDA) clearance. The feature enables compatible Galaxy Buds to serve as an over-the-counter (OTC) hearing aid, offering users 18 years and older a convenient solution for addressing perceived mild to moderate hearing loss \u2014 which may be [\u2026]",
@@ -20,7 +53,7 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-08-11T21:50:32+00:00",
-      "age_hours": 2.1,
+      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -38,11 +71,11 @@
     {
       "title": "GitHub Enterprise Server 3.22 release candidate - The GitHub Blog",
       "what_happened": "GitHub Enterprise Server 3.22 release candidate The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdm16ai1GS25Od0pFZVIyeDFfY3N6VkotU3NLcGhqb2w0R1NmeUtBV0xSZy1MUzRCMzU4VW5jZEdLUkJZMVpzVjV4QmVmZWdWVkNKZHFLZjNBMjQxZ00tbUFVV3BFZkViUTY0NHFUY1dtQUI3VjVaTUlESmE1Y25PUDRXYlJRMm4zajBUMW9mdEU0dw?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQmFEM1Bscm5ENkJ4RVo1ZmR6OHJSaUFFSXRFZ19tZEtXSDE1UDFPT0FVWXJoZTlXTVhodENUX2lia2c2RFFsOHE3OEJxMFhzTnFvRjBCQi01ejJiUFBrZHRRNWswa3hnaWs4MUdmYVpzM1JiVVpYWFI0RDZPTE0xdVhmNUM3dnlyTHVzdC1sVmFpdjg?oc=5",
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-11T20:26:26+00:00",
-      "age_hours": 3.5,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -75,7 +108,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-11T18:38:17+00:00",
-      "age_hours": 5.3,
+      "age_hours": 8.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-11T04:01:31+00:00",
       "age_hours": 2.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia taps Wall Street for $500 billion funding commitment - Moneycontrol.com",
-      "what_happened": "Nvidia taps Wall Street for $500 billion funding commitment Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlQ3bm9jdUk4ZlJ0NXhHTVNFYmpQYmZ3M3dCNmVnclMzdDA3c1lDbXlkenpfX2pXb1BaWDJEWFhuWFpmWFVGSE1EbHFTWm9lVklyU1BNaWMyOGIzZVdNMkVVOUlMMVhtaWxOWVB6dEVMazlOODNKT182M1NwWXhRay01RXExOFVBUUJkUWl1ZUpsajFVcHYtbThybmI0cjhMdlk2N2YweG9ZTzgzcXFEa0dFbngwUdIBuwFBVV95cUxNTTU5NndIRUpQODA2RzZucGpLSkNYU0N1OVg1WUEyQTRQUTZ4TERWZTNqZW03b0lNR3hKTnFXRmFveElFeGtjYklGTEZPRmRyWW9wOHltS21NNkJIdDdkUU5zTXVMMWVNdjdwNXdsQU1QclNTTnBhc1ZfTTBjMUhJUG80Z2hETVhUVlJvMk45MHYydlZKZDR0V1BXaXljNnF5X21Ram1JZllFWTBraDVNQlNlY2ZkV1BReU1N?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T02:04:50+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
-      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-11T01:05:44+00:00",
-      "age_hours": 3.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model - TechCrunch",
-      "what_happened": "As AI-led attacks multiply, OpenAI launches a new cyber model TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRUlDV19rQi1xNjJxVWFVeGVEV1NEdDNpNWRLa01uOWV3VUNJaEdVWUhsV0RRVXN2U2otbmlPNHd6TThJbjJRTEFVTlR6Y3VDcTlvRVJxd1AwQllaLUhGeV9KYWMyZEVIWkVEMFlRUUNTOXdKd19hV2k4dEVGeC1KdlVFcURvM2EtUU4yeDRRQlhtY282Mk5IN1REYw?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-10T23:56:15+00:00",
-      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
