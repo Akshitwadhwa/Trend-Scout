@@ -2,44 +2,44 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-12T15:13:22.409392+00:00
+Updated: 2026-08-12T16:08:47.529248+00:00
 Memory window: 48 hours
 
-## 1. Why Korean chip stocks could be primed for a comeback - Korea JoongAng Daily
+## 1. Samsung, SK Hynix reignite Kospi rally as AI spending fears fade - KED Global
+Source: KED Global (reputable)
+URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE43N0sxSGxjNV9DMVltdjJ3WVJtbXpaNE82QlFXZGpiVU1qZC13SDR2T2twTmVVdE1JbVR2LVpUMEl5NWxSc1owUVhsckFJZG83Z2NyVkxsb2lJMVFLZlFtTGRUQ0ppM0JmcWZGTldxazNpczBHY1JXX29R?oc=5
+
+Samsung, SK Hynix reignite Kospi rally as AI spending fears fade KED Global
+
+## 2. Why Korean chip stocks could be primed for a comeback - Korea JoongAng Daily
 Source: Korea JoongAng Daily (reputable)
 URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEFmSDNVTWZLWWk1WXUyS2NlSDhYb1R0QXR3SGZVcnNPaWc1RE1JMVpzNmlIUU9SYjhHMkxlZ0lEUGJMemozTEpfLWJBRF92VElnTFJleFFIOGJmMkozQUkyaW1QdnJGRUhVUXBIeV9PUEZETnI5NFhrNXZ0RnlLN2dEaExRSk5sbi1RVmczTHFuV1dTVzBsX1AzaGtVSjhnZndhVHpmQk1Kdw?oc=5
 
 Why Korean chip stocks could be primed for a comeback Korea JoongAng Daily
 
-## 2. Honam’s chip dream faces a power and water reality - Korea JoongAng Daily
+## 3. Honam’s chip dream faces a power and water reality - Korea JoongAng Daily
 Source: Korea JoongAng Daily (reputable)
 URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2NwaU5XZ0N2TVZNVDFCeTZWZmdvbFhEQWV5anVxMGpuZGxFVFBWdUJseS10cmU1MVl0UE1UNGFiY2pmVWJFZVJ3aXlwUFMxZWZKS3FiSkFiNTBKNTR1X3FGdmZPMU5ZTXF0cFFlQVBfaWh4WEl0a1Bobl9aaTB4M1hsTWxORGh0SGk3UWtvcDEyU09yYTVGM2IxZjhvM0U?oc=5
 
 Honam’s chip dream faces a power and water reality Korea JoongAng Daily
 
-## 3. Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon - Mashable
+## 4. Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE42WHlZb3lKTWRmYVN0WkphRUlwR0x1TDNlczZIZ2g4bUh5YmxXSU5OdjRCS3lLTTc0VWI0VDQ5cDVrMWZJaVo1MEFuNmIySVNzY0tBcnAxRHNvVmZFVnBJUnZCbDdZSkFa?oc=5
 
 Best AirPods deal: Save $59 on the Apple AirPods Pro 3 at Amazon Mashable
 
-## 4. Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable
+## 5. Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5
 
 Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable
 
-## 5. OpenAI finds a crack in Anthropic's business AI lead - Business Insider
+## 6. OpenAI finds a crack in Anthropic's business AI lead - Business Insider
 Source: Business Insider (reputable)
 URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTdHQ1BndlBUQ2lIcGVjQTNweWVGQjZ0bTBpVkdrRGpfUUhfaEUwNjFLUmxvU2FrVF9sMmM2MFZEQUcwUXc0LUJ5MTBmdXU0WE02WHd0N0NrNUJmbURHQ0pBOGRGbUYxU21mYmhwdldRNzJ1ZjhFdkhMX1RoeU1pQWpLV0RibWM?oc=5
 
 OpenAI finds a crack in Anthropic's business AI lead Business Insider
-
-## 6. Samsung, SK Hynix reignite Kospi rally as AI spending fears fade - KED Global
-Source: KED Global (reputable)
-URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE43N0sxSGxjNV9DMVltdjJ3WVJtbXpaNE82QlFXZGpiVU1qZC13SDR2T2twTmVVdE1JbVR2LVpUMEl5NWxSc1owUVhsckFJZG83Z2NyVkxsb2lJMVFLZlFtTGRUQ0ppM0JmcWZGTldxazNpczBHY1JXX29R?oc=5
-
-Samsung, SK Hynix reignite Kospi rally as AI spending fears fade KED Global
 
 ## 7. A brain chip through the neck? China is testing a 10-minute implant - Moneycontrol.com
 Source: Moneycontrol.com (reputable)
