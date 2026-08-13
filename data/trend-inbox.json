@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T21:01:37.498233+00:00",
+  "updated_at": "2026-08-13T22:01:49.396517+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,18 @@
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-13T20:49:45+00:00",
-      "age_hours": 0.2,
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify - Mashable",
+      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRElxNVJrdVBrNVZoTURXamZqOFRuamhZUWtKdlYwYmNacWRzWndpSHdFT2Q3ODZkNFJEQUdmQW9QTWtreDdGaWVnX1RvcUQyMlAtR0huVVNjcXNC?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T20:37:45+00:00",
+      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +64,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 2.0,
+      "age_hours": 3.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -64,7 +75,7 @@
       "source_name": "apple.com",
       "source_level": "primary",
       "published_at": "2026-08-13T18:30:29.099000+00:00",
-      "age_hours": 2.5,
+      "age_hours": 3.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -133,6 +144,17 @@
       "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "What 50 open source projects taught us about security in the AI era - github.blog",
+      "what_happened": "What 50 open source projects taught us about security in the AI era github.blog",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2ZnVDh0WlE0OGE3RnhkU3F4Q1MtOWNiRXNSNFp2NjgxWHR2X05zTWxCVVJ4T3hUdWRwVEFlMVNNX3l1QmI4U2pHdXE3RC0wMDFhR084bm94d0dPUHZOU0szM1pKdmM1b1hCSWh3aGNtRDFUYWhUb3BpRVVTM0xqcXcwNDMwb3FkWkVBOHBRR0I2SUtQNEc3QjdCY0FrVUZ4UzJrSDdSZ3RfZnJBNW00SHZn?oc=5",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-13T16:01:52+00:00",
+      "age_hours": 6.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "What 50 open source projects taught us about security in the AI era - The GitHub Blog",
@@ -309,28 +331,6 @@
       "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung completes new HVAC manufacturing facility in India - The Korea Times",
-      "what_happened": "Samsung completes new HVAC manufacturing facility in India The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTZjZ2NSLXdTR1lBd0FFYkFqTHFBSUtWM1NZZGR5YlBYMlFhMEx0OEtGQVNNVEl0bmVBdEsxWTZwS1RkanZubFZmUS1kTU9XbVh6N3FGMVhlMXVSSGJ1R1JuMlhZdkwxeXFRWXdMWDFUeWJVT1IzSEFRMVlzLUJXeGV5MVl5bGJPd01qaDNIRnZjMEYwYnJ2V1o3cC1WMm1SM0lWUVFZUm51aFhjNVJ5Vlk1bVRFZ9IBuwFBVV95cUxQM1dDaGZ5RFFoU1ZFVGhHcVgyYkp5b1JXcDU3WWFWeWwzVVZCVTd2bzJZd3BxUEVXamlDMHFaNnR5Qml4WldXQXBva0hZRmZWNDVtdFFUQ19ITG1EdkRvcnNrSWdsX2tHVU9lTG1Rdi1VeGxQS0Y1WGUxNng2NEhOMjl0TklhM2dYeEtkbVdrTU5QeE95UnUtdW1LNnRFanZTQTA4RzRIdm1EdzlnVkVTOW1CcmV4NGNDZjl3?oc=5",
-      "source_name": "The Korea Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T02:15:03+00:00",
-      "age_hours": 2.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes - news.samsung.com",
-      "what_happened": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes news.samsung.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVYyQlRmV096V2xiMDFXQ3ZMMElvZC1Sd3I2RUF0Qm9VTEZGOTRjVk1lN1J2cjQzcXlHRkN5M0tVc2VMNVdEQlRpdkp0NkRra1NHOXBiUDl2LXFjQXM5ZExoQXZYdHRxUGJjYUdsOXVlcmFPd2lMZ3RFSDhNU05BdC1JeGRQZUJxX0VtYlF5MVljMTNxQm5zZFBCME9zZ1lHa1l2WnBDZw?oc=5",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-13T00:09:09+00:00",
-      "age_hours": 2.6,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
