@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-13T11:58:12.697929+00:00",
+  "updated_at": "2026-08-13T13:45:29.308660+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Alibaba adds commercial restrictions to open-weight Qwen3.8-Max AI model - South China Morning Post",
+      "what_happened": "Alibaba adds commercial restrictions to open-weight Qwen3.8-Max AI model South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTURVS2Vyakt4UFJUN1hwSVM2N19aLThVMFpaQ3VsUEVqZFNfd1ZLTHZJdThlWFdVbUU1NE05eVpIMjFIeDJHZUpOOVRCbUY0VWhqRnBtaXBONi1CNkJoSVo4VGxxSEk2UTZxV2JQQXJXbUFvMUJmOXNmRGZTeUw2SDBXR2FjeUhXTzVfX0hwamlUdXVQSzNaSnBQdUFrczVJYy1kYm1Ib2pqTzRvdzhIdUZIa0FMb29ZSW81OVBtZ9IBvwFBVV95cUxOSGhqY1BtYWtqdzJzOEx5NXhVclY4Z0xZdllFbHUxX1BsdEVYZjZZYV9BMV9pYWVzV2d1VlVfRFo0S0VzRDU5YlBjV1pBcFlNZ2tjdVpyVDhaZlU5QWNoZWJpTVdPU3BIcWFBYkVnSWtIbGZpVGZYYUVfYnU3Y2w1bWpxRjJBWjBzZ3l6Yk9SVklRMW1tUWVZZGVoMEFCUktZQV80OTVsVzJsbHFGa0VNQmRKb3FQMkdMVEs1S1ZTOA?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T13:30:07+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More - NVIDIA Blog",
+      "what_happened": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More NVIDIA Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sU0xoX2M5M2FnNDd1T3NucDB6VEJIN1g0WXRDSmhrNDFPaF9kRUhQWU5HdzgzNGE4YVNuSVFGTnRYWUpZUldOVQ?oc=5",
+      "source_name": "NVIDIA Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-13T13:02:26+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung deepens AI data center cooling bet with India HVAC plant - KED Global",
+      "what_happened": "Samsung deepens AI data center cooling bet with India HVAC plant KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FNFpjenRmaFUxdk8yb2xlNDF3UGtYOXZqU0JDb2YwSFM5ZnJUYUlvejlZaHVNY3BYam5KRmRaaG9raWhfZHFlV1RZNGpOSWhENjhjbVZjMWcwRm5Mc0xFNWZ5QjNNUFI4WGhDZkkzMA?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T12:22:36+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 - Mashable",
+      "what_happened": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEoxb24wT2lGRHpyVTd5aEpPb1oweFlDemNCWjY1M3BUUmFNR1lJV0llalNQWFp2eXBaeXQtMTFJRkQzUHFtUXI5NlVPT2YtVmtZNHVWdnFXZ1JhUXpVRGtCb2JUanRLZ1VtdGVyVGNpTmY2ODNtZDJ1cGs3d1FhZA?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T12:03:23+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "SpaceXAI unveils Grok 4.6, claims frontier-level performance at lower cost - The Indian Express",
       "what_happened": "SpaceXAI unveils Grok 4.6, claims frontier-level performance at lower cost The Indian Express",
@@ -141,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T22:17:32+00:00",
-      "age_hours": 13.7,
+      "age_hours": 15.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -229,7 +273,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T19:00:00+00:00",
-      "age_hours": 17.0,
+      "age_hours": 18.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-12T16:48:17+00:00",
       "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Why Korean chip stocks could be primed for a comeback - Korea JoongAng Daily",
-      "what_happened": "Why Korean chip stocks could be primed for a comeback Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEFmSDNVTWZLWWk1WXUyS2NlSDhYb1R0QXR3SGZVcnNPaWc1RE1JMVpzNmlIUU9SYjhHMkxlZ0lEUGJMemozTEpfLWJBRF92VElnTFJleFFIOGJmMkozQUkyaW1QdnJGRUhVUXBIeV9PUEZETnI5NFhrNXZ0RnlLN2dEaExRSk5sbi1RVmczTHFuV1dTVzBsX1AzaGtVSjhnZndhVHpmQk1Kdw?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T15:03:11+00:00",
-      "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Honam\u2019s chip dream faces a power and water reality - Korea JoongAng Daily",
-      "what_happened": "Honam\u2019s chip dream faces a power and water reality Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2NwaU5XZ0N2TVZNVDFCeTZWZmdvbFhEQWV5anVxMGpuZGxFVFBWdUJseS10cmU1MVl0UE1UNGFiY2pmVWJFZVJ3aXlwUFMxZWZKS3FiSkFiNTBKNTR1X3FGdmZPMU5ZTXF0cFFlQVBfaWh4WEl0a1Bobl9aaTB4M1hsTWxORGh0SGk3UWtvcDEyU09yYTVGM2IxZjhvM0U?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T15:03:11+00:00",
-      "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
-      "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T14:15:52+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI finds a crack in Anthropic's business AI lead - Business Insider",
-      "what_happened": "OpenAI finds a crack in Anthropic's business AI lead Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTdHQ1BndlBUQ2lIcGVjQTNweWVGQjZ0bTBpVkdrRGpfUUhfaEUwNjFLUmxvU2FrVF9sMmM2MFZEQUcwUXc0LUJ5MTBmdXU0WE02WHd0N0NrNUJmbURHQ0pBOGRGbUYxU21mYmhwdldRNzJ1ZjhFdkhMX1RoeU1pQWpLV0RibWM?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T14:01:23+00:00",
-      "age_hours": 3.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
