@@ -1,7 +1,62 @@
 {
-  "updated_at": "2026-08-13T18:06:02.510761+00:00",
+  "updated_at": "2026-08-13T19:18:23.038978+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds - The Information",
+      "what_happened": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG1ZVGdkQW5mU0JDelFXc185SlJHampjTWhhOVkyQ3ZLQ1BXQUxuX2sxTWhEa3RoZ2JQbGhrVGRGSy16S3h5dU83VGFuSjR0RjctVzNIVk11bDcxY1pzblFSM0tCSDlNcHVST2Zjb2RUOENiZmxmaWc2MVdDV1RpRkVrR2I4QnpLUENLclcwam83X2d2a1E3cUhCdEtsU0gwMENzUlhiUkc5QnJBdHpUcQ?oc=5",
+      "source_name": "The Information",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T19:03:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "what_happened": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-13T19:00:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "what_happened": "Apple opened its new Advanced Manufacturing Center in Houston, offering free training and educational sessions for small- and medium-sized businesses.",
+      "source_url": "https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/",
+      "source_name": "apple.com",
+      "source_level": "primary",
+      "published_at": "2026-08-13T18:30:29.099000+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "The builder\u2019s guide to GPT\u20115.6 - OpenAI",
+      "what_happened": "The builder\u2019s guide to GPT\u20115.6 OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tMWFtaDR2X0I2UjdDcjFYRkJTTXE2cnNqSk1sVnIwMzR5MHl1M3FTVEkxaGEyMjI2ekZ1d2VTNGx2VnVYMlhPU3lvamJBSS15YzlfY0lFaGVmRkV3b0N4ZA?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-08-13T18:24:35+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung deepens AI data center cooling bet with India HVAC plant - KED Global",
+      "what_happened": "Samsung deepens AI data center cooling bet with India HVAC plant KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FNFpjenRmaFUxdk8yb2xlNDF3UGtYOXZqU0JDb2YwSFM5ZnJUYUlvejlZaHVNY3BYam5KRmRaaG9raWhfZHFlV1RZNGpOSWhENjhjbVZjMWcwRm5Mc0xFNWZ5QjNNUFI4WGhDZkkzMA?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T18:22:37+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters",
       "what_happened": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows Reuters",
@@ -122,17 +177,6 @@
       "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung deepens AI data center cooling bet with India HVAC plant - KED Global",
-      "what_happened": "Samsung deepens AI data center cooling bet with India HVAC plant KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FNFpjenRmaFUxdk8yb2xlNDF3UGtYOXZqU0JDb2YwSFM5ZnJUYUlvejlZaHVNY3BYam5KRmRaaG9raWhfZHFlV1RZNGpOSWhENjhjbVZjMWcwRm5Mc0xFNWZ5QjNNUFI4WGhDZkkzMA?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T12:22:36+00:00",
-      "age_hours": 2.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "SpaceXAI unveils Grok 4.6, claims frontier-level performance at lower cost - The Indian Express",
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-12T22:03:50+00:00",
       "age_hours": 1.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Wall Street giants bet Nvidia\u2019s AI chips will defy the laws of finance - Financial Times",
-      "what_happened": "Wall Street giants bet Nvidia\u2019s AI chips will defy the laws of finance Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON0VtNWU4bEVEQk5mUHY1WjFjaDBkanQzYjFnaGQ5SVNYU1FiWXpOaUVySTlxMmhYREtYZEpjcklNWnhFWjJ5Zm1FUTBhM0EzQ0w0bEVDd2lCUFI1NWktcW1DSWNXM0xwczZPdzZBZW44dVhubWFZalVRWWc1MDhSNm1ReTk?oc=5",
-      "source_name": "Financial Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T21:11:50+00:00",
-      "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes - samsung.com",
-      "what_happened": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes samsung.com",
-      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVYyQlRmV096V2xiMDFXQ3ZMMElvZC1Sd3I2RUF0Qm9VTEZGOTRjVk1lN1J2cjQzcXlHRkN5M0tVc2VMNVdEQlRpdkp0NkRra1NHOXBiUDl2LXFjQXM5ZExoQXZYdHRxUGJjYUdsOXVlcmFPd2lMZ3RFSDhNU05BdC1JeGRQZUJxX0VtYlF5MVljMTNxQm5zZFBCME9zZ1lHa1l2WnBDZw?oc=5",
-      "source_name": "samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-12T20:44:27+00:00",
-      "age_hours": 3.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Cerebras raises annual targets on strong AI chip demand - Reuters",
-      "what_happened": "Cerebras raises annual targets on strong AI chip demand Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RxTUJxMTh2Mk9XSmgxdm1MZDh6MlRtcVl5aFM1bmF1ajVmWlFnUF9nNU0yYjloQ0pON2VSWFZBYTVldmJ0TGI5N2psYlcwZVRuSURZaUM1NkYzVkh4NGVNRUtjd0F0M3RMTno2X0RSNG9VbF91V2lDOUh0OG5nSDJiY2M4cDdrM1lGRnNicldnNXBBQTBDRFVzNHdJQQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T20:25:06+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "It looks like Apple\u2019s iPhone 18 really will skip the fall launch this year - The Verge",
-      "what_happened": "It looks like Apple\u2019s iPhone 18 really will skip the fall launch this year The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmdzJ5WE9FN19PS1k1bGxpUkdhQ3ZmZlRlMzFiOFBSSnBDS2E5WVBBc2RMUnhoMmxhQzB4d2ExN29MUFJuUnF5SFROdzdERnM5RFVSaTMxSXo4a3UxTnpuVWl6eXU3U3RqSG1qNXNHMnJGTGFMb0NSX2l4NDg?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T19:27:47+00:00",
-      "age_hours": 4.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
