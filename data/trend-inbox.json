@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-13T19:18:23.038978+00:00",
+  "updated_at": "2026-08-13T21:01:37.498233+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom - WSJ",
+      "what_happened": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXkzcldHWlgwNW5GaHM4MHpSR3ZuSFp4RTBtMXdXLTJoZ2w4WFZBNEtSaGZwblk0WUpwWFJtZjV4NVZrbXgtMVJZYWxnQ21EMlIyTkNoUmNLZ3c3elFEcmpyOWl3WEIyRU1ZdmhvR3FzUW1FMm1tdXhmOFEyY01Uazh3YWpPSmpuS2lZVC1MMlRIak9pTndidWNlX3Y5Y2RNUU80cXAwTzVGWS1WdThKMG54STBTWHFy?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T20:49:45+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 - Mashable",
+      "what_happened": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEoxb24wT2lGRHpyVTd5aEpPb1oweFlDemNCWjY1M3BUUmFNR1lJV0llalNQWFp2eXBaeXQtMTFJRkQzUHFtUXI5NlVPT2YtVmtZNHVWdnFXZ1JhUXpVRGtCb2JUanRLZ1VtdGVyVGNpTmY2ODNtZDJ1cGs3d1FhZA?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T19:30:00+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
+      "what_happened": "IBM partners with OpenAI to bolster enterprise AI push TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUs0MGRiMjY0Z2YzbGlPQmJweVlRWjNZRlROT2lRd1NWbHgwOG9HMFhGdkJZTnlqbkJMUjVabm82bno0SmFfYUgySmZ1RkxDTTlMT3NKanRpV3JoME1YM0FDbVR5NndGOFlGRU1ueTdlTXVsd2xiWVVjWDYyNjAxWlc1dTZWSU1KOVB4eWpIZTJFcVU?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T19:19:49+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds - The Information",
       "what_happened": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds The Information",
@@ -20,7 +53,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 0.3,
+      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -31,7 +64,7 @@
       "source_name": "apple.com",
       "source_level": "primary",
       "published_at": "2026-08-13T18:30:29.099000+00:00",
-      "age_hours": 0.8,
+      "age_hours": 2.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -102,24 +135,13 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 - Mashable",
-      "what_happened": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEoxb24wT2lGRHpyVTd5aEpPb1oweFlDemNCWjY1M3BUUmFNR1lJV0llalNQWFp2eXBaeXQtMTFJRkQzUHFtUXI5NlVPT2YtVmtZNHVWdnFXZ1JhUXpVRGtCb2JUanRLZ1VtdGVyVGNpTmY2ODNtZDJ1cGs3d1FhZA?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T16:30:00+00:00",
-      "age_hours": 1.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "What 50 open source projects taught us about security in the AI era - The GitHub Blog",
       "what_happened": "What 50 open source projects taught us about security in the AI era The GitHub Blog",
       "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2ZnVDh0WlE0OGE3RnhkU3F4Q1MtOWNiRXNSNFp2NjgxWHR2X05zTWxCVVJ4T3hUdWRwVEFlMVNNX3l1QmI4U2pHdXE3RC0wMDFhR084bm94d0dPUHZOU0szM1pKdmM1b1hCSWh3aGNtRDFUYWhUb3BpRVVTM0xqcXcwNDMwb3FkWkVBOHBRR0I2SUtQNEc3QjdCY0FrVUZ4UzJrSDdSZ3RfZnJBNW00SHZn?oc=5",
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-13T16:01:52+00:00",
-      "age_hours": 2.1,
+      "age_hours": 5.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -309,28 +331,6 @@
       "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "GitHub availability report: July 2026",
-      "what_happened": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-12T22:17:32+00:00",
-      "age_hours": 17.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Twitch Confirms Amazon Is Training Its AI Models on Livestreams - Business Insider",
-      "what_happened": "Twitch Confirms Amazon Is Training Its AI Models on Livestreams Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWc1d0RvVWI2c2hrMFh5TjVNZnFDNTVmVjRMUzU1Um9jZFN3WDVHUVJmN1BQSXhfY09JR0JZcHI2NWpMS3ZuTHBmVXNlb2VrQ3dKLTNzeXFXaUJBeGlwNEtrY1g4ZUItV3FJTW1XNTdoUFozUkVxcnhWZDQwMENGc2FySjNKWXJpS2w3cDJnQVBNSVBjNnhJNW9wMHFqQzQ?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T22:03:50+00:00",
-      "age_hours": 1.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
