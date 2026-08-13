@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T06:43:57.299624+00:00",
+  "updated_at": "2026-08-13T08:42:26.703714+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,13 +14,46 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
+      "title": "L&T secures 'mega order' for build India\u2019s largest NVIDIA B300 AI factory for Together AI - Moneycontrol.com",
+      "what_happened": "L&T secures 'mega order' for build India\u2019s largest NVIDIA B300 AI factory for Together AI Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMGIxV19ZMGFIMWtoczd2WnRNX3VlVTNKeFU1ZlQzZW1pbWNTTUp5SHk2SGc2U3RDcURPUmtSSTF0SlV1dTJ1cW5ramVMMmJ1U1RqenUxS3otVDc0REVLSkU1VlBXUk92M0c2TTVIaEFkU2tWQnZYZHB4ck9nZm9EUUoxY1NnLWUtOExnSW5NandxSHR5dVl0VVZEU25WOGlHWVJhTUlUaG1wMDRUNk5ObjlIMkV0Z2pCZDZMamtqWHJnRHNHRm5ka2JmWlB6T01obHQtSUxBV19Bc3J40gHiAUFVX3lxTFBpR1RTa2RVb05SdGFJWDZnREVuQ2d6REpKQS1kZkNTMmloeVVtcmVqbEJQOUhqRjdMU2VjLVZFSFoxTUpDM2RjU2lFdnFHRXV6OWJUQUZyRDMzcFF0X3JJWGFVcVpkY2xjX0hiWTRJV0w5OXZDTEd3WjFLQ3lkTlVpQjlpQTNabkY2TDRITjlpNENsVDNSeXVZeVNfMk5WWHVBNTE4SndMRDlPWkJGeDhLRzl3alFNZWdvNzVuZ3FXWm1GTXBOeHFXbFlPUC1sZGdkZjJUb0xNQWFiUzY2aXVHdHc?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T08:27:42+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "China chip designer Kiwimoore plans Hong Kong IPO at $2 billion valuation, sources say - Reuters",
+      "what_happened": "China chip designer Kiwimoore plans Hong Kong IPO at $2 billion valuation, sources say Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZXhTNDVLVUpyaERieWlrdjVmVXFuNTJSYm9FcGxFaktCZW81eVBSOGVtZ3BUeV9sX3VzY1BRbno5SEhvOXdHU0EtcVRnekYzNXVoNHhDejZscnRsRVFRQ0sxSng2S2JLak5hOUFWeGxCanRnYUxoVFZXZlNlZVpielBkUkhoVW9Pb19DQW1meU1OMEVvTkVmSVY2TFB1T0VFWGpaczVVbEl5WkZXRDU1bDl3Q1RZZktkdUxETTQtZ3UtcE9Yc0ZfNzB3?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T08:04:19+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "DeepSeek\u2019s flagship AI model update underwhelms \u2013 except in cybersecurity - South China Morning Post",
+      "what_happened": "DeepSeek\u2019s flagship AI model update underwhelms \u2013 except in cybersecurity South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1hCb3pST191TjItOVFxZi1vMzhfMm9QZjEyQ2VfbGk0NzhjRWdhT2pub3p5bmM1VDdwZ1ZQYXVMSk9Kc0tZUHlGcnFhSE1ZVmdRclRwM0hITHFGbkFnZUgxMUVoTjVoWTEyTnhHRmc2TUpMc2RGRU9DYTRSZ1FWdVVEczhsY2tpcThUSHNsckZyeVhZQnNMSFcyaGUzMU9PMWhQN28wMkFTRXRFYzdmMWhwck5vX2dWdnQ0N1N0c0VyY00z0gHEAUFVX3lxTFA5SGNMa2U2SzhpUFF3WU5rZmhFNjZHMFJfTUNIT2wzWlhzMVNGNTRralpYVWV0bzVZUnFXZW1Gbm1NYlZaWjZ1YW94UHgwd3hxQmFGWjZ4NndscC1KVjJkaFJnZjNiLU9SeW9yRUFhQzAzamZkQkR6UXVKcWxYSzFVb1RtTGd2NE1CWjROVkpiR0JmNkk4aTVnZ1hEMS1YUllCcHlzUnNfeUZqWjdIblRSU3dxcGNuZExfdmIwdzlRRW9JMEs?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T08:00:32+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "[Galaxy Unpacked July 2026] One City, Three Perspectives: Capturing London With Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8",
       "what_happened": "London, a city of rich heritage and innovation, set the stage for Galaxy Unpacked July 2026, as Samsung Electronics unveiled its latest foldables \u2014 Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8. Combining refined hardware with powerful AI capabilities, the new Galaxy Z series delivers an advanced camera experience across professional-quality landscapes, [\u2026]",
       "source_url": "https://news.samsung.com/global/galaxy-unpacked-july-2026-one-city-three-perspectives-capturing-london-with-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-13T08:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -63,8 +96,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWRXMGN5WXlraTZ5dzRnUHVkcEtuUnhDV1FJU1pBNUVndnJXRkM5dkdrSDVXbDVLckNaOTZnUm9uRks4ZDRPN1JJSDF2SmFwX2tTTHNncTZiT21hd1hoc1VyVEJPZnlHZnNMcVRGczM4QVlVV1R6TG96VnpjWUktbUJHVVM?oc=5",
       "source_name": "Financial Times",
       "source_level": "reputable",
-      "published_at": "2026-08-13T04:01:00+00:00",
-      "age_hours": 2.7,
+      "published_at": "2026-08-13T04:00:23+00:00",
+      "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +130,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T22:17:32+00:00",
-      "age_hours": 8.4,
+      "age_hours": 10.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -185,7 +218,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T19:00:00+00:00",
-      "age_hours": 11.7,
+      "age_hours": 13.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-12T13:20:48+00:00",
       "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "[Video] Samsung AMS Transforms Shared Classroom Displays Into Personalized Workspaces for Teachers",
-      "what_happened": "Shared interactive displays have become a central hub for classroom instruction, helping teachers access lesson materials and digital tools throughout the school day. However, when multiple teachers share the same display, keeping personal settings and classroom content private while ensuring a consistent experience can be challenging. Samsung AMS (Account Management Solution) helps transform shared Samsung [\u2026]",
-      "source_url": "https://news.samsung.com/global/video-samsung-ams-transforms-shared-classroom-displays-into-personalized-workspaces-for-teachers",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-12T11:00:00+00:00",
-      "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
-      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T10:47:05+00:00",
-      "age_hours": 5.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "SK hynix to hold groundbreaking ceremony for Indiana chip packaging plant on Aug. 27 - The Korea Times",
-      "what_happened": "SK hynix to hold groundbreaking ceremony for Indiana chip packaging plant on Aug. 27 The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSHhXSXE2dGEtMVVtS0N5SVd6VDdKVlJoTWJDQ2dEMGdTS3V3dEtIZVk5ZjZiUGNRWmpHS2dhb3lhc0Q0SGhCZDZVVjc2c3JTY0xXVGE5YVo2ODBWcUJHSmQ5VlZzNHdZT3J1MHVBNVExTU0ySkR6UHZRMlJ5bkhzaUJBNjBvNFh3Q2FaVm5WazVWbjFncXJYem1Ba0d2d1dSazZPdWp0LWk4dTFVODhvMHdaN240MmlsQTMxRjhIcVpqbGNfX3NkMVpnVV94VHJIczZTQ3loc9IB3AFBVV95cUxPUG9VVUg3YU1mbkR4VWIxd195SXZvX3FMbEhGb3B0X05zZnllX0FDemhFOUtTWm1oS1Fidk5MZF81ZjUtUUYybmhTc1MyT0xERUFqcHNjd1p6SW1UbkpEelVhQTNGNWgzUktMdk92bkpoTTBoVUhNV3F2c25KdnNQVUs3czdCQTNUNXB3bEZfcFpJTHJnYVBSdXpoRk9IOVpaZEFrdlRveUo4X2hkRzd1WDM5YVRrUkVjVDNIUk0wUXZrTVFiOE1lb29QQnZxYy1RT1ljWWxQTEVwMWdY?oc=5",
-      "source_name": "The Korea Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T08:07:03+00:00",
-      "age_hours": 0.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
