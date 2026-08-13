@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-13T16:09:21.062341+00:00",
+  "updated_at": "2026-08-13T17:10:57.611508+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "New Gemini Flash model arrives before Gemini 3.5 Pro - Axios",
+      "what_happened": "New Gemini Flash model arrives before Gemini 3.5 Pro Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXdBMzlkSW1zbGloS0VNNXhBNXRpaFpMSGNPNzI0NThxN1JOUzcwbjZQY001T2V0OFM2eWNMX05aVk1KeUx6am9RUHdrQjEybDdhVnBGMTJGSkQ3cm5HTFRHcXBtQQ?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T17:03:20+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "AMD looks to raise $4 billion to $5 billion in debt offering, source says - Reuters",
+      "what_happened": "AMD looks to raise $4 billion to $5 billion in debt offering, source says Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFh4TDBMUjJjWXVnRTRzSkM2WHEtSVNWcjZuNHJjYzFucUo2LWZVLWtjMXNjcl9nVHFDek9RcUxUa1BzMW5Rak1xbXpiSWdyNGduSFFYMzViU0RVMzBvVGZPZTZ5QjUwcklxSFFjV0t1TERkSkg3aUh1V2VXRF92UDlYaFRSQXpSOV9fcG1pSUtodkZReFlBdVp0YkZ0Q25BREcxRmYyOXNnLV9T?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T16:38:18+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 - Mashable",
+      "what_happened": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEoxb24wT2lGRHpyVTd5aEpPb1oweFlDemNCWjY1M3BUUmFNR1lJV0llalNQWFp2eXBaeXQtMTFJRkQzUHFtUXI5NlVPT2YtVmtZNHVWdnFXZ1JhUXpVRGtCb2JUanRLZ1VtdGVyVGNpTmY2ODNtZDJ1cGs3d1FhZA?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T16:30:00+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "What 50 open source projects taught us about security in the AI era - The GitHub Blog",
+      "what_happened": "What 50 open source projects taught us about security in the AI era The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2ZnVDh0WlE0OGE3RnhkU3F4Q1MtOWNiRXNSNFp2NjgxWHR2X05zTWxCVVJ4T3hUdWRwVEFlMVNNX3l1QmI4U2pHdXE3RC0wMDFhR084bm94d0dPUHZOU0szM1pKdmM1b1hCSWh3aGNtRDFUYWhUb3BpRVVTM0xqcXcwNDMwb3FkWkVBOHBRR0I2SUtQNEc3QjdCY0FrVUZ4UzJrSDdSZ3RfZnJBNW00SHZn?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-13T16:01:52+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "What 50 open source projects taught us about security in the AI era",
       "what_happened": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog .",
@@ -9,7 +53,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T16:00:00+00:00",
-      "age_hours": 0.2,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -21,17 +65,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-13T15:08:00+00:00",
       "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 - Mashable",
-      "what_happened": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEoxb24wT2lGRHpyVTd5aEpPb1oweFlDemNCWjY1M3BUUmFNR1lJV0llalNQWFp2eXBaeXQtMTFJRkQzUHFtUXI5NlVPT2YtVmtZNHVWdnFXZ1JhUXpVRGtCb2JUanRLZ1VtdGVyVGNpTmY2ODNtZDJ1cGs3d1FhZA?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T13:48:39+00:00",
-      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-12T19:02:05+00:00",
       "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Write your first prompt with the GitHub Copilot app",
-      "what_happened": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-12T19:00:00+00:00",
-      "age_hours": 21.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72 - NVIDIA Developer",
-      "what_happened": "Serve Qwen3.8-2.4T-A95B, a 2.4T-Parameter Model, with Configurable Reasoning on NVIDIA GB300 NVL72 NVIDIA Developer",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOHBlRVZPd1pMMDlFM3pmd3RVcnVxUWlKejJCWHZZb0kyUnB6akZWRVNkQnA1bGppQzItdm43dW8xRVIyZ2k0X19MYWRqcmlhQ3NvNGluME1IX2JlX01xM2RMT3d4aDZiUFhVN3JxZ0xEamdqVEh6OVNfWEk5QlRGUUxMempxZGZYX3RBYlAtNHVFMk50d2Z1eV9saXdscnhtWFFmbTlOQjZYMHc1Mkt1X1dIQnA4aDR0NEpPa1ZGYVBGdjhHRHVfNm5lMA?oc=5",
-      "source_name": "NVIDIA Developer",
-      "source_level": "primary",
-      "published_at": "2026-08-12T18:30:30+00:00",
-      "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Grab a new smartwatch with $100 off the Samsung Galaxy Watch Ultra2 and a free $100 Amazon Gift Card - Mashable",
-      "what_happened": "Grab a new smartwatch with $100 off the Samsung Galaxy Watch Ultra2 and a free $100 Amazon Gift Card Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CWDNkZkpQQXhNdXJVRXhsR3Y0THMwWGZUOXZEdE9IalF5YTVReEx4WVlmb25wUkRFd2NTMHFtM2dudzdrX3g2R3dyV0dGSnI2cDVjdmR6bUpjOTVadngwYzFDWDI1OXd5c1h2dWJFclNwNXc?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T18:11:15+00:00",
-      "age_hours": 1.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
