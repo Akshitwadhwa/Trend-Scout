@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T02:45:23.781979+00:00",
+  "updated_at": "2026-08-13T05:02:41.410643+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,28 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports",
+      "what_happened": "\u201cWhat I really like about the glasses is the speed at which I get the information I need \u2013 instead of waiting for someone to read a letter or waiting for someone to tell me what I have in the fridge, I\u2019ll just do it on impulse. Now I\u2019m doing things for myself independently, that maybe before I wouldn\u2019t have done.\u201d \u2014 Brian Manning, Vision Ireland Meta is donating 15,000 Ray-Ban Meta glasses to Vision Ireland, Ireland\u2019",
+      "source_url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
+      "source_name": "about.fb.com",
+      "source_level": "primary",
+      "published_at": "2026-08-13T05:00:08+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung completes new HVAC manufacturing facility in India - The Korea Times",
+      "what_happened": "Samsung completes new HVAC manufacturing facility in India The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTZjZ2NSLXdTR1lBd0FFYkFqTHFBSUtWM1NZZGR5YlBYMlFhMEx0OEtGQVNNVEl0bmVBdEsxWTZwS1RkanZubFZmUS1kTU9XbVh6N3FGMVhlMXVSSGJ1R1JuMlhZdkwxeXFRWXdMWDFUeWJVT1IzSEFRMVlzLUJXeGV5MVl5bGJPd01qaDNIRnZjMEYwYnJ2V1o3cC1WMm1SM0lWUVFZUm51aFhjNVJ5Vlk1bVRFZ9IBuwFBVV95cUxQM1dDaGZ5RFFoU1ZFVGhHcVgyYkp5b1JXcDU3WWFWeWwzVVZCVTd2bzJZd3BxUEVXamlDMHFaNnR5Qml4WldXQXBva0hZRmZWNDVtdFFUQ19ITG1EdkRvcnNrSWdsX2tHVU9lTG1Rdi1VeGxQS0Y1WGUxNng2NEhOMjl0TklhM2dYeEtkbVdrTU5QeE95UnUtdW1LNnRFanZTQTA4RzRIdm1EdzlnVkVTOW1CcmV4NGNDZjl3?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T02:15:03+00:00",
+      "age_hours": 2.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes - news.samsung.com",
@@ -31,7 +53,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T22:17:32+00:00",
-      "age_hours": 4.5,
+      "age_hours": 6.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -119,7 +141,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T19:00:00+00:00",
-      "age_hours": 7.8,
+      "age_hours": 10.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-12T05:00:01+00:00",
       "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Why does SK Hynix want to sell its chip facility in southwest China? - South China Morning Post",
-      "what_happened": "Why does SK Hynix want to sell its chip facility in southwest China? South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVFMzdU05RjNwSVBra2dpVWNwWjJJYkE3Y25LaTJ2U1RCUFhfMENlQWZGN1JkdnVnX3lNdFhkQWpNNGs2cHBRbnZMRTgtVDc4SmMzQW9OVEFCcFpQbkVQSFdTSHVxUURSSTA3OUllRTdoWm9UUnh5bmtZVm1sSlNfbHZXTGYxN1I3S2k4b1Rpa2lfdDF6RmR3Qk53QW1BRC04cFNaN081ZWtiZ3Q5TzY3UVdR0gGyAUFVX3lxTFBqWmdEVU1tMXJES2dPZm9iT2toYVNqc1pZaGRJUjlZMnN6SGVyOUFkc2Z2QlhZX3ZyZk5IWTZWS09MN2ozMlRodWM2N1JOTkZUT2pLdnBSdWoycW1BakJMbFNYdmk4Y3JKVi1sZ1dkLXBfbW5mR3hLM05DYk1mdEFVbHZ6VXFpWHBfQU5HeVF2ck81ZHRSZUQxQlJDT1I2cUhOdGNfUm93a0ktdXIySE1FWFE?oc=5",
-      "source_name": "South China Morning Post",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T02:00:29+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom - WSJ",
-      "what_happened": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXkzcldHWlgwNW5GaHM4MHpSR3ZuSFp4RTBtMXdXLTJoZ2w4WFZBNEtSaGZwblk0WUpwWFJtZjV4NVZrbXgtMVJZYWxnQ21EMlIyTkNoUmNLZ3c3elFEcmpyOWl3WEIyRU1ZdmhvR3FzUW1FMm1tdXhmOFEyY01Uazh3YWpPSmpuS2lZVC1MMlRIak9pTndidWNlX3Y5Y2RNUU80cXAwTzVGWS1WdThKMG54STBTWHFy?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-12T01:17:00+00:00",
-      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
