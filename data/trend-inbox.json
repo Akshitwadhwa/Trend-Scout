@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-12T23:56:42.487327+00:00",
+  "updated_at": "2026-08-13T02:45:23.781979+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "[Galaxy Unpacked July 2026] One City, Three Perspectives: Capturing London With Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8",
+      "what_happened": "London, a city of rich heritage and innovation, set the stage for Galaxy Unpacked July 2026, as Samsung Electronics unveiled its latest foldables \u2014 Galaxy Z Fold8 Ultra, Galaxy Z Fold8, and Galaxy Z Flip8. Combining refined hardware with powerful AI capabilities, the new Galaxy Z series delivers an advanced camera experience across professional-quality landscapes, [\u2026]",
+      "source_url": "https://news.samsung.com/global/galaxy-unpacked-july-2026-one-city-three-perspectives-capturing-london-with-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-13T08:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes - news.samsung.com",
+      "what_happened": "Samsung Canada Announces Top 20 Breakout Artists in Samsung True North Tunes news.samsung.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVYyQlRmV096V2xiMDFXQ3ZMMElvZC1Sd3I2RUF0Qm9VTEZGOTRjVk1lN1J2cjQzcXlHRkN5M0tVc2VMNVdEQlRpdkp0NkRra1NHOXBiUDl2LXFjQXM5ZExoQXZYdHRxUGJjYUdsOXVlcmFPd2lMZ3RFSDhNU05BdC1JeGRQZUJxX0VtYlF5MVljMTNxQm5zZFBCME9zZ1lHa1l2WnBDZw?oc=5",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-13T00:09:09+00:00",
+      "age_hours": 2.6,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "GitHub availability report: July 2026",
       "what_happened": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog .",
@@ -9,7 +31,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T22:17:32+00:00",
-      "age_hours": 1.7,
+      "age_hours": 4.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -75,7 +97,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-12T19:15:00+00:00",
-      "age_hours": 3.7,
+      "age_hours": 7.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +119,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-12T19:00:00+00:00",
-      "age_hours": 4.9,
+      "age_hours": 7.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -309,28 +331,6 @@
       "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung\u2019s Hearing Aid Feature on Galaxy Buds Cleared by FDA",
-      "what_happened": "Samsung Electronics today announced that its Galaxy Buds Hearing Aid feature has received U.S. Food and Drug Administration (FDA) clearance. The feature enables compatible Galaxy Buds to serve as an over-the-counter (OTC) hearing aid, offering users 18 years and older a convenient solution for addressing perceived mild to moderate hearing loss \u2014 which may be [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsungs-hearing-aid-feature-on-galaxy-buds-cleared-by-fda",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-11T22:00:00+00:00",
-      "age_hours": 2.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Daybreak models are now available on AWS - OpenAI",
-      "what_happened": "Daybreak models are now available on AWS OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45SU9RVTVwLVo0ZVNlYVp6Mkd2TGM1dEc3eUtwRHJuQ3ZHeXZqbTd0SHZkZXZsRUhObWd0d2t2WlB3YWUyTVJfdTlNVlpUbkJONGc3N1NqR2hLQVc0N1NIZTlCQi1UOHlwSTJlTjU4TUFfSGxt?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-08-11T21:50:32+00:00",
-      "age_hours": 4.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
