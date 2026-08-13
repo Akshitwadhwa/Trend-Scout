@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-13T23:00:41.672299+00:00",
+  "updated_at": "2026-08-13T23:57:18.294516+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models - samsung.com",
+      "what_happened": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models samsung.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMG9uQ1NSYmxTOVpwR3UyempidGVNc3FYZHFtdHFyYVQybzZSVVIxTjlKRHdrQVg5NjFxYkdrTnRDR3J5SGdEU21xMEhGX1NmRjltX2RUaXJNVDgyWnRGSFdSMXpkZGwtQTNDSUNiV0pzSjZfMzZwZllnNW9WbkY0QmpzZ1pqVzZCNkZUekF4QVJ6Nl8tdHQ4c09saGtQZm5MMmRCODloYnU3WUxWNFduU2lRdXpBTVZX?oc=5",
+      "source_name": "samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-13T23:00:00+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Former BOK chief warns chip boom cannot simply reverse Korea\u2019s low-growth trend - Korea JoongAng Daily",
       "what_happened": "Former BOK chief warns chip boom cannot simply reverse Korea\u2019s low-growth trend Korea JoongAng Daily",
@@ -9,7 +20,18 @@
       "source_name": "Korea JoongAng Daily",
       "source_level": "reputable",
       "published_at": "2026-08-13T22:04:23+00:00",
-      "age_hours": 0.9,
+      "age_hours": 1.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify - Mashable",
+      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRElxNVJrdVBrNVZoTURXamZqOFRuamhZUWtKdlYwYmNacWRzWndpSHdFT2Q3ODZkNFJEQUdmQW9QTWtreDdGaWVnX1RvcUQyMlAtR0huVVNjcXNC?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-13T21:53:16+00:00",
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +42,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-13T21:13:24+00:00",
-      "age_hours": 1.8,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -32,17 +54,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-13T20:49:45+00:00",
       "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify - Mashable",
-      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRElxNVJrdVBrNVZoTURXamZqOFRuamhZUWtKdlYwYmNacWRzWndpSHdFT2Q3ODZkNFJEQUdmQW9QTWtreDdGaWVnX1RvcUQyMlAtR0huVVNjcXNC?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T20:37:45+00:00",
-      "age_hours": 2.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -86,7 +97,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 4.0,
+      "age_hours": 5.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -174,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T16:01:52+00:00",
-      "age_hours": 7.0,
+      "age_hours": 7.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-13T06:18:01+00:00",
       "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "India's Larsen and Toubro secures order to build AI factory for Nvidia - Reuters",
-      "what_happened": "India's Larsen and Toubro secures order to build AI factory for Nvidia Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T06:15:00+00:00",
-      "age_hours": 0.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
