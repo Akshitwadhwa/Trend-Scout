@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T06:41:22.496692+00:00",
+  "updated_at": "2026-08-14T08:37:02.076572+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,9 +9,53 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-14T08:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "LG to unveil 1st bipedal humanoid robot in Q1, 2027 in stepped-up alliance with Nvidia - KED Global",
+      "what_happened": "LG to unveil 1st bipedal humanoid robot in Q1, 2027 in stepped-up alliance with Nvidia KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyMWNwUWpzd0FjeUhXUHRSa3FHaGF1U1RyV184NlpnQ0QyR29PVUxIcVhzZm0zTzRKYkpGRl9fWVQ1cWRDLS1iXzV1SEtLanAyRGZBRjJfVWJkbnBwaGlfand1OVZGbXNmS1k4?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T07:57:45+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "China AI chip demand lifts Hygon revenue 67%, Sugon profit 34% as domestic computing expands - digitimes",
+      "what_happened": "China AI chip demand lifts Hygon revenue 67%, Sugon profit 34% as domestic computing expands digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSklnTWN3LWFuZ0hjTzBZbWV3bGFxTm1Ta1RZOUZ6cEFreVVhc3M3T0pMYlRsVnNEbU5oaVo0M2VCd1ZPdkQ5WXg1Q1BfVTJNZ0NkQS05RVNwS05xZjJpWjhXWDBxZXVqT0MwZ19OTEFMc29zS19naDBsQ0tjUjNqOXVZR3lUckNGaXBCSDk3NTM1UQ?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T07:55:00+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
+      "what_happened": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T07:52:56+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung taps AI specialists to sharpen semiconductor edge - The Korea Times",
+      "what_happened": "Samsung taps AI specialists to sharpen semiconductor edge The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0s0MTBaeVFySms2Q2ljcHBQSnI4ajlfUFFOdVcyYW1hcE9GQWdIMWFJV3FMVUc0Tk56OUtkS0NxeHdXS09leDU5WUx3bmdsTjlLdXZQRHExZG5YR2h4VkhoNUF2RG1VUm5sSWw3aXU5NWI0LVNvRElhNVo1N2k2aHNoM0VsdUlkeWNjQlExa0lsUGlrR2ZaREdVeHh0V3RGc2NScklaZy1qbXc2YU5kbDJpb0_SAboBQVVfeXFMUEF6M0o1a1IxMFBfcWJYODRuekV4TlpMVDNtdHpja2xWa1Z6aUcxbTBKTll2TVlGaFZyWWY2cjZndmJ6VC1DU19fVm1OYkw3TEhNbnIxcDFNc09xOURPQVJkbnRYSGcwTXhObG1JeWRnNjk4Q3dfelVmQXhyUVJQVzlmMnNKUXpMem1Iby1DQS10Qmxva2MxMXRIbW9kQ1BsZnRaSGRfX1ZxanFyNlJxOWVKRVlWam1kMG1B?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T07:36:03+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said - Business Insider",
@@ -185,7 +229,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 11.7,
+      "age_hours": 13.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -240,7 +284,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-08-13T17:05:38+00:00",
-      "age_hours": 11.9,
+      "age_hours": 15.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -284,53 +328,9 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-13T16:01:52+00:00",
-      "age_hours": 14.7,
+      "age_hours": 16.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "What 50 open source projects taught us about security in the AI era - github.blog",
-      "what_happened": "What 50 open source projects taught us about security in the AI era github.blog",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2ZnVDh0WlE0OGE3RnhkU3F4Q1MtOWNiRXNSNFp2NjgxWHR2X05zTWxCVVJ4T3hUdWRwVEFlMVNNX3l1QmI4U2pHdXE3RC0wMDFhR084bm94d0dPUHZOU0szM1pKdmM1b1hCSWh3aGNtRDFUYWhUb3BpRVVTM0xqcXcwNDMwb3FkWkVBOHBRR0I2SUtQNEc3QjdCY0FrVUZ4UzJrSDdSZ3RfZnJBNW00SHZn?oc=5",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-13T16:01:52+00:00",
-      "age_hours": 7.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "What 50 open source projects taught us about security in the AI era",
-      "what_happened": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-13T16:00:00+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs - TechCrunch",
-      "what_happened": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnhDaERRZW9PS2FkZkJUV3lSUWMwQTdSN3ljaTBUa3gzb2Z3Znc4d2V3akU3YUhvSERkdi1hLTBvdzRRakdsN1pMYVJLZGpXS1dXamxUMTdqbGFKTjR3WUlBdGJkdzhPZmFDVERPRU5TdS0zVzJzbEFwVDhXcTFMaFdKdmEwUFBGc1pUQ2ZXbVBZWXotc1B4dHA3MUk2eXRHWlh2WWx5N1k?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T15:08:00+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Rising Bharat Summit 2026 | Use Indian AI Models To Make Them Better, Says MeitY's Abhishek Singh - Moneycontrol.com",
-      "what_happened": "Rising Bharat Summit 2026 | Use Indian AI Models To Make Them Better, Says MeitY's Abhishek Singh Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZlF5cktTa1VJa09mSmpjUEdpTlVMNXFrOXVGVEFaVG56MUxOdUVWcl9hQnFibVlaOFZXTjNfQjBCMnItNDVrVUJoalBNbWRxbjhJUVJ5UVYwbXIzZzI4SXZoRndra0VkZVlVNWRaSEVkaXRVZndnTTN5c1FDTUZaNE4wUGpOTVJpTmZzdnBCWTlRQlh0bXE2MnFDc0pZZFl2ZW1kNGlKUi1DT2UyVmpIR0VyNlhUWkFfUFViTFRxWU9RZjY4TjNqZnU4VkZWeHUzQkNJTUQxeHB2ZG1vNmdoa3RKazZQN0c4X18tTkJZOEJ6czdHOFI0UTFfZnhQQWVO0gGGAkFVX3lxTE1udGZjR2l1ZzdoZlVMQmhSZWdOYTFUTDVTaGQxZ3BjVFVQbFpzZEdNSG4zb2NsNnEyeG1FOGh1SXZCY0hmbll2UGNqTk81emFva0lUVkdMeDM4emNNclBUUGloUktQSU4xVTNDdlN5ZGRPMWllTDFmdE9oUHdBa0E2NVB2REpodEFIaTZPdzJESFY4SjVVUVRLanc5Z2pGaHNOaHNUdUhhVHNKZXFTSzVLb285bEdpQkFobjZYbDBJMG1tNWdEdFNJQmJpV2Zva01DT09TWlBIcDMyM3QyZUlMdUxqTUc5TklZbWJ0UDBTRlBCTEpSOFRhNUozUkF1cV94bDdhNWc?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T13:42:47+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
