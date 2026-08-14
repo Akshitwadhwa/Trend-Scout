@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T10:15:42.699705+00:00",
+  "updated_at": "2026-08-14T11:09:05.254280+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,17 @@
       "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Solve for Tomorrow Names India\u2019s Top 40 Young Innovators - samsung.com",
+      "what_happened": "Samsung Solve for Tomorrow Names India\u2019s Top 40 Young Innovators samsung.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTFwX1UydFNqYkFXSl9uS2FZaWM3OVF0eGJ1QTJMaEFKVHJFWEJIMGNLV1dOWW5ic3RqLWp3aHdJSExXTlZyUHVrYjhjMy1TbzFvZFZfNFhnS1NGVThibkhjbGNUaXRLREVUei0yX2FrUlF0eG8yZzZWaTVLMG84RUZGVWNiVTVJa1MzZnA5SmZ2el8xeHc?oc=5",
+      "source_name": "samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-14T09:54:24+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Apple trained its own AI model for China with help from Alibaba - The Verge",
@@ -251,7 +262,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 15.3,
+      "age_hours": 16.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -306,7 +317,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-08-13T17:05:38+00:00",
-      "age_hours": 17.2,
+      "age_hours": 18.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 0.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed - OpenAI",
-      "what_happened": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZMFhmQ0dtWnYzRnVhcnM5ZUI5NjJWLXgtT0dSbExsWWZqQmw0a0tuN1ZXVUdIUXl2Y3JVUC0wMGRhdVJrVFdITEV4c2VnYTl4dzFORjVSOGVUZw?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-08-13T17:02:46+00:00",
-      "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
