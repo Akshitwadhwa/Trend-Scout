@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-14T22:38:53.949457+00:00",
+  "updated_at": "2026-08-14T23:35:39.699731+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
+      "what_happened": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T23:29:00+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia discloses $21bn stake in SpaceX - Financial Times",
+      "what_happened": "Nvidia discloses $21bn stake in SpaceX Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3ZISllPenZtOEJ5Uy13WUlZUno1dkh3T1NBMkl4Y2lHY3YyVlVRemlFUS11UkhhX25OTHRwNHlLdWoyRUZxR29jMG5wYTdSb19XWWhaUUdrT01LVzJGQVBaeWZNMEJhYTB3anBBbFJDd0F5d0dRQTBQQWdhbkxFbkhlYW0?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T22:28:02+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter - CNBC",
       "what_happened": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter CNBC",
@@ -20,7 +42,18 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-14T20:30:58+00:00",
-      "age_hours": 2.1,
+      "age_hours": 3.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
+      "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T19:31:51+00:00",
+      "age_hours": 4.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,20 +64,9 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-08-14T19:22:20+00:00",
-      "age_hours": 3.3,
+      "age_hours": 4.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
-      "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T19:14:18+00:00",
-      "age_hours": 3.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent - NVIDIA Blog",
@@ -86,7 +108,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 6.6,
+      "age_hours": 7.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -119,7 +141,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 7.0,
+      "age_hours": 10.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -309,28 +331,6 @@
       "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models - news.samsung.com",
-      "what_happened": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models news.samsung.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa3FWNkdUZUtYb3ZtcXd0dWEwNWFIVWVPU3lLNWg2UUcxYm5hNW4xMkhZMXQxMDhHZGtUSjRSbVY5ZUdRVlBMMk15VHB0SEwwaG9tWkZjM2lTTWljMWIxdTd3NWc2TkdxOGZLWTBnenpaQ09PWk5kcjluMlc2TF93d0pwT1RXYV92VkNTNHpNdmhhWXVEWlNlRUdSMWd2M2NweWpFTG9QTUJYdWNaekVyRFpPZw?oc=5",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-14T00:04:09+00:00",
-      "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models - samsung.com",
-      "what_happened": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models samsung.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMG9uQ1NSYmxTOVpwR3UyempidGVNc3FYZHFtdHFyYVQybzZSVVIxTjlKRHdrQVg5NjFxYkdrTnRDR3J5SGdEU21xMEhGX1NmRjltX2RUaXJNVDgyWnRGSFdSMXpkZGwtQTNDSUNiV0pzSjZfMzZwZllnNW9WbkY0QmpzZ1pqVzZCNkZUekF4QVJ6Nl8tdHQ4c09saGtQZm5MMmRCODloYnU3WUxWNFduU2lRdXpBTVZX?oc=5",
-      "source_name": "samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-13T23:00:00+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
