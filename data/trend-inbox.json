@@ -1,15 +1,48 @@
 {
-  "updated_at": "2026-08-14T11:55:51.492458+00:00",
+  "updated_at": "2026-08-14T13:40:48.426318+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 - Mashable",
+      "what_happened": "Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNHM5Nl9TMTlpQmd4cnhqQlRacHR6bFlSY3ZKQjVrSEdacWpFY2ZkWWY1RlBsXzBPVzM3Y25LV1J1MzR1QTYtLVdySldIQ1FBbHoxU2ZfbVhZSWdOeHlYLW9Majd2d2xjTHMxTmVZRmxyNHM?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T12:56:15+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters",
       "what_happened": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests Reuters",
       "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5",
       "source_name": "Reuters",
       "source_level": "reputable",
-      "published_at": "2026-08-14T10:15:44+00:00",
-      "age_hours": 1.7,
+      "published_at": "2026-08-14T12:53:19+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more - CNBC",
+      "what_happened": "Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzZ0MFlkd0FMTldwTER0Q25UUnpVNXh5Qkt5M25NZnJGRmFVZnF5REZoZldIZnRRZlY1d0VZVDM4dUVSZy0wODUxWnRYWUpKUjVYU0pXQS12d1BlMjhFZTE2S2ZCbVZlOF9wTUVDV3NyUVgzZzNUODRwY2lEeDlVbDZyaEFsM29BNXVXcVVfVHdfdW1NOTZoT2NyX0MzQndXc2M2bFJR?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T12:40:41+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing \u2014 demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text - Tom's Hardware",
+      "what_happened": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing \u2014 demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPSUJCTzVjOWJsdVlWZjVzMERxY1dMQkRRS3ZRM1p0dVprRkU2TUxoRnBVT1gxdWUtaXJVd1l2dXN6NkN0eU93Y0lOVl9rNjI5eVluYUJlc090YmJvazNKRXBVaDJ4T1NPTFlPY3FfMEVoZkVyVW9FOGRCeXNTb1hWNEZBYmhyMFh5WTl6SkVCb0piU21xN3k4RzJ2aVJleDd4cFlndVJIMmt3SllQcWZKdUxmMHVJcE50amNKY2oxY2NySktLdEVJMGJva2N2X1U5RnB3VElGUDdOOFpFMm1iOVJud2dOYlpkci1iXzNGcHk2RHlmWkY0dFJIRGstWks1VTdFUTI3Vi1Od3hyQ29xT0VBVVUyY19mUy1hRUwtZzlWZFBTLTgxcmstUUtRelZaeElPN2JaSWhmMV81S0dLd3d4N05mTHVGc1dyNHFhSkJjbVRPWU1neGd5ZXNOai01Y25wZF9odDFVN2h0V2l1MTA4cmpBMDF1THRGZk9nUXRqZnZHT3Q0MA?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T12:23:35+00:00",
+      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -273,7 +306,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 16.9,
+      "age_hours": 18.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-08-13T18:24:35+00:00",
       "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung deepens AI data center cooling bet with India HVAC plant - KED Global",
-      "what_happened": "Samsung deepens AI data center cooling bet with India HVAC plant KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FNFpjenRmaFUxdk8yb2xlNDF3UGtYOXZqU0JDb2YwSFM5ZnJUYUlvejlZaHVNY3BYam5KRmRaaG9raWhfZHFlV1RZNGpOSWhENjhjbVZjMWcwRm5Mc0xFNWZ5QjNNUFI4WGhDZkkzMA?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T18:22:37+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters",
-      "what_happened": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T17:06:47+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Introducing Gemini 3.7 Flash - blog.google",
-      "what_happened": "Introducing Gemini 3.7 Flash blog.google",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5",
-      "source_name": "blog.google",
-      "source_level": "primary",
-      "published_at": "2026-08-13T17:05:38+00:00",
-      "age_hours": 18.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
