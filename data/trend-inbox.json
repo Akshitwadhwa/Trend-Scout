@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T02:44:20.350309+00:00",
+  "updated_at": "2026-08-14T05:00:19.943582+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,28 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "DeepSeek Lifts AI Model Prices Fourfold - WSJ",
+      "what_happened": "DeepSeek Lifts AI Model Prices Fourfold WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T04:36:00+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say - Reuters",
+      "what_happened": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGtpQWFuNVlwSS1yTW93a3R0WXBqa1UtVDIweVVzNnZQUG03d1lhRTJtWjJ6ODdYQ3ItX0pwRzN0Z0hSdndlbXh4a1c5dDBhTzRLYnh5NHVzSDB1dHJPQUtqMGxmOUFsZjNuRUtDRFFMQ0tSX2R2RXFlRTZKOHFKb0JGSml5emJXblRFZ01xS05FWG5wa0RWLWFjTnFmTk5GN1lwdFhfWWItYkEyREhWZ1lQaU9IenJ2OVlTR2lWclJ6UkF6S0c2d3hmX00?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T04:04:00+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Korea's ICT exports up 140% in July on sustained AI chip demand - The Korea Times",
@@ -141,7 +163,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 7.7,
+      "age_hours": 10.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -196,7 +218,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-08-13T17:05:38+00:00",
-      "age_hours": 9.6,
+      "age_hours": 11.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -240,7 +262,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-13T16:01:52+00:00",
-      "age_hours": 10.7,
+      "age_hours": 13.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-08-13T13:02:26+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "SpaceXAI unveils Grok 4.6, claims frontier-level performance at lower cost - The Indian Express",
-      "what_happened": "SpaceXAI unveils Grok 4.6, claims frontier-level performance at lower cost The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRU0ta0xseVphbm9uTzdJQ2R6cnNJMy04VThTRENDdUlFcjROSWFjRUZDZjhwM29XVVlab3B5bjJ3ZTU3MzY3elFkSjhoaUtwT1dOX1J2LWhIMnRjNzBXbGJGMUhEaHVhXzI4TTdnaXZIZDNiRDFuTk9Ta2dhOV9wbUV5d3RaMDk3T0hpM1B3a3B6WklxQi10MnhZelZzX2xDS0V1eURLR1dUbXVKSnBGTVVDdGVqRFJPdmpiajNaalJMMjRmMVpORVQ1RkV1MHVNNkpNeElkQ2lLeXBMUk45ME4yRlVJcGfSAe4BQVVfeXFMTWg5T2NxTVphQzRhVUdEZFBIT3FhZ0Y5OEhWaERLV3NtbWsxV2tnNkZiOHdabUdGYllmM015ZktFLXdOSGMwYWJLTW9xQzNYZWNVeVY3dmdZWjRZY01QQ2tHeGxOellHZW85WThkSThSQUJhZmhvQnBGQUNmWm44TkxLckdPZEp5MnM1eHpUMzVfTGRxQU5VOTF2dEFscXFLU2pvaFpVSVk4eFhqc0JDeDJKRmdCU0FpT2JlbC1tOXEyQzdGOVJLLWV2VWtlclBfc3pOS3E1QWhKelFMMmdqUXkzVTlpRm9ibnJiSnJVdw?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T11:40:46+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung TV Plus To Live-Stream KCON LA 2026 for Global K-pop Fans at Home",
-      "what_happened": "Samsung Electronics is bringing the world\u2019s largest K-festival directly to homes worldwide. Starting August 14 through 16, Samsung TV Plus, the company\u2019s subscription-free streaming TV service, will deliver live coverage of KCON LA 2026 across 17 countries, including France, India, Thailand, U.K., and the U.S. The three-day broadcast will stream performance from the TOYOTA MUSIC [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-tv-plus-to-live-stream-kcon-la-2026-for-global-k-pop-fans-at-home",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-13T11:15:00+00:00",
-      "age_hours": 4.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
