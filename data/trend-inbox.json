@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-14T19:12:19.624932+00:00",
+  "updated_at": "2026-08-14T19:55:20.804360+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
+      "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T19:14:18+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent - NVIDIA Blog",
       "what_happened": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent NVIDIA Blog",
@@ -42,7 +53,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 3.2,
+      "age_hours": 3.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -53,7 +64,18 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-14T15:58:57+00:00",
-      "age_hours": 2.1,
+      "age_hours": 3.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung's 43-inch QLED Q7F TV just dropped to a new record low \u2014 buy now for under $300 - Mashable",
+      "what_happened": "Samsung's 43-inch QLED Q7F TV just dropped to a new record low \u2014 buy now for under $300 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNHM5Nl9TMTlpQmd4cnhqQlRacHR6bFlSY3ZKQjVrSEdacWpFY2ZkWWY1RlBsXzBPVzM3Y25LV1J1MzR1QTYtLVdySldIQ1FBbHoxU2ZfbVhZSWdOeHlYLW9Majd2d2xjTHMxTmVZRmxyNHM?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T15:56:18+00:00",
+      "age_hours": 4.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +86,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 6.3,
+      "age_hours": 7.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-13T21:13:24+00:00",
       "age_hours": 2.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom - WSJ",
-      "what_happened": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOXkzcldHWlgwNW5GaHM4MHpSR3ZuSFp4RTBtMXdXLTJoZ2w4WFZBNEtSaGZwblk0WUpwWFJtZjV4NVZrbXgtMVJZYWxnQ21EMlIyTkNoUmNLZ3c3elFEcmpyOWl3WEIyRU1ZdmhvR3FzUW1FMm1tdXhmOFEyY01Uazh3YWpPSmpuS2lZVC1MMlRIak9pTndidWNlX3Y5Y2RNUU80cXAwTzVGWS1WdThKMG54STBTWHFy?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T20:49:45+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 - Mashable",
-      "what_happened": "Apple Back to School 2026: Free gift card offer extended through Sept. 24 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEoxb24wT2lGRHpyVTd5aEpPb1oweFlDemNCWjY1M3BUUmFNR1lJV0llalNQWFp2eXBaeXQtMTFJRkQzUHFtUXI5NlVPT2YtVmtZNHVWdnFXZ1JhUXpVRGtCb2JUanRLZ1VtdGVyVGNpTmY2ODNtZDJ1cGs3d1FhZA?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T19:30:00+00:00",
-      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
