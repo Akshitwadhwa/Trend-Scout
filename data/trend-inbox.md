@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-14T20:44:14.437326+00:00
+Updated: 2026-08-14T21:39:19.921646+00:00
 Memory window: 48 hours
 
 ## 1. How Claude's text watermarking works - Anthropic

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T20:44:14.437326+00:00",
+  "updated_at": "2026-08-14T21:39:19.921646+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-08-14T19:22:20+00:00",
-      "age_hours": 1.4,
+      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,7 +20,7 @@
       "source_name": "Axios",
       "source_level": "reputable",
       "published_at": "2026-08-14T19:14:18+00:00",
-      "age_hours": 1.5,
+      "age_hours": 2.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +64,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 4.7,
+      "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -75,7 +75,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-14T15:58:57+00:00",
-      "age_hours": 4.8,
+      "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
