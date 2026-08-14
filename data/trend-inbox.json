@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-14T08:37:02.076572+00:00",
+  "updated_at": "2026-08-14T10:15:42.699705+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Global semiconductor flows show early profit-taking; India outflows slow: Elara - Moneycontrol.com",
+      "what_happened": "Global semiconductor flows show early profit-taking; India outflows slow: Elara Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWZ5X0d1WnlpVGJ2V0diSXJsYU5SQTB0cm0zVUd3ZFk0bzN5a3QyNk4tNmVyckRoRFdKNnVxTlBtZDBMazd4VGI0S25EeVFkMnczS19nM1FPOWR4VWE4YnhSMFIwNjZDeFFDS0x6YnNiZzZZUFl0cFhLcE9fNVVPR0pMQllobFZLWHVUU29rbEZVbFEwdGNUNWVHMUJmeWJDTkliVUpRMHI0RjNfaDhYMkZEMER6QkNKRXN0NWIyNl9CX2JzYjhZT3NLSXUycXYzdzJXSlcteTFQUdIB3wFBVV95cUxPbUt2cHdxMGU1QWZRTTRKbEFrUEpLZWt2cW9kd2J0c3lEYnU1M25OQUllb2lMeE5EX0QtWmFSemYzVWRiNWZRSW5YMHJacnRjc0pGRDBSbEF2SjNvci1tckpNWkhBN3dhNWx6N0tidlJpbkh0RFF5czBodTlLWHFyQTJZeG13ZDQ4d1p4R0VfZC0wNHRlYWg0S2x6QUw1dW41ZFJwZmJqc0paUzM4cEJUTHlMMnJSbTh0YzBKTnhheDViZUtkUkRiUGhmcUhHc012eDBoOEF6ZjFWa1R3aUVr?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T10:04:27+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba - The Verge",
+      "what_happened": "Apple trained its own AI model for China with help from Alibaba The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2dfVHdQNVhGUFpMek5sVXRkajd3cHREWjZVOUMxaEtRVWhqZlpMSEVha2dDaUdBLV9GS2hDR1M1T1p0S2xoRUV4MDJ2WkpzQnlneGNIeURBMi1QaHVYdkpsTEVkeEVvVzNNWkVLRzlNM01wTFNNRTdNd3djNmZkZHIwaVdmeWFmOXp0cTZhZHVlVU9lMUtGT0dZSzRHbmpZYWZWUUwyelJTdGs?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T09:21:17+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models",
       "what_happened": "AI is being widely used to analyze biosignals measured by wearable devices such as smartwatches. By identifying meaningful patterns in health data \u2014 including sleep, heart rate, and physical activity \u2014 AI is helping users better understand and manage their health. The Health Forum held at Galaxy Unpacked July 2026 also shared Samsung\u2019s Connected Care [\u2026]",
@@ -229,7 +251,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 13.6,
+      "age_hours": 15.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -284,7 +306,7 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-08-13T17:05:38+00:00",
-      "age_hours": 15.5,
+      "age_hours": 17.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -307,28 +329,6 @@
       "source_level": "primary",
       "published_at": "2026-08-13T17:02:46+00:00",
       "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "AMD looks to raise $4 billion to $5 billion in debt offering, source says - Reuters",
-      "what_happened": "AMD looks to raise $4 billion to $5 billion in debt offering, source says Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVFh4TDBMUjJjWXVnRTRzSkM2WHEtSVNWcjZuNHJjYzFucUo2LWZVLWtjMXNjcl9nVHFDek9RcUxUa1BzMW5Rak1xbXpiSWdyNGduSFFYMzViU0RVMzBvVGZPZTZ5QjUwcklxSFFjV0t1TERkSkg3aUh1V2VXRF92UDlYaFRSQXpSOV9fcG1pSUtodkZReFlBdVp0YkZ0Q25BREcxRmYyOXNnLV9T?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T16:38:18+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "What 50 open source projects taught us about security in the AI era - The GitHub Blog",
-      "what_happened": "What 50 open source projects taught us about security in the AI era The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2ZnVDh0WlE0OGE3RnhkU3F4Q1MtOWNiRXNSNFp2NjgxWHR2X05zTWxCVVJ4T3hUdWRwVEFlMVNNX3l1QmI4U2pHdXE3RC0wMDFhR084bm94d0dPUHZOU0szM1pKdmM1b1hCSWh3aGNtRDFUYWhUb3BpRVVTM0xqcXcwNDMwb3FkWkVBOHBRR0I2SUtQNEc3QjdCY0FrVUZ4UzJrSDdSZ3RfZnJBNW00SHZn?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-13T16:01:52+00:00",
-      "age_hours": 16.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
