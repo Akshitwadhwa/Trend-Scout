@@ -2,26 +2,26 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-14T13:40:48.426318+00:00
+Updated: 2026-08-14T15:06:20.791273+00:00
 Memory window: 48 hours
 
-## 1. Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNHM5Nl9TMTlpQmd4cnhqQlRacHR6bFlSY3ZKQjVrSEdacWpFY2ZkWWY1RlBsXzBPVzM3Y25LV1J1MzR1QTYtLVdySldIQ1FBbHoxU2ZfbVhZSWdOeHlYLW9Majd2d2xjTHMxTmVZRmxyNHM?oc=5
-
-Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 Mashable
-
-## 2. China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters
+## 1. China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters
 Source: Reuters (reputable)
 URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5
 
 China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests Reuters
 
-## 3. Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more - CNBC
+## 2. Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzZ0MFlkd0FMTldwTER0Q25UUnpVNXh5Qkt5M25NZnJGRmFVZnF5REZoZldIZnRRZlY1d0VZVDM4dUVSZy0wODUxWnRYWUpKUjVYU0pXQS12d1BlMjhFZTE2S2ZCbVZlOF9wTUVDV3NyUVgzZzNUODRwY2lEeDlVbDZyaEFsM29BNXVXcVVfVHdfdW1NOTZoT2NyX0MzQndXc2M2bFJR?oc=5
 
 Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more CNBC
+
+## 3. Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNHM5Nl9TMTlpQmd4cnhqQlRacHR6bFlSY3ZKQjVrSEdacWpFY2ZkWWY1RlBsXzBPVzM3Y25LV1J1MzR1QTYtLVdySldIQ1FBbHoxU2ZfbVhZSWdOeHlYLW9Majd2d2xjTHMxTmVZRmxyNHM?oc=5
+
+Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 Mashable
 
 ## 4. Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing — demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text - Tom's Hardware
 Source: Tom's Hardware (reputable)

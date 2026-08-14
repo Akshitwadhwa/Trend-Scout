@@ -1,18 +1,7 @@
 {
-  "updated_at": "2026-08-14T13:40:48.426318+00:00",
+  "updated_at": "2026-08-14T15:06:20.791273+00:00",
   "retention_hours": 48,
   "items": [
-    {
-      "title": "Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 - Mashable",
-      "what_happened": "Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNHM5Nl9TMTlpQmd4cnhqQlRacHR6bFlSY3ZKQjVrSEdacWpFY2ZkWWY1RlBsXzBPVzM3Y25LV1J1MzR1QTYtLVdySldIQ1FBbHoxU2ZfbVhZSWdOeHlYLW9Majd2d2xjTHMxTmVZRmxyNHM?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T12:56:15+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
     {
       "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters",
       "what_happened": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests Reuters",
@@ -20,7 +9,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 0.8,
+      "age_hours": 2.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -32,6 +21,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T12:40:41+00:00",
       "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 - Mashable",
+      "what_happened": "Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNHM5Nl9TMTlpQmd4cnhqQlRacHR6bFlSY3ZKQjVrSEdacWpFY2ZkWWY1RlBsXzBPVzM3Y25LV1J1MzR1QTYtLVdySldIQ1FBbHoxU2ZfbVhZSWdOeHlYLW9Majd2d2xjTHMxTmVZRmxyNHM?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T12:39:42+00:00",
+      "age_hours": 2.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -306,7 +306,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 18.7,
+      "age_hours": 20.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
