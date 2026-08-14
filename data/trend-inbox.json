@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-14T19:55:20.804360+00:00",
+  "updated_at": "2026-08-14T20:44:14.437326+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "How Claude's text watermarking works - Anthropic",
+      "what_happened": "How Claude's text watermarking works Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
+      "source_name": "Anthropic",
+      "source_level": "primary",
+      "published_at": "2026-08-14T19:22:20+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
       "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
@@ -9,7 +20,7 @@
       "source_name": "Axios",
       "source_level": "reputable",
       "published_at": "2026-08-14T19:14:18+00:00",
-      "age_hours": 0.7,
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +64,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 3.9,
+      "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -64,7 +75,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-14T15:58:57+00:00",
-      "age_hours": 3.9,
+      "age_hours": 4.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-13T21:53:16+00:00",
       "age_hours": 2.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs - TechCrunch",
-      "what_happened": "Writer introduces new AI model and upgraded harness to contain token costs TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUZCTDZPN0c3QTA3Q3VGZ2RYNVZWSmFiZ3JXUjh4RGpDMERNd29OdlJDcFY0S2JtQ3pCcVdITHNpNGhwYzladWdKRGdjUldPU3ctM0lLNFR6OG5YSjNnS0kwaWFXempRRmtFRUtxd2laMXlaUkFJd1MtTjZIcm4zbnNUeUl5cFpDel9SRTdOSk0wcU5JRDlPdGxVUmFnMUxDaXNScExxb3BMdHBITHc?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T21:13:24+00:00",
-      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
