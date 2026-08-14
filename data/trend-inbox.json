@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-14T17:09:55.610743+00:00",
+  "updated_at": "2026-08-14T18:05:08.585573+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent - NVIDIA Blog",
+      "what_happened": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent NVIDIA Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUVBQNWE0YUdMcXlRVHE0VjMxVHh1UU1GSXV1UjAtV1RuOURrcHF2ck9RMVZvc1BmbEdzWFYtY0pESk5XRS0yX1Z5NEZtcjRuTVVKUU5DbVZud1NXckxmSkRoQlJ2WHlFSVZTbWJncjh3TjkwSzI4a3Jn?oc=5",
+      "source_name": "NVIDIA Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-14T17:16:56+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Trade Tracker: Bill Baruch buys more Nvidia - CNBC",
       "what_happened": "Trade Tracker: Bill Baruch buys more Nvidia CNBC",
@@ -9,7 +20,7 @@
       "source_name": "CNBC",
       "source_level": "reputable",
       "published_at": "2026-08-14T16:44:06+00:00",
-      "age_hours": 0.4,
+      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,9 +42,20 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 1.2,
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable",
+      "what_happened": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T15:58:57+00:00",
+      "age_hours": 2.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters",
@@ -42,7 +64,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 3.2,
+      "age_hours": 5.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-13T19:30:00+00:00",
       "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push - TechCrunch",
-      "what_happened": "IBM partners with OpenAI to bolster enterprise AI push TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObUs0MGRiMjY0Z2YzbGlPQmJweVlRWjNZRlROT2lRd1NWbHgwOG9HMFhGdkJZTnlqbkJMUjVabm82bno0SmFfYUgySmZ1RkxDTTlMT3NKanRpV3JoME1YM0FDbVR5NndGOFlGRU1ueTdlTXVsd2xiWVVjWDYyNjAxWlc1dTZWSU1KOVB4eWpIZTJFcVU?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T19:19:49+00:00",
-      "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds - The Information",
-      "what_happened": "Anthropic Models Can Be Cheaper to Use Than Chinese Ones, Study Finds The Information",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcG1ZVGdkQW5mU0JDelFXc185SlJHampjTWhhOVkyQ3ZLQ1BXQUxuX2sxTWhEa3RoZ2JQbGhrVGRGSy16S3h5dU83VGFuSjR0RjctVzNIVk11bDcxY1pzblFSM0tCSDlNcHVST2Zjb2RUOENiZmxmaWc2MVdDV1RpRkVrR2I4QnpLUENLclcwam83X2d2a1E3cUhCdEtsU0gwMENzUlhiUkc5QnJBdHpUcQ?oc=5",
-      "source_name": "The Information",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T19:03:00+00:00",
-      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
