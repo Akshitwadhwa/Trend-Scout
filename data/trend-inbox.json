@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-14T11:09:05.254280+00:00",
+  "updated_at": "2026-08-14T11:55:51.492458+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters",
+      "what_happened": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T10:15:44+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Global semiconductor flows show early profit-taking; India outflows slow: Elara - Moneycontrol.com",
       "what_happened": "Global semiconductor flows show early profit-taking; India outflows slow: Elara Moneycontrol.com",
@@ -20,7 +31,7 @@
       "source_name": "samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-14T09:54:24+00:00",
-      "age_hours": 1.2,
+      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -31,7 +42,7 @@
       "source_name": "The Verge",
       "source_level": "reputable",
       "published_at": "2026-08-14T09:21:17+00:00",
-      "age_hours": 0.9,
+      "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -262,7 +273,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 16.2,
+      "age_hours": 16.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -317,20 +328,9 @@
       "source_name": "blog.google",
       "source_level": "primary",
       "published_at": "2026-08-13T17:05:38+00:00",
-      "age_hours": 18.1,
+      "age_hours": 18.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "New Gemini Flash model arrives before Gemini 3.5 Pro - Axios",
-      "what_happened": "New Gemini Flash model arrives before Gemini 3.5 Pro Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZXdBMzlkSW1zbGloS0VNNXhBNXRpaFpMSGNPNzI0NThxN1JOUzcwbjZQY001T2V0OFM2eWNMX05aVk1KeUx6am9RUHdrQjEybDdhVnBGMTJGSkQ3cm5HTFRHcXBtQQ?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T17:03:20+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
