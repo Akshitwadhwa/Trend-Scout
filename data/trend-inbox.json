@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-14T21:39:19.921646+00:00",
+  "updated_at": "2026-08-14T22:38:53.949457+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter - CNBC",
+      "what_happened": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczZFNXoxeDBQS1Y4T3ZvdW96QzNlUlBGOWZ3WEtqbDZXaTc5MTZESDJyRTNha1F3WWhwdHNfYXd5RDhqR2psbjFYRWZsR2tJNmVBc1J6THl2cWt0TFduRHRySG5YR250N1hQUkdKLUNHd1hZM2wxbkNRWlJWZ25UVHpFa0Q5bmUteGJ4bjh6c1IyY1lHZlBwMUMzLW5YS09sQ21oN1F3aGTSAa4BQVVfeXFMT2ZZMHJZWGxvZ1FCZTQ4SVFmUVJqck5xTGdLNzNOYjRSYjRIU1V1OHNvM2lqQnpKQWYzWGVIbGpsNTFpWE1mTHcyNmZfWDBHUnVhMm11NzBjbGF3Wk1WZ0FnVjhmVjBOZXk3a09aZ1R4eFJqUHhwUmY2VXg5ckdzOGR4YTF6X1BLY1hSd2hsbWd1NnJfZ093cXY0MkpMeFEzbUFFRXByVlRzNnpzM3dB?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T21:45:19+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
+      "what_happened": "The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNTBSYVV6UEUxOTJYX2RkOWVUOElId1JLMm8wSXJrS25GZ0c2dmJPRDVJeTZjOFdmdWtTWXdwOGNmOGc2bHJnN3gyMGdCdENxRjhXcGswVDVWZ3pzUUU4QS1HZlM1d1RMVUE?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T20:30:58+00:00",
+      "age_hours": 2.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "How Claude's text watermarking works - Anthropic",
       "what_happened": "How Claude's text watermarking works Anthropic",
@@ -9,7 +31,7 @@
       "source_name": "Anthropic",
       "source_level": "primary",
       "published_at": "2026-08-14T19:22:20+00:00",
-      "age_hours": 2.3,
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -20,7 +42,7 @@
       "source_name": "Axios",
       "source_level": "reputable",
       "published_at": "2026-08-14T19:14:18+00:00",
-      "age_hours": 2.4,
+      "age_hours": 3.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +86,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 5.7,
+      "age_hours": 6.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -309,28 +331,6 @@
       "age_hours": 1.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Former BOK chief warns chip boom cannot simply reverse Korea\u2019s low-growth trend - Korea JoongAng Daily",
-      "what_happened": "Former BOK chief warns chip boom cannot simply reverse Korea\u2019s low-growth trend Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlFCMHhNVUlBcl9XSUZNX2R4MFhycGtUZWZnOWlzSWJGeDJfR0U5X2hJNnhMWkZPX3F0STBDdmlTOFRQUVA0SW1OMHliblhnV3M3OGUwMjR6b3NiNGZDSTZQMk54YzF3LVV2SWY4MkdqakQ0STcwclJySzBXOF9FelMtNi1DT19LRjlSWTR4M2k3OU9fdFNsYVQzYm5XUVh3Rl92Tm1FZlpieC02SGJHSk13dnR3TE9iUlNlem5QRTJqdC1Oakc3ZTF3?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T22:04:23+00:00",
-      "age_hours": 1.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify - Mashable",
-      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free \u2014 how to qualify Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRElxNVJrdVBrNVZoTURXamZqOFRuamhZUWtKdlYwYmNacWRzWndpSHdFT2Q3ODZkNFJEQUdmQW9QTWtreDdGaWVnX1RvcUQyMlAtR0huVVNjcXNC?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T21:53:16+00:00",
-      "age_hours": 2.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
