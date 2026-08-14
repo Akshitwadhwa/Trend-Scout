@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T05:00:19.943582+00:00",
+  "updated_at": "2026-08-14T06:41:22.496692+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,28 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said - Business Insider",
+      "what_happened": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXJSdUhYcnVPN1JJRWIxY3dSWW5KVUxwMEJHUG1NUDRzMnlRbUpDTjhWUkxQWVdlNHJJTkJNRWZmNVhEcEJhRnRXbWdWQTlDNVRuTnJOdDVDRkFCeGdlVjdIaVU5dmtJQ2xfTkRtZXFwV3RJS2VBdTc2VDhkdzdJLXNyUmVtVHFBWDFtaXVNR00?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T05:55:05+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Can an AI model\u2019s \u2018reasoning\u2019 be extracted? New research fuels US-China distillation row - The Indian Express",
+      "what_happened": "Can an AI model\u2019s \u2018reasoning\u2019 be extracted? New research fuels US-China distillation row The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV09PeWx6TTVaWm1RcmtvUjk5U1ZqN0dhei1QQm5zXzVBY3VmdWktR0p3Ry0xcmFmY2poSFhwV0QzYVQxQ3R5LW81TTlXOE1ia2RXN2kwOU1iOHhaRllXSDRwX1NiZ0Y3THNjcklhLWFOR25kdkp3ZDVTdkp4VUZZNkVxa3l1S3pwNDZiX01qa1kxSkpweEtCcFdIWGRXTGE1VEdfYkh6bWwzdi05VzUtY3BZaFZTOTF2YXM0QjN3QjJPeURiZmV4RHFTQzU2dnlrZXfSAdgBQVVfeXFMT1Ruc2NndlU1VWN6MmNzWHZzbEVJSEZSRHRLMVRXME82dGFIVzFHYzlURVM0X0F3eUx1eFpUN0tqNWVtQWxGZkh6aVFPY2FEcXY3TWVOd1BkaklNSXgyMVdqUmswTDVjcGtEWWUxSXA1b0paaTk5XzliUy12WVc2djRJU3lGbnpma3NrVzFyRU1uYzFxWnc1a0ItSE0zVU5wUTFNamNKRXlteUtPOTR5YWNDZlVxdF9JdC1mVWpCNzlRSHhLcXR2bWRKQ0NRNHJXVGQ3aWpZWE0z?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T05:51:00+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "DeepSeek Lifts AI Model Prices Fourfold - WSJ",
@@ -163,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-13T19:00:00+00:00",
-      "age_hours": 10.0,
+      "age_hours": 11.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -262,7 +284,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-13T16:01:52+00:00",
-      "age_hours": 13.0,
+      "age_hours": 14.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -309,28 +331,6 @@
       "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Alibaba adds commercial restrictions to open-weight Qwen3.8-Max AI model - South China Morning Post",
-      "what_happened": "Alibaba adds commercial restrictions to open-weight Qwen3.8-Max AI model South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTURVS2Vyakt4UFJUN1hwSVM2N19aLThVMFpaQ3VsUEVqZFNfd1ZLTHZJdThlWFdVbUU1NE05eVpIMjFIeDJHZUpOOVRCbUY0VWhqRnBtaXBONi1CNkJoSVo4VGxxSEk2UTZxV2JQQXJXbUFvMUJmOXNmRGZTeUw2SDBXR2FjeUhXTzVfX0hwamlUdXVQSzNaSnBQdUFrczVJYy1kYm1Ib2pqTzRvdzhIdUZIa0FMb29ZSW81OVBtZ9IBvwFBVV95cUxOSGhqY1BtYWtqdzJzOEx5NXhVclY4Z0xZdllFbHUxX1BsdEVYZjZZYV9BMV9pYWVzV2d1VlVfRFo0S0VzRDU5YlBjV1pBcFlNZ2tjdVpyVDhaZlU5QWNoZWJpTVdPU3BIcWFBYkVnSWtIbGZpVGZYYUVfYnU3Y2w1bWpxRjJBWjBzZ3l6Yk9SVklRMW1tUWVZZGVoMEFCUktZQV80OTVsVzJsbHFGa0VNQmRKb3FQMkdMVEs1S1ZTOA?oc=5",
-      "source_name": "South China Morning Post",
-      "source_level": "reputable",
-      "published_at": "2026-08-13T13:30:07+00:00",
-      "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More - NVIDIA Blog",
-      "what_happened": "Class Is in Session: GeForce NOW Levels Up Linux, Chromebooks and More NVIDIA Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5sU0xoX2M5M2FnNDd1T3NucDB6VEJIN1g0WXRDSmhrNDFPaF9kRUhQWU5HdzgzNGE4YVNuSVFGTnRYWUpZUldOVQ?oc=5",
-      "source_name": "NVIDIA Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-13T13:02:26+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
