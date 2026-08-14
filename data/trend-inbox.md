@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-14T18:05:08.585573+00:00
+Updated: 2026-08-14T19:12:19.624932+00:00
 Memory window: 48 hours
 
 ## 1. Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia’s First University AI Center to Develop Local AI Talent - NVIDIA Blog
@@ -27,7 +27,7 @@ Apple adds another iPhone, MacBook Pro to the obsolete list Mashable
 Source: github.blog (primary)
 URL: https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/
 
-See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .
+See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .
 
 ## 5. Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable
 Source: Mashable (reputable)

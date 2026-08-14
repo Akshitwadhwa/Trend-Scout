@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T18:05:08.585573+00:00",
+  "updated_at": "2026-08-14T19:12:19.624932+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -37,12 +37,12 @@
     },
     {
       "title": "How to bring your software delivery workflow into GitHub with agent apps",
-      "what_happened": "See how four GitHub Agent Apps can help you scope, secure, roll out, and ship a feature across the SDLC\u2013all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
+      "what_happened": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC\u2013all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
       "source_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 2.1,
+      "age_hours": 3.2,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -64,7 +64,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 5.2,
+      "age_hours": 6.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
