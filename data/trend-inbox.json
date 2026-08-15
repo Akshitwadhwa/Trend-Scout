@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-15T11:32:59.578981+00:00",
+  "updated_at": "2026-08-15T12:57:50.308947+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "NASA\u2019s new AI model can predict Sun's storm-causing regions up to 12 hours before they appear - Moneycontrol.com",
+      "what_happened": "NASA\u2019s new AI model can predict Sun's storm-causing regions up to 12 hours before they appear Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUFQNU5PS1F3U2lrTXVBUmYxT2E1ajRiWXZmOXY3cXU5aE5nRHk5VGd5WkpBZEo1SDhYWUgwelZVZ014cVVzd1pRZVJHeUE0TEp3RXBXXzJSNUtvdWlFYnBqbDNiMHRFWkt6Tk9yZlBTSndiSUVlcmhpTl81VEFWWkEyWGJNeG9sTEZUNUx1VjhtNGk3NExMVlNwVHlJUHN0YkFDRHRscUV2TVlXYzQ0QU1XLWhEbkR2TU5HelFlTlNZUC1McHpPR2NrRDhsN1A3emZ6a1prTkYwT182bU5nUVhLVlphQzTSAewBQVVfeXFMUE15YUcxTHVLYU8zdlFWZkJtRUd5bkVtZ0xsd1NRS3VMUlptRXdEbUxlYnFBakxadXN6a05hbE9ocm55bXBQZnVyTEVna09tYjlaY0t0cUdVRDlMaEM5S2hNVWVOOXh3SEl1dmV0TGRsNk1sU2RZQVRBT0hHQUc3WEo2dWZsZFhYd3ZYcUdiNV9KWjFHdVdEbUx3aWdDbU1aQWJpbDU0Q0NFbngxNHN1UDNlYWhBTmlNT21uRUNITHl0QlVuU2NHcDBPVjduZnFWSDBDUlNCRDNMTW1YRDM4NUdMVjR1QXpGNWl2SXA?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T12:37:31+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim - Mashable",
       "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim Mashable",
@@ -20,7 +31,18 @@
       "source_name": "Bloomberg",
       "source_level": "reputable",
       "published_at": "2026-08-15T09:16:06+00:00",
-      "age_hours": 2.3,
+      "age_hours": 3.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
+      "what_happened": "The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNTBSYVV6UEUxOTJYX2RkOWVUOElId1JLMm8wSXJrS25GZ0c2dmJPRDVJeTZjOFdmdWtTWXdwOGNmOGc2bHJnN3gyMGdCdENxRjhXcGswVDVWZ3pzUUU4QS1HZlM1d1RMVUE?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T07:16:30+00:00",
+      "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +53,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 8.0,
+      "age_hours": 9.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -124,17 +146,6 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
-      "what_happened": "The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNTBSYVV6UEUxOTJYX2RkOWVUOElId1JLMm8wSXJrS25GZ0c2dmJPRDVJeTZjOFdmdWtTWXdwOGNmOGc2bHJnN3gyMGdCdENxRjhXcGswVDVWZ3pzUUU4QS1HZlM1d1RMVUE?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T20:30:58+00:00",
-      "age_hours": 6.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "How Claude's text watermarking works - Anthropic",
       "what_happened": "How Claude's text watermarking works Anthropic",
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
@@ -185,7 +196,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 19.5,
+      "age_hours": 21.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -218,7 +229,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 22.7,
+      "age_hours": 24.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -317,17 +328,6 @@
       "source_name": "digitimes",
       "source_level": "reputable",
       "published_at": "2026-08-14T07:55:00+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground - Financial Times",
-      "what_happened": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenJmNmtJVlBpd3MxYW1iN0hVSmlsT19lbHBQbTE1SnlsNG1zSm9QX2dFVWdKVnlKakE0SDVnQnRwYWxrdnd2UzJIZS12U0FMdlJYVEpab3NLNS03YzZweEI1Wkpmb1NxVVJYNXdGaDB6U0ZSTkxscm5ScURqeXlDZ0dGYlM?oc=5",
-      "source_name": "Financial Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T07:52:56+00:00",
       "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
