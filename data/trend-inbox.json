@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T14:37:52.071899+00:00",
+  "updated_at": "2026-08-15T15:33:59.700967+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -27,11 +27,11 @@
     {
       "title": "NASA\u2019s new AI model can predict Sun's storm-causing regions up to 12 hours before they appear - Moneycontrol.com",
       "what_happened": "NASA\u2019s new AI model can predict Sun's storm-causing regions up to 12 hours before they appear Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTXlhRzFMdUthTzN2UVZmQm1FR3luRW1nTGx3U1FLdUxSWm1Fd0RtTGVicUFqTFp1c3prTmFsT2hybnltcFBmdXJMRWdrT21iOVpjS3RxR1VEOUxoQzlLaE1VZU45eHdISXV2ZXRMZGw2TWxTZFlBVEFPSEdBRzdYSjZ1ZmxkWFh3dlhxR2I1X0paMUd1V0RtTHdpZ0NtTVpBYmlsNTRDQ0VueDE0c3VQM2VhaEFOaU1PbW5FQ0hMeXRCVW5TY0dwME9WN25mcVZIMENSU0JEM0xNbVhEMzg1R0xWNHVBekY1aXZJcNIB7AFBVV95cUxQTXlhRzFMdUthTzN2UVZmQm1FR3luRW1nTGx3U1FLdUxSWm1Fd0RtTGVicUFqTFp1c3prTmFsT2hybnltcFBmdXJMRWdrT21iOVpjS3RxR1VEOUxoQzlLaE1VZU45eHdISXV2ZXRMZGw2TWxTZFlBVEFPSEdBRzdYSjZ1ZmxkWFh3dlhxR2I1X0paMUd1V0RtTHdpZ0NtTVpBYmlsNTRDQ0VueDE0c3VQM2VhaEFOaU1PbW5FQ0hMeXRCVW5TY0dwME9WN25mcVZIMENSU0JEM0xNbVhEMzg1R0xWNHVBekY1aXZJcA?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUFQNU5PS1F3U2lrTXVBUmYxT2E1ajRiWXZmOXY3cXU5aE5nRHk5VGd5WkpBZEo1SDhYWUgwelZVZ014cVVzd1pRZVJHeUE0TEp3RXBXXzJSNUtvdWlFYnBqbDNiMHRFWkt6Tk9yZlBTSndiSUVlcmhpTl81VEFWWkEyWGJNeG9sTEZUNUx1VjhtNGk3NExMVlNwVHlJUHN0YkFDRHRscUV2TVlXYzQ0QU1XLWhEbkR2TU5HelFlTlNZUC1McHpPR2NrRDhsN1A3emZ6a1prTkYwT182bU5nUVhLVlphQzTSAewBQVVfeXFMUE15YUcxTHVLYU8zdlFWZkJtRUd5bkVtZ0xsd1NRS3VMUlptRXdEbUxlYnFBakxadXN6a05hbE9ocm55bXBQZnVyTEVna09tYjlaY0t0cUdVRDlMaEM5S2hNVWVOOXh3SEl1dmV0TGRsNk1sU2RZQVRBT0hHQUc3WEo2dWZsZFhYd3ZYcUdiNV9KWjFHdVdEbUx3aWdDbU1aQWJpbDU0Q0NFbngxNHN1UDNlYWhBTmlNT21uRUNITHl0QlVuU2NHcDBPVjduZnFWSDBDUlNCRDNMTW1YRDM4NUdMVjR1QXpGNWl2SXA?oc=5",
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T12:37:31+00:00",
-      "age_hours": 2.0,
+      "age_hours": 2.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -75,7 +75,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 11.1,
+      "age_hours": 12.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -218,7 +218,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 22.6,
+      "age_hours": 23.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -251,7 +251,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 25.7,
+      "age_hours": 26.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
