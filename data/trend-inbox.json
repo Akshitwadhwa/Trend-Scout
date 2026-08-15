@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T10:37:32.936777+00:00",
+  "updated_at": "2026-08-15T11:32:59.578981+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,13 +14,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google - Bloomberg",
+      "what_happened": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkdXS05xRW1WQ2ItQmhUZEd1SVowVkJISVhwQ1Z5STF5dnJkV2pVRmExN1JoLXNEMkZKdGV1eGZnWnVvV2I1QllUZ3JJTktoeFdKa3JtY3NSMFlBRUYta3k5d2RJdnFzVUJIMGVGY2V0SThGTG94SlEzMl9KQWRsZkduN0RycGx1SjBGOVViQVNvbXE4TS1WdTU2MGhLNjhZLUtUVHM2WVF3ZGZKalBmOURR?oc=5",
+      "source_name": "Bloomberg",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T09:16:06+00:00",
+      "age_hours": 2.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "'This is just the beginning\u2019: 24-year-old man builds Rs 13 crore startup, buys Rs 1.8 crore apartment in... - Moneycontrol.com",
       "what_happened": "'This is just the beginning\u2019: 24-year-old man builds Rs 13 crore startup, buys Rs 1.8 crore apartment in... Moneycontrol.com",
       "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRTVIbEZQdE5iS013c05WTHh6eU5Fc0ZGOGJzRWVsenFqQVFLeTRoSEtGTDBKemVnTUFhcFlYQWRQd3FGN0JqUDE1Rk9INWR6X3pnbWx6Q1BIeS0yVHpqV0RubEQyeU5rQ2dGS0R1TmhaNWNyUGVwUm1keUNJUmp3YmdYRGJic1dJR1V5SzNwVDRZYXlDdVZ6b283cmtnZzhHNkVLdWxoYmo3SkIwQkNqZmZZWGxXbWtORnpLUmpLVnlWN0kzVFp1RTRpa21zOE1ZMUVscmx1TTJKUE1YYnVJMGlRM1NXekhvTjFZVTQ3TnBqcWg2d2dmUdIB_gFBVV95cUxPOFQ0R2RRem9vc3ltSURGNnhhZlJ1VjVNTEZxR2doQ1ZsQ0dOUk5LQ1hSNUZoOWN2TFZiZUdVRmp4bWRubVdOaXpGU09rRmFFMFVKMGRma184ZVM4VDQ1TTdNVUc4YnhrOXlmMjVMcklpN0NCTjVMd3llNjY3emdpUENCejZxczZQYkRmNGxRRHNsaUw2Q3VFdmVWWXhIeTJfVVZTVG1uMlRvenB0RmJmb3puRFpLblc0UjdER1BxOXVwclpKM0g0MHNoa1p3aFNsS1lYbGRxZERacVlWSVowSDN3bWRyMU1vSDB6aXN3MV83RG9NU3ZHYTM2Y19FUQ?oc=5",
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 7.1,
+      "age_hours": 8.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +75,7 @@
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-15T01:00:00+00:00",
-      "age_hours": 8.6,
+      "age_hours": 10.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -174,7 +185,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 18.6,
+      "age_hours": 19.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -207,7 +218,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 20.8,
+      "age_hours": 22.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T07:52:56+00:00",
       "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung taps AI specialists to sharpen semiconductor edge - The Korea Times",
-      "what_happened": "Samsung taps AI specialists to sharpen semiconductor edge The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd0s0MTBaeVFySms2Q2ljcHBQSnI4ajlfUFFOdVcyYW1hcE9GQWdIMWFJV3FMVUc0Tk56OUtkS0NxeHdXS09leDU5WUx3bmdsTjlLdXZQRHExZG5YR2h4VkhoNUF2RG1VUm5sSWw3aXU5NWI0LVNvRElhNVo1N2k2aHNoM0VsdUlkeWNjQlExa0lsUGlrR2ZaREdVeHh0V3RGc2NScklaZy1qbXc2YU5kbDJpb0_SAboBQVVfeXFMUEF6M0o1a1IxMFBfcWJYODRuekV4TlpMVDNtdHpja2xWa1Z6aUcxbTBKTll2TVlGaFZyWWY2cjZndmJ6VC1DU19fVm1OYkw3TEhNbnIxcDFNc09xOURPQVJkbnRYSGcwTXhObG1JeWRnNjk4Q3dfelVmQXhyUVJQVzlmMnNKUXpMem1Iby1DQS10Qmxva2MxMXRIbW9kQ1BsZnRaSGRfX1ZxanFyNlJxOWVKRVlWam1kMG1B?oc=5",
-      "source_name": "The Korea Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T07:36:03+00:00",
-      "age_hours": 1.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
