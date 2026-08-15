@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-15T22:36:05.700751+00:00",
+  "updated_at": "2026-08-15T23:33:03.664901+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent - digitimes",
+      "what_happened": "Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFNIUy01NnFPb2R3N24wTFIzS0hnSmRHMDVxSDVsMHI0TjJRSEFaNzJhZUp3MHZ4V2FEQ3lwaU5sYmFidzlJOFd4dVBnRTRFbFEtY1doZXhVRUVNMVNfRVNEZEU5LXc5MF9tMEN3Nmg5Uldzc0ZvUG5XSVBxenY5TGtxNndSNHRlRGRKeG9IMA?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T22:41:24+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "AI reshapes semiconductor testing as KYEC pushes four-way model - digitimes",
+      "what_happened": "AI reshapes semiconductor testing as KYEC pushes four-way model digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEJ1bkRYOWRPR1gyZXdaZllxMnNRMjJiNjBDV3AydXdWd3d2c1hyMHBoLU1mbnBob3lXajRxaW1JenhicU5oZHNwX2NxSWtfbEg0RGd6OVg4NzBpRC1FMnkyUkd5Z21PRUxFTWROWFdzSHd3bW5hY2ZJRHpscklBLVEzM2ZtMF9ZZXBqOTM0Wm1SU05WdHk4d3U4VF8?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T22:38:39+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
       "what_happened": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says Reuters",
@@ -20,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-15T19:30:46+00:00",
-      "age_hours": 3.1,
+      "age_hours": 4.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -32,6 +54,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T19:12:00+00:00",
       "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
+      "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T17:51:17+00:00",
+      "age_hours": 5.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -64,7 +97,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T12:37:31+00:00",
-      "age_hours": 10.0,
+      "age_hours": 10.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -108,7 +141,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 19.0,
+      "age_hours": 20.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -131,17 +164,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T02:48:00+00:00",
       "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
-      "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T02:42:54+00:00",
-      "age_hours": 6.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -251,7 +273,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 30.6,
+      "age_hours": 31.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -284,7 +306,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 33.7,
+      "age_hours": 34.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T12:39:42+00:00",
       "age_hours": 2.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing \u2014 demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text - Tom's Hardware",
-      "what_happened": "Plaintiff busted trying to use AI prompt injection to win court case, hides text instruction in filing \u2014 demands AI model reviewing the text should side with him, rumbled because of strange white spaces in text Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPSUJCTzVjOWJsdVlWZjVzMERxY1dMQkRRS3ZRM1p0dVprRkU2TUxoRnBVT1gxdWUtaXJVd1l2dXN6NkN0eU93Y0lOVl9rNjI5eVluYUJlc090YmJvazNKRXBVaDJ4T1NPTFlPY3FfMEVoZkVyVW9FOGRCeXNTb1hWNEZBYmhyMFh5WTl6SkVCb0piU21xN3k4RzJ2aVJleDd4cFlndVJIMmt3SllQcWZKdUxmMHVJcE50amNKY2oxY2NySktLdEVJMGJva2N2X1U5RnB3VElGUDdOOFpFMm1iOVJud2dOYlpkci1iXzNGcHk2RHlmWkY0dFJIRGstWks1VTdFUTI3Vi1Od3hyQ29xT0VBVVUyY19mUy1hRUwtZzlWZFBTLTgxcmstUUtRelZaeElPN2JaSWhmMV81S0dLd3d4N05mTHVGc1dyNHFhSkJjbVRPWU1neGd5ZXNOai01Y25wZF9odDFVN2h0V2l1MTA4cmpBMDF1THRGZk9nUXRqZnZHT3Q0MA?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T12:23:35+00:00",
-      "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Global semiconductor flows show early profit-taking; India outflows slow: Elara - Moneycontrol.com",
-      "what_happened": "Global semiconductor flows show early profit-taking; India outflows slow: Elara Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMWZ5X0d1WnlpVGJ2V0diSXJsYU5SQTB0cm0zVUd3ZFk0bzN5a3QyNk4tNmVyckRoRFdKNnVxTlBtZDBMazd4VGI0S25EeVFkMnczS19nM1FPOWR4VWE4YnhSMFIwNjZDeFFDS0x6YnNiZzZZUFl0cFhLcE9fNVVPR0pMQllobFZLWHVUU29rbEZVbFEwdGNUNWVHMUJmeWJDTkliVUpRMHI0RjNfaDhYMkZEMER6QkNKRXN0NWIyNl9CX2JzYjhZT3NLSXUycXYzdzJXSlcteTFQUdIB3wFBVV95cUxPbUt2cHdxMGU1QWZRTTRKbEFrUEpLZWt2cW9kd2J0c3lEYnU1M25OQUllb2lMeE5EX0QtWmFSemYzVWRiNWZRSW5YMHJacnRjc0pGRDBSbEF2SjNvci1tckpNWkhBN3dhNWx6N0tidlJpbkh0RFF5czBodTlLWHFyQTJZeG13ZDQ4d1p4R0VfZC0wNHRlYWg0S2x6QUw1dW41ZFJwZmJqc0paUzM4cEJUTHlMMnJSbTh0YzBKTnhheDViZUtkUkRiUGhmcUhHc012eDBoOEF6ZjFWa1R3aUVr?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T10:04:27+00:00",
-      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
