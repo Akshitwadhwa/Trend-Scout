@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T05:39:45.278203+00:00",
+  "updated_at": "2026-08-15T06:56:44.687365+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 2.1,
+      "age_hours": 3.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-15T01:00:00+00:00",
-      "age_hours": 4.7,
+      "age_hours": 5.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -163,7 +163,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 13.7,
+      "age_hours": 14.9,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -196,7 +196,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 15.9,
+      "age_hours": 18.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
