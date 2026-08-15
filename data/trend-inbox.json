@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-15T20:37:35.731623+00:00",
+  "updated_at": "2026-08-15T21:34:09.966083+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
+      "what_happened": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T20:16:56+00:00",
+      "age_hours": 1.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
       "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
@@ -53,7 +64,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T12:37:31+00:00",
-      "age_hours": 8.0,
+      "age_hours": 8.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,7 +108,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 17.1,
+      "age_hours": 18.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -240,7 +251,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 28.6,
+      "age_hours": 29.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -320,17 +331,6 @@
       "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung Solve for Tomorrow Names India\u2019s Top 40 Young Innovators - samsung.com",
-      "what_happened": "Samsung Solve for Tomorrow Names India\u2019s Top 40 Young Innovators samsung.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWTFwX1UydFNqYkFXSl9uS2FZaWM3OVF0eGJ1QTJMaEFKVHJFWEJIMGNLV1dOWW5ic3RqLWp3aHdJSExXTlZyUHVrYjhjMy1TbzFvZFZfNFhnS1NGVThibkhjbGNUaXRLREVUei0yX2FrUlF0eG8yZzZWaTVLMG84RUZGVWNiVTVJa1MzZnA5SmZ2el8xeHc?oc=5",
-      "source_name": "samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-14T09:54:24+00:00",
-      "age_hours": 2.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
