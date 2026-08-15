@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-14T23:35:39.699731+00:00
+Updated: 2026-08-15T01:48:40.669156+00:00
 Memory window: 48 hours
 
 ## 1. Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T23:35:39.699731+00:00",
+  "updated_at": "2026-08-15T01:48:40.669156+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -108,7 +108,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 7.6,
+      "age_hours": 9.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -218,7 +218,7 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-14T08:00:00+00:00",
-      "age_hours": 0.6,
+      "age_hours": 17.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
