@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-15T01:48:40.669156+00:00",
+  "updated_at": "2026-08-15T03:03:33.367031+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "India to build 5-8 more semiconductor plants in 7-8 years, PM Modi says - Moneycontrol.com",
+      "what_happened": "India to build 5-8 more semiconductor plants in 7-8 years, PM Modi says Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWY0bVl3SWh5d1ZDdlBza3Y1Zi1ENzRqUEs1RlBCdmlKZUJHZWQxMlcxWHA1a2dSV3J5RnF6anZZTkJqdklONWtERzE2VVJmcV9aT09Xd25WNnVxOFMwTmZJeDExV1d4TTdmOHBrdXp4aTF5YVhLSjJkNWFVUnpvR2JxcVVSeGhOOFJkZmNSQ1FPRXNSdkZSNFMzdGJDOUQ3UmZYRVc3UFVteFIwM05kZUg3STNRS2lqSlhLcmRSczctLVZQb2fSAcsBQVVfeXFMTVNud2MxSTlKUHFoVEY5bFdTOUtXYnV3VG9JWlJZdWo0Tk9WTWFhd1QxTjdFNTZZNTJEN1lmamgxWHZ1bmRkMGprRVBLZ21TSlJLMTZmY1JiQXRHNk12OUp6aGZuVDh6V2UzVTBOZFNjVVhrM05XclBBcF9iUWd1LWpkS3paQUJBaFpMSmVackM5ZG5PbDNvVFFFdTVFVV9WUzdUaTJNSjRDNjB3ZUtXdWRfUktMTnVBMDJQWXZxb3IxNnhBT25pQ0NSUE0?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T02:54:48+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Modi Vows Chip Plants, Nuclear Reactors in India Growth Push - Bloomberg",
+      "what_happened": "Modi Vows Chip Plants, Nuclear Reactors in India Growth Push Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDQ0NEYydzdaVTFOUUJOVFJuWGVaNC16MkVScEN6Q2djVC14VnVrTmIwcU9ucklVOEVhZDRUbkl3YTVYTDRYT2pObDFaTjJyNHBoR3BmMG9uam13cDFydFhLRnZmaGxxZHZxZ05oVXhSTXdOejZXc3FJWTVrTGZtcGJrWHBTTzNUMXRKMndOSkpPWlN1czI2VjgzOEYwek5ud1ctbEx3TlJwSm41ekl3?oc=5",
+      "source_name": "Bloomberg",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T02:48:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips - WSJ",
+      "what_happened": "Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hZ0M2YXNFR3B2bVc3cHNlYU9PR25HR3hLdDFBRmgya0tUcXdIVHBBVDk3b2p1UzMzUHliWkxtTE5XYnROVWIwUGNWZU9RSU9MSjc4TEVBTnhFWDhMeGtLdUN6UF9sNTNyOEtYUkdlbw?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T01:00:00+00:00",
+      "age_hours": 2.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ",
       "what_happened": "Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center WSJ",
@@ -25,6 +58,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
+      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-14T22:21:26+00:00",
+      "age_hours": 4.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter - CNBC",
       "what_happened": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter CNBC",
       "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczZFNXoxeDBQS1Y4T3ZvdW96QzNlUlBGOWZ3WEtqbDZXaTc5MTZESDJyRTNha1F3WWhwdHNfYXd5RDhqR2psbjFYRWZsR2tJNmVBc1J6THl2cWt0TFduRHRySG5YR250N1hQUkdKLUNHd1hZM2wxbkNRWlJWZ25UVHpFa0Q5bmUteGJ4bjh6c1IyY1lHZlBwMUMzLW5YS09sQ21oN1F3aGTSAa4BQVVfeXFMT2ZZMHJZWGxvZ1FCZTQ4SVFmUVJqck5xTGdLNzNOYjRSYjRIU1V1OHNvM2lqQnpKQWYzWGVIbGpsNTFpWE1mTHcyNmZfWDBHUnVhMm11NzBjbGF3Wk1WZ0FnVjhmVjBOZXk3a09aZ1R4eFJqUHhwUmY2VXg5ckdzOGR4YTF6X1BLY1hSd2hsbWd1NnJfZ093cXY0MkpMeFEzbUFFRXByVlRzNnpzM3dB?oc=5",
@@ -42,7 +86,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-14T20:30:58+00:00",
-      "age_hours": 3.1,
+      "age_hours": 6.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -108,7 +152,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 9.8,
+      "age_hours": 11.1,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -285,50 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T05:51:00+00:00",
       "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "DeepSeek Lifts AI Model Prices Fourfold - WSJ",
-      "what_happened": "DeepSeek Lifts AI Model Prices Fourfold WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd0hZUGVrZmdGTmVpTkVseXpHNzFmZ1cxaUdrT0I0Q1ZVYjFlVnZPdDFUZkV4RWdjMEpoUGxyQ0xEeHJ2VWVKZ0ZLZHc4bURlcEJyVWpUaWZXT0xqR3ljTmZXLXJjZ3FDaHFmRkVkanF1MHhRTlU3dTRtLWxJbDBFVTVB?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T04:36:00+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say - Reuters",
-      "what_happened": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTGtpQWFuNVlwSS1yTW93a3R0WXBqa1UtVDIweVVzNnZQUG03d1lhRTJtWjJ6ODdYQ3ItX0pwRzN0Z0hSdndlbXh4a1c5dDBhTzRLYnh5NHVzSDB1dHJPQUtqMGxmOUFsZjNuRUtDRFFMQ0tSX2R2RXFlRTZKOHFKb0JGSml5emJXblRFZ01xS05FWG5wa0RWLWFjTnFmTk5GN1lwdFhfWWItYkEyREhWZ1lQaU9IenJ2OVlTR2lWclJ6UkF6S0c2d3hmX00?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T04:04:00+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Korea's ICT exports up 140% in July on sustained AI chip demand - The Korea Times",
-      "what_happened": "Korea's ICT exports up 140% in July on sustained AI chip demand The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVZWSE1jYndkT2JQUmF3QUUyZkRuNXRQV1FheDlfT043ZFJJWkJmM01OY21HSS1EakxRa2N4Ymc1aERFYmhLLUFqNl9yWXdfalNEUFNoTWVEY2dlbkVrTDl0aXNTelpHNTkyenRnOVJjY1l5RTlHY1ZiOFZqWUNLaVVxLVdiRFNOdUpxV2RCNlc5MlB5WU5yazFqN1NBbmNwZGtMekJoUHpPc0hVbzEtNdIBsAFBVV95cUxQaVZWSE1jYndkT2JQUmF3QUUyZkRuNXRQV1FheDlfT043ZFJJWkJmM01OY21HSS1EakxRa2N4Ymc1aERFYmhLLUFqNl9yWXdfalNEUFNoTWVEY2dlbkVrTDl0aXNTelpHNTkyenRnOVJjY1l5RTlHY1ZiOFZqWUNLaVVxLVdiRFNOdUpxV2RCNlc5MlB5WU5yazFqN1NBbmNwZGtMekJoUHpPc0hVbzEtNQ?oc=5",
-      "source_name": "The Korea Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T02:17:00+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Google launches Gemini 3.7 Flash: What\u2019s new in its latest AI model? - The Indian Express",
-      "what_happened": "Google launches Gemini 3.7 Flash: What\u2019s new in its latest AI model? The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNnlpVzN3ck02cGM4X0dUVVVaMGszclBFUVZzYnZIanZrRWx0Qkxmd1VQNkVCdno2OV96MHZHODNWOVViLUw5X3pjLUdjRzhrTElJS0padlZialdBQ2dyY0trRFQ3Rkxjekl5V181dC1iVnlZRENWTHE5S0tRUzVRMU9hZC1XTnUtVlVrOEYxano3eDg1VTBZMG5fZ2FBV2VsMnEtWG8zY296QVlndUNzNGtRYzB5R3pIN3plcHpqTzV1VkFBYjlCTDFuUFh2Y1NUUUt1ZTk0LW4ybU1L0gHjAUFVX3lxTFBRZjdiaW42OTdsRF9GQnVmdDV6VFJtVUdSNXB4VThzS0xpRU1hTGRtSmpoSF9zenVfZmZDN1pqSVFBLTBPSUlrRjlWazVKcTRJakVmV2hTaGlrU09Zak9va2JENi1TMWxmRlJjWk1oa2huMkc1WkQtUTlxOExrbW5MOEFyY3YzU3h4Zl9xdTF3UHg3NVlWMjdfbDNJckJRZ0NrcUVxcjVtWm02aTY5NHVDTmdBMGNBQWg5R0UwNkdReV9xREhqcGRSa1c0UTRIR0JhWUhuMFBsZlI3UWQtYXE1UkNB?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T02:01:23+00:00",
-      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
