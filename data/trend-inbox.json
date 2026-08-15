@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-15T19:32:40.887129+00:00",
+  "updated_at": "2026-08-15T20:37:35.731623+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
+      "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T19:30:46+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - The Information",
       "what_happened": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal The Information",
@@ -42,7 +53,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T12:37:31+00:00",
-      "age_hours": 6.9,
+      "age_hours": 8.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -86,7 +97,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 16.0,
+      "age_hours": 17.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -229,7 +240,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 27.5,
+      "age_hours": 28.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -262,7 +273,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 30.7,
+      "age_hours": 31.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -320,17 +331,6 @@
       "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Apple trained its own AI model for China with help from Alibaba - The Verge",
-      "what_happened": "Apple trained its own AI model for China with help from Alibaba The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS2dfVHdQNVhGUFpMek5sVXRkajd3cHREWjZVOUMxaEtRVWhqZlpMSEVha2dDaUdBLV9GS2hDR1M1T1p0S2xoRUV4MDJ2WkpzQnlneGNIeURBMi1QaHVYdkpsTEVkeEVvVzNNWkVLRzlNM01wTFNNRTdNd3djNmZkZHIwaVdmeWFmOXp0cTZhZHVlVU9lMUtGT0dZSzRHbmpZYWZWUUwyelJTdGs?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T09:21:17+00:00",
-      "age_hours": 2.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
