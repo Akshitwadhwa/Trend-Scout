@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-15T07:42:58.796357+00:00
+Updated: 2026-08-15T08:44:01.214336+00:00
 Memory window: 48 hours
 
 ## 1. 'This is just the beginning’: 24-year-old man builds Rs 13 crore startup, buys Rs 1.8 crore apartment in... - Moneycontrol.com
@@ -23,47 +23,47 @@ URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDQ0NEYydzdaVTFOUUJOVF
 
 Modi Vows Chip Plants, Nuclear Reactors in India Growth Push Bloomberg
 
-## 4. Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips - WSJ
+## 4. Anthropic sees AI risks rising, no plan to release stronger "Model 2" - Axios
+Source: Axios (reputable)
+URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5
+
+Anthropic sees AI risks rising, no plan to release stronger "Model 2" Axios
+
+## 5. Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE1hZ0M2YXNFR3B2bVc3cHNlYU9PR25HR3hLdDFBRmgya0tUcXdIVHBBVDk3b2p1UzMzUHliWkxtTE5XYnROVWIwUGNWZU9RSU9MSjc4TEVBTnhFWDhMeGtLdUN6UF9sNTNyOEtYUkdlbw?oc=5
 
 Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips WSJ
 
-## 5. Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ
+## 6. Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1VObHJoWnFPYy16TFAtNDF6ZkxoMW12dy1kbVNjRXY5TkVlMFY3ZDJfTGhuaXM1cUpnV2ZwUVA4X0trTEVsLVQyWlNiSEhhem9CTVZ4bS1RYUZCNTB3ZHBFQk9sM1NWVVBDYnVEaDhwaEE4a2tUSTlKUklBTGg5cHRRWkZQaHhIS2RUVUFXM203cUVjWGZtSQ?oc=5
 
 Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center WSJ
 
-## 6. Nvidia discloses $21bn stake in SpaceX - Financial Times
+## 7. Nvidia discloses $21bn stake in SpaceX - Financial Times
 Source: Financial Times (reputable)
 URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3ZISllPenZtOEJ5Uy13WUlZUno1dkh3T1NBMkl4Y2lHY3YyVlVRemlFUS11UkhhX25OTHRwNHlLdWoyRUZxR29jMG5wYTdSb19XWWhaUUdrT01LVzJGQVBaeWZNMEJhYTB3anBBbFJDd0F5d0dRQTBQQWdhbkxFbkhlYW0?oc=5
 
 Nvidia discloses $21bn stake in SpaceX Financial Times
 
-## 7. Meta confirms its AI model escaped containment, hacked third party - Mashable
+## 8. Meta confirms its AI model escaped containment, hacked third party - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5
 
 Meta confirms its AI model escaped containment, hacked third party Mashable
 
-## 8. Nvidia discloses $21 billion stake in SpaceX at end of second quarter - CNBC
+## 9. Nvidia discloses $21 billion stake in SpaceX at end of second quarter - CNBC
 Source: CNBC (reputable)
 URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczZFNXoxeDBQS1Y4T3ZvdW96QzNlUlBGOWZ3WEtqbDZXaTc5MTZESDJyRTNha1F3WWhwdHNfYXd5RDhqR2psbjFYRWZsR2tJNmVBc1J6THl2cWt0TFduRHRySG5YR250N1hQUkdKLUNHd1hZM2wxbkNRWlJWZ25UVHpFa0Q5bmUteGJ4bjh6c1IyY1lHZlBwMUMzLW5YS09sQ21oN1F3aGTSAa4BQVVfeXFMT2ZZMHJZWGxvZ1FCZTQ4SVFmUVJqck5xTGdLNzNOYjRSYjRIU1V1OHNvM2lqQnpKQWYzWGVIbGpsNTFpWE1mTHcyNmZfWDBHUnVhMm11NzBjbGF3Wk1WZ0FnVjhmVjBOZXk3a09aZ1R4eFJqUHhwUmY2VXg5ckdzOGR4YTF6X1BLY1hSd2hsbWd1NnJfZ093cXY0MkpMeFEzbUFFRXByVlRzNnpzM3dB?oc=5
 
 Nvidia discloses $21 billion stake in SpaceX at end of second quarter CNBC
 
-## 9. The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable
+## 10. The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNTBSYVV6UEUxOTJYX2RkOWVUOElId1JLMm8wSXJrS25GZ0c2dmJPRDVJeTZjOFdmdWtTWXdwOGNmOGc2bHJnN3gyMGdCdENxRjhXcGswVDVWZ3pzUUU4QS1HZlM1d1RMVUE?oc=5
 
 The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable
-
-## 10. Anthropic sees AI risks rising, no plan to release stronger "Model 2" - Axios
-Source: Axios (reputable)
-URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5
-
-Anthropic sees AI risks rising, no plan to release stronger "Model 2" Axios
 
 ## 11. How Claude's text watermarking works - Anthropic
 Source: Anthropic (primary)

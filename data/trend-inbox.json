@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T07:42:58.796357+00:00",
+  "updated_at": "2026-08-15T08:44:01.214336+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 4.1,
+      "age_hours": 5.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -36,13 +36,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
+      "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T02:42:54+00:00",
+      "age_hours": 6.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips - WSJ",
       "what_happened": "Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips WSJ",
       "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hZ0M2YXNFR3B2bVc3cHNlYU9PR25HR3hLdDFBRmgya0tUcXdIVHBBVDk3b2p1UzMzUHliWkxtTE5XYnROVWIwUGNWZU9RSU9MSjc4TEVBTnhFWDhMeGtLdUN6UF9sNTNyOEtYUkdlbw?oc=5",
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-15T01:00:00+00:00",
-      "age_hours": 6.7,
+      "age_hours": 7.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -102,17 +113,6 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
-      "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T19:31:51+00:00",
-      "age_hours": 4.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "How Claude's text watermarking works - Anthropic",
       "what_happened": "How Claude's text watermarking works Anthropic",
       "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
@@ -163,7 +163,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 15.7,
+      "age_hours": 16.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -196,7 +196,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 18.1,
+      "age_hours": 19.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
