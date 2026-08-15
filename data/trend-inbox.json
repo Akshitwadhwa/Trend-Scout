@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-15T09:38:40.058718+00:00",
+  "updated_at": "2026-08-15T10:37:32.936777+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim - Mashable",
+      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1aTlrODRHTEZGQ25nRTdPTnBrUDE1SXhaM01OTUd3SGdvcWtzZjd0WDVMcHFKUGxxR0hpX3NOTHIzV09iRjZycFdCek1ucUJNU29IR0pNZHdaTE5NaWtYaWd3QWdwZw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T09:35:03+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "'This is just the beginning\u2019: 24-year-old man builds Rs 13 crore startup, buys Rs 1.8 crore apartment in... - Moneycontrol.com",
       "what_happened": "'This is just the beginning\u2019: 24-year-old man builds Rs 13 crore startup, buys Rs 1.8 crore apartment in... Moneycontrol.com",
@@ -9,7 +20,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 6.1,
+      "age_hours": 7.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -163,7 +174,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 17.6,
+      "age_hours": 18.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T07:36:03+00:00",
       "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said - Business Insider",
-      "what_happened": "AI agents tried to sabotage and disable each other when given the same task, Anthropic said Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQXJSdUhYcnVPN1JJRWIxY3dSWW5KVUxwMEJHUG1NUDRzMnlRbUpDTjhWUkxQWVdlNHJJTkJNRWZmNVhEcEJhRnRXbWdWQTlDNVRuTnJOdDVDRkFCeGdlVjdIaVU5dmtJQ2xfTkRtZXFwV3RJS2VBdTc2VDhkdzdJLXNyUmVtVHFBWDFtaXVNR00?oc=5",
-      "source_name": "Business Insider",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T05:55:05+00:00",
-      "age_hours": 0.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
