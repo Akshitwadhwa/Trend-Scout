@@ -1,15 +1,37 @@
 {
-  "updated_at": "2026-08-15T13:43:10.577044+00:00",
+  "updated_at": "2026-08-15T14:37:52.071899+00:00",
   "retention_hours": 48,
   "items": [
     {
+      "title": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out \u2014prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD - Tom's Hardware",
+      "what_happened": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out \u2014prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONW1zOG5ZMXpzblNsYjluazJDaGQxR0RwVmxWRWhDNXNoLUU2UllYNkNVUndLSWxhYjJHcEZJVm16Q1p2X1NyS2VqU3htTEttUmEwaFVhTnJRajlwZkM4TVlRNUpTU0V2TXdrZGRrdTlDTXR1ZmUtWWVtZzNPaGx5SDhIeHRBYUVrbFhhQ056R3ZKS0ZWck90NmY5d00wZzFxQ056RHlkaVpUUkU3Q2lSUnMtS05PaGdQN0ZJbk41TkdWdTZyTXk0VzYtTEhCSXVOaTlwZlFBM1ZRR1BOV0lOOERxdTdjSVg0WDB0Z1ZKTzRXRjVReUVfY3dmVUFOdHZLLW5KMFFQRWVFcDBzNGtsQnBzRnE0UQ?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T14:23:36+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market - CNBC",
+      "what_happened": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXozT0VsTTdYQzZiRVo0YnBqMXhqTjdOd1h4VkNBVXBBLV94dmdRLUFrQUZHYWJWWFhmU3hidWZrRDFhMV9rR0xkMHVvZ0MtVzFrLXBaMTMxOVFKUU1zTF9OQThHYWxqQkprRjBBR0FTSU1tOENFa2RyUGJLeXZWV3hRVmtyUW1PUTJKcmtsYjNTV1lNdDZ6S3ZObldnRldQeS03SFFvLWU3dXZGS2lHV1dQcnNuYVk?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T14:22:54+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "NASA\u2019s new AI model can predict Sun's storm-causing regions up to 12 hours before they appear - Moneycontrol.com",
       "what_happened": "NASA\u2019s new AI model can predict Sun's storm-causing regions up to 12 hours before they appear Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUFQNU5PS1F3U2lrTXVBUmYxT2E1ajRiWXZmOXY3cXU5aE5nRHk5VGd5WkpBZEo1SDhYWUgwelZVZ014cVVzd1pRZVJHeUE0TEp3RXBXXzJSNUtvdWlFYnBqbDNiMHRFWkt6Tk9yZlBTSndiSUVlcmhpTl81VEFWWkEyWGJNeG9sTEZUNUx1VjhtNGk3NExMVlNwVHlJUHN0YkFDRHRscUV2TVlXYzQ0QU1XLWhEbkR2TU5HelFlTlNZUC1McHpPR2NrRDhsN1A3emZ6a1prTkYwT182bU5nUVhLVlphQzTSAewBQVVfeXFMUE15YUcxTHVLYU8zdlFWZkJtRUd5bkVtZ0xsd1NRS3VMUlptRXdEbUxlYnFBakxadXN6a05hbE9ocm55bXBQZnVyTEVna09tYjlaY0t0cUdVRDlMaEM5S2hNVWVOOXh3SEl1dmV0TGRsNk1sU2RZQVRBT0hHQUc3WEo2dWZsZFhYd3ZYcUdiNV9KWjFHdVdEbUx3aWdDbU1aQWJpbDU0Q0NFbngxNHN1UDNlYWhBTmlNT21uRUNITHl0QlVuU2NHcDBPVjduZnFWSDBDUlNCRDNMTW1YRDM4NUdMVjR1QXpGNWl2SXA?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTXlhRzFMdUthTzN2UVZmQm1FR3luRW1nTGx3U1FLdUxSWm1Fd0RtTGVicUFqTFp1c3prTmFsT2hybnltcFBmdXJMRWdrT21iOVpjS3RxR1VEOUxoQzlLaE1VZU45eHdISXV2ZXRMZGw2TWxTZFlBVEFPSEdBRzdYSjZ1ZmxkWFh3dlhxR2I1X0paMUd1V0RtTHdpZ0NtTVpBYmlsNTRDQ0VueDE0c3VQM2VhaEFOaU1PbW5FQ0hMeXRCVW5TY0dwME9WN25mcVZIMENSU0JEM0xNbVhEMzg1R0xWNHVBekY1aXZJcNIB7AFBVV95cUxQTXlhRzFMdUthTzN2UVZmQm1FR3luRW1nTGx3U1FLdUxSWm1Fd0RtTGVicUFqTFp1c3prTmFsT2hybnltcFBmdXJMRWdrT21iOVpjS3RxR1VEOUxoQzlLaE1VZU45eHdISXV2ZXRMZGw2TWxTZFlBVEFPSEdBRzdYSjZ1ZmxkWFh3dlhxR2I1X0paMUd1V0RtTHdpZ0NtTVpBYmlsNTRDQ0VueDE0c3VQM2VhaEFOaU1PbW5FQ0hMeXRCVW5TY0dwME9WN25mcVZIMENSU0JEM0xNbVhEMzg1R0xWNHVBekY1aXZJcA?oc=5",
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T12:37:31+00:00",
-      "age_hours": 1.1,
+      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +75,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 10.2,
+      "age_hours": 11.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -196,7 +218,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 21.7,
+      "age_hours": 22.6,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -229,7 +251,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 24.8,
+      "age_hours": 25.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -309,28 +331,6 @@
       "age_hours": 17.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "LG to unveil 1st bipedal humanoid robot in Q1, 2027 in stepped-up alliance with Nvidia - KED Global",
-      "what_happened": "LG to unveil 1st bipedal humanoid robot in Q1, 2027 in stepped-up alliance with Nvidia KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyMWNwUWpzd0FjeUhXUHRSa3FHaGF1U1RyV184NlpnQ0QyR29PVUxIcVhzZm0zTzRKYkpGRl9fWVQ1cWRDLS1iXzV1SEtLanAyRGZBRjJfVWJkbnBwaGlfand1OVZGbXNmS1k4?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T07:57:45+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "China AI chip demand lifts Hygon revenue 67%, Sugon profit 34% as domestic computing expands - digitimes",
-      "what_happened": "China AI chip demand lifts Hygon revenue 67%, Sugon profit 34% as domestic computing expands digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSklnTWN3LWFuZ0hjTzBZbWV3bGFxTm1Ta1RZOUZ6cEFreVVhc3M3T0pMYlRsVnNEbU5oaVo0M2VCd1ZPdkQ5WXg1Q1BfVTJNZ0NkQS05RVNwS05xZjJpWjhXWDBxZXVqT0MwZ19OTEFMc29zS19naDBsQ0tjUjNqOXVZR3lUckNGaXBCSDk3NTM1UQ?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T07:55:00+00:00",
-      "age_hours": 0.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
