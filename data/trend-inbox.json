@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-15T18:46:32.698310+00:00",
+  "updated_at": "2026-08-15T19:32:40.887129+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - The Information",
+      "what_happened": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkdfbWl5THQ1b0hjNk5zS1EyYU9iUXJQXzR1YVE3Z1dxTU9yN1JlX2wtNXZUV3gyVVBndUlzYXNnZ3A1TzJBcjZ2UklCY3Mza3hoNXcyTGl3c1ZNNVd1aTc1YUlfVDEtVzdfMDNyb296N1hGaXNqSE13YnRYaDhsOHNLM3MwWWRPU3c1blJxMFZfVUlmcWdlbU12MWxaQmxRRWppVnFpZHlCRDhk?oc=5",
+      "source_name": "The Information",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T19:12:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out \u2014prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD - Tom's Hardware",
       "what_happened": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out \u2014prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD Tom's Hardware",
@@ -31,7 +42,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T12:37:31+00:00",
-      "age_hours": 6.2,
+      "age_hours": 6.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -75,7 +86,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 15.2,
+      "age_hours": 16.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -218,7 +229,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 26.8,
+      "age_hours": 27.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -251,7 +262,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 29.9,
+      "age_hours": 30.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -320,17 +331,6 @@
       "age_hours": 2.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models",
-      "what_happened": "AI is being widely used to analyze biosignals measured by wearable devices such as smartwatches. By identifying meaningful patterns in health data \u2014 including sleep, heart rate, and physical activity \u2014 AI is helping users better understand and manage their health. The Health Forum held at Galaxy Unpacked July 2026 also shared Samsung\u2019s Connected Care [\u2026]",
-      "source_url": "https://news.samsung.com/global/from-biosignals-to-health-insights-samsung-researchs-work-on-health-foundation-models",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-14T08:00:00+00:00",
-      "age_hours": 17.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
