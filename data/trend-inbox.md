@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-15T03:03:33.367031+00:00
+Updated: 2026-08-15T03:52:45.004123+00:00
 Memory window: 48 hours
 
 ## 1. India to build 5-8 more semiconductor plants in 7-8 years, PM Modi says - Moneycontrol.com
