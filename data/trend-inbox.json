@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T04:49:03.051894+00:00",
+  "updated_at": "2026-08-16T05:41:36.204327+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal: Report - Moneycontrol.com",
+      "what_happened": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal: Report Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPYXJJQ3dhQU1Ma3NqMFFBODlkbFhFVXBGbVljdEdiNVh0eFp6VGVFMVZlWXNIVXgycWZiQnUwLV9ONmp0VFJqM0NPTFdqTFJwNTg0UzdpYkJGMTlMVDNaVEJJVHVEd2JWNDVjaVJoYTVyVVpSMktoYmFvcHJ2VWZXeGIycUpTMWFEbHBRMlBEZENnZU9vZ0xYQ1NScjRwMi1qX1NaWWtLTEkySGdKTld5TXhNQ09NYWhlMmpUVVNZQzJpX1hYWVROU0RabzhxN1Z2Y0Z5U2FVTHp1ZXpiQmZpaG5nNE5mYnZ5a3pZUNIB8gFBVV95cUxNRUU1OXlTYmdsY0NDSDl4Y2pDRnFsTzdmazQ3aGFTYWhFWDRmT2R5YzBLU1BfRHNvNzdhdEtWV1lPblZ6VldqbE12UzVPZThXRnhublBEYUNyX2pORzRRNDY2YUN6VWJPYVhjb3hFRkJabVlwREhBbUIzbklnSXBTQ3BTZmo5WGYyTUh4ZUtGREtTODZMd2g2QU5BMWNCbmphR09RM1Jia1ZyVmZXYTgwR0NnU00xWWdhcThhZTNFbWYzaFBIUFZvS2lGTmdhZWpRSmRNLTZLQ0pjWkpSNFNCOEVnbWZWeUNneGpERmlHNUZldw?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T05:17:54+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Google launches Gemini 3.7 Flash: What\u2019s new in its latest AI model? - The Indian Express",
       "what_happened": "Google launches Gemini 3.7 Flash: What\u2019s new in its latest AI model? The Indian Express",
@@ -9,7 +20,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T04:27:21+00:00",
-      "age_hours": 0.4,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-15T23:11:34+00:00",
-      "age_hours": 5.6,
+      "age_hours": 6.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -152,7 +163,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 25.3,
+      "age_hours": 26.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -284,7 +295,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 36.8,
+      "age_hours": 37.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -317,18 +328,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 39.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more - CNBC",
-      "what_happened": "Here are Friday's biggest analyst calls: Nvidia, Apple, SpaceX, SanDisk, JPMorgan, Dell, Wayfair, Micron & more CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSzZ0MFlkd0FMTldwTER0Q25UUnpVNXh5Qkt5M25NZnJGRmFVZnF5REZoZldIZnRRZlY1d0VZVDM4dUVSZy0wODUxWnRYWUpKUjVYU0pXQS12d1BlMjhFZTE2S2ZCbVZlOF9wTUVDV3NyUVgzZzNUODRwY2lEeDlVbDZyaEFsM29BNXVXcVVfVHdfdW1NOTZoT2NyX0MzQndXc2M2bFJR?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T12:40:41+00:00",
-      "age_hours": 1.0,
+      "age_hours": 40.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
