@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T09:40:32.656536+00:00",
+  "updated_at": "2026-08-16T10:37:52.107454+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Chinese brain-reading AI model may predict depression risk 4 years in advance - South China Morning Post",
+      "what_happened": "Chinese brain-reading AI model may predict depression risk 4 years in advance South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXBhc3Y4OTRiU184VEczSS1YTEJhWnBTM0VVWmVpbmVLbUdYV2dVUmNMRTVWM1FsaTJHcEtBYnhwZ3dWM3MtWVhNS1p5UkVvVDkzd0hDeG5CYm5KTGdZWnU2a09YUWFJUy00dTlRNE1nOU1xZGRwWm92cG83eDZDdmxqQUdCT3RWMEdhZEV1a0JGWnNoa2dWNkc0Zkk3YmRpZ2JNT0hjaVphUnlzQy00NXFCVEJSa3BvUjBvQkllWXV4Qjh4NXBObV93Z2VYOFZH0gHQAUFVX3lxTE1RRDBFNjFxMUlSc0x1TnpPVW1DNjRFVUpvZEkybHMxTzNzdmZhRHVwemJqS01HT3d6TU83ajF1MHVZODIwZm1nenpLS016cXFwVHBhUFZ5LWxPZFd0S0x5N3ZrbW5RSEJzR1p6ajc3b0NiQVJTMlFUZ0pQMHl1dGFvWWhkaXB6U1JtSG9mTG53dktNamhDNnE1TjY4VGFXbTVPTkRpVHRSSE83aUkxeTM4QldrQVAtdW5UZnh0cjRaeFFYbkJ0WTRxWUhIaEdTWE4?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T10:00:19+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "This platform gives you ChatGPT, Gemini, Claude, and 17+ other AI models for life for $54.97 - Mashable",
       "what_happened": "This platform gives you ChatGPT, Gemini, Claude, and 17+ other AI models for life for $54.97 Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T09:00:00+00:00",
-      "age_hours": 0.7,
+      "age_hours": 1.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -25,13 +36,24 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim - Mashable",
+      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1aTlrODRHTEZGQ25nRTdPTnBrUDE1SXhaM01OTUd3SGdvcWtzZjd0WDVMcHFKUGxxR0hpX3NOTHIzV09iRjZycFdCek1ucUJNU29IR0pNZHdaTE5NaWtYaWd3QWdwZw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T07:10:19+00:00",
+      "age_hours": 3.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Can a foldable finally stop feeling like a compromise? Five answers about the Samsung Galaxy Z Fold 8 Ultra - The Indian Express",
       "what_happened": "Can a foldable finally stop feeling like a compromise? Five answers about the Samsung Galaxy Z Fold 8 Ultra The Indian Express",
       "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPak1yNjRKU2VBbmhhZ05RZ1ViazdlWlpVVDNqVUE4R21HTWlzd296MHVvLVdzMURZdGVnRWpFUmM4QWxXdjVXUDB1eGdXLXpjYl9RVi0wSmVMSlNoZUdQNm1RZjlpU0NNRVg1Q2R6TXpwTWtteFZYbGFaNlhXYU5xSUlIdlhSeEM2cGlLZ2lGZEwxWDROSldoSjNvU01FLVBBV1NiRXR3Y9IBrgFBVV95cUxNNHRQQ3pwUklhM2EyMG8xdXhxQkZOOTJSX1Y0WEYzXzU5ZXEwTHpVOXE4TFRsMFUzMlVIdlNhbjVFWkhmQ21TS3ROcTVfSzdLUTVYZWYzazdMYXRzNk1OeDBVa3lKOHNpRHNpYXkzTU1wOWZhU0UxcFN4cHNGdjdhc2dwVHpQWE9PaVBFeGZSRERjZXZsYjc3Y1NoZzFtUnBVcm5rZVEzMkdmSnlrMkE?oc=5",
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T06:30:37+00:00",
-      "age_hours": 3.2,
+      "age_hours": 4.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -54,17 +76,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-16T04:27:21+00:00",
       "age_hours": 4.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim - Mashable",
-      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1aTlrODRHTEZGQ25nRTdPTnBrUDE1SXhaM01OTUd3SGdvcWtzZjd0WDVMcHFKUGxxR0hpX3NOTHIzV09iRjZycFdCek1ucUJNU29IR0pNZHdaTE5NaWtYaWd3QWdwZw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T23:11:34+00:00",
-      "age_hours": 6.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -196,7 +207,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 30.1,
+      "age_hours": 31.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -243,6 +254,17 @@
       "age_hours": 0.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog",
+      "what_happened": "Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-14T22:43:44+00:00",
+      "age_hours": 35.9,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Nvidia discloses $21bn stake in SpaceX - Financial Times",
@@ -309,28 +331,6 @@
       "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple adds another iPhone, MacBook Pro to the obsolete list - Mashable",
-      "what_happened": "Apple adds another iPhone, MacBook Pro to the obsolete list Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RQ3hCTjBSa1QwS0VBMlRPVWFZRzZETmxMZVhWOFhRWm96Nlg5Wm9aaUNWUEl4YmNlZ3dHWWtlczVKcTlXWUhaQzRyQ1VIN1FKUzdKNTBTMGg4S1k4UVhlUXNaZDE5WVBDaDEyaERjQ2k3Wmww?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T16:00:55+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How to bring your software delivery workflow into GitHub with agent apps",
-      "what_happened": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC\u2013all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 41.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
