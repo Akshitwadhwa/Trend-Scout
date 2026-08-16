@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-16T14:36:47.938717+00:00",
+  "updated_at": "2026-08-16T15:34:22.416704+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Engineers over lawyers? Chip boom reshapes K-drama, dating market - The Korea Times",
+      "what_happened": "Engineers over lawyers? Chip boom reshapes K-drama, dating market The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUJPSFM3bC1Bc1FzWDlzTUNKZUpoMjBWeEFXdjhfakxIZWZrc0V5RW5IUlVvUnplQngtTi1YMFpNcm9IVzUzeHNCb2lUSVl3OTh1a0JkcUw1TkZNNjVZYjFuNk12THJ2aGxwNmVxMTNGcU1UWmx1U0xZalJYOTlhd0h3ODRGQ1hMaVZLalNCeDcyMWNSejQzTUFFUEhXZER0aVpmc0dmbklFQXBERldicERtbExtck80RGVxY9IBwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Zw?oc=5",
+      "source_name": "The Korea Times",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T15:05:00+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "The Bank of Nvidia, Dario Amodei\u2019s Wife and More | Technology for Aug. 16 - WSJ",
+      "what_happened": "The Bank of Nvidia, Dario Amodei\u2019s Wife and More | Technology for Aug. 16 WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzVENnRzY2bTNha0s5c09GOWltSzByRkFSVjRFVTE0aUxBdFlPdkpXdW5YbEl1NUZwMWFENlZlV1U0Qkh1b2NrQ2FWVWFDLVpkY2ttdWF6WHVMWEFSdE8xNE5ZMHNwQQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T14:48:00+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
       "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
@@ -9,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T14:02:01+00:00",
-      "age_hours": 0.6,
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +53,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:55:04+00:00",
-      "age_hours": 3.7,
+      "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +75,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:00:19+00:00",
-      "age_hours": 4.6,
+      "age_hours": 5.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -251,7 +273,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 35.0,
+      "age_hours": 36.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -300,37 +322,15 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Multiple redirect URIs and token refresh for OAuth apps - github.blog",
-      "what_happened": "Multiple redirect URIs and token refresh for OAuth apps github.blog",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-14T22:43:44+00:00",
-      "age_hours": 39.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
       "title": "Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog",
       "what_happened": "Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-14T22:43:44+00:00",
-      "age_hours": 39.0,
+      "age_hours": 40.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Nvidia discloses $21bn stake in SpaceX - Financial Times",
-      "what_happened": "Nvidia discloses $21bn stake in SpaceX Financial Times",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS3ZISllPenZtOEJ5Uy13WUlZUno1dkh3T1NBMkl4Y2lHY3YyVlVRemlFUS11UkhhX25OTHRwNHlLdWoyRUZxR29jMG5wYTdSb19XWWhaUUdrT01LVzJGQVBaeWZNMEJhYTB3anBBbFJDd0F5d0dRQTBQQWdhbkxFbkhlYW0?oc=5",
-      "source_name": "Financial Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T22:28:02+00:00",
-      "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
