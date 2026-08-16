@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-16T10:37:52.107454+00:00",
+  "updated_at": "2026-08-16T11:32:51.269919+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
+      "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T10:59:22+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Apple issues new round of spyware alerts to iPhone users: What to do if you got one - The Indian Express",
+      "what_happened": "Apple issues new round of spyware alerts to iPhone users: What to do if you got one The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0VJM2VRNlZ3YjNrSl9SdVFQOF9kV3RSX1NEX1hBcGswdjhFeC03T1hDaHhmeXdlQXk5SmRoVVBhc012TTJ4NGExc19jLWpBQnY1ZTllOGhOdVN0WXFmd2tMNVFHY0toLWNmenVEQkE3a2FjUWVnZ3pXSHphSU4zQXQtLVZYVDdONXNQU0laeGt3WnYxSGFOTWM4NDU5azBUQUhaSHprNzRfUFdjUmc0OVR0MXVlanBoNVhKZ9IBwwFBVV95cUxQQldjandwZl9CV0pVUjhSUGJVZkh1QWFfcjV3YnFTenV0NFVBTEtnNGgwblQ3RTNLYVlKVmYzM0lxWThqMGRpME9KZkd2cC0xbF9TWHFKQWw5NzRaaUVUVXBZMWIwSUFVQTc4R2pUV3dRcURFYkhsVHRPUnFzSTVKZm9IV2pyZ1FqQWQwNEhwcXNjbjVZeUl6SDk2RGROaElHS1VWVS1ub0o3U0MyRG1scTJla21feVVyQXdwXzgzcWF3NGc?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T10:55:04+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable",
+      "what_happened": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T10:53:20+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Chinese brain-reading AI model may predict depression risk 4 years in advance - South China Morning Post",
       "what_happened": "Chinese brain-reading AI model may predict depression risk 4 years in advance South China Morning Post",
@@ -9,7 +42,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:00:19+00:00",
-      "age_hours": 0.6,
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -207,7 +240,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 31.1,
+      "age_hours": 32.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -262,7 +295,7 @@
       "source_name": "The GitHub Blog",
       "source_level": "primary",
       "published_at": "2026-08-14T22:43:44+00:00",
-      "age_hours": 35.9,
+      "age_hours": 36.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T21:45:19+00:00",
       "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How Claude's text watermarking works - Anthropic",
-      "what_happened": "How Claude's text watermarking works Anthropic",
-      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xMjZ5Ynd3TkptcUFtRGZxalN0VUxKTWRxSktRTkhsa1llV0w0OUphLXRYWDkyaGJvendtY0drMTRCTWV1QjJxeVc5MzFxb2NXQVpXRWhRZDY3eC1Zak5QZWV3?oc=5",
-      "source_name": "Anthropic",
-      "source_level": "primary",
-      "published_at": "2026-08-14T19:22:20+00:00",
-      "age_hours": 4.2,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent - NVIDIA Blog",
-      "what_happened": "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesia\u2019s First University AI Center to Develop Local AI Talent NVIDIA Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yUVBQNWE0YUdMcXlRVHE0VjMxVHh1UU1GSXV1UjAtV1RuOURrcHF2ck9RMVZvc1BmbEdzWFYtY0pESk5XRS0yX1Z5NEZtcjRuTVVKUU5DbVZud1NXckxmSkRoQlJ2WHlFSVZTbWJncjh3TjkwSzI4a3Jn?oc=5",
-      "source_name": "NVIDIA Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-14T17:16:56+00:00",
-      "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Trade Tracker: Bill Baruch buys more Nvidia - CNBC",
-      "what_happened": "Trade Tracker: Bill Baruch buys more Nvidia CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUm1yVEtHcDIyMXo1My1VRjc5WUkyRTdrbk1YUWNxUkE1TnFnbnNzZmdtYUxMWFNJUUpOdjhQeFF2NldtZzlCM1owdlh4UTFGY01STzJhT2M1Ym8tUnpYeHBIclNpSEc4OGtvM2hLTVdpcVlreEJUdFdMU05fb0h3dVowX0FwQmxWOGR0VDF3?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T16:44:06+00:00",
-      "age_hours": 1.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
