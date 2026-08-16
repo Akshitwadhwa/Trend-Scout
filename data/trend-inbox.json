@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T07:44:23.289597+00:00",
+  "updated_at": "2026-08-16T08:45:49.342602+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "SK Square set to turn SK Hynix windfall into firepower for AI, chip deals - KED Global",
+      "what_happened": "SK Square set to turn SK Hynix windfall into firepower for AI, chip deals KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14aGhaWWlmNndKVEJscVM2bG1YYU5JWm9weWFlTEM0STdaWUpPSVZRMjZObmRlRUtUTnVQY19xbFBHbHdzUklwYmdPZlc2VWU5cTZPSWZPSjM1ODB0S0trZEFaYjZHd3gzTm91czRMc29zZFgtNUxPVA?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T08:00:05+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Can a foldable finally stop feeling like a compromise? Five answers about the Samsung Galaxy Z Fold 8 Ultra - The Indian Express",
       "what_happened": "Can a foldable finally stop feeling like a compromise? Five answers about the Samsung Galaxy Z Fold 8 Ultra The Indian Express",
@@ -9,7 +20,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T06:30:37+00:00",
-      "age_hours": 1.2,
+      "age_hours": 2.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T04:27:21+00:00",
-      "age_hours": 3.3,
+      "age_hours": 4.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -174,7 +185,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 28.2,
+      "age_hours": 29.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -306,7 +317,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 39.7,
+      "age_hours": 40.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T15:58:57+00:00",
       "age_hours": 5.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung's 43-inch QLED Q7F TV just dropped to a new record low \u2014 buy now for under $300 - Mashable",
-      "what_happened": "Samsung's 43-inch QLED Q7F TV just dropped to a new record low \u2014 buy now for under $300 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNHM5Nl9TMTlpQmd4cnhqQlRacHR6bFlSY3ZKQjVrSEdacWpFY2ZkWWY1RlBsXzBPVzM3Y25LV1J1MzR1QTYtLVdySldIQ1FBbHoxU2ZfbVhZSWdOeHlYLW9Majd2d2xjTHMxTmVZRmxyNHM?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T15:56:18+00:00",
-      "age_hours": 4.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
