@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-16T03:58:06.959279+00:00",
+  "updated_at": "2026-08-16T04:49:03.051894+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Google launches Gemini 3.7 Flash: What\u2019s new in its latest AI model? - The Indian Express",
+      "what_happened": "Google launches Gemini 3.7 Flash: What\u2019s new in its latest AI model? The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNnlpVzN3ck02cGM4X0dUVVVaMGszclBFUVZzYnZIanZrRWx0Qkxmd1VQNkVCdno2OV96MHZHODNWOVViLUw5X3pjLUdjRzhrTElJS0padlZialdBQ2dyY0trRFQ3Rkxjekl5V181dC1iVnlZRENWTHE5S0tRUzVRMU9hZC1XTnUtVlVrOEYxano3eDg1VTBZMG5fZ2FBV2VsMnEtWG8zY296QVlndUNzNGtRYzB5R3pIN3plcHpqTzV1VkFBYjlCTDFuUFh2Y1NUUUt1ZTk0LW4ybU1L0gHjAUFVX3lxTFBRZjdiaW42OTdsRF9GQnVmdDV6VFJtVUdSNXB4VThzS0xpRU1hTGRtSmpoSF9zenVfZmZDN1pqSVFBLTBPSUlrRjlWazVKcTRJakVmV2hTaGlrU09Zak9va2JENi1TMWxmRlJjWk1oa2huMkc1WkQtUTlxOExrbW5MOEFyY3YzU3h4Zl9xdTF3UHg3NVlWMjdfbDNJckJRZ0NrcUVxcjVtWm02aTY5NHVDTmdBMGNBQWg5R0UwNkdReV9xREhqcGRSa1c0UTRIR0JhWUhuMFBsZlI3UWQtYXE1UkNB?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T04:27:21+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim - Mashable",
+      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1aTlrODRHTEZGQ25nRTdPTnBrUDE1SXhaM01OTUd3SGdvcWtzZjd0WDVMcHFKUGxxR0hpX3NOTHIzV09iRjZycFdCek1ucUJNU29IR0pNZHdaTE5NaWtYaWd3QWdwZw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T23:11:34+00:00",
+      "age_hours": 5.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent - digitimes",
       "what_happened": "Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent digitimes",
@@ -42,7 +64,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-15T19:30:46+00:00",
-      "age_hours": 8.5,
+      "age_hours": 9.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -97,18 +119,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T12:37:31+00:00",
-      "age_hours": 15.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim - Mashable",
-      "what_happened": "T-Mobile is giving away the Apple iPhone 17 for free this weekend \u2014 how to claim Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1aTlrODRHTEZGQ25nRTdPTnBrUDE1SXhaM01OTUd3SGdvcWtzZjd0WDVMcHFKUGxxR0hpX3NOTHIzV09iRjZycFdCek1ucUJNU29IR0pNZHdaTE5NaWtYaWd3QWdwZw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T09:35:03+00:00",
-      "age_hours": 1.0,
+      "age_hours": 16.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -141,7 +152,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 24.4,
+      "age_hours": 25.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -273,7 +284,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 36.0,
+      "age_hours": 36.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -306,7 +317,7 @@
       "source_name": "Reuters",
       "source_level": "reputable",
       "published_at": "2026-08-14T12:53:19+00:00",
-      "age_hours": 39.1,
+      "age_hours": 39.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T12:40:41+00:00",
       "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 - Mashable",
-      "what_happened": "Best TV deal: Samsung 43-inch QLED Q7F TV is $297.99 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aNHM5Nl9TMTlpQmd4cnhqQlRacHR6bFlSY3ZKQjVrSEdacWpFY2ZkWWY1RlBsXzBPVzM3Y25LV1J1MzR1QTYtLVdySldIQ1FBbHoxU2ZfbVhZSWdOeHlYLW9Majd2d2xjTHMxTmVZRmxyNHM?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T12:39:42+00:00",
-      "age_hours": 2.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
