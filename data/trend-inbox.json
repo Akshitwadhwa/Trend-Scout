@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T22:35:24.327754+00:00",
+  "updated_at": "2026-08-16T23:33:02.881618+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
+      "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T23:06:05+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI - The Information",
       "what_happened": "Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI The Information",
@@ -14,24 +25,13 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
-      "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-16T20:05:33+00:00",
-      "age_hours": 2.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
       "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
-      "published_at": "2026-08-16T17:51:03+00:00",
-      "age_hours": 4.7,
+      "published_at": "2026-08-16T20:45:54+00:00",
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },

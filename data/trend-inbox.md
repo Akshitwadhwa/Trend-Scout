@@ -2,20 +2,20 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-16T22:35:24.327754+00:00
+Updated: 2026-08-16T23:33:02.881618+00:00
 Memory window: 48 hours
 
-## 1. Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI - The Information
-Source: The Information (reputable)
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDZsSzd0ZWZReEhoNXhnMzkybzBXckFhUlViSGgtSkhsX2hzcEJhSGtaVTN4RFZDVXZjc2F0Q05iVE1CaTZ4aUo3RTAzb0dmWHM2ZGRHMW1ISmJiSm9QVWtOU0xWWnpiTkdWa3FMVkdwU3oySWNqTEQ5ampscTlKb3dVUTRfN0NVb0VVd3Vwcko5TXpUNVJFdWpaWVFGVUVHVXAwRg?oc=5
-
-Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI The Information
-
-## 2. Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable
+## 1. Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5
 
 Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable
+
+## 2. Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI - The Information
+Source: The Information (reputable)
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDZsSzd0ZWZReEhoNXhnMzkybzBXckFhUlViSGgtSkhsX2hzcEJhSGtaVTN4RFZDVXZjc2F0Q05iVE1CaTZ4aUo3RTAzb0dmWHM2ZGRHMW1ISmJiSm9QVWtOU0xWWnpiTkdWa3FMVkdwU3oySWNqTEQ5ampscTlKb3dVUTRfN0NVb0VVd3Vwcko5TXpUNVJFdWpaWVFGVUVHVXAwRg?oc=5
+
+Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI The Information
 
 ## 3. Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable
 Source: Mashable (reputable)
