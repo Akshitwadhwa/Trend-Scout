@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T06:57:44.229428+00:00",
+  "updated_at": "2026-08-16T07:44:23.289597+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T06:30:37+00:00",
-      "age_hours": 0.5,
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T04:27:21+00:00",
-      "age_hours": 2.5,
+      "age_hours": 3.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -174,7 +174,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 27.4,
+      "age_hours": 28.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -306,7 +306,7 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T16:00:00+00:00",
-      "age_hours": 39.0,
+      "age_hours": 39.7,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
