@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-16T21:33:23.742212+00:00
+Updated: 2026-08-16T22:35:24.327754+00:00
 Memory window: 48 hours
 
 ## 1. Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI - The Information
