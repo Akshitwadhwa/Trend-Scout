@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-16T03:11:46.599746+00:00
+Updated: 2026-08-16T03:58:06.959279+00:00
 Memory window: 48 hours
 
 ## 1. Samsung, SK Hynix HBM4 hiring war drains South Korea's chip design talent - digitimes
