@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T17:32:45.714139+00:00",
+  "updated_at": "2026-08-16T18:45:53.404490+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
+      "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T17:51:03+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019 - TechCrunch",
       "what_happened": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019 TechCrunch",
@@ -9,7 +20,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-16T16:53:51+00:00",
-      "age_hours": 0.6,
+      "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "WSJ",
       "source_level": "reputable",
       "published_at": "2026-08-16T16:03:00+00:00",
-      "age_hours": 1.5,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -201,17 +212,6 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
-      "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T19:30:46+00:00",
-      "age_hours": 9.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - The Information",
       "what_happened": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal The Information",
       "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkdfbWl5THQ1b0hjNk5zS1EyYU9iUXJQXzR1YVE3Z1dxTU9yN1JlX2wtNXZUV3gyVVBndUlzYXNnZ3A1TzJBcjZ2UklCY3Mza3hoNXcyTGl3c1ZNNVd1aTc1YUlfVDEtVzdfMDNyb296N1hGaXNqSE13YnRYaDhsOHNLM3MwWWRPU3c1blJxMFZfVUlmcWdlbU12MWxaQmxRRWppVnFpZHlCRDhk?oc=5",
@@ -252,6 +252,17 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T14:22:54+00:00",
       "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M - TechCrunch",
+      "what_happened": "Every fusion startup that has raised over $100M TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1dPUDNDQzRUdVlxRTBHOHh5WWxWX2o4V2ZMaU5sYmdnTzk2emlhWndyZHdnRThUTmIwWHFROU5xY0NPTVFpTWo2eHZCWGFYRE9hY2lWOHN3aVVLMmd3cjVVUkstNGNEMXFaVXFhV1R0M0N0ckcwdW1SWnNFTGh6Qk0wcVhrTENh?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-15T13:15:20+00:00",
+      "age_hours": 29.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T02:48:00+00:00",
       "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips - WSJ",
-      "what_happened": "Exclusive | U.S. Urges Apple Not to Buy Chinese Memory Chips WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hZ0M2YXNFR3B2bVc3cHNlYU9PR25HR3hLdDFBRmgya0tUcXdIVHBBVDk3b2p1UzMzUHliWkxtTE5XYnROVWIwUGNWZU9RSU9MSjc4TEVBTnhFWDhMeGtLdUN6UF9sNTNyOEtYUkdlbw?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T01:00:00+00:00",
-      "age_hours": 10.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
