@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-16T20:36:30.366738+00:00",
+  "updated_at": "2026-08-16T21:33:23.742212+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI - The Information",
+      "what_happened": "Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDZsSzd0ZWZReEhoNXhnMzkybzBXckFhUlViSGgtSkhsX2hzcEJhSGtaVTN4RFZDVXZjc2F0Q05iVE1CaTZ4aUo3RTAzb0dmWHM2ZGRHMW1ISmJiSm9QVWtOU0xWWnpiTkdWa3FMVkdwU3oySWNqTEQ5ampscTlKb3dVUTRfN0NVb0VVd3Vwcko5TXpUNVJFdWpaWVFGVUVHVXAwRg?oc=5",
+      "source_name": "The Information",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T21:04:00+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
+      "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T20:05:33+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
       "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
@@ -9,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T17:51:03+00:00",
-      "age_hours": 1.7,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +42,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-16T16:53:51+00:00",
-      "age_hours": 3.7,
+      "age_hours": 4.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -54,17 +76,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-16T14:48:00+00:00",
       "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
-      "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-16T14:02:01+00:00",
-      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T02:54:48+00:00",
       "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Modi Vows Chip Plants, Nuclear Reactors in India Growth Push - Bloomberg",
-      "what_happened": "Modi Vows Chip Plants, Nuclear Reactors in India Growth Push Bloomberg",
-      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZDQ0NEYydzdaVTFOUUJOVFJuWGVaNC16MkVScEN6Q2djVC14VnVrTmIwcU9ucklVOEVhZDRUbkl3YTVYTDRYT2pObDFaTjJyNHBoR3BmMG9uam13cDFydFhLRnZmaGxxZHZxZ05oVXhSTXdOejZXc3FJWTVrTGZtcGJrWHBTTzNUMXRKMndOSkpPWlN1czI2VjgzOEYwek5ud1ctbEx3TlJwSm41ekl3?oc=5",
-      "source_name": "Bloomberg",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T02:48:00+00:00",
-      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
