@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-16T12:59:08.521157+00:00
+Updated: 2026-08-16T13:43:59.228704+00:00
 Memory window: 48 hours
 
 ## 1. Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware
@@ -167,17 +167,17 @@ URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1
 
 Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center WSJ
 
-## 28. Multiple redirect URIs and token refresh for OAuth apps - github.blog
-Source: github.blog (primary)
-URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5
-
-Multiple redirect URIs and token refresh for OAuth apps github.blog
-
-## 29. Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog
+## 28. Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog
 Source: The GitHub Blog (primary)
 URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5
 
 Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog
+
+## 29. Multiple redirect URIs and token refresh for OAuth apps - github.blog
+Source: github.blog (primary)
+URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5
+
+Multiple redirect URIs and token refresh for OAuth apps github.blog
 
 ## 30. Nvidia discloses $21bn stake in SpaceX - Financial Times
 Source: Financial Times (reputable)

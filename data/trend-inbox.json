@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T12:59:08.521157+00:00",
+  "updated_at": "2026-08-16T13:43:59.228704+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source_name": "Tom's Hardware",
       "source_level": "reputable",
       "published_at": "2026-08-16T12:40:00+00:00",
-      "age_hours": 0.3,
+      "age_hours": 1.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:59:22+00:00",
-      "age_hours": 2.0,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:55:04+00:00",
-      "age_hours": 2.1,
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:53:20+00:00",
-      "age_hours": 2.1,
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +53,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:00:19+00:00",
-      "age_hours": 3.0,
+      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -251,7 +251,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 33.4,
+      "age_hours": 34.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -300,6 +300,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog",
+      "what_happened": "Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
+      "source_name": "The GitHub Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-14T22:43:44+00:00",
+      "age_hours": 39.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Multiple redirect URIs and token refresh for OAuth apps - github.blog",
       "what_happened": "Multiple redirect URIs and token refresh for OAuth apps github.blog",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
@@ -307,17 +318,6 @@
       "source_level": "primary",
       "published_at": "2026-08-14T22:43:44+00:00",
       "age_hours": 38.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog",
-      "what_happened": "Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-08-14T22:43:44+00:00",
-      "age_hours": 36.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
