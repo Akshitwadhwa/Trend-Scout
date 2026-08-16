@@ -2,20 +2,20 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-16T13:43:59.228704+00:00
+Updated: 2026-08-16T14:36:47.938717+00:00
 Memory window: 48 hours
 
-## 1. Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware
-Source: Tom's Hardware (reputable)
-URL: https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5
-
-Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning Tom's Hardware
-
-## 2. Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable
+## 1. Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5
 
 Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable
+
+## 2. Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware
+Source: Tom's Hardware (reputable)
+URL: https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5
+
+Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning Tom's Hardware
 
 ## 3. Apple issues new round of spyware alerts to iPhone users: What to do if you got one - The Indian Express
 Source: The Indian Express (reputable)
@@ -167,17 +167,17 @@ URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1
 
 Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center WSJ
 
-## 28. Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog
-Source: The GitHub Blog (primary)
-URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5
-
-Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog
-
-## 29. Multiple redirect URIs and token refresh for OAuth apps - github.blog
+## 28. Multiple redirect URIs and token refresh for OAuth apps - github.blog
 Source: github.blog (primary)
 URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5
 
 Multiple redirect URIs and token refresh for OAuth apps github.blog
+
+## 29. Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog
+Source: The GitHub Blog (primary)
+URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5
+
+Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog
 
 ## 30. Nvidia discloses $21bn stake in SpaceX - Financial Times
 Source: Financial Times (reputable)
