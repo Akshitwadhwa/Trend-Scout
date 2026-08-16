@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-16T11:32:51.269919+00:00",
+  "updated_at": "2026-08-16T12:59:08.521157+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Google reportedly taps AMD to design next-generation TPU \u2014 hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware",
+      "what_happened": "Google reportedly taps AMD to design next-generation TPU \u2014 hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T12:40:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
       "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
@@ -9,7 +20,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:59:22+00:00",
-      "age_hours": 0.6,
+      "age_hours": 2.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -20,7 +31,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:55:04+00:00",
-      "age_hours": 0.6,
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:53:20+00:00",
-      "age_hours": 0.7,
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -42,7 +53,7 @@
       "source_name": "South China Morning Post",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:00:19+00:00",
-      "age_hours": 1.5,
+      "age_hours": 3.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -240,7 +251,7 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 32.0,
+      "age_hours": 33.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -289,6 +300,17 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
+      "title": "Multiple redirect URIs and token refresh for OAuth apps - github.blog",
+      "what_happened": "Multiple redirect URIs and token refresh for OAuth apps github.blog",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-14T22:43:44+00:00",
+      "age_hours": 38.3,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
       "title": "Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog",
       "what_happened": "Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
@@ -307,28 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-14T22:28:02+00:00",
       "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Meta confirms its AI model escaped containment, hacked third party - Mashable",
-      "what_happened": "Meta confirms its AI model escaped containment, hacked third party Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnRzSzFhRXYxRWU3ZTQyZEM3d3BkYWJQNEh2V01UU2lBY3RIaWdaMWVjUnFGOTlnTVhTTDFvcFhzWEtyd0JJeXVGNktCQU44Zk1PeTdfSUM3ZXJGU09fUUV0dEplQ3dpNEJ0Znh0TWNjTE1WYnAyOUlvSzY2b0pXdWFxazFlQQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T22:21:26+00:00",
-      "age_hours": 7.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter - CNBC",
-      "what_happened": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOczZFNXoxeDBQS1Y4T3ZvdW96QzNlUlBGOWZ3WEtqbDZXaTc5MTZESDJyRTNha1F3WWhwdHNfYXd5RDhqR2psbjFYRWZsR2tJNmVBc1J6THl2cWt0TFduRHRySG5YR250N1hQUkdKLUNHd1hZM2wxbkNRWlJWZ25UVHpFa0Q5bmUteGJ4bjh6c1IyY1lHZlBwMUMzLW5YS09sQ21oN1F3aGTSAa4BQVVfeXFMT2ZZMHJZWGxvZ1FCZTQ4SVFmUVJqck5xTGdLNzNOYjRSYjRIU1V1OHNvM2lqQnpKQWYzWGVIbGpsNTFpWE1mTHcyNmZfWDBHUnVhMm11NzBjbGF3Wk1WZ0FnVjhmVjBOZXk3a09aZ1R4eFJqUHhwUmY2VXg5ckdzOGR4YTF6X1BLY1hSd2hsbWd1NnJfZ093cXY0MkpMeFEzbUFFRXByVlRzNnpzM3dB?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-14T21:45:19+00:00",
-      "age_hours": 0.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
