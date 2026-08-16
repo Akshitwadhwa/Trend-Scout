@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-16T15:34:22.416704+00:00",
+  "updated_at": "2026-08-16T16:41:12.078589+00:00",
   "retention_hours": 48,
   "items": [
     {
       "title": "Engineers over lawyers? Chip boom reshapes K-drama, dating market - The Korea Times",
       "what_happened": "Engineers over lawyers? Chip boom reshapes K-drama, dating market The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUJPSFM3bC1Bc1FzWDlzTUNKZUpoMjBWeEFXdjhfakxIZWZrc0V5RW5IUlVvUnplQngtTi1YMFpNcm9IVzUzeHNCb2lUSVl3OTh1a0JkcUw1TkZNNjVZYjFuNk12THJ2aGxwNmVxMTNGcU1UWmx1U0xZalJYOTlhd0h3ODRGQ1hMaVZLalNCeDcyMWNSejQzTUFFUEhXZER0aVpmc0dmbklFQXBERldicERtbExtck80RGVxY9IBwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Zw?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Z9IBwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Zw?oc=5",
       "source_name": "The Korea Times",
       "source_level": "reputable",
       "published_at": "2026-08-16T15:05:00+00:00",
-      "age_hours": 0.5,
+      "age_hours": 1.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T14:02:01+00:00",
-      "age_hours": 1.5,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -53,7 +53,7 @@
       "source_name": "The Indian Express",
       "source_level": "reputable",
       "published_at": "2026-08-16T10:55:04+00:00",
-      "age_hours": 4.7,
+      "age_hours": 5.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -322,13 +322,13 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog",
-      "what_happened": "Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog",
+      "title": "Multiple redirect URIs and token refresh for OAuth apps - github.blog",
+      "what_happened": "Multiple redirect URIs and token refresh for OAuth apps github.blog",
       "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5",
-      "source_name": "The GitHub Blog",
+      "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-08-14T22:43:44+00:00",
-      "age_hours": 40.8,
+      "age_hours": 42.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }

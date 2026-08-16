@@ -2,12 +2,12 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-16T15:34:22.416704+00:00
+Updated: 2026-08-16T16:41:12.078589+00:00
 Memory window: 48 hours
 
 ## 1. Engineers over lawyers? Chip boom reshapes K-drama, dating market - The Korea Times
 Source: The Korea Times (reputable)
-URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUJPSFM3bC1Bc1FzWDlzTUNKZUpoMjBWeEFXdjhfakxIZWZrc0V5RW5IUlVvUnplQngtTi1YMFpNcm9IVzUzeHNCb2lUSVl3OTh1a0JkcUw1TkZNNjVZYjFuNk12THJ2aGxwNmVxMTNGcU1UWmx1U0xZalJYOTlhd0h3ODRGQ1hMaVZLalNCeDcyMWNSejQzTUFFUEhXZER0aVpmc0dmbklFQXBERldicERtbExtck80RGVxY9IBwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Zw?oc=5
+URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Z9IBwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Zw?oc=5
 
 Engineers over lawyers? Chip boom reshapes K-drama, dating market The Korea Times
 
@@ -179,8 +179,8 @@ URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2dNNzBhM1pEcGdMRXVRN1
 
 Exclusive | Nvidia Downsizes Plans for $250 Billion Guarantee of OpenAI Data Center WSJ
 
-## 30. Multiple redirect URIs and token refresh for OAuth apps - The GitHub Blog
-Source: The GitHub Blog (primary)
+## 30. Multiple redirect URIs and token refresh for OAuth apps - github.blog
+Source: github.blog (primary)
 URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQMVBoajBrR1hRN0xCYnVfTTlVbzlpWFBFbHRGaEVHVHdJWjdHOG5NU2xOVVNOTzFMVG16WmlfVFBmcGZ5XzVibFVwY090YjFWcDBacDRJT3VJaVU3MFNBcm9XRXhZbEZoZm1LZGEyS193T3k3d0dmTlY1U2s4Rm5Id0R2WnliN0hvN0lUS1l2MXNHZF9pRk5wb3RmMGs0QQ?oc=5
 
-Multiple redirect URIs and token refresh for OAuth apps The GitHub Blog
+Multiple redirect URIs and token refresh for OAuth apps github.blog
