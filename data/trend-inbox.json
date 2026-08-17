@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T04:56:54.266096+00:00",
+  "updated_at": "2026-08-17T05:48:33.136570+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,17 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable",
+      "what_happened": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T05:07:09+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Apple reportedly builds China-specific AI model with Alibaba as Qwen partnership deepens - digitimes",
@@ -31,7 +42,7 @@
       "source_name": "India Today",
       "source_level": "reputable",
       "published_at": "2026-08-17T03:06:52+00:00",
-      "age_hours": 1.8,
+      "age_hours": 2.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -43,17 +54,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-17T02:08:27+00:00",
       "age_hours": 2.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable",
-      "what_happened": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-17T02:06:28+00:00",
-      "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },

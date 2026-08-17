@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-17T04:56:54.266096+00:00
+Updated: 2026-08-17T05:48:33.136570+00:00
 Memory window: 48 hours
 
 ## 1. Samsung Announces Partnership With Call of Duty®: Modern Warfare® 4
@@ -11,29 +11,29 @@ URL: https://news.samsung.com/global/samsung-announces-partnership-with-call-of-
 
 Samsung Electronics today announced an exclusive partnership with Activision as the official TV, monitor, soundbar, and Wi-Fi speaker of Call of Duty: Modern Warfare 4, the latest title in one of the world’s largest first-person shooter (FPS) franchises. The collaboration brings Call of Duty together with Samsung’s premium display and connected gaming technologies to give […]
 
-## 2. Apple reportedly builds China-specific AI model with Alibaba as Qwen partnership deepens - digitimes
+## 2. Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5
+
+Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable
+
+## 3. Apple reportedly builds China-specific AI model with Alibaba as Qwen partnership deepens - digitimes
 Source: digitimes (reputable)
 URL: https://news.google.com/rss/articles/CBMifkFVX3lxTFBtdm9LY0pPRHY0Q1JrdU9IQjNDSm9FLUhnSkREZmpWczVqNG9meXh2SHQ1dklhZXZGb0k0cHBINS1pdmxidmZ0OVRuTWhTZjYtakdwN3NuVDIxUmhZZjZ0NzBOQ2FlRWFqT3dyUHpDNUZxc1IybXFoMk00VTdiZw?oc=5
 
 Apple reportedly builds China-specific AI model with Alibaba as Qwen partnership deepens digitimes
 
-## 3. OpenAI disbands team responsible for checking risk levels of AI models, report says - India Today
+## 4. OpenAI disbands team responsible for checking risk levels of AI models, report says - India Today
 Source: India Today (reputable)
 URL: https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOF9fS0wtbnROb1hUWDNiOTVGNlY2WWdfeGRiODVWTmV2RU83U3JJbUV3MVVQZ01fY2FoRWJRbVUyUHJkNWJfam9DaENiZS1SVGNkRTNCYS1MU3RaVDdLdzNGN2ROekhKekZKM1pkakU2ZTcxRG9oWFhGdXpVQkFBYXlKZzktUFJDRjNScnMycG9xWHpoYlhlQl9ZQ09MeDVMUjJFX2VaZnJwaHAyTmp0V1VRZzg1cFJyUmctQTBLVndadzFwbVk2YUtYVTdzUkxncGxQTHp2X0g5T1Q0a1ptbGRrYw?oc=5
 
 OpenAI disbands team responsible for checking risk levels of AI models, report says India Today
 
-## 4. Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable
+## 5. Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5
 
 Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable
-
-## 5. Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5
-
-Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable
 
 ## 6. Modi pledges more chip plants, mass AI training, and an export push in Independence Day address - digitimes
 Source: digitimes (reputable)
