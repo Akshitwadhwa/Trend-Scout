@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T04:00:46.710552+00:00",
+  "updated_at": "2026-08-17T04:56:54.266096+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,13 +14,24 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
+      "title": "Apple reportedly builds China-specific AI model with Alibaba as Qwen partnership deepens - digitimes",
+      "what_happened": "Apple reportedly builds China-specific AI model with Alibaba as Qwen partnership deepens digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtdm9LY0pPRHY0Q1JrdU9IQjNDSm9FLUhnSkREZmpWczVqNG9meXh2SHQ1dklhZXZGb0k0cHBINS1pdmxidmZ0OVRuTWhTZjYtakdwN3NuVDIxUmhZZjZ0NzBOQ2FlRWFqT3dyUHpDNUZxc1IybXFoMk00VTdiZw?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T03:14:02+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "OpenAI disbands team responsible for checking risk levels of AI models, report says - India Today",
       "what_happened": "OpenAI disbands team responsible for checking risk levels of AI models, report says India Today",
       "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOF9fS0wtbnROb1hUWDNiOTVGNlY2WWdfeGRiODVWTmV2RU83U3JJbUV3MVVQZ01fY2FoRWJRbVUyUHJkNWJfam9DaENiZS1SVGNkRTNCYS1MU3RaVDdLdzNGN2ROekhKekZKM1pkakU2ZTcxRG9oWFhGdXpVQkFBYXlKZzktUFJDRjNScnMycG9xWHpoYlhlQl9ZQ09MeDVMUjJFX2VaZnJwaHAyTmp0V1VRZzg1cFJyUmctQTBLVndadzFwbVk2YUtYVTdzUkxncGxQTHp2X0g5T1Q0a1ptbGRrYw?oc=5",
       "source_name": "India Today",
       "source_level": "reputable",
       "published_at": "2026-08-17T03:06:52+00:00",
-      "age_hours": 0.9,
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-17T02:08:27+00:00",
-      "age_hours": 1.9,
+      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T13:15:20+00:00",
       "age_hours": 30.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "NASA\u2019s new AI model can predict Sun's storm-causing regions up to 12 hours before they appear - Moneycontrol.com",
-      "what_happened": "NASA\u2019s new AI model can predict Sun's storm-causing regions up to 12 hours before they appear Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUFQNU5PS1F3U2lrTXVBUmYxT2E1ajRiWXZmOXY3cXU5aE5nRHk5VGd5WkpBZEo1SDhYWUgwelZVZ014cVVzd1pRZVJHeUE0TEp3RXBXXzJSNUtvdWlFYnBqbDNiMHRFWkt6Tk9yZlBTSndiSUVlcmhpTl81VEFWWkEyWGJNeG9sTEZUNUx1VjhtNGk3NExMVlNwVHlJUHN0YkFDRHRscUV2TVlXYzQ0QU1XLWhEbkR2TU5HelFlTlNZUC1McHpPR2NrRDhsN1A3emZ6a1prTkYwT182bU5nUVhLVlphQzTSAewBQVVfeXFMUE15YUcxTHVLYU8zdlFWZkJtRUd5bkVtZ0xsd1NRS3VMUlptRXdEbUxlYnFBakxadXN6a05hbE9ocm55bXBQZnVyTEVna09tYjlaY0t0cUdVRDlMaEM5S2hNVWVOOXh3SEl1dmV0TGRsNk1sU2RZQVRBT0hHQUc3WEo2dWZsZFhYd3ZYcUdiNV9KWjFHdVdEbUx3aWdDbU1aQWJpbDU0Q0NFbngxNHN1UDNlYWhBTmlNT21uRUNITHl0QlVuU2NHcDBPVjduZnFWSDBDUlNCRDNMTW1YRDM4NUdMVjR1QXpGNWl2SXA?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T12:37:31+00:00",
-      "age_hours": 16.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
