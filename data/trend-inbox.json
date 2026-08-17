@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-17T08:59:32.785623+00:00",
+  "updated_at": "2026-08-17T09:56:01.006173+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "The Hottest AI Models Aren't the Ones Developers Actually Use - Business Insider",
+      "what_happened": "The Hottest AI Models Aren't the Ones Developers Actually Use Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDhRN2xVX2FFS1pLUmVMQ0hMbU1QMlM3Q2wwUnF1dklhNkNaNXB1aUZaSTYyRU5ab1p0QzJuc0tpMHlTYWJXanpCTkIyUGx6TmdXTVcwWHlKTnlfRWVNb2E0aWdyNjFNT29UcmxkdWxoYjI0NTdBSk1Ncmpjc0plSlBn?oc=5",
+      "source_name": "Business Insider",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T09:20:02+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "CXMT tops 4 trillion yuan as global memory rally lifts China\u2019s chip champion - South China Morning Post",
+      "what_happened": "CXMT tops 4 trillion yuan as global memory rally lifts China\u2019s chip champion South China Morning Post",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRDkycWpsMU1sNEFlemRsWVI4STJQMWFHRGpaN1Q4UFdPRmRuUktqNF9UVmxnbm9YSzJ2TW5OaVJMU3hvVXdIS1d6bUpicVFXYWZDM0VCYU9fTUoxT2tsc2lmQzhjQ0hTNGZ0WmJqZU53WnllandDUVB1VFVjQjU2ZkFlT2xsOElzdTRWVHlYbmh1ZTlidnpJVkl6Qm10cFVsLU9PRkVwWThHdHY5Ty01Nzk5dnY1MTRITXfSAboBQVVfeXFMTkRGNk1fY0l2dzdsa0E1cnd5V1ZLZGJlaHJZTDc3TWk3M2k0azNmSk9GdUU0T0M1ODBFUWwwdjN3V1pzSDZVRjFQQ0NUY01vOFFzamo3QTJ3dUJWNkZGWjJHUG83Qk1RVWFfdzRfOFFqN2tNZ2xPdXVaazdzZzBHMVdNM0Z4TTVoSXlSQTFscWt6MjhRSFFuZjYwSmRIY3dhRlJhUzd0RVZ6RWcxLXc4VGkyYVZGQ2hXZUVR?oc=5",
+      "source_name": "South China Morning Post",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T09:00:17+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Stop choosing between AI models and ask them all with this $40 lifetime tool - Mashable",
+      "what_happened": "Stop choosing between AI models and ask them all with this $40 lifetime tool Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOam9ka3J1Y1YwVkFHNkdnWE40dHRhUU10UlB1anppS21RR2VqTC1IV0N4aDRmbFV2RUlFMkVOU01MQWk2LW4zdUlaY1NuU3VJV2FlNGRIV25fSXBGTGVQbUdlTXVGb0w2Mjk2WW5iWnlGeURZMzBPSDJNWHQ5dmhMMlMzRmY?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T09:00:00+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Chinese yuan could be Beijing's key bargaining chip: Pinpoint Asset Management - CNBC",
       "what_happened": "Chinese yuan could be Beijing's key bargaining chip: Pinpoint Asset Management CNBC",
@@ -130,7 +163,7 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-16T16:53:51+00:00",
-      "age_hours": 14.3,
+      "age_hours": 17.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T20:16:56+00:00",
       "age_hours": 1.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal - The Information",
-      "what_happened": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal The Information",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRkdfbWl5THQ1b0hjNk5zS1EyYU9iUXJQXzR1YVE3Z1dxTU9yN1JlX2wtNXZUV3gyVVBndUlzYXNnZ3A1TzJBcjZ2UklCY3Mza3hoNXcyTGl3c1ZNNVd1aTc1YUlfVDEtVzdfMDNyb296N1hGaXNqSE13YnRYaDhsOHNLM3MwWWRPU3c1blJxMFZfVUlmcWdlbU12MWxaQmxRRWppVnFpZHlCRDhk?oc=5",
-      "source_name": "The Information",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T19:12:00+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" - Axios",
-      "what_happened": "Anthropic sees AI risks rising, no plan to release stronger \"Model 2\" Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WbTFuU3NVRExHd2I4UXlsdFBfdFl6dFBOZEE1dHhPenVYTEtqZ1FnQXcwZFU0MHNxY1ZYQnZrcl93cmY2clNhR25LZXVVNXdhejFVWkRVSlRJREZQV3NpNUI4dDZ4YklTVlE?oc=5",
-      "source_name": "Axios",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T17:51:17+00:00",
-      "age_hours": 5.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out \u2014prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD - Tom's Hardware",
-      "what_happened": "Grab this Nvidia RTX 5070 Ti gaming PC for $2,099 before it sells out \u2014prebuilt powerhouse includes a Core Ultra 7 265KF, 32GB RAM, 1TB SSD Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxONW1zOG5ZMXpzblNsYjluazJDaGQxR0RwVmxWRWhDNXNoLUU2UllYNkNVUndLSWxhYjJHcEZJVm16Q1p2X1NyS2VqU3htTEttUmEwaFVhTnJRajlwZkM4TVlRNUpTU0V2TXdrZGRrdTlDTXR1ZmUtWWVtZzNPaGx5SDhIeHRBYUVrbFhhQ056R3ZKS0ZWck90NmY5d00wZzFxQ056RHlkaVpUUkU3Q2lSUnMtS05PaGdQN0ZJbk41TkdWdTZyTXk0VzYtTEhCSXVOaTlwZlFBM1ZRR1BOV0lOOERxdTdjSVg0WDB0Z1ZKTzRXRjVReUVfY3dmVUFOdHZLLW5KMFFQRWVFcDBzNGtsQnBzRnE0UQ?oc=5",
-      "source_name": "Tom's Hardware",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T14:23:36+00:00",
-      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
