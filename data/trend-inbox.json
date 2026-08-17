@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T05:48:33.136570+00:00",
+  "updated_at": "2026-08-17T07:14:44.344889+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -12,6 +12,28 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "S.Korea\u2019s machine tool makers ride semiconductor investment boom - KED Global",
+      "what_happened": "S.Korea\u2019s machine tool makers ride semiconductor investment boom KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBza1JORkJlSGxnWmhCVFpyaTB2Z2Jua3FORGgwVEJMZk1hRndudndXRVpiVXc5LVBHOEFRX2pqZnRxLW9ibjFGVUIyUklvN0hRQ3FWT1FwLW5zTWVQR2NhVS00MGV4UU5JMmJGdw?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T07:10:48+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
+      "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T05:53:16+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable",
@@ -91,24 +113,13 @@
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable",
-      "what_happened": "Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-16T20:45:54+00:00",
-      "age_hours": 2.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
       "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019 - TechCrunch",
       "what_happened": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019 TechCrunch",
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5",
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-16T16:53:51+00:00",
-      "age_hours": 5.7,
+      "age_hours": 14.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T14:22:54+00:00",
       "age_hours": 0.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Every fusion startup that has raised over $100M - TechCrunch",
-      "what_happened": "Every fusion startup that has raised over $100M TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ1dPUDNDQzRUdVlxRTBHOHh5WWxWX2o4V2ZMaU5sYmdnTzk2emlhWndyZHdnRThUTmIwWHFROU5xY0NPTVFpTWo2eHZCWGFYRE9hY2lWOHN3aVVLMmd3cjVVUkstNGNEMXFaVXFhV1R0M0N0ckcwdW1SWnNFTGh6Qk0wcVhrTENh?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T13:15:20+00:00",
-      "age_hours": 30.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
