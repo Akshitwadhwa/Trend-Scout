@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-17T01:54:01.570144+00:00
+Updated: 2026-08-17T03:12:05.838441+00:00
 Memory window: 48 hours
 
 ## 1. Samsung Announces Partnership With Call of Duty®: Modern Warfare® 4
@@ -11,77 +11,77 @@ URL: https://news.samsung.com/global/samsung-announces-partnership-with-call-of-
 
 Samsung Electronics today announced an exclusive partnership with Activision as the official TV, monitor, soundbar, and Wi-Fi speaker of Call of Duty: Modern Warfare 4, the latest title in one of the world’s largest first-person shooter (FPS) franchises. The collaboration brings Call of Duty together with Samsung’s premium display and connected gaming technologies to give […]
 
-## 2. Modi pledges more chip plants, mass AI training, and an export push in Independence Day address - digitimes
-Source: digitimes (reputable)
-URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHU3RUZaejFhTFZndnFJb3h6eHpvcmllZWFXMkdtWVZDMnRRT2RyZUQybm1DcndCVDZYLVk0U0cwUlJ3M0NVRXItOVhFOFplcEVhMTdVVzRaOU1ERFZwQkxsQmtIZVd5SHJfbzJlTE1XSkNNWUV6Ry1tcGtPTnNRWG81WmFqOW8?oc=5
-
-Modi pledges more chip plants, mass AI training, and an export push in Independence Day address digitimes
-
-## 3. Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable
+## 2. Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5
 
 Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable
 
-## 4. OpenAI reportedly disbanded its preparedness team - The Verge
+## 3. Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5
+
+Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable
+
+## 4. Modi pledges more chip plants, mass AI training, and an export push in Independence Day address - digitimes
+Source: digitimes (reputable)
+URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHU3RUZaejFhTFZndnFJb3h6eHpvcmllZWFXMkdtWVZDMnRRT2RyZUQybm1DcndCVDZYLVk0U0cwUlJ3M0NVRXItOVhFOFplcEVhMTdVVzRaOU1ERFZwQkxsQmtIZVd5SHJfbzJlTE1XSkNNWUV6Ry1tcGtPTnNRWG81WmFqOW8?oc=5
+
+Modi pledges more chip plants, mass AI training, and an export push in Independence Day address digitimes
+
+## 5. OpenAI reportedly disbanded its preparedness team - The Verge
 Source: The Verge (reputable)
 URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5
 
 OpenAI reportedly disbanded its preparedness team The Verge
 
-## 5. Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI - The Information
+## 6. Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI - The Information
 Source: The Information (reputable)
 URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDZsSzd0ZWZReEhoNXhnMzkybzBXckFhUlViSGgtSkhsX2hzcEJhSGtaVTN4RFZDVXZjc2F0Q05iVE1CaTZ4aUo3RTAzb0dmWHM2ZGRHMW1ISmJiSm9QVWtOU0xWWnpiTkdWa3FMVkdwU3oySWNqTEQ5ampscTlKb3dVUTRfN0NVb0VVd3Vwcko5TXpUNVJFdWpaWVFGVUVHVXAwRg?oc=5
 
 Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI The Information
 
-## 6. Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable
+## 7. Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost - Mashable
 Source: Mashable (reputable)
 URL: https://news.google.com/rss/articles/CBMickFVX3lxTE56X0NUQ2VlQl9tczJ0cnRnQmRvcUYzU3JiSHZlNG5yQXhFUFUxY0lzNlZMMkt4TUN3OE5TVlJ1LUlSd0NLNWhPQ1hoQ1cyMmRGc2xzSnVSQ2IzaC1qLWwzOFlIYjhKbzlEbHVJV2RtQXd5dw?oc=5
 
 Samsung Galaxy S26 FE specs reportedly leak. What they are, how much it might cost Mashable
 
-## 7. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch
+## 8. Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ - TechCrunch
 Source: TechCrunch (reputable)
 URL: https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5
 
 Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ TechCrunch
 
-## 8. How AI Models From OpenAI and Anthropic Went Rogue - WSJ
+## 9. How AI Models From OpenAI and Anthropic Went Rogue - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxPazlkZTZjNzd1TU1YblhrODI1OUk5cklNMGp6Rm9HWVA5VDU1eWVNRFV2eVJacnVUNE5XY1NKN0tsVWpjeVFST00telpTdTE0cEpVZGh3Sm5YYk14NjhjN09NODRsenFvcjNHbEppTW00R0VKY3F5T1VVelk4RXJKcTNqSXhPY1FSWm9CLW02NFk?oc=5
 
 How AI Models From OpenAI and Anthropic Went Rogue WSJ
 
-## 9. Engineers over lawyers? Chip boom reshapes K-drama, dating market - The Korea Times
+## 10. Engineers over lawyers? Chip boom reshapes K-drama, dating market - The Korea Times
 Source: The Korea Times (reputable)
 URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Z9IBwgFBVV95cUxNNEw0ZEpwalRPTkhVNHc3cU9yU1g4dm9kVy1UaVN0c2k1bGJtT1BVd1JVZmpGUVl4a21maTBJSS1VZEtpT2VQZFU1UDN5dzdqM1NVbHFQYzFjR241NElza2lWVnhNWFFOdVozRE1yRTNlT25NNVhINlo5UlJCWEhrMXhtRE0yWUtZNXVZRUlfUzZTX05RTkxiTThJbng1aVIzVy1ZYVhzMGRCT1czVE11RnYxV2IyQmNETnR3Vl9PV0I3Zw?oc=5
 
 Engineers over lawyers? Chip boom reshapes K-drama, dating market The Korea Times
 
-## 10. The Bank of Nvidia, Dario Amodei’s Wife and More | Technology for Aug. 16 - WSJ
+## 11. The Bank of Nvidia, Dario Amodei’s Wife and More | Technology for Aug. 16 - WSJ
 Source: WSJ (reputable)
 URL: https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzVENnRzY2bTNha0s5c09GOWltSzByRkFSVjRFVTE0aUxBdFlPdkpXdW5YbEl1NUZwMWFENlZlV1U0Qkh1b2NrQ2FWVWFDLVpkY2ttdWF6WHVMWEFSdE8xNE5ZMHNwQQ?oc=5
 
 The Bank of Nvidia, Dario Amodei’s Wife and More | Technology for Aug. 16 WSJ
 
-## 11. Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware
+## 12. Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - Tom's Hardware
 Source: Tom's Hardware (reputable)
 URL: https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5
 
 Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning Tom's Hardware
 
-## 12. Apple issues new round of spyware alerts to iPhone users: What to do if you got one - The Indian Express
+## 13. Apple issues new round of spyware alerts to iPhone users: What to do if you got one - The Indian Express
 Source: The Indian Express (reputable)
 URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQS0VJM2VRNlZ3YjNrSl9SdVFQOF9kV3RSX1NEX1hBcGswdjhFeC03T1hDaHhmeXdlQXk5SmRoVVBhc012TTJ4NGExc19jLWpBQnY1ZTllOGhOdVN0WXFmd2tMNVFHY0toLWNmenVEQkE3a2FjUWVnZ3pXSHphSU4zQXQtLVZYVDdONXNQU0laeGt3WnYxSGFOTWM4NDU5azBUQUhaSHprNzRfUFdjUmc0OVR0MXVlanBoNVhKZ9IBwwFBVV95cUxQQldjandwZl9CV0pVUjhSUGJVZkh1QWFfcjV3YnFTenV0NFVBTEtnNGgwblQ3RTNLYVlKVmYzM0lxWThqMGRpME9KZkd2cC0xbF9TWHFKQWw5NzRaaUVUVXBZMWIwSUFVQTc4R2pUV3dRcURFYkhsVHRPUnFzSTVKZm9IV2pyZ1FqQWQwNEhwcXNjbjVZeUl6SDk2RGROaElHS1VWVS1ub0o3U0MyRG1scTJla21feVVyQXdwXzgzcWF3NGc?oc=5
 
 Apple issues new round of spyware alerts to iPhone users: What to do if you got one The Indian Express
-
-## 13. Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5
-
-Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable
 
 ## 14. Chinese brain-reading AI model may predict depression risk 4 years in advance - South China Morning Post
 Source: South China Morning Post (reputable)

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T01:54:01.570144+00:00",
+  "updated_at": "2026-08-17T03:12:05.838441+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,6 +14,28 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
+      "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
+      "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T02:08:27+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable",
+      "what_happened": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T02:06:28+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Modi pledges more chip plants, mass AI training, and an export push in Independence Day address - digitimes",
       "what_happened": "Modi pledges more chip plants, mass AI training, and an export push in Independence Day address digitimes",
       "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHU3RUZaejFhTFZndnFJb3h6eHpvcmllZWFXMkdtWVZDMnRRT2RyZUQybm1DcndCVDZYLVk0U0cwUlJ3M0NVRXItOVhFOFplcEVhMTdVVzRaOU1ERFZwQkxsQmtIZVd5SHJfbzJlTE1XSkNNWUV6Ry1tcGtPTnNRWG81WmFqOW8?oc=5",
@@ -21,17 +43,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-17T00:53:21+00:00",
       "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
-      "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-16T23:06:05+00:00",
-      "age_hours": 2.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -131,17 +142,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-16T10:55:04+00:00",
       "age_hours": 5.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature - Mashable",
-      "what_happened": "Samsung reportedly set to ditch this potential Galaxy S27 camera feature Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tLTBoRkRwZTRKVlQ5QjdXTE9BWnRnaDRXb1ZvQmdZaHg4M1l2aXlxaERTTzlNTThtM2wwT3pBZU95blNDWXpiam5jYUd6eGN0WnpyWEZvS0wzenRoNHRLV1BNMmduMjNDazFxWVFXdUlIRk9MVlpSSw?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-16T10:53:20+00:00",
-      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
