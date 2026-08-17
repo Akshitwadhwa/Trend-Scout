@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T07:14:44.344889+00:00",
+  "updated_at": "2026-08-17T08:00:43.963112+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -31,7 +31,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-17T05:53:16+00:00",
-      "age_hours": 1.4,
+      "age_hours": 2.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
