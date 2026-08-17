@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-16T23:33:02.881618+00:00",
+  "updated_at": "2026-08-17T01:54:01.570144+00:00",
   "retention_hours": 48,
   "items": [
+    {
+      "title": "Samsung Announces Partnership With Call of Duty\u00ae: Modern Warfare\u00ae 4",
+      "what_happened": "Samsung Electronics today announced an exclusive partnership with Activision as the official TV, monitor, soundbar, and Wi-Fi speaker of Call of Duty: Modern Warfare 4, the latest title in one of the world\u2019s largest first-person shooter (FPS) franchises. The collaboration brings Call of Duty together with Samsung\u2019s premium display and connected gaming technologies to give [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-announces-partnership-with-call-of-duty-modern-warfare-4",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-17T08:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Modi pledges more chip plants, mass AI training, and an export push in Independence Day address - digitimes",
+      "what_happened": "Modi pledges more chip plants, mass AI training, and an export push in Independence Day address digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHU3RUZaejFhTFZndnFJb3h6eHpvcmllZWFXMkdtWVZDMnRRT2RyZUQybm1DcndCVDZYLVk0U0cwUlJ3M0NVRXItOVhFOFplcEVhMTdVVzRaOU1ERFZwQkxsQmtIZVd5SHJfbzJlTE1XSkNNWUV6Ry1tcGtPTnNRWG81WmFqOW8?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T00:53:21+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
       "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
@@ -9,7 +31,18 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-16T23:06:05+00:00",
-      "age_hours": 0.4,
+      "age_hours": 2.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team - The Verge",
+      "what_happened": "OpenAI reportedly disbanded its preparedness team The Verge",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHRPU0RWLUlmU1FiVnYzSUoxN29PMnpHY3hmQ1pkUGREeDZZNmY5ZzA0R1hDdmgzWlBqNmNhaF9haVZ1YjM4SVlXRXRvSmQyZmFQTEdZMXhGalBMSXdwWVJGcTVhVExKZzFITG5yV2NDOVhfRGNoVUdhakFfYlc4emhZc0xLZTJZcnpVa1d4OTdoUVdmSVpR?oc=5",
+      "source_name": "The Verge",
+      "source_level": "reputable",
+      "published_at": "2026-08-16T21:32:56+00:00",
+      "age_hours": 4.4,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -296,39 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T09:16:06+00:00",
       "age_hours": 3.7,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more - Mashable",
-      "what_happened": "The best SSD deals this weekend: Live deals on Samsung, Lexar, Kingston, and more Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sNTBSYVV6UEUxOTJYX2RkOWVUOElId1JLMm8wSXJrS25GZ0c2dmJPRDVJeTZjOFdmdWtTWXdwOGNmOGc2bHJnN3gyMGdCdENxRjhXcGswVDVWZ3pzUUU4QS1HZlM1d1RMVUE?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T07:16:30+00:00",
-      "age_hours": 6.4,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "'This is just the beginning\u2019: 24-year-old man builds Rs 13 crore startup, buys Rs 1.8 crore apartment in... - Moneycontrol.com",
-      "what_happened": "'This is just the beginning\u2019: 24-year-old man builds Rs 13 crore startup, buys Rs 1.8 crore apartment in... Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQRTVIbEZQdE5iS013c05WTHh6eU5Fc0ZGOGJzRWVsenFqQVFLeTRoSEtGTDBKemVnTUFhcFlYQWRQd3FGN0JqUDE1Rk9INWR6X3pnbWx6Q1BIeS0yVHpqV0RubEQyeU5rQ2dGS0R1TmhaNWNyUGVwUm1keUNJUmp3YmdYRGJic1dJR1V5SzNwVDRZYXlDdVZ6b283cmtnZzhHNkVLdWxoYmo3SkIwQkNqZmZZWGxXbWtORnpLUmpLVnlWN0kzVFp1RTRpa21zOE1ZMUVscmx1TTJKUE1YYnVJMGlRM1NXekhvTjFZVTQ3TnBqcWg2d2dmUdIB_gFBVV95cUxPOFQ0R2RRem9vc3ltSURGNnhhZlJ1VjVNTEZxR2doQ1ZsQ0dOUk5LQ1hSNUZoOWN2TFZiZUdVRmp4bWRubVdOaXpGU09rRmFFMFVKMGRma184ZVM4VDQ1TTdNVUc4YnhrOXlmMjVMcklpN0NCTjVMd3llNjY3emdpUENCejZxczZQYkRmNGxRRHNsaUw2Q3VFdmVWWXhIeTJfVVZTVG1uMlRvenB0RmJmb3puRFpLblc0UjdER1BxOXVwclpKM0g0MHNoa1p3aFNsS1lYbGRxZERacVlWSVowSDN3bWRyMU1vSDB6aXN3MV83RG9NU3ZHYTM2Y19FUQ?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T03:34:01+00:00",
-      "age_hours": 36.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "India to build 5-8 more semiconductor plants in 7-8 years, PM Modi says - Moneycontrol.com",
-      "what_happened": "India to build 5-8 more semiconductor plants in 7-8 years, PM Modi says Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWY0bVl3SWh5d1ZDdlBza3Y1Zi1ENzRqUEs1RlBCdmlKZUJHZWQxMlcxWHA1a2dSV3J5RnF6anZZTkJqdklONWtERzE2VVJmcV9aT09Xd25WNnVxOFMwTmZJeDExV1d4TTdmOHBrdXp4aTF5YVhLSjJkNWFVUnpvR2JxcVVSeGhOOFJkZmNSQ1FPRXNSdkZSNFMzdGJDOUQ3UmZYRVc3UFVteFIwM05kZUg3STNRS2lqSlhLcmRSczctLVZQb2fSAcsBQVVfeXFMTVNud2MxSTlKUHFoVEY5bFdTOUtXYnV3VG9JWlJZdWo0Tk9WTWFhd1QxTjdFNTZZNTJEN1lmamgxWHZ1bmRkMGprRVBLZ21TSlJLMTZmY1JiQXRHNk12OUp6aGZuVDh6V2UzVTBOZFNjVVhrM05XclBBcF9iUWd1LWpkS3paQUJBaFpMSmVackM5ZG5PbDNvVFFFdTVFVV9WUzdUaTJNSjRDNjB3ZUtXdWRfUktMTnVBMDJQWXZxb3IxNnhBT25pQ0NSUE0?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T02:54:48+00:00",
-      "age_hours": 0.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
