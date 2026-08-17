@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T03:12:05.838441+00:00",
+  "updated_at": "2026-08-17T04:00:46.710552+00:00",
   "retention_hours": 48,
   "items": [
     {
@@ -14,13 +14,24 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
+      "title": "OpenAI disbands team responsible for checking risk levels of AI models, report says - India Today",
+      "what_happened": "OpenAI disbands team responsible for checking risk levels of AI models, report says India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOF9fS0wtbnROb1hUWDNiOTVGNlY2WWdfeGRiODVWTmV2RU83U3JJbUV3MVVQZ01fY2FoRWJRbVUyUHJkNWJfam9DaENiZS1SVGNkRTNCYS1MU3RaVDdLdzNGN2ROekhKekZKM1pkakU2ZTcxRG9oWFhGdXpVQkFBYXlKZzktUFJDRjNScnMycG9xWHpoYlhlQl9ZQ09MeDVMUjJFX2VaZnJwaHAyTmp0V1VRZzg1cFJyUmctQTBLVndadzFwbVk2YUtYVTdzUkxncGxQTHp2X0g5T1Q0a1ptbGRrYw?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-08-17T03:06:52+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more - Mashable",
       "what_happened": "Just $69.97 gets you lifetime access to ChatGPT, Gemini, and more Mashable",
       "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSkhzZXZkVkxYQ1l3Ulh4ekR3dnFjQ29kMmtkdnNheVNfa1pYQUViZEFZM3FtbVNDWERyZ1lkVndTcEFtSjJYTWE1MnR2cmRKYnNpaVpQZlVDOTl0RXNRbVJ1Mkwtbk5vMkNXWUV2RGpXSlA3TV9UT0dRRDBabENHY00ybnFtcFRHaGJXeQ?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-17T02:08:27+00:00",
-      "age_hours": 1.1,
+      "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -31,7 +42,7 @@
       "source_name": "Mashable",
       "source_level": "reputable",
       "published_at": "2026-08-17T02:06:28+00:00",
-      "age_hours": 1.1,
+      "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -318,17 +329,6 @@
       "source_level": "reputable",
       "published_at": "2026-08-15T12:37:31+00:00",
       "age_hours": 16.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google - Bloomberg",
-      "what_happened": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google Bloomberg",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkdXS05xRW1WQ2ItQmhUZEd1SVowVkJISVhwQ1Z5STF5dnJkV2pVRmExN1JoLXNEMkZKdGV1eGZnWnVvV2I1QllUZ3JJTktoeFdKa3JtY3NSMFlBRUYta3k5d2RJdnFzVUJIMGVGY2V0SThGTG94SlEzMl9KQWRsZkduN0RycGx1SjBGOVViQVNvbXE4TS1WdTU2MGhLNjhZLUtUVHM2WVF3ZGZKalBmOURR?oc=5",
-      "source_name": "Bloomberg",
-      "source_level": "reputable",
-      "published_at": "2026-08-15T09:16:06+00:00",
-      "age_hours": 3.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
