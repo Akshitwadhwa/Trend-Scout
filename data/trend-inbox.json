@@ -1,28 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:04:32.602957+00:00",
+  "updated_at": "2026-08-17T14:43:13.777146+00:00",
   "retention_hours": 2,
-  "items": [
-    {
-      "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts - TechCrunch",
-      "what_happened": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOanQtUUpXcmVJUWdkeW83dTZFV3RYamdMNUZxRGhacnFkMWdKWGpIWW1mNlY5Mlg3T2tITUpQUFpoVTk1bmJBX3JVLTB1N2l2THR1RkNpQi0xeUp6OWZxQ1pXYURYRUhROHFxbWFWRjJDQnFJN0hiMU9KbEJIQ2FoRnFDQl9qLW5zWTBmRFdpMHE5V1NhUWVOOGFmbnJ2eTRfYUxzMHJidXNPcDJIYXVqcjFZU01ZU0xoQVZoQXoyUUtzUU0tT0dtekxQT3pEQQ?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-17T13:00:19+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models - samsung.com",
-      "what_happened": "From Biosignals to Health Insights: Samsung Research\u2019s Work on Health Foundation Models samsung.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXlVeTlVZ1dNMXZNdWViZVBlMVBFSDlPZVZwTFN5emJidXFaQ29EcUUtMGpnSF9jaDRkSzNDX0dsZEFMUFRNazh2T2hFT0FfcHBHZk1CYlR0WGZLRUZFQTdVNXBIa1J2cXNvb0VDRkhKdUJfYVhsVWhRMjJNOUx3T3c0NkxLbzVJNkl3R1Rrb0llSUl3Tk4tcW9ZTU5WZ2ZKODRBT2NvX2FQV0ZldVE4ekpOSQ?oc=5",
-      "source_name": "samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-17T12:34:04+00:00",
-      "age_hours": 0.5,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    }
-  ]
+  "items": []
 }
