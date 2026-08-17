@@ -75,6 +75,11 @@ class WebFeedClient:
                 str(item.get("author_name", "")),
             ]
         ).lower()
+        # Broad tech keywords such as "chip" can match unrelated news (for
+        # example potato-chip food stories). Reject obvious non-tech matches
+        # before they reach verification and the Telegram draft inbox.
+        if any(term in haystack for term in ("potato chip", "potato chips", "junk food", "snack recipe")):
+            return False
         return any(keyword.lower() in haystack for keyword in self.settings.web_keywords)
 
     def fetch_reply_scout_items(

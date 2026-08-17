@@ -28,6 +28,7 @@ TOP_AI_ACCOUNT_HANDLES = [
     "ylecun",
     "demishassabis",
     "OpenAI",
+    "cursor_ai",
     "thsottiaux",
     "AnthropicAI",
     "GoogleDeepMind",
@@ -48,9 +49,10 @@ TOP_AI_ACCOUNT_HANDLES = [
 ]
 
 AI_RADAR_FEEDS = [
-    "https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20Claude%20OR%20ChatGPT%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=Google%20DeepMind%20OR%20Gemini%20OR%20Meta%20AI%20OR%20Llama%20OR%20xAI%20OR%20Grok%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=Kimi%20OR%20Moonshot%20AI%20OR%20DeepSeek%20OR%20Qwen%20OR%20Mistral%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20Claude%20OR%20ChatGPT%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Google%20DeepMind%20OR%20Gemini%20OR%20Meta%20AI%20OR%20Llama%20OR%20xAI%20OR%20Grok%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Kimi%20OR%20Moonshot%20OR%20DeepSeek%20OR%20Qwen%20OR%20Mistral%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Cursor%20AI%20OR%20Cursor%20Composer%20OR%20Cursor%20Grok%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://huggingface.co/blog/feed.xml",
 ]
 
@@ -58,7 +60,7 @@ AI_RADAR_KEYWORDS = [
     "openai", "chatgpt", "gpt", "anthropic", "claude", "google deepmind", "gemini",
     "meta ai", "llama", "xai", "grok", "kimi", "moonshot", "deepseek", "qwen",
     "mistral", "hugging face", "ai model", "model release", "api", "agent", "benchmark",
-    "open weights", "reasoning", "coding model", "multimodal",
+    "open weights", "reasoning", "coding model", "multimodal", "cursor", "cursor ai", "composer",
 ]
 
 NVIDIA_FEEDS = [
@@ -154,7 +156,7 @@ DEFAULT_STYLES = {
         "do not copy their wording, turn each signal into an original factual X post"
     ),
     "ai-radar": (
-        "current AI news, casual and sharp student developer voice, name the model or company, "
+        "current AI and developer-tool news, casual and sharp student developer voice, name the model or company, "
         "explain what changed and one honest implication, no hype, no fake benchmark claims"
     ),
     "india": (

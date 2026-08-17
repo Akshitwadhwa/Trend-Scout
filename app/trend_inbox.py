@@ -13,7 +13,7 @@ POST_READY_LEVELS = {"primary", "reputable", "web_researched"}
 class TrendInbox:
     """A small local memory of distinct, source-backed tech stories."""
 
-    def __init__(self, path: Path, retention_hours: int = 48) -> None:
+    def __init__(self, path: Path, retention_hours: int = 2) -> None:
         self.path = path
         self.retention_hours = max(1, retention_hours)
 
@@ -79,7 +79,7 @@ class TrendInbox:
             "Distinct post-ready stories saved locally. Nothing is posted automatically.",
             "",
             f"Updated: {payload.get('updated_at', '')}",
-            f"Memory window: {payload.get('retention_hours', 48)} hours",
+            f"Memory window: {payload.get('retention_hours', 2)} hours",
             "",
         ]
         for index, item in enumerate(payload.get("items", []), start=1):

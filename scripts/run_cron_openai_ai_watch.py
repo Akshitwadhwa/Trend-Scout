@@ -18,12 +18,12 @@ load_dotenv(ROOT_DIR / ".env")
 
 feeds = [
     "https://news.google.com/rss/search?q=OpenAI%20Codex%20OR%20ChatGPT%20agents%20OR%20AI%20agents%20when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=OpenAI%20product%20updates%20OR%20Codex%20developer%20tools%20OR%20coding%20agents%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=thsottiaux%20OR%20sama%20OpenAI%20Codex%20AI%20agents%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=Anthropic%20Claude%20agents%20developer%20tools%20model%20release%20when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=Google%20DeepMind%20Gemini%20AI%20model%20release%20developer%20tools%20when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=Nvidia%20AI%20chips%20cloud%20inference%20AI%20infrastructure%20when:2d&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://news.google.com/rss/search?q=AI%20startups%20funding%20India%20developers%20founders%20students%20when:7d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=OpenAI%20product%20updates%20OR%20Codex%20developer%20tools%20OR%20coding%20agents%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=thsottiaux%20OR%20sama%20OpenAI%20Codex%20AI%20agents%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Anthropic%20Claude%20agents%20developer%20tools%20model%20release%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Google%20DeepMind%20Gemini%20AI%20model%20release%20developer%20tools%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Nvidia%20AI%20chips%20cloud%20inference%20AI%20infrastructure%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=AI%20startups%20funding%20India%20developers%20founders%20students%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
 ]
 
 settings = load_settings()
@@ -38,6 +38,7 @@ settings = replace(
     enable_x_watchlist=False,
     enable_x_timeline=False,
     max_web_results=80,
+    verified_max_age_hours=2,
     web_feed_urls=feeds,
     web_keywords=[
         "OpenAI", "Codex", "ChatGPT", "agent", "AI agents", "coding agent", "developer tools",

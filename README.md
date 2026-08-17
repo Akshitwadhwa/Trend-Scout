@@ -8,7 +8,7 @@ It discovers recent, verifiable tech stories, saves a small trend inbox, and hel
 
 ## What is live now
 
-- Free public-source discovery runs hourly in GitHub Actions, even while the laptop is off.
+- Free public-source discovery runs every two hours in GitHub Actions, even while the laptop is off.
 - The cloud job saves a compact, deduplicated trend inbox to `data/trend-inbox.json`.
 - A local Hermes + Telegram setup can turn the saved stories into drafts and send **one draft per Telegram message** for easy copying.
 - You review, edit, and manually post, reply, or quote repost on X.
@@ -82,9 +82,9 @@ python scripts/scan_wearables_inbox.py
 
 It caches recent results locally, so repeated requests are fast and do not re-scan unnecessarily.
 
-## Free hourly trend inbox
+## Free two-hour trend inbox
 
-The workflow in `.github/workflows/cloud-trend-inbox.yml` runs once per hour and commits the latest free-source inbox back into the repository.
+The workflow in `.github/workflows/cloud-trend-inbox.yml` runs every two hours and commits only stories from the latest two-hour window back into the repository.
 
 To enable it in GitHub:
 
@@ -120,7 +120,7 @@ Hermes: refreshes the local wearable cache only for that request
 Telegram: receives source-grounded drafts one by one
 ```
 
-Hermes and Telegram are local in this setup. They work while the Mac is awake and connected to the internet. The hourly GitHub source scan continues while the Mac is off, but it cannot generate or deliver Telegram drafts until Hermes is available again.
+Hermes and Telegram are local in this setup. They work while the Mac is awake and connected to the internet. The two-hour GitHub source scan continues while the Mac is off, but it cannot generate or deliver Telegram drafts until Hermes is available again.
 
 See [HERMES_INTEGRATION.md](HERMES_INTEGRATION.md) for the local Hermes setup notes.
 
@@ -146,7 +146,7 @@ The system retrieves those preferences before drafting. Once you have a large se
 
 ## Optional local Ollama
 
-Ollama improves local draft generation, but it is not needed for the free hourly inbox.
+Ollama improves local draft generation, but it is not needed for the free two-hour inbox.
 
 ```env
 ENABLE_OLLAMA=true
@@ -175,7 +175,7 @@ ENABLE_OPENAI_RESEARCH=false
 ENABLE_OPENAI_DRAFTS=false
 ```
 
-X timeline scanning and OpenAI web research are optional extras. They are disabled by default and are not needed for the GitHub hourly inbox.
+X timeline scanning and OpenAI web research are optional extras. They are disabled by default and are not needed for the GitHub two-hour inbox.
 
 ## Output files
 

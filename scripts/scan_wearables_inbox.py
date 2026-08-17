@@ -67,7 +67,7 @@ def main() -> None:
         enable_openai_drafts=False,
     )
     result = build_workflow(settings).refresh_trend_inbox(
-        retention_hours=72,
+        retention_hours=2,
         inbox_filename="wearables-inbox.json",
         replace_existing=True,
     )

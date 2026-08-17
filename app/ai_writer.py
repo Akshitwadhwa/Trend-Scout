@@ -305,7 +305,7 @@ class TrendWriter:
             "For NVIDIA topics, look for specific angles around GTC/Computex, Jensen Huang, AI factories, RTX Spark/AI PCs, Vera, Rubin, Blackwell, NVLink, Spectrum, DGX, CUDA, inference costs, developer workflows, and India cloud/startup implications.\n"
             "For Tesla topics, look for specific angles around EV demand, Model Y/Model 3, Cybertruck, FSD, robotaxi, Optimus, charging/Supercharger, Megapack/energy, Tesla India, margins, delivery numbers, and auto-market implications.\n"
             "For layoffs and job-market content, avoid fearmongering. Focus on useful angles: skills, resilience, hiring signals, AI impact, market cycles, student strategy, and how builders can become harder to ignore.\n"
-            "Return a diverse set of categories when evidence supports it: Apple, Samsung, Wearables, Whoop, Smartwatches, Health tech, Consumer devices, NVIDIA, Tesla, EVs, Chips, AI infrastructure, Startups, Developer tools, AI, Claude, Codex, OpenAI, Layoffs, Careers, Hiring, Gaming, AR/VR.\n"
+            "Return a diverse set of categories when evidence supports it: Apple, Samsung, Cursor, Composer, Wearables, Whoop, Smartwatches, Health tech, Consumer devices, NVIDIA, Tesla, EVs, Chips, AI infrastructure, Startups, Developer tools, AI, Claude, Codex, OpenAI, Layoffs, Careers, Hiring, Gaming, AR/VR.\n"
             "Each opportunity must include a category field naming what it is about.\n"
             "Avoid generic evergreen topics. Do not invent facts beyond the source posts.\n"
             "Return valid JSON only with this exact shape:\n"
@@ -332,10 +332,19 @@ class TrendWriter:
             )
         joined_sources = "\n".join(lines)
         style_line = style.strip() or "casual, clear, opinion-led, natural student developer voice, no hype"
+        opportunity_number = int(opportunity.get("id", 0) or 0)
+        format_plan = (
+            "short reaction (90-140 characters)"
+            if opportunity_number % 5 == 1
+            else "full explainer (220-275 characters)"
+            if opportunity_number % 5 in (2, 0)
+            else "normal post (150-210 characters)"
+        )
         return (
             "Write one X post based on this opportunity.\n"
-            "Make the subject clear in the tweet: mention the specific lane when relevant, such as Apple, Samsung, Whoop, watches, health tech, wearables, NVIDIA, Tesla, EVs, chips, AI infrastructure, startups, developer tools, AI, layoffs, hiring, or careers.\n"
-            "Lead with the concrete fact, then add one honest thought about what is useful, overhyped, unclear, or worth watching. Keep it under 270 characters. Do not copy source wording or add fake specifics.\n"
+            "Make the subject clear in the tweet: mention the specific lane when relevant, such as Apple, Samsung, Cursor, Composer, Whoop, watches, health tech, wearables, NVIDIA, Tesla, EVs, chips, AI infrastructure, startups, developer tools, AI, layoffs, hiring, or careers.\n"
+            f"Use this assigned format for variety: {format_plan}. Do not default to the same fact-then-implication shape every time. You may instead open with a plain reaction, a concrete user impact, a useful contrast, or a short question, while keeping the facts clear. A longer post must add context for a non-expert; a short post must still contain one concrete fact.\n"
+            "Lead with the concrete fact or the assigned opening, then add one honest thought about what is useful, overhyped, unclear, or worth watching. Keep it under 280 characters. Do not copy source wording or add fake specifics.\n"
             "Tone rules: write like someone posting a quick thought after reading the news, not a newsletter or press release. Short normal sentences, lowercase, and a cautious personal opinion are fine. Avoid exaggerated claims, motivational language, generic questions, buzzwords, semicolons, and the template 'this is not X, it is Y'. Never invent personal experience.\n"
             "Return valid JSON only with this exact shape:\n"
             '{"draft":"final post text","notes":"brief reason this angle works"}\n\n'

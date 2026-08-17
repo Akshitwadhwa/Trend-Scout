@@ -85,7 +85,7 @@ REPUTABLE_PUBLICATIONS = {
 class VerifiedBriefBuilder:
     """Turns raw source items into a compact, auditable research brief."""
 
-    def __init__(self, max_age_hours: int = 72) -> None:
+    def __init__(self, max_age_hours: int = 2) -> None:
         self.max_age_hours = max(1, max_age_hours)
 
     def build(self, items: list[dict[str, Any]]) -> dict[str, Any]:
@@ -103,7 +103,11 @@ class VerifiedBriefBuilder:
             age_hours = self._age_hours(created_at, now)
             source_level, source_name = self._source_level(item)
             evidence = self._evidence(item, title)
-            eligible = age_hours is None or age_hours <= self.max_age_hours
+            # A "latest" brief must have a real publication timestamp.  An
+            # undated RSS/research record is not evidence that the story is
+            # current; allowing it through is what made old model releases
+            # look like today's news in Telegram.
+            eligible = age_hours is not None and age_hours <= self.max_age_hours
             briefs.append(
                 {
                     "title": title,
@@ -226,6 +230,8 @@ class VerifiedBriefBuilder:
         return max(0.0, (now - created_at).total_seconds() / 3600)
 
     def _verification_note(self, source_level: str, eligible: bool) -> str:
+        if not eligible and source_level != "discovery":
+            return "Publication time is missing or outside the freshness window; do not use for a latest-tech post."
         if not eligible:
             return "Too old for a latest-tech post; keep only as background."
         if source_level == "primary":

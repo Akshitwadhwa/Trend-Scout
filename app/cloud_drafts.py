@@ -30,13 +30,14 @@ class CloudDraftWriter:
         source_text = "\n\n".join(
             "\n".join(
                 [
+                    f"Story slot: {index}",
                     f"Title: {item.get('title', '')}",
                     f"What happened: {item.get('what_happened', '')}",
                     f"Source: {item.get('source_name', '')}",
                     f"URL: {item.get('source_url', '')}",
                 ]
             )
-            for item in topics[:5]
+            for index, item in enumerate(topics[:10], start=1)
         )
         prompt = (
             "Write exactly one original, self-contained X post for each source story below. "
@@ -52,10 +53,13 @@ class CloudDraftWriter:
             "- Avoid consultant language: 'significant shift', 'represents', 'landscape', 'leverage', 'transformative', 'game changer', 'the key takeaway', 'this shows', and 'not X but Y'.\n"
             "- Avoid emojis, hashtags, semicolons, engagement bait, fake urgency, and sentence templates such as 'the real question is'.\n"
             "- Use only supplied facts; do not make up numbers, capabilities, releases, or personal experience.\n"
-            "- Keep each post 160-270 characters.\n\n"
+            "- Do not make every post the same length or sentence shape. Follow this batch mix: slots 1 and 6 are short (90-140 characters); slots 2, 4, 7 and 9 are normal (150-210 characters); all remaining slots are fuller context (220-275 characters).\n"
+            "- Vary the opening across the batch: sometimes lead with the fact, sometimes a plain reaction, a useful contrast, a concrete user impact, or a short question. Do not reuse an opening pattern or the same company as the main subject more than once when other stories are available.\n"
+            "- Mix the editorial lens across the batch: global AI, India tech, Cursor/Composer and developer tools, hardware/chips, Tesla/EVs and mobility, robotics, consumer apps, gaming, cybersecurity, startups/business, and practical everyday use. If the source set lacks a category, do not invent one; use the closest available angle and vary the lens.\n"
+            "- A longer post must add context that helps a non-expert understand what changed. A short post should still contain a concrete fact, not a vague teaser.\n\n"
             "Creator voice profile (style calibration only; never copy its wording):\n"
             f"{voice_profile}\n\n"
-            "Return JSON only: {\"drafts\":[{\"title\":\"source title\",\"text\":\"tweet\",\"source_url\":\"url\"}]}.\n\n"
+            "Return JSON only: {\"drafts\":[{\"title\":\"source title\",\"text\":\"tweet\",\"source_url\":\"url\",\"category\":\"one short category\",\"length_band\":\"short|normal|full\",\"angle\":\"fact|reaction|contrast|impact|question\"}]}. Preserve story-slot order.\n\n"
             f"Stories:\n{source_text}"
         )
         response = requests.post(
@@ -72,11 +76,45 @@ class CloudDraftWriter:
         )
         response.raise_for_status()
         parsed = self._parse(response.json())
-        return [
-            item
-            for item in parsed
-            if item.get("text") and len(str(item["text"])) <= 280
-        ][: len(topics)]
+        return self._diversify(parsed, len(topics))
+
+    def _diversify(self, drafts: list[dict[str, Any]], limit: int) -> list[dict[str, Any]]:
+        """Keep malformed, duplicate, and visibly templated batches out of Telegram."""
+        selected: list[dict[str, Any]] = []
+        seen_text: set[str] = set()
+        seen_openings: set[str] = set()
+        seen_subjects: set[str] = set()
+        for item in drafts:
+            text = " ".join(str(item.get("text", "")).split()).strip()
+            if not text or len(text) > 280:
+                continue
+            normalized = text.casefold()
+            opening = " ".join(text.casefold().split()[:5])
+            title = str(item.get("title", "")).casefold()
+            subject = next((word for word in title.split() if len(word) >= 5), "")
+            if normalized in seen_text or opening in seen_openings:
+                continue
+            if subject and subject in seen_subjects and len(drafts) > limit:
+                continue
+            item = dict(item)
+            item["text"] = text
+            item.setdefault("length_band", self._length_band(len(text)))
+            selected.append(item)
+            seen_text.add(normalized)
+            seen_openings.add(opening)
+            if subject:
+                seen_subjects.add(subject)
+            if len(selected) >= limit:
+                break
+        return selected
+
+    @staticmethod
+    def _length_band(length: int) -> str:
+        if length <= 140:
+            return "short"
+        if length <= 210:
+            return "normal"
+        return "full"
 
     def _voice_profile(self) -> str:
         path = Path(self.settings.database_path).parent / "voice-profile.md"

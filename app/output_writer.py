@@ -47,7 +47,7 @@ class OutputWriter:
             "",
             "Read this before posting. Primary sources are publishable facts; discovery sources need another check.",
             "",
-            f"Freshness window: {verified_brief.get('max_age_hours', 72)} hours",
+            f"Freshness window: {verified_brief.get('max_age_hours', 2)} hours",
             f"Post-ready sources: {verified_brief.get('ready_count', 0)}",
             "Source mix: " + ", ".join(
                 f"{level} {count}"

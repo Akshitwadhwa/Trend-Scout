@@ -38,7 +38,7 @@ class Workflow:
         self.output_writer = output_writer
         self.researcher = researcher or OpenAIWebResearcher(settings)
         self.brief_builder = VerifiedBriefBuilder(
-            int(getattr(settings, "verified_max_age_hours", 72))
+            int(getattr(settings, "verified_max_age_hours", 2))
         )
         self._last_x_errors: list[str] = []
 
@@ -118,11 +118,11 @@ class Workflow:
     def refresh_trend_inbox(
         self,
         *,
-        retention_hours: int = 48,
+        retention_hours: int = 2,
         inbox_filename: str = "trend-inbox.json",
         replace_existing: bool = False,
     ) -> dict[str, Any]:
-        """Collect sources only; this hourly path never invokes the local writer."""
+        """Collect sources only; this two-hour path never invokes the local writer."""
         topic_query = self.db.get_topic_query(self.settings.topic_query)
         free_sources = self._collect_sources(topic_query)
         cloud_sources = self._openai_research_sources(topic_query)

@@ -17,12 +17,21 @@ from scripts.fresh import build_workflow, settings_for_mode
 # The cloud inbox is intentionally broad. Focused modes such as ai-radar,
 # wearables, or NVIDIA are run only when the creator explicitly asks for them.
 # Separate Google News queries make the free hourly scan less likely to become
-# an AI-only feed when one topic dominates the news cycle.
+# an AI-only feed when one topic dominates the news cycle. The wider mix also
+# covers technology that reaches people outside developer tooling: mobility,
+# robotics, energy, gaming, security, and India-specific launches.
 CLOUD_MIXED_FEEDS = [
     "https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20Gemini%20OR%20AI%20model%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=NVIDIA%20OR%20AMD%20OR%20GPU%20OR%20semiconductor%20OR%20chip%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=Apple%20OR%20Samsung%20OR%20smartphone%20OR%20wearable%20OR%20consumer%20tech%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=developer%20tools%20OR%20GitHub%20OR%20software%20release%20OR%20cybersecurity%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Cursor%20AI%20OR%20Cursor%20Composer%20OR%20coding%20agents%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Tesla%20OR%20EV%20OR%20robotaxi%20OR%20electric%20vehicle%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=robotics%20OR%20drones%20OR%20automation%20OR%20industrial%20robots%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=India%20tech%20startup%20UPI%20digital%20public%20infrastructure%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=gaming%20console%20PlayStation%20Xbox%20Nintendo%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=cybersecurity%20privacy%20data%20breach%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://ir.tesla.com/rss/news-releases.xml",
     "https://news.google.com/rss/search?q=tech%20startup%20OR%20funding%20OR%20antitrust%20OR%20technology%20regulation%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     # Official sources make the free inbox more useful on quiet news days.
     "https://www.apple.com/newsroom/rss-feed.rss",
@@ -33,9 +42,13 @@ CLOUD_MIXED_FEEDS = [
     "https://about.fb.com/feed/",
 ]
 CLOUD_MIXED_KEYWORDS = [
-    "openai", "anthropic", "gemini", "ai model", "nvidia", "amd", "gpu", "chip", "semiconductor",
-    "apple", "samsung", "smartphone", "wearable", "consumer tech", "developer tools", "github",
-    "software", "cybersecurity", "startup", "funding", "antitrust", "regulation",
+    # Avoid the bare word "chip": Google News also returns food stories such
+    # as potato chips. Keep the hardware terms specific enough for the inbox.
+    "openai", "anthropic", "gemini", "ai model", "nvidia", "amd", "gpu", "ai chip", "semiconductor",
+    "apple", "samsung", "smartphone", "wearable", "consumer tech", "developer tools", "github", "cursor", "composer",
+    "software", "cybersecurity", "privacy", "data breach", "startup", "funding", "antitrust", "regulation",
+    "tesla", "ev", "electric vehicle", "robotaxi", "charging", "battery", "robotics", "drones", "automation",
+    "india tech", "upi", "digital public infrastructure", "gaming", "playstation", "xbox", "nintendo",
 ]
 
 
@@ -63,10 +76,10 @@ def main() -> None:
     # The SQLite topic value can outlive a previous focused local run. The
     # scheduled cloud job must always use its own broad topic configuration.
     workflow.db.set_topic_query(settings.topic_query)
-    # Keep a rolling 48-hour source memory. A quiet hourly scan must never
-    # erase the previous verified stories, otherwise Telegram has nothing
-    # diverse to work with even though the scheduler itself succeeded.
-    scan = workflow.refresh_trend_inbox(retention_hours=48, replace_existing=False)
+    # Replace the inbox on every run. Telegram must never draft from a story
+    # that was left behind by a failed/stopped scheduler run. If this scan
+    # finds no verified stories, an empty inbox is safer than stale content.
+    scan = workflow.refresh_trend_inbox(retention_hours=2, replace_existing=True)
 
     print(json.dumps({
         "saved_topics": scan["inbox_count"],
