@@ -1,39 +1,5 @@
 {
-  "updated_at": "2026-08-18T08:52:16.367411+00:00",
+  "updated_at": "2026-08-18T10:45:16.127349+00:00",
   "retention_hours": 2,
-  "items": [
-    {
-      "title": "[Infographic] Not All Ice Is Created Equal: Discover the Difference With Samsung\u2019s Ice-Making Technology",
-      "what_happened": "When summer temperatures soar, there\u2019s nothing quite like a refreshing drink or chilled treat to cool down. From iced coffee and fizzy sodas to chilled smoothies and sorbets, ice is an essential ingredient in summer favorites. But different foods and drinks call for different types of ice. Small, crushed ice is ideal for quickly chilling [\u2026]",
-      "source_url": "https://news.samsung.com/global/infographic-not-all-ice-is-created-equal-discover-the-difference-with-samsungs-ice-making-technology",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-18T08:00:00+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "\u2018Warranty and care\u2019 Menu Simplifies Device Care for New Foldables",
-      "what_happened": "Samsung users may have noticed something new on their Galaxy Z foldables \u2014 the Warranty and care menu. Managing warranties and coverage for a Galaxy mobile phone, Galaxy Watch, Galaxy Buds, and Galaxy Tab can be a hassle. That\u2019s where Warranty and care comes in. Introduced with One UI 9, it brings essential device management [\u2026]",
-      "source_url": "https://news.samsung.com/global/warranty-and-care-menu-simplifies-device-care-for-new-foldables",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-18T08:00:00+00:00",
-      "age_hours": 0.9,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "LG AI Research, SK Telecom, Upstage survive next cut in national AI model project - The Korea Times",
-      "what_happened": "LG AI Research, SK Telecom, Upstage survive next cut in national AI model project The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRE8tdXhFNnlnTWxvSzJTS0taWjR4bjRSNC1lb0R1Nlh4c1htNXhIQzU5QUFVdWY1NTNBUVYzUmNiUWNneWVOaDNEdU1Md3llbEV3eFFpMm1TdnZFLURxY1ZmdE41X1FNSDBISm91Z3JNZnUwQ1hVdmYyMzRPSlk5ajZJWGhHYVZKU1lzam5BM0Y0dkdxUHduRTMwVVo3bllXMnlUMFMyWV9yUktnMURNZGl5UDZmdS1OS3hpMGZ0LTZ3ZV95MThmZGY3SHNRY1ItbUhCTER30gHbAUFVX3lxTFB2Y3dHZ05HTkIwdE1iMHZIRGJlTzNjUnl3cExoTnJsWkJycU9wT1lSRUdaZGhweEQwS1F1cmw2alNURm5ncU8tSktUTEVsYk4xeG9lcHZwd1ZMcEZtekVwZXQyZ3Y4OWtOZDgzYW1Wc0VIZTg4X1FZT3Q5MDROQW1ZeGlYYXBJbl85aUF0TVNXVVR2X1drRkhLVXN3d0U0YUs0eUtaUnJaUVlrOVRVYjNMZDZLN2RtaVZDWXpVLW5uUFc4QlNMaDFZak8tOXhVeFJ1Y0N5eTJod0JYVQ?oc=5",
-      "source_name": "The Korea Times",
-      "source_level": "reputable",
-      "published_at": "2026-08-18T07:21:02+00:00",
-      "age_hours": 1.5,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    }
-  ]
+  "items": []
 }
