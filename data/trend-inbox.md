@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-18T07:02:51.744626+00:00
+Updated: 2026-08-18T08:52:16.367411+00:00
 Memory window: 2 hours
 
 ## 1. [Infographic] Not All Ice Is Created Equal: Discover the Difference With Samsung’s Ice-Making Technology
@@ -17,8 +17,8 @@ URL: https://news.samsung.com/global/warranty-and-care-menu-simplifies-device-ca
 
 Samsung users may have noticed something new on their Galaxy Z foldables — the Warranty and care menu. Managing warranties and coverage for a Galaxy mobile phone, Galaxy Watch, Galaxy Buds, and Galaxy Tab can be a hassle. That’s where Warranty and care comes in. Introduced with One UI 9, it brings essential device management […]
 
-## 3. Second data centre planned for Lanarkshire as regulations tightened - BBC
-Source: BBC (reputable)
-URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoeDVaT2czSzd1ZjZGRHpEcU5xWkJQMzhvTG5oNUlUOV81VTR6NWI4NDZZM09MbFFyQVRrS0QxemEwR0s3SG9HY1dwUWhZbDFXSFFYN1hMTjM4QQ?oc=5
+## 3. LG AI Research, SK Telecom, Upstage survive next cut in national AI model project - The Korea Times
+Source: The Korea Times (reputable)
+URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRE8tdXhFNnlnTWxvSzJTS0taWjR4bjRSNC1lb0R1Nlh4c1htNXhIQzU5QUFVdWY1NTNBUVYzUmNiUWNneWVOaDNEdU1Md3llbEV3eFFpMm1TdnZFLURxY1ZmdE41X1FNSDBISm91Z3JNZnUwQ1hVdmYyMzRPSlk5ajZJWGhHYVZKU1lzam5BM0Y0dkdxUHduRTMwVVo3bllXMnlUMFMyWV9yUktnMURNZGl5UDZmdS1OS3hpMGZ0LTZ3ZV95MThmZGY3SHNRY1ItbUhCTER30gHbAUFVX3lxTFB2Y3dHZ05HTkIwdE1iMHZIRGJlTzNjUnl3cExoTnJsWkJycU9wT1lSRUdaZGhweEQwS1F1cmw2alNURm5ncU8tSktUTEVsYk4xeG9lcHZwd1ZMcEZtekVwZXQyZ3Y4OWtOZDgzYW1Wc0VIZTg4X1FZT3Q5MDROQW1ZeGlYYXBJbl85aUF0TVNXVVR2X1drRkhLVXN3d0U0YUs0eUtaUnJaUVlrOVRVYjNMZDZLN2RtaVZDWXpVLW5uUFc4QlNMaDFZak8tOXhVeFJ1Y0N5eTJod0JYVQ?oc=5
 
-Second data centre planned for Lanarkshire as regulations tightened BBC
+LG AI Research, SK Telecom, Upstage survive next cut in national AI model project The Korea Times
