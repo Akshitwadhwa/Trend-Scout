@@ -1,26 +1,15 @@
 {
-  "updated_at": "2026-08-18T18:54:55.304337+00:00",
+  "updated_at": "2026-08-18T20:39:03.028925+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities - OpenAI",
-      "what_happened": "Pacing model development in an era of cyber-critical capabilities OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-08-18T18:33:45+00:00",
-      "age_hours": 0.4,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "OpenAI to rewrite its safety rules post-Hugging Face - Axios",
-      "what_happened": "OpenAI to rewrite its safety rules post-Hugging Face Axios",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mVk1mMDFYc2NQb2szZnlHYlBIcXhrUTJLaEZsMVpXZHdhZ0t6Q0xVMWR1blFTbFhLa1FvY3NvVkt2VjFfU2JUUVB5MngxTFg3d01ka3h2MmEtbGp6MEFwbVVSSEwtZ0NjbUdwdXBOd0g5ZXljaktpSDNDVjJRVjA?oc=5",
-      "source_name": "Axios",
+      "title": "Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup - Business Insider",
+      "what_happened": "Waymo Pioneer Sebastian Thrun Is Building a New Robotics Startup Business Insider",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUg4aTFqWjdPek9fRVNUVTVZSFVZWTFtcHd1eXY1dXF2NUl2NTB6TmlmR1hmT09DZ3JpOHprR2JYNFpMZzBScE1UYWdfNERYQWhGU3h3R0RrXzVEaHVUWDNYMDdrUk5lNERNMFNfS2RhbWJ6NVMxV0RTLUg3LWd3MDZudGljQzNXTDd0ekZOUFZBV3J1VnlHZXFwZXBXUWdocnJta1Fn?oc=5",
+      "source_name": "Business Insider",
       "source_level": "reputable",
-      "published_at": "2026-08-18T17:59:35+00:00",
-      "age_hours": 0.9,
+      "published_at": "2026-08-18T19:36:08+00:00",
+      "age_hours": 1.0,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
