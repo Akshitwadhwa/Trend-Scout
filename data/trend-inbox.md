@@ -2,5 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-18T10:45:16.127349+00:00
+Updated: 2026-08-18T13:06:19.686736+00:00
 Memory window: 2 hours
+
+## 1. IIT Kanpur, Ambedkar University Agra launch cybersecurity course for over 3 lakh students across 570 colleges - The Indian Express
+Source: The Indian Express (reputable)
+URL: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVk9ULTFzMTg3RGFJVWZ4a245NC1JbGxpdV9pZzBMNDRNejR2elFPNmQ0V3hubGVhbl9haU1UcWxrVDJzR3ZxdEpUTGMwbUwwTkw1bG9MM25PQndnZ2h5NWFsUjFZd2VPMFpRSzhtQUY3NEdCSVp1Ty1FVHNDekpEX3NTREl5cmMwSVY5S0VFMTdyMzFfUXdINGpzNTFUeFJFTDAtdHFudTlJdU9ueVctS1gxYVYtNGZ5UWJOZnlzdGFBZEoxWE05WjdheUg1SFpaZFFZQVdLZkpZZlowa1hzX2d3cnRWT3huRGNrMXQ1c9IB9gFBVV95cUxOdV8zeDFiYlY3YkFfcXhpcXcweGtvcC1KSFpVMjE0S1BMWlNrWHdobWpHNUFnWk03eTBKVFRpVlVYU0UwMHdpa2xnLWhDeUZYcnBzOVloS2JIZGpkQ0dKQksyU2hVcjI1cWRBTGFyOHk1ZTBCYkZKeVctZG5JcENaV0syR0VBRlJTRDdaTEJhQmJkY1dTVWtFNnFfWVltVEFKR0FMdnZXSU8zTVhhQlRpMEpCbHpGWng5N1NERm0xR2FfU3k2cGRiY3Z3Q0NBY3dIbC0wcV83UjJhU3BXVVl5dEtsM1M3cVBKVU1lVDU1Rk1fZ3ZtdHc?oc=5
+
+IIT Kanpur, Ambedkar University Agra launch cybersecurity course for over 3 lakh students across 570 colleges The Indian Express
