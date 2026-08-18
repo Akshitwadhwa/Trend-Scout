@@ -1,50 +1,28 @@
 {
-  "updated_at": "2026-08-18T16:47:14.084232+00:00",
+  "updated_at": "2026-08-18T18:54:55.304337+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "Tesla is finally launching the Cybercab \u2014 let\u2019s hope it\u2019s ready - The Verge",
-      "what_happened": "Tesla is finally launching the Cybercab \u2014 let\u2019s hope it\u2019s ready The Verge",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmR4RnNyakE0WV9Ld1N2QjBIOFlRVDJMUTV4b1ZpYy12U1pHZXhnMVJORzVRZjFfcTd4VDBIemR2bHlrUDR6UExyMUNsVmgwd0p1WnNuRDJ1ZkN6YnNLaG9XN3Y5SnRtNG5tRjZ1RXc2UDFMVW1NaTZ5YmY5dFpLemNkd0tWRWxlNEhLanhmejRSMDBYd200?oc=5",
-      "source_name": "The Verge",
-      "source_level": "reputable",
-      "published_at": "2026-08-18T16:26:29+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How US military funding propelled China\u2019s robot dogs - Reuters",
-      "what_happened": "How US military funding propelled China\u2019s robot dogs Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-18T16:13:58+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
-      "what_happened": "AI chip startup Etched doubles valuation to $21 billion in under a month Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-18T16:11:30+00:00",
-      "age_hours": 0.6,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Apple announces changes for apps in the European Union",
-      "what_happened": "Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.",
-      "source_url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "source_name": "apple.com",
+      "title": "Pacing model development in an era of cyber-critical capabilities - OpenAI",
+      "what_happened": "Pacing model development in an era of cyber-critical capabilities OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44SUZWVTY5Y0p5QUZ2RHR2TmhUTkJNTTFkYXBjYWpLTVBjRDRtZW5DX2pLN0xNUXZIS0N5THhkYUV0WmhhNTBzc0RCeWQwZ19PdXhKa3lyRmt4UnRTVVQzU2JoSWdXd1FDRWxQSm5LYWRCR0Y3cWtlNQ?oc=5",
+      "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-08-18T15:59:46.948000+00:00",
-      "age_hours": 0.8,
+      "published_at": "2026-08-18T18:33:45+00:00",
+      "age_hours": 0.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "OpenAI to rewrite its safety rules post-Hugging Face - Axios",
+      "what_happened": "OpenAI to rewrite its safety rules post-Hugging Face Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mVk1mMDFYc2NQb2szZnlHYlBIcXhrUTJLaEZsMVpXZHdhZ0t6Q0xVMWR1blFTbFhLa1FvY3NvVkt2VjFfU2JUUVB5MngxTFg3d01ka3h2MmEtbGp6MEFwbVVSSEwtZ0NjbUdwdXBOd0g5ZXljaktpSDNDVjJRVjA?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-18T17:59:35+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
