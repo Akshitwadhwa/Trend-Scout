@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-19T18:52:03.773995+00:00",
+  "updated_at": "2026-08-19T20:44:35.937783+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "Employee data is under increasing threat. Here's why HR leaders are prioritizing security. - Business Insider",
-      "what_happened": "Employee data is under increasing threat. Here's why HR leaders are prioritizing security. Business Insider",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmtsTkFPNWZnbW1lYXcwX19taFhFVG50aVV3QUdDVS1xY2VXM3FuUEpwVVp0elJSQkJMSzRxMVE4amdQbU9CVUlRbjd3RXd5S0dRZWdUbUxheVd4cGpfUERQOF9sQWNoZThfekJlTEg1ejM4NldxQXFVckdJSGxZOThhdGV2V1FqNk8yTURZUW5zQ2hfSEE?oc=5",
-      "source_name": "Business Insider",
+      "title": "All the phones T-Mobile is giving away for free: Shop iPhone 17, Samsung Galaxy Z Fold 8, and Google Pixel 11 - Mashable",
+      "what_happened": "All the phones T-Mobile is giving away for free: Shop iPhone 17, Samsung Galaxy Z Fold 8, and Google Pixel 11 Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3R4UVpTQ3VETVVrR1JRODkwaW9SMFFORGJpU2ZieC1udFJuakxXTVVpRHZ1TGI5eV9YelVrM0NVZVkwLWtpSmFtY2ExXzhGLTJpS1lzU3pQTmdIMGsxUlR5RGl6Z2VsdDVocGtzWG5yUG10VG5uVzVIbWJJSm9hWmFXRVZBUTMxUWNhTXpVSGFkLXB1dXhV?oc=5",
+      "source_name": "Mashable",
       "source_level": "reputable",
-      "published_at": "2026-08-19T18:17:37+00:00",
-      "age_hours": 0.6,
+      "published_at": "2026-08-19T19:17:17+00:00",
+      "age_hours": 1.5,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "GitHub Copilot app for Beginners: Managing your work",
-      "what_happened": "If you\u2019re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-19T17:50:23+00:00",
-      "age_hours": 1.0,
+      "title": "T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now \u2014 how to qualify for this wild offer - Mashable",
+      "what_happened": "T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now \u2014 how to qualify for this wild offer Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRGc5enlUZ2R1SW9iR2dQSkw2UzF3WlFqbG5fcmN5OFFOcTlETkFObUdERWtULTBHUmNZTnJHZ2RzNXVUbmdRQlAyRDR4bDd3eGNhU193SmhQNjRneWk3VjNpaUU5S1lfS1RjSDRkb28?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-19T19:17:15+00:00",
+      "age_hours": 1.5,
       "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }

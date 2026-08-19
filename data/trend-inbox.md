@@ -2,17 +2,17 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-19T18:52:03.773995+00:00
+Updated: 2026-08-19T20:44:35.937783+00:00
 Memory window: 2 hours
 
-## 1. Employee data is under increasing threat. Here's why HR leaders are prioritizing security. - Business Insider
-Source: Business Insider (reputable)
-URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxNYmtsTkFPNWZnbW1lYXcwX19taFhFVG50aVV3QUdDVS1xY2VXM3FuUEpwVVp0elJSQkJMSzRxMVE4amdQbU9CVUlRbjd3RXd5S0dRZWdUbUxheVd4cGpfUERQOF9sQWNoZThfekJlTEg1ejM4NldxQXFVckdJSGxZOThhdGV2V1FqNk8yTURZUW5zQ2hfSEE?oc=5
+## 1. All the phones T-Mobile is giving away for free: Shop iPhone 17, Samsung Galaxy Z Fold 8, and Google Pixel 11 - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3R4UVpTQ3VETVVrR1JRODkwaW9SMFFORGJpU2ZieC1udFJuakxXTVVpRHZ1TGI5eV9YelVrM0NVZVkwLWtpSmFtY2ExXzhGLTJpS1lzU3pQTmdIMGsxUlR5RGl6Z2VsdDVocGtzWG5yUG10VG5uVzVIbWJJSm9hWmFXRVZBUTMxUWNhTXpVSGFkLXB1dXhV?oc=5
 
-Employee data is under increasing threat. Here's why HR leaders are prioritizing security. Business Insider
+All the phones T-Mobile is giving away for free: Shop iPhone 17, Samsung Galaxy Z Fold 8, and Google Pixel 11 Mashable
 
-## 2. GitHub Copilot app for Beginners: Managing your work
-Source: github.blog (primary)
-URL: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/
+## 2. T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now — how to qualify for this wild offer - Mashable
+Source: Mashable (reputable)
+URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRGc5enlUZ2R1SW9iR2dQSkw2UzF3WlFqbG5fcmN5OFFOcTlETkFObUdERWtULTBHUmNZTnJHZ2RzNXVUbmdRQlAyRDR4bDd3eGNhU193SmhQNjRneWk3VjNpaUU5S1lfS1RjSDRkb28?oc=5
 
-If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog .
+T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now — how to qualify for this wild offer Mashable
