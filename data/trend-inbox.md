@@ -2,14 +2,14 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-19T13:07:41.861670+00:00
+Updated: 2026-08-19T14:52:19.926258+00:00
 Memory window: 2 hours
 
-## 1. CareCloud confirms 3.7M patients had their medical records stolen in data breach - TechCrunch
-Source: TechCrunch (reputable)
-URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxQNnppMW1YWmlnSGpyMVdNeHhGOVNPWWR5SDlTS0kyOFkyc0hMTE5NemtxS1hndnRCQjlvb1FwbUhpYmt0UUVpM3cyR19EaDUyZVl3MWR5NW8tNmdlNVBrRHhEek1nRVJXaEhzYVdla3ptYWlxZDBUTHpTSGZyQnMzeTB0Y1VZNG5FSEhQdXZpTXF6b09JREw5LTV4NVRGX1NfbWpYOHBYTkZsWmpFdW53cndhSTZkZw?oc=5
+## 1. Bengaluru startup Murf AI takes on OpenAI, ElevenLabs with Falcon 2 voice model at one-fifth the cost - Moneycontrol.com
+Source: Moneycontrol.com (reputable)
+URL: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdk95WmQ3WHFuUldmR0NETzA1UnQ5MTZkNFc2OGxSYWhiLXNwMlZ3RzlpM2ZmVm1VYjJHYzNwS3ktbXRfRkVPWjZ2a1FMenZaLV9EY1pwdkRHLXpEZ2tqLWs3SHhKdzJhbzY4N3JLTER1bWFNQ3JnMWQ2MWc3ZkpfYjdMa1JacHVhRTBRSVdJNkMtWXRoTUY2d0ZVN25XYkRFM1BQczdxMElhRDllcExKR2szWkhEQmFYcF9sSENzOXd1LWNKMVdfNDJ2ZjYtamw1WHNMdEdxSnJRM055bm5uR1NhVE9ZdTlpVGo2eU1VTFc3VndoQ2U2Q9IB_gFBVV95cUxPU2o2U2RrNnhlRTU3dTQwVmYxQzFkbVFpcDEtSlRXZklUODlXbDJTTUtsQmxhR3VmcnRTaXR6bDRLd2FBaVBLVHk3UXFUSXdnOW5vR0k1amZrWDRpakZhZGozZzlCbURHRHRaRUpWSDA1MUo2TDBQSEkxTzdFZFJaZmJ6RFVMMjNEamluOXllX3hROVdoaU9jWUJiajVUYktPcnVCSmRqdW9uajNHTmFrUXlqNmNKWnExSlF2ZWxoU290cGxqbWVQdkFTZXZOOWN1WjNhY2pFakFlS1VmbWlldWVPVzN6NDFnTDd1azdubWYtTU1lYkNOZVpxSWU2Zw?oc=5
 
-CareCloud confirms 3.7M patients had their medical records stolen in data breach TechCrunch
+Bengaluru startup Murf AI takes on OpenAI, ElevenLabs with Falcon 2 voice model at one-fifth the cost Moneycontrol.com
 
 ## 2. For AI Companies, Unanswered Questions About White House Model Testing Plan - The Information
 Source: The Information (reputable)
