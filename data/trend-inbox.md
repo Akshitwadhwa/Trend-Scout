@@ -2,17 +2,5 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-19T14:52:19.926258+00:00
+Updated: 2026-08-19T16:45:42.730058+00:00
 Memory window: 2 hours
-
-## 1. Bengaluru startup Murf AI takes on OpenAI, ElevenLabs with Falcon 2 voice model at one-fifth the cost - Moneycontrol.com
-Source: Moneycontrol.com (reputable)
-URL: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdk95WmQ3WHFuUldmR0NETzA1UnQ5MTZkNFc2OGxSYWhiLXNwMlZ3RzlpM2ZmVm1VYjJHYzNwS3ktbXRfRkVPWjZ2a1FMenZaLV9EY1pwdkRHLXpEZ2tqLWs3SHhKdzJhbzY4N3JLTER1bWFNQ3JnMWQ2MWc3ZkpfYjdMa1JacHVhRTBRSVdJNkMtWXRoTUY2d0ZVN25XYkRFM1BQczdxMElhRDllcExKR2szWkhEQmFYcF9sSENzOXd1LWNKMVdfNDJ2ZjYtamw1WHNMdEdxSnJRM055bm5uR1NhVE9ZdTlpVGo2eU1VTFc3VndoQ2U2Q9IB_gFBVV95cUxPU2o2U2RrNnhlRTU3dTQwVmYxQzFkbVFpcDEtSlRXZklUODlXbDJTTUtsQmxhR3VmcnRTaXR6bDRLd2FBaVBLVHk3UXFUSXdnOW5vR0k1amZrWDRpakZhZGozZzlCbURHRHRaRUpWSDA1MUo2TDBQSEkxTzdFZFJaZmJ6RFVMMjNEamluOXllX3hROVdoaU9jWUJiajVUYktPcnVCSmRqdW9uajNHTmFrUXlqNmNKWnExSlF2ZWxoU290cGxqbWVQdkFTZXZOOWN1WjNhY2pFakFlS1VmbWlldWVPVzN6NDFnTDd1azdubWYtTU1lYkNOZVpxSWU2Zw?oc=5
-
-Bengaluru startup Murf AI takes on OpenAI, ElevenLabs with Falcon 2 voice model at one-fifth the cost Moneycontrol.com
-
-## 2. For AI Companies, Unanswered Questions About White House Model Testing Plan - The Information
-Source: The Information (reputable)
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQb3dKNklHTUdiY29TV3BTeVRNVTR2YlRZbDJZR1pSLTlzUW5aSWVIemxXcTNjUzJVRXlYSHRuTjU0MjNoUnBpZVBNTUNMbnlGRlE0R08wXzQtc19LbjB1T2dsdlJfWHprR0doazJhc1RhWUxESE9PVi1XUnhTR0NvNW1UV2E1VDRVLXUxanhzdW5EUlpyZTV3YkZMUXBXaHJOQ2hxSlBsUQ?oc=5
-
-For AI Companies, Unanswered Questions About White House Model Testing Plan The Information
