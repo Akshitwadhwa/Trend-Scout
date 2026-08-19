@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:10:26.109182+00:00",
+  "updated_at": "2026-08-19T04:50:34.070985+00:00",
   "retention_hours": 2,
   "items": [
     {
@@ -16,22 +16,11 @@
     {
       "title": "OpenAI is slowing down AI training as models keep getting more powerful - India Today",
       "what_happened": "OpenAI is slowing down AI training as models keep getting more powerful India Today",
-      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPXzNRRVVRSVpCQldCS2lqTTg4SWltcDJGTDhETGNWSzBwcmdBc0FDOEhJa1hRTEFoUFdURmswV1FtVmRTNUJHNGpMSFZVWFdMdHNBUTF5aElyRU1VR3JKMDJNWTA0ck9EVnRtQ24ya205aE1VY05wbGhLRmFoQnp1S1NWenZVMFlVaDdFeG53eDB2TUZYcmVXblFWYnEtZHVtQ19Lb2JuWW5KZ0hQLTRCOVotZmltOG11QVVLel81R1FscVFvWHRTNFpGQ1hVSUJHcFpEVWVTUjZjQdIB2gFBVV95cUxPXzNRRVVRSVpCQldCS2lqTTg4SWltcDJGTDhETGNWSzBwcmdBc0FDOEhJa1hRTEFoUFdURmswV1FtVmRTNUJHNGpMSFZVWFdMdHNBUTF5aElyRU1VR3JKMDJNWTA0ck9EVnRtQ24ya205aE1VY05wbGhLRmFoQnp1S1NWenZVMFlVaDdFeG53eDB2TUZYcmVXblFWYnEtZHVtQ19Lb2JuWW5KZ0hQLTRCOVotZmltOG11QVVLel81R1FscVFvWHRTNFpGQ1hVSUJHcFpEVWVTUjZjQQ?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVVVkVUljRnRqU0IxUXNWVzhhOGk0QVloSmcySjY4bS1ibjBfMmF1eHFlNUVzaDVEQVVNSWxoWGZuYzJqQVNNOXJxako0cVF3c3VaRlNwaTBNSWdUcE5xSW84XzJ1bkdXeFBHT3lWY0JBa2luN1VuX21IeVVXcmFUNjRoeFB1YnZZTUc0dzhUZUc0ZWdfM1d6QlU1ZkdfZEMxSWFnUUxnSHhQMEpjOWpxdENESmNSVjZHLW55N1RYcy0wNXd5TkJXNzBkZ0FaRm9CM0RoMdIB2gFBVV95cUxPXzNRRVVRSVpCQldCS2lqTTg4SWltcDJGTDhETGNWSzBwcmdBc0FDOEhJa1hRTEFoUFdURmswV1FtVmRTNUJHNGpMSFZVWFdMdHNBUTF5aElyRU1VR3JKMDJNWTA0ck9EVnRtQ24ya205aE1VY05wbGhLRmFoQnp1S1NWenZVMFlVaDdFeG53eDB2TUZYcmVXblFWYnEtZHVtQ19Lb2JuWW5KZ0hQLTRCOVotZmltOG11QVVLel81R1FscVFvWHRTNFpGQ1hVSUJHcFpEVWVTUjZjQQ?oc=5",
       "source_name": "India Today",
       "source_level": "reputable",
       "published_at": "2026-08-19T03:03:12+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Nvidia H200 chips reach China in small shipments, FT reports - Reuters",
-      "what_happened": "Nvidia H200 chips reach China in small shipments, FT reports Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2tBTmsySF9VRGZpdVNsWmM1TGhwMXRhdGFGUGZiZDNjamtuNjlRbHo3OGpDQnNZVjByNkt6cWNEMFN4MkZybm95R29hMnlTVmxMYzktVC1DNUYwUnpsa3FlYjl1QldWczlmelFwNFM0YlJ0T1lPVlB1UGZ6NXdQRGU1dFVjRkdGUXdTYlJwUnM3dEtNSjBvdmZCbG42UGNaVFRqZTI0NXN2VjlQbmpDVw?oc=5",
-      "source_name": "Reuters",
-      "source_level": "reputable",
-      "published_at": "2026-08-19T02:47:13+00:00",
-      "age_hours": 0.4,
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
