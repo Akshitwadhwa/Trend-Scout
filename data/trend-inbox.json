@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-19T20:44:35.937783+00:00",
+  "updated_at": "2026-08-19T22:39:38.594746+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "All the phones T-Mobile is giving away for free: Shop iPhone 17, Samsung Galaxy Z Fold 8, and Google Pixel 11 - Mashable",
-      "what_happened": "All the phones T-Mobile is giving away for free: Shop iPhone 17, Samsung Galaxy Z Fold 8, and Google Pixel 11 Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3R4UVpTQ3VETVVrR1JRODkwaW9SMFFORGJpU2ZieC1udFJuakxXTVVpRHZ1TGI5eV9YelVrM0NVZVkwLWtpSmFtY2ExXzhGLTJpS1lzU3pQTmdIMGsxUlR5RGl6Z2VsdDVocGtzWG5yUG10VG5uVzVIbWJJSm9hWmFXRVZBUTMxUWNhTXpVSGFkLXB1dXhV?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-08-19T19:17:17+00:00",
-      "age_hours": 1.5,
+      "title": "Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents - NVIDIA Developer",
+      "what_happened": "Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents NVIDIA Developer",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVZONzdFRUtzTlVfdXAwdDRPREFuWXdjNzUzM2N2SHF6Q0ZIcnVvVndBWGZNUVJfUjVGVHM5WnRoTDlXRzJsaVlRcWh3NWNlTW1PdU9JcmdRdnlxcWdZY3FDRXBCZVJwUHhKVDBTNjlMUjYwYk9FNTk5VmdRaGlHYy1zUHpKUHVBN2FsUXVEREpIWmNyRHBnM2JPVU9YcGRtTHlaRmt0azEyWGluaW1uaQ?oc=5",
+      "source_name": "NVIDIA Developer",
+      "source_level": "primary",
+      "published_at": "2026-08-19T22:34:49+00:00",
+      "age_hours": 0.1,
       "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now \u2014 how to qualify for this wild offer - Mashable",
-      "what_happened": "T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now \u2014 how to qualify for this wild offer Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRGc5enlUZ2R1SW9iR2dQSkw2UzF3WlFqbG5fcmN5OFFOcTlETkFObUdERWtULTBHUmNZTnJHZ2RzNXVUbmdRQlAyRDR4bDd3eGNhU193SmhQNjRneWk3VjNpaUU5S1lfS1RjSDRkb28?oc=5",
-      "source_name": "Mashable",
+      "title": "Nvidia Tries to Spur the AI Boom Into the Future - Bloomberg",
+      "what_happened": "Nvidia Tries to Spur the AI Boom Into the Future Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSldvS2hSWHF6b1ktYmhDblJhODNWUHFveDVKV2VqaUk2c3JKQjMwYm0yYmhCOXJ2eURuV0JldTYwTWFiU2ZuSWFpNVFmTkV6ZGljemlYWnBaWDVMelVrZnFma3FhcmpEdE5xRVp0Nkh3OHBzaTVVbE9PMWt4VjF3REQwakhvMGdiX0FuVXhzYWFKaU92eW92VnVMT2V1dlcxZ1JtaA?oc=5",
+      "source_name": "Bloomberg",
       "source_level": "reputable",
-      "published_at": "2026-08-19T19:17:15+00:00",
-      "age_hours": 1.5,
+      "published_at": "2026-08-19T21:33:06+00:00",
+      "age_hours": 1.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }

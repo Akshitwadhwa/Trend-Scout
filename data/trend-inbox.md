@@ -2,17 +2,17 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-19T20:44:35.937783+00:00
+Updated: 2026-08-19T22:39:38.594746+00:00
 Memory window: 2 hours
 
-## 1. All the phones T-Mobile is giving away for free: Shop iPhone 17, Samsung Galaxy Z Fold 8, and Google Pixel 11 - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxOM3R4UVpTQ3VETVVrR1JRODkwaW9SMFFORGJpU2ZieC1udFJuakxXTVVpRHZ1TGI5eV9YelVrM0NVZVkwLWtpSmFtY2ExXzhGLTJpS1lzU3pQTmdIMGsxUlR5RGl6Z2VsdDVocGtzWG5yUG10VG5uVzVIbWJJSm9hWmFXRVZBUTMxUWNhTXpVSGFkLXB1dXhV?oc=5
+## 1. Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents - NVIDIA Developer
+Source: NVIDIA Developer (primary)
+URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxORVZONzdFRUtzTlVfdXAwdDRPREFuWXdjNzUzM2N2SHF6Q0ZIcnVvVndBWGZNUVJfUjVGVHM5WnRoTDlXRzJsaVlRcWh3NWNlTW1PdU9JcmdRdnlxcWdZY3FDRXBCZVJwUHhKVDBTNjlMUjYwYk9FNTk5VmdRaGlHYy1zUHpKUHVBN2FsUXVEREpIWmNyRHBnM2JPVU9YcGRtTHlaRmt0azEyWGluaW1uaQ?oc=5
 
-All the phones T-Mobile is giving away for free: Shop iPhone 17, Samsung Galaxy Z Fold 8, and Google Pixel 11 Mashable
+Developing NVIDIA Holoscan applications with CLI, skills, and AI coding agents NVIDIA Developer
 
-## 2. T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now — how to qualify for this wild offer - Mashable
-Source: Mashable (reputable)
-URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRGc5enlUZ2R1SW9iR2dQSkw2UzF3WlFqbG5fcmN5OFFOcTlETkFObUdERWtULTBHUmNZTnJHZ2RzNXVUbmdRQlAyRDR4bDd3eGNhU193SmhQNjRneWk3VjNpaUU5S1lfS1RjSDRkb28?oc=5
+## 2. Nvidia Tries to Spur the AI Boom Into the Future - Bloomberg
+Source: Bloomberg (reputable)
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxNSldvS2hSWHF6b1ktYmhDblJhODNWUHFveDVKV2VqaUk2c3JKQjMwYm0yYmhCOXJ2eURuV0JldTYwTWFiU2ZuSWFpNVFmTkV6ZGljemlYWnBaWDVMelVrZnFma3FhcmpEdE5xRVp0Nkh3OHBzaTVVbE9PMWt4VjF3REQwakhvMGdiX0FuVXhzYWFKaU92eW92VnVMT2V1dlcxZ1JtaA?oc=5
 
-T-Mobile is giving away the Samsung Galaxy Z Fold 8 right now — how to qualify for this wild offer Mashable
+Nvidia Tries to Spur the AI Boom Into the Future Bloomberg
