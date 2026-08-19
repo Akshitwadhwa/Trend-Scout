@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T08:53:33.732255+00:00",
+  "updated_at": "2026-08-19T10:45:12.474698+00:00",
   "retention_hours": 2,
   "items": [
     {
@@ -14,15 +14,59 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
+      "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole - CNBC",
+      "what_happened": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWJpVjNJOUI4aGhPa05XTERJZkExbFpwNnA4LW91MVA1TnQ1RVhhZm44czFRSmJIZ2tZX29zOC14Y1RLNmlxeWxzZ2l6UUwyNVE3WDVjM3RuczFsMTB4dXEtMFBKT2NiNGxMaG92SF9RVEhmVXp6UmNqYlRGZTFsSnZtZ9IBiAFBVV95cUxPUGhwUXl6NlowWGJNTVNaTUF0WlB5c0RjRUlXYjUybGpzYVNwQmVlQ3BvZlFkaWZndVNyZ2ZjZnQ5ZkJtWURNVnRIRUZncEQ1ZHVHUklwcEdkQ1EwX2F5bVl6ZDJpNnltbWExRkN0SVVpUGg3V3JMZkZOSF8yVkI4X0dYNHNWbUdS?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-19T10:32:51+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "$10 Quake shareware CD locked copies of all id Software games behind a flawed encryption scheme \u2014 pay-over-the-phone system only held up for 39 days after 1996 release, leaving developer with 150,000 discs it couldn't sell - Tom's Hardware",
+      "what_happened": "$10 Quake shareware CD locked copies of all id Software games behind a flawed encryption scheme \u2014 pay-over-the-phone system only held up for 39 days after 1996 release, leaving developer with 150,000 discs it couldn't sell Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOdXRvRzZOQWN3ZUIyMUY0MUdid2xVNnY0dkhvVlI0QjFNQWZ3bF9TTjBJaFY1Yi1YbEZMcS1JZFowel9fbU5qTG9zS3hxR3NjY2xSVHpIT0hkSU9wemR0NW1EaFNDN0RmZmxMMkhUTXZ0VFRVR2p0RjdqWEdMSTROMXk5TTl3eXAwTDhTRW8wVUNmSUZpbjVGSWRlSEhBcjVLNmU3cExTd3BaQ2VqMURpTnZjQjBhX1ZacEJ5ZGFhVzNZdFBxd1hTcG1WYktZM040bi1vTUc4R2h0QkpKMmFnZmRVckxYd01iejQybHlOXzJla2Q0RDlMMXZicTVreTVfdEZsOG9USnJLTEV1YzFEWGpSSUV0amZpa1FjOXNmcVVWVENYZjBlemhjRzB6THFvaXBaRHkzOFJLU1lyVFgzMHRiMmdOenppc0hfTjNXbHBXT1FleWlmcGNoaDRjNU9KMlRLNXRhTlF5aXB6TWVqUXFRRGs3WWVaS1VwWS03d0Jydlc4WVFGcTFR?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-08-19T10:30:00+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "OpenAI pauses AI model training, slows development pace amid safety concerns - The Indian Express",
+      "what_happened": "OpenAI pauses AI model training, slows development pace amid safety concerns The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHU3SlhXM0p1VWhMWVA5MTktRGFOYnd6djR0NW5qQy02ZEFXWTBUS3o0Tm1RdnI2MHZ0QWFtN2VyMlBVNkZPV1RpX3RDMUF4QTAxNGZfRnloUVJldFpyOUF2V2JGUUdsR29kREdzSFRFR19oN2tKLUpUZWtXV0t1cVQ3N19hSUJpWk1nN3ZSQUhibU1UdHdOU1ZCN2dJY3pFQnNYRVJsc1VkbDVRWlU5QzBn0gG4AUFVX3lxTFBvUkY0RFFwWC1ZS1R0SUQtOF90TDZOaTgxMHp4UjZ6ZXpKeG9DRGZNOEJOY04xR2hSdWllWGZna0xLRWpPamtDenNuMmVpYVRYcXozVE9KVGs2dGU4eFZyMDY5WGV3QURCeVk0cEcydU9WVFdtQTZ4WDJ0bXRvMXl0SDd5aDhBanpYdFByUXVBbjBJdEc4cnRFNmNiUWJ5am5RV2JwVFk2dllENThObzdhZlVlaGdVUlo?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-19T10:29:02+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
       "title": "Samsung Electronics To Establish HVAC Production Line in Korea",
       "what_happened": "Samsung Electronics today announced that it will establish a Fl\u00e4ktGroup HVAC production line in Korea to target the rapidly growing HVAC market, including the production of advanced cooling solutions for AI data centers. The company plans to invest approximately KRW 240 billion (USD 158 million) to build a 21,500m2 HVAC production line at its operations [\u2026]",
       "source_url": "https://news.samsung.com/global/samsung-electronics-to-establish-hvac-production-line-in-korea",
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-19T09:30:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 1.3,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "OpenAI blinks first in AI safety standoff - Axios",
+      "what_happened": "OpenAI blinks first in AI safety standoff Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hNnZyTjl3N01WbmMtMl9YREloVlFHYUQtMm5VWjdCZ2UxNmpoOE1NSGgzSlFUNTcwa3ktalgtVHNUTVBnTDdmUWVPLWFlTnF4MlJfZmJSX1lGeWMtRXhBb0xoaFY2NnhYS1Q0UGxXZHFrZG5YZDg3WQ?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-08-19T09:16:07+00:00",
+      "age_hours": 1.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
