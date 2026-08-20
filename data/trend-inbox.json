@@ -1,28 +1,39 @@
 {
-  "updated_at": "2026-08-20T08:55:16.327377+00:00",
+  "updated_at": "2026-08-20T10:46:04.470720+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "[Invitation] Galaxy Event August 2026",
-      "what_happened": "The Galaxy S26 series raised the bar with its boldest camera and AI innovations yet, making it easier for users to capture, create and connect every day. On August 27th, Samsung Electronics will hold \u2018Galaxy Event August 2026\u2019 to introduce the newest addition to the Galaxy S26 family \u2014 purposefully designed to bring the core [\u2026]",
-      "source_url": "https://news.samsung.com/global/invitation-galaxy-event-august-2026",
+      "title": "[Video] [Galaxy Unpacked July 2026] Samsung Health Envisions Simpler, More Connected Care With AI",
+      "what_happened": "Managing health can be complicated. But what if it didn\u2019t have to be? At Galaxy Unpacked July 2026 in London on July 22, Dr. Hon Pak, Senior Vice President and Head of the Digital Health Team, Mobile eXperience (MX) Business at Samsung Electronics, sat down with cognitive neuroscientist and science communicator Dr. Dong-seon Chang to [\u2026]",
+      "source_url": "https://news.samsung.com/global/video-galaxy-unpacked-july-2026-samsung-health-envisions-simpler-more-connected-care-with-ai",
       "source_name": "news.samsung.com",
       "source_level": "primary",
-      "published_at": "2026-08-20T08:00:00+00:00",
-      "age_hours": 0.9,
+      "published_at": "2026-08-20T16:00:00+00:00",
+      "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Samsung Introduces New Over-the-Range Microwave With DualVent Technology",
-      "what_happened": "Samsung Electronics today announced its new Over-the-Range Microwave in the U.S. and Canada beginning September 2026. The new model introduces DualVent technology, a ventilation system with air intakes at both the bottom and front of the microwave. Additional features include Auto Connectivity and a fingerprint resistant finish that helps maintain the microwave\u2019s clean appearance. \u201cConsumers [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-introduces-new-over-the-range-microwave-with-dualvent-technology",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-20T08:00:00+00:00",
-      "age_hours": 0.9,
+      "title": "Samsung Electronics poised for record shareholder payout as memory boom fuels cash windfall - KED Global",
+      "what_happened": "Samsung Electronics poised for record shareholder payout as memory boom fuels cash windfall KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZT295dE9HSkk4eVkyOVd6QlA1MWdTT0ZLSWRhTHdKNm1UN2tVVlVwTjdWQTVwbW9rNUttX05VWi1fd2xRMnpYY0ItbFEwVVlWYS1hVnF0bl9HNlY1TGxDRlQ5eGtCak1yeG03Zm9BcjNjcHA2UlJJ?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-20T10:40:00+00:00",
+      "age_hours": 0.1,
       "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments - WSJ",
+      "what_happened": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0dFa3prVThRdl9wNzc2LUR3eExka1JndWdxTG81NXhSQlZ5U3QwVXdENEFHTGRpNldOdDBEN2VfQkc2eFVYRlJHeENldzRmaHlWQmxUbHdJODJVNHBBMTdnS0xmbXhSdnRnb0ZzUDNmOWwzYWNrNmZjUHpRb2tnd25feVZsbFdhZS1mNWRCNzZhWGREQ19QV2NOUzZjdWtqWVZRSg?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-20T10:14:00+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
