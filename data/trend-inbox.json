@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:46:04.470720+00:00",
+  "updated_at": "2026-08-20T13:10:01.506560+00:00",
   "retention_hours": 2,
   "items": [
     {
@@ -14,24 +14,35 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Samsung Electronics poised for record shareholder payout as memory boom fuels cash windfall - KED Global",
-      "what_happened": "Samsung Electronics poised for record shareholder payout as memory boom fuels cash windfall KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZT295dE9HSkk4eVkyOVd6QlA1MWdTT0ZLSWRhTHdKNm1UN2tVVlVwTjdWQTVwbW9rNUttX05VWi1fd2xRMnpYY0ItbFEwVVlWYS1hVnF0bl9HNlY1TGxDRlQ5eGtCak1yeG03Zm9BcjNjcHA2UlJJ?oc=5",
-      "source_name": "KED Global",
-      "source_level": "reputable",
-      "published_at": "2026-08-20T10:40:00+00:00",
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support - NVIDIA Blog",
+      "what_happened": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support NVIDIA Blog",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVmJDdVU0eFdiSklhY2tadmdaY2UwRnh3UEx4OGVkTmVVa0lLaDJNZlZjTV81VVFJaUtYb0JlaUlSdHBrY1FIQ3JkYmg2ODlYMVJJTjZ4VXdDbllHRVVQaVctUG5kOUlmeWxr?oc=5",
+      "source_name": "NVIDIA Blog",
+      "source_level": "primary",
+      "published_at": "2026-08-20T13:06:35+00:00",
       "age_hours": 0.1,
       "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments - WSJ",
-      "what_happened": "Alibaba Posts Weaker Earnings Amid Heavy AI Investments WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0dFa3prVThRdl9wNzc2LUR3eExka1JndWdxTG81NXhSQlZ5U3QwVXdENEFHTGRpNldOdDBEN2VfQkc2eFVYRlJHeENldzRmaHlWQmxUbHdJODJVNHBBMTdnS0xmbXhSdnRnb0ZzUDNmOWwzYWNrNmZjUHpRb2tnd25feVZsbFdhZS1mNWRCNzZhWGREQ19QV2NOUzZjdWtqWVZRSg?oc=5",
-      "source_name": "WSJ",
+      "title": "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready. - Intel Newsroom",
+      "what_happened": "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready. Intel Newsroom",
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd242WFlyTmttSnVCU2RCWVJtbTN5UGNzQllfWTdwSDVoOUNIUWRJdHM5c1JDb3A3UVMwTExEdVJBb1FLM3lrblZYeDF2YWlqUVF0d0x6SkN1d2ZwVFVIeFdsR1c1YUpPNm5BNG9VYVpyclhZNWtsUndZZTNOOFkyNWFCdFdsbE1IeEVaV3ZvOWZxZ3F4MUw1LXF2Q1dxeEdpSU85NTNnbndYRFk?oc=5",
+      "source_name": "Intel Newsroom",
+      "source_level": "primary",
+      "published_at": "2026-08-20T13:04:34+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "The cheapest AI in the world is Indian. It is also the weakest - India Today",
+      "what_happened": "The cheapest AI in the world is Indian. It is also the weakest India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFRLVnFycGJNUVBCT2tSYmJFNXI5Y3RWWENmXzZSN3oya1I5VGsxblRmaFZSTHladGR6eVlaVGdIY1g1OGl1MzVIMTh1d05IdTVyTVMzRTVmWXZ2VzN5cHZNbXB5cGlCdVdTRWsyWUhGeHhkcUpDa2IzcU1ZSDdJTWVFLUZaNjFpb2JBNGc2NkpLV2VVNDlRMEJVZ09haGl1aU5zZmJUN2bSAagBQVVfeXFMUHhUS1ZxcnBiTVFQQk9rUmJiRTVyOWN0VlhDZl82Ujd6MmtSOVRrMW5UZmhWUkx5WnRkenlZWlRnSGNYNThpdTM1SDE4dXdOSHU1ck1TM0U1Zll2dlczeXB2TW1weXBpQnVXU0VrMllIRnh4ZHFKQ2tiM3FNWUg3SU1lRS1GWjYxaW9iQTRnNjZKS1dlVTQ5UTBCVWdPYWhpdWlOc2ZiVDdm?oc=5",
+      "source_name": "India Today",
       "source_level": "reputable",
-      "published_at": "2026-08-20T10:14:00+00:00",
-      "age_hours": 0.5,
+      "published_at": "2026-08-20T11:59:22+00:00",
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
