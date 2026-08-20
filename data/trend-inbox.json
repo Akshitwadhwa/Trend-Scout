@@ -1,37 +1,15 @@
 {
-  "updated_at": "2026-08-20T16:49:44.114755+00:00",
+  "updated_at": "2026-08-20T18:58:24.233221+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "Ramp launches its own AI model router, called Router - TechCrunch",
-      "what_happened": "Ramp launches its own AI model router, called Router TechCrunch",
-      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1ppUGg2UDJ4UXFLQTJUdWFkNUx3T3Y2dDhUQ2I3WjhmTHRvS1hmWVN1bFhXTTVBRklERjJPd0pUdTBISVdCU3ViVEdWbEQxSDBIcktFdnpZRkZnZnBLSUlMSFF3WWJJWUc2bUhLN0xLZ1BjUUNySmdXOVFFN184dFEtVDdzYVg1UGIyRTJodw?oc=5",
-      "source_name": "TechCrunch",
-      "source_level": "reputable",
-      "published_at": "2026-08-20T16:46:00+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How Generative Recommenders Are Redefining RecSys at Scale - NVIDIA Developer",
-      "what_happened": "How Generative Recommenders Are Redefining RecSys at Scale NVIDIA Developer",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXlFRkx6RHg2T1JDNGs3ZTFYTm5MS2NOMjJRZTdkSUdkdGJNVW9nMzI4V1hPNEtUODVvVDF0NUgxeDlwWUhaWUljVU51bEFvbUJIZWExTERzcl8zYndUZ2VNT2k0NzQzbUUxQlhzNWN4UUpuU3BaNjIyYm5PNk9CMXFlRGhsQXdJbl9DSGQyWmpIMUFNRUZnLQ?oc=5",
-      "source_name": "NVIDIA Developer",
+      "title": "The August 17 outage, and the work ahead",
+      "what_happened": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source_name": "github.blog",
       "source_level": "primary",
-      "published_at": "2026-08-20T16:02:19+00:00",
-      "age_hours": 0.8,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "[Video] [Galaxy Unpacked July 2026] Samsung Health Envisions Simpler, More Connected Care With AI",
-      "what_happened": "Managing health can be complicated. But what if it didn\u2019t have to be? At Galaxy Unpacked July 2026 in London on July 22, Dr. Hon Pak, Senior Vice President and Head of the Digital Health Team, Mobile eXperience (MX) Business at Samsung Electronics, sat down with cognitive neuroscientist and science communicator Dr. Dong-seon Chang to [\u2026]",
-      "source_url": "https://news.samsung.com/global/video-galaxy-unpacked-july-2026-samsung-health-envisions-simpler-more-connected-care-with-ai",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-20T16:00:00+00:00",
-      "age_hours": 0.8,
+      "published_at": "2026-08-20T18:36:11+00:00",
+      "age_hours": 0.4,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
