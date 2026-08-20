@@ -1,7 +1,29 @@
 {
-  "updated_at": "2026-08-20T14:54:16.383752+00:00",
+  "updated_at": "2026-08-20T16:49:44.114755+00:00",
   "retention_hours": 2,
   "items": [
+    {
+      "title": "Ramp launches its own AI model router, called Router - TechCrunch",
+      "what_happened": "Ramp launches its own AI model router, called Router TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1ppUGg2UDJ4UXFLQTJUdWFkNUx3T3Y2dDhUQ2I3WjhmTHRvS1hmWVN1bFhXTTVBRklERjJPd0pUdTBISVdCU3ViVEdWbEQxSDBIcktFdnpZRkZnZnBLSUlMSFF3WWJJWUc2bUhLN0xLZ1BjUUNySmdXOVFFN184dFEtVDdzYVg1UGIyRTJodw?oc=5",
+      "source_name": "TechCrunch",
+      "source_level": "reputable",
+      "published_at": "2026-08-20T16:46:00+00:00",
+      "age_hours": 0.1,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "How Generative Recommenders Are Redefining RecSys at Scale - NVIDIA Developer",
+      "what_happened": "How Generative Recommenders Are Redefining RecSys at Scale NVIDIA Developer",
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdXlFRkx6RHg2T1JDNGs3ZTFYTm5MS2NOMjJRZTdkSUdkdGJNVW9nMzI4V1hPNEtUODVvVDF0NUgxeDlwWUhaWUljVU51bEFvbUJIZWExTERzcl8zYndUZ2VNT2k0NzQzbUUxQlhzNWN4UUpuU3BaNjIyYm5PNk9CMXFlRGhsQXdJbl9DSGQyWmpIMUFNRUZnLQ?oc=5",
+      "source_name": "NVIDIA Developer",
+      "source_level": "primary",
+      "published_at": "2026-08-20T16:02:19+00:00",
+      "age_hours": 0.8,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "[Video] [Galaxy Unpacked July 2026] Samsung Health Envisions Simpler, More Connected Care With AI",
       "what_happened": "Managing health can be complicated. But what if it didn\u2019t have to be? At Galaxy Unpacked July 2026 in London on July 22, Dr. Hon Pak, Senior Vice President and Head of the Digital Health Team, Mobile eXperience (MX) Business at Samsung Electronics, sat down with cognitive neuroscientist and science communicator Dr. Dong-seon Chang to [\u2026]",
@@ -9,18 +31,7 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-20T16:00:00+00:00",
-      "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.",
-      "what_happened": "NEWS HIGHLIGHTS Six in 10 senior business and IT leaders, robotics specialists, government and healthcare officials expect their organizations to operate robot fleets within five years. Leaders predict full-scale robotics deployment could double operational output. 67% believe they will be ready to manage a mixed human-robot workforce by 2030. 74% believe workforce planning and robotics \u2026 The post Six in 10 Leaders B",
-      "source_url": "https://newsroom.intel.com/artificial-intelligence/6-in-10-leaders-bet-big-on-robots-only-4-in-10-are-ready",
-      "source_name": "newsroom.intel.com",
-      "source_level": "primary",
-      "published_at": "2026-08-20T13:00:06+00:00",
-      "age_hours": 1.9,
+      "age_hours": 0.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
