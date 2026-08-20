@@ -1,17 +1,28 @@
 {
-  "updated_at": "2026-08-20T18:58:24.233221+00:00",
+  "updated_at": "2026-08-20T20:45:07.870403+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "The August 17 outage, and the work ahead",
-      "what_happened": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-20T18:36:11+00:00",
-      "age_hours": 0.4,
+      "title": "Nvidia to Reportedly Pay $6 Billion in Licensing and Hiring Deal with AI Model Startup Poolside - The Information",
+      "what_happened": "Nvidia to Reportedly Pay $6 Billion in Licensing and Hiring Deal with AI Model Startup Poolside The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUpDTFlYZVdIOGhzZDRIbXJZX3ZHcGtmdFFFZEw4UVBKR1lTbEt3X2h5bmtIMFAtMXhUalltY0JGaHloUG9DY3ZFZnV2N0pqQ1o2d0llMjZjNG01N2VxQlczenl0d2xqUUtyT2tYdDFMS3M0OWRDQlVMV2RhM2w0cmpkcDBTRGQxSllPckswQ3lRUVNzdXo0OWo2aEhkNHlVZnpIY1dJcmJqazZYejlvVC1oOUI4dk9WeWd3Ng?oc=5",
+      "source_name": "The Information",
+      "source_level": "reputable",
+      "published_at": "2026-08-20T20:37:11+00:00",
+      "age_hours": 0.1,
       "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Pharma sector doubles down on AI amid hopes of slashing costs, timelines - Reuters",
+      "what_happened": "Pharma sector doubles down on AI amid hopes of slashing costs, timelines Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNnV1bDJ0Q1NTVmtoc3JtclJ3VlpfYTg3SWFTeWh4Zlg0Qk1TNXRnQ2Y0MW1Ra1N3SHRBTFFfejFWZnY5aWt2d0h4NTAtUm5BTTRUQjFuR2YxM0E0UE5hZXR6bWVxSEpFOVRaWGJEVWhfYkZheDBmRjg0OS1KMzhrNVFVOVItRmgyczJnSlNYYXE4WlpUN3Jhd25faXVLZE1VRjlUcTlUb1MtSFhaR0QyWjZwZHdXdVJvNi1Udmh5LVdoNXRRbWJHRldWMTJSMEJIRlZN?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-20T20:25:57+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
