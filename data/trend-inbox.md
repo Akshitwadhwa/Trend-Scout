@@ -2,11 +2,23 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-20T01:50:43.803321+00:00
+Updated: 2026-08-20T03:09:55.962617+00:00
 Memory window: 2 hours
 
-## 1. Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge - CNBC
-Source: CNBC (reputable)
-URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWVrMXRremRVYmR4UFdLWVB3MXZIWloydVVpOXRkX2VPUGRXVXYxWnZQUnVwVWwzZWVVUU1QdzM1WHIyd0lwczBwcEotZkg1b2dsNHlnajNDNjh5a180VjRlWkVZYXhSeDBzZWRreWs1b3ppd0dubmlVbmh0Si03M1VISTJVV0dLOUhfUG4tWmZPZ9IBlwFBVV95cUxNNERqeTVGZS1NTjVDU1paRHdKaG1kcmF2eUpzWlQ3YUpqXzZwdkZsRXRDWGttWG9kMDZ6dE0zYVdqNVNZYXI0WFpFbi1mdUFtMFkyZGpkNEYzeldoaHdFTk1vQlVUdnBhQmR4RmZ0cVc1LVl2OG5wTEZHanA4Z1RYcjItQ2tmMkMzTnA3bnlXZGluZGRrQ3I4?oc=5
+## 1. [Invitation] Galaxy Event August 2026
+Source: news.samsung.com (primary)
+URL: https://news.samsung.com/global/invitation-galaxy-event-august-2026
 
-Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge CNBC
+The Galaxy S26 series raised the bar with its boldest camera and AI innovations yet, making it easier for users to capture, create and connect every day. On August 27th, Samsung Electronics will hold ‘Galaxy Event August 2026’ to introduce the newest addition to the Galaxy S26 family — purposefully designed to bring the core […]
+
+## 2. Samsung Introduces New Over-the-Range Microwave With DualVent Technology
+Source: news.samsung.com (primary)
+URL: https://news.samsung.com/global/samsung-introduces-new-over-the-range-microwave-with-dualvent-technology
+
+Samsung Electronics today announced its new Over-the-Range Microwave in the U.S. and Canada beginning September 2026. The new model introduces DualVent technology, a ventilation system with air intakes at both the bottom and front of the microwave. Additional features include Auto Connectivity and a fingerprint resistant finish that helps maintain the microwave’s clean appearance. “Consumers […]
+
+## 3. Marvell-Google deal expands custom AI chip ambitions - digitimes
+Source: digitimes (reputable)
+URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUFzZkp6djlGeVZRM3FFV0lVUC0wRWxwXzBwR25uazVuTEVsMTh2NEx6R0JIZTVCY0FHMFphV3p3aTFsLThibVdiN3ltanhITzloZ0dqRVJCYTFfQTRWN0NFanZ6Skh2ZjUtSXBrN0JwNlJDWkQyUlZZcUlxUDdIX2pUb2tERGtaeVpHZVZjTldxOFlDLWVPbA?oc=5
+
+Marvell-Google deal expands custom AI chip ambitions digitimes
