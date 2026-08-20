@@ -2,14 +2,14 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-20T20:45:07.870403+00:00
+Updated: 2026-08-20T22:43:56.107474+00:00
 Memory window: 2 hours
 
-## 1. Nvidia to Reportedly Pay $6 Billion in Licensing and Hiring Deal with AI Model Startup Poolside - The Information
-Source: The Information (reputable)
-URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUpDTFlYZVdIOGhzZDRIbXJZX3ZHcGtmdFFFZEw4UVBKR1lTbEt3X2h5bmtIMFAtMXhUalltY0JGaHloUG9DY3ZFZnV2N0pqQ1o2d0llMjZjNG01N2VxQlczenl0d2xqUUtyT2tYdDFMS3M0OWRDQlVMV2RhM2w0cmpkcDBTRGQxSllPckswQ3lRUVNzdXo0OWo2aEhkNHlVZnpIY1dJcmJqazZYejlvVC1oOUI4dk9WeWd3Ng?oc=5
+## 1. Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up - digitimes
+Source: digitimes (reputable)
+URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHgyNjUzbUs3UURzSzFPanNrT1RWZC1ScUFOTVRmUGdyVi14cWtndGJ3X1FDb3RxSHFhNUtkT1o1OGFoT0NzUThsNlMwR1dVeG9JYlF2SUNfTEpBRTJxU0QwYTRrQXZ3YXhlalN2bWdQUGlFM1lyZ0p1RlVjUU9zMG9aVE9TZk9NSU0xYU5YTjZfRDIwU1lV?oc=5
 
-Nvidia to Reportedly Pay $6 Billion in Licensing and Hiring Deal with AI Model Startup Poolside The Information
+Charts: TSMC's share of Taiwan chip manufacturing revenue falls to 81.8% as memory makers scale up digitimes
 
 ## 2. Pharma sector doubles down on AI amid hopes of slashing costs, timelines - Reuters
 Source: Reuters (reputable)
