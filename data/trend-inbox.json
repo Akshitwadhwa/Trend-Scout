@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T03:09:55.962617+00:00",
+  "updated_at": "2026-08-20T04:52:05.783632+00:00",
   "retention_hours": 2,
   "items": [
     {
@@ -23,17 +23,6 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Marvell-Google deal expands custom AI chip ambitions - digitimes",
-      "what_happened": "Marvell-Google deal expands custom AI chip ambitions digitimes",
-      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUFzZkp6djlGeVZRM3FFV0lVUC0wRWxwXzBwR25uazVuTEVsMTh2NEx6R0JIZTVCY0FHMFphV3p3aTFsLThibVdiN3ltanhITzloZ0dqRVJCYTFfQTRWN0NFanZ6Skh2ZjUtSXBrN0JwNlJDWkQyUlZZcUlxUDdIX2pUb2tERGtaeVpHZVZjTldxOFlDLWVPbA?oc=5",
-      "source_name": "digitimes",
-      "source_level": "reputable",
-      "published_at": "2026-08-20T01:59:58+00:00",
-      "age_hours": 1.2,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }

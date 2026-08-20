@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-20T03:09:55.962617+00:00
+Updated: 2026-08-20T04:52:05.783632+00:00
 Memory window: 2 hours
 
 ## 1. [Invitation] Galaxy Event August 2026
@@ -16,9 +16,3 @@ Source: news.samsung.com (primary)
 URL: https://news.samsung.com/global/samsung-introduces-new-over-the-range-microwave-with-dualvent-technology
 
 Samsung Electronics today announced its new Over-the-Range Microwave in the U.S. and Canada beginning September 2026. The new model introduces DualVent technology, a ventilation system with air intakes at both the bottom and front of the microwave. Additional features include Auto Connectivity and a fingerprint resistant finish that helps maintain the microwave’s clean appearance. “Consumers […]
-
-## 3. Marvell-Google deal expands custom AI chip ambitions - digitimes
-Source: digitimes (reputable)
-URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxNNUFzZkp6djlGeVZRM3FFV0lVUC0wRWxwXzBwR25uazVuTEVsMTh2NEx6R0JIZTVCY0FHMFphV3p3aTFsLThibVdiN3ltanhITzloZ0dqRVJCYTFfQTRWN0NFanZ6Skh2ZjUtSXBrN0JwNlJDWkQyUlZZcUlxUDdIX2pUb2tERGtaeVpHZVZjTldxOFlDLWVPbA?oc=5
-
-Marvell-Google deal expands custom AI chip ambitions digitimes
