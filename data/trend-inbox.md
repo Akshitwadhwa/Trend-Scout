@@ -2,11 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-21T03:15:10.927393+00:00
+Updated: 2026-08-21T04:53:32.448071+00:00
 Memory window: 2 hours
 
-## 1. Pharma sector doubles down on AI amid hopes of slashing costs, timelines - Reuters
-Source: Reuters (reputable)
-URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNnV1bDJ0Q1NTVmtoc3JtclJ3VlpfYTg3SWFTeWh4Zlg0Qk1TNXRnQ2Y0MW1Ra1N3SHRBTFFfejFWZnY5aWt2d0h4NTAtUm5BTTRUQjFuR2YxM0E0UE5hZXR6bWVxSEpFOVRaWGJEVWhfYkZheDBmRjg0OS1KMzhrNVFVOVItRmgyczJnSlNYYXE4WlpUN3Jhd25faXVLZE1VRjlUcTlUb1MtSFhaR0QyWjZwZHdXdVJvNi1Udmh5LVdoNXRRbWJHRldWMTJSMEJIRlZN?oc=5
+## 1. High-tech guardians: Korea deploys AI patrol robots to protect historic palaces - The Korea Times
+Source: The Korea Times (reputable)
+URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVlN1Sm4zYTd2b0pQdGRFRG1fcFc4VWRVTnRXR1ExdXNaQ09qRkh6M0FDSExpZXVoY0w5eFFxYXlOMm0tQVhTVUtmOExpSlN1NzN2SFN3Z2s1NGwzVDBPeUM2NFJtenpWRUE1NFhza1NPZi0yX001dHhGc0p1RW9LdHk2V0ZmWW9mcURHbHUwcTFlVkk3RkpGUW1aZmRERUhreGZIdWdDQk5IaXNQUldfWUtNN3hnX2ZGaVo3M3dUWkpnczZmZDN2dFhoN2xmRzRNR0lKanQxanNQRTJSb0HSAd4BQVVfeXFMUFZTdUpuM2E3dm9KUHRkRURtX3BXOFVkVU50V0dRMXVzWkNPakZIejNBQ0hMaWV1aGNMOXhRcWF5TjJtLUFYU1VLZjhMaUpTdTczdkhTd2drNTRsM1QwT3lDNjRSbXp6VkVBNTRYc2tTT2YtMl9NNXR4RnNKdUVvS3R5NldGZllvZnFER2x1MHExZVZJN0ZKRlFtWmZkREVIa3hmSHVnQ0JOSGlzUFJXX1lLTTd4Z19mRmlaNzN3VFpKZ3M2ZmQzdnRYaDdsZkc0TUdJSmp0MWpzUEUyUm9B?oc=5
 
-Pharma sector doubles down on AI amid hopes of slashing costs, timelines Reuters
+High-tech guardians: Korea deploys AI patrol robots to protect historic palaces The Korea Times
