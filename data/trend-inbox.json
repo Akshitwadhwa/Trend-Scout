@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-21T10:45:56.827632+00:00",
+  "updated_at": "2026-08-21T13:09:47.835022+00:00",
   "retention_hours": 2,
   "items": [
+    {
+      "title": "Samsung Electronics To Implement Largest-Ever Shareholder Return in 2026, Estimated at KRW 90 to 110 Trillion",
+      "what_happened": "Samsung Electronics\u2019 Board of Directors convened today and approved a shareholder return plan for 2026, estimated at approximately KRW 90 trillion to KRW 110 trillion. This is approximately five times the size of the previous record of KRW 20.3 trillion, set in 2020 and marks the largest ever by a Korean company. The record-breaking shareholder return is [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-electronics-to-implement-largest-ever-shareholder-return-in-2026-estimated-at-krw-90-to-110-trillion",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-21T18:27:19+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "Samsung\u2019s Human-Centered Design Wins IDEA and Red Dot Design Award 2026",
       "what_happened": "Samsung Electronics today announced that it has received significant honors at the International Design Excellence Awards (IDEA) 2026 and the Red Dot Design Award 2026. These accolades include one Impact Award, nine Bronze awards, and 35 Finalist recognitions at IDEA along with 12 awards in the Red Dot Design Award Brands & Communication Design category [\u2026]",
@@ -14,13 +25,13 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Samsung Electronics plans record shareholder return of up to $79.6 bil. - The Korea Times",
-      "what_happened": "Samsung Electronics plans record shareholder return of up to $79.6 bil. The Korea Times",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObVE3VGxxdjhYZklTdEFXSW01NV9XWFhZdFh4RGt1aTdEOFRrZHJkUmJtUkZPZXBOV2p6bzgzSkNtRkl2ZW9CQWJaUHNOZEdzYzBqd3B5Y2I2SWs0Z1dvVVV0M3ZQNUYyd2tCcDZVV3VPN2N5LW1hYXlyZTZCQVY5ckZOTF9GeGVjcndaUGtlY1JIMHEwOWFid1pCbE5CM2xhalFIVnRWZXZNZmFTOUNWcU1nWWJNWVMtSzk3Y1QyanRaMXpEMnlV0gHMAUFVX3lxTE9PSVlNNVJyUXJiZ2szY1pNaGNqNEVETUhkcGpIYWR0SlhVb0V1NEpmZGtkYmVCb2p0MUlXb3pQTUJKMnVXdU04d19iRU0zeG9CM2RmZlNwaWRSSWpsQTM4dG05bFVpUzViMUhmX1hka18xNEVvckQyVDhsQ2JjNU5VeGU5STFCM3VLSjZEdzFzLTdsdWUwMUhnc1RsLVQ4TzhWYnozQURSUUNEOXp6YUk5NVRqc0dIcGhEdGlCM19PQjdBVHZTOTliU29PLQ?oc=5",
-      "source_name": "The Korea Times",
+      "title": "Exclusive | Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure - WSJ",
+      "what_happened": "Exclusive | Nvidia in Talks to Invest in Data-Center Power Developer Cloverleaf Infrastructure WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZDFTbmlITF9SbTZJcXNLUFhXbEJxVHZBSFlFSnJZbXJSczNUZ25COHQ4ejMzdGlycWJlX3M4UFVra2JQdlFhSm1FQmU4dy1BM1hNc3BfbmdNLTI1cG81RkxJX3RJMkhsbTBfVVlXODBCQTFQWG1mUXkyY0FZejBvY3ZwVFNibVFfLVBmUjVRTGp4NjMwaU9RdXpiVTBBZm1paWVVTFg4SmFuTkk5Yl9Rb1ZXQ3FVQ1dLY3hEN2hsbjBqNjhs?oc=5",
+      "source_name": "WSJ",
       "source_level": "reputable",
-      "published_at": "2026-08-21T10:15:03+00:00",
-      "age_hours": 0.5,
+      "published_at": "2026-08-21T12:30:00+00:00",
+      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
