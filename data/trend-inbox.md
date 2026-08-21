@@ -2,11 +2,17 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-21T07:06:04.629263+00:00
+Updated: 2026-08-21T08:57:10.695619+00:00
 Memory window: 2 hours
 
-## 1. Indonesia advances cybersecurity bill, data protection implementing rules - MLex
-Source: MLex (reputable)
-URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVDRPOGV1djUtQ1M3d1drNUdsWEVtQjZSbHVmcnRyZUlxXzJrRkpSWXZjODFxUnBNWUFOdDZ6NDkzRlVrRXhqTkNBOEJ0UWExZTJuOEFXbG4ydVBOZU5xeTFkTVlaWG05aHlpT3doQ1dhMHlGNGJfMkxQbVFpTm84SGZhZFU4T00tY3F5dGNOSnhHelJqVmNLTWpNaWlqaFRvcWc4d0htTVlCLWNnNXIwUlNzaHpOQlo1X1U2enpCTDNiaUtleG9JblFJV2hwb1M4NzBr0gFaQVVfeXFMT3MtZ2N4bFFIZWR1ZFQ5N0ZqTTNtNy1YOXZjcjFQbnFsaWtYR1psb18wRVo4d1psbzUxdWNWQk9GTVBYMmVzLWlVSjFfTjdUbHRVMnZCTVJGdzN3?oc=5
+## 1. Samsung’s Human-Centered Design Wins IDEA and Red Dot Design Award 2026
+Source: news.samsung.com (primary)
+URL: https://news.samsung.com/global/samsungs-human-centered-design-wins-idea-and-red-dot-design-award-2026
 
-Indonesia advances cybersecurity bill, data protection implementing rules MLex
+Samsung Electronics today announced that it has received significant honors at the International Design Excellence Awards (IDEA) 2026 and the Red Dot Design Award 2026. These accolades include one Impact Award, nine Bronze awards, and 35 Finalist recognitions at IDEA along with 12 awards in the Red Dot Design Award Brands & Communication Design category […]
+
+## 2. Poco M8x 5G launched in India with 7,900mAh battery, Snapdragon 4 Gen 5 chip - India Today
+Source: India Today (reputable)
+URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOXM2NVd3MjhxbjN0ZXYzZVRVbTBXVWRKTnhhSGxNLURZa2wxYlNPZ0dWYWlIRE1zeTR2R0JfRWZJMVVhWGZad3V6dWVXRnJqd01vYWxCbjR0a1BRLXNCQUJGXzZpSXFIc0lpVmJ4WjJ4NlJ5alZCWU9DVzdGUnFFQWItU1NpZWxxMjJ3R3ZEcTNiT3U0YzVkWlZkZzV3T2M0clNlSEh5TTVUNDhWb3JMQ1FIa2pIeDFQZFo2SjdJMUxnX1dCMVo1OVZqWFlIZTgyNnpkcGI4LTLSAd4BQVVfeXFMTjF0c2FoMVhOUjFFSTdDU1JxS0ZNWXowbDVfZHNWQnFDQ2hCWjhBd2lhLXBRSnNvU1ZWcm1IVWhpX29VYkkzSEhyaUlkZzM2ZG03M2d0YTN2a0Fhb0Jjb1V2TmF6Z29uR0RrMV9xblpYMnpXS2Y3Q0pOUkRFbm41YVlaVnBzWWxYY1M4Uml2cGNyNVh0UmxXNGdqV1V6ZlpONlVEOUVOZ3B3NjR6Yi0xVDhGNDRTRlVWMnJvblRwUDNubWRkOG55OURjWUd0cjgtdVJ5TnRURjdUNjJ2eWVR?oc=5
+
+Poco M8x 5G launched in India with 7,900mAh battery, Snapdragon 4 Gen 5 chip India Today
