@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-21T16:50:33.144034+00:00",
+  "updated_at": "2026-08-21T18:54:52.285812+00:00",
   "retention_hours": 2,
   "items": [
+    {
+      "title": "Apple cuts dozens of employees from Vision Pro team, report says - Mashable",
+      "what_happened": "Apple cuts dozens of employees from Vision Pro team, report says Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WZENlZDBfVE44T1Rhc1dObmt1NEVZZFQtRmtEdFh0MXNVWWl6djVpOUpVZGN5UmI2c1pCdl9JSFc5SmdWZVlaY0JxS0xTWFNDamo3UjdVSmFjQ3NEMnRIR1BXVDVhakNoTWR2NU9ESGVrZWs?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-08-21T18:43:37+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Electronics To Implement Largest-Ever Shareholder Return in 2026, Estimated at KRW 90 to 110 Trillion",
       "what_happened": "Samsung Electronics\u2019 Board of Directors convened today and approved a shareholder return plan for 2026, estimated at approximately KRW 90 trillion to KRW 110 trillion. This is approximately five times the size of the previous record of KRW 20.3 trillion, set in 2020 and marks the largest ever by a Korean company. The record-breaking shareholder return is [\u2026]",
@@ -9,29 +20,7 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-21T18:27:19+00:00",
-      "age_hours": 0.0,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "GPU-Accelerated Clustering for Financial Instruments at Scale - NVIDIA Developer",
-      "what_happened": "GPU-Accelerated Clustering for Financial Instruments at Scale NVIDIA Developer",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNFJiVUwzSkhhQ0VYZTFyMnNQbW53WktXTlAtaUJLUlR0R2dZR29FX0VWR0ZZaDRGdVRRSWNvRUVTUVB4QXdrbjc3UjlUNjAzZUlnVlRXdTlPalhQMnhTb21ZUVFvNnljM1UwNVlVdVJGTkNmbS1yLTlfcjdHbGFSM1FySGkzMkhaYkRNbmtCZGZEYjNwUWN4MFpIVVY?oc=5",
-      "source_name": "NVIDIA Developer",
-      "source_level": "primary",
-      "published_at": "2026-08-21T16:35:06+00:00",
-      "age_hours": 0.3,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung\u2019s Human-Centered Design Wins IDEA and Red Dot Design Award 2026",
-      "what_happened": "Samsung Electronics today announced that it has received significant honors at the International Design Excellence Awards (IDEA) 2026 and the Red Dot Design Award 2026. These accolades include one Impact Award, nine Bronze awards, and 35 Finalist recognitions at IDEA along with 12 awards in the Red Dot Design Award Brands & Communication Design category [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsungs-human-centered-design-wins-idea-and-red-dot-design-award-2026",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-21T16:00:00+00:00",
-      "age_hours": 0.8,
+      "age_hours": 0.5,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
