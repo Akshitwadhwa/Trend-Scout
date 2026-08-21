@@ -2,11 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-21T01:56:47.671538+00:00
+Updated: 2026-08-21T03:15:10.927393+00:00
 Memory window: 2 hours
 
-## 1. Stripe weighs US$7 billion OpenRouter deal to expand AI model routing - digitimes
-Source: digitimes (reputable)
-URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0oyemdBeDU2Y2trdGNfQVlaTzhMcEc5UHlKbFVRaVVfdW54RVVOOU4xVzAyd0swZXZuOVM3bGtoQVIyQ3RYZThKRmdfQmhDM1ZleW4wejgtWkpWQklUZE9FRnJ1Y2pLaVVEQmM3cEJqTlhURkIxQWlLRlJCV21vOHVxWm5XQ0NKVFdHWEdibXlGZVV5M1E?oc=5
+## 1. Pharma sector doubles down on AI amid hopes of slashing costs, timelines - Reuters
+Source: Reuters (reputable)
+URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNnV1bDJ0Q1NTVmtoc3JtclJ3VlpfYTg3SWFTeWh4Zlg0Qk1TNXRnQ2Y0MW1Ra1N3SHRBTFFfejFWZnY5aWt2d0h4NTAtUm5BTTRUQjFuR2YxM0E0UE5hZXR6bWVxSEpFOVRaWGJEVWhfYkZheDBmRjg0OS1KMzhrNVFVOVItRmgyczJnSlNYYXE4WlpUN3Jhd25faXVLZE1VRjlUcTlUb1MtSFhaR0QyWjZwZHdXdVJvNi1Udmh5LVdoNXRRbWJHRldWMTJSMEJIRlZN?oc=5
 
-Stripe weighs US$7 billion OpenRouter deal to expand AI model routing digitimes
+Pharma sector doubles down on AI amid hopes of slashing costs, timelines Reuters
