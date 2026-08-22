@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:49:13.170909+00:00",
+  "updated_at": "2026-08-22T03:06:30.736975+00:00",
   "retention_hours": 2,
   "items": [
     {
@@ -9,20 +9,9 @@
       "source_name": "TechCrunch",
       "source_level": "reputable",
       "published_at": "2026-08-22T01:31:04+00:00",
-      "age_hours": 0.3,
+      "age_hours": 1.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "GTC - NVIDIA - NVIDIA",
-      "what_happened": "GTC - NVIDIA NVIDIA",
-      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Xc2Y5eWRzZ2NhaVY2cURNUDM2VC1VczhUdVdLSWM5Ql8xdG5KMXNxUWdhanJfUFc2SncyTnFPWktwbWd3TDI2SWg2SkVKZmlvMFk1SC05REswc29WSlF4bGZIWQ?oc=5",
-      "source_name": "NVIDIA",
-      "source_level": "primary",
-      "published_at": "2026-08-22T00:07:10+00:00",
-      "age_hours": 1.7,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
