@@ -1,5 +1,28 @@
 {
-  "updated_at": "2026-08-22T04:47:41.421035+00:00",
+  "updated_at": "2026-08-22T06:58:13.252825+00:00",
   "retention_hours": 2,
-  "items": []
+  "items": [
+    {
+      "title": "NVIDIA GTC - NVIDIA",
+      "what_happened": "NVIDIA GTC NVIDIA",
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Xc2Y5eWRzZ2NhaVY2cURNUDM2VC1VczhUdVdLSWM5Ql8xdG5KMXNxUWdhanJfUFc2SncyTnFPWktwbWd3TDI2SWg2SkVKZmlvMFk1SC05REswc29WSlF4bGZIWQ?oc=5",
+      "source_name": "NVIDIA",
+      "source_level": "primary",
+      "published_at": "2026-08-22T06:14:21+00:00",
+      "age_hours": 0.7,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Apple to axe over 200 jobs in major reshuffle of Siri AI, Vision Pro teams - The Indian Express",
+      "what_happened": "Apple to axe over 200 jobs in major reshuffle of Siri AI, Vision Pro teams The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbmIwbVRRVlhqWnN4ak5PS29HVjBOY05zWHlkRDY4c1RreG12MDZvOWJlVC1yU2tpSlJIWWZMOENBc284clhFaG8zZ09zc05uQ3BHUlZ6UGZSMnp0YjhVbkprbllYYUFYU2dNcldlX3NqZXoyOGlscVVUa01FbDlwN1FNWE9GVy14ajFOVDlSbE82OENGRHJvdjhxQnU5aWNKRnQwb0xiOVJxaE9reGVUUU1EakjSAbsBQVVfeXFMTmliSm1LaGtCNTY3N2lfRUoxQkFubFhNQU52ZUZYZlpPRG9uNlhGM2ZuRFMzdVRGd2E2VkpMN2pXWllQSE1jd0E1YmFHQ2lUUlBwWWVmWENkV0hFS3cwLTdBUmlDQ0hxeHVpRXNjRnNjVWlVYjVscmZEbDNMTnJNaHFMMlBpLUN0Ykp6SG84aVNic1p2RzZvVUlBUVRCWUhLaHc2T2V4bGdhZWxTeUVtNE1wRTcxNGVuYjc0UQ?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-08-22T05:46:11+00:00",
+      "age_hours": 1.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    }
+  ]
 }
