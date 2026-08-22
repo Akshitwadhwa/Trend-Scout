@@ -2,11 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-22T14:36:37.237387+00:00
+Updated: 2026-08-22T16:39:11.161702+00:00
 Memory window: 2 hours
 
-## 1. GM Ruled U.S. Auto Sales for 100 Years. Now Toyota Is Closing In. - WSJ
+## 1. Oura Restructures Tech Leadership in AI Push - WSJ
 Source: WSJ (reputable)
-URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxPd3VzWnMzNHhpRmgybnVkTmp0R1YyV1AzeVQ4UnZuWC1KdmNFcFNRcFMySjJTSHRJMEJqaW1CenJMMzFzb3c2V05uT1hZaFR0UjZHUlQ2VXJzWTJiSUlOeXJLOW9NYnBJQjJQdlF2cG9ZNUFqUTZUbVJmWGV3ekxfazFEMW5fQQ?oc=5
+URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNSERKd3RBd3NjQzh2UE5kbWs1YlN0U0ZHZE1VSFhpQjljY3VzWUdGR1FJaFJpVTNmVHpFOElrODl0V2xQZU9BNF9rZ1VOcEc1SzhSc3hfeWtBRDgzR1J1c1N1Z0RvRURuSXhscnRQSE1aZndsQlhhcHZ6eV9fa0dvZWM4ZXRLSHpwV014bkFB?oc=5
 
-GM Ruled U.S. Auto Sales for 100 Years. Now Toyota Is Closing In. WSJ
+Oura Restructures Tech Leadership in AI Push WSJ
