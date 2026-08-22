@@ -2,11 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-22T18:47:41.838977+00:00
+Updated: 2026-08-22T20:38:16.131438+00:00
 Memory window: 2 hours
 
-## 1. Oura Restructures Tech Leadership in AI Push - WSJ
-Source: WSJ (reputable)
-URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNSERKd3RBd3NjQzh2UE5kbWs1YlN0U0ZHZE1VSFhpQjljY3VzWUdGR1FJaFJpVTNmVHpFOElrODl0V2xQZU9BNF9rZ1VOcEc1SzhSc3hfeWtBRDgzR1J1c1N1Z0RvRURuSXhscnRQSE1aZndsQlhhcHZ6eV9fa0dvZWM4ZXRLSHpwV014bkFB?oc=5
+## 1. Nvidia customers reportedly warned about AI-related price hikes - CNBC
+Source: CNBC (reputable)
+URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5
 
-Oura Restructures Tech Leadership in AI Push WSJ
+Nvidia customers reportedly warned about AI-related price hikes CNBC
