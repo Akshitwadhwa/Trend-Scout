@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T16:39:11.161702+00:00",
+  "updated_at": "2026-08-22T18:47:41.838977+00:00",
   "retention_hours": 2,
   "items": [
     {
@@ -8,8 +8,8 @@
       "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSERKd3RBd3NjQzh2UE5kbWs1YlN0U0ZHZE1VSFhpQjljY3VzWUdGR1FJaFJpVTNmVHpFOElrODl0V2xQZU9BNF9rZ1VOcEc1SzhSc3hfeWtBRDgzR1J1c1N1Z0RvRURuSXhscnRQSE1aZndsQlhhcHZ6eV9fa0dvZWM4ZXRLSHpwV014bkFB?oc=5",
       "source_name": "WSJ",
       "source_level": "reputable",
-      "published_at": "2026-08-22T15:34:40+00:00",
-      "age_hours": 1.1,
+      "published_at": "2026-08-22T18:34:41+00:00",
+      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
