@@ -1,28 +1,39 @@
 {
-  "updated_at": "2026-08-23T20:37:37.633924+00:00",
+  "updated_at": "2026-08-23T22:36:52.661005+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "Samsung, SK hynix pour fresh investment into aging China factories despite U.S. curbs - Korea JoongAng Daily",
-      "what_happened": "Samsung, SK hynix pour fresh investment into aging China factories despite U.S. curbs Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUXM5N3h5aWpSM0p5bHFValNmeURuUjItTjVGX1hiTjVJQUtINnlmd2Q4RUpDSjM4LWctUlZqRDRJeUlVakJmYU1oVWNMMkhsdVRzenBDNnF0Ri1IbE0ySUVmTHpoY2l0d05panpVZ3Y5NHV2ZGdORHRnNU5VaHM3Uko4bXZmUTJsaTRFNnpKNTRWTXg5cGNSX0ZDVDFXOWVrOVhDekdPRmhna1gwaUlVanE4UlRrdjlLRmdLSGNMSjBOcENaQnFHWHVROE1tb25x?oc=5",
-      "source_name": "Korea JoongAng Daily",
+      "title": "Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts",
+      "what_happened": "Samsung Electronics today announced that Galaxy Buds4 Pro has received the EISA In-Ear Headphones 2026-2027 Award by the Expert Imaging and Sound Association (EISA). This marks the first time a Galaxy Buds product has earned this recognition from EISA, underscoring Samsung\u2019s continued commitment to audio innovation, superior sound quality, intelligent adaptive listening technologies, and user-focused [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-galaxy-buds4-pro-superior-hi-fi-sound-recognized-by-audio-experts",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Nvidia, Salesforce Are in Spotlight This Week - The Information",
+      "what_happened": "Nvidia, Salesforce Are in Spotlight This Week The Information",
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYktYR2NJZF95NWYwb0lWaDhiMHBVMGlkazE3dzZ1SHVjWXZWSTVXNzhmNXRXa1pmM1pFOXRUWTNmYjFzWmw4S2ZVdEZUd21nVU83QngwWUZBdzNXVmstSllXeURDcXdweDZFRXB4TWpEYzk5c3hBVzgwclVuM0prZWFQVTN6Y1NXY2dWSzMwOGtmdw?oc=5",
+      "source_name": "The Information",
       "source_level": "reputable",
-      "published_at": "2026-08-23T20:00:41+00:00",
+      "published_at": "2026-08-23T22:01:00+00:00",
       "age_hours": 0.6,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks - The Guardian",
-      "what_happened": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks The Guardian",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
-      "source_name": "The Guardian",
-      "source_level": "reputable",
-      "published_at": "2026-08-23T19:00:00+00:00",
-      "age_hours": 1.6,
+      "title": "Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts - samsung.com",
+      "what_happened": "Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts samsung.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjZOUlJhMnAwSXdONDljM25aZ0tacTlDaU9iOHZNaE5ONGlPcHQ0UDh4cVBYSmY3dFZlYXpnMmh3VjVXc25vb1h2bEtRVER0WnIwY1dlUkdFQXVUc1F4R3NWNDlIQW85Z1Z3b2VNbWJNR2syUG5pb0lFeFpFalpsWEtSQmxIOVpoaVpyTUQwUzlFTTFRaFExejM2ejFzcllfYklrUDRCNzU?oc=5",
+      "source_name": "samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-23T22:00:00+00:00",
+      "age_hours": 0.6,
       "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
