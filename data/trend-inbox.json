@@ -1,17 +1,5 @@
 {
-  "updated_at": "2026-08-23T01:58:42.823246+00:00",
+  "updated_at": "2026-08-23T03:14:24.428438+00:00",
   "retention_hours": 2,
-  "items": [
-    {
-      "title": "Samsung Plans Biggest-Ever Buyback Amid AI Windfall - WSJ",
-      "what_happened": "Samsung Plans Biggest-Ever Buyback Amid AI Windfall WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMkRsVFl1ZHQ0YlUwSk1EdmN6SlA3UVA3UmRxZEdhOGpDRmI3MURrblBtYVNuSVpMUHd1cHhoTTdHVUpGRWxGb0dLLWdUWi0tekY0Y3JxdWd5dFpaajJTdmVFSEhGSEs0QjVhZ01ERko0X2ZGbzNjS3BlbjlkT2h0Y0xsUFpid0ZRVzJiM3RLSjZIQ3M?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-23T01:50:02+00:00",
-      "age_hours": 0.1,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    }
-  ]
+  "items": []
 }
