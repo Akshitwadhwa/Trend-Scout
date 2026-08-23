@@ -2,23 +2,17 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-23T13:00:32.791969+00:00
+Updated: 2026-08-23T14:37:11.960731+00:00
 Memory window: 2 hours
 
-## 1. Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked — Agency closes foreign UAS loophole on 230g HoverAir Versa - Tom's Hardware
-Source: Tom's Hardware (reputable)
-URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHVzMEZ3LWJlLV9uRjdqRHp6LVFyUEloTEM5T3NUc281OXV4SDFGanU3QkNJd0hxTjhVcldLRjFuMDZYYWpIWTFwMnNDV29YUENNajlVclc3dlExZ0lGbXVBQi1aUXR2STVjRF9adFU1Y3B0WEFEc2JBU213UjlESjRjNi0wcmlTV0xmNTI2dW4yVXpVSUtZb2VOckZSRGVfRGltaVpCOUhiVFJXOGg5Q1dR?oc=5
+## 1. Robots smash human track records, including Bolt's 100m sprint — video - The Guardian
+Source: The Guardian (reputable)
+URL: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMndENnc2V0N4bUU5SDJVMXRmTndBck92cWl3NWhLazBpakE4eFF3UjNRdnY3Ti13SmI0ZlhOTXNSRjdtcWpZVDJHQ0V1MGhDWXo1c09kemcxRjdaa2J3QWo1ZEtUcGxhMC1IaGRKYUlIaEdRNm9sNnhnM1BsSlhNRzNTYjU3UXJQTGJqNWdDa25XT05Vc2daOHpWMEdBNm4zUUZ5bEdZNEVWSkNFbTFxTWpsbEdBYXNnS3JN?oc=5
 
-Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked — Agency closes foreign UAS loophole on 230g HoverAir Versa Tom's Hardware
+Robots smash human track records, including Bolt's 100m sprint — video The Guardian
 
-## 2. African businesses keep options open as Chinese AI gains ground - South China Morning Post
-Source: South China Morning Post (reputable)
-URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxPakdKUWc4TkNfTWd0eUZtcWxHREUxWTBqYU1PSjR3NG03VWFnQ0F6Qm9MSi1qYlNpdUQtemRsWVdsQy1DazdVdHhncDJzN1dLWlBGZnpRZ2xJZ0NDbWo3Z0V0S3FzR2F2eXZlek9jWDFtTkZ6dFAxRml0UkI1SmUxdXprWnZzQmYtX2x5cWY2cEVVTXg5MVlHbnNVOTdIaHZETzFkcV9kT2oteW1nQ0diZ1h0cWZOLTVTLVdacw?oc=5
+## 2. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian
+Source: The Guardian (reputable)
+URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5
 
-African businesses keep options open as Chinese AI gains ground South China Morning Post
-
-## 3. The Hidden Debt That Apple Owes to the CIA - WSJ
-Source: WSJ (reputable)
-URL: https://news.google.com/rss/articles/CBMia0FVX3lxTE1IUVcwa1ZCQlhOWms5XzZZaThMcVpybGkzSXF0SmlsMEdyeUxGRTEwMkwzVFR1a1Z2aUYzT2dwN1QtYXVndmpwd2xzb1dYNW1JaDRnNDZqd1U5YlQtVUJmWTBFejNpXzlpb2tF?oc=5
-
-The Hidden Debt That Apple Owes to the CIA WSJ
+‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks The Guardian

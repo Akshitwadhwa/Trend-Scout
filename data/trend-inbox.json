@@ -1,37 +1,26 @@
 {
-  "updated_at": "2026-08-23T13:00:32.791969+00:00",
+  "updated_at": "2026-08-23T14:37:11.960731+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked \u2014 Agency closes foreign UAS loophole on 230g HoverAir Versa - Tom's Hardware",
-      "what_happened": "Modular pocket gimbal camera that transforms into a self-flying drone retroactively banned by FCC, certification revoked \u2014 Agency closes foreign UAS loophole on 230g HoverAir Versa Tom's Hardware",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHVzMEZ3LWJlLV9uRjdqRHp6LVFyUEloTEM5T3NUc281OXV4SDFGanU3QkNJd0hxTjhVcldLRjFuMDZYYWpIWTFwMnNDV29YUENNajlVclc3dlExZ0lGbXVBQi1aUXR2STVjRF9adFU1Y3B0WEFEc2JBU213UjlESjRjNi0wcmlTV0xmNTI2dW4yVXpVSUtZb2VOckZSRGVfRGltaVpCOUhiVFJXOGg5Q1dR?oc=5",
-      "source_name": "Tom's Hardware",
+      "title": "Robots smash human track records, including Bolt's 100m sprint \u2014 video - The Guardian",
+      "what_happened": "Robots smash human track records, including Bolt's 100m sprint \u2014 video The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMndENnc2V0N4bUU5SDJVMXRmTndBck92cWl3NWhLazBpakE4eFF3UjNRdnY3Ti13SmI0ZlhOTXNSRjdtcWpZVDJHQ0V1MGhDWXo1c09kemcxRjdaa2J3QWo1ZEtUcGxhMC1IaGRKYUlIaEdRNm9sNnhnM1BsSlhNRzNTYjU3UXJQTGJqNWdDa25XT05Vc2daOHpWMEdBNm4zUUZ5bEdZNEVWSkNFbTFxTWpsbEdBYXNnS3JN?oc=5",
+      "source_name": "The Guardian",
       "source_level": "reputable",
-      "published_at": "2026-08-23T12:30:00+00:00",
-      "age_hours": 0.5,
+      "published_at": "2026-08-23T14:23:00+00:00",
+      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "African businesses keep options open as Chinese AI gains ground - South China Morning Post",
-      "what_happened": "African businesses keep options open as Chinese AI gains ground South China Morning Post",
-      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPakdKUWc4TkNfTWd0eUZtcWxHREUxWTBqYU1PSjR3NG03VWFnQ0F6Qm9MSi1qYlNpdUQtemRsWVdsQy1DazdVdHhncDJzN1dLWlBGZnpRZ2xJZ0NDbWo3Z0V0S3FzR2F2eXZlek9jWDFtTkZ6dFAxRml0UkI1SmUxdXprWnZzQmYtX2x5cWY2cEVVTXg5MVlHbnNVOTdIaHZETzFkcV9kT2oteW1nQ0diZ1h0cWZOLTVTLVdacw?oc=5",
-      "source_name": "South China Morning Post",
+      "title": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks - The Guardian",
+      "what_happened": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
+      "source_name": "The Guardian",
       "source_level": "reputable",
-      "published_at": "2026-08-23T12:00:05+00:00",
-      "age_hours": 1.0,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "The Hidden Debt That Apple Owes to the CIA - WSJ",
-      "what_happened": "The Hidden Debt That Apple Owes to the CIA WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IUVcwa1ZCQlhOWms5XzZZaThMcVpybGkzSXF0SmlsMEdyeUxGRTEwMkwzVFR1a1Z2aUYzT2dwN1QtYXVndmpwd2xzb1dYNW1JaDRnNDZqd1U5YlQtVUJmWTBFejNpXzlpb2tF?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-08-23T11:04:28+00:00",
-      "age_hours": 1.9,
+      "published_at": "2026-08-23T13:56:00+00:00",
+      "age_hours": 0.7,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
