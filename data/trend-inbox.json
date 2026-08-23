@@ -1,5 +1,28 @@
 {
-  "updated_at": "2026-08-23T18:47:03.613521+00:00",
+  "updated_at": "2026-08-23T20:37:37.633924+00:00",
   "retention_hours": 2,
-  "items": []
+  "items": [
+    {
+      "title": "Samsung, SK hynix pour fresh investment into aging China factories despite U.S. curbs - Korea JoongAng Daily",
+      "what_happened": "Samsung, SK hynix pour fresh investment into aging China factories despite U.S. curbs Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUXM5N3h5aWpSM0p5bHFValNmeURuUjItTjVGX1hiTjVJQUtINnlmd2Q4RUpDSjM4LWctUlZqRDRJeUlVakJmYU1oVWNMMkhsdVRzenBDNnF0Ri1IbE0ySUVmTHpoY2l0d05panpVZ3Y5NHV2ZGdORHRnNU5VaHM3Uko4bXZmUTJsaTRFNnpKNTRWTXg5cGNSX0ZDVDFXOWVrOVhDekdPRmhna1gwaUlVanE4UlRrdjlLRmdLSGNMSjBOcENaQnFHWHVROE1tb25x?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-08-23T20:00:41+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks - The Guardian",
+      "what_happened": "\u2018We are hitting a different chapter\u2019: OpenAI leader warns of threat of \u2018persistent\u2019 AI cyber-attacks The Guardian",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5",
+      "source_name": "The Guardian",
+      "source_level": "reputable",
+      "published_at": "2026-08-23T19:00:00+00:00",
+      "age_hours": 1.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    }
+  ]
 }
