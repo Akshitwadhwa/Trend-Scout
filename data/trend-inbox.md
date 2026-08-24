@@ -2,17 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-24T09:03:24.549084+00:00
+Updated: 2026-08-24T10:52:26.768005+00:00
 Memory window: 2 hours
 
-## 1. Kospi closes over 3% lower amid Samsung's shareholder return plan - Korea JoongAng Daily
-Source: Korea JoongAng Daily (reputable)
-URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxNelE3YTRpUGVkT0EzSFpfWnRoUXItVE5xbnduSERWMDc3bm1vdlg0b09xNTZ1UlNpZ1pyY25oR1d2a1RBTXRfWnUxb3J3Y19GNXlyaWZ5NF9Wb0FYR1Zpb3VuUXJCVVFPTkVsSnZkOThlUHN0M0VRbXlmd2FpQzd3SHdOUEdCSVZYLXNGR1h0NEFob2U0RVVsanBxMHZfa0ZXZi1VVzhUbW16Ty1SMHBwaUNRdXA3eXM?oc=5
+## 1. Seema Shah: Nvidia earnings will be key to how the market moves this week - CNBC
+Source: CNBC (reputable)
+URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3psWEdpcFVHOEIySlZnTml2c0tvelMzOE50Vm9BZVFBQldUUXlGZlNWTzZQb1VtWnBEQWladTdDRGxBM01uQ2NBckhqc1BNUUtnSFRGMzF3WUZ6M2R5RHZ1Q1pVMkpfMkxXTzR6LWQ1QmQzcXpEYWczQXdTeHpxOFdLRmI1cndmTHU2NURib2d2YWJWWFc3VFpiZzFEd0h1bkgyZnJlMmVSZ3lJNmNFN19ZR25ldw?oc=5
 
-Kospi closes over 3% lower amid Samsung's shareholder return plan Korea JoongAng Daily
-
-## 2. Samsung Electronics shares skid as record shareholder return disappoints - KED Global
-Source: KED Global (reputable)
-URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZOVk0VTY5QlUtenZLbEhsMUY4Smp5RzJOZzdRdEZueFlkbTF4SmtZcUNmSHQtZ3RxRXhwVDR5blRWVnZJaXV0U3QxekJibGNndXZ5QTE4THNWa21qS3lDMS1TeF9GdWRuUUVRTFotVU1PMmVGaU1v?oc=5
-
-Samsung Electronics shares skid as record shareholder return disappoints KED Global
+Seema Shah: Nvidia earnings will be key to how the market moves this week CNBC
