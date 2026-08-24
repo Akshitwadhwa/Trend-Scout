@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-08-24T13:11:54.003147+00:00",
+  "updated_at": "2026-08-24T14:58:49.361780+00:00",
   "retention_hours": 2,
   "items": [
+    {
+      "title": "Infineon to acquire C2i Semiconductors, bets on India for AI power chip innovation - Moneycontrol.com",
+      "what_happened": "Infineon to acquire C2i Semiconductors, bets on India for AI power chip innovation Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeG01SUhJOXo3WU1adHdpVE9PVWU5M1RTWjA1akY4NEdqeDBVUDc3YjVsRk5rVjdHSXdPVFNjcGtrS0NkaFIyV0h3NjVzdlA1NjVPN0RPajYxYTZFNWQ0UUxCbGNqZFFlUU1HeFJMTlEycjQ4SVdiUVJtNlYwb2Rtd0Rhemk4X2NtZ0ZFSVN3b0RTSXdEdTBtbnlHXzlGaVVjTElKUzZoc0RaamRKUGQwR1M5cmxCQlhicGxOLTlkeWtLVFh3OHhoTWhldktQZ3VJQ3RxSUhlSE1MTUHSAeABQVVfeXFMUEU5Zm91djRiSk0wSWRxN2NZZ2lCLVlwdktLZUlvSW9Sc3p1c0VHTXVIa0J2Tzh6anRGNHVwQ1NfejlFSWxJMVBpTTNucHpxZzkxcHlJdFZsVTF2SHF0TWpvcTE5VkR0M3dsWmVpSDM4THlVMld2ZzRnTlV5a1ZMdWZ0TDZId3FJS3RjYmZZMWJ6Yy1QZWhROW5wRUZUVGNIS3VEbWJLZzJkSnJndU43RU8tQjVla3VucUJhRV9wQTlEd200Q3gwazAxa0RXZl82TTlyajR0ZXNnZUY5SGhNdkw?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-24T14:34:29+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia exploring price hikes for some of its largest customers: Report - CNBC",
+      "what_happened": "Nvidia exploring price hikes for some of its largest customers: Report CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWF4NERUZ1dIaXVpeWV1Z29Nb0hiVEF3UEhNRXFkVEwxcFlfZ2hKSEhOVzU1Z2dsZ2c1ejhUMURBWlpSc1V0YmNHSnN3TmtPWk1FVllZbzBhdkRpS2RxaUh0dUg1RDFYX2t0VzEteXozWFNlT2tKZERfUTFIQ01nZGRIVlZ4MHM4d3BGaGVWVm51NEVDY1pVQWZBdFV1dkVFdl9iaWJyMWtHczRMWXM1a2N3?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-24T14:23:10+00:00",
+      "age_hours": 0.6,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Samsung Electronics shares skid as record shareholder return disappoints - KED Global",
+      "what_happened": "Samsung Electronics shares skid as record shareholder return disappoints KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZOVk0VTY5QlUtenZLbEhsMUY4Smp5RzJOZzdRdEZueFlkbTF4SmtZcUNmSHQtZ3RxRXhwVDR5blRWVnZJaXV0U3QxekJibGNndXZ5QTE4THNWa21qS3lDMS1TeF9GdWRuUUVRTFotVU1PMmVGaU1v?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-08-24T13:10:00+00:00",
+      "age_hours": 1.8,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider",
       "what_happened": "Here's how Thomson Reuters is loosening Claude's costly grip Business Insider",
@@ -9,7 +42,7 @@
       "source_name": "Business Insider",
       "source_level": "reputable",
       "published_at": "2026-08-24T13:01:58+00:00",
-      "age_hours": 0.2,
+      "age_hours": 1.9,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
