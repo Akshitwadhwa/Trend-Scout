@@ -1,15 +1,26 @@
 {
-  "updated_at": "2026-08-24T20:47:25.679718+00:00",
+  "updated_at": "2026-08-24T22:42:48.860294+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro - OpenAI",
-      "what_happened": "Advancing price-performance for developers with GPT\u20115.6 in Kiro OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KREpjX0wxZ2hweXkxbzN2cmFNT0VmZENCbUp1VS1NWTh2NXJCdEZuazlqYXlVallVVGp4RnY3RFBlQWdqWGU2a2FPWGZ1WXJUVEhz?oc=5",
-      "source_name": "OpenAI",
+      "title": "China's humanoid robots are stealing the show, but a quiter machine revolution is unfolding - BBC",
+      "what_happened": "China's humanoid robots are stealing the show, but a quiter machine revolution is unfolding BBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YSHJobThkT1VuRXpDWFFVU1FXZ2trVFRwVzlwYjlTck1XbElFRGhJSUtyN2xRY0hKbEtDdDVrWTIyR2ZYVjZ4dFI5RWdUMV9pak1qcFlUYk9IUQ?oc=5",
+      "source_name": "BBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-24T22:13:20+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Your alt text passes automated checks. That doesn\u2019t mean it\u2019s any good.",
+      "what_happened": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn\u2019t mean it\u2019s any good. appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+      "source_name": "github.blog",
       "source_level": "primary",
-      "published_at": "2026-08-24T19:05:56+00:00",
-      "age_hours": 1.7,
+      "published_at": "2026-08-24T20:56:32+00:00",
+      "age_hours": 1.8,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
