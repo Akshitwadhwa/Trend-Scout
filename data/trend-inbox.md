@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-23T22:36:52.661005+00:00
+Updated: 2026-08-24T01:56:27.610182+00:00
 Memory window: 2 hours
 
 ## 1. Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts
@@ -11,14 +11,20 @@ URL: https://news.samsung.com/global/samsung-galaxy-buds4-pro-superior-hi-fi-sou
 
 Samsung Electronics today announced that Galaxy Buds4 Pro has received the EISA In-Ear Headphones 2026-2027 Award by the Expert Imaging and Sound Association (EISA). This marks the first time a Galaxy Buds product has earned this recognition from EISA, underscoring Samsung’s continued commitment to audio innovation, superior sound quality, intelligent adaptive listening technologies, and user-focused […]
 
-## 2. Nvidia, Salesforce Are in Spotlight This Week - The Information
-Source: The Information (reputable)
-URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxQYktYR2NJZF95NWYwb0lWaDhiMHBVMGlkazE3dzZ1SHVjWXZWSTVXNzhmNXRXa1pmM1pFOXRUWTNmYjFzWmw4S2ZVdEZUd21nVU83QngwWUZBdzNXVmstSllXeURDcXdweDZFRXB4TWpEYzk5c3hBVzgwclVuM0prZWFQVTN6Y1NXY2dWSzMwOGtmdw?oc=5
+## 2. Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix - KED Global
+Source: KED Global (reputable)
+URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE1wYWxsX3E3MHZPb1JpOTJoWkRlWGpFcHNMaHg3bXlGbEN1TWVLalU0VXB0ZWpFbVBRa2xvWHVDTUNEZzBkNE1sWGlaT0JRYU1HaXhoM0lhZ0Q1c1QxUnlOTXJPTF9tWFBqMTFMMDRJWGxXb2ppckNV?oc=5
 
-Nvidia, Salesforce Are in Spotlight This Week The Information
+Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix KED Global
 
-## 3. Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts - samsung.com
-Source: samsung.com (primary)
-URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjZOUlJhMnAwSXdONDljM25aZ0tacTlDaU9iOHZNaE5ONGlPcHQ0UDh4cVBYSmY3dFZlYXpnMmh3VjVXc25vb1h2bEtRVER0WnIwY1dlUkdFQXVUc1F4R3NWNDlIQW85Z1Z3b2VNbWJNR2syUG5pb0lFeFpFalpsWEtSQmxIOVpoaVpyTUQwUzlFTTFRaFExejM2ejFzcllfYklrUDRCNzU?oc=5
+## 3. Kospi opens lower as Nvidia earnings loom - Korea JoongAng Daily
+Source: Korea JoongAng Daily (reputable)
+URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxQanFjUkpNWUQ2cHdwTVA3VEFyRVZteHBVbUFmb0R3WWQ2WUhnZEpFMW9lN1hlQ1lyc01xUUdLdlhrWWRQcXdHcGswMHMyZm5PMFpyVmdPRDI2eE1kX0hoWTB6T2YyNVJlRkdLNUFDM3BLZXJKekIxZ1g3TlByQXB5VE02XzdzR2I0OVlYVmphazdLcDVQendmQUtR?oc=5
 
-Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts samsung.com
+Kospi opens lower as Nvidia earnings loom Korea JoongAng Daily
+
+## 4. Wall Street Is Counting on Nvidia to Keep the AI Party Going - WSJ
+Source: WSJ (reputable)
+URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEVGeXQwZFloV1dOS1JyclZMeDdyMmJZcF9KRVlwR1d6NVhITlh5Ml84cHhadmNpaTcxSHFneU16YTUweXUzY1c4eTVDV3Q5WjZmZF9sWlRPa3dzWUZoaGV3SjBhUkR4N2ZoQ1Q0YlY2cWloNVQ0cWl2bGJ0VG1xN0I1Vlg4QUQ0TG82emJDcS0zVTJ3Qk9vcFFMWHpNb09UY1YxV1NzQQ?oc=5
+
+Wall Street Is Counting on Nvidia to Keep the AI Party Going WSJ

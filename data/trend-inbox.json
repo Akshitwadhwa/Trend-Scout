@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T22:36:52.661005+00:00",
+  "updated_at": "2026-08-24T01:56:27.610182+00:00",
   "retention_hours": 2,
   "items": [
     {
@@ -14,26 +14,37 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Nvidia, Salesforce Are in Spotlight This Week - The Information",
-      "what_happened": "Nvidia, Salesforce Are in Spotlight This Week The Information",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYktYR2NJZF95NWYwb0lWaDhiMHBVMGlkazE3dzZ1SHVjWXZWSTVXNzhmNXRXa1pmM1pFOXRUWTNmYjFzWmw4S2ZVdEZUd21nVU83QngwWUZBdzNXVmstSllXeURDcXdweDZFRXB4TWpEYzk5c3hBVzgwclVuM0prZWFQVTN6Y1NXY2dWSzMwOGtmdw?oc=5",
-      "source_name": "The Information",
+      "title": "Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix - KED Global",
+      "what_happened": "Memory crunch drives Nvidia price hikes, cutting both ways for Samsung, SK Hynix KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wYWxsX3E3MHZPb1JpOTJoWkRlWGpFcHNMaHg3bXlGbEN1TWVLalU0VXB0ZWpFbVBRa2xvWHVDTUNEZzBkNE1sWGlaT0JRYU1HaXhoM0lhZ0Q1c1QxUnlOTXJPTF9tWFBqMTFMMDRJWGxXb2ppckNV?oc=5",
+      "source_name": "KED Global",
       "source_level": "reputable",
-      "published_at": "2026-08-23T22:01:00+00:00",
-      "age_hours": 0.6,
+      "published_at": "2026-08-24T01:44:17+00:00",
+      "age_hours": 0.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts - samsung.com",
-      "what_happened": "Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts samsung.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbjZOUlJhMnAwSXdONDljM25aZ0tacTlDaU9iOHZNaE5ONGlPcHQ0UDh4cVBYSmY3dFZlYXpnMmh3VjVXc25vb1h2bEtRVER0WnIwY1dlUkdFQXVUc1F4R3NWNDlIQW85Z1Z3b2VNbWJNR2syUG5pb0lFeFpFalpsWEtSQmxIOVpoaVpyTUQwUzlFTTFRaFExejM2ejFzcllfYklrUDRCNzU?oc=5",
-      "source_name": "samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-08-23T22:00:00+00:00",
-      "age_hours": 0.6,
+      "title": "Kospi opens lower as Nvidia earnings loom - Korea JoongAng Daily",
+      "what_happened": "Kospi opens lower as Nvidia earnings loom Korea JoongAng Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQanFjUkpNWUQ2cHdwTVA3VEFyRVZteHBVbUFmb0R3WWQ2WUhnZEpFMW9lN1hlQ1lyc01xUUdLdlhrWWRQcXdHcGswMHMyZm5PMFpyVmdPRDI2eE1kX0hoWTB6T2YyNVJlRkdLNUFDM3BLZXJKekIxZ1g3TlByQXB5VE02XzdzR2I0OVlYVmphazdLcDVQendmQUtR?oc=5",
+      "source_name": "Korea JoongAng Daily",
+      "source_level": "reputable",
+      "published_at": "2026-08-24T01:03:09+00:00",
+      "age_hours": 0.9,
       "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Wall Street Is Counting on Nvidia to Keep the AI Party Going - WSJ",
+      "what_happened": "Wall Street Is Counting on Nvidia to Keep the AI Party Going WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcEVGeXQwZFloV1dOS1JyclZMeDdyMmJZcF9KRVlwR1d6NVhITlh5Ml84cHhadmNpaTcxSHFneU16YTUweXUzY1c4eTVDV3Q5WjZmZF9sWlRPa3dzWUZoaGV3SjBhUkR4N2ZoQ1Q0YlY2cWloNVQ0cWl2bGJ0VG1xN0I1Vlg4QUQ0TG82emJDcS0zVTJ3Qk9vcFFMWHpNb09UY1YxV1NzQQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-24T01:00:00+00:00",
+      "age_hours": 0.9,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
