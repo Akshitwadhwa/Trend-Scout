@@ -2,17 +2,17 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-24T07:19:06.012637+00:00
+Updated: 2026-08-24T09:03:24.549084+00:00
 Memory window: 2 hours
 
-## 1. Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts
-Source: news.samsung.com (primary)
-URL: https://news.samsung.com/global/samsung-galaxy-buds4-pro-superior-hi-fi-sound-recognized-by-audio-experts
+## 1. Kospi closes over 3% lower amid Samsung's shareholder return plan - Korea JoongAng Daily
+Source: Korea JoongAng Daily (reputable)
+URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxNelE3YTRpUGVkT0EzSFpfWnRoUXItVE5xbnduSERWMDc3bm1vdlg0b09xNTZ1UlNpZ1pyY25oR1d2a1RBTXRfWnUxb3J3Y19GNXlyaWZ5NF9Wb0FYR1Zpb3VuUXJCVVFPTkVsSnZkOThlUHN0M0VRbXlmd2FpQzd3SHdOUEdCSVZYLXNGR1h0NEFob2U0RVVsanBxMHZfa0ZXZi1VVzhUbW16Ty1SMHBwaUNRdXA3eXM?oc=5
 
-Samsung Electronics today announced that Galaxy Buds4 Pro has received the EISA In-Ear Headphones 2026-2027 Award by the Expert Imaging and Sound Association (EISA). This marks the first time a Galaxy Buds product has earned this recognition from EISA, underscoring Samsung’s continued commitment to audio innovation, superior sound quality, intelligent adaptive listening technologies, and user-focused […]
+Kospi closes over 3% lower amid Samsung's shareholder return plan Korea JoongAng Daily
 
-## 2. High oil prices, subsidies and affordable models fuel European EV sales - Reuters
-Source: Reuters (reputable)
-URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43V2tPNkZGaDRiZlg1U3lOMVJZQ2ZFOWpOZU1PNU1ocmNpODlYeGU0Wm5YSlMxNUg1MzRyd20tVmJXS0FBMksyS0hYdG9NR1hYQkZZSDZ3dmYyTUVtLTlnTkJSRUxBT1U?oc=5
+## 2. Samsung Electronics shares skid as record shareholder return disappoints - KED Global
+Source: KED Global (reputable)
+URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZOVk0VTY5QlUtenZLbEhsMUY4Smp5RzJOZzdRdEZueFlkbTF4SmtZcUNmSHQtZ3RxRXhwVDR5blRWVnZJaXV0U3QxekJibGNndXZ5QTE4THNWa21qS3lDMS1TeF9GdWRuUUVRTFotVU1PMmVGaU1v?oc=5
 
-High oil prices, subsidies and affordable models fuel European EV sales Reuters
+Samsung Electronics shares skid as record shareholder return disappoints KED Global
