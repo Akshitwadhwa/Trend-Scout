@@ -2,7 +2,7 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-24T03:15:53.886145+00:00
+Updated: 2026-08-24T04:59:50.223506+00:00
 Memory window: 2 hours
 
 ## 1. Samsung Galaxy Buds4 Pro Superior Hi-Fi Sound Recognized by Audio Experts
@@ -11,20 +11,14 @@ URL: https://news.samsung.com/global/samsung-galaxy-buds4-pro-superior-hi-fi-sou
 
 Samsung Electronics today announced that Galaxy Buds4 Pro has received the EISA In-Ear Headphones 2026-2027 Award by the Expert Imaging and Sound Association (EISA). This marks the first time a Galaxy Buds product has earned this recognition from EISA, underscoring Samsung’s continued commitment to audio innovation, superior sound quality, intelligent adaptive listening technologies, and user-focused […]
 
-## 2. Live: Markets await Nvidia earnings, Fed meet; Oil drops to $92 | Opening Bell - Moneycontrol.com
-Source: Moneycontrol.com (reputable)
-URL: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMWxVSGJ1cktkYldOS1RCejNJR2JyQjdhdTNLTHNnWXVHY2tMNTE2TjJQUkFRYVBlVWpDYzMyMnRxaVU5eUs2OEZjUndMWjYzcU45ckVYQWVOdTJHaFEzOGl3SjE4aGN4ekxvTHNSNi12QktKaVF2WWxEcDRMdm9fTm0yaDJnbWw4U09xYjA4Qmk0ODd4WTlTRHBXZngzM0Fad0FvTnJxdzc2cjZydmItS2xENmNsNnNuT1VhM01KajhDeWhMYW1PRzlSZGdVdXNBMHYzcV9NNC1xck1SZk1FWkt30gHiAUFVX3lxTE0xbFVIYnVyS2RiV05LVEJ6M0lHYnJCN2F1M0tMc2dZdUdja0w1MTZOMlBSQVFhUGVVakNjMzIydHFpVTl5SzY4RmNSd0xaNjNxTjlyRVhBZU51MkdoUTM4aXdKMThoY3h6TG9Mc1I2LXZCS0ppUXZZbERwNEx2b19ObTJoMmdtbDhTT3FiMDhCaTQ4N3hZOVNEcFdmeDMzQVp3QW9OcnF3NzZyNnJ2Yi1LbEQ2Y2w2c25PVWEzTUpqOEN5aExhbU9HOVJkZ1V1c0EwdjNxX000LXFyTVJmTUVaS3c?oc=5
+## 2. Who is behind Ox Alpha? Internet is asking after AI stealth model spotted on OpenRouter with powerful specs - India Today
+Source: India Today (reputable)
+URL: https://news.google.com/rss/articles/CBMigwJBVV95cUxPMjVxNkxmWTFvQ0QxeUN5Z19TbGQ5dmJPRzJNUmxwcF9jUUhZa1pPMTZER0xMSWFUQnUzTU5uNnluN2ZCRnhjWGI5eWt3d3o0TUJWWHpvTHdGQzc3ZTJzQUVRRFJyMGUzbmxwNGFTY0hOd01ZT0t3RFBQYW04ZWdvQ0JiWWRrSmV6eXYxMmN1bG1uNklyTDZEQVlFbmNrV2RwUlZrN1FySmdLMXVqQ0ZZNzVZS3pVdlpsbklvUDdvcnVEVkZEdkRWYzR5NWVaV2RtWkQ2bkhxOXBFWlo1bzZaNlJHY0Y3aS1FM0xXRXBkYVNOajJLLUdjTFBhMHh0cDlRZ1pz0gGIAkFVX3lxTE5wdEUzd3hOY3R6dVF1RXhzMmVwVmt4UHlCaDFKc1NlaWFLclVfWHNNQ1NHMk9LWU96TDlYWVhaV3kzU2ZwYjEwUGN4N2RzU0JFT0prYmYtbHJvZXFkeU43S3pneHdzLXdmSE5pVmRkeXNKT0RTTHk1NDlULUxOOUlGSC1yX3lDMkNBbnNKbFNuck1BR3NxeXJXVWc5cUhQLUtsU2lGeHlKOGZxZEF4UnB1YlV0RmRUT2s0eFk4TlF3Nl9vS09qQm1QczcxZHhrRzlMb2g4dndwSWdFTEctRHNWNTFnSmdCcmZNNjMxTWVodHFXWUxBb3gyX1M5Zk5oRVR6S0xkR0k3Zw?oc=5
 
-Live: Markets await Nvidia earnings, Fed meet; Oil drops to $92 | Opening Bell Moneycontrol.com
+Who is behind Ox Alpha? Internet is asking after AI stealth model spotted on OpenRouter with powerful specs India Today
 
-## 3. Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation, Considered Tech Licensing Deal - The Information
-Source: The Information (reputable)
-URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGdwRGUxNHpRRFM3dndxcG04azgxTFYxWkotZjNIVjAyT2dtbWkyNFo1NEJ6bXNlU1BGR3JYN0RyS18xZHNycVRkMXZBNHZsSlhFSVVPWU9QdFlaX0pJa19SNmZ2M1ZZY0RqNnJIakJwSXZPSEhSWDBPNlg4MUc3VWpyZGdUSlI5N2NjX3hnaWU2TUp1cmVFdHlMNVMxc01xVExsOWVCT0NfRXRaYzdsTnNMaVFMR3dIVWwzeW10dkxhRUJmaWhkVUtzd1QybjN3?oc=5
+## 3. Nvidia is going after OpenAI and DeepSeek with its $6 billion Poolside deal - India Today
+Source: India Today (reputable)
+URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUHVFbnUxOHhRWTRKN0dGbWZ1T0NkLXF4b0NScXllS0UxaVEwVEFSVjRYaHplalExMTlNZzhjNzl5Z2M2VWo5OHhvcUhfOV9GZ0tOckYwNDRGai1zdUJDcU1HT1BKN1JqX0lJaURqdC1LWjktMm14djRhSFBHYzF1NTJFTC01OEtYeFJnbUdyM3NzcDhoeEVjLXk3TEl0OWFteGVITEsyYU02eXFRZFhPV2VVMlY5Z0IxbHA4N29kaXA2WXd3b2lVOFUwbmZwTzNpMThIbHNGWEzSAd4BQVVfeXFMTmcwVnRtYm51UlVMRzJVU0NXRDVrOTJ2T3QyYUFKMFRyTnRURGowT0xPN1ZIOTkzS1lWMGNzU3YyTzk5ODgza0JxWGl6alp0NUtOVVEtSFdPeU16OHZHSTJCLVQ5alhHNmF6TVVBaC1lMS1mOGt6T3NZQjB1XzhkbnIzYzlDVXJrdlR6S1liVkF0Rldja1BmRjVjSGd3bF80S0t3dHQ1LUNzNEVVbHRYSm1WVkt6ajVNdGt4NkMtZ0tkTmdzTTV6OEp5eGpJeVpzUUxmcEpoakI2Zmt2RjlB?oc=5
 
-Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation, Considered Tech Licensing Deal The Information
-
-## 4. Where livestock once grazed, Inner Mongolia now feeds China’s AI ambitions - South China Morning Post
-Source: South China Morning Post (reputable)
-URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHQ4MmJHenh5cldOdHUzYS1lYWs5YmJ5VXhZY21wVmdlMlA4Nmp0WFFkcnBqX2Y4MUNGQ1QxM0V0a3NvZmlSY2NFUXVTZnF6Qmt4TC0wa0ZmMWhlcUxDWDFTeFVxMFpQTHVwN0pNckZnSlVQcjdlS0dJLWxLS3lRQnpZNjJpaS0xR3NYZV92VkgyT0piN3dnejFnWGE1Q05WQUliNzZnVTZqeDU4MDhIaGo1Qkp5TnF4LVlGQ2hXci3SAcABQVVfeXFMTWR0ODJiR3p4eXJXTnR1M2EtZWFrOWJieVV4WWNtcFZnZTJQODZqdFhRZHJwal9mODFDRkNUMTNFdGtzb2ZpUmNjRVF1U2ZxekJreEwtMGtGZjFoZXFMQ1gxU3hVcTBaUEx1cDdKTXJGZ0pVUHI3ZUtHSS1sS0t5UUJ6WTYyaWktMUdzWGVfdlZIMk9KYjd3Z3oxZ1hhNUNOVkFJYjc2Z1U2ang1ODA4SGhqNUJKeU5xeC1ZRkNoV3It?oc=5
-
-Where livestock once grazed, Inner Mongolia now feeds China’s AI ambitions South China Morning Post
+Nvidia is going after OpenAI and DeepSeek with its $6 billion Poolside deal India Today
