@@ -2,11 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-24T10:52:26.768005+00:00
+Updated: 2026-08-24T13:11:54.003147+00:00
 Memory window: 2 hours
 
-## 1. Seema Shah: Nvidia earnings will be key to how the market moves this week - CNBC
-Source: CNBC (reputable)
-URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3psWEdpcFVHOEIySlZnTml2c0tvelMzOE50Vm9BZVFBQldUUXlGZlNWTzZQb1VtWnBEQWladTdDRGxBM01uQ2NBckhqc1BNUUtnSFRGMzF3WUZ6M2R5RHZ1Q1pVMkpfMkxXTzR6LWQ1QmQzcXpEYWczQXdTeHpxOFdLRmI1cndmTHU2NURib2d2YWJWWFc3VFpiZzFEd0h1bkgyZnJlMmVSZ3lJNmNFN19ZR25ldw?oc=5
+## 1. Here's how Thomson Reuters is loosening Claude's costly grip - Business Insider
+Source: Business Insider (reputable)
+URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxQNTlJeGxyakhWMlAyR0JTaEV6UDVnaTZmWVMxYk9SSk5wNktnU3gyVnZWdzRBek5CMjJsdExoWXBkNzJlQlZUQWVsbmVoTkcyQWZlX1p4ZUo1YUdkajlXUkw2TV83eTM1WFdsSUphQmU0eWo0dXExYjlKSXgwNlZzSzRRMDBOLWthMTNVbTFlU3JuTURNZ0tpWA?oc=5
 
-Seema Shah: Nvidia earnings will be key to how the market moves this week CNBC
+Here's how Thomson Reuters is loosening Claude's costly grip Business Insider
