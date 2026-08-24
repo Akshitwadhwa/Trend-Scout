@@ -1,5 +1,17 @@
 {
-  "updated_at": "2026-08-24T18:58:23.306291+00:00",
+  "updated_at": "2026-08-24T20:47:25.679718+00:00",
   "retention_hours": 2,
-  "items": []
+  "items": [
+    {
+      "title": "Advancing price-performance for developers with GPT\u20115.6 in Kiro - OpenAI",
+      "what_happened": "Advancing price-performance for developers with GPT\u20115.6 in Kiro OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KREpjX0wxZ2hweXkxbzN2cmFNT0VmZENCbUp1VS1NWTh2NXJCdEZuazlqYXlVallVVGp4RnY3RFBlQWdqWGU2a2FPWGZ1WXJUVEhz?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-08-24T19:05:56+00:00",
+      "age_hours": 1.7,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    }
+  ]
 }
