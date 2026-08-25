@@ -2,17 +2,23 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-25T13:10:15.043141+00:00
+Updated: 2026-08-25T15:03:47.586530+00:00
 Memory window: 2 hours
 
-## 1. Apple introduces new Mac Studio with M5 Max and M5 Ultra
-Source: apple.com (primary)
-URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
+## 1. Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI
+Source: OpenAI (primary)
+URL: https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5
 
-Apple announced the new Mac Studio, featuring M5 Max and the all-new M5 Ultra, delivering a monumental leap in AI performance and even faster graphics.
+Jalapeño’s first results show industry-leading speed and efficiency in AI inference OpenAI
 
-## 2. [Invitation] Design Miami Seoul 2026: Opening of Samsung’s ‘Design Is an Act of Love’ Exhibition
-Source: news.samsung.com (primary)
-URL: https://news.samsung.com/global/invitation-design-miami-seoul-2026-opening-of-samsungs-design-is-an-act-of-love-exhibition
+## 2. Apple’s ‘new’ polishing cloth is the same except $10 cheaper - The Verge
+Source: The Verge (reputable)
+URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1na3E1bDRCWWVCbXlhb0Zra1VwVjFxSksyNHZ0cFcza0tTa0wzUnptX0tEWVFjQVdsdlRaczBjSTVNeEF1UmhjbjN2eHdacWpHeDBsaENxU25oWjFlUURsaUxrdHg0bnJnRnY2X1JmX2dQWmZ0?oc=5
 
-Samsung Electronics invites you to experience its special exhibition at Design Miami Seoul 2026, at Dongdaemun Design Plaza (DDP) in Seoul, from September 1 to 6. Inspired by the idea that “Design Is an Act of Love,” 14 Korean artists created original artworks, each expressing the theme through the artistic reinterpretation of a specific Samsung […]
+Apple’s ‘new’ polishing cloth is the same except $10 cheaper The Verge
+
+## 3. Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6 - TechCrunch
+Source: TechCrunch (reputable)
+URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxORVY3d1RGSkFpa1ZuZnhkUWtEbmJNRDFJMjJTVmdDTHZWREVWM1NGby1LN3MzX2pQTkpCNkFNNjJ0OUU3ZjBHLVRzZV8wcEx2elpBdGFtYzZ2dHExdWRtWkJacjF6bERUZDJyMkxFbmdOWG9NUjlyM2tiTmpaWHNIYWgtTGYxRzdSUzlfMjZhT0M5RndSNDBQdE93?oc=5
+
+Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6 TechCrunch
