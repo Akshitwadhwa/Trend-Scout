@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-25T03:11:50.610508+00:00",
+  "updated_at": "2026-08-25T04:52:34.127490+00:00",
   "retention_hours": 2,
   "items": [
+    {
+      "title": "Samsung To Showcase Wide-Ranging Gaming Solutions With Immersive Exhibition at Gamescom 2026",
+      "what_happened": "Samsung Electronics today announced that it will be displaying its comprehensive gaming ecosystem spanning PC, console, and mobile games at Gamescom 2026, which is one of the world\u2019s largest gaming events taking place in Cologne, Germany from Aug. 26-30. Across a 1,090-square-meter exhibition space, Samsung will present its full package of gaming devices under its [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-to-showcase-wide-ranging-gaming-solutions-with-immersive-exhibition-at-gamescom-2026",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-25T11:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
     {
       "title": "An Easier Way To Switch to the New Galaxy Z Fold8",
       "what_happened": "Getting a new phone should be exciting, but moving data from an existing device can sometimes feel like a hassle. Especially for users switching from iOS to Galaxy, being able to bring existing data and settings across easily is an important part of the experience. Smart Switch is Samsung\u2019s data transfer app that allows users [\u2026]",
@@ -12,6 +23,28 @@
       "age_hours": 0.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Waiting on Nvidia for next leg of AI rally - Reuters",
+      "what_happened": "Waiting on Nvidia for next leg of AI rally Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRzR6dW5TVWtzeEswZlh0SHpjT09mZWlsd0VMSFRGb0dSSlJ2WXNnZ0NtYnV6STFLMkJLN3dWalhmSEtCSThLTVNIaElWR3Bld204dnExYkZNNlJtQk1qdU1XcnItQ2hQRWhpeUxET19oZ0NidDFMWm01X1ZtN2M?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-25T04:40:00+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
+      "what_happened": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-25T04:31:51+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
