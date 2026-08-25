@@ -1,28 +1,50 @@
 {
-  "updated_at": "2026-08-24T22:42:48.860294+00:00",
+  "updated_at": "2026-08-25T01:51:07.385289+00:00",
   "retention_hours": 2,
   "items": [
     {
-      "title": "China's humanoid robots are stealing the show, but a quiter machine revolution is unfolding - BBC",
-      "what_happened": "China's humanoid robots are stealing the show, but a quiter machine revolution is unfolding BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YSHJobThkT1VuRXpDWFFVU1FXZ2trVFRwVzlwYjlTck1XbElFRGhJSUtyN2xRY0hKbEtDdDVrWTIyR2ZYVjZ4dFI5RWdUMV9pak1qcFlUYk9IUQ?oc=5",
-      "source_name": "BBC",
+      "title": "An Easier Way To Switch to the New Galaxy Z Fold8",
+      "what_happened": "Getting a new phone should be exciting, but moving data from an existing device can sometimes feel like a hassle. Especially for users switching from iOS to Galaxy, being able to bring existing data and settings across easily is an important part of the experience. Smart Switch is Samsung\u2019s data transfer app that allows users [\u2026]",
+      "source_url": "https://news.samsung.com/global/an-easier-way-to-switch-to-the-new-galaxy-z-fold8",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-25T08:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "EV-related complaints, petitions rise 1.8-fold over 3 yrs - The Korea Times",
+      "what_happened": "EV-related complaints, petitions rise 1.8-fold over 3 yrs The Korea Times",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1FTNzVDTHI0NWJONDVhMVNkU2NfV0JfQkgzV0dSbk9HbUZ2NWZjcmlxTFFZRHF1MFZZTF9sUlJDUEtpUmIzZmdIOWhEbWFVWnd5RTNDTEFtU01Hc2tqZ2Q1VHJvQktzLUIwVWdWNGRsWnB6bmdjODlZTzZha0NUcUhYbmx1b0VMNFhPelIySDFUTnhId295OWE5Qi1xaVJqUl9ra9IBqgFBVV95cUxQYnpmZk5BTUFMMkdrYU81b1NJMVcwRm9CZUk4Q1BiemZZUjlSUUJfdFVvOXhudkFsTjI5UmoxR25DZGJ2aFVXbHF6dk9EVHBHdlZUZmRCNEtTRHBpemcwUnRsbXZreFdMWnVRN0J0VGZ0RHRKOW9mdDlhckdrS1ZzRElCczdmelR2TFZYWjhZRG96NFBsZVZtdlc5eTF3aWhiamNsSzV4MGhEUQ?oc=5",
+      "source_name": "The Korea Times",
       "source_level": "reputable",
-      "published_at": "2026-08-24T22:13:20+00:00",
-      "age_hours": 0.5,
+      "published_at": "2026-08-25T01:35:03+00:00",
+      "age_hours": 0.3,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Your alt text passes automated checks. That doesn\u2019t mean it\u2019s any good.",
-      "what_happened": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn\u2019t mean it\u2019s any good. appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-08-24T20:56:32+00:00",
-      "age_hours": 1.8,
+      "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
+      "what_happened": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWHdVbW56NVZvU3ZwQTRIcmdRUVVZWjBVc1J4TFhhVUs2VE5RY21CNEpSdHA2NUJLa0daUVhYcGJwaGh6bERReE5fcFdFdHJ5bWpXa1dPTkFweDVVS3AycGxMa3VqS2JDS0VTZDNIb2RYLVVYcmdxT2xQUUpRSXNFbHhTTVozVjVyUkVYRmItTzc5SlIwS2M0NVZseUtUWFZDX3V6azMxTHJhdHJwYm5XU28yUmlzUQ?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-25T01:31:51+00:00",
+      "age_hours": 0.3,
       "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia to report Q2 FY27 earnings tomorrow: $92-billion test for the AI boom, when and what to expect - Moneycontrol.com",
+      "what_happened": "Nvidia to report Q2 FY27 earnings tomorrow: $92-billion test for the AI boom, when and what to expect Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM1hwLXgxa2JMZ1JLRG54OFNQYWFvQ0FDbkZqUUZzTUVaNkJlNlRfeDNaajl0cl9DUEdyaDJUQmhyWVNlOWpsWGp6dnJVdUlhSWdtM2I2STRYXzl6QTlHTDRrME1VTzFFQ1JuZmptbnpfbE1GLVJQMzN2ejN3dkV3TWRKLVV6UHgzbzJ3Q2pXQ2NBSVB2TzNHV3pFNWVmM0dheFJDdDNxSzhVRnRSNk9waG9YUWtDVXZsT0IyN1UzQl8xa1UwR3ZWdmdMYWRTYTd4WHg5M0RMd2ZOcmNTN2pCdU5XWENLU1J5U2VZRVlBNVhiYVpvdjBn0gH8AUFVX3lxTFBfTDNvQWVVQlU0YjRyWmJBNV93OVdxRzFsN0lsVVBLVTVSUXdNSWNWQllZbWtfNGsyTEczc29CdW16SHg3MWFkZkVUcTlZSXJlbnVWMERydU8tUjl4c2tZMEZldXZLdDcwRUJxUjlKdy1CVjNnRlJKVEZWeVZjTXg1SE9xVkc1Q1F4djlraEg3NFJqd3FDYWNBTm44THNpdmU1ekJQaU5QdXJFc0Q2czJON1daVEFub0VmWi1vZU9kNHc1VXpKUEdqNlBrbE5yTTJXdVdYOHBCQ2RhRkNBa2pwcTc5U2dESmlHdnRHRDF2d1JVOEJrRjB1X3pyVg?oc=5",
+      "source_name": "Moneycontrol.com",
+      "source_level": "reputable",
+      "published_at": "2026-08-25T01:21:53+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
