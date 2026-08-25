@@ -1,5 +1,39 @@
 {
-  "updated_at": "2026-08-25T20:44:58.374868+00:00",
+  "updated_at": "2026-08-25T22:43:43.591505+00:00",
   "retention_hours": 2,
-  "items": []
+  "items": [
+    {
+      "title": "Options Action: Options moves around Nvidia ahead of earnings - CNBC",
+      "what_happened": "Options Action: Options moves around Nvidia ahead of earnings CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTJSS2hVWmRuVGN0VUpCVGVaSlhPdzZqVE5pajJqckV4RmhjbTlLdElEeFhTaW1sYkk3enVqQUpYNUZ6Yzh0T2JCV2VERHE3OHVpUERWWGppTFhZLXd0N2J2TnVzSm13bXU4Vl91T0hvM1RmRU1RbzRKYm9OVkJLU3pEeTFaeUdnb0RoSjNNTDM4MDl5ckNjaEVTUmxXQVVPYWY2NzhB?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-25T22:18:59+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Nvidia Stock Bulls Get Punished in the Run-Up to Earnings - Bloomberg",
+      "what_happened": "Nvidia Stock Bulls Get Punished in the Run-Up to Earnings Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSVBNRWxrS1JqeWFwS3pCcnNmNUxic1dxZGhtS1ZsZnYxSkpqdWtpbDk4SmpSaU5zZGtEMXpLNFhSbExRWFhQb3hEV0FyTTRKXzhhd3lNRTUyWXZicEY1c1BuMmNvLXB5VlNnUVVHY3FyMjV2UTFYZjRoUng3a3JLRDBremxhaG9qTWNhNFBJTUQ3SG5QdElCdGxaa0ZoN2RPM3BXWnRzNE9JeEVmUE5Haw?oc=5",
+      "source_name": "Bloomberg",
+      "source_level": "reputable",
+      "published_at": "2026-08-25T22:17:58+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "How to evaluate LLMs before production",
+      "what_happened": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-08-25T21:35:11+00:00",
+      "age_hours": 1.1,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    }
+  ]
 }
