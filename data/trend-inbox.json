@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T07:07:12.394624+00:00",
+  "updated_at": "2026-08-25T08:58:53.823946+00:00",
   "retention_hours": 2,
   "items": [
     {
@@ -25,13 +25,13 @@
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "S.Korea price controls push EV charger operators to the brink - KED Global",
-      "what_happened": "S.Korea price controls push EV charger operators to the brink KED Global",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rcjUxTV93TXpuUlF5MUZqYVJFTElUazVGZklTUUZLR0lWWjZTS2xNaWFDYmJLQ0dGb3c0cGlReUdYTkVzWnI0TVk1S0V1aFphckFlYzRiM1c1UnBhc2RBMm5iVTBtNklKdTZuTnlLcVppTTJMbkYw?oc=5",
-      "source_name": "KED Global",
+      "title": "Nvidia, Supermicro employees charged over export of AI servers to China - Al Jazeera",
+      "what_happened": "Nvidia, Supermicro employees charged over export of AI servers to China Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTRTNmcyVFVYZTE2TEhZVG5ERmcySmdSZ0ZXa1Jwek9od2VKZi10bHk1X0pCM2hnOVFBUzV6Y2I3aTE4S01sODltS0pzQWRKajVGQXVGMHBNa0xtMlVWUzJoSjlGb001WElRdUVwS3hmTkx3UWZiN1JTMTRsYmJjaUFtcjhTdXNTSkV0YnhYUU5SeVJxempQTWN2VmNoR25PaWpZOENVTm1Dbm5BQTI2RXFXcUnSAboBQVVfeXFMTUxYMnBtek9lbkpza0lqZzJSNmhWYjZtUWZSalNwVjlFYXJkVW81N2JjVWdHa1N2MlpTN3FkYThXWjh5RTZrQnQ3QnpaQ2ZBMnp6bHBQdDk0Nlg3LWpxbzV2SEFmNVhJS09RZGpfNmxUVGJZZkdydFpqYzhlbHZieUxjbnNud1c1aEYtTFRWWDRVaGd1TWRnZ3pUc2QtVE1ncEozdFVVRFpWeGZYQ004WTl0NUtVbEhGVUp3?oc=5",
+      "source_name": "Al Jazeera",
       "source_level": "reputable",
-      "published_at": "2026-08-25T06:52:59+00:00",
-      "age_hours": 0.2,
+      "published_at": "2026-08-25T08:51:59+00:00",
+      "age_hours": 0.1,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
