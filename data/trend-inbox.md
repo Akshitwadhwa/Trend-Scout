@@ -2,23 +2,23 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-26T16:58:29.324540+00:00
+Updated: 2026-08-26T20:01:43.164624+00:00
 Memory window: 2 hours
 
-## 1. Looking ahead to Nvidia earnings tonight: Investor's investment strategy - CNBC
+## 1. OpenAI says it took a week to detect its AI models had hacked Hugging Face - Financial Times
+Source: Financial Times (reputable)
+URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFV3T1J1S0otT1d6ZHRmN2dFQmEzUlhyV3NJTzVEa2tQZ211ekYtTWI0V1Zkbkk2QkNfUzZjU0RYNWtsM3dFcVFpRkF4cmZOSDhsM09rMVowbExWbGd5ZjZUNzRuaEVmTnppNWlueHo2WmZEaDZmZVpDcThHTXdSbFd2Qmc?oc=5
+
+OpenAI says it took a week to detect its AI models had hacked Hugging Face Financial Times
+
+## 2. OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC
 Source: CNBC (reputable)
-URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxPcllwQ0dhYmFFLWNzZGZLQzBZVEZndC1iWDR6bUl4ZTVrc3NHZFVkN2JPckN6MFU4R25lYjZUdmZMV054UTdaVXpiRnRvNm1mcmNCeDBUUTZTWWpxYTdEal9vTy1odnhzZGhzMHlPNU00bUhJc2dxaEh6MFozeHRlX2xsYmJrWnJOVW1vWlZhc3VyWFlkYzVBMnVCR2JLRjdSc2VvUU5lMnVpc0c2ZWdFajhYWQ?oc=5
+URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5
 
-Looking ahead to Nvidia earnings tonight: Investor's investment strategy CNBC
+OpenAI releases sweeping report on Hugging Face AI agent hack CNBC
 
-## 2. Samsung Showcases P9 and P7 SSDs Featuring USB4 at Gamescom 2026
-Source: news.samsung.com (primary)
-URL: https://news.samsung.com/global/samsung-showcases-p9-and-p7-ssds-featuring-usb4-at-gamescom-2026
+## 3. Apple to launch next iPhone on September 9 in first major event under new CEO Ternus - Reuters
+Source: Reuters (reputable)
+URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3?oc=5
 
-Samsung Electronics a global leader in advanced memory technology, today unveiled the P9 and P7, its next-generation portable solid-state drives (SSDs) featuring USB4 connectivity. The company introduced the new P Series at Gamescom 2026, the world’s largest gaming event, held in Cologne, Germany from Aug. 26-30. Designed to meet rapidly growing storage demands driven by […]
-
-## 3. Exclusive | Deep Cogito Aims to Put Companies in Control of Their Own AI - WSJ
-Source: WSJ (reputable)
-URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUVpbk5qVmtkb3NrM2NPbzZnck84ZXJFMk1uTnk3R1c5Uml1bFF4X3d4NFJEVUdscDFLRlgtUVdVX3pNNnFRMjJFQUxwbzZwLWs3RHVELVVrQ2JfMjBSU3pSSW9EcEEtd0ZKNmI3d3NUNU8tQTJHQWo2dUFDcHFUZ0JIdDJ3OWJJZUplbVFJWnN2dXpXWThFdEpfRXdlZl8xWEt3?oc=5
-
-Exclusive | Deep Cogito Aims to Put Companies in Control of Their Own AI WSJ
+Apple to launch next iPhone on September 9 in first major event under new CEO Ternus Reuters
