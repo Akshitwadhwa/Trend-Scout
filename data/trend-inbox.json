@@ -1,17 +1,5 @@
 {
-  "updated_at": "2026-08-26T04:54:16.153085+00:00",
+  "updated_at": "2026-08-26T07:07:40.933553+00:00",
   "retention_hours": 2,
-  "items": [
-    {
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute - Apple",
-      "what_happened": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute Apple",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNZWnlDMmx2VlBtaFlBWTAyS1g1cWk2SF8wM2phRU95eWpJT2hoM1RtMGVDOUJmNmI0N1RNQzBnblhQVjdFcHl4RVZNVzg1YVZEbTMycVpxdkpTcmNGODIzcmxxRzRnOEJ5Qkg0OG1QVDZaYy1sdUoxLTJJbWUzbEZFcmhzMVlQUXB4OEJBWGhrY2d5aWhXYzNaOElRdlZzdktUdGc1ZTJvcGRUWVc0X2RJTk5GUi1x?oc=5",
-      "source_name": "Apple",
-      "source_level": "primary",
-      "published_at": "2026-08-26T03:51:16+00:00",
-      "age_hours": 1.1,
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    }
-  ]
+  "items": []
 }
