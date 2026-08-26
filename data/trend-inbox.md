@@ -2,23 +2,29 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-26T20:01:43.164624+00:00
+Updated: 2026-08-26T23:30:22.014000+00:00
 Memory window: 2 hours
 
-## 1. OpenAI says it took a week to detect its AI models had hacked Hugging Face - Financial Times
-Source: Financial Times (reputable)
-URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxPaFV3T1J1S0otT1d6ZHRmN2dFQmEzUlhyV3NJTzVEa2tQZ211ekYtTWI0V1Zkbkk2QkNfUzZjU0RYNWtsM3dFcVFpRkF4cmZOSDhsM09rMVowbExWbGd5ZjZUNzRuaEVmTnppNWlueHo2WmZEaDZmZVpDcThHTXdSbFd2Qmc?oc=5
+## 1. CEO Jensen Huang went on an AI deal spree in August. Nvidia plans to invest $18 billion more this fiscal year. - Business Insider
+Source: Business Insider (reputable)
+URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxPLWs4RWM5bndQZFNHYlhsUlJ4ZjlCVXVERFVPNzJBbWNHUEwzMVo3STRyakd6ZzVON0lyUVhvV2tVdzhnYWQzQU5zbW1HVllhMWotOWl4dEMwWmc0Sjd5THlrQlRnRm5NMlRjVGN6UzRvT3BrSzd5Z0xaaHZyc0tFRXdfQWlZc0lVSkZxN1RHRWlnUHNGWGxPV25vQzA?oc=5
 
-OpenAI says it took a week to detect its AI models had hacked Hugging Face Financial Times
+CEO Jensen Huang went on an AI deal spree in August. Nvidia plans to invest $18 billion more this fiscal year. Business Insider
 
-## 2. OpenAI releases sweeping report on Hugging Face AI agent hack - CNBC
-Source: CNBC (reputable)
-URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOTJIY1dTeGxzcnlfOTNaY1ZZNW5IR19EcDRvWm04V1VVelZmeU9YalBHU3lLV1JKUXR2Q05JT041YlAyX09OeTd1T05PZFg4Y2NFNHBwbnE0VzVGMU5KUTBHbHgyMktRTzV6RFN5QdIBdEFVX3lxTE80azdfcnVsNFhGSXFQTC0yWGdkckFkTlpDVi1EQlRoSDRneG94YjVVWXhzMTM1aHdPckJ6VDF6SXpUTC11YURWa0JMYWhsWEp1U1JuX0JQWDhFa0liTzNWS3ZmRkwxREJTV3hfQ2lRYmRDOW4y?oc=5
-
-OpenAI releases sweeping report on Hugging Face AI agent hack CNBC
-
-## 3. Apple to launch next iPhone on September 9 in first major event under new CEO Ternus - Reuters
+## 2. Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings - Reuters
 Source: Reuters (reputable)
-URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZweV9TaVNyS25MYTlTb3huOHozLXlET0F6eW9WUlRzZmVFNDB6c3NyanAzYkpMeno4eW9oRi1SblZBWW5kanF0eE1veUdFcUUtaTd1bFpqOTRmdmwwcWtfRGFuSm15WmJ2VXhCemJ6ZHJVMW9PQzdGdDdEc1lIRldOOHZBRnQwQlFjVjFibnlaTlBDeTlXcll3?oc=5
+URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3N4UlJubUVvNndNbHlFSTFtWlpoek1URGE5c3J4SDJEYlZ2aWYzaUNRWDluMnRua19BSENVRWdZZEFzZEh0VWFINF9Va3RPYVEtamhja1Rud3hVUFFWQUZBS1JlWE5wMk0yZUEyQ3lpV3pETVRMMnUxLWZ4Rm92OGZmVGpjY3BVZXl1dDBrR3RtX3RWZG9DOEFEMzFlV2NRSTVKYkxQb0hCZU0?oc=5
 
-Apple to launch next iPhone on September 9 in first major event under new CEO Ternus Reuters
+Wall Street stocks end tad lower after hot inflation data ahead of Nvidia earnings Reuters
+
+## 3. Unexpected chat between OpenAI bots led to Hugging Face hack - BBC
+Source: BBC (reputable)
+URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SaXBsdXNSdEFDQWNJQkpGdlYzVG1RalZrOEd0TmlzZmgtSVRERHZGYkNFUGQ3NFVjX2dvaG5uNHJLLWo5VDNYMmFrU1RlYjhobnk4QW1seDhGUQ?oc=5
+
+Unexpected chat between OpenAI bots led to Hugging Face hack BBC
+
+## 4. OpenAI’s rogue AI model incident was worse than we thought - The Verge
+Source: The Verge (reputable)
+URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxPb1plTFExM3lLRkRCZ3ZLb0FobHM5R1ZyTVREaWxOWnJfcG5ZRlE4NHpXNjBQRTl3ZTVKQkVfWUY0YjhsMnIyUnRTZlBZNm0yTVQ4Z1dhZkU3TVc2eWFuNnF4N1hZSHhwTGNFaFh6M0c3em9qWnpxd1NJS3J0TWh2U0wtcHRGNmlFV3MyTU1iYTJuLXlETUl6Mi04VVZvZS03TXRud1NsUk1GZk9QNm9YMGxxQ1ladHpUbnlrVFlQcVBFY3BRamNRakVn?oc=5
+
+OpenAI’s rogue AI model incident was worse than we thought The Verge
