@@ -1,7 +1,18 @@
 {
-  "updated_at": "2026-08-26T15:52:07.752672+00:00",
+  "updated_at": "2026-08-26T16:58:29.324540+00:00",
   "retention_hours": 2,
   "items": [
+    {
+      "title": "Looking ahead to Nvidia earnings tonight: Investor's investment strategy - CNBC",
+      "what_happened": "Looking ahead to Nvidia earnings tonight: Investor's investment strategy CNBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcllwQ0dhYmFFLWNzZGZLQzBZVEZndC1iWDR6bUl4ZTVrc3NHZFVkN2JPckN6MFU4R25lYjZUdmZMV054UTdaVXpiRnRvNm1mcmNCeDBUUTZTWWpxYTdEal9vTy1odnhzZGhzMHlPNU00bUhJc2dxaEh6MFozeHRlX2xsYmJrWnJOVW1vWlZhc3VyWFlkYzVBMnVCR2JLRjdSc2VvUU5lMnVpc0c2ZWdFajhYWQ?oc=5",
+      "source_name": "CNBC",
+      "source_level": "reputable",
+      "published_at": "2026-08-26T16:41:21+00:00",
+      "age_hours": 0.3,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Samsung Showcases P9 and P7 SSDs Featuring USB4 at Gamescom 2026",
       "what_happened": "Samsung Electronics a global leader in advanced memory technology, today unveiled the P9 and P7, its next-generation portable solid-state drives (SSDs) featuring USB4 connectivity. The company introduced the new P Series at Gamescom 2026, the world\u2019s largest gaming event, held in Cologne, Germany from Aug. 26-30. Designed to meet rapidly growing storage demands driven by [\u2026]",
@@ -9,18 +20,18 @@
       "source_name": "news.samsung.com",
       "source_level": "primary",
       "published_at": "2026-08-26T16:00:00+00:00",
-      "age_hours": 0.0,
+      "age_hours": 1.0,
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground - WSJ",
-      "what_happened": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0p5ZXowMVJPS3l0NldhTGVtVHlZeER1YjVQZUJreEpXV2NEVzJmWmFsSE9lZFBhTWMxSlY4bFZianBSUkYxXzYtRkFLaGNHbnRDWlRFREkzNlExQUVWVW8zQXR1X3NHdU80U0dkdUVaUk9SaEl0UGdLYVNrc2oxQS1haVJVZDRyTXA2WWZ0Tk1TYzlROFBrTjhHdFppQ2ZoVzZ2UEdRdFoxd2tQS0E?oc=5",
+      "title": "Exclusive | Deep Cogito Aims to Put Companies in Control of Their Own AI - WSJ",
+      "what_happened": "Exclusive | Deep Cogito Aims to Put Companies in Control of Their Own AI WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUVpbk5qVmtkb3NrM2NPbzZnck84ZXJFMk1uTnk3R1c5Uml1bFF4X3d4NFJEVUdscDFLRlgtUVdVX3pNNnFRMjJFQUxwbzZwLWs3RHVELVVrQ2JfMjBSU3pSSW9EcEEtd0ZKNmI3d3NUNU8tQTJHQWo2dUFDcHFUZ0JIdDJ3OWJJZUplbVFJWnN2dXpXWThFdEpfRXdlZl8xWEt3?oc=5",
       "source_name": "WSJ",
       "source_level": "reputable",
-      "published_at": "2026-08-26T15:31:12+00:00",
-      "age_hours": 0.3,
+      "published_at": "2026-08-26T15:44:06+00:00",
+      "age_hours": 1.2,
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
