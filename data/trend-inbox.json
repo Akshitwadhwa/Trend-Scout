@@ -1,5 +1,61 @@
 {
-  "updated_at": "2026-08-26T07:07:40.933553+00:00",
+  "updated_at": "2026-08-26T09:01:03.768014+00:00",
   "retention_hours": 2,
-  "items": []
+  "items": [
+    {
+      "title": "Samsung Showcases P9 and P7 SSDs Featuring USB4 at Gamescom 2026",
+      "what_happened": "Samsung Electronics a global leader in advanced memory technology, today unveiled the P9 and P7, its next-generation portable solid-state drives (SSDs) featuring USB4 connectivity. The company introduced the new P Series at Gamescom 2026, the world\u2019s largest gaming event, held in Cologne, Germany from Aug. 26-30. Designed to meet rapidly growing storage demands driven by [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-showcases-p9-and-p7-ssds-featuring-usb4-at-gamescom-2026",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-26T16:00:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "European shares flat ahead of Nvidia earnings - Reuters",
+      "what_happened": "European shares flat ahead of Nvidia earnings Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1pZeWdGeTdjVWRoOE0zZi1zQzhRVTdhU3g3U3VPV2J4dHVRQWtiRF9CUHlWVGllbFpPYnIyUmc5TDZPVlJrX0lrNDZCME5rcWZEYmN2a1JFY1diVE5oeDk1WEFDNmhIeDZfUmdFMFBBVUh6M1ZibFFvdkNzSDRVc1NEcFdZZmVhRDVjTGtxQWZwd2JDd3hzS1lHalBGUmMwRkZDUTRidDZIQ3lM?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-08-26T08:46:36+00:00",
+      "age_hours": 0.2,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Oil Extends Falls, Nasdaq Futures Lower Before Nvidia Earnings - WSJ",
+      "what_happened": "Oil Extends Falls, Nasdaq Futures Lower Before Nvidia Earnings WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQklUWjc0SG1rbFBXYVFmb19naTdBTm1jRXZ3UmhzWFFzb1FVZzI4eC1QTENvekY0U1BxV3NRekt4U0RrR0JXUm5zaDMtSkF4by1JZnQwdEV6STY3eV9tcG5jUmU1aml6ZDFheE45OXlYa3I4SnNmRHc4SlIxanQwcXB0Rl9OLTN3VmxGdlNnUWhZMlJsU1BOZ2xkbm9xRnpzTk1zV0J1dldDdDF0?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-26T08:37:00+00:00",
+      "age_hours": 0.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "SK Telecom, Naver Cloud teams vie for South Korean cybersecurity AI model project - MLex",
+      "what_happened": "SK Telecom, Naver Cloud teams vie for South Korean cybersecurity AI model project MLex",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcE56NHJpYjZVajNKQjBRM2hoVE9FQXdXV0l6U09Bd3lTb2t0dHNialVVQkVLaXJmWlJTLUtMdXlDa3BqaTJVRm9WRFJlU0RKWlJHOHRPdnc4X1BHc0JSX0lseWN6dmd4SkV1SUJmeTk5dWxkR2lnemRmcjM3Q05va0ZGSzItdk5oMUJ4OEhnQlpabXlDYm1XbGtORkFCblhVT2ppVDJMS3M4UXlWVmpNdVItc3hZZDZqNnfSAVpBVV95cUxNUHllb2RYMWg5NklmcXdHbmRrTG13bVYwc19uaDd4cmwtYXh3ejVMV1I4ZF9lV0NiQVU3Um5NOHZha2NES0FmTDhmM2tfUE1mbUNhTFdTYUN2bnc?oc=5",
+      "source_name": "MLex",
+      "source_level": "reputable",
+      "published_at": "2026-08-26T08:03:00+00:00",
+      "age_hours": 1.0,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Introducing the AI Model \u2018Harness\u2019 - WSJ",
+      "what_happened": "Introducing the AI Model \u2018Harness\u2019 WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUQk9LYTAwaGtQQUhHbGt2Unh5bS1HVjhqTGlzMlFhR2RqaloyZnJMRDV0eHlpYjJ1bTU5b2FrbDFvWG9qSjV3Ym1VQlRFWF96SEVvcFVzQVNvX1ZJX1BjdFJSMWxTcDAzZ3hYTTZoLVAwU0JkT2JUeHFWWWkxdw?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-08-26T07:36:57+00:00",
+      "age_hours": 1.4,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    }
+  ]
 }
