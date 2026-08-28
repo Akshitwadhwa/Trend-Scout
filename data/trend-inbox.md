@@ -2,23 +2,11 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-27T20:28:47.136489+00:00
+Updated: 2026-08-28T06:06:03.230828+00:00
 Memory window: 2 hours
 
-## 1. Samsung Galaxy S26 FE: Delivering the Latest Flagship Experience, Focused on What Matters Most
-Source: news.samsung.com (primary)
-URL: https://news.samsung.com/global/samsung-galaxy-s26-fe-delivering-the-latest-flagship-experience-focused-on-what-matters-most
+## 1. Anthropic wants AI agents to control lab machines, giving Claude hands to work - India Today
+Source: India Today (reputable)
+URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMDJubG95bEFYN29nRlRHMWhHbGdkT2JXeGtpdzZkNGU2LVZhdVBSN3poMGU0VlZqOWYyQzRCcTM1Q1lkWXlDRkh5NzB1YktuV2ZhLUJvTjd5eU9sTWdKY0ZfZi0yUWIxWE9KaEE1YU8tdGd6N0hjSHNEcmVyWWdUY3c2bkhBcXJnSzhlWW5UYXh6X29QMlJ2TEdCblVjeWRhM05tbXFsU0tCUXQyMS1adlhRVjhuNDJZX0lQelQ4b0U0V0hyN0dkUGtzY1NrdnM5M3JMUVdVejdkd0li0gHiAUFVX3lxTE5XN0ctS1NMSTNndFItQTB1R3lQLTRHRXRZQVNobF9iX1ZHVnJXU21jeEs1eXNHeFM1ZlFMcFU3Unp5WWpOWHpnclBkZHFMYTBaR2dxTjNUVzZVWnBZWllwQTVid0IzbHMwdVItMWF0cUJEQ1lwQ1pYeFRwbW5COW4zaG1ZejhrLWM4ejNSMi0tbVJDYll0WHR6TFBuajNxT0V0U3dlMzY4U2sxbWJGVl9nRnNlZ19QYWY5SlpnekFXdDh2RWhfbUJuc0hmTkNNTktRcXVxNHdRYkRBdXpySmdBMWc?oc=5
 
-Samsung Electronics today announced Galaxy S26 FE, the newest addition to the Galaxy S26 family and the first in the lineup to launch with One UI 9 — bringing the latest premium Galaxy experiences to more users from day one. With enhanced camera capabilities and more context-aware Galaxy AI, it elevates how users capture, create, […]
-
-## 2. Marvell forecasts quarterly revenue above estimates on AI chip demand - Reuters
-Source: Reuters (reputable)
-URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlF3Z2g0RTZaeDNWUEhvbFFuVm1BSUNST2JfRXpoQTdSRHdHRldQeVJWblJxVTRtc2ZEUGtDNHNGU3Z4dmI3blYtZmlCbHpNcG40S1JVd0pUREEyTHdoaWN5QjZ4dVg0czFLQVkxUVRGNFZNbUhsbHRLVjJYdHVIZ2lYcFh3MkNCWnoxQzRaSkphQVVhNFhSRjJwV3dZX2dfVjNVNmVIWllpX3BJTUE?oc=5
-
-Marvell forecasts quarterly revenue above estimates on AI chip demand Reuters
-
-## 3. Elastic Nominates Julia Liuson to Board of Directors – Company Announcement - Financial Times
-Source: Financial Times (reputable)
-URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxOb0d6X3hvanFQQmJFeGppa1ZLNms1dmlvZnZzNHYyWWFlWlVFUkFZbjRmRFFQZFRyN1Bfa3BMemxTTEY0MURXMDNDR3F3QVNMVktNRUN5TTBSbjNLeVFRcGdmTTJCNnpZdzhEbEVYLWwtWmZ4UUxTYi1NZEMxYzhNbkRzVnlWYlRmSlpIak12TmJ1UWRGN2t5eVA4T1kwQ2NaYjktakx3?oc=5
-
-Elastic Nominates Julia Liuson to Board of Directors – Company Announcement Financial Times
+Anthropic wants AI agents to control lab machines, giving Claude hands to work India Today
