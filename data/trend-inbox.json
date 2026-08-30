@@ -1,17 +1,5 @@
 {
-  "updated_at": "2026-08-29T20:54:16.163009+00:00",
+  "updated_at": "2026-08-30T00:18:11.088464+00:00",
   "retention_hours": 2,
-  "items": [
-    {
-      "title": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX - CNBC",
-      "what_happened": "OpenAI to end model access to Cursor after acquisition by Elon Musk's SpaceX CNBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90bmQ0enBvenh2RFZzWDJtV2FWRnFMVzNRMEJrbG1RSmtWbnZ6MU1XcHV0TUJ1dll3YkJJM1RSMUgyRWVsV3NTeHpUV1JOeEZVb01TRkctT0c0NjZIc0haWFVTdzVkSmFLM1htanRGeVJZMmxNb2NaWnBn0gF_QVVfeXFMTnNMYVB6Q3hkc1l0NnRTSVhOeU5uT21nbUxOZDZjU2ota0tocTk2a3JjOWdxeUp0M2ttVUpHNk1ZTlB5MWp6QkR5c21aUlduUERGbzRZenhNZ1ZIQVVWTWt6RmJJdW8xcVAtRW05NnIxVGI5UE1uaVA4Q0V6NWd4cw?oc=5",
-      "source_name": "CNBC",
-      "source_level": "reputable",
-      "published_at": "2026-08-29T19:05:55+00:00",
-      "age_hours": 1.8,
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    }
-  ]
+  "items": []
 }
