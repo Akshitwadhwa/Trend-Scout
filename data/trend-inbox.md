@@ -2,5 +2,17 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-08-30T00:18:11.088464+00:00
+Updated: 2026-08-30T08:17:25.944706+00:00
 Memory window: 2 hours
+
+## 1. Not a token effort: beer meets AI at bar in China’s capital - South China Morning Post
+Source: South China Morning Post (reputable)
+URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYlpYb0xTYTlENWE0cDVFRGU3SlJFaUZ2MUlsak9NbjRMZkN3eGl4cEhIR1oza1Y2THVGbUhEMzV6Q2JJTHRLNEhER0NxdjAxN0ZGNVBCRUZ3cTgtRGp4WjM5MHhQVzVlLTAwcWZJZ3YwanZtMzhqZy1EcHQwd2I1UVgzN1NJVm9mNmJTYk5YVkdlUXY4UW9fbW1kc1lEWjBKS2l5QnozeTlTVWZ5aDJXS3N0azNrNllRcThpUGxwRHlNZ9IBwgFBVV95cUxNMzZEMzFQLUMxZEVNeS1nWjFBck9ta1pGY2VVZlVjUlBTUFoxX1Y4T005Z2V4bGphRmlUUm9RRlE2STB4QnJzTmpsSGd6Q0JVRmVpcVpHRFdPRE9sX1BtR2Y3cmNVeUJtVlhJcGdoY3dyZnl3eUpaVDFhUGN3clFlbU1VY0w0NDRkU24zeG5uOGJZb0ZDNHdxMFFKOWRLTzRFVWJUTTZILWUtYUc4RUNDWXNzTllPU3dDMThaWEJQRWFaUQ?oc=5
+
+Not a token effort: beer meets AI at bar in China’s capital South China Morning Post
+
+## 2. OpenAI won't work with Cursor anymore, says Elon Musk cannot be trusted - India Today
+Source: India Today (reputable)
+URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV1pOUTVCeHlDSDZwRm9ETTdEeC1XVFJoNnhfRUlkX0ZvWndneWJHS0JhamI0M3dxVkJ1UnR6X3EwZXBMRDNIbjdLdk44dGFIQTlkWDU3TlFnMERBMzJiN3VReTdjZHBrdmZ3T2xoMHMxVXE4V0Fkcktfd2l6Ul85a0t5eWs0NmIycVM0YmU4eGhRMy1WeGdwV2R5cDFwYjJJSWJxRzZ1NDR5YjJsNnpLMVpaMG1HUFA2czI1cFFZRDdveFNCTl95M2stdWJOS2VhRTBZNElMMNIB1wFBVV95cUxPV1pOUTVCeHlDSDZwRm9ETTdEeC1XVFJoNnhfRUlkX0ZvWndneWJHS0JhamI0M3dxVkJ1UnR6X3EwZXBMRDNIbjdLdk44dGFIQTlkWDU3TlFnMERBMzJiN3VReTdjZHBrdmZ3T2xoMHMxVXE4V0Fkcktfd2l6Ul85a0t5eWs0NmIycVM0YmU4eGhRMy1WeGdwV2R5cDFwYjJJSWJxRzZ1NDR5YjJsNnpLMVpaMG1HUFA2czI1cFFZRDdveFNCTl95M2stdWJOS2VhRTBZNElMMA?oc=5
+
+OpenAI won't work with Cursor anymore, says Elon Musk cannot be trusted India Today
