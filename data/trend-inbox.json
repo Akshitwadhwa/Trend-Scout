@@ -1,5 +1,28 @@
 {
-  "updated_at": "2026-08-30T22:43:28.187635+00:00",
+  "updated_at": "2026-08-31T05:30:50.895534+00:00",
   "retention_hours": 2,
-  "items": []
+  "items": [
+    {
+      "title": "Samsung Hosts #PlayGalaxy Cup World Final at Gamescom 2026",
+      "what_happened": "Samsung Electronics today announced that it hosted the #PlayGalaxy Cup World Final from Aug. 27-28, and that the final was held at the company\u2019s booth as part of its larger exhibition at Gamescom 2026, held at Koelnmesse in Cologne, Germany, from Aug. 26-30. The #PlayGalaxy Cup is a global mobile gaming tournament designed to showcase [\u2026]",
+      "source_url": "https://news.samsung.com/global/samsung-hosts-playgalaxy-cup-world-final-at-gamescom-2026",
+      "source_name": "news.samsung.com",
+      "source_level": "primary",
+      "published_at": "2026-08-31T10:02:00+00:00",
+      "age_hours": 0.0,
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "MetaX posts first-half profit while China's AI GPU rivals split - digitimes",
+      "what_happened": "MetaX posts first-half profit while China's AI GPU rivals split digitimes",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVTk1anlWNVllc2g3d0dPQ2lUWWUyN09MRkpKeXNpOWdQZmc2SjFSNXVLTWotT09GUHdNZDlwX1NHOGFrMk5rRnR0TlpKc05tNUdxMHBoc0l5QkdlOEJBNzNVYU1aR3FkeE5ETVhMdlpHWHFYVGhrWXVxeUdIZmRYU2tESk0wR0tsZ2VqVQ?oc=5",
+      "source_name": "digitimes",
+      "source_level": "reputable",
+      "published_at": "2026-08-31T05:00:00+00:00",
+      "age_hours": 0.5,
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    }
+  ]
 }
