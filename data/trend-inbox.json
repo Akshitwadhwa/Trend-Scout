@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T10:25:08.779995+00:00",
-  "scanned_at": "2026-09-02T10:25:08.779995+00:00",
+  "updated_at": "2026-09-02T10:30:19.902407+00:00",
+  "scanned_at": "2026-09-02T10:30:19.902407+00:00",
   "retention_hours": 12,
   "items": [
     {
@@ -11,19 +11,19 @@
       "source_level": "primary",
       "published_at": "2026-09-02T15:30:00+00:00",
       "age_hours": 0.0,
-      "scanned_at": "2026-09-02T10:25:08.778162+00:00",
+      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Hugging Face model update: yashhanamghar9099/Yash-Llama2-7B-QLoRA-v1",
+      "title": "Hugging Face model update: sambal/k2-v2-think-dpo-checkpoint-200",
       "what_happened": "text-generation; downloads=0; likes=0",
-      "source_url": "https://huggingface.co/yashhanamghar9099/Yash-Llama2-7B-QLoRA-v1",
+      "source_url": "https://huggingface.co/sambal/k2-v2-think-dpo-checkpoint-200",
       "source_name": "huggingface.co",
       "source_level": "primary",
-      "published_at": "2026-09-02T10:24:53+00:00",
+      "published_at": "2026-09-02T10:30:10+00:00",
       "age_hours": 0.0,
-      "scanned_at": "2026-09-02T10:25:08.778162+00:00",
+      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -34,8 +34,8 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-09-02T10:16:26+00:00",
-      "age_hours": 0.1,
-      "scanned_at": "2026-09-02T10:25:08.778162+00:00",
+      "age_hours": 0.2,
+      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -46,20 +46,8 @@
       "source_name": "Moneycontrol.com",
       "source_level": "reputable",
       "published_at": "2026-09-02T10:13:06+00:00",
-      "age_hours": 0.2,
-      "scanned_at": "2026-09-02T10:25:08.778162+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "US urges G20 to adopt lighter AI regulation as tech leaders warn against restrictions - The Indian Express",
-      "what_happened": "US urges G20 to adopt lighter AI regulation as tech leaders warn against restrictions The Indian Express",
-      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWnJSc2dIYWplVnJYcmxBdHcxZGZscWlCNFMwRHhkak1rb1lUSnpBS01RQ21fdEtnRWloenhpSUZpakZ1Z2JpbFA5eTA5Sm1YOV85OVNiN0xjNU55WW5saTFWcE9XYURTdDVlaEFXRmRqYzhXNWFnaEpGYlB5RmI3SzR6V2FueTNSaF9BcXdnMnl0MnJ3emFzS1cxczdxUTVCTndCT0FSZ0xiQVNUbU9lUF9BMUpiT0ZFWjJPdzNzZVZRRHVPYkVmc3JyYWN2QWxLT2pPZGh5LTZlVDNBRzJyeU9jeV90aUtadHc?oc=5",
-      "source_name": "The Indian Express",
-      "source_level": "reputable",
-      "published_at": "2026-09-02T03:02:55+00:00",
-      "age_hours": 7.4,
-      "scanned_at": "2026-09-02T10:25:08.778162+00:00",
+      "age_hours": 0.3,
+      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -70,10 +58,22 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-02T01:30:12+00:00",
-      "age_hours": 8.9,
-      "scanned_at": "2026-09-02T10:25:08.778162+00:00",
+      "age_hours": 9.0,
+      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "US pushes looser approach to AI regulation, while EU pushes new law - Al Jazeera",
+      "what_happened": "US pushes looser approach to AI regulation, while EU pushes new law Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTEtDUkt0MmpsaVJwUzhNX0NWMkxid2hUN2M5TlpFUmVGakw0VXRhdzFacU5DOVRqc2N1c2kxQThmTkphOHFOQ2VuSUJXZ1psRHc5VllISEVkRkptSXRhUzl1Mmo3QjFUb0NWZmo0UGE3X3dzdE5semlwQkxBY0dzdWItbWF1S0MtN1JZUXNzWDFsR0FpWS1oM2dtUWJzMXl5SC1yMU1qNkZPUdIBrwFBVV95cUxNUE1ES3VydkJuZWU2WXc0dW5VUm1UMlBILXhPa1lFaEJpNHQ3ellYbmdDZWNLM2dkUktkdlM0Xzh6bjVCOFpwM0hGamZNUl96SF9fRktLZXdReTdRV2NLS3oxU3lPUDR3aWhEZ3JNdXlKT3V1ZnRtU3dxZF9GcHNrODhVOFpMelktWWtvb1BWTWs1cG1LZ0FwNndVT2VEaFpQV0sxTkxDd1FKcmN2MVZN?oc=5",
+      "source_name": "Al Jazeera",
+      "source_level": "reputable",
+      "published_at": "2026-09-02T01:08:26+00:00",
+      "age_hours": 9.4,
+      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "GitHub release: anthropics/claude-code v2.1.258",
@@ -83,7 +83,7 @@
       "source_level": "primary",
       "published_at": "2026-09-01T22:33:20+00:00",
       "age_hours": 11.9,
-      "scanned_at": "2026-09-02T10:25:08.778162+00:00",
+      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
