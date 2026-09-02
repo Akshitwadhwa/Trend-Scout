@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-02T10:30:19.902407+00:00",
-  "scanned_at": "2026-09-02T10:30:19.902407+00:00",
+  "updated_at": "2026-09-02T10:34:47.528620+00:00",
+  "scanned_at": "2026-09-02T10:34:47.528620+00:00",
   "retention_hours": 12,
   "items": [
     {
@@ -11,21 +11,21 @@
       "source_level": "primary",
       "published_at": "2026-09-02T15:30:00+00:00",
       "age_hours": 0.0,
-      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
+      "scanned_at": "2026-09-02T10:34:47.526168+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Hugging Face model update: sambal/k2-v2-think-dpo-checkpoint-200",
-      "what_happened": "text-generation; downloads=0; likes=0",
-      "source_url": "https://huggingface.co/sambal/k2-v2-think-dpo-checkpoint-200",
-      "source_name": "huggingface.co",
-      "source_level": "primary",
-      "published_at": "2026-09-02T10:30:10+00:00",
-      "age_hours": 0.0,
-      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
+      "title": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia - WSJ",
+      "what_happened": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia WSJ",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXJtVnpBU3B5TnhYUHdrUVc4QnlaeXBTemhxZ21ETG43empKbHZwTV9mN3huN1JNWjViOWYwMGhvVlNiX1VwU1VaVmE4RGRkV29SMFE1WWtNTVZiNXFKSUZlelFxdDAxbm9uUHNmQnhsbWlxMkdZaFRLMVNhUURYVGV0SGtBY2xlMVlid1dXcFJPaVV6NEE?oc=5",
+      "source_name": "WSJ",
+      "source_level": "reputable",
+      "published_at": "2026-09-02T10:18:28+00:00",
+      "age_hours": 0.3,
+      "scanned_at": "2026-09-02T10:34:47.526168+00:00",
       "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "A call for collective action on cyber defense - OpenAI",
@@ -34,20 +34,44 @@
       "source_name": "OpenAI",
       "source_level": "primary",
       "published_at": "2026-09-02T10:16:26+00:00",
-      "age_hours": 0.2,
-      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
+      "age_hours": 0.3,
+      "scanned_at": "2026-09-02T10:34:47.526168+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "OpenAI delays next AI model after internal hack scare: What happened and why ChatGPT maker hit pause - Moneycontrol.com",
-      "what_happened": "OpenAI delays next AI model after internal hack scare: What happened and why ChatGPT maker hit pause Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTUQ4UEpGTlBXOHZMOU5rRXhWTi03eEtMVjNqR0x5V1BndEtrNTJzel9HNkRGWF9paFZmQnZGbjl4a0s0M0thNUlJaHF0dVJ6UXpPLUxSLW9FZnpzZ1VZWVBTX1FqVTJWRU02ZmU3emw0eFBvS2dVUFFOeG5Fc2hvZFFYS0lrUnF6d3FtamNsR3hkYTcwaUFmeW5vSkhTZGRzYmo1ZlhJVjlBTERMLU9DRDVYdnRwWnZIUEdGV1dOUDA1dWcxUG1xMm1MVTFrVEpfYnlnampzb0hER2JvMENwSXlIWEhvVkE0RmYzMzZ2Y281NUnSAfgBQVVfeXFMT2JicDN0SUF0a0NVYnEyaVM2WDROWXJNR0dFbG05UHdjZEFqeFRONFBwdzZRQUtWT1ZIUmdqNnluZi1fMlctZWdQZUI3OUZVN2Y1ZnZja2dMMlYxZEZYZTV1VDlzUW80MHVLME13b1VvLTh2cERrOFhWU1g2LTRMMGtFWVlmUUNMNkVmWTZRcmtDVHhSWVN6Z29DZVNqV3FsMjhoNm9xeXFIX0lBdGxieTdDNUJRT0xsZXZrTlFtaU1xZlYxQmtsbjhsQ0ZrazAxMlg4dHNJVFBhSFRLWG5FZ2RjVTJ3eXRZeEN6ZVlKb0U1cE5RZ3B2ZXc?oc=5",
-      "source_name": "Moneycontrol.com",
+      "title": "iPhone fold launch next week, fresh details on specs leaked online ahead of iPhone 18 Pro event - India Today",
+      "what_happened": "iPhone fold launch next week, fresh details on specs leaked online ahead of iPhone 18 Pro event India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdHI2Qy1peWUwcnFYT19WdEtDLXVNd2xmTzN0dTZOXzFLZFhLVGJZd2I0VEVBQ3BCRlF4LUJPeU1pVlFIeEhnZUZMcU91WlZxNFVTc01FV2VaWW1jcWNuMElkdksxbVVkTVpDaGk5ZFA4UmpUanFhWFBxeEwyN2tkTTZIc2lRODVhNlFDN1pvX2VPZWRaV3U0VEJsNkQ4WHhPaVdPQzVyYjV3QUxlaHVhTUFvbXJjQVVwSjlhTjlxRVpnQlpmbFBDWGxhdU9Sc1h0MV9ub1hHNnV5RDNPdmg1N1NZVzh4UlZ1anQ2VnRvdE1nRmvSAfgBQVVfeXFMTUN1d2M1VVRYZk4xYndJVDA3U0RSc2RnVTJkWWNYMEk0VUFKR2VFZ0Vqd1ozNnZlUWM1b1ZqT3dQOWFPRUpheUNjdGM2dlo4Q25WUC1NQURoZ1J6ZGphcjZjaC1Nd1owb3JOYTBhMjhYbUJiajFVNDIxbnVjU0RObmxJX0pLbmJMcUxpU19CeC1VNmRWNlpzcGl6RWtmcmo0UTliNjdKaEdBcFhidGRYS1dYeV82UFd0Q29IZlBISnc4WlZOM3J0WGNIVlRwTzJISWJiem1VNWViU2tPNXRSR3NtSk9iWGoyeXgtVzV0bGhXZ1dXUzhucno?oc=5",
+      "source_name": "India Today",
       "source_level": "reputable",
-      "published_at": "2026-09-02T10:13:06+00:00",
-      "age_hours": 0.3,
-      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
+      "published_at": "2026-09-02T10:06:24+00:00",
+      "age_hours": 0.5,
+      "scanned_at": "2026-09-02T10:34:47.526168+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Projects - OpenAI Platform - OpenAI Platform",
+      "what_happened": "Projects - OpenAI Platform OpenAI Platform",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wMUNYUzdnanc1VzlBc0kzR2l6ZDdsbDA2QV9NcEJBUjNZUnMxWHRzd1Jvc2dyWTJIRllQR2lzV29uLVhOVVhiVE54ZUVLV0ZtdU9FM19fdWZfVi00R2E5Q0pVNmYzRktmLVE?oc=5",
+      "source_name": "OpenAI Platform",
+      "source_level": "primary",
+      "published_at": "2026-09-02T09:13:43+00:00",
+      "age_hours": 1.4,
+      "scanned_at": "2026-09-02T10:34:47.526168+00:00",
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "US urges G20 to adopt lighter AI regulation as tech leaders warn against restrictions - The Indian Express",
+      "what_happened": "US urges G20 to adopt lighter AI regulation as tech leaders warn against restrictions The Indian Express",
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWnJSc2dIYWplVnJYcmxBdHcxZGZscWlCNFMwRHhkak1rb1lUSnpBS01RQ21fdEtnRWloenhpSUZpakZ1Z2JpbFA5eTA5Sm1YOV85OVNiN0xjNU55WW5saTFWcE9XYURTdDVlaEFXRmRqYzhXNWFnaEpGYlB5RmI3SzR6V2FueTNSaF9BcXdnMnl0MnJ3emFzS1cxczdxUTVCTndCT0FSZ0xiQVNUbU9lUF9BMUpiT0ZFWjJPdzNzZVZRRHVPYkVmc3JyYWN2QWxLT2pPZGh5LTZlVDNBRzJyeU9jeV90aUtadHc?oc=5",
+      "source_name": "The Indian Express",
+      "source_level": "reputable",
+      "published_at": "2026-09-02T03:02:55+00:00",
+      "age_hours": 7.5,
+      "scanned_at": "2026-09-02T10:34:47.526168+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -58,8 +82,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-02T01:30:12+00:00",
-      "age_hours": 9.0,
-      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
+      "age_hours": 9.1,
+      "scanned_at": "2026-09-02T10:34:47.526168+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -71,21 +95,9 @@
       "source_level": "reputable",
       "published_at": "2026-09-02T01:08:26+00:00",
       "age_hours": 9.4,
-      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
+      "scanned_at": "2026-09-02T10:34:47.526168+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "GitHub release: anthropics/claude-code v2.1.258",
-      "what_happened": "## What's changed - Fixed Claude Code failing to launch on macOS 12 (Monterey), a regression introduced in 2.1.255 - Fixed remote and scheduled sessions failing with \"user messages must have non-empty content\" after a re-sent permission approval could not be applied",
-      "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.258",
-      "source_name": "github.com",
-      "source_level": "primary",
-      "published_at": "2026-09-01T22:33:20+00:00",
-      "age_hours": 11.9,
-      "scanned_at": "2026-09-02T10:30:19.900257+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
