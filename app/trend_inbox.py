@@ -13,7 +13,7 @@ POST_READY_LEVELS = {"primary", "reputable", "web_researched"}
 class TrendInbox:
     """A small local memory of distinct, source-backed tech stories."""
 
-    def __init__(self, path: Path, retention_hours: int = 2) -> None:
+    def __init__(self, path: Path, retention_hours: int = 12) -> None:
         self.path = path
         self.retention_hours = max(1, retention_hours)
 
@@ -41,6 +41,7 @@ class TrendInbox:
         retained.sort(key=lambda item: str(item.get("published_at", "")), reverse=True)
         payload = {
             "updated_at": now.isoformat(),
+            "scanned_at": now.isoformat(),
             "retention_hours": self.retention_hours,
             "items": retained[:30],
         }
@@ -79,7 +80,8 @@ class TrendInbox:
             "Distinct post-ready stories saved locally. Nothing is posted automatically.",
             "",
             f"Updated: {payload.get('updated_at', '')}",
-            f"Memory window: {payload.get('retention_hours', 2)} hours",
+            f"Scanned: {payload.get('scanned_at', payload.get('updated_at', ''))}",
+            f"Memory window: {payload.get('retention_hours', 12)} hours",
             "",
         ]
         for index, item in enumerate(payload.get("items", []), start=1):
@@ -87,6 +89,8 @@ class TrendInbox:
                 [
                     f"## {index}. {item.get('title', '')}",
                     f"Source: {item.get('source_name', '')} ({item.get('source_level', '')})",
+                    f"Published: {item.get('published_at', 'Unknown')} | Age: {item.get('age_hours', 'Unknown')} hours",
+                    f"Scanned: {item.get('scanned_at', payload.get('scanned_at', 'Unknown'))}",
                     f"URL: {item.get('source_url', '')}",
                     "",
                     str(item.get("what_happened", "")),

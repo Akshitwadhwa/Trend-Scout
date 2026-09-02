@@ -26,6 +26,13 @@ def test_feed_parser_recovers_common_unescaped_ampersands(monkeypatch):
     assert items[0]["url"] == "https://example.com/?a=1&b=2"
 
 
+def test_missing_or_invalid_feed_dates_are_not_marked_as_now():
+    client = WebFeedClient(SettingsStub())
+
+    assert client._parse_date("") == ""
+    assert client._parse_date("not-a-date") == ""
+
+
 def test_fetch_items_filters_broad_feeds_to_requested_keywords(monkeypatch):
     settings = SettingsStub()
     settings.web_feed_urls = ["https://example.com/feed"]
@@ -43,3 +50,26 @@ def test_fetch_items_filters_broad_feeds_to_requested_keywords(monkeypatch):
     items = client.fetch_items()
 
     assert [item["title"] for item in items] == ["Garmin adds a training feature"]
+
+
+def test_fetch_items_can_use_api_sources_without_rss_feeds(monkeypatch):
+    settings = SettingsStub()
+    settings.web_api_urls = ["https://api.github.com/repos/openai/openai-python/releases?per_page=10"]
+    settings.max_web_results = 5
+    client = WebFeedClient(settings)
+    monkeypatch.setattr(
+        client,
+        "_fetch_api",
+        lambda _url: [
+            {
+                "title": "GitHub release: openai/openai-python v1.0.0",
+                "text": "New release",
+                "created_at": "2026-07-24T12:00:00+00:00",
+            }
+        ],
+    )
+
+    items = client.fetch_items()
+
+    assert len(items) == 1
+    assert items[0]["title"].startswith("GitHub release:")

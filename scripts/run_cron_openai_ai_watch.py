@@ -38,7 +38,7 @@ settings = replace(
     enable_x_watchlist=False,
     enable_x_timeline=False,
     max_web_results=80,
-    verified_max_age_hours=2,
+    verified_max_age_hours=12,
     web_feed_urls=feeds,
     web_keywords=[
         "OpenAI", "Codex", "ChatGPT", "agent", "AI agents", "coding agent", "developer tools",

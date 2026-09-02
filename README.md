@@ -10,19 +10,20 @@ It discovers recent, verifiable tech stories, saves a small trend inbox, and hel
 
 - Free public-source discovery runs every two hours in GitHub Actions, even while the laptop is off.
 - The cloud job saves a compact, deduplicated trend inbox to `data/trend-inbox.json`.
-- A local Hermes + Telegram setup can turn the saved stories into drafts and send **one draft per Telegram message** for easy copying.
+- Hermes fetches the current `data/trend-inbox.json` directly from GitHub before drafting, then sends **one draft per Telegram message** for easy copying.
 - You review, edit, and manually post, reply, or quote repost on X.
 - Feedback such as “this sounds like me” is stored locally and reused as a voice preference for later drafts. This is retrieval-based learning, not automatic model fine-tuning.
 - Ollama is optional and used only for local drafting. The free cloud scan does not need Ollama, an X API key, or a paid LLM key.
 
 ## How it works
 
-1. Recent stories are collected from public tech sources.
-2. Stories without sufficient source support are excluded from post-ready drafting.
-3. Distinct verified stories are saved in the trend inbox for a limited time.
-4. Hermes can read the inbox, use your saved voice feedback, and prepare drafts.
-5. Telegram receives drafts separately so each can be copied directly into X.
-6. Your edits and feedback improve the next batch; you always make the final publishing decision.
+1. Recent stories are collected from public tech sources and APIs.
+2. Stories without a valid timestamp, source URL, or sufficient source support are excluded from post-ready drafting.
+3. Only stories published in the last 12 hours are saved; each record includes `published_at`, `age_hours`, and `scanned_at`.
+4. Before drafting, Hermes downloads the live inbox from GitHub (with a cache-busting request), rather than trusting an old local clone.
+5. Hermes filters out stories already delivered to Telegram, then records each story only after its message is sent successfully.
+6. Telegram receives drafts separately so each can be copied directly into X.
+7. Your edits and feedback improve the next batch; you always make the final publishing decision.
 
 ## What runs in the cloud vs locally
 
@@ -84,7 +85,7 @@ It caches recent results locally, so repeated requests are fast and do not re-sc
 
 ## Free two-hour trend inbox
 
-The workflow in `.github/workflows/cloud-trend-inbox.yml` runs every two hours and commits only stories from the latest two-hour window back into the repository.
+The workflow in `.github/workflows/cloud-trend-inbox.yml` runs every two hours and commits only currently verified stories back into the repository. The scanner retains a 12-hour freshness window so a delayed run can still produce a useful batch without allowing older articles into drafts.
 
 To enable it in GitHub:
 
@@ -100,7 +101,18 @@ data/trend-inbox.json
 data/trend-inbox.md
 ```
 
-The inbox contains source facts and links, not automatically published posts. It is intentionally limited to avoid old news and duplicate ideas.
+The inbox contains source facts and links, not automatically published posts. It is intentionally limited to avoid old news and duplicate ideas. If a run finds no valid stories, it stays empty rather than filling the batch with yesterday's content.
+
+The free scanner combines official announcements and public feeds for OpenAI, Anthropic, Google DeepMind, Apple, Samsung, Microsoft, GitHub, Cursor, NVIDIA, AMD, Intel, Garmin, WHOOP, and Oura, plus GitHub Releases, Hugging Face models, Reddit tech communities, and Google News topic searches. Reddit is treated as discovery-only until independently verified.
+
+To inspect the live GitHub inbox from the project root:
+
+```bash
+. .venv/bin/activate
+python scripts/fetch_cloud_inbox.py --hours 12
+```
+
+The command prints the accepted stories and rejection counts, including `published_at`, `age_hours`, and `scanned_at`. Delivery state is stored in the local SQLite database (`data/bot.db`) in the `delivered_stories` table. Hermes marks a story after a successful Telegram send, so a retry does not resend the same story.
 
 ## Hermes + Telegram workflow
 

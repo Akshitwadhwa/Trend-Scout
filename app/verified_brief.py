@@ -28,6 +28,7 @@ OFFICIAL_DOMAINS = {
     "tesla.com",
     "ir.tesla.com",
     "huggingface.co",
+    "github.com",
     "github.blog",
     "kimi.com",
     "platform.kimi.ai",
@@ -85,7 +86,7 @@ REPUTABLE_PUBLICATIONS = {
 class VerifiedBriefBuilder:
     """Turns raw source items into a compact, auditable research brief."""
 
-    def __init__(self, max_age_hours: int = 2) -> None:
+    def __init__(self, max_age_hours: int = 12) -> None:
         self.max_age_hours = max(1, max_age_hours)
 
     def build(self, items: list[dict[str, Any]]) -> dict[str, Any]:
@@ -117,6 +118,7 @@ class VerifiedBriefBuilder:
                     "source_level": source_level,
                     "published_at": created_at.isoformat() if created_at else "Unknown",
                     "age_hours": round(age_hours, 1) if age_hours is not None else None,
+                    "scanned_at": now.isoformat(),
                     "eligible": eligible,
                     "verification_note": self._verification_note(source_level, eligible),
                 }
@@ -132,6 +134,7 @@ class VerifiedBriefBuilder:
         selected = self._diverse_briefs(briefs, limit=12)
         return {
             "generated_at": now.isoformat(),
+            "scanned_at": now.isoformat(),
             "max_age_hours": self.max_age_hours,
             "items": selected,
             "ready_count": sum(1 for item in briefs if item["eligible"] and item["source_level"] != "discovery"),

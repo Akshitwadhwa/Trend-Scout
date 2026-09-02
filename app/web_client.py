@@ -7,6 +7,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from html import unescape
 from typing import Any
+from urllib.parse import urlparse
 
 import requests
 
@@ -20,23 +21,27 @@ class WebFeedClient:
 
     def fetch_items(self) -> list[dict[str, Any]]:
         self.last_errors = []
-        if not self.settings.web_feed_urls:
+        feed_urls = [str(url).strip() for url in getattr(self.settings, "web_feed_urls", []) if str(url).strip()]
+        api_urls = [str(url).strip() for url in getattr(self.settings, "web_api_urls", []) if str(url).strip()]
+        if not feed_urls and not api_urls:
             return []
 
         items_by_feed: dict[str, list[dict[str, Any]]] = {}
 
-        def fetch_one(url: str) -> tuple[str, list[dict[str, Any]], Exception | None]:
+        def fetch_one(url: str, is_api: bool = False) -> tuple[str, list[dict[str, Any]], Exception | None]:
             try:
-                feed_items = self._fetch_feed(url)
+                feed_items = self._fetch_api(url) if is_api else self._fetch_feed(url)
                 if self.settings.web_keywords:
                     feed_items = [item for item in feed_items if self._matches_keywords(item)]
                 return url, feed_items, None
-            except (requests.RequestException, ET.ParseError) as exc:
+            except (requests.RequestException, ET.ParseError, ValueError, KeyError, TypeError, OverflowError) as exc:
                 return url, [], exc
 
-        max_workers = min(6, len(self.settings.web_feed_urls))
+        sources = [(url, False) for url in feed_urls]
+        sources.extend((url, True) for url in api_urls)
+        max_workers = min(8, len(sources))
         with ThreadPoolExecutor(max_workers=max_workers) as executor:
-            futures = [executor.submit(fetch_one, url) for url in self.settings.web_feed_urls]
+            futures = [executor.submit(fetch_one, url, is_api) for url, is_api in sources]
             for future in as_completed(futures):
                 url, feed_items, error = future.result()
                 if error is not None:
@@ -55,7 +60,7 @@ class WebFeedClient:
         items: list[dict[str, Any]] = []
         while len(items) < self.settings.max_web_results:
             added = False
-            for url in self.settings.web_feed_urls:
+            for url, _is_api in sources:
                 feed_items = ordered_by_feed.get(url, [])
                 if not feed_items:
                     continue
@@ -65,6 +70,118 @@ class WebFeedClient:
                     break
             if not added:
                 break
+        return items
+
+    def _fetch_api(self, url: str) -> list[dict[str, Any]]:
+        """Fetch small, public JSON APIs used to supplement RSS coverage."""
+        parsed = urlparse(url)
+        host = parsed.netloc.lower().removeprefix("www.")
+        headers = {
+            "Accept": "application/json",
+            "User-Agent": "TrendScout/1.0 (source collection; contact via GitHub)",
+        }
+        response = requests.get(url, headers=headers, timeout=15)
+        response.raise_for_status()
+        payload = response.json()
+        if host == "api.github.com":
+            return self._github_release_items(payload, url)
+        if host == "huggingface.co" and parsed.path.startswith("/api/models"):
+            return self._huggingface_items(payload, url)
+        if host in {"reddit.com", "old.reddit.com"} and parsed.path.endswith(".json"):
+            return self._reddit_items(payload, url)
+        raise ValueError(f"Unsupported web API URL: {url}")
+
+    def _github_release_items(self, payload: Any, api_url: str) -> list[dict[str, Any]]:
+        if not isinstance(payload, list):
+            raise ValueError("GitHub releases response was not a list")
+        path_parts = [part for part in urlparse(api_url).path.split("/") if part]
+        repo = "/".join(path_parts[1:3]) if len(path_parts) >= 3 and path_parts[0] == "repos" else "GitHub"
+        items: list[dict[str, Any]] = []
+        for release in payload:
+            if not isinstance(release, dict) or release.get("draft") or release.get("prerelease"):
+                continue
+            title = str(release.get("name") or release.get("tag_name") or "").strip()
+            url = str(release.get("html_url") or "").strip()
+            if not title or not url:
+                continue
+            body = self._clean_feed_text(str(release.get("body") or ""))
+            items.append(
+                {
+                    "id": url,
+                    "source_type": "github_release",
+                    "title": f"GitHub release: {repo} {title}",
+                    "text": f"GitHub release: {repo} {title}\n{body}".strip(),
+                    "created_at": self._parse_date(str(release.get("published_at") or release.get("created_at") or "")),
+                    "author_name": f"GitHub {repo}",
+                    "author_username": repo,
+                    "publisher_url": "https://github.com",
+                    "public_metrics": {"like_count": 0, "retweet_count": 0, "quote_count": 0},
+                    "score": 0,
+                    "url": url,
+                }
+            )
+        return items
+
+    def _huggingface_items(self, payload: Any, api_url: str) -> list[dict[str, Any]]:
+        if not isinstance(payload, list):
+            raise ValueError("Hugging Face models response was not a list")
+        items: list[dict[str, Any]] = []
+        for model in payload:
+            if not isinstance(model, dict):
+                continue
+            model_id = str(model.get("id") or model.get("modelId") or "").strip()
+            if not model_id:
+                continue
+            url = f"https://huggingface.co/{model_id}"
+            tag = str(model.get("pipeline_tag") or "AI model")
+            details = f"{tag}; downloads={model.get('downloads', 0)}; likes={model.get('likes', 0)}"
+            items.append(
+                {
+                    "id": url,
+                    "source_type": "huggingface_model",
+                    "title": f"Hugging Face model update: {model_id}",
+                    "text": f"Hugging Face model update: {model_id}\n{details}",
+                    "created_at": self._parse_date(str(model.get("lastModified") or "")),
+                    "author_name": "Hugging Face",
+                    "author_username": "huggingface",
+                    "publisher_url": "https://huggingface.co",
+                    "public_metrics": {"like_count": int(model.get("likes") or 0), "retweet_count": 0, "quote_count": 0},
+                    "score": float(model.get("downloads") or 0),
+                    "url": url,
+                }
+            )
+        return items
+
+    def _reddit_items(self, payload: Any, api_url: str) -> list[dict[str, Any]]:
+        children = payload.get("data", {}).get("children", []) if isinstance(payload, dict) else []
+        items: list[dict[str, Any]] = []
+        for child in children:
+            data = child.get("data", {}) if isinstance(child, dict) else {}
+            title = self._clean_feed_text(str(data.get("title") or ""))
+            if not title:
+                continue
+            permalink = str(data.get("permalink") or "").strip()
+            if not permalink:
+                continue
+            subreddit = str(data.get("subreddit") or "technology")
+            created = datetime.fromtimestamp(float(data.get("created_utc") or 0), tz=timezone.utc).isoformat()
+            url = f"https://www.reddit.com{permalink}"
+            body = self._clean_feed_text(str(data.get("selftext") or ""))
+            items.append(
+                {
+                    "id": str(data.get("id") or url),
+                    "source_type": "reddit",
+                    "title": title,
+                    "text": f"{title}\n{body}".strip(),
+                    "created_at": created,
+                    "author_name": f"Reddit r/{subreddit}",
+                    "author_username": f"r/{subreddit}",
+                    "publisher_url": "https://www.reddit.com",
+                    "public_metrics": {"like_count": int(data.get("ups") or 0), "retweet_count": 0, "quote_count": 0},
+                    "score": float(data.get("score") or 0),
+                    "url": url,
+                }
+            )
         return items
 
     def _matches_keywords(self, item: dict[str, Any]) -> bool:
@@ -341,15 +458,19 @@ class WebFeedClient:
         return link.attrib.get("href", "")
 
     def _parse_date(self, value: str) -> str:
+        # Never turn a missing or malformed publisher date into ``now``. That
+        # makes an old/undated article look like a fresh story and allows it
+        # into the latest-tech inbox. The verification layer treats an empty
+        # timestamp as ineligible for the freshness window.
         if not value:
-            return datetime.now(timezone.utc).isoformat()
+            return ""
         try:
             parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
         except ValueError:
             try:
                 parsed = email.utils.parsedate_to_datetime(value)
             except (TypeError, ValueError):
-                return datetime.now(timezone.utc).isoformat()
+                return ""
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=timezone.utc)
         return parsed.isoformat()

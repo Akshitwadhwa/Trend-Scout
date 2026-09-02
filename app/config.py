@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import os
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 
@@ -57,7 +57,7 @@ class Settings:
     ollama_model: str = "gemma3:1b"
     ollama_timeout_seconds: int = 90
     enable_verified_brief: bool = True
-    verified_max_age_hours: int = 2
+    verified_max_age_hours: int = 12
     enable_openai_research: bool = False
     openai_research_model: str = "gpt-5"
     openai_research_timeout_seconds: int = 240
@@ -65,6 +65,9 @@ class Settings:
     openai_draft_model: str = "gpt-5"
     telegram_bot_token: str = ""
     telegram_chat_id: str = ""
+    web_api_urls: list[str] = field(default_factory=list)
+    cloud_inbox_url: str = "https://raw.githubusercontent.com/Akshitwadhwa/Trend-Scout/main/data/trend-inbox.json"
+    cloud_inbox_timeout_seconds: int = 15
 
 
 def load_settings() -> Settings:
@@ -110,6 +113,7 @@ def load_settings() -> Settings:
         enable_web_scan=_read_bool("ENABLE_WEB_SCAN", True),
         x_watch_handles=_read_csv("X_WATCH_HANDLES"),
         web_feed_urls=_read_csv("WEB_FEED_URLS"),
+        web_api_urls=_read_csv("WEB_API_URLS"),
         web_keywords=_read_csv("WEB_KEYWORDS"),
         x_bearer_token=os.getenv("X_BEARER_TOKEN", "").strip(),
         openai_api_key=os.getenv("OPENAI_API_KEY", "").strip(),
@@ -119,7 +123,7 @@ def load_settings() -> Settings:
         ollama_model=os.getenv("OLLAMA_MODEL", "gemma3:1b").strip(),
         ollama_timeout_seconds=_read_int("OLLAMA_TIMEOUT_SECONDS", 90),
         enable_verified_brief=_read_bool("ENABLE_VERIFIED_BRIEF", True),
-        verified_max_age_hours=_read_int("VERIFIED_MAX_AGE_HOURS", 2),
+        verified_max_age_hours=_read_int("VERIFIED_MAX_AGE_HOURS", 12),
         enable_openai_research=_read_bool("ENABLE_OPENAI_RESEARCH", False),
         openai_research_model=os.getenv("OPENAI_RESEARCH_MODEL", "gpt-5").strip(),
         openai_research_timeout_seconds=_read_int("OPENAI_RESEARCH_TIMEOUT_SECONDS", 240),
@@ -127,4 +131,9 @@ def load_settings() -> Settings:
         openai_draft_model=os.getenv("OPENAI_DRAFT_MODEL", "gpt-5").strip(),
         telegram_bot_token=os.getenv("TELEGRAM_BOT_TOKEN", "").strip(),
         telegram_chat_id=os.getenv("TELEGRAM_CHAT_ID", "").strip(),
+        cloud_inbox_url=os.getenv(
+            "CLOUD_INBOX_URL",
+            "https://raw.githubusercontent.com/Akshitwadhwa/Trend-Scout/main/data/trend-inbox.json",
+        ).strip(),
+        cloud_inbox_timeout_seconds=_read_int("CLOUD_INBOX_TIMEOUT_SECONDS", 15),
     )

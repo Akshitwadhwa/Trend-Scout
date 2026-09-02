@@ -44,6 +44,16 @@ class Database:
             """
         )
         self._connection.execute(
+            """
+            CREATE TABLE IF NOT EXISTS delivered_stories (
+                source_key TEXT PRIMARY KEY,
+                title TEXT NOT NULL DEFAULT '',
+                source_url TEXT NOT NULL DEFAULT '',
+                delivered_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+            )
+            """
+        )
+        self._connection.execute(
             "CREATE INDEX IF NOT EXISTS idx_opportunities_fingerprint ON opportunities(fingerprint)"
         )
         self._ensure_column(
@@ -157,6 +167,34 @@ class Database:
             (topic_query,),
         )
         self._connection.commit()
+
+    def delivered_story_keys(self) -> set[str]:
+        rows = self._connection.execute(
+            "SELECT source_key FROM delivered_stories"
+        ).fetchall()
+        return {str(row["source_key"]) for row in rows}
+
+    def mark_stories_delivered(self, stories: list[dict[str, Any]]) -> int:
+        """Record source stories only after Telegram delivery succeeds."""
+        inserted = 0
+        for story in stories:
+            key = str(story.get("source_key") or story.get("source_url") or "").strip()
+            if not key:
+                continue
+            cursor = self._connection.execute(
+                """
+                INSERT OR IGNORE INTO delivered_stories (source_key, title, source_url)
+                VALUES (?, ?, ?)
+                """,
+                (
+                    key,
+                    str(story.get("title", "")),
+                    str(story.get("source_url", "")),
+                ),
+            )
+            inserted += int(cursor.rowcount > 0)
+        self._connection.commit()
+        return inserted
 
     def _ensure_column(self, table: str, column: str, definition: str) -> None:
         columns = [

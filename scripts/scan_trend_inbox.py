@@ -16,7 +16,7 @@ from scripts.fresh import build_workflow, settings_for_mode
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Save a source-backed local tech trend inbox.")
-    parser.add_argument("--retention-hours", type=int, default=2)
+    parser.add_argument("--retention-hours", type=int, default=12)
     parser.add_argument(
         "--with-openai",
         action="store_true",

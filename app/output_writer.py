@@ -47,7 +47,8 @@ class OutputWriter:
             "",
             "Read this before posting. Primary sources are publishable facts; discovery sources need another check.",
             "",
-            f"Freshness window: {verified_brief.get('max_age_hours', 2)} hours",
+            f"Scanned at: {verified_brief.get('scanned_at', verified_brief.get('generated_at', 'Unknown'))}",
+            f"Freshness window: {verified_brief.get('max_age_hours', 12)} hours",
             f"Post-ready sources: {verified_brief.get('ready_count', 0)}",
             "Source mix: " + ", ".join(
                 f"{level} {count}"
@@ -62,6 +63,7 @@ class OutputWriter:
                     "",
                     f"Source level: {item.get('source_level', 'discovery')}",
                     f"Published: {item.get('published_at', 'Unknown')} | Age: {item.get('age_hours', 'Unknown')} hours",
+                    f"Scanned: {item.get('scanned_at', verified_brief.get('scanned_at', 'Unknown'))}",
                     f"Source: {item.get('source_name', 'Unknown')}",
                     f"URL: {item.get('source_url', '')}",
                     "",

@@ -38,7 +38,7 @@ class Workflow:
         self.output_writer = output_writer
         self.researcher = researcher or OpenAIWebResearcher(settings)
         self.brief_builder = VerifiedBriefBuilder(
-            int(getattr(settings, "verified_max_age_hours", 2))
+            int(getattr(settings, "verified_max_age_hours", 12))
         )
         self._last_x_errors: list[str] = []
 
@@ -118,7 +118,7 @@ class Workflow:
     def refresh_trend_inbox(
         self,
         *,
-        retention_hours: int = 2,
+        retention_hours: int = 12,
         inbox_filename: str = "trend-inbox.json",
         replace_existing: bool = False,
     ) -> dict[str, Any]:

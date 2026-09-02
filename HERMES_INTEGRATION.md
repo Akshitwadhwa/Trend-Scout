@@ -19,6 +19,8 @@ Hermes should do:
 - Remember your preferred style.
 - Summarize the newest generated files.
 - Run `manual_signal.py` when you paste a tweet, article, or idea.
+- Read the current cloud inbox from GitHub before drafting, so a stale local clone is never used.
+- Mark a source as delivered only after its Telegram message succeeds.
 
 ## Install Hermes
 
@@ -69,12 +71,36 @@ Read the latest copy-paste tweet file:
 ls -t out/*-copy-paste-tweets.md | head -1
 ```
 
-Do not send `out/*-x-post-messages.txt` or files inside `out/*-x-post-messages/` to WhatsApp. Those files are only local fallback artifacts.
+Do not attach `out/*-x-post-messages.txt` or files inside `out/*-x-post-messages/` to Telegram. Send each post as its own plain-text message; the files are only local fallback artifacts.
 
 Read the latest India-specific tweet file:
 
 ```bash
 ls -t out/*-india-tech-tweets.md | head -1
+```
+
+Read the live GitHub inbox (recommended before every “latest” request):
+
+```bash
+. .venv/bin/activate
+python scripts/fetch_cloud_inbox.py --hours 12
+```
+
+To request only stories published after a specific point, add `--new-since`:
+
+```bash
+python scripts/fetch_cloud_inbox.py --hours 12 --new-since 2026-09-02T08:00:00+05:30
+```
+
+The command fetches `data/trend-inbox.json` from GitHub directly, rejects missing or
+older-than-12-hour publication timestamps, and removes source stories already recorded
+as delivered in `data/bot.db`. Each returned story includes `published_at`, `age_hours`,
+and `scanned_at`.
+
+After sending a draft successfully, record its `source_key` so it is not sent again:
+
+```bash
+python scripts/fetch_cloud_inbox.py --mark-delivered SOURCE_KEY
 ```
 
 ## Suggested Hermes Instruction
@@ -86,16 +112,17 @@ You are my X Trend Scout operator.
 
 When I ask for fresh posts:
 1. cd into the local `x-ai-whatsapp-bot` clone
-2. run "make fresh"
-3. read each generated X post text internally from `output_files["x_post_message_texts"]` when running in Python, or from the newest local fallback `out/*-x-post-messages.txt` if needed
-4. send each post to WhatsApp as its own separate plain-text message containing only the tweet text, with no heading, numbering, notes, Markdown, or file attachment
-5. do not attach `.txt` files to WhatsApp
+2. run `python scripts/fetch_cloud_inbox.py --hours 12` (and `--new-since <ISO-8601>` when a time boundary is requested) and use only the returned `items`
+3. if the inbox is stale or has fewer stories than requested, report the exact count; never reuse an older story
+4. generate each post from one returned story and send it as its own separate plain-text message
+5. after each successful send, run `python scripts/fetch_cloud_inbox.py --mark-delivered SOURCE_KEY`
+6. do not attach `.txt` files to Telegram
 
 When I paste a tweet, article, or idea:
 1. cd into the local `x-ai-whatsapp-bot` clone
 2. run scripts/manual_signal.py with the pasted text
-3. send each generated X post as its own separate WhatsApp plain-text message containing only the post text, with no heading, numbering, notes, Markdown, or file attachment
-4. do not attach `.txt` files to WhatsApp
+3. send each generated X post as its own separate Telegram plain-text message containing only the post text, with no heading, numbering, notes, Markdown, or file attachment
+4. do not attach `.txt` files to Telegram
 
 Style preference:
 - sharp
