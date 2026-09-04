@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T18:27:09.842318+00:00",
-  "scanned_at": "2026-09-04T18:27:09.842318+00:00",
+  "updated_at": "2026-09-04T21:32:18.910777+00:00",
+  "scanned_at": "2026-09-04T21:32:18.910777+00:00",
   "retention_hours": 12,
   "items": [
     {
@@ -11,33 +11,21 @@
       "source_level": "primary",
       "published_at": "2026-09-04T21:30:00+00:00",
       "age_hours": 0.0,
-      "scanned_at": "2026-09-04T18:27:09.839949+00:00",
+      "scanned_at": "2026-09-04T21:32:18.908216+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "3 last-minute Apple iPhone 18 event rumors - Mashable",
-      "what_happened": "3 last-minute Apple iPhone 18 event rumors Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90bUFKVktDOHA5aFhmaEc2aWdfWmpnQXFFRjhCbFVTVkl2YmY0UjNaUFp5TDlaTXU1czhJU283NnBzYVl5OU5FdW82SWo1M3YzX0ZJWVRmMFgwNXZlSkxVRXZ5UTBRNU4zYV95Zk9RZDBERzQ?oc=5",
-      "source_name": "Mashable",
+      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
+      "what_happened": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
+      "source_name": "Reuters",
       "source_level": "reputable",
-      "published_at": "2026-09-04T18:10:15+00:00",
-      "age_hours": 0.3,
-      "scanned_at": "2026-09-04T18:27:09.839949+00:00",
+      "published_at": "2026-09-04T20:49:06+00:00",
+      "age_hours": 0.7,
+      "scanned_at": "2026-09-04T21:32:18.908216+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration - The GitHub Blog",
-      "what_happened": "Project HydraFusion: Frontier quality via multi-model orchestration The GitHub Blog",
-      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa25sTE9NOVZjY01pRHk3anVpaFNvQVZYZDlBQWlaUk83WTIxSkJnTk5RQU1qd0dwdHR4QmhUaVRJQ0dRdDVJWTl4WWQyQVNGaUVHRFNnclA0VTJJTmt4UE1wWUk1VVZ6VFU2bmVzajFpZTNDQzhxQW1fTmI0NnNubGRpdF9BLXdETk9TU1lIU09vb1BnU0ZycVB3NU05QUtTWUc2QjE0Rzh1UFJXcjg2Y3VR?oc=5",
-      "source_name": "The GitHub Blog",
-      "source_level": "primary",
-      "published_at": "2026-09-04T16:07:08+00:00",
-      "age_hours": 2.3,
-      "scanned_at": "2026-09-04T18:27:09.839949+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
@@ -46,8 +34,8 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-09-04T16:04:14+00:00",
-      "age_hours": 2.4,
-      "scanned_at": "2026-09-04T18:27:09.839949+00:00",
+      "age_hours": 5.5,
+      "scanned_at": "2026-09-04T21:32:18.908216+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
