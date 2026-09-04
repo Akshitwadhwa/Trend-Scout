@@ -68,3 +68,45 @@ def test_google_news_uses_original_official_publisher_domain():
     brief = VerifiedBriefBuilder().build([official])
 
     assert brief["items"][0]["source_level"] == "primary"
+
+
+def hugging_face_model(org: str, *, downloads: int, likes: int) -> dict:
+    now = datetime.now(timezone.utc)
+    return {
+        "url": f"https://huggingface.co/{org}/example-model",
+        "title": f"Hugging Face model update: {org}/example-model",
+        "text": "A model repository was modified.",
+        "created_at": now.isoformat(),
+        "source_type": "huggingface_model",
+        "author_username": org,
+        "model_org": org,
+        "public_metrics": {"like_count": likes},
+        "score": downloads,
+    }
+
+
+def test_hugging_face_community_upload_with_no_adoption_is_discovery_only():
+    brief = VerifiedBriefBuilder().build(
+        [hugging_face_model("Baekpica", downloads=0, likes=0)]
+    )
+
+    assert brief["ready_count"] == 0
+    assert brief["items"][0]["source_level"] == "discovery"
+
+
+def test_hugging_face_official_organisation_is_primary():
+    brief = VerifiedBriefBuilder().build(
+        [hugging_face_model("meta-llama", downloads=0, likes=0)]
+    )
+
+    assert brief["ready_count"] == 1
+    assert brief["items"][0]["source_level"] == "primary"
+
+
+def test_hugging_face_adopted_community_model_can_be_reputable():
+    brief = VerifiedBriefBuilder().build(
+        [hugging_face_model("community-lab", downloads=5_000, likes=25)]
+    )
+
+    assert brief["ready_count"] == 1
+    assert brief["items"][0]["source_level"] == "reputable"

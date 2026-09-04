@@ -40,6 +40,34 @@ OFFICIAL_DOMAINS = {
     "status.openai.com",
 }
 
+# A repository hosted on Hugging Face is not automatically an official model
+# release.  Community conversions and GGUF mirrors can appear as newly
+# modified with zero downloads, which made them look like major launches in
+# the inbox.  Keep only recognisable publisher organisations in the primary
+# bucket; adopted community models can still qualify as reputable below.
+HUGGING_FACE_OFFICIAL_ORGS = {
+    "allenai",
+    "anthropic",
+    "baai",
+    "black-forest-labs",
+    "cohereforai",
+    "deepseek-ai",
+    "google",
+    "huggingface",
+    "huggingfaceh4",
+    "meta-llama",
+    "microsoft",
+    "mistralai",
+    "moonshotai",
+    "nvidia",
+    "openai",
+    "qwen",
+    "stabilityai",
+    "xai-org",
+}
+HUGGING_FACE_REPUTABLE_DOWNLOADS = 5_000
+HUGGING_FACE_REPUTABLE_LIKES = 25
+
 REPUTABLE_FEEDS = {
     "techcrunch.com",
     "news.ycombinator.com",
@@ -197,6 +225,8 @@ class VerifiedBriefBuilder:
         source_type = str(item.get("source_type", ""))
         publisher_url = str(item.get("publisher_url", ""))
         publisher_host = urlparse(publisher_url).netloc.lower().removeprefix("www.")
+        if source_type == "huggingface_model":
+            return self._hugging_face_source_level(item)
         if host == "news.google.com" and any(
             publisher_host == domain or publisher_host.endswith(f".{domain}")
             for domain in OFFICIAL_DOMAINS
@@ -212,6 +242,24 @@ class VerifiedBriefBuilder:
         if any(host == domain or host.endswith(f".{domain}") for domain in REPUTABLE_FEEDS):
             return "reputable", host
         return "discovery", host or str(item.get("author_name") or "unknown source")
+
+    def _hugging_face_source_level(self, item: dict[str, Any]) -> tuple[str, str]:
+        """Classify a Hub upload by publisher identity and adoption, not host."""
+        org = str(item.get("model_org") or item.get("author_username") or "").strip()
+        org_key = org.casefold()
+        label = f"Hugging Face / {org}" if org else "Hugging Face community"
+        if org_key in HUGGING_FACE_OFFICIAL_ORGS:
+            return "primary", label
+
+        metrics = item.get("public_metrics")
+        likes = int(metrics.get("like_count") or 0) if isinstance(metrics, dict) else 0
+        try:
+            downloads = int(float(item.get("score") or 0))
+        except (TypeError, ValueError):
+            downloads = 0
+        if downloads >= HUGGING_FACE_REPUTABLE_DOWNLOADS and likes >= HUGGING_FACE_REPUTABLE_LIKES:
+            return "reputable", label
+        return "discovery", label
 
     def _evidence(self, item: dict[str, Any], title: str) -> str:
         text = self._clean(str(item.get("text", "")))

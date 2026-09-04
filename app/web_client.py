@@ -132,9 +132,12 @@ class WebFeedClient:
             model_id = str(model.get("id") or model.get("modelId") or "").strip()
             if not model_id:
                 continue
+            model_org = model_id.split("/", 1)[0] if "/" in model_id else ""
+            downloads = int(model.get("downloads") or 0)
+            likes = int(model.get("likes") or 0)
             url = f"https://huggingface.co/{model_id}"
             tag = str(model.get("pipeline_tag") or "AI model")
-            details = f"{tag}; downloads={model.get('downloads', 0)}; likes={model.get('likes', 0)}"
+            details = f"{tag}; downloads={downloads}; likes={likes}"
             items.append(
                 {
                     "id": url,
@@ -142,11 +145,12 @@ class WebFeedClient:
                     "title": f"Hugging Face model update: {model_id}",
                     "text": f"Hugging Face model update: {model_id}\n{details}",
                     "created_at": self._parse_date(str(model.get("lastModified") or "")),
-                    "author_name": "Hugging Face",
-                    "author_username": "huggingface",
+                    "author_name": f"Hugging Face / {model_org}" if model_org else "Hugging Face",
+                    "author_username": model_org or "huggingface",
+                    "model_org": model_org,
                     "publisher_url": "https://huggingface.co",
-                    "public_metrics": {"like_count": int(model.get("likes") or 0), "retweet_count": 0, "quote_count": 0},
-                    "score": float(model.get("downloads") or 0),
+                    "public_metrics": {"like_count": likes, "retweet_count": 0, "quote_count": 0},
+                    "score": float(downloads),
                     "url": url,
                 }
             )
