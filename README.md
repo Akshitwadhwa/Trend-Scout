@@ -8,7 +8,7 @@ It discovers recent, verifiable tech stories, saves a small trend inbox, and hel
 
 ## What is live now
 
-- Free public-source discovery runs every two hours in GitHub Actions, even while the laptop is off.
+- Free public-source discovery runs hourly in GitHub Actions, even while the laptop is off.
 - The cloud job saves a compact, deduplicated trend inbox to `data/trend-inbox.json`.
 - Hermes fetches the current `data/trend-inbox.json` directly from GitHub before drafting, then sends **one draft per Telegram message** for easy copying.
 - You review, edit, and manually post, reply, or quote repost on X.
@@ -83,9 +83,9 @@ python scripts/scan_wearables_inbox.py
 
 It caches recent results locally, so repeated requests are fast and do not re-scan unnecessarily.
 
-## Free two-hour trend inbox
+## Free hourly trend inbox
 
-The workflow in `.github/workflows/cloud-trend-inbox.yml` runs every two hours and commits only currently verified stories back into the repository. The scanner retains a 12-hour freshness window so a delayed run can still produce a useful batch without allowing older articles into drafts.
+The workflow in `.github/workflows/cloud-trend-inbox.yml` runs hourly and commits only currently verified stories back into the repository. The scanner retains a strict 12-hour freshness window, so a delayed run cannot make older articles look new.
 
 To enable it in GitHub:
 
@@ -103,7 +103,9 @@ data/trend-inbox.md
 
 The inbox contains source facts and links, not automatically published posts. It is intentionally limited to avoid old news and duplicate ideas. If a run finds no valid stories, it stays empty rather than filling the batch with yesterday's content.
 
-The free scanner combines official announcements and public feeds for OpenAI, Anthropic, Google DeepMind, Apple, Samsung, Microsoft, GitHub, Cursor, NVIDIA, AMD, Intel, Garmin, WHOOP, and Oura, plus GitHub Releases, Hugging Face models, Reddit tech communities, and Google News topic searches. Reddit is treated as discovery-only until independently verified.
+The free scanner combines official announcements and public feeds for OpenAI, Anthropic, Google DeepMind, Apple, Samsung, Microsoft, GitHub, Cursor, NVIDIA, AMD, Intel, Garmin, WHOOP, and Oura, plus GitHub Releases, Hugging Face models, Reddit tech communities, and dedicated Google News searches for Claude, Cursor, Codex, OpenAI, Gemini, and AI developer tools. Reddit is treated as discovery-only until independently verified.
+
+OpenAI web research is optional and paid. It is disabled by default. To use it locally, put your key in `.env`, keep `ENABLE_OPENAI_RESEARCH=false` unless you explicitly want paid research, and run `python scripts/fresh.py ai-radar --with-openai`. To enable it in GitHub Actions, add `OPENAI_API_KEY` as a repository secret; the workflow detects that secret and opts in automatically. The free scanner still works without this key.
 
 To inspect the live GitHub inbox from the project root:
 
@@ -132,7 +134,7 @@ Hermes: refreshes the local wearable cache only for that request
 Telegram: receives source-grounded drafts one by one
 ```
 
-Hermes and Telegram are local in this setup. They work while the Mac is awake and connected to the internet. The two-hour GitHub source scan continues while the Mac is off, but it cannot generate or deliver Telegram drafts until Hermes is available again.
+Hermes and Telegram are local in this setup. They work while the Mac is awake and connected to the internet. The hourly GitHub source scan continues while the Mac is off, but it cannot generate or deliver Telegram drafts until Hermes is available again.
 
 See [HERMES_INTEGRATION.md](HERMES_INTEGRATION.md) for the local Hermes setup notes.
 
@@ -187,7 +189,7 @@ ENABLE_OPENAI_RESEARCH=false
 ENABLE_OPENAI_DRAFTS=false
 ```
 
-X timeline scanning and OpenAI web research are optional extras. They are disabled by default and are not needed for the GitHub two-hour inbox.
+X timeline scanning and OpenAI web research are optional extras. X timeline scanning requires X credentials. OpenAI web research requires an API key and incurs API charges; neither is needed for the free hourly inbox.
 
 ## Output files
 

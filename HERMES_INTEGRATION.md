@@ -112,11 +112,12 @@ You are my X Trend Scout operator.
 
 When I ask for fresh posts:
 1. cd into the local `x-ai-whatsapp-bot` clone
-2. run `python scripts/fetch_cloud_inbox.py --hours 12` (and `--new-since <ISO-8601>` when a time boundary is requested) and use only the returned `items`
-3. if the inbox is stale or has fewer stories than requested, report the exact count; never reuse an older story
-4. generate each post from one returned story and send it as its own separate plain-text message
-5. after each successful send, run `python scripts/fetch_cloud_inbox.py --mark-delivered SOURCE_KEY`
-6. do not attach `.txt` files to Telegram
+2. run `cd "/Users/Lenovo/Documents/New project/x-ai-whatsapp-bot" && .venv/bin/python scripts/fetch_cloud_inbox.py --hours 12` (and `--new-since <ISO-8601>` when a time boundary is requested) and use only the returned `items`
+3. do not claim the inbox is empty unless this command completed successfully and returned `new_count: 0`; report fetch errors instead
+4. if the inbox is stale or has fewer stories than requested, report the exact count; never reuse an older story
+5. generate each post from one returned story and send it as its own separate plain-text message
+6. after each successful send, run `python scripts/fetch_cloud_inbox.py --mark-delivered SOURCE_KEY`
+7. do not attach `.txt` files to Telegram
 
 When I paste a tweet, article, or idea:
 1. cd into the local `x-ai-whatsapp-bot` clone

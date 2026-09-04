@@ -21,6 +21,13 @@ from scripts.fresh import build_workflow, settings_for_mode
 # covers technology that reaches people outside developer tooling: mobility,
 # robotics, energy, gaming, security, and India-specific launches.
 CLOUD_MIXED_FEEDS = [
+    # Dedicated 12-hour queries stop a broad AI result set hiding key updates.
+    "https://news.google.com/rss/search?q=OpenAI%20GPT%20Codex%20ChatGPT%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Anthropic%20Claude%20Fable%20Opus%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Cursor%20Composer%20AI%20coding%20agent%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Google%20DeepMind%20Gemini%20AI%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=GitHub%20Copilot%20AI%20developer%20tools%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=AI%20model%20release%20OR%20AI%20agent%20OR%20reasoning%20model%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=site%3Aopenai.com%20OR%20site%3Aanthropic.com%20OR%20site%3Adeepmind.google%20AI%20model%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20Gemini%20OR%20AI%20model%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=NVIDIA%20OR%20AMD%20OR%20GPU%20OR%20semiconductor%20OR%20chip%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
@@ -60,8 +67,9 @@ CLOUD_API_URLS = [
 CLOUD_MIXED_KEYWORDS = [
     # Avoid the bare word "chip": Google News also returns food stories such
     # as potato chips. Keep the hardware terms specific enough for the inbox.
-    "openai", "anthropic", "gemini", "ai model", "nvidia", "amd", "gpu", "ai chip", "semiconductor",
-    "apple", "samsung", "smartphone", "wearable", "consumer tech", "developer tools", "github", "cursor", "composer",
+    "openai", "chatgpt", "gpt", "codex", "anthropic", "claude", "fable", "opus", "gemini", "deepmind",
+    "ai model", "nvidia", "amd", "gpu", "ai chip", "semiconductor", "apple", "samsung", "smartphone",
+    "wearable", "consumer tech", "developer tools", "github", "copilot", "cursor", "composer", "ai agent",
     "software", "cybersecurity", "privacy", "data breach", "startup", "funding", "antitrust", "regulation",
     "tesla", "ev", "electric vehicle", "robotaxi", "charging", "battery", "robotics", "drones", "automation",
     "india tech", "upi", "digital public infrastructure", "gaming", "playstation", "xbox", "nintendo",
@@ -73,13 +81,14 @@ def main() -> None:
     load_dotenv(ROOT_DIR / ".env")
     mode = type("Args", (), {"mode": "fresh", "limit": 12, "handles": "", "style": ""})()
     settings = settings_for_mode(load_settings(), mode)
-    # This cloud job is deliberately collection-only. It must never spend on
-    # a cloud LLM or rely on the laptop's local Ollama server.
+    # This cloud job is collection-only and never uses Ollama. OpenAI web
+    # research is opt-in: the GitHub workflow enables it only when the user
+    # has added OPENAI_API_KEY as a repository secret.
     settings = replace(
         settings,
         topic_query="mixed current technology news",
         enable_ollama=False,
-        enable_openai_research=False,
+        enable_openai_research=settings.enable_openai_research,
         enable_openai_drafts=False,
         enable_x_scan=False,
         enable_x_watchlist=False,

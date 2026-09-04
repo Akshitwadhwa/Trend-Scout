@@ -49,6 +49,10 @@ TOP_AI_ACCOUNT_HANDLES = [
 ]
 
 AI_RADAR_FEEDS = [
+    "https://news.google.com/rss/search?q=OpenAI%20GPT%20Codex%20ChatGPT%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Anthropic%20Claude%20Fable%20Opus%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Cursor%20Composer%20AI%20coding%20agent%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Google%20DeepMind%20Gemini%20AI%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=OpenAI%20OR%20Anthropic%20OR%20Claude%20OR%20ChatGPT%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=Google%20DeepMind%20OR%20Gemini%20OR%20Meta%20AI%20OR%20Llama%20OR%20xAI%20OR%20Grok%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=Kimi%20OR%20Moonshot%20OR%20DeepSeek%20OR%20Qwen%20OR%20Mistral%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
@@ -200,6 +204,11 @@ def parse_args() -> argparse.Namespace:
         help="fresh=normal scan, top-ai=signals from top AI accounts, ai-radar=latest model/company release radar, india=latest India-aware tech posts, growth=X-algorithm-aware impression/CTR/follower-growth pack, nvidia=NVIDIA event/chips/AI factory scan, tesla=Tesla EV/FSD/Optimus/energy scan, wearables=on-demand Garmin/WHOOP/Oura/Apple Watch/Samsung Health scan, reply-scout=high-signal source tweets plus copy-paste replies",
     )
     parser.add_argument("--limit", type=int, default=10)
+    parser.add_argument(
+        "--with-openai",
+        action="store_true",
+        help="Opt in to paid OpenAI current-web research using OPENAI_API_KEY.",
+    )
     parser.add_argument("--style", default="")
     parser.add_argument(
         "--handles",
@@ -344,6 +353,8 @@ def main() -> None:
     args = parse_args()
     load_dotenv()
     settings = settings_for_mode(load_settings(), args)
+    if args.with_openai:
+        settings = replace(settings, enable_openai_research=True)
     workflow = build_workflow(settings)
     if args.mode == "reply-scout":
         handles = selected_handles(args, DEFAULT_REPLY_SCOUT_HANDLES)

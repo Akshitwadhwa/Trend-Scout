@@ -36,6 +36,8 @@ OFFICIAL_DOMAINS = {
     "mistral.ai",
     "docs.mistral.ai",
     "qwen.ai",
+    "cursor.com",
+    "status.openai.com",
 }
 
 REPUTABLE_FEEDS = {

@@ -28,19 +28,23 @@ class OpenAIWebResearcher:
         self.last_error = ""
         if not self.configured:
             return []
-        today = datetime.now(timezone.utc).date().isoformat()
+        now = datetime.now(timezone.utc)
+        today = now.date().isoformat()
+        current_time = now.isoformat()
         prompt = (
-            "Find at most four distinct, high-confidence AI product or model releases from the past seven days. "
+            "Find at most four distinct, high-confidence AI product, model, or developer-tool updates per company, "
+            "with up to eight total updates published within the last 12 hours. "
             "Cover different companies where possible: OpenAI, Anthropic, Google DeepMind/Gemini, Meta AI/Llama, "
-            "xAI/Grok, Kimi/Moonshot, DeepSeek, Qwen/Alibaba, Mistral, or Hugging Face. "
-            "Use only a first-party company newsroom, research-lab, documentation, or product-release page. "
-            "Skip rumours, reports about plans, benchmark chatter, funding, policy, consumer devices, and duplicate stories. "
-            "Choose no more than one item per company. Every item needs one direct source URL and an explicit publication date. "
+            "xAI/Grok, Kimi/Moonshot, DeepSeek, Qwen/Alibaba, Mistral, Hugging Face, Cursor, or GitHub. "
+            "Use a first-party newsroom, research-lab, documentation, release page, or reputable publication "
+            "when it directly reports a current announcement. Skip rumours, duplicate stories, and undated pages. "
+            "Choose no more than two items per company. Every item needs one direct source URL and an explicit "
+            "ISO-8601 publication timestamp including timezone; if the exact time cannot be verified, omit the item. "
             "Return JSON only with this shape: "
             '{"items":[{"title":"...","what_happened":"...","why_it_matters":"...",'
-            '"published_at":"YYYY-MM-DD","source_name":"...","source_url":"https://...",'
+            '"published_at":"YYYY-MM-DDTHH:MM:SSZ","source_name":"...","source_url":"https://...",'
             '"category":"AI|Developer tools|Chips|Consumer tech|Startups|Policy","confidence":0.0}]}. '
-            f"Today is {today}. Topic focus: {topic_query}"
+            f"Current UTC time is {current_time}; today is {today}. Topic focus: {topic_query}"
         )
         try:
             response = requests.post(

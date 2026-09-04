@@ -2,7 +2,7 @@ name: Cloud Trend Inbox
 
 on:
   schedule:
-    - cron: "17 */2 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -27,7 +27,11 @@ jobs:
 
       - name: Refresh free trend inbox
         env:
-          ENABLE_OPENAI_RESEARCH: "false"
+          # Paid research remains opt-in: add OPENAI_API_KEY to repository
+          # secrets to enable it. Without it, this stays a free RSS/API scan.
+          ENABLE_OPENAI_RESEARCH: ${{ secrets.OPENAI_API_KEY != '' }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_RESEARCH_TIMEOUT_SECONDS: "90"
           ENABLE_OPENAI_DRAFTS: "false"
           ENABLE_SCHEDULER: "false"
           ENABLE_X_SCAN: "false"
