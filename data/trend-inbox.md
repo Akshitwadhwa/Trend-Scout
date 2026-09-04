@@ -2,46 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-04T14:23:47.715061+00:00
-Scanned: 2026-09-04T14:23:47.715061+00:00
+Updated: 2026-09-04T18:27:09.842318+00:00
+Scanned: 2026-09-04T18:27:09.842318+00:00
 Memory window: 12 hours
 
 ## 1. Samsung Wins Multiple Honors at IFA Innovation Awards 2026
 Source: news.samsung.com (primary)
 Published: 2026-09-04T21:30:00+00:00 | Age: 0.0 hours
-Scanned: 2026-09-04T14:23:47.712391+00:00
+Scanned: 2026-09-04T18:27:09.839949+00:00
 URL: https://news.samsung.com/global/samsung-wins-multiple-honors-at-ifa-innovation-awards-2026
 
 Samsung Electronics today announced that it has received multiple honors at the IFA Innovation Awards 2026 for its latest home appliances. Among the recognized products, the Bespoke AI WindFree Pro Air Conditioner was named a winner in the Best in Design category and an honoree in the Best in Home Appliances category. “Samsung looks beyond […]
 
-## 2. Nvidia built a $99 billion equity portfolio from virtually scratch in 2 years - Business Insider
-Source: Business Insider (reputable)
-Published: 2026-09-04T14:22:37+00:00 | Age: 0.0 hours
-Scanned: 2026-09-04T14:23:47.712391+00:00
-URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUlmTllXTlotSnNNeTBZSUJHU1AzRGQya3otbVB5NUlXM09hZEFvMHdBRUtNTkRoc0lXZGdlTnRaWTNmWGpNUmhPVWw2cWJQQlZCekROSzBLUFNmSURRblRHb01MNzg1OUxwa3VNbWpraFlZUDNTb0RZWml0dFdCZ2hMYnNXRGRPaDNUVTdWd1hkcGlFWTE2eFljczdYdnE1LTRNcDF1YzF1NC1UT2FlWg?oc=5
+## 2. 3 last-minute Apple iPhone 18 event rumors - Mashable
+Source: Mashable (reputable)
+Published: 2026-09-04T18:10:15+00:00 | Age: 0.3 hours
+Scanned: 2026-09-04T18:27:09.839949+00:00
+URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE90bUFKVktDOHA5aFhmaEc2aWdfWmpnQXFFRjhCbFVTVkl2YmY0UjNaUFp5TDlaTXU1czhJU283NnBzYVl5OU5FdW82SWo1M3YzX0ZJWVRmMFgwNXZlSkxVRXZ5UTBRNU4zYV95Zk9RZDBERzQ?oc=5
 
-Nvidia built a $99 billion equity portfolio from virtually scratch in 2 years Business Insider
+3 last-minute Apple iPhone 18 event rumors Mashable
 
-## 3. A call for collective action on cyber defense - OpenAI
-Source: OpenAI (primary)
-Published: 2026-09-04T14:21:17+00:00 | Age: 0.0 hours
-Scanned: 2026-09-04T14:23:47.712391+00:00
-URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RTFFNWXFnX1BoTG01SWNzTkcxZGI3SXpyalA5SEhEeTRHTWVLNjNtVTdXOGx5X3kzbk80TzhjRm8wdGhaWWlKMC1FQW5sYUZrUEp3UUxR?oc=5
+## 3. Project HydraFusion: Frontier quality via multi-model orchestration - The GitHub Blog
+Source: The GitHub Blog (primary)
+Published: 2026-09-04T16:07:08+00:00 | Age: 2.3 hours
+Scanned: 2026-09-04T18:27:09.839949+00:00
+URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxNa25sTE9NOVZjY01pRHk3anVpaFNvQVZYZDlBQWlaUk83WTIxSkJnTk5RQU1qd0dwdHR4QmhUaVRJQ0dRdDVJWTl4WWQyQVNGaUVHRFNnclA0VTJJTmt4UE1wWUk1VVZ6VFU2bmVzajFpZTNDQzhxQW1fTmI0NnNubGRpdF9BLXdETk9TU1lIU09vb1BnU0ZycVB3NU05QUtTWUc2QjE0Rzh1UFJXcjg2Y3VR?oc=5
 
-A call for collective action on cyber defense OpenAI
+Project HydraFusion: Frontier quality via multi-model orchestration The GitHub Blog
 
-## 4. Domain Allowlist - OpenAI Platform - OpenAI Platform
-Source: OpenAI Platform (primary)
-Published: 2026-09-04T12:27:58+00:00 | Age: 1.9 hours
-Scanned: 2026-09-04T14:23:47.712391+00:00
-URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDdBSEVRQlpvRHJEWXhQS2hSbGJNamd6d3FudS1veW1OXzl3OV92Nm4tX2RlYkRwZWVDdlY5NW1vQ3JWOVhpdElGN0Jjb1Y2VmFER2hsVXBRYU9pLVczd3drSGMzeDYyNHBoUjhoMlEzUzN1OHNlTDY1cXlCRDNiQg?oc=5
+## 4. Project HydraFusion: Frontier quality via multi-model orchestration
+Source: github.blog (primary)
+Published: 2026-09-04T16:04:14+00:00 | Age: 2.4 hours
+Scanned: 2026-09-04T18:27:09.839949+00:00
+URL: https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/
 
-Domain Allowlist - OpenAI Platform OpenAI Platform
-
-## 5. Microsoft’s Project Zenith is a “distraction-free Windows experience” for developers - The Verge
-Source: The Verge (reputable)
-Published: 2026-09-04T10:44:15+00:00 | Age: 3.7 hours
-Scanned: 2026-09-04T14:23:47.712391+00:00
-URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxPMGZMWTNhdnVOaHN0N1ZQZDI5bmIwckVkcEg3ZmFkUldFcGlWVGZvYzVySWs4ZDQ3elpUVmFBNWp3bUFBVHhIV1NfNzczb1ZOTmZoNTJoVEFWR1pPNzdkNEstcEZoZVA5V1lnLWhDVUVjbUttaXFYWjc0cEVZNHQyVVFaUnZiN2M?oc=5
-
-Microsoft’s Project Zenith is a “distraction-free Windows experience” for developers The Verge
+In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog .
