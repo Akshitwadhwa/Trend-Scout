@@ -122,7 +122,7 @@ class Workflow:
         inbox_filename: str = "trend-inbox.json",
         replace_existing: bool = False,
     ) -> dict[str, Any]:
-        """Collect sources only; this two-hour path never invokes the local writer."""
+        """Collect sources only; this hourly path never invokes the local writer."""
         topic_query = self.db.get_topic_query(self.settings.topic_query)
         free_sources = self._collect_sources(topic_query)
         cloud_sources = self._openai_research_sources(topic_query)
