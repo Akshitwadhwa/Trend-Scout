@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T00:04:47.802797+00:00",
-  "scanned_at": "2026-09-04T00:04:47.802797+00:00",
+  "updated_at": "2026-09-04T04:29:25.639595+00:00",
+  "scanned_at": "2026-09-04T04:29:25.639595+00:00",
   "retention_hours": 12,
   "items": [
     {
@@ -11,7 +11,7 @@
       "source_level": "primary",
       "published_at": "2026-09-04T08:00:00+00:00",
       "age_hours": 0.0,
-      "scanned_at": "2026-09-04T00:04:47.799986+00:00",
+      "scanned_at": "2026-09-04T04:29:25.637403+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -23,7 +23,19 @@
       "source_level": "primary",
       "published_at": "2026-09-04T08:00:00+00:00",
       "age_hours": 0.0,
-      "scanned_at": "2026-09-04T00:04:47.799986+00:00",
+      "scanned_at": "2026-09-04T04:29:25.637403+00:00",
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Hugging Face model update: Tatathamon/thai-qa-lab-model",
+      "what_happened": "text-generation; downloads=0; likes=0",
+      "source_url": "https://huggingface.co/Tatathamon/thai-qa-lab-model",
+      "source_name": "huggingface.co",
+      "source_level": "primary",
+      "published_at": "2026-09-04T04:29:24+00:00",
+      "age_hours": 0.0,
+      "scanned_at": "2026-09-04T04:29:25.637403+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -33,59 +45,23 @@
       "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RTFFNWXFnX1BoTG01SWNzTkcxZGI3SXpyalA5SEhEeTRHTWVLNjNtVTdXOGx5X3kzbk80TzhjRm8wdGhaWWlKMC1FQW5sYUZrUEp3UUxR?oc=5",
       "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-09-04T00:03:24+00:00",
-      "age_hours": 0.0,
-      "scanned_at": "2026-09-04T00:04:47.799986+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Hugging Face model update: bimabk/instruct_tenun_1ef6d2828e40a7efa003",
-      "what_happened": "text-generation; downloads=0; likes=0",
-      "source_url": "https://huggingface.co/bimabk/instruct_tenun_1ef6d2828e40a7efa003",
-      "source_name": "huggingface.co",
-      "source_level": "primary",
-      "published_at": "2026-09-04T00:00:18+00:00",
+      "published_at": "2026-09-04T04:25:59+00:00",
       "age_hours": 0.1,
-      "scanned_at": "2026-09-04T00:04:47.799986+00:00",
+      "scanned_at": "2026-09-04T04:29:25.637403+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Data at law firms Quinn Emanuel, McDermott exposed in cyber breaches - Reuters",
-      "what_happened": "Data at law firms Quinn Emanuel, McDermott exposed in cyber breaches Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd01kdkVRVEpTR0h1cENBd0gwWFY0YVdRUEYyZ2dITlBOY0dPRzloZmdOTzJRRjl6QlVxcWtlWFhJV2E0bVBqR2VuLVVXTkhCN1BGSWFudFhiellGNWhZWTB0Z0hyNGFFSDBwalRYdXVZZDZtcFItSjlFMmx6cTBUSjNXZ042TW9PNldHbDNjSEc2aWpxWGdUeVpVQVhpM2JLbElxb2Q2TEZvelhUallya05hRTg?oc=5",
-      "source_name": "Reuters",
+      "title": "Transcript: Memory chip mania isn\u2019t going away, with Dan Kim - Financial Times",
+      "what_happened": "Transcript: Memory chip mania isn\u2019t going away, with Dan Kim Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVZQMURiTF9aV1RCM01HNS0wdkd0QVZ0Zm51dElmT3dVM0tWNkVGSXVvVC1teVZtZUgtTzUwbm5IVVdaY1llVTNPR0p6STU4a0JXZzdldk0zQjdCcG1EUkFnTGlfUkMwNVdDRWM1OXF0YWdiMzJiNi1iZjJydklpZ3ljMjk?oc=5",
+      "source_name": "Financial Times",
       "source_level": "reputable",
-      "published_at": "2026-09-03T23:52:09+00:00",
-      "age_hours": 0.2,
-      "scanned_at": "2026-09-04T00:04:47.799986+00:00",
+      "published_at": "2026-09-04T04:07:48+00:00",
+      "age_hours": 0.4,
+      "scanned_at": "2026-09-04T04:29:25.637403+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "GitHub release: anthropics/claude-code v2.1.260",
-      "what_happened": "## What's changed - Added a diff panel that opens beside the conversation in fullscreen mode and shows your uncommitted changes as Claude edits; toggle it with `/diff` - Added a likely cause for prompt-cache misses (e.g. tool definitions or system prompt changed, idle past the TTL) to `/cost` and the status line's `prompt_cache` field - Added `/reload-plugins` to headless sessions, so it appears in the Claude Code De",
-      "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.260",
-      "source_name": "github.com",
-      "source_level": "primary",
-      "published_at": "2026-09-03T23:48:12+00:00",
-      "age_hours": 0.3,
-      "scanned_at": "2026-09-04T00:04:47.799986+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services - OpenAI",
-      "what_happened": "Daybreak for Frontline Defenders: $1B to protect essential services OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50NWRBNVBBdWQwaldNTmRJUTVJN0FqNUVRM0ZqVzZKT21ocjlaOUFmUENRRG1PWFIyV003aEdtYW04WUx6VDQ0TzZKMGMzT0RvWFIxSlYtZWhJVkVRdGxrdkc5aVZMcHBsX0E?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-09-03T23:36:10+00:00",
-      "age_hours": 0.5,
-      "scanned_at": "2026-09-04T00:04:47.799986+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "GitHub release: openai/openai-python v3.8.0",
@@ -94,8 +70,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-03T19:50:24+00:00",
-      "age_hours": 4.2,
-      "scanned_at": "2026-09-04T00:04:47.799986+00:00",
+      "age_hours": 8.7,
+      "scanned_at": "2026-09-04T04:29:25.637403+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
