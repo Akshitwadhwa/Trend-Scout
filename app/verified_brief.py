@@ -68,6 +68,32 @@ HUGGING_FACE_OFFICIAL_ORGS = {
 HUGGING_FACE_REPUTABLE_DOWNLOADS = 5_000
 HUGGING_FACE_REPUTABLE_LIKES = 25
 
+# A company careers page can appear in a Google News result and inherit the
+# company's primary-source status. It is not a product, model, or technology
+# update, so it must never enter the tweet-drafting inbox.
+JOB_LISTING_PREFIXES = (
+    "account executive,",
+    "business development,",
+    "data scientist,",
+    "design engineer,",
+    "engineering manager,",
+    "machine learning engineer,",
+    "product manager,",
+    "program manager,",
+    "research engineer,",
+    "research scientist,",
+    "software engineer,",
+    "solutions engineer,",
+    "staff software engineer,",
+)
+JOB_LISTING_TERMS = (
+    "careers",
+    "job opening",
+    "open role",
+    "apply now",
+    "join our team",
+)
+
 REPUTABLE_FEEDS = {
     "techcrunch.com",
     "news.ycombinator.com",
@@ -126,6 +152,8 @@ class VerifiedBriefBuilder:
         for item in items:
             title = self._clean(str(item.get("title") or item.get("text") or ""))
             if not title:
+                continue
+            if self._is_job_listing(item, title):
                 continue
             title_key = re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
             if title_key in seen_titles:
@@ -260,6 +288,19 @@ class VerifiedBriefBuilder:
         if downloads >= HUGGING_FACE_REPUTABLE_DOWNLOADS and likes >= HUGGING_FACE_REPUTABLE_LIKES:
             return "reputable", label
         return "discovery", label
+
+    def _is_job_listing(self, item: dict[str, Any], title: str) -> bool:
+        """Reject careers pages even when their publisher is otherwise primary."""
+        title_key = title.casefold()
+        if title_key.startswith(JOB_LISTING_PREFIXES):
+            return True
+        source_paths = (
+            urlparse(str(item.get("url", ""))).path.casefold(),
+            urlparse(str(item.get("publisher_url", ""))).path.casefold(),
+        )
+        if any("career" in path or "/jobs" in path for path in source_paths):
+            return True
+        return any(term in title_key for term in JOB_LISTING_TERMS)
 
     def _evidence(self, item: dict[str, Any], title: str) -> str:
         text = self._clean(str(item.get("text", "")))

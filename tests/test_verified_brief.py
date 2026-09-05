@@ -110,3 +110,19 @@ def test_hugging_face_adopted_community_model_can_be_reputable():
 
     assert brief["ready_count"] == 1
     assert brief["items"][0]["source_level"] == "reputable"
+
+
+def test_company_job_listing_is_excluded_from_the_verified_brief():
+    now = datetime.now(timezone.utc)
+    listing = source(
+        "https://news.google.com/rss/articles/careers",
+        "Product Manager, Statsig - OpenAI",
+        now.isoformat(),
+    )
+    listing["author_name"] = "OpenAI"
+    listing["publisher_url"] = "https://openai.com/careers/product-manager-statsig"
+
+    brief = VerifiedBriefBuilder().build([listing])
+
+    assert brief["ready_count"] == 0
+    assert brief["items"] == []
