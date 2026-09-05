@@ -70,6 +70,17 @@ def test_google_news_uses_original_official_publisher_domain():
     assert brief["items"][0]["source_level"] == "primary"
 
 
+def test_google_news_uses_original_reputable_publisher_domain():
+    now = datetime.now(timezone.utc)
+    reporting = source("https://news.google.com/rss/articles/one", "Chip deal", now.isoformat())
+    reporting["author_name"] = "Reuters"
+    reporting["publisher_url"] = "https://www.reuters.com/technology/chip-deal"
+
+    brief = VerifiedBriefBuilder().build([reporting])
+
+    assert brief["items"][0]["source_level"] == "reputable"
+
+
 def hugging_face_model(org: str, *, downloads: int, likes: int) -> dict:
     now = datetime.now(timezone.utc)
     return {
@@ -123,6 +134,21 @@ def test_company_job_listing_is_excluded_from_the_verified_brief():
     listing["publisher_url"] = "https://openai.com/careers/product-manager-statsig"
 
     brief = VerifiedBriefBuilder().build([listing])
+
+    assert brief["ready_count"] == 0
+    assert brief["items"] == []
+
+
+def test_support_article_is_excluded_from_the_verified_brief():
+    now = datetime.now(timezone.utc)
+    support = source(
+        "https://news.google.com/rss/articles/support",
+        "OpenAI Daybreak - Common Issues and Troubleshooting - OpenAI Help Center",
+        now.isoformat(),
+    )
+    support["publisher_url"] = "https://help.openai.com/en/articles/daybreak-common-issues"
+
+    brief = VerifiedBriefBuilder().build([support])
 
     assert brief["ready_count"] == 0
     assert brief["items"] == []

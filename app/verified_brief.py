@@ -94,6 +94,16 @@ JOB_LISTING_TERMS = (
     "join our team",
 )
 
+# Fresh support documentation is not a product launch or industry update.
+SUPPORT_CONTENT_TERMS = (
+    "common issues",
+    "frequently asked questions",
+    "help center",
+    "how to troubleshoot",
+    "known issue",
+    "troubleshooting",
+)
+
 REPUTABLE_FEEDS = {
     "techcrunch.com",
     "news.ycombinator.com",
@@ -103,6 +113,15 @@ REPUTABLE_FEEDS = {
     "macrumors.com",
     "sammobile.com",
     "wareable.com",
+}
+
+# Google News carries its own redirect as the item URL. The publisher URL is
+# therefore the reliable signal for Reuters, CNBC, The Verge, and peers.
+REPUTABLE_PUBLISHER_DOMAINS = {
+    "axios.com", "bbc.co.uk", "bloomberg.com", "cnbc.com", "engadget.com",
+    "ft.com", "indianexpress.com", "macrumors.com", "moneycontrol.com",
+    "reuters.com", "scmp.com", "techcrunch.com", "theverge.com",
+    "tomshardware.com", "wired.com", "wsj.com", "9to5mac.com",
 }
 
 REPUTABLE_PUBLICATIONS = {
@@ -153,7 +172,7 @@ class VerifiedBriefBuilder:
             title = self._clean(str(item.get("title") or item.get("text") or ""))
             if not title:
                 continue
-            if self._is_job_listing(item, title):
+            if self._is_job_listing(item, title) or self._is_support_content(item, title):
                 continue
             title_key = re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
             if title_key in seen_titles:
@@ -265,7 +284,13 @@ class VerifiedBriefBuilder:
         if source_type == "openai_web_research":
             return "web_researched", str(item.get("author_name") or host or "OpenAI web research")
         publisher = str(item.get("author_name", "")).lower().strip()
-        if host == "news.google.com" and publisher in REPUTABLE_PUBLICATIONS:
+        if host == "news.google.com" and (
+            publisher in REPUTABLE_PUBLICATIONS
+            or any(
+                publisher_host == domain or publisher_host.endswith(f".{domain}")
+                for domain in REPUTABLE_PUBLISHER_DOMAINS
+            )
+        ):
             return "reputable", str(item.get("author_name"))
         if any(host == domain or host.endswith(f".{domain}") for domain in REPUTABLE_FEEDS):
             return "reputable", host
@@ -301,6 +326,16 @@ class VerifiedBriefBuilder:
         if any("career" in path or "/jobs" in path for path in source_paths):
             return True
         return any(term in title_key for term in JOB_LISTING_TERMS)
+
+    def _is_support_content(self, item: dict[str, Any], title: str) -> bool:
+        title_key = title.casefold()
+        source_paths = (
+            urlparse(str(item.get("url", ""))).path.casefold(),
+            urlparse(str(item.get("publisher_url", ""))).path.casefold(),
+        )
+        if any(term in title_key for term in SUPPORT_CONTENT_TERMS):
+            return True
+        return any("/help/" in path or "/support/" in path for path in source_paths)
 
     def _evidence(self, item: dict[str, Any], title: str) -> str:
         text = self._clean(str(item.get("text", "")))
