@@ -6,7 +6,8 @@ def test_cloud_cycle_keeps_rolling_inbox_memory():
 
     source = script.read_text(encoding="utf-8")
 
-    assert "refresh_trend_inbox(retention_hours=12, replace_existing=True)" in source
+    assert "verified_max_age_hours=72" in source
+    assert "refresh_trend_inbox(retention_hours=72, replace_existing=True)" in source
     assert "https://www.apple.com/newsroom/rss-feed.rss" in source
     assert "https://github.blog/feed/" in source
     assert "https://api.github.com/repos/openai/openai-python/releases" in source

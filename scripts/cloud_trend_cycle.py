@@ -84,6 +84,11 @@ def main() -> None:
     # This cloud job is collection-only and never uses Ollama. OpenAI web
     # research is opt-in: the GitHub workflow enables it only when the user
     # has added OPENAI_API_KEY as a repository secret.
+    # Keep a small verified history in GitHub.  Telegram still reads the
+    # newest 12 hours first, but a quiet news cycle should not make the whole
+    # product unusable.  The bot may use this 72-hour history only when it
+    # explicitly labels the result as a recent fallback, never as breaking
+    # news.
     settings = replace(
         settings,
         topic_query="mixed current technology news",
@@ -93,6 +98,7 @@ def main() -> None:
         enable_x_scan=False,
         enable_x_watchlist=False,
         enable_x_timeline=False,
+        verified_max_age_hours=72,
         enable_web_scan=True,
         max_web_results=max(100, settings.max_web_results),
         web_feed_urls=CLOUD_MIXED_FEEDS,
@@ -103,10 +109,10 @@ def main() -> None:
     # The SQLite topic value can outlive a previous focused local run. The
     # scheduled cloud job must always use its own broad topic configuration.
     workflow.db.set_topic_query(settings.topic_query)
-    # Replace the inbox on every run. Telegram must never draft from a story
-    # that was left behind by a failed/stopped scheduler run. If this scan
-    # finds no verified stories, an empty inbox is safer than stale content.
-    scan = workflow.refresh_trend_inbox(retention_hours=12, replace_existing=True)
+    # Replace the inbox on every run so it cannot retain a failed scan's data,
+    # while preserving a verified 72-hour history for the clearly labelled
+    # Telegram fallback path.
+    scan = workflow.refresh_trend_inbox(retention_hours=72, replace_existing=True)
 
     print(json.dumps({
         "saved_topics": scan["inbox_count"],
