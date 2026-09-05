@@ -1,43 +1,19 @@
 {
-  "updated_at": "2026-09-05T04:34:30.358999+00:00",
-  "scanned_at": "2026-09-05T04:34:30.358999+00:00",
-  "retention_hours": 12,
+  "updated_at": "2026-09-05T07:18:32.998164+00:00",
+  "scanned_at": "2026-09-05T07:18:32.998164+00:00",
+  "retention_hours": 72,
   "items": [
     {
-      "title": "Product Manager, Statsig - OpenAI",
-      "what_happened": "Product Manager, Statsig OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGQnNkcDF4M3FGc1BZYkp1d3JXZlljSGdUR3NYVU8wSVNMaVBvU2xhUG9UTU83VWNlNUlFU0JDUjZsbkFTc2hmT2VoS3BJTmtHY0MxMkJFZ0VDU2czUjBua29kQldyVHZWclNTTEt3cWRKODQ?oc=5",
-      "source_name": "OpenAI",
+      "title": "OpenAI Daybreak - Common Issues and Troubleshooting - OpenAI Help Center",
+      "what_happened": "OpenAI Daybreak - Common Issues and Troubleshooting OpenAI Help Center",
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWI2VDZ6MkRnZjF0M3duS1JPQkhqV3ZkM1ZZdEx1VnhPSGhBbFczVklFM1BuZnJXTEp4dTI1WUw1QkQzUGNIdzlXRktqc1o1eDhydFVvMURuSlQ5M1hlSllkaGJVOUl0TkxKaTBlaFF2R0ZEQ0xGS3lDZ1pEZXFkOFY4bW0td3VKZTBDWVduWTFiLVJheWktemNn?oc=5",
+      "source_name": "OpenAI Help Center",
       "source_level": "primary",
-      "published_at": "2026-09-05T04:25:02+00:00",
-      "age_hours": 0.2,
-      "scanned_at": "2026-09-05T04:34:30.356515+00:00",
+      "published_at": "2026-09-05T07:01:24+00:00",
+      "age_hours": 0.3,
+      "scanned_at": "2026-09-05T07:18:32.995445+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung Electronics, LG Electronics win combined 11 awards at IFA 2026 - Korea JoongAng Daily",
-      "what_happened": "Samsung Electronics, LG Electronics win combined 11 awards at IFA 2026 Korea JoongAng Daily",
-      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObE9scGlWcUJKUEVqOFlQNmhuakhkOU9YeHpKbVdYYWF5SzVoSTUxMmpXakoybEZTS0JMNzJPaWR6MVRuVl9Gdm1UWlpYWUIxTF8zOXczeHZrczlJQ2VQUFFtNlBvb0NDSkNLTlRTUHdYNG9OTTBpdzIwNklSUk5fajVSM1BYTjVUZ2JOMW84OGx4ODRnTGdfQ3g0YzhhNXNablhHM0JTemtXcWNBa2c3SWNTTTNpUEFJWkhLZjRWQQ?oc=5",
-      "source_name": "Korea JoongAng Daily",
-      "source_level": "reputable",
-      "published_at": "2026-09-05T00:26:28+00:00",
-      "age_hours": 4.1,
-      "scanned_at": "2026-09-05T04:34:30.356515+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "How to preorder Apple's new supercharged Mac Mini with M6 and M5 Pro chips (and save $19) - Mashable",
-      "what_happened": "How to preorder Apple's new supercharged Mac Mini with M6 and M5 Pro chips (and save $19) Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91ODNyQW93b0dnSDBzTnZSa21ja0RYM29FWlNNQmZycVNtaTJuNk5aQzlsR1pDNlNWQUNqU0lILTZkMTZRZEtVM3lzVHJBTnN1YllNSXJ1MjBVem85RW1mZjk4dE5mUzY1RHppVy13d0szWXU3cEtV?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-09-05T00:24:22+00:00",
-      "age_hours": 4.2,
-      "scanned_at": "2026-09-05T04:34:30.356515+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
