@@ -1,8 +1,44 @@
 {
-  "updated_at": "2026-09-05T21:17:30.719598+00:00",
-  "scanned_at": "2026-09-05T21:17:30.719598+00:00",
+  "updated_at": "2026-09-05T23:55:46.821326+00:00",
+  "scanned_at": "2026-09-05T23:55:46.821326+00:00",
   "retention_hours": 72,
   "items": [
+    {
+      "title": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far - Mashable",
+      "what_happened": "Apple's iOS 27 and Siri AI are coming soon: Everything we know so far Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HekZ4aHFMZDByUm9HNG9WbW9ZbHZZZG55NUllTGt4LUtGWXhLbXdvc05EWk1nU0FHQW1RanQ5d3l6akdQZnVRTWpPRV9PWmhSZ3dyUEw3dUlWaFVQSDNPS0VYVG9pTnVhYzVIbi05LXBqdw?oc=5",
+      "source_name": "Mashable",
+      "source_level": "reputable",
+      "published_at": "2026-09-05T21:50:56+00:00",
+      "age_hours": 2.1,
+      "scanned_at": "2026-09-05T23:55:46.818605+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Projects - OpenAI Platform - OpenAI Platform",
+      "what_happened": "Projects - OpenAI Platform OpenAI Platform",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wMUNYUzdnanc1VzlBc0kzR2l6ZDdsbDA2QV9NcEJBUjNZUnMxWHRzd1Jvc2dyWTJIRllQR2lzV29uLVhOVVhiVE54ZUVLV0ZtdU9FM19fdWZfVi00R2E5Q0pVNmYzRktmLVE?oc=5",
+      "source_name": "OpenAI Platform",
+      "source_level": "primary",
+      "published_at": "2026-09-05T21:34:30+00:00",
+      "age_hours": 2.4,
+      "scanned_at": "2026-09-05T23:55:46.818605+00:00",
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth \u2014 Project Zenith will debut on AMD's flagship Ryzen AI Halo platform - Tom's Hardware",
+      "what_happened": "Stripped-down Windows 11 for AI developers demands 64GB RAM and insane 250 GB/s bandwidth \u2014 Project Zenith will debut on AMD's flagship Ryzen AI Halo platform Tom's Hardware",
+      "source_url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPcWhMVnBRa0ZYYXd2b3FjRHpfckpPVTlWR1M2SWVjNnI1ZkhpcDVrRGpzNDh1SzhQWExrZ0tzdUpXSXBNUm9pYnB5UVhjdFA2VDlDUTVYcGFzakNHUFpSUDBzdHp5akRpYkV3c29OYmMweWhvQzVxTnBKeWtHRk5LckRuc3ZHR2lTZlE2Wl9FMHdJZWc4VEFlMG5ITUFtb21VcTNFYmc3NUc2NHpPQmpGRl9xRW1zNVF1M21qV2N0MDdKSHltbnZiejd3QWw2djFDSlV6RTdmaE5EWE9faVJYTEw0SDZZM1pBVnF2VlB2V2xzd293T2FSR2FGT0FHZjNSUGhja2pzMm5HS1VYdmJDQWltVGs0RDBXVG1PeWxNUDd2SzlnYm0tOA?oc=5",
+      "source_name": "Tom's Hardware",
+      "source_level": "reputable",
+      "published_at": "2026-09-05T17:18:57+00:00",
+      "age_hours": 6.6,
+      "scanned_at": "2026-09-05T23:55:46.818605+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
     {
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "what_happened": "In controlled offline evaluations, HydraFusion\u2019s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog .",
@@ -10,8 +46,8 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-09-04T16:04:14+00:00",
-      "age_hours": 29.2,
-      "scanned_at": "2026-09-05T21:17:30.716286+00:00",
+      "age_hours": 31.9,
+      "scanned_at": "2026-09-05T23:55:46.818605+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -22,8 +58,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-03T19:50:24+00:00",
-      "age_hours": 49.5,
-      "scanned_at": "2026-09-05T21:17:30.716286+00:00",
+      "age_hours": 52.1,
+      "scanned_at": "2026-09-05T23:55:46.818605+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
