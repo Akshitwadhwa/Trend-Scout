@@ -2,38 +2,30 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-05T00:08:31.013658+00:00
-Scanned: 2026-09-05T00:08:31.013658+00:00
+Updated: 2026-09-05T04:34:30.358999+00:00
+Scanned: 2026-09-05T04:34:30.358999+00:00
 Memory window: 12 hours
 
-## 1. Software Engineer, HSM Infrastructure Security, Consumer Devices - OpenAI
+## 1. Product Manager, Statsig - OpenAI
 Source: OpenAI (primary)
-Published: 2026-09-04T23:53:11+00:00 | Age: 0.3 hours
-Scanned: 2026-09-05T00:08:31.011171+00:00
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGJGRlNNZ1VfR0xkaWVmeUV0ZElmblFxRjRuV3gzbkJuR1REWnYtVEtTdHlSNzhqanVzV0FId0JfX3d2aFZDLV9LUHY3TjFPWVlLNFpjU1ltWWhVNkU2TzFGZDU4ejFyQUtmUkFsMG9LNDZGV0NSYTRCc0dVQVI2QTFvRmFjWG82enhaMWo2aDBvSEtlaGRFSExPSFBVT0taNjlJdmN4Zw?oc=5
+Published: 2026-09-05T04:25:02+00:00 | Age: 0.2 hours
+Scanned: 2026-09-05T04:34:30.356515+00:00
+URL: https://news.google.com/rss/articles/CBMic0FVX3lxTFBGQnNkcDF4M3FGc1BZYkp1d3JXZlljSGdUR3NYVU8wSVNMaVBvU2xhUG9UTU83VWNlNUlFU0JDUjZsbkFTc2hmT2VoS3BJTmtHY0MxMkJFZ0VDU2czUjBua29kQldyVHZWclNTTEt3cWRKODQ?oc=5
 
-Software Engineer, HSM Infrastructure Security, Consumer Devices OpenAI
+Product Manager, Statsig OpenAI
 
-## 2. Apple TV’s global hit drama “Silo” to return for fourth and final season on July 9, 2027 - Apple
-Source: Apple (primary)
-Published: 2026-09-04T23:07:18+00:00 | Age: 1.0 hours
-Scanned: 2026-09-05T00:08:31.011171+00:00
-URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXQyNnEyYUowTmpRR1pBYUI4N1lKRzdIdV81M0dKaUxnS0dUV19wNUZJMU95cE5sX0JmUThrTHlpR3dvUUpqY01JOWdTekRYWmVXQU9saXV3aXV0ZzFQQVVlQlktYkVSVXN2ZU9IQkt2OFJuNFE2VVZXejRWY25ET01KN3lablVIdXFGeV9BeU1ONGJ6U28wQlJubUM3UElZVTJjTFRWN1ZRU1NBSTVYcGRkNkFGaWRhanZjNTdEaWEzQ0hC?oc=5
+## 2. Samsung Electronics, LG Electronics win combined 11 awards at IFA 2026 - Korea JoongAng Daily
+Source: Korea JoongAng Daily (reputable)
+Published: 2026-09-05T00:26:28+00:00 | Age: 4.1 hours
+Scanned: 2026-09-05T04:34:30.356515+00:00
+URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxObE9scGlWcUJKUEVqOFlQNmhuakhkOU9YeHpKbVdYYWF5SzVoSTUxMmpXakoybEZTS0JMNzJPaWR6MVRuVl9Gdm1UWlpYWUIxTF8zOXczeHZrczlJQ2VQUFFtNlBvb0NDSkNLTlRTUHdYNG9OTTBpdzIwNklSUk5fajVSM1BYTjVUZ2JOMW84OGx4ODRnTGdfQ3g0YzhhNXNablhHM0JTemtXcWNBa2c3SWNTTTNpUEFJWkhLZjRWQQ?oc=5
 
-Apple TV’s global hit drama “Silo” to return for fourth and final season on July 9, 2027 Apple
+Samsung Electronics, LG Electronics win combined 11 awards at IFA 2026 Korea JoongAng Daily
 
-## 3. EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters
-Source: Reuters (reputable)
-Published: 2026-09-04T22:46:02+00:00 | Age: 1.4 hours
-Scanned: 2026-09-05T00:08:31.011171+00:00
-URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5
+## 3. How to preorder Apple's new supercharged Mac Mini with M6 and M5 Pro chips (and save $19) - Mashable
+Source: Mashable (reputable)
+Published: 2026-09-05T00:24:22+00:00 | Age: 4.2 hours
+Scanned: 2026-09-05T04:34:30.356515+00:00
+URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE91ODNyQW93b0dnSDBzTnZSa21ja0RYM29FWlNNQmZycVNtaTJuNk5aQzlsR1pDNlNWQUNqU0lILTZkMTZRZEtVM3lzVHJBTnN1YllNSXJ1MjBVem85RW1mZjk4dE5mUzY1RHppVy13d0szWXU3cEtV?oc=5
 
-EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring Reuters
-
-## 4. Full Stack Software Engineer, Gov - OpenAI
-Source: OpenAI (primary)
-Published: 2026-09-04T21:54:07+00:00 | Age: 2.2 hours
-Scanned: 2026-09-05T00:08:31.011171+00:00
-URL: https://news.google.com/rss/articles/CBMif0FVX3lxTE0tUkJMbTREMHRpUkZUR1JDcVkxLTV0MXZlVkVsckZxLUZDSEVCUWZTYTRGdHpFYURyTHk4UUF4RXhaeVYtNU1SbHREczBuRXdwM3FBWEtfSVFkU29hbklLcUNNLXZ0NE9VaHNVaDY3eHJrakgtUkNJMzQwVXRwb3c?oc=5
-
-Full Stack Software Engineer, Gov OpenAI
+How to preorder Apple's new supercharged Mac Mini with M6 and M5 Pro chips (and save $19) Mashable
