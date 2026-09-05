@@ -2,14 +2,14 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-05T07:18:32.998164+00:00
-Scanned: 2026-09-05T07:18:32.998164+00:00
+Updated: 2026-09-05T09:07:23.482803+00:00
+Scanned: 2026-09-05T09:07:23.482803+00:00
 Memory window: 72 hours
 
-## 1. OpenAI Daybreak - Common Issues and Troubleshooting - OpenAI Help Center
-Source: OpenAI Help Center (primary)
-Published: 2026-09-05T07:01:24+00:00 | Age: 0.3 hours
-Scanned: 2026-09-05T07:18:32.995445+00:00
-URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxPUWI2VDZ6MkRnZjF0M3duS1JPQkhqV3ZkM1ZZdEx1VnhPSGhBbFczVklFM1BuZnJXTEp4dTI1WUw1QkQzUGNIdzlXRktqc1o1eDhydFVvMURuSlQ5M1hlSllkaGJVOUl0TkxKaTBlaFF2R0ZEQ0xGS3lDZ1pEZXFkOFY4bW0td3VKZTBDWVduWTFiLVJheWktemNn?oc=5
+## 1. Samsung Electronics union runs Times Square ad opposing AI-driven job cuts - Korea JoongAng Daily
+Source: Korea JoongAng Daily (reputable)
+Published: 2026-09-05T09:01:15+00:00 | Age: 0.1 hours
+Scanned: 2026-09-05T09:07:23.478002+00:00
+URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXFHRG1nckVmRGQteGdYcXFsSE5HTjlKcTFlWWFWTHo0X2FUMm1EVW5sUk9LU2NSTmpxRmxvLXd6NVlkLWRQTlRETkdURTRXMkhnU1VKN3Y1TTFPWHlWdjNrWGczeWtHUVdIUFc5NGFldnp5YW9pZkdiSlZmTFdnN1VuWW9Rbm9OZFhqbm1FVi1SR1k5cmpCX1lFSE5lZ1Z0QXJvSGpja3d6czRoZ3B6RW1JWmp3Sld0eTRnR01VUzMzV0Iy?oc=5
 
-OpenAI Daybreak - Common Issues and Troubleshooting OpenAI Help Center
+Samsung Electronics union runs Times Square ad opposing AI-driven job cuts Korea JoongAng Daily
