@@ -1,56 +1,8 @@
 {
-  "updated_at": "2026-09-05T12:45:29.056486+00:00",
-  "scanned_at": "2026-09-05T12:45:29.056486+00:00",
+  "updated_at": "2026-09-05T16:06:18.893211+00:00",
+  "scanned_at": "2026-09-05T16:06:18.893211+00:00",
   "retention_hours": 72,
   "items": [
-    {
-      "title": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more - 9to5Mac",
-      "what_happened": "Apple Labor Day weekend deals: AirPods Pro 3, Studio Display, Mac mini, AirTag 2, chargers, more 9to5Mac",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52YUMzdlU3VVotUW5aODByQzhTenRROVFKejh0TU8wX1E1UFZhN2YyUmZPc0FVMG5BUzV5Sm40WTFMaWlmeGFhaHBxS1I0R29aSWhmTTd2S1V5RE1jNnpxcVVUWllZZHBIZTRQMVdCUFk3N09tYkh4dA?oc=5",
-      "source_name": "9to5Mac",
-      "source_level": "reputable",
-      "published_at": "2026-09-05T12:12:00+00:00",
-      "age_hours": 0.6,
-      "scanned_at": "2026-09-05T12:45:29.054847+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Shrinking Cyber Agency Cited as National Security Risk - WSJ",
-      "what_happened": "Shrinking Cyber Agency Cited as National Security Risk WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaHRPNWd5ZEV1dmJwcnQxS1Y1Sjl2ZWhnSmdROUZlaXV2MlFWQ2RpeS1SM2Y5X3JoTGg0dUVJcnh4NlljT1NVSXZDamxHbXJTZVZhY0QzQ1VJenZiVFRLNnItYTBid0xqc3RLemZqMkJYTFFrR1RRY0xHM2hOdm84ZVFhUmhYaTJlN1hDMzBsTWQweFV3Y2liUUV6WmtUZTg0cUV3?oc=5",
-      "source_name": "WSJ",
-      "source_level": "reputable",
-      "published_at": "2026-09-05T11:42:56+00:00",
-      "age_hours": 1.0,
-      "scanned_at": "2026-09-05T12:45:29.054847+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Domain Allowlist - OpenAI Platform - OpenAI Platform",
-      "what_happened": "Domain Allowlist - OpenAI Platform OpenAI Platform",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDdBSEVRQlpvRHJEWXhQS2hSbGJNamd6d3FudS1veW1OXzl3OV92Nm4tX2RlYkRwZWVDdlY5NW1vQ3JWOVhpdElGN0Jjb1Y2VmFER2hsVXBRYU9pLVczd3drSGMzeDYyNHBoUjhoMlEzUzN1OHNlTDY1cXlCRDNiQg?oc=5",
-      "source_name": "OpenAI Platform",
-      "source_level": "primary",
-      "published_at": "2026-09-05T10:06:26+00:00",
-      "age_hours": 2.7,
-      "scanned_at": "2026-09-05T12:45:29.054847+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "3 last-minute Apple iPhone 18 event rumors - Mashable",
-      "what_happened": "3 last-minute Apple iPhone 18 event rumors Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90bUFKVktDOHA5aFhmaEc2aWdfWmpnQXFFRjhCbFVTVkl2YmY0UjNaUFp5TDlaTXU1czhJU283NnBzYVl5OU5FdW82SWo1M3YzX0ZJWVRmMFgwNXZlSkxVRXZ5UTBRNU4zYV95Zk9RZDBERzQ?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-09-05T09:35:27+00:00",
-      "age_hours": 3.2,
-      "scanned_at": "2026-09-05T12:45:29.054847+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
     {
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "what_happened": "In controlled offline evaluations, HydraFusion\u2019s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog .",
@@ -58,8 +10,8 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-09-04T16:04:14+00:00",
-      "age_hours": 20.7,
-      "scanned_at": "2026-09-05T12:45:29.054847+00:00",
+      "age_hours": 24.0,
+      "scanned_at": "2026-09-05T16:06:18.890206+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -70,8 +22,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-03T19:50:24+00:00",
-      "age_hours": 40.9,
-      "scanned_at": "2026-09-05T12:45:29.054847+00:00",
+      "age_hours": 44.3,
+      "scanned_at": "2026-09-05T16:06:18.890206+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
