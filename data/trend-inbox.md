@@ -2,46 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-06T21:25:37.569862+00:00
-Scanned: 2026-09-06T21:25:37.569862+00:00
+Updated: 2026-09-06T23:57:28.689663+00:00
+Scanned: 2026-09-06T23:57:28.689663+00:00
 Memory window: 72 hours
 
-## 1. GPT-6 Astra: A new generation of intelligence - OpenAI
+## 1. Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates
+Source: news.samsung.com (primary)
+Published: 2026-09-07T08:00:00+00:00 | Age: 0.0 hours
+Scanned: 2026-09-06T23:57:28.685703+00:00
+URL: https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates
+
+Samsung Electronics today announced major software updates for select refrigerators and laundry appliances. Beginning in September, the update to Tizen OS 10.0 will bring key services and features to select existing appliances in line with those offered on models launched this year. “Home appliances are products that consumers rely on for many years. We believe […]
+
+## 2. GPT-6 Astra: A new generation of intelligence - OpenAI
 Source: OpenAI (primary)
-Published: 2026-09-06T21:17:33+00:00 | Age: 0.1 hours
-Scanned: 2026-09-06T21:25:37.567089+00:00
+Published: 2026-09-06T23:52:12+00:00 | Age: 0.1 hours
+Scanned: 2026-09-06T23:57:28.685703+00:00
 URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5
 
 GPT-6 Astra: A new generation of intelligence OpenAI
 
-## 2. Apple's iOS 27 and Siri AI are coming soon: Everything we know so far - Mashable
-Source: Mashable (reputable)
-Published: 2026-09-06T20:02:25+00:00 | Age: 1.4 hours
-Scanned: 2026-09-06T21:25:37.567089+00:00
-URL: https://news.google.com/rss/articles/CBMickFVX3lxTE1HekZ4aHFMZDByUm9HNG9WbW9ZbHZZZG55NUllTGt4LUtGWXhLbXdvc05EWk1nU0FHQW1RanQ5d3l6akdQZnVRTWpPRV9PWmhSZ3dyUEw3dUlWaFVQSDNPS0VYVG9pTnVhYzVIbi05LXBqdw?oc=5
+## 3. Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider
+Source: Business Insider (reputable)
+Published: 2026-09-06T22:59:00+00:00 | Age: 1.0 hours
+Scanned: 2026-09-06T23:57:28.685703+00:00
+URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVlPMC1CNnpsZ1VBRTAzTlJZU2RzWk92WGRmSUhQY3dwa3d1a1YtMXNwRDJ2UURBRy1vZkh3NnVzbHkxdko0TEFONXR6UnVBeUE1enZaQXhwRlJyVEZ2eWZPelIxME4wM2Z6XzZBMTJYYzM2eWN1SDYxcF9BQ25jdEtBd1Y?oc=5
 
-Apple's iOS 27 and Siri AI are coming soon: Everything we know so far Mashable
-
-## 3. Project chat ignored project-scoped files, searched the global Library, and rebuilt a new baseline - OpenAI Developer Community
-Source: OpenAI Developer Community (primary)
-Published: 2026-09-06T19:44:38+00:00 | Age: 1.7 hours
-Scanned: 2026-09-06T21:25:37.567089+00:00
-URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS1lZeTRtZkpmbGpDclV4T3B2M0lhTjBaSW54MVlBZFBZMGtqd2xGOG5iSEtZMHZBbC1Ud0xWdHhPT3FqRXlndFpEVXdHUm90cC1fU3ZQb0xqWm5MdTBDRHZvMGNEaDFHS1NHVHlNVDFCUmNoZmlvWGVodVl4eG14enNwSkwyS0pPREl4cEpxNGh1MGxsN1JBelZOV1ZnWmpZcXFzaTd1ekVhSTctaXYtbFhvLWVyaTg0MlUxY1NNcUdUeWpuSmNCSTc0dmc1U2lC?oc=5
-
-Project chat ignored project-scoped files, searched the global Library, and rebuilt a new baseline OpenAI Developer Community
+Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI Business Insider
 
 ## 4. 3 last-minute Apple iPhone 18 event rumors - Mashable
 Source: Mashable (reputable)
-Published: 2026-09-06T19:13:40+00:00 | Age: 2.2 hours
-Scanned: 2026-09-06T21:25:37.567089+00:00
+Published: 2026-09-06T22:18:09+00:00 | Age: 1.7 hours
+Scanned: 2026-09-06T23:57:28.685703+00:00
 URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE90bUFKVktDOHA5aFhmaEc2aWdfWmpnQXFFRjhCbFVTVkl2YmY0UjNaUFp5TDlaTXU1czhJU283NnBzYVl5OU5FdW82SWo1M3YzX0ZJWVRmMFgwNXZlSkxVRXZ5UTBRNU4zYV95Zk9RZDBERzQ?oc=5
 
 3 last-minute Apple iPhone 18 event rumors Mashable
 
-## 5. [macOS bug] Medium/High/Extra High disappear after Pro quota is exhausted-web and iOS unaffected - OpenAI Developer Community
-Source: OpenAI Developer Community (primary)
-Published: 2026-09-06T18:52:12+00:00 | Age: 2.6 hours
-Scanned: 2026-09-06T21:25:37.567089+00:00
-URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxQUWRhcHZ2eDFiZndRaktMdnMzWUNmYmNtZEw1cldtQkdybEtwN1VONkxYQktQcTZEbDZHTUwyTTUyWktwZno3Q0E3YnFtSEt0ZTdrZFYtQS1YaXFpRFdudHA2cWdHTS16TDVWWEpLMDQ0OHFVMUo2dHJqMy1rNURZZXBMVkdTME5VaWRqY3BNMFM0YjVrRjltNDBBb3V0bDdtOFNYLS1oUHhtQnBIZHotdEEzbEk3RXRxZTZ1T2VPLVRyWTNmeWYwRGRxaXlkZw?oc=5
+## 5. How To Set Up ChatGPT's Parental Controls To Protect Your Teen - Engadget
+Source: Engadget (reputable)
+Published: 2026-09-06T17:30:00+00:00 | Age: 6.5 hours
+Scanned: 2026-09-06T23:57:28.685703+00:00
+URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE9DeGw3S01FcFR2U1U0d1JOcTdjRWtoa0hTeEJYVFRRc3hjSVlxWWhHREkwNGtVcWl4aUE2T3R5bXdJOEdjZXFjSkljdGxUY0Jpc3AwalB3SmVZd1VfclJRNkZYUHZOVFo2ZG50TFlOTERsTlpNdHRBTVBLWVdHQQ?oc=5
 
-[macOS bug] Medium/High/Extra High disappear after Pro quota is exhausted-web and iOS unaffected OpenAI Developer Community
+How To Set Up ChatGPT's Parental Controls To Protect Your Teen Engadget
