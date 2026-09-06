@@ -2,54 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-06T09:27:57.232811+00:00
-Scanned: 2026-09-06T09:27:57.232811+00:00
+Updated: 2026-09-06T13:41:39.252166+00:00
+Scanned: 2026-09-06T13:41:39.252166+00:00
 Memory window: 72 hours
 
-## 1. GPT-6 Astra: A new generation of intelligence - openai.com
-Source: openai.com (primary)
-Published: 2026-09-06T09:19:21+00:00 | Age: 0.1 hours
-Scanned: 2026-09-06T09:27:57.229994+00:00
+## 1. GPT-6 Astra: A new generation of intelligence - OpenAI
+Source: OpenAI (primary)
+Published: 2026-09-06T13:39:08+00:00 | Age: 0.0 hours
+Scanned: 2026-09-06T13:41:39.249609+00:00
 URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5
 
-GPT-6 Astra: A new generation of intelligence openai.com
+GPT-6 Astra: A new generation of intelligence OpenAI
 
-## 2. Hugging Face model update: owao/Nanbeige4.2-3B-GGUF
-Source: Hugging Face / owao (reputable)
-Published: 2026-09-06T09:19:17+00:00 | Age: 0.1 hours
-Scanned: 2026-09-06T09:27:57.229994+00:00
-URL: https://huggingface.co/owao/Nanbeige4.2-3B-GGUF
-
-text-generation; downloads=137030; likes=57
-
-## 3. Best Labor Day laptop deals: Save up to $450 on Apple, HP, Dell - Mashable
+## 2. 3 last-minute Apple iPhone 18 event rumors - Mashable
 Source: Mashable (reputable)
-Published: 2026-09-06T08:10:33+00:00 | Age: 1.3 hours
-Scanned: 2026-09-06T09:27:57.229994+00:00
-URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZGJlZHZ5cjA5d1QtWHlwYjBrQkt3UlNGMlkyNU96LTN6SW1BczkwMzhrTjZEeFNYYWVXWHJVUEpJb3NBdlRtYVlhLXQtb0RLU1pxdW9CNmF6QTRCN01nMF91eTJsYkpSd0E?oc=5
+Published: 2026-09-06T13:12:32+00:00 | Age: 0.5 hours
+Scanned: 2026-09-06T13:41:39.249609+00:00
+URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE90bUFKVktDOHA5aFhmaEc2aWdfWmpnQXFFRjhCbFVTVkl2YmY0UjNaUFp5TDlaTXU1czhJU283NnBzYVl5OU5FdW82SWo1M3YzX0ZJWVRmMFgwNXZlSkxVRXZ5UTBRNU4zYV95Zk9RZDBERzQ?oc=5
 
-Best Labor Day laptop deals: Save up to $450 on Apple, HP, Dell Mashable
+3 last-minute Apple iPhone 18 event rumors Mashable
 
-## 4. US, Japan emerge as Korean chipmakers' production bases amid AI boom - The Korea Times
-Source: The Korea Times (reputable)
-Published: 2026-09-06T07:31:03+00:00 | Age: 1.9 hours
-Scanned: 2026-09-06T09:27:57.229994+00:00
-URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ3MwcHhNbExoMUNhcEl1clNacFJ3Y1JJLXNjbzNjbFViY2VzSGFfWExTeEF2VDg0M1FfNGlub3U4X2pPNlpQeHBVdEVZNWpqMlVCbW5xWE9XcFBtRWdVT29XWmZwOEJuRGd1ZUJJQlZfZ3ota19hRVlpQTYxVWRENkNDRUprX2tPV2Z5TGd3NWc4WFZQdkxoVEpwdWxzTXlZZFFHVUloMVBSbUZ4c2tjeFItU0VYQnp2dGUwTVBZZFdGV0pO0gHKAUFVX3lxTE1SVGtUc2M3V3NON2x6TGdCRlpycDBIUU1ueFVKSUJIQnZFNWxhczQzczRrLUpmdV82WjhManhlekgzYVhfOUMxMUM2ZHpxWHl3WmJRMDU5dWI4N3IyQ3Y2UzdMbFlNU2xQOU1iakk0MUFHVWc1akVxQno0UGZNNnhYaGhHSEFQZWJvZWxnYkVKd2hRby0wTDlKTWo3TGhmNTA2eDkxREZrX0FraV80NnU1dS1BaFpmNWRwVml4eG1lTDBRdjB4NmZBeGc?oc=5
+## 3. Apple event on Sept 9: iPhone 18 Pro series, iPhone Ultra launch expected - India Today
+Source: India Today (reputable)
+Published: 2026-09-06T12:58:50+00:00 | Age: 0.7 hours
+Scanned: 2026-09-06T13:41:39.249609+00:00
+URL: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX3Z4VGp4OHNfay1QaXBOeTlMYjdKSmFzaDZrcWU2djh6ampIbXZPUnA0TjJKMWU2NnozU09oZXRLd3RfNXVnNC1oLWZab3hNXzVweFJXcjh4bzZLS3dtaXNwUW9TYW9TVGNVbmo4VnRWYVFRdkpCdFpUQWVjZGlfSkUtV2dyM21HaUcxMU83ck1wc29tTE94bUhTZUJoeHI2THNPVVRPdWFWcWxNd2s2RDFveEktQ2ozeDdpNTVVMm5SeEZJcFI1M05WQTBZT0ZvSVhPSNIB2gFBVV95cUxOVmVuZEI1QmMycGFWU1Bvei1PLVBkSkN0SWI4YUN4c1BUOTFVd3lKOFc2a2lBbmRCV081ZFlrZHRZNmN5X3NyRGRPdll0ZVkxN3czMnNJem5oeDBfeUJFS0NHa1VFNFFCd3BOckE2VFpaQTU0YjBQQ3RGR3lDcnZia3dPbkhodHdtaURfT1BWQmVPa1dwNUx0ZGI1RmI1QzNaak9aQTZBT2NkaWdiUHZScUh6MU1SUWZPWUhNY2NvMlQwb01ra2pKUnVXYmd2NDQyRDU3Uk0zMUFVQQ?oc=5
 
-US, Japan emerge as Korean chipmakers' production bases amid AI boom The Korea Times
+Apple event on Sept 9: iPhone 18 Pro series, iPhone Ultra launch expected India Today
 
-## 5. Nvidia and CrowdStrike Develop New Cybersecurity AI Models | The Morning Download for Sept. 2 - WSJ
-Source: WSJ (reputable)
-Published: 2026-09-06T06:38:14+00:00 | Age: 2.8 hours
-Scanned: 2026-09-06T09:27:57.229994+00:00
-URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxNa19QTkMyU3B3eUJFcXB3TmFIWVJ5RW5aNTN4LVhBby1oaVhaei12N2VmYW9kTUFPc0pPajNLSkhXWTFsOXF5RDRIWkhJNUoyN29HcGd1UUU3bDhLMUtvLWhvb2l1bUdTaHMwWUR4RDFrS21Xc1VRWXJ5c25nR0E1TVAxV2IxR3QyT0MzOC1GTFNxeDY0RDdxenA0bmQ4WFlZ?oc=5
+## 4. Feature Request: Native AI Vector/CAD Workflow for Manufacturing and Fabrication - OpenAI Developer Community
+Source: OpenAI Developer Community (primary)
+Published: 2026-09-06T12:26:20+00:00 | Age: 1.3 hours
+Scanned: 2026-09-06T13:41:39.249609+00:00
+URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWstemp5cElGdGFwYWozT3lwLUZvVTByZ1p5MUZ1cExsYklyaWVmTnVfR0tYR0NPTGVFY0VOMjJSeWZOeU9hLTdMNjRSS2hXNjNlOFJPM0N2TnROMTlXalY5VFhGN21GdklqM2w2RVlBZGRyN2pVdmpkN0M2R2JYaG1yX3E2c21NRklaYUR5ekxES2ZyN0hKejZPSC1OcU1wNlI5MWlvOGNqaVZuZXloU1A1T1ZPNk16R2c?oc=5
 
-Nvidia and CrowdStrike Develop New Cybersecurity AI Models | The Morning Download for Sept. 2 WSJ
+Feature Request: Native AI Vector/CAD Workflow for Manufacturing and Fabrication OpenAI Developer Community
 
-## 6. GitHub release: anthropics/claude-code v2.1.263
-Source: github.com (primary)
-Published: 2026-09-06T02:54:20+00:00 | Age: 6.6 hours
-Scanned: 2026-09-06T09:27:57.229994+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.263
+## 5. GPT-5.6 long-running document review stops executing after progress/status response and falsely implies work is continuing - OpenAI Developer Community
+Source: OpenAI Developer Community (primary)
+Published: 2026-09-06T12:25:15+00:00 | Age: 1.3 hours
+Scanned: 2026-09-06T13:41:39.249609+00:00
+URL: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTGdlYURLNmlCYklfZUx0VHJPWE1mTTZOM01vTFl3RGo0VkFpSnZkSV9FT1ctU3NCUk56OUpOLXhCMTRSUS1YajlZQU1YVjdQVGJRampsMWtlMjJ0M3JqUWtaWDd5N2RzQWs3d2hpVjExYnRHSEt2QnkxRU1aV1J1bE83YlVManl5c1B4a2oyUHJwWVJtay1ENVNhSEF6NnhqOGFTSWVQc2k1aDlld1h3OHV6UWJLTXhmMU1aVmd4TUd4Q3I5aTk0cDVaNmI4aXR6TmdPUHpEeHE4MDRLV2Fkdl9abkQtcjVmdzZTaEM4WFltRUU?oc=5
 
-## What's changed - Bug fixes and reliability improvements
+GPT-5.6 long-running document review stops executing after progress/status response and falsely implies work is continuing OpenAI Developer Community
