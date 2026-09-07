@@ -2,38 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-07T04:47:03.207711+00:00
-Scanned: 2026-09-07T04:47:03.207711+00:00
+Updated: 2026-09-07T10:22:45.080271+00:00
+Scanned: 2026-09-07T10:22:45.080271+00:00
 Memory window: 72 hours
 
-## 1. Samsung Medison Expands Women’s Health Diagnostic Portfolio With Launch of Premium Ultrasound ‘HERA Z10’
+## 1. Immaculate Engineering Meets Artistic Imagination: Highlights From Design Miami Seoul 2026
 Source: news.samsung.com (primary)
-Published: 2026-09-07T09:00:00+00:00 | Age: 0.0 hours
-Scanned: 2026-09-07T04:47:03.204565+00:00
-URL: https://news.samsung.com/global/samsung-medison-expands-womens-health-diagnostic-portfolio-with-launch-of-premium-ultrasound-hera-z10
+Published: 2026-09-07T14:53:00+00:00 | Age: 0.0 hours
+Scanned: 2026-09-07T10:22:45.077076+00:00
+URL: https://news.samsung.com/global/immaculate-engineering-meets-artistic-imagination-highlights-from-design-miami-seoul-2026
 
-Samsung Medison launched its premium obstetrics and gynecology (OB/GYN) ultrasound diagnostic system, the HERA Z10. Alongside the flagship HERA Z20, the new system officially completes the HERA Z Series (Z20 & Z10) lineup. With global trends showing an increase in maternal age and pregnancy-related complications, precision imaging for prenatal diagnostics and rapid clinical decision-making have […]
+What happens when human imagination, artificial intelligence, art and technology come together? From September 1 to 6, Samsung Electronics presented a special exhibition themed “Design is an Act of Love” during Design Miami Seoul 2026 at Dongdaemun Design Plaza (DDP) in Seoul. The exhibition offered a fresh interpretation of Samsung’s human-centered design vision. Inspired by […]
 
-## 2. Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates
-Source: news.samsung.com (primary)
-Published: 2026-09-07T08:00:00+00:00 | Age: 0.0 hours
-Scanned: 2026-09-07T04:47:03.204565+00:00
-URL: https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates
-
-Samsung Electronics today announced major software updates for select refrigerators and laundry appliances. Beginning in September, the update to Tizen OS 10.0 will bring key services and features to select existing appliances in line with those offered on models launched this year. “Home appliances are products that consumers rely on for many years. We believe […]
-
-## 3. GPT-6 Astra: A new generation of intelligence - OpenAI
+## 2. GPT-6 Astra: A new generation of intelligence - OpenAI
 Source: OpenAI (primary)
-Published: 2026-09-07T04:44:23+00:00 | Age: 0.0 hours
-Scanned: 2026-09-07T04:47:03.204565+00:00
+Published: 2026-09-07T10:15:41+00:00 | Age: 0.1 hours
+Scanned: 2026-09-07T10:22:45.077076+00:00
 URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5
 
 GPT-6 Astra: A new generation of intelligence OpenAI
 
-## 4. Trusted access for the next era of cyber defense - OpenAI
-Source: OpenAI (primary)
-Published: 2026-09-07T02:56:15+00:00 | Age: 1.8 hours
-Scanned: 2026-09-07T04:47:03.204565+00:00
-URL: https://news.google.com/rss/articles/CBMifEFVX3lxTE9NZTlhb2FTYzJVQUpKSnZ6RzFGTTN0Sjc4NVhaTDFqQzh6ZmlQVmN1X3NOVUNLRENENkNadjh4M0Nud3hwNG1EWEpOR2NEM1lFY1RCZEFJZlJJQlJlRGsySFp6WEdtdEN6VEdxelpaMWoxY19YdHVLc3l0eDI?oc=5
+## 3. AI computing demand may never be sated, says CEO of Nvidia partner Iren - Financial Times
+Source: Financial Times (reputable)
+Published: 2026-09-07T10:00:10+00:00 | Age: 0.4 hours
+Scanned: 2026-09-07T10:22:45.077076+00:00
+URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E?oc=5
 
-Trusted access for the next era of cyber defense OpenAI
+AI computing demand may never be sated, says CEO of Nvidia partner Iren Financial Times
+
+## 4. Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - Reuters
+Source: Reuters (reputable)
+Published: 2026-09-07T09:53:15+00:00 | Age: 0.5 hours
+Scanned: 2026-09-07T10:22:45.077076+00:00
+URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5
+
+Huawei launches new foldable smartphone; Xiaomi and Apple set to follow Reuters

@@ -1,29 +1,17 @@
 {
-  "updated_at": "2026-09-07T04:47:03.207711+00:00",
-  "scanned_at": "2026-09-07T04:47:03.207711+00:00",
+  "updated_at": "2026-09-07T10:22:45.080271+00:00",
+  "scanned_at": "2026-09-07T10:22:45.080271+00:00",
   "retention_hours": 72,
   "items": [
     {
-      "title": "Samsung Medison Expands Women\u2019s Health Diagnostic Portfolio With Launch of Premium Ultrasound \u2018HERA Z10\u2019",
-      "what_happened": "Samsung Medison launched its premium obstetrics and gynecology (OB/GYN) ultrasound diagnostic system, the HERA Z10. Alongside the flagship HERA Z20, the new system officially completes the HERA Z Series (Z20 & Z10) lineup. With global trends showing an increase in maternal age and pregnancy-related complications, precision imaging for prenatal diagnostics and rapid clinical decision-making have [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-medison-expands-womens-health-diagnostic-portfolio-with-launch-of-premium-ultrasound-hera-z10",
+      "title": "Immaculate Engineering Meets Artistic Imagination: Highlights From Design Miami Seoul 2026",
+      "what_happened": "What happens when human imagination, artificial intelligence, art and technology come together? From September 1 to 6, Samsung Electronics presented a special exhibition themed \u201cDesign is an Act of Love\u201d during Design Miami Seoul 2026 at Dongdaemun Design Plaza (DDP) in Seoul. The exhibition offered a fresh interpretation of Samsung\u2019s human-centered design vision. Inspired by [\u2026]",
+      "source_url": "https://news.samsung.com/global/immaculate-engineering-meets-artistic-imagination-highlights-from-design-miami-seoul-2026",
       "source_name": "news.samsung.com",
       "source_level": "primary",
-      "published_at": "2026-09-07T09:00:00+00:00",
+      "published_at": "2026-09-07T14:53:00+00:00",
       "age_hours": 0.0,
-      "scanned_at": "2026-09-07T04:47:03.204565+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Samsung Enhances Long-Term Value of Refrigerators and Laundry Appliances With AI-Focused Software Updates",
-      "what_happened": "Samsung Electronics today announced major software updates for select refrigerators and laundry appliances. Beginning in September, the update to Tizen OS 10.0 will bring key services and features to select existing appliances in line with those offered on models launched this year. \u201cHome appliances are products that consumers rely on for many years. We believe [\u2026]",
-      "source_url": "https://news.samsung.com/global/samsung-enhances-long-term-value-of-refrigerators-and-laundry-appliances-with-ai-focused-software-updates",
-      "source_name": "news.samsung.com",
-      "source_level": "primary",
-      "published_at": "2026-09-07T08:00:00+00:00",
-      "age_hours": 0.0,
-      "scanned_at": "2026-09-07T04:47:03.204565+00:00",
+      "scanned_at": "2026-09-07T10:22:45.077076+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -33,23 +21,35 @@
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-09-07T04:44:23+00:00",
-      "age_hours": 0.0,
-      "scanned_at": "2026-09-07T04:47:03.204565+00:00",
+      "published_at": "2026-09-07T10:15:41+00:00",
+      "age_hours": 0.1,
+      "scanned_at": "2026-09-07T10:22:45.077076+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Trusted access for the next era of cyber defense - OpenAI",
-      "what_happened": "Trusted access for the next era of cyber defense OpenAI",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NZTlhb2FTYzJVQUpKSnZ6RzFGTTN0Sjc4NVhaTDFqQzh6ZmlQVmN1X3NOVUNLRENENkNadjh4M0Nud3hwNG1EWEpOR2NEM1lFY1RCZEFJZlJJQlJlRGsySFp6WEdtdEN6VEdxelpaMWoxY19YdHVLc3l0eDI?oc=5",
-      "source_name": "OpenAI",
-      "source_level": "primary",
-      "published_at": "2026-09-07T02:56:15+00:00",
-      "age_hours": 1.8,
-      "scanned_at": "2026-09-07T04:47:03.204565+00:00",
+      "title": "AI computing demand may never be sated, says CEO of Nvidia partner Iren - Financial Times",
+      "what_happened": "AI computing demand may never be sated, says CEO of Nvidia partner Iren Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcl9UQllHZTNxT0xReUxGQmplaDBEZ3E4OUg0OE5HWVFnVktQX0NvNmxoZWt4YVcyc2VkbzJaelJuV3hUYVBhM01CZm84QnJnWlZ3VE5ndFNlMGJDZDNCak5TemVZY2NhdUdWbEEzczgzN1J2ZmlLNktZMm12d1FmTDFOT0E?oc=5",
+      "source_name": "Financial Times",
+      "source_level": "reputable",
+      "published_at": "2026-09-07T10:00:10+00:00",
+      "age_hours": 0.4,
+      "scanned_at": "2026-09-07T10:22:45.077076+00:00",
       "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - Reuters",
+      "what_happened": "Huawei launches new foldable smartphone; Xiaomi and Apple set to follow Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-09-07T09:53:15+00:00",
+      "age_hours": 0.5,
+      "scanned_at": "2026-09-07T10:22:45.077076+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
