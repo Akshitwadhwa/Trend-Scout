@@ -1,6 +1,43 @@
 {
-  "updated_at": "2026-07-23T14:30:01.455990+00:00",
+  "updated_at": "2026-09-08T14:35:20.453356+00:00",
   "batches": [
+    {
+      "generated_at": "2026-09-08T14:35:20.453356+00:00",
+      "drafts": [
+        {
+          "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
+          "text": "GPT-6 Astra is less interesting because it can write more code, and more because models are now being judged on whether they can take a task across a browser, terminal, docs, and back without losing the plot. The agent loop is getting real.",
+          "source_url": "https://openai.com/index/gpt-6-astra/",
+          "category": "AI and models",
+          "length_band": "full",
+          "angle": "impact"
+        },
+        {
+          "title": "India's UPI ecosystem is ready for next level, need to eye global expansion, says PM Modi",
+          "text": "UPI going global is not about an Indian tourist tapping a phone abroad once. The bigger win is if Indian payments become infrastructure other countries can plug into, rather than a consumer product they only try to copy.",
+          "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeXpfT1J0dThXNnk1WGQzWjdGWVRaVzhiY2ZZa0FyYXpPRG4zOFVCU3ZEcVR3ZW9jbmVpdEM4Y3h3WlBERnVEVkFnOHZpSFlvY0RCNUx3UlctTWkxUUJEazl2ZHlmVWtfOTZkeWdzMTNqWF9mMGk0MHdFVmo0S3Y0YlM1SG1BckNIV0taTEZzaDNabjFRN2owSXk1NXZkekRQa3FhWkhZb29zajFPMTlaRkFXY0tZNnF1eDluWkN0V1F5TFRNNDAyRDN3c203MFdzZUdMSXV5OXp2bUc10gHiAUFVX3lxTE4tbzBzajRSM1M3VDZOX2FoZkd6YXVNcmR2SXdBUmlva3lPcU9BYXA3dnc2WVVHUi1HUy1kOXJZa3RveFNvdWEzNktyb3FMOUttZlR0c3JOODdWRVpvazd4N25VX1RXaWNPNlZNZnFHLTFQZE4tRjNYX1NTOWFiblY5X0JBWm56YThMRzYwMlFDWlpTOENOTFBPdHVIM2VneGVlczBjNW9hN1lsaFREaHQ4OUM0Mm9PWXZFTld6dkJISmFkNzhoTUJtX1ZsMTRERWhOcVRqVzlXTDZnXzZVaE1LWVE?oc=5",
+          "category": "India tech",
+          "length_band": "normal",
+          "angle": "contrast"
+        },
+        {
+          "title": "Mistral raises €3B as sovereign AI becomes big business",
+          "text": "Mistral raising €3B at a €21B valuation is bigger than another AI funding headline. Europe clearly does not want its AI future to depend entirely on American APIs or Chinese open-weight models. Sovereign AI is becoming a real market, not a policy slogan.",
+          "source_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "category": "AI business",
+          "length_band": "full",
+          "angle": "impact"
+        },
+        {
+          "title": "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place - Apple",
+          "text": "Pusheen joining Apple Arcade is a tiny launch, but it says a lot about Apple’s gaming strategy. The aim is to make the iPhone and iPad better for families, not pretend they need to beat PlayStation.",
+          "source_url": "https://www.apple.com/newsroom/",
+          "category": "Consumer tech",
+          "length_band": "normal",
+          "angle": "reaction"
+        }
+      ]
+    },
     {
       "generated_at": "2026-07-23T14:30:01.455990+00:00",
       "drafts": []
