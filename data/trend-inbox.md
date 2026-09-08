@@ -2,38 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-08T14:35:20.453356+00:00
-Scanned: 2026-09-08T14:35:20.453356+00:00
+Updated: 2026-09-08T18:43:50.883063+00:00
+Scanned: 2026-09-08T18:43:50.883063+00:00
 Memory window: 72 hours
 
 ## 1. GPT-6 Astra: A new generation of intelligence - OpenAI
 Source: OpenAI (primary)
-Published: 2026-09-08T14:33:15+00:00 | Age: 0.0 hours
-Scanned: 2026-09-08T14:35:20.449711+00:00
+Published: 2026-09-08T18:38:07+00:00 | Age: 0.1 hours
+Scanned: 2026-09-08T18:43:50.881088+00:00
 URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5
 
 GPT-6 Astra: A new generation of intelligence OpenAI
 
-## 2. India's UPI ecosystem is ready for next level, need to eye global expansion, says PM Modi - Moneycontrol.com
-Source: Moneycontrol.com (reputable)
-Published: 2026-09-08T14:19:46+00:00 | Age: 0.3 hours
-Scanned: 2026-09-08T14:35:20.449711+00:00
-URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeXpfT1J0dThXNnk1WGQzWjdGWVRaVzhiY2ZZa0FyYXpPRG4zOFVCU3ZEcVR3ZW9jbmVpdEM4Y3h3WlBERnVEVkFnOHZpSFlvY0RCNUx3UlctTWkxUUJEazl2ZHlmVWtfOTZkeWdzMTNqWF9mMGk0MHdFVmo0S3Y0YlM1SG1BckNIV0taTEZzaDNabjFRN2owSXk1NXZkekRQa3FhWkhZb29zajFPMTlaRkFXY0tZNnF1eDluWkN0V1F5TFRNNDAyRDN3c203MFdzZUdMSXV5OXp2bUc10gHiAUFVX3lxTE4tbzBzajRSM1M3VDZOX2FoZkd6YXVNcmR2SXdBUmlva3lPcU9BYXA3dnc2WVVHUi1HUy1kOXJZa3RveFNvdWEzNktyb3FMOUttZlR0c3JOODdWRVpvazd4N25VX1RXaWNPNlZNZnFHLTFQZE4tRjNYX1NTOWFiblY5X0JBWm56YThMRzYwMlFDWlpTOENOTFBPdHVIM2VneGVlczBjNW9hN1lsaFREaHQ4OUM0Mm9PWXZFTld6dkJISmFkNzhoTUJtX1ZsMTRERWhOcVRqVzlXTDZnXzZVaE1LWVE?oc=5
+## 2. Introducing ChatGPT Images 2.5 - OpenAI
+Source: OpenAI (primary)
+Published: 2026-09-08T18:36:13+00:00 | Age: 0.1 hours
+Scanned: 2026-09-08T18:43:50.881088+00:00
+URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5
 
-India's UPI ecosystem is ready for next level, need to eye global expansion, says PM Modi Moneycontrol.com
+Introducing ChatGPT Images 2.5 OpenAI
 
-## 3. Mistral raises €3B as sovereign AI becomes big business
-Source: techcrunch.com (reputable)
-Published: 2026-09-08T14:17:48+00:00 | Age: 0.3 hours
-Scanned: 2026-09-08T14:35:20.449711+00:00
-URL: https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
+## 3. Indian space startup GalaxEye wins US patent for satellite imaging technology - Reuters
+Source: Reuters (reputable)
+Published: 2026-09-08T18:11:06+00:00 | Age: 0.5 hours
+Scanned: 2026-09-08T18:43:50.881088+00:00
+URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2d3NVNFZzVmYU5LT2VMZDhveUJjcENzdVNqRUhPa2xaazVIcFd1UERnS3BLYllsTUVXblpQcm9JcGVsdXlwYlBNM1JPNWdLVlFhalI2RlE2SG1fb0FIVms3UFUwTnlCQnloUFRVcXZFTjQ5aUE0aTJudURWalluOG92Xzh2U1ZkTTBDM3Z5cXdzZ2hpcG9Tb1VSUXNTeTVqYVVrdmtPTjlJWXVEaVRESXgwc0FfcVA4?oc=5
 
-The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.
+Indian space startup GalaxEye wins US patent for satellite imaging technology Reuters
 
-## 4. The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place - Apple
-Source: Apple (primary)
-Published: 2026-09-08T14:11:50+00:00 | Age: 0.4 hours
-Scanned: 2026-09-08T14:35:20.449711+00:00
-URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnhBYzBfcXVMYmJXRnpKNTNaeHVBQzVlZ3d2YkZ3ZmdVdWsxWXZUak9xTmJ6ck41TWg2LXNjbDRoMC1vakUzYTdyQWlSckY0WnBCWkladnZZMXl2bUlaZWZUd2ZnN3FPaGtrT1RaU3Z1QS00dHNsNXI2RHNnNGNoMWthS0Mtbmc5TzljSDlmWWhYcUhEZ0poeUhTTGRqc2ZSOUhfTmQ3Q1BDWmJJ?oc=5
+## 4. GitHub release: openai/openai-python v3.9.0
+Source: github.com (primary)
+Published: 2026-09-08T16:42:27+00:00 | Age: 2.0 hours
+Scanned: 2026-09-08T18:43:50.881088+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.9.0
 
-The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place Apple
+## [3.9.0](https://github.com/openai/openai-python/compare/v3.8.0...v3.9.0) (2026-09-05) ### Features * **api:** Add prompt cache diagnostics ([#3800](https://github.com/openai/openai-python/issues/3800)) ([8326784](https://github.com/openai/openai-python/commit/83267847a0219ea8b584c9d60f92c7a4dffd392a)) * **api:** correct function argument completion event fields (openapi-545) ([#3801](https://github.com/openai/open

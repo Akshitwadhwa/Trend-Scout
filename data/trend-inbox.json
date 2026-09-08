@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T14:35:20.453356+00:00",
-  "scanned_at": "2026-09-08T14:35:20.453356+00:00",
+  "updated_at": "2026-09-08T18:43:50.883063+00:00",
+  "scanned_at": "2026-09-08T18:43:50.883063+00:00",
   "retention_hours": 72,
   "items": [
     {
@@ -9,45 +9,45 @@
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-09-08T14:33:15+00:00",
-      "age_hours": 0.0,
-      "scanned_at": "2026-09-08T14:35:20.449711+00:00",
+      "published_at": "2026-09-08T18:38:07+00:00",
+      "age_hours": 0.1,
+      "scanned_at": "2026-09-08T18:43:50.881088+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "India's UPI ecosystem is ready for next level, need to eye global expansion, says PM Modi - Moneycontrol.com",
-      "what_happened": "India's UPI ecosystem is ready for next level, need to eye global expansion, says PM Modi Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeXpfT1J0dThXNnk1WGQzWjdGWVRaVzhiY2ZZa0FyYXpPRG4zOFVCU3ZEcVR3ZW9jbmVpdEM4Y3h3WlBERnVEVkFnOHZpSFlvY0RCNUx3UlctTWkxUUJEazl2ZHlmVWtfOTZkeWdzMTNqWF9mMGk0MHdFVmo0S3Y0YlM1SG1BckNIV0taTEZzaDNabjFRN2owSXk1NXZkekRQa3FhWkhZb29zajFPMTlaRkFXY0tZNnF1eDluWkN0V1F5TFRNNDAyRDN3c203MFdzZUdMSXV5OXp2bUc10gHiAUFVX3lxTE4tbzBzajRSM1M3VDZOX2FoZkd6YXVNcmR2SXdBUmlva3lPcU9BYXA3dnc2WVVHUi1HUy1kOXJZa3RveFNvdWEzNktyb3FMOUttZlR0c3JOODdWRVpvazd4N25VX1RXaWNPNlZNZnFHLTFQZE4tRjNYX1NTOWFiblY5X0JBWm56YThMRzYwMlFDWlpTOENOTFBPdHVIM2VneGVlczBjNW9hN1lsaFREaHQ4OUM0Mm9PWXZFTld6dkJISmFkNzhoTUJtX1ZsMTRERWhOcVRqVzlXTDZnXzZVaE1LWVE?oc=5",
-      "source_name": "Moneycontrol.com",
-      "source_level": "reputable",
-      "published_at": "2026-09-08T14:19:46+00:00",
-      "age_hours": 0.3,
-      "scanned_at": "2026-09-08T14:35:20.449711+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "Mistral raises \u20ac3B as sovereign AI becomes big business",
-      "what_happened": "The French AI lab has raised \u20ac3 billion at a \u20ac21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
-      "source_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "source_name": "techcrunch.com",
-      "source_level": "reputable",
-      "published_at": "2026-09-08T14:17:48+00:00",
-      "age_hours": 0.3,
-      "scanned_at": "2026-09-08T14:35:20.449711+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "The internet\u2019s favorite cat comes to Apple Arcade with Pusheen\u2019s Place - Apple",
-      "what_happened": "The internet\u2019s favorite cat comes to Apple Arcade with Pusheen\u2019s Place Apple",
-      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnhBYzBfcXVMYmJXRnpKNTNaeHVBQzVlZ3d2YkZ3ZmdVdWsxWXZUak9xTmJ6ck41TWg2LXNjbDRoMC1vakUzYTdyQWlSckY0WnBCWkladnZZMXl2bUlaZWZUd2ZnN3FPaGtrT1RaU3Z1QS00dHNsNXI2RHNnNGNoMWthS0Mtbmc5TzljSDlmWWhYcUhEZ0poeUhTTGRqc2ZSOUhfTmQ3Q1BDWmJJ?oc=5",
-      "source_name": "Apple",
+      "title": "Introducing ChatGPT Images 2.5 - OpenAI",
+      "what_happened": "Introducing ChatGPT Images 2.5 OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVnJHU0hFU1p6Rk54WUFyckU5SnlndTJQY0NEcUEtS0lOQW5EUElYUjVuMnpOT2JRVmZ5TFdzNkIzR2xjUlB1NEhtYU1fV0l6WDczQk0xaW1SZHVBXzViS1FxMjNzcDg?oc=5",
+      "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-09-08T14:11:50+00:00",
-      "age_hours": 0.4,
-      "scanned_at": "2026-09-08T14:35:20.449711+00:00",
+      "published_at": "2026-09-08T18:36:13+00:00",
+      "age_hours": 0.1,
+      "scanned_at": "2026-09-08T18:43:50.881088+00:00",
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Indian space startup GalaxEye wins US patent for satellite imaging technology - Reuters",
+      "what_happened": "Indian space startup GalaxEye wins US patent for satellite imaging technology Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2d3NVNFZzVmYU5LT2VMZDhveUJjcENzdVNqRUhPa2xaazVIcFd1UERnS3BLYllsTUVXblpQcm9JcGVsdXlwYlBNM1JPNWdLVlFhalI2RlE2SG1fb0FIVms3UFUwTnlCQnloUFRVcXZFTjQ5aUE0aTJudURWalluOG92Xzh2U1ZkTTBDM3Z5cXdzZ2hpcG9Tb1VSUXNTeTVqYVVrdmtPTjlJWXVEaVRESXgwc0FfcVA4?oc=5",
+      "source_name": "Reuters",
+      "source_level": "reputable",
+      "published_at": "2026-09-08T18:11:06+00:00",
+      "age_hours": 0.5,
+      "scanned_at": "2026-09-08T18:43:50.881088+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "GitHub release: openai/openai-python v3.9.0",
+      "what_happened": "## [3.9.0](https://github.com/openai/openai-python/compare/v3.8.0...v3.9.0) (2026-09-05) ### Features * **api:** Add prompt cache diagnostics ([#3800](https://github.com/openai/openai-python/issues/3800)) ([8326784](https://github.com/openai/openai-python/commit/83267847a0219ea8b584c9d60f92c7a4dffd392a)) * **api:** correct function argument completion event fields (openapi-545) ([#3801](https://github.com/openai/open",
+      "source_url": "https://github.com/openai/openai-python/releases/tag/v3.9.0",
+      "source_name": "github.com",
+      "source_level": "primary",
+      "published_at": "2026-09-08T16:42:27+00:00",
+      "age_hours": 2.0,
+      "scanned_at": "2026-09-08T18:43:50.881088+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
