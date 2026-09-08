@@ -2,38 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-08T09:44:47.112776+00:00
-Scanned: 2026-09-08T09:44:47.112776+00:00
+Updated: 2026-09-08T14:35:20.453356+00:00
+Scanned: 2026-09-08T14:35:20.453356+00:00
 Memory window: 72 hours
 
 ## 1. GPT-6 Astra: A new generation of intelligence - OpenAI
 Source: OpenAI (primary)
-Published: 2026-09-08T09:41:09+00:00 | Age: 0.1 hours
-Scanned: 2026-09-08T09:44:47.110327+00:00
+Published: 2026-09-08T14:33:15+00:00 | Age: 0.0 hours
+Scanned: 2026-09-08T14:35:20.449711+00:00
 URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5
 
 GPT-6 Astra: A new generation of intelligence OpenAI
 
-## 2. Which Sleep Data to Trust From Oura and Other Wearables - WSJ
-Source: WSJ (reputable)
-Published: 2026-09-08T09:31:55+00:00 | Age: 0.2 hours
-Scanned: 2026-09-08T09:44:47.110327+00:00
-URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE11REw2VFJMQ01jRW1iZG03czRSYnBvWjc1TDAyZ1lVYWlUWGtXeXFfMmJ6djRRb1RyWnRLRTgtdkVwSnlEYjBHZTQtTDNaVWRHbWE3VThvTjg2cjBlR3FUNUxudGZHUUt4UGZlcnB6MnZXWTJTOTlR?oc=5
+## 2. India's UPI ecosystem is ready for next level, need to eye global expansion, says PM Modi - Moneycontrol.com
+Source: Moneycontrol.com (reputable)
+Published: 2026-09-08T14:19:46+00:00 | Age: 0.3 hours
+Scanned: 2026-09-08T14:35:20.449711+00:00
+URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeXpfT1J0dThXNnk1WGQzWjdGWVRaVzhiY2ZZa0FyYXpPRG4zOFVCU3ZEcVR3ZW9jbmVpdEM4Y3h3WlBERnVEVkFnOHZpSFlvY0RCNUx3UlctTWkxUUJEazl2ZHlmVWtfOTZkeWdzMTNqWF9mMGk0MHdFVmo0S3Y0YlM1SG1BckNIV0taTEZzaDNabjFRN2owSXk1NXZkekRQa3FhWkhZb29zajFPMTlaRkFXY0tZNnF1eDluWkN0V1F5TFRNNDAyRDN3c203MFdzZUdMSXV5OXp2bUc10gHiAUFVX3lxTE4tbzBzajRSM1M3VDZOX2FoZkd6YXVNcmR2SXdBUmlva3lPcU9BYXA3dnc2WVVHUi1HUy1kOXJZa3RveFNvdWEzNktyb3FMOUttZlR0c3JOODdWRVpvazd4N25VX1RXaWNPNlZNZnFHLTFQZE4tRjNYX1NTOWFiblY5X0JBWm56YThMRzYwMlFDWlpTOENOTFBPdHVIM2VneGVlczBjNW9hN1lsaFREaHQ4OUM0Mm9PWXZFTld6dkJISmFkNzhoTUJtX1ZsMTRERWhOcVRqVzlXTDZnXzZVaE1LWVE?oc=5
 
-Which Sleep Data to Trust From Oura and Other Wearables WSJ
+India's UPI ecosystem is ready for next level, need to eye global expansion, says PM Modi Moneycontrol.com
 
-## 3. Best TV deal: Save $550 on the 65-inch Samsung The Frame 4K TV - Mashable
-Source: Mashable (reputable)
-Published: 2026-09-08T09:30:51+00:00 | Age: 0.2 hours
-Scanned: 2026-09-08T09:44:47.110327+00:00
-URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFBDdjgzNzdLRm41cGZCbUwxbWhyUHJUUmF3OUxVLUhPWjdhbWF4ZUdheWRYTlRDeXRFM3RKczhxU0YtLXJFdlEyLWd6WDU3S0xfT2ozT1otaWhtUU4zZDNEUnZmbXVMa0dybWNuOEtEcm44cExG?oc=5
+## 3. Mistral raises €3B as sovereign AI becomes big business
+Source: techcrunch.com (reputable)
+Published: 2026-09-08T14:17:48+00:00 | Age: 0.3 hours
+Scanned: 2026-09-08T14:35:20.449711+00:00
+URL: https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/
 
-Best TV deal: Save $550 on the 65-inch Samsung The Frame 4K TV Mashable
+The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.
 
-## 4. GitHub release: anthropics/claude-code v2.1.263
-Source: github.com (primary)
-Published: 2026-09-06T02:54:20+00:00 | Age: 54.8 hours
-Scanned: 2026-09-08T09:44:47.110327+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.263
+## 4. The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place - Apple
+Source: Apple (primary)
+Published: 2026-09-08T14:11:50+00:00 | Age: 0.4 hours
+Scanned: 2026-09-08T14:35:20.449711+00:00
+URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnhBYzBfcXVMYmJXRnpKNTNaeHVBQzVlZ3d2YkZ3ZmdVdWsxWXZUak9xTmJ6ck41TWg2LXNjbDRoMC1vakUzYTdyQWlSckY0WnBCWkladnZZMXl2bUlaZWZUd2ZnN3FPaGtrT1RaU3Z1QS00dHNsNXI2RHNnNGNoMWthS0Mtbmc5TzljSDlmWWhYcUhEZ0poeUhTTGRqc2ZSOUhfTmQ3Q1BDWmJJ?oc=5
 
-## What's changed - Bug fixes and reliability improvements
+The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place Apple
