@@ -65,7 +65,10 @@ class TrendInbox:
             return False
         if published.tzinfo is None:
             published = published.replace(tzinfo=timezone.utc)
-        return published >= now - timedelta(hours=self.retention_hours)
+        # RSS feeds occasionally publish a local time with the wrong timezone.
+        # Without this upper bound, a story dated hours in the future can look
+        # like a just-published item and reach Telegram as "latest" news.
+        return now - timedelta(hours=self.retention_hours) <= published <= now + timedelta(minutes=5)
 
     def _title_key(self, title: str) -> str:
         return re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()

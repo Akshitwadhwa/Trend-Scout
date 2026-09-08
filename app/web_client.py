@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import email.utils
+import os
 import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -80,6 +81,11 @@ class WebFeedClient:
             "Accept": "application/json",
             "User-Agent": "TrendScout/1.0 (source collection; contact via GitHub)",
         }
+        # GitHub's public API is intentionally rate-limited. GitHub Actions
+        # provides a short-lived token for every run; using it preserves the
+        # free release-feed coverage without exposing a personal credential.
+        if host == "api.github.com" and (token := os.getenv("GITHUB_TOKEN")):
+            headers["Authorization"] = f"Bearer {token}"
         response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
         payload = response.json()

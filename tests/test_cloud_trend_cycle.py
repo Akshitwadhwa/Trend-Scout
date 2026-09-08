@@ -13,3 +13,7 @@ def test_cloud_cycle_keeps_rolling_inbox_memory():
     assert "https://api.github.com/repos/openai/openai-python/releases" in source
     assert "https://huggingface.co/api/models" in source
     assert "https://www.reddit.com/r/artificial/new.json" in source
+    assert "Garmin%20OR%20WHOOP%20OR%20Oura" in source
+    assert "cloud%20infrastructure%20OR%20AI%20inference" in source
+    assert "space%20technology%20OR%20satellite" in source
+    assert "https://techcrunch.com/category/artificial-intelligence/feed/" in source

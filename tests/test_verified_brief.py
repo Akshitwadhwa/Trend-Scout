@@ -70,6 +70,18 @@ def test_google_news_uses_original_official_publisher_domain():
     assert brief["items"][0]["source_level"] == "primary"
 
 
+def test_google_news_community_forum_is_not_an_official_announcement():
+    now = datetime.now(timezone.utc)
+    forum_post = source("https://news.google.com/rss/articles/one", "Model capacity report", now.isoformat())
+    forum_post["author_name"] = "OpenAI Developer Community"
+    forum_post["publisher_url"] = "https://community.openai.com/t/model-capacity/1"
+
+    brief = VerifiedBriefBuilder().build([forum_post])
+
+    assert brief["ready_count"] == 0
+    assert brief["items"][0]["source_level"] == "discovery"
+
+
 def test_google_news_uses_original_reputable_publisher_domain():
     now = datetime.now(timezone.utc)
     reporting = source("https://news.google.com/rss/articles/one", "Chip deal", now.isoformat())

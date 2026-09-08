@@ -40,6 +40,14 @@ OFFICIAL_DOMAINS = {
     "status.openai.com",
 }
 
+# A community forum can be hosted under a company's official domain, but a
+# member's post is not an official product, model, or company announcement.
+# Treat these as discovery-only until a newsroom, changelog, or reputable
+# publisher independently confirms the claim.
+NON_EDITORIAL_OFFICIAL_HOSTS = {
+    "community.openai.com",
+}
+
 # A repository hosted on Hugging Face is not automatically an official model
 # release.  Community conversions and GGUF mirrors can appear as newly
 # modified with zero downloads, which made them look like major launches in
@@ -185,7 +193,12 @@ class VerifiedBriefBuilder:
             # undated RSS/research record is not evidence that the story is
             # current; allowing it through is what made old model releases
             # look like today's news in Telegram.
-            eligible = age_hours is not None and age_hours <= self.max_age_hours
+            eligible = (
+                age_hours is not None
+                and age_hours <= self.max_age_hours
+                and created_at is not None
+                and created_at <= now + timedelta(minutes=5)
+            )
             briefs.append(
                 {
                     "title": title,
@@ -274,7 +287,7 @@ class VerifiedBriefBuilder:
         publisher_host = urlparse(publisher_url).netloc.lower().removeprefix("www.")
         if source_type == "huggingface_model":
             return self._hugging_face_source_level(item)
-        if host == "news.google.com" and any(
+        if host == "news.google.com" and publisher_host not in NON_EDITORIAL_OFFICIAL_HOSTS and any(
             publisher_host == domain or publisher_host.endswith(f".{domain}")
             for domain in OFFICIAL_DOMAINS
         ):

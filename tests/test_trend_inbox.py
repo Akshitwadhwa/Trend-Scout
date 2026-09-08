@@ -23,6 +23,7 @@ def test_inbox_keeps_only_recent_post_ready_items(tmp_path):
             "items": [
                 item("Fresh release", now.isoformat()),
                 item("Old release", (now - timedelta(hours=50)).isoformat()),
+                item("Future release", (now + timedelta(minutes=6)).isoformat()),
                 item("Unverified release", now.isoformat(), "discovery"),
             ]
         }

@@ -32,6 +32,7 @@ jobs:
           ENABLE_OPENAI_RESEARCH: ${{ secrets.OPENAI_API_KEY != '' }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_RESEARCH_TIMEOUT_SECONDS: "90"
+          GITHUB_TOKEN: ${{ github.token }}
           ENABLE_OPENAI_DRAFTS: "false"
           ENABLE_SCHEDULER: "false"
           ENABLE_X_SCAN: "false"

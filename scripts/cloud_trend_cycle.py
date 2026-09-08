@@ -19,7 +19,8 @@ from scripts.fresh import build_workflow, settings_for_mode
 # Separate Google News queries make the free hourly scan less likely to become
 # an AI-only feed when one topic dominates the news cycle. The wider mix also
 # covers technology that reaches people outside developer tooling: mobility,
-# robotics, energy, gaming, security, and India-specific launches.
+# robotics, health and wearables, infrastructure, climate/energy, gaming,
+# security, space, and India-specific launches.
 CLOUD_MIXED_FEEDS = [
     # Dedicated 12-hour queries stop a broad AI result set hiding key updates.
     "https://news.google.com/rss/search?q=OpenAI%20GPT%20Codex%20ChatGPT%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
@@ -33,14 +34,20 @@ CLOUD_MIXED_FEEDS = [
     "https://news.google.com/rss/search?q=NVIDIA%20OR%20AMD%20OR%20GPU%20OR%20semiconductor%20OR%20chip%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=Apple%20OR%20Samsung%20OR%20smartphone%20OR%20wearable%20OR%20consumer%20tech%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=Apple%20iPhone%20OR%20iPad%20OR%20Mac%20OR%20Apple%20Watch%20OR%20Vision%20Pro%20launch%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=MacBook%20OR%20Mac%20mini%20OR%20iPhone%20OR%20Apple%20Watch%20OR%20Vision%20Pro%20when:24h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Garmin%20OR%20WHOOP%20OR%20Oura%20OR%20Fitbit%20OR%20Samsung%20Health%20wearable%20when:24h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=Meta%20Ray-Ban%20OR%20smart%20glasses%20OR%20AR%20OR%20VR%20OR%20spatial%20computing%20when:24h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=developer%20tools%20OR%20GitHub%20OR%20software%20release%20OR%20cybersecurity%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=Cursor%20AI%20OR%20Cursor%20Composer%20OR%20coding%20agents%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=open%20source%20AI%20OR%20Hugging%20Face%20OR%20Ollama%20OR%20AI%20developer%20tools%20when:24h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=cloud%20infrastructure%20OR%20AI%20inference%20OR%20data%20center%20OR%20Kubernetes%20OR%20observability%20when:24h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=Tesla%20OR%20EV%20OR%20robotaxi%20OR%20electric%20vehicle%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=robotics%20OR%20drones%20OR%20automation%20OR%20industrial%20robots%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=climate%20tech%20OR%20battery%20storage%20OR%20solar%20OR%20grid%20technology%20when:24h&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=space%20technology%20OR%20satellite%20OR%20SpaceX%20OR%20ISRO%20when:24h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=India%20tech%20startup%20UPI%20digital%20public%20infrastructure%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=gaming%20console%20PlayStation%20Xbox%20Nintendo%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=cybersecurity%20privacy%20data%20breach%20when:2h&hl=en-IN&gl=IN&ceid=IN:en",
-    "https://ir.tesla.com/rss/news-releases.xml",
     "https://news.google.com/rss/search?q=tech%20startup%20OR%20funding%20OR%20antitrust%20OR%20technology%20regulation%20when:3d&hl=en-IN&gl=IN&ceid=IN:en",
     # Official sources make the free inbox more useful on quiet news days.
     "https://www.apple.com/newsroom/rss-feed.rss",
@@ -49,6 +56,8 @@ CLOUD_MIXED_FEEDS = [
     "https://blogs.microsoft.com/feed/",
     "https://github.blog/feed/",
     "https://about.fb.com/feed/",
+    "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "https://techcrunch.com/category/hardware/feed/",
 ]
 CLOUD_API_URLS = [
     # Public release metadata from projects people actually use.
@@ -63,6 +72,8 @@ CLOUD_API_URLS = [
     "https://www.reddit.com/r/MachineLearning/new.json?limit=25",
     "https://www.reddit.com/r/hardware/new.json?limit=25",
     "https://www.reddit.com/r/technology/new.json?limit=25",
+    "https://www.reddit.com/r/selfhosted/new.json?limit=25",
+    "https://www.reddit.com/r/LocalLLaMA/new.json?limit=25",
 ]
 CLOUD_MIXED_KEYWORDS = [
     # Avoid the bare word "chip": Google News also returns food stories such
@@ -70,8 +81,12 @@ CLOUD_MIXED_KEYWORDS = [
     "openai", "chatgpt", "gpt", "codex", "anthropic", "claude", "fable", "opus", "gemini", "deepmind",
     "ai model", "nvidia", "amd", "gpu", "ai chip", "semiconductor", "apple", "samsung", "smartphone",
     "wearable", "consumer tech", "developer tools", "github", "copilot", "cursor", "composer", "ai agent",
+    "macbook", "mac mini", "iphone", "ipad", "apple watch", "vision pro", "garmin", "whoop", "oura", "fitbit",
+    "smart glasses", "ray-ban", "augmented reality", "virtual reality", "spatial computing",
     "software", "cybersecurity", "privacy", "data breach", "startup", "funding", "antitrust", "regulation",
     "tesla", "ev", "electric vehicle", "robotaxi", "charging", "battery", "robotics", "drones", "automation",
+    "cloud infrastructure", "inference", "data center", "kubernetes", "observability", "open source ai", "self hosted",
+    "climate tech", "battery storage", "solar", "grid technology", "space technology", "satellite", "spacex", "isro",
     "india tech", "upi", "digital public infrastructure", "gaming", "playstation", "xbox", "nintendo",
     "hugging face", "transformers", "ollama", "claude code", "python genai", "machine learning",
 ]
