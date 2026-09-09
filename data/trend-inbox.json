@@ -1,31 +1,43 @@
 {
-  "updated_at": "2026-09-09T04:02:17.711348+00:00",
-  "scanned_at": "2026-09-09T04:02:17.711348+00:00",
+  "updated_at": "2026-09-09T06:01:16.568463+00:00",
+  "scanned_at": "2026-09-09T06:01:16.568463+00:00",
   "retention_hours": 72,
   "items": [
-    {
-      "title": "The Kallang Group and Samsung Electronics Singapore Partner to Build Active Communities Through Technology and Live Experiences - Samsung Global Newsroom",
-      "what_happened": "The Kallang Group and Samsung Electronics Singapore Partner to Build Active Communities Through Technology and Live Experiences Samsung Global Newsroom",
-      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPckg4bGpGcXlUWFhzOEhTcC1LNy16SlpnSzJPMEpjSTk5TDNPOE1YbDB2ZFdLZDJ3SUFNQ0Z2S0xhVkhpZkNBVDE1UEMwc3FsdHk4WTlqRVlwYXdYaGZpSE1GTDdRNWRfamY5VGlYV183NkF5MHZnUFBaVWdZS2hmRFZKaHJJXy1RN0JqbGZPb2UtbXoyMWJOQU9nUUtPLXZvWHJXb0Nwc3VNRU80ZXhhUnBnYWxPSlJTSkgyNVNsM1Nua2FseE9JNEYxU1R2OUQyUV93cDZHdjJDS3pfcGFNTmwtdE1jMnBHSEg0?oc=5",
-      "source_name": "Samsung Global Newsroom",
-      "source_level": "primary",
-      "published_at": "2026-09-09T04:00:27+00:00",
-      "age_hours": 0.0,
-      "scanned_at": "2026-09-09T04:02:17.707876+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
     {
       "title": "GPT-6 Astra: A new generation of intelligence - OpenAI",
       "what_happened": "GPT-6 Astra: A new generation of intelligence OpenAI",
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-09-09T04:00:18+00:00",
+      "published_at": "2026-09-09T05:58:29+00:00",
       "age_hours": 0.0,
-      "scanned_at": "2026-09-09T04:02:17.707876+00:00",
+      "scanned_at": "2026-09-09T06:01:16.565106+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "AI chip boom mints a new class of tech millionaires in South Korea - KED Global",
+      "what_happened": "AI chip boom mints a new class of tech millionaires in South Korea KED Global",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83NFp6SndJb2J0Q3MwaHpaZTNIVUVCbDJ2ZDdwalFGQkFUNzY1anhJeDF0NTJ4QjJqLWxoX1BJXzZfWlZFRE0yX2NNM3VfTmJXcS04QmtBamxmSmtjWnNiOWdYeWVTeEo5d3BqeFFhY0Vsdw?oc=5",
+      "source_name": "KED Global",
+      "source_level": "reputable",
+      "published_at": "2026-09-09T05:51:26+00:00",
+      "age_hours": 0.2,
+      "scanned_at": "2026-09-09T06:01:16.565106+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Indian space startup GalaxEye wins US patent for Earth observation tech - India Today",
+      "what_happened": "Indian space startup GalaxEye wins US patent for Earth observation tech India Today",
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkdJRUpEb1cybW9rczd4OVNmdEJZNU9pS1VWQUlQNnFoTWJucHpxc2d1SmU3a3k5TmVPMFRXbHg1bE9lRVpqNkFxT2RDT3dKQV9fcFhuelpVb0g4QUZjUnZXMWdqSXRmVjZhWll6Qk9TZU9WSmVONThrNUYtcDBRaE5XbEt5YWN0OUNuUlJkbk16TXZKY1ptTnJsVEhod3BFN0hXOG5RTEt5QdIBrwFBVV95cUxNMk4zc1Q1OVlQbW1KYUNPaS1ZQkVRMWUxZDJBQkJfRXNBSi12Q2dFdDFEanAzUDNBN0d2dVJxcmwxMVMyVk12SXdvY2tYRXdWb185M0VDUmpNZ1pYbFBYaTdUcFphVkpLV0NKZVVvdkpGMjQ3cmlPZmdpSXFnbHlGWEN2ZTFsejRKR2laX3YzbDJHZkhVSWZaeXVON3dqQm1HV1JmZTlHaU1vd2tGcGM4?oc=5",
+      "source_name": "India Today",
+      "source_level": "reputable",
+      "published_at": "2026-09-09T05:35:30+00:00",
+      "age_hours": 0.4,
+      "scanned_at": "2026-09-09T06:01:16.565106+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "GitHub release: openai/openai-python v3.10.0",
@@ -34,8 +46,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-09T00:17:39+00:00",
-      "age_hours": 3.7,
-      "scanned_at": "2026-09-09T04:02:17.707876+00:00",
+      "age_hours": 5.7,
+      "scanned_at": "2026-09-09T06:01:16.565106+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -46,8 +58,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-08T23:55:14+00:00",
-      "age_hours": 4.1,
-      "scanned_at": "2026-09-09T04:02:17.707876+00:00",
+      "age_hours": 6.1,
+      "scanned_at": "2026-09-09T06:01:16.565106+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -58,8 +70,8 @@
       "source_name": "techcrunch.com",
       "source_level": "reputable",
       "published_at": "2026-09-08T21:10:27+00:00",
-      "age_hours": 6.9,
-      "scanned_at": "2026-09-09T04:02:17.707876+00:00",
+      "age_hours": 8.8,
+      "scanned_at": "2026-09-09T06:01:16.565106+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
