@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T16:27:24.839789+00:00",
-  "scanned_at": "2026-09-10T16:27:24.839789+00:00",
+  "updated_at": "2026-09-10T19:44:43.464457+00:00",
+  "scanned_at": "2026-09-10T19:44:43.464457+00:00",
   "retention_hours": 72,
   "items": [
     {
@@ -9,47 +9,47 @@
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-09-10T16:25:37+00:00",
-      "age_hours": 0.0,
-      "scanned_at": "2026-09-10T16:27:24.836412+00:00",
+      "published_at": "2026-09-10T19:41:30+00:00",
+      "age_hours": 0.1,
+      "scanned_at": "2026-09-10T19:44:43.461388+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Deals: AirPods, Apple Watch Series 12 and Ultra 4 up to $325 off, M5 MacBook Air $200 off, more - 9to5Mac",
-      "what_happened": "Deals: AirPods, Apple Watch Series 12 and Ultra 4 up to $325 off, M5 MacBook Air $200 off, more 9to5Mac",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT29VTTluWWhBT2t0N0ozbWR3dzJTaUIxQXo2amxDbnhOTjdJeGdwaDBoRkRnTl9aT2lHRHFVU3F5WEF1NUpTREpUOENGUXVKOVhZLUZwdFZ5d0pnYjEwVlgtNkhveTZBcTZTZmR6MHM2MVpIQTc2TFFxWTRIblFzWGRJZw?oc=5",
-      "source_name": "9to5Mac",
-      "source_level": "reputable",
-      "published_at": "2026-09-10T15:36:00+00:00",
-      "age_hours": 0.9,
-      "scanned_at": "2026-09-10T16:27:24.836412+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "GitHub availability report: August 2026",
-      "what_happened": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-09-10T02:05:17+00:00",
-      "age_hours": 14.4,
-      "scanned_at": "2026-09-10T16:27:24.836412+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "GitHub release: openai/openai-python v3.11.0",
-      "what_happened": "## [3.11.0](https://github.com/openai/openai-python/compare/v3.10.0...v3.11.0) (2026-09-09) ### Features * **api:** Add expiration controls for service account keys ([#3825](https://github.com/openai/openai-python/issues/3825)) ([f348ec8](https://github.com/openai/openai-python/commit/f348ec87b934c98889102668913e0a3ae7fc303d))",
-      "source_url": "https://github.com/openai/openai-python/releases/tag/v3.11.0",
+      "title": "GitHub release: openai/openai-python v3.13.0",
+      "what_happened": "## [3.13.0](https://github.com/openai/openai-python/compare/v3.12.0...v3.13.0) (2026-09-10) ### Features * **api:** add Agents API ([1c4284a](https://github.com/openai/openai-python/commit/1c4284a08294f734d57047585ab82e2e09d3a5bc))",
+      "source_url": "https://github.com/openai/openai-python/releases/tag/v3.13.0",
       "source_name": "github.com",
       "source_level": "primary",
-      "published_at": "2026-09-09T15:31:33+00:00",
-      "age_hours": 24.9,
-      "scanned_at": "2026-09-10T16:27:24.836412+00:00",
+      "published_at": "2026-09-10T19:37:39+00:00",
+      "age_hours": 0.1,
+      "scanned_at": "2026-09-10T19:44:43.461388+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Introducing the Agents API - OpenAI",
+      "what_happened": "Introducing the Agents API OpenAI",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoM3lZaDNuLUc5aXZtdTRfY1l3d0VKcGxYaGxkZXlzVmZpR3VRSUoyaWotQ1hxTlZMbGt3SWNOUkwtY3RZNDg5dktGdFlBczhhUFp0V1RnUU83ekwtSm00Wk1n?oc=5",
+      "source_name": "OpenAI",
+      "source_level": "primary",
+      "published_at": "2026-09-10T19:22:14+00:00",
+      "age_hours": 0.4,
+      "scanned_at": "2026-09-10T19:44:43.461388+00:00",
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang: AI fears designed to generate cybersecurity business - Axios",
+      "what_happened": "Nvidia CEO Jensen Huang: AI fears designed to generate cybersecurity business Axios",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0eGJqRVJHajB5T2FPR2tIaHhXYVd2TW5tMXc0UjM0NV9IU0tJQ3ViTnY2VkxqNVJIMmNoRlJSSlhFb2hCUktlX0hITXdPc0JIalh1Y3JlSlp1MjlfTjZ3LUpTSWdIcTdOYy1DZFZxa3F6TFQ3M0hZaw?oc=5",
+      "source_name": "Axios",
+      "source_level": "reputable",
+      "published_at": "2026-09-10T19:12:55+00:00",
+      "age_hours": 0.5,
+      "scanned_at": "2026-09-10T19:44:43.461388+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     }
   ]
 }
