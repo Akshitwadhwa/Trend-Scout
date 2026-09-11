@@ -2,38 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-11T16:31:53.549444+00:00
-Scanned: 2026-09-11T16:31:53.549444+00:00
+Updated: 2026-09-11T19:45:20.180576+00:00
+Scanned: 2026-09-11T19:45:20.180576+00:00
 Memory window: 72 hours
 
-## 1. Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5 - Apple
-Source: Apple (primary)
-Published: 2026-09-11T16:31:29+00:00 | Age: 0.0 hours
-Scanned: 2026-09-11T16:31:53.546426+00:00
-URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPSzFIdTVKZUdZcW53bUstc0N1SWFwMDhpUTVZMF95WWRNUjIwaW8xcWZMbm0xczBkdUZZbm1mSTB4Z24zb3hlUEliM3k3R2JpQkE5bFl5TzZYcXVHMTJCbmduOGs5cFRFTld3bHcxdkM4OTVabExTRGo4RDVmbUN2cHRNRWRVa0lFVENyYzF5SWVqbmwyUk1fUzdoVGw0U1Rad2JlYVViLWI0bklnbWxPZW9lVFgyMFFZNWdnOHhn?oc=5
+## 1. Kimi-maker Moonshot AI targets $2 billion in annual revenue
+Source: techcrunch.com (reputable)
+Published: 2026-09-11T19:35:54+00:00 | Age: 0.2 hours
+Scanned: 2026-09-11T19:45:20.178177+00:00
+URL: https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/
 
-Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5 Apple
+While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
 
-## 2. GPT-6 Astra: A new generation of intelligence - OpenAI
-Source: OpenAI (primary)
-Published: 2026-09-11T16:28:04+00:00 | Age: 0.1 hours
-Scanned: 2026-09-11T16:31:53.546426+00:00
-URL: https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5
-
-GPT-6 Astra: A new generation of intelligence OpenAI
-
-## 3. Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5
-Source: apple.com (primary)
-Published: 2026-09-11T16:00:08.631000+00:00 | Age: 0.5 hours
-Scanned: 2026-09-11T16:31:53.546426+00:00
-URL: https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/
-
-Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max.
-
-## 4. GitHub release: googleapis/python-genai v2.23.0
+## 2. GitHub release: anthropics/claude-code v2.1.269
 Source: github.com (primary)
-Published: 2026-09-10T22:15:45+00:00 | Age: 18.3 hours
-Scanned: 2026-09-11T16:31:53.546426+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v2.23.0
+Published: 2026-09-11T19:17:55+00:00 | Age: 0.5 hours
+Scanned: 2026-09-11T19:45:20.178177+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
 
-## [2.23.0](https://github.com/googleapis/python-genai/compare/v2.22.0...v2.23.0) (2026-09-10) ### Features * Add from_environment support for environment copying ([e6d3168](https://github.com/googleapis/python-genai/commit/e6d316866aca21c7d05c5495ca6355f48ca040fc)) * Support dynamic turn completion via interaction_status in live.py receive() ([455df80](https://github.com/googleapis/python-genai/commit/455df80f3c308b
+## What's changed - Added `claude plugin eval`: run a plugin's eval suite against Claude Code and get scored, reproducible results (JSON + HTML report); see `claude plugin eval --help` - Added `/output-style [name]` to list and switch output styles, including over Remote Control and in cloud and other headless sessions - Added a diff of the files a Bash command changed to the Bash tool result when the Bash tool handl
+
+## 3. Scenarios for our Economic Future - Anthropic
+Source: Anthropic (primary)
+Published: 2026-09-11T18:51:00+00:00 | Age: 0.9 hours
+Scanned: 2026-09-11T19:45:20.178177+00:00
+URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5
+
+Scenarios for our Economic Future Anthropic
+
+## 4. iPhone 18 Pro First Look: Same Design, Big Changes Inside - MacRumors
+Source: MacRumors (reputable)
+Published: 2026-09-11T18:32:43+00:00 | Age: 1.2 hours
+Scanned: 2026-09-11T19:45:20.178177+00:00
+URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBOSGpEWlhhakdpbWtHWDdjaTMtUmlGRm00Ukd3aV9OQ1dGNmdGa3R1YXgtcENkUmZmWDJ3aXBvN3BjXzhWZGNhdjZyZkxKdVlDLUhTMDNqRTJkMHRMTDZ4anFKM0hXWmxBZ0FsWA?oc=5
+
+iPhone 18 Pro First Look: Same Design, Big Changes Inside MacRumors
+
+## 5. Marketing ops as code: Automating events from planning to follow-up on GitHub - The GitHub Blog
+Source: The GitHub Blog (primary)
+Published: 2026-09-11T18:30:17+00:00 | Age: 1.3 hours
+Scanned: 2026-09-11T19:45:20.178177+00:00
+URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXgtamlaejdwOVc5NlBlY2FIX3h6LUdQSG9FbllaMlloTjJBcmxidmdEQzJ2NS12VXJsZkUyRGFPUkk5M3NkYU9ObjFEMUkwUkpLdThidUd2bjhjZ2QtejIzT25RZGQxX3JFR0JLMXoyR0cwMm1HMWNxYVZzUEpnSExKTVQwOVhGX1p1a3A0anE1ZFdnbUs1bHpDdTV2RDFJSllDNVJBdFFhdE9wYlNGdGcyeGpCUUhvMktoZTNiTQ?oc=5
+
+Marketing ops as code: Automating events from planning to follow-up on GitHub The GitHub Blog
+
+## 6. Apple Still Has 8 More Products to Announce Later This Year - MacRumors
+Source: MacRumors (reputable)
+Published: 2026-09-11T18:14:58+00:00 | Age: 1.5 hours
+Scanned: 2026-09-11T19:45:20.178177+00:00
+URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxOci1sZTlWZGtwSEtBZWZhQWphX0JYZ1hWYXh2Q3JZWktoVTJNeXdOUnFvbGpuN0NVbmRfb1hlZ1FsajZpdlRUVlUyZmMyUnJQRW52QlpSclZrcUdoYmxyRmE1VWIxZm9DQjM5OHh5eDZYLWw5a01JckU5TUVSVkZtUkZfMlBXaXhzYmhLdVhIOA?oc=5
+
+Apple Still Has 8 More Products to Announce Later This Year MacRumors
