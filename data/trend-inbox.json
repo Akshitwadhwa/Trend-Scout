@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T01:08:42.545463+00:00",
-  "scanned_at": "2026-09-11T01:08:42.545463+00:00",
+  "updated_at": "2026-09-11T06:02:55.782569+00:00",
+  "scanned_at": "2026-09-11T06:02:55.782569+00:00",
   "retention_hours": 72,
   "items": [
     {
@@ -9,35 +9,47 @@
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5",
       "source_name": "OpenAI",
       "source_level": "primary",
-      "published_at": "2026-09-11T01:06:33+00:00",
-      "age_hours": 0.0,
-      "scanned_at": "2026-09-11T01:08:42.543103+00:00",
+      "published_at": "2026-09-11T05:59:54+00:00",
+      "age_hours": 0.1,
+      "scanned_at": "2026-09-11T06:02:55.779372+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Apple Watch Ultra 4 unveiled: Pricing, specs, and new features - Mashable",
-      "what_happened": "Apple Watch Ultra 4 unveiled: Pricing, specs, and new features Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZTdkR2lEUFJycnB5TVZBclIzSHFJb1ZrbEJWLUxpRE5iTUswcm9ZYkN0NER1S1EtSXJMbUhwOFl3NnU0MlY1X3czZmlOdm9ZemVhOEV6Vjg3VWVnRndrWE9oM2lQTmhJem5nVDFBTjR2bThlNWoyeGtmMDVvTEhHemxB?oc=5",
+      "title": "Samsung Wins Multiple Honours at IFA Innovation Awards 2026 - Samsung Global Newsroom",
+      "what_happened": "Samsung Wins Multiple Honours at IFA Innovation Awards 2026 Samsung Global Newsroom",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOam54ZUhNOURKUXpQbFhBZkNYSml3VXZHV0pXZWJwNzk0YjdWVE9ZV2wwUFhMczFtaDg4RTdNcFh6N2FDT2w2NktZY2Rmb3JoUU4yTDNrQ0FiVkxoaEhWaWhfalVMQ3QtaElsRWNvRUpjZC1MMVM1OXhnUVplaXAxdjdON1hLVmFBXzB4RWRMTzY?oc=5",
+      "source_name": "Samsung Global Newsroom",
+      "source_level": "primary",
+      "published_at": "2026-09-11T05:00:00+00:00",
+      "age_hours": 1.0,
+      "scanned_at": "2026-09-11T06:02:55.779372+00:00",
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "The Xiaomi 18 Fold is an iPhone Duo lookalike with one huge advantage - Mashable",
+      "what_happened": "The Xiaomi 18 Fold is an iPhone Duo lookalike with one huge advantage Mashable",
+      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBScHk5VDhPYWxsQXJDWkpYcW1Db0VuZ3g3T0U5UFNsSG5IbUo5TE0tUzkzLXpfUXk5RnlKYmVIcjNFbDFmTDhpdTJocTlGTlpRVGZ6THNEblpPZnVJQnhDZHdjVjNhUjNKTnZv?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
-      "published_at": "2026-09-11T00:26:05+00:00",
-      "age_hours": 0.7,
-      "scanned_at": "2026-09-11T01:08:42.543103+00:00",
+      "published_at": "2026-09-11T04:50:39+00:00",
+      "age_hours": 1.2,
+      "scanned_at": "2026-09-11T06:02:55.779372+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
-      "title": "Apple AirPods 5 announced: Price, new features, release date - Mashable",
-      "what_happened": "Apple AirPods 5 announced: Price, new features, release date Mashable",
-      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclZubFBwRjZmbUhaN3J4ZmFLZlBTenFpTjQwZHgtOXUyblliMXpRX19KTHJfWlJDdEJZc2E0SW4yN0Z0U2RyRnY0MmlnNHp1NjB6NWdMcm9PSHFGb0piSi13ZjI5LWYtT0dteWF1TDhzVHE0NDI2TEJhUnJ1S1NGWXRQbzY?oc=5",
-      "source_name": "Mashable",
-      "source_level": "reputable",
-      "published_at": "2026-09-11T00:26:05+00:00",
-      "age_hours": 0.7,
-      "scanned_at": "2026-09-11T01:08:42.543103+00:00",
+      "title": "Image prompting - OpenAI Developers",
+      "what_happened": "Image prompting OpenAI Developers",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWTjdOVG5pRnhqOGhuWnZ1TmY3eC1lZ1lGNHdOYXFSX05HMV9VbThVRExUT1E4TC02S3dZWm1DOTdzcWxzQ1FUZUxtenhaOGdRR3hjSURDR2hfcEt0T1F5UjBra0lJWHA4MGJxS2NB?oc=5",
+      "source_name": "OpenAI Developers",
+      "source_level": "primary",
+      "published_at": "2026-09-11T04:50:36+00:00",
+      "age_hours": 1.2,
+      "scanned_at": "2026-09-11T06:02:55.779372+00:00",
       "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "GitHub release: googleapis/python-genai v2.23.0",
@@ -46,20 +58,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-10T22:15:45+00:00",
-      "age_hours": 2.9,
-      "scanned_at": "2026-09-11T01:08:42.543103+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "what_happened": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-09-10T21:31:19+00:00",
-      "age_hours": 3.6,
-      "scanned_at": "2026-09-11T01:08:42.543103+00:00",
+      "age_hours": 7.8,
+      "scanned_at": "2026-09-11T06:02:55.779372+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
