@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-09-12T10:51:43.831835+00:00",
-  "scanned_at": "2026-09-12T10:51:43.831835+00:00",
+  "updated_at": "2026-09-12T14:10:43.839871+00:00",
+  "scanned_at": "2026-09-12T14:10:43.839871+00:00",
   "retention_hours": 72,
   "items": [
     {
-      "title": "Security News This Week: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere - WIRED",
-      "what_happened": "Security News This Week: From Hacks to Bioweapons, Claude Misuse Is Now Everywhere WIRED",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1hQcmpfUjFXdUFBVGZNMTJSSVFWLWowMVNVbkJiZjgwUG02blNKOW1fdV91cjAyZTFpdXdHWW1qMTNnUFdseHlQM2hELXF0VE9ZN0RVYmRBMEQ2NV9iM2pOQlQ5VnY0bnJHOG1acnFUWnliNnhxWkJDaFZXNmZxREk2Y2JON1VJS3M0c216MkNrMzVmbEZ6WVRNVG1yMGtEdURNT3F2VjV1NGpDb1E?oc=5",
-      "source_name": "WIRED",
-      "source_level": "reputable",
-      "published_at": "2026-09-12T10:30:00+00:00",
-      "age_hours": 0.4,
-      "scanned_at": "2026-09-12T10:51:43.829124+00:00",
+      "title": "Scenarios for our Economic Future - Anthropic",
+      "what_happened": "Scenarios for our Economic Future Anthropic",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
+      "source_name": "Anthropic",
+      "source_level": "primary",
+      "published_at": "2026-09-12T13:57:13+00:00",
+      "age_hours": 0.2,
+      "scanned_at": "2026-09-12T14:10:43.836712+00:00",
       "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -22,22 +22,10 @@
       "source_name": "techcrunch.com",
       "source_level": "reputable",
       "published_at": "2026-09-11T22:58:17+00:00",
-      "age_hours": 11.9,
-      "scanned_at": "2026-09-12T10:51:43.829124+00:00",
+      "age_hours": 15.2,
+      "scanned_at": "2026-09-12T14:10:43.836712+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "GitHub release: anthropics/claude-code v2.1.269",
-      "what_happened": "## What's changed - Added `claude plugin eval`: run a plugin's eval suite against Claude Code and get scored, reproducible results (JSON + HTML report); see `claude plugin eval --help` - Added `/output-style [name]` to list and switch output styles, including over Remote Control and in cloud and other headless sessions - Added a diff of the files a Bash command changed to the Bash tool result when the Bash tool handl",
-      "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.269",
-      "source_name": "github.com",
-      "source_level": "primary",
-      "published_at": "2026-09-11T19:17:55+00:00",
-      "age_hours": 15.6,
-      "scanned_at": "2026-09-12T10:51:43.829124+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
@@ -46,8 +34,20 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-09-11T18:26:10+00:00",
-      "age_hours": 16.4,
-      "scanned_at": "2026-09-12T10:51:43.829124+00:00",
+      "age_hours": 19.7,
+      "scanned_at": "2026-09-12T14:10:43.836712+00:00",
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "GitHub release: googleapis/python-genai v2.23.0",
+      "what_happened": "## [2.23.0](https://github.com/googleapis/python-genai/compare/v2.22.0...v2.23.0) (2026-09-10) ### Features * Add from_environment support for environment copying ([e6d3168](https://github.com/googleapis/python-genai/commit/e6d316866aca21c7d05c5495ca6355f48ca040fc)) * Support dynamic turn completion via interaction_status in live.py receive() ([455df80](https://github.com/googleapis/python-genai/commit/455df80f3c308b",
+      "source_url": "https://github.com/googleapis/python-genai/releases/tag/v2.23.0",
+      "source_name": "github.com",
+      "source_level": "primary",
+      "published_at": "2026-09-10T22:15:45+00:00",
+      "age_hours": 39.9,
+      "scanned_at": "2026-09-12T14:10:43.836712+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
