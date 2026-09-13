@@ -2,62 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-13T06:13:57.382756+00:00
-Scanned: 2026-09-13T06:13:57.382756+00:00
+Updated: 2026-09-13T11:59:42.425896+00:00
+Scanned: 2026-09-13T11:59:42.425896+00:00
 Memory window: 72 hours
 
-## 1. Beijing pushes AI chip design as part of self-sufficiency drive - South China Morning Post
-Source: South China Morning Post (reputable)
-Published: 2026-09-13T06:00:08+00:00 | Age: 0.2 hours
-Scanned: 2026-09-13T06:13:57.378964+00:00
-URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXBFOUtIVmF5elFkZWVkejVEaHJWMElXVVBxaDFpSGVzWE5TU2NTU2JZSGlxVGkyZGtWRjNmeVBRUkZFMXkzVDdITkNMbGpiQU5wazRVSTd5MGZpYU1ydENlUkM5ZDN0dlJTSzYzNmpCeTdCY21CSzZWYmU1MF90dHM5NDVSRDlQVlRNa1Y5OWpJZld6cGhRenFyYm1JdDhkNFhiUjIwbVdhbXNzNDExUkNOb2VMZVFyQ1lNSdIBvAFBVV95cUxQbG9vS0RaRFZ0Q2RMZGxYdGhUeFV6VU1DX0F6Z3gxWVdaZGxkMTY1R0VZTnUtMmFRTFFGRFpoQUFQZlZmeW44M2NzWkMxeTVFSGo2SzRkc0VRSTc0U0UzTlE1N0hpejVXazJjUGFLUzgzQ3RBVlAxS3ZpOUhPUHlKSmZCUkNnNEtFcmYzQUYzMnFJQ3p1SU9WVVliTkZCT3lZY09ZVW5oLVBXZEc2RmpSdnY0V3B6amlNR01BUw?oc=5
-
-Beijing pushes AI chip design as part of self-sufficiency drive South China Morning Post
-
-## 2. ‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles - The Guardian
-Source: The Guardian (reputable)
-Published: 2026-09-13T06:00:00+00:00 | Age: 0.2 hours
-Scanned: 2026-09-13T06:13:57.378964+00:00
-URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzBBTUNvanN5TmttejZnbGRtRXYzV1NPMjJBNXZEVjlGRVo1YUZDT2NsM3dXZVl1SmFKZXBzb1BpR3BxNUs5bFNNcDlLTnBxLV9IR2NnQkpvMW9BT2EwME9fTk1RTkhxOUJtWHdhMnNpVGc0WHNIRE4xWUVqcHNOY1ByOHRIQnVpTGdqWVVTTnFDVFUzUlJXNDZRSzJyc3ZkQkcyS3RuTDA?oc=5
-
-‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles The Guardian
-
-## 3. Apple debuts iPhone 18 Pro and iPhone 18 Pro Max - apple.com
-Source: apple.com (primary)
-Published: 2026-09-13T05:51:19+00:00 | Age: 0.4 hours
-Scanned: 2026-09-13T06:13:57.378964+00:00
-URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPam9vNHV1TS1jZjE4ZmsyU3lIRjgyU2hfMjFRQjJfQjJhVWZOTXpQMnRFZEVtYlkxV1JkZGJKVlFhbG56SUU0RUVQLVZFWWRUWG5XanhGcnI5UjBnS0QxREZKWTV2dFphVjZTdGJRRlBvYU1vRHY3d3dVd25pT193QXJhQnpEUmxnYUdBZ0hQcVNDNDg4VHc?oc=5
-
-Apple debuts iPhone 18 Pro and iPhone 18 Pro Max apple.com
-
-## 4. GPT-6 Astra: The next generation in intelligence for work - openai.com
-Source: openai.com (primary)
-Published: 2026-09-13T05:38:42+00:00 | Age: 0.6 hours
-Scanned: 2026-09-13T06:13:57.378964+00:00
+## 1. GPT-6 Astra: The next generation in intelligence for work - OpenAI
+Source: OpenAI (primary)
+Published: 2026-09-13T11:39:31+00:00 | Age: 0.3 hours
+Scanned: 2026-09-13T11:59:42.422576+00:00
 URL: https://news.google.com/rss/articles/CBMiakFVX3lxTE5CMVNUYU5VZ0ZwQm56OGo4bVhKSmtEU1dLT01wR0hmbzE2ektwRS1LNnVqRkVha3ZzLXJyVE9GdHpMREM5dnRXS1Q2MHJoNGV3RFVLZ3VvZ3dwcGphbnI2RWx4dnFBMWM0Zmc?oc=5
 
-GPT-6 Astra: The next generation in intelligence for work openai.com
+GPT-6 Astra: The next generation in intelligence for work OpenAI
 
-## 5. Image prompting - OpenAI Developers
-Source: OpenAI Developers (primary)
-Published: 2026-09-13T05:18:47+00:00 | Age: 0.9 hours
-Scanned: 2026-09-13T06:13:57.378964+00:00
-URL: https://news.google.com/rss/articles/CBMibkFVX3lxTFBWTjdOVG5pRnhqOGhuWnZ1TmY3eC1lZ1lGNHdOYXFSX05HMV9VbThVRExUT1E4TC02S3dZWm1DOTdzcWxzQ1FUZUxtenhaOGdRR3hjSURDR2hfcEt0T1F5UjBra0lJWHA4MGJxS2NB?oc=5
+## 2. iPhone 18 Pro Max vs. iPhone 17 Pro Max: Top new features - Mashable
+Source: Mashable (reputable)
+Published: 2026-09-13T11:24:18+00:00 | Age: 0.6 hours
+Scanned: 2026-09-13T11:59:42.422576+00:00
+URL: https://news.google.com/rss/articles/CBMickFVX3lxTFBjbmdJY0pDaEQxdHNTOWhYNnRBSUk3d0t2NnZyMVMzTnJPazd4SEZfSEo1ZUNMWFVROHAzUzA0dGFBVkJYd2oyVjVoei0tbzBvZkJUMUVPLUZ4aGNtcGN1bmNYRzZXM1VKUG94NUpRaHp0Zw?oc=5
 
-Image prompting OpenAI Developers
+iPhone 18 Pro Max vs. iPhone 17 Pro Max: Top new features Mashable
+
+## 3. Perplexity trusts GPT-6 Astra with end-to-end systems - OpenAI
+Source: OpenAI (primary)
+Published: 2026-09-13T10:56:47+00:00 | Age: 1.0 hours
+Scanned: 2026-09-13T11:59:42.422576+00:00
+URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE9jY1dXTUcwbGFoeDJyQkJFbWlnT0F4akVwaE5FcTUtMzZMZWR2RUtVR3owa0d0cGY3RXhlVDNZV2xxVGV5cThyWUU0VjVSaUEwZjdlbG5Fbzl4eGR2ajhjN3dVSU1EOVhCdkY3azcxdjlFZ0Z4?oc=5
+
+Perplexity trusts GPT-6 Astra with end-to-end systems OpenAI
+
+## 4. iPhone 20 rumors: Why iPhone 19 might be skipped entirely - Mashable
+Source: Mashable (reputable)
+Published: 2026-09-13T10:20:14+00:00 | Age: 1.7 hours
+Scanned: 2026-09-13T11:59:42.422576+00:00
+URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kbmN3aWtZdHZTYXdleUhlWTZBREl3cjdTUld3SkNnUUQ0dDdma3Jhd3JUeGc0LXJiM0RTX3MxVlIzUTltU1FFS3JMTTRUZV9iZ2pDWHNwNGtSeXhaakZ3SS1rNHV4cnp6?oc=5
+
+iPhone 20 rumors: Why iPhone 19 might be skipped entirely Mashable
+
+## 5. GitHub release: anthropics/claude-code v2.1.270
+Source: github.com (primary)
+Published: 2026-09-12T19:45:44+00:00 | Age: 16.2 hours
+Scanned: 2026-09-13T11:59:42.422576+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.270
+
+## What's changed - Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)
 
 ## 6. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
 Source: techcrunch.com (reputable)
-Published: 2026-09-11T22:58:17+00:00 | Age: 31.3 hours
-Scanned: 2026-09-13T06:13:57.378964+00:00
+Published: 2026-09-11T22:58:17+00:00 | Age: 37.0 hours
+Scanned: 2026-09-13T11:59:42.422576+00:00
 URL: https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
 
 The round for the two-year-old startup is coming together months after Mecka announced its Series A.
 
-## 7. GitHub release: anthropics/claude-code v2.1.269
-Source: github.com (primary)
-Published: 2026-09-11T19:17:55+00:00 | Age: 34.9 hours
-Scanned: 2026-09-13T06:13:57.378964+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.269
+## 7. Marketing ops as code: Automating events from planning to follow-up on GitHub
+Source: github.blog (primary)
+Published: 2026-09-11T18:26:10+00:00 | Age: 41.6 hours
+Scanned: 2026-09-13T11:59:42.422576+00:00
+URL: https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/
 
-## What's changed - Added `claude plugin eval`: run a plugin's eval suite against Claude Code and get scored, reproducible results (JSON + HTML report); see `claude plugin eval --help` - Added `/output-style [name]` to list and switch output styles, including over Remote Control and in cloud and other headless sessions - Added a diff of the files a Bash command changed to the Bash tool result when the Bash tool handl
+If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .
