@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T22:20:49.304052+00:00",
-  "scanned_at": "2026-09-12T22:20:49.304052+00:00",
+  "updated_at": "2026-09-13T01:03:21.997295+00:00",
+  "scanned_at": "2026-09-13T01:03:21.997295+00:00",
   "retention_hours": 72,
   "items": [
     {
@@ -9,11 +9,23 @@
       "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5",
       "source_name": "Anthropic",
       "source_level": "primary",
-      "published_at": "2026-09-12T22:17:14+00:00",
+      "published_at": "2026-09-13T00:59:07+00:00",
       "age_hours": 0.1,
-      "scanned_at": "2026-09-12T22:20:49.300882+00:00",
+      "scanned_at": "2026-09-13T01:03:21.994869+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
+    },
+    {
+      "title": "Anthropic CEO Says It\u2019s Time to Slow AI Model Advances - bloomberg.com",
+      "what_happened": "Anthropic CEO Says It\u2019s Time to Slow AI Model Advances bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5",
+      "source_name": "bloomberg.com",
+      "source_level": "reputable",
+      "published_at": "2026-09-13T00:09:00+00:00",
+      "age_hours": 0.9,
+      "scanned_at": "2026-09-13T01:03:21.994869+00:00",
+      "eligible": true,
+      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
     {
       "title": "GitHub release: anthropics/claude-code v2.1.270",
@@ -22,8 +34,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-12T19:45:44+00:00",
-      "age_hours": 2.6,
-      "scanned_at": "2026-09-12T22:20:49.300882+00:00",
+      "age_hours": 5.3,
+      "scanned_at": "2026-09-13T01:03:21.994869+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -34,8 +46,8 @@
       "source_name": "techcrunch.com",
       "source_level": "reputable",
       "published_at": "2026-09-11T22:58:17+00:00",
-      "age_hours": 23.4,
-      "scanned_at": "2026-09-12T22:20:49.300882+00:00",
+      "age_hours": 26.1,
+      "scanned_at": "2026-09-13T01:03:21.994869+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -46,8 +58,8 @@
       "source_name": "github.blog",
       "source_level": "primary",
       "published_at": "2026-09-11T18:26:10+00:00",
-      "age_hours": 27.9,
-      "scanned_at": "2026-09-12T22:20:49.300882+00:00",
+      "age_hours": 30.6,
+      "scanned_at": "2026-09-13T01:03:21.994869+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
