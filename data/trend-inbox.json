@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-13T19:29:22.189847+00:00",
-  "scanned_at": "2026-09-13T19:29:22.189847+00:00",
+  "updated_at": "2026-09-13T22:26:42.854146+00:00",
+  "scanned_at": "2026-09-13T22:26:42.854146+00:00",
   "retention_hours": 72,
   "items": [
     {
@@ -9,23 +9,11 @@
       "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kbmN3aWtZdHZTYXdleUhlWTZBREl3cjdTUld3SkNnUUQ0dDdma3Jhd3JUeGc0LXJiM0RTX3MxVlIzUTltU1FFS3JMTTRUZV9iZ2pDWHNwNGtSeXhaakZ3SS1rNHV4cnp6?oc=5",
       "source_name": "Mashable",
       "source_level": "reputable",
-      "published_at": "2026-09-13T19:21:40+00:00",
-      "age_hours": 0.1,
-      "scanned_at": "2026-09-13T19:29:22.187482+00:00",
+      "published_at": "2026-09-13T22:26:05+00:00",
+      "age_hours": 0.0,
+      "scanned_at": "2026-09-13T22:26:42.850959+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
-    {
-      "title": "- OpenAI Platform",
-      "what_happened": "OpenAI Platform",
-      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZUFfOGVRbUJKRktqd0R2NlBVX2p0eXZ5X0pjb05Pekl0N1RUTnZ3MWdSQXI2VTU4VTk2TFFOa25aNDIteHNVNFBaeXA5T1hQdEhPbUxua01CNktBVlMycXZtNEM2VG5Ha2dyazBFb3gyQWgyd0xLWENxdk5ranRfM2ZaZTd6OHVpdkV3Q2d0aTdHWktwLWdtY1BvTnJ1ZWJFWE9V?oc=5",
-      "source_name": "OpenAI Platform",
-      "source_level": "primary",
-      "published_at": "2026-09-13T18:26:51+00:00",
-      "age_hours": 1.0,
-      "scanned_at": "2026-09-13T19:29:22.187482+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
       "title": "Apple debuts iPhone 18 Pro and iPhone 18 Pro Max - Apple",
@@ -33,21 +21,21 @@
       "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPam9vNHV1TS1jZjE4ZmsyU3lIRjgyU2hfMjFRQjJfQjJhVWZOTXpQMnRFZEVtYlkxV1JkZGJKVlFhbG56SUU0RUVQLVZFWWRUWG5XanhGcnI5UjBnS0QxREZKWTV2dFphVjZTdGJRRlBvYU1vRHY3d3dVd25pT193QXJhQnpEUmxnYUdBZ0hQcVNDNDg4VHc?oc=5",
       "source_name": "Apple",
       "source_level": "primary",
-      "published_at": "2026-09-13T18:00:21+00:00",
-      "age_hours": 1.5,
-      "scanned_at": "2026-09-13T19:29:22.187482+00:00",
+      "published_at": "2026-09-13T21:03:01+00:00",
+      "age_hours": 1.4,
+      "scanned_at": "2026-09-13T22:26:42.850959+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
     {
-      "title": "Trump Sees Race Against China as Key Issue on AI Regulation - WSJ",
-      "what_happened": "Trump Sees Race Against China as Key Issue on AI Regulation WSJ",
-      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOElEaDhNQW5QWVJ5Q0RMQ1M3S3B6OERSdkdoWDE2RGdXVk9XZF9ZOFE0NlY2N05BMzFZZFRBcHlKUkFMTGt2M1B4ODNDMmhtQTFKY0xodVJuRWhMMWYwMlpBZGNzTVZBTUFLMHRMUENiWEJfalVvbWhQOGtLOEdyQW9CZ1dqX1BQakdZbkh6M1RkYWxwMHRn?oc=5",
-      "source_name": "WSJ",
+      "title": "The 9 buzziest startups from Y Combinator\u2019s latest Demo Day, according to VCs - TechCrunch",
+      "what_happened": "The 9 buzziest startups from Y Combinator\u2019s latest Demo Day, according to VCs TechCrunch",
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUk42MHpRRU52RjB5ZFNwM2phQ011ckFNUEJpd3NNUzZ5Skl2Z19TbXVmYzJpX3pnYTNWMTlfdldTUDdHMm1DYjg1WmZZNzNmOTRGS2hFN3lKS1NoeHBoNWdzYVNBVlY4RktGTDhWVGE4NlU2Ymx4SXE4WTk3eF9nQTJvQXNOanJwVERvR0czRVdaYVFtRjd4X0xXYWVDM1Z5ZW5DNzZLRkFFNXRnUzZZ?oc=5",
+      "source_name": "TechCrunch",
       "source_level": "reputable",
-      "published_at": "2026-09-13T17:30:00+00:00",
+      "published_at": "2026-09-13T20:28:00+00:00",
       "age_hours": 2.0,
-      "scanned_at": "2026-09-13T19:29:22.187482+00:00",
+      "scanned_at": "2026-09-13T22:26:42.850959+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
     },
@@ -58,8 +46,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-12T19:45:44+00:00",
-      "age_hours": 23.7,
-      "scanned_at": "2026-09-13T19:29:22.187482+00:00",
+      "age_hours": 26.7,
+      "scanned_at": "2026-09-13T22:26:42.850959+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     },
@@ -70,10 +58,22 @@
       "source_name": "techcrunch.com",
       "source_level": "reputable",
       "published_at": "2026-09-11T22:58:17+00:00",
-      "age_hours": 44.5,
-      "scanned_at": "2026-09-13T19:29:22.187482+00:00",
+      "age_hours": 47.5,
+      "scanned_at": "2026-09-13T22:26:42.850959+00:00",
       "eligible": true,
       "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
+    },
+    {
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "what_happened": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .",
+      "source_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "source_name": "github.blog",
+      "source_level": "primary",
+      "published_at": "2026-09-11T18:26:10+00:00",
+      "age_hours": 52.0,
+      "scanned_at": "2026-09-13T22:26:42.850959+00:00",
+      "eligible": true,
+      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
   ]
 }
