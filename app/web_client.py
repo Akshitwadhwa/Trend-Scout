@@ -95,6 +95,8 @@ class WebFeedClient:
             return self._huggingface_items(payload, url)
         if host in {"reddit.com", "old.reddit.com"} and parsed.path.endswith(".json"):
             return self._reddit_items(payload, url)
+        if host == "hn.algolia.com" and parsed.path.startswith("/api/v1/search"):
+            return self._hacker_news_items(payload, url)
         raise ValueError(f"Unsupported web API URL: {url}")
 
     def _github_release_items(self, payload: Any, api_url: str) -> list[dict[str, Any]]:
@@ -190,6 +192,52 @@ class WebFeedClient:
                     "public_metrics": {"like_count": int(data.get("ups") or 0), "retweet_count": 0, "quote_count": 0},
                     "score": float(data.get("score") or 0),
                     "url": url,
+                }
+            )
+        return items
+
+    def _hacker_news_items(self, payload: Any, api_url: str) -> list[dict[str, Any]]:
+        """Normalize fresh Hacker News stories as discovery signals.
+
+        Stories retain their destination URL, so verification evaluates the
+        linked publisher (for example, OpenAI) rather than treating Hacker
+        News discussion alone as proof of a launch.
+        """
+        hits = payload.get("hits", []) if isinstance(payload, dict) else []
+        if not isinstance(hits, list):
+            raise ValueError("Hacker News response did not contain a hits list")
+
+        items: list[dict[str, Any]] = []
+        for hit in hits:
+            if not isinstance(hit, dict):
+                continue
+            title = self._clean_feed_text(str(hit.get("title") or hit.get("story_title") or ""))
+            story_id = str(hit.get("objectID") or "").strip()
+            destination_url = str(hit.get("url") or hit.get("story_url") or "").strip()
+            discussion_url = f"https://news.ycombinator.com/item?id={story_id}" if story_id else ""
+            if not title or not destination_url or not story_id:
+                continue
+            points = int(hit.get("points") or 0)
+            comments = int(hit.get("num_comments") or 0)
+            items.append(
+                {
+                    "id": f"hn:{story_id}",
+                    "source_type": "hacker_news",
+                    "title": title,
+                    "text": f"{title}\nHacker News discussion: {discussion_url}".strip(),
+                    "created_at": self._parse_date(str(hit.get("created_at") or "")),
+                    "author_name": "Hacker News",
+                    "author_username": str(hit.get("author") or "hackernews"),
+                    "publisher_url": discussion_url,
+                    "discovered_via": "Hacker News",
+                    "public_metrics": {
+                        "like_count": points,
+                        "retweet_count": 0,
+                        "quote_count": 0,
+                        "reply_count": comments,
+                    },
+                    "score": float(points + comments * 2),
+                    "url": destination_url,
                 }
             )
         return items

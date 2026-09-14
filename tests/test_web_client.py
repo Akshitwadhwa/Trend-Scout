@@ -73,3 +73,29 @@ def test_fetch_items_can_use_api_sources_without_rss_feeds(monkeypatch):
 
     assert len(items) == 1
     assert items[0]["title"].startswith("GitHub release:")
+
+
+def test_hacker_news_items_keep_the_linked_publisher_url():
+    client = WebFeedClient(SettingsStub())
+
+    items = client._hacker_news_items(
+        {
+            "hits": [
+                {
+                    "objectID": "123",
+                    "title": "OpenAI announces a new developer tool",
+                    "url": "https://openai.com/index/new-developer-tool/",
+                    "created_at": "2026-09-14T02:30:00.000Z",
+                    "author": "builder",
+                    "points": 42,
+                    "num_comments": 8,
+                }
+            ]
+        },
+        "https://hn.algolia.com/api/v1/search_by_date?tags=story",
+    )
+
+    assert items[0]["source_type"] == "hacker_news"
+    assert items[0]["url"] == "https://openai.com/index/new-developer-tool/"
+    assert items[0]["publisher_url"] == "https://news.ycombinator.com/item?id=123"
+    assert items[0]["public_metrics"]["reply_count"] == 8

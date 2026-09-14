@@ -22,6 +22,12 @@ from scripts.fresh import build_workflow, settings_for_mode
 # robotics, health and wearables, infrastructure, climate/energy, gaming,
 # security, space, and India-specific launches.
 CLOUD_MIXED_FEEDS = [
+    # Targeted official-company searches surface a launch at its primary
+    # publisher before broader coverage starts repeating the same story.
+    "https://news.google.com/rss/search?q=site%3Aopenai.com%2Fnews%20OR%20site%3Aopenai.com%2Findex%20OpenAI%20when%3A3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=site%3Aanthropic.com%2Fnews%20OR%20site%3Aanthropic.com%2Fresearch%20Anthropic%20Claude%20when%3A3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=site%3Aai.google%20OR%20site%3Adeepmind.google%20Gemini%20when%3A3d&hl=en-IN&gl=IN&ceid=IN:en",
+    "https://news.google.com/rss/search?q=site%3Acursor.com%2Fchangelog%20OR%20site%3Acursor.com%2Fblog%20Cursor%20when%3A3d&hl=en-IN&gl=IN&ceid=IN:en",
     # Dedicated 12-hour queries stop a broad AI result set hiding key updates.
     "https://news.google.com/rss/search?q=OpenAI%20GPT%20Codex%20ChatGPT%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
     "https://news.google.com/rss/search?q=Anthropic%20Claude%20Fable%20Opus%20when:12h&hl=en-IN&gl=IN&ceid=IN:en",
@@ -60,6 +66,9 @@ CLOUD_MIXED_FEEDS = [
     "https://techcrunch.com/category/hardware/feed/",
 ]
 CLOUD_API_URLS = [
+    # Hacker News is a fast discovery layer. The verification step still
+    # checks the linked publisher before any story can become a draft.
+    "https://hn.algolia.com/api/v1/search_by_date?tags=story&hitsPerPage=60",
     # Public release metadata from projects people actually use.
     "https://api.github.com/repos/openai/openai-python/releases?per_page=10",
     "https://api.github.com/repos/anthropics/claude-code/releases?per_page=10",
@@ -110,8 +119,15 @@ def main() -> None:
         enable_ollama=False,
         enable_openai_research=settings.enable_openai_research,
         enable_openai_drafts=False,
-        enable_x_scan=False,
-        enable_x_watchlist=False,
+        # X search is opt-in because it requires an authenticated X API
+        # credential. X posts remain discovery-only and never qualify as a
+        # draft without an official or reputable corroborating source.
+        enable_x_scan=settings.enable_x_scan and bool(settings.x_bearer_token),
+        enable_x_watchlist=(
+            settings.enable_x_watchlist
+            and bool(settings.x_bearer_token)
+            and bool(settings.x_watch_handles)
+        ),
         enable_x_timeline=False,
         verified_max_age_hours=72,
         enable_web_scan=True,

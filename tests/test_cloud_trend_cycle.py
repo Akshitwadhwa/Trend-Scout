@@ -17,3 +17,7 @@ def test_cloud_cycle_keeps_rolling_inbox_memory():
     assert "cloud%20infrastructure%20OR%20AI%20inference" in source
     assert "space%20technology%20OR%20satellite" in source
     assert "https://techcrunch.com/category/artificial-intelligence/feed/" in source
+    assert "https://hn.algolia.com/api/v1/search_by_date" in source
+    assert "site%3Aopenai.com%2Fnews" in source
+    assert "site%3Aanthropic.com%2Fnews" in source
+    assert "bool(settings.x_bearer_token)" in source

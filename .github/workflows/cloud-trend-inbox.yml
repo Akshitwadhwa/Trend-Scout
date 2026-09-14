@@ -2,6 +2,8 @@ name: Cloud Trend Inbox
 
 on:
   schedule:
+    # 08:00 India Standard Time (UTC+05:30): morning model/tool launch scan.
+    - cron: "30 2 * * *"
     - cron: "17 * * * *"
   workflow_dispatch:
 
@@ -35,9 +37,14 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           ENABLE_OPENAI_DRAFTS: "false"
           ENABLE_SCHEDULER: "false"
-          ENABLE_X_SCAN: "false"
-          ENABLE_X_WATCHLIST: "false"
+          # X is optional: enable the repository variable only after adding
+          # an X_BEARER_TOKEN secret. Social posts are discovery-only and
+          # still need official/reputable corroboration to reach drafts.
+          ENABLE_X_SCAN: ${{ secrets.X_BEARER_TOKEN != '' && vars.ENABLE_X_SCAN == 'true' }}
+          ENABLE_X_WATCHLIST: ${{ secrets.X_BEARER_TOKEN != '' && vars.ENABLE_X_WATCHLIST == 'true' }}
           ENABLE_X_TIMELINE: "false"
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+          X_WATCH_HANDLES: ${{ vars.X_WATCH_HANDLES }}
         run: python scripts/cloud_trend_cycle.py
 
       - name: Commit updated trend inbox
