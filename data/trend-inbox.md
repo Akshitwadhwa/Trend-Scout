@@ -2,54 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-13T22:26:42.854146+00:00
-Scanned: 2026-09-13T22:26:42.854146+00:00
+Updated: 2026-09-14T01:09:43.518004+00:00
+Scanned: 2026-09-14T01:09:43.518004+00:00
 Memory window: 72 hours
 
-## 1. iPhone 20 rumors: Why iPhone 19 might be skipped entirely - Mashable
-Source: Mashable (reputable)
-Published: 2026-09-13T22:26:05+00:00 | Age: 0.0 hours
-Scanned: 2026-09-13T22:26:42.850959+00:00
-URL: https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kbmN3aWtZdHZTYXdleUhlWTZBREl3cjdTUld3SkNnUUQ0dDdma3Jhd3JUeGc0LXJiM0RTX3MxVlIzUTltU1FFS3JMTTRUZV9iZ2pDWHNwNGtSeXhaakZ3SS1rNHV4cnp6?oc=5
+## 1. Scenarios for our Economic Future - Anthropic
+Source: Anthropic (primary)
+Published: 2026-09-14T01:08:08+00:00 | Age: 0.0 hours
+Scanned: 2026-09-14T01:09:43.516254+00:00
+URL: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nNk9oS1M5R2tRa1hxZ0I1X0ZvNC15aEhrT2hyMFRpZnRUdDY4QzZSRXdfUmU1YjlYNGctV1dZXzZoakVEY19GNlNBNW1iX1RvWWxWNXhzUmRJcm93YTFr?oc=5
 
-iPhone 20 rumors: Why iPhone 19 might be skipped entirely Mashable
+Scenarios for our Economic Future Anthropic
 
-## 2. Apple debuts iPhone 18 Pro and iPhone 18 Pro Max - Apple
-Source: Apple (primary)
-Published: 2026-09-13T21:03:01+00:00 | Age: 1.4 hours
-Scanned: 2026-09-13T22:26:42.850959+00:00
-URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxPam9vNHV1TS1jZjE4ZmsyU3lIRjgyU2hfMjFRQjJfQjJhVWZOTXpQMnRFZEVtYlkxV1JkZGJKVlFhbG56SUU0RUVQLVZFWWRUWG5XanhGcnI5UjBnS0QxREZKWTV2dFphVjZTdGJRRlBvYU1vRHY3d3dVd25pT193QXJhQnpEUmxnYUdBZ0hQcVNDNDg4VHc?oc=5
+## 2. Server-side controls - OpenAI Developers
+Source: OpenAI Developers (primary)
+Published: 2026-09-14T00:14:19+00:00 | Age: 0.9 hours
+Scanned: 2026-09-14T01:09:43.516254+00:00
+URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE96VHpxQzc3RkZONFlEWE1iRzZnWWQzVjJSZ0hvV3hzblVEOTVSODVsUkZid2Z1YXlGSkxDYm5uUFNJampvd2lGQkJNQ1JDUEFvVnlvRzNRRHNwRDN4RW9Cc3luTnRtSXdRdEhkUzZNaGUtQTRadmc?oc=5
 
-Apple debuts iPhone 18 Pro and iPhone 18 Pro Max Apple
+Server-side controls OpenAI Developers
 
-## 3. The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs - TechCrunch
-Source: TechCrunch (reputable)
-Published: 2026-09-13T20:28:00+00:00 | Age: 2.0 hours
-Scanned: 2026-09-13T22:26:42.850959+00:00
-URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxOUk42MHpRRU52RjB5ZFNwM2phQ011ckFNUEJpd3NNUzZ5Skl2Z19TbXVmYzJpX3pnYTNWMTlfdldTUDdHMm1DYjg1WmZZNzNmOTRGS2hFN3lKS1NoeHBoNWdzYVNBVlY4RktGTDhWVGE4NlU2Ymx4SXE4WTk3eF9nQTJvQXNOanJwVERvR0czRVdaYVFtRjd4X0xXYWVDM1Z5ZW5DNzZLRkFFNXRnUzZZ?oc=5
+## 3. Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents - WSJ
+Source: WSJ (reputable)
+Published: 2026-09-13T23:56:27+00:00 | Age: 1.2 hours
+Scanned: 2026-09-14T01:09:43.516254+00:00
+URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkF5V0hjRURGQjc2Vm9nSUYtNmRJNDNLN0Z3Nmpoa1lVZkpKQ3g4Mld2dDd0ajgwM0xvOWM2QURyUjBJbDV3SXJKZlNhN3FQT3U0cHhSSElCWTJPdlpWTTdIWWpvVnJFTHYtSGQxTXlKUTBPbUFnMEViX2xTUm83c2M3MFhFM3BzMTFoMHAtZFVrOGQxVVpRVHFwWHZFZC1IV2lGUTVmbw?oc=5
 
-The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs TechCrunch
+Exclusive | Cyberattack by Rogue AI Swarm Stokes Fears of Out-of-Control Agents WSJ
 
-## 4. GitHub release: anthropics/claude-code v2.1.270
+## 4. iOS 27: Release Date, New Features, and Compatible iPhones - MacRumors
+Source: MacRumors (reputable)
+Published: 2026-09-13T23:50:42+00:00 | Age: 1.3 hours
+Scanned: 2026-09-14T01:09:43.516254+00:00
+URL: https://news.google.com/rss/articles/CBMiekFVX3lxTFBrZk02dUt5Nkg3WVRKUVFwNUVlSEJpdF82ZS0zNEQ2ZEJONUdDdFN1bG1xY2dHY1VrTXE3NFBXX1VRejRDeV9hSVVRRmk4OWtERGlBR0RnU0didjZmMzVqbEFGbjNZb240Smw3R19kMVpPaDRMY2h2R2hR?oc=5
+
+iOS 27: Release Date, New Features, and Compatible iPhones MacRumors
+
+## 5. Trump Sees Race Against China as Key Issue on AI Regulation - WSJ
+Source: WSJ (reputable)
+Published: 2026-09-13T22:02:00+00:00 | Age: 3.1 hours
+Scanned: 2026-09-14T01:09:43.516254+00:00
+URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxQOElEaDhNQW5QWVJ5Q0RMQ1M3S3B6OERSdkdoWDE2RGdXVk9XZF9ZOFE0NlY2N05BMzFZZFRBcHlKUkFMTGt2M1B4ODNDMmhtQTFKY0xodVJuRWhMMWYwMlpBZGNzTVZBTUFLMHRMUENiWEJfalVvbWhQOGtLOEdyQW9CZ1dqX1BQakdZbkh6M1RkYWxwMHRn?oc=5
+
+Trump Sees Race Against China as Key Issue on AI Regulation WSJ
+
+## 6. GitHub release: anthropics/claude-code v2.1.270
 Source: github.com (primary)
-Published: 2026-09-12T19:45:44+00:00 | Age: 26.7 hours
-Scanned: 2026-09-13T22:26:42.850959+00:00
+Published: 2026-09-12T19:45:44+00:00 | Age: 29.4 hours
+Scanned: 2026-09-14T01:09:43.516254+00:00
 URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.270
 
 ## What's changed - Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)
 
-## 5. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
+## 7. Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
 Source: techcrunch.com (reputable)
-Published: 2026-09-11T22:58:17+00:00 | Age: 47.5 hours
-Scanned: 2026-09-13T22:26:42.850959+00:00
+Published: 2026-09-11T22:58:17+00:00 | Age: 50.2 hours
+Scanned: 2026-09-14T01:09:43.516254+00:00
 URL: https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/
 
 The round for the two-year-old startup is coming together months after Mecka announced its Series A.
-
-## 6. Marketing ops as code: Automating events from planning to follow-up on GitHub
-Source: github.blog (primary)
-Published: 2026-09-11T18:26:10+00:00 | Age: 52.0 hours
-Scanned: 2026-09-13T22:26:42.850959+00:00
-URL: https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/
-
-If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .
