@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-09-14T19:24:46.819097+00:00",
-  "scanned_at": "2026-09-14T19:24:46.819097+00:00",
+  "updated_at": "2026-09-14T23:10:10.469050+00:00",
+  "scanned_at": "2026-09-14T23:10:10.469050+00:00",
   "retention_hours": 72,
   "items": [
     {
-      "title": "GitHub release: anthropics/claude-code v2.1.270",
-      "what_happened": "## What's changed - Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)",
-      "source_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.270",
-      "source_name": "github.com",
+      "title": "Samsung and Verizon Complete Successful ISAC Trial Over Virtualized Network at Global Sports Event",
+      "what_happened": "Samsung Electronics and Verizon have successfully completed an Integrated Sensing and Communication (ISAC) trial at a major international soccer fan event in Dallas, Texas, enabling real-time sensing-driven intelligence across a virtualized network. This landmark milestone represents one of the industry\u2019s first practical implementations of a key technology for 6G, signaling how operators are leveraging software-drive",
+      "source_url": "https://news.samsung.com/global/samsung-and-verizon-complete-successful-isac-trial-over-virtualized-network-at-global-sports-event",
+      "source_name": "news.samsung.com",
       "source_level": "primary",
-      "published_at": "2026-09-12T19:45:44+00:00",
-      "age_hours": 47.7,
-      "scanned_at": "2026-09-14T19:24:46.816400+00:00",
+      "published_at": "2026-09-14T22:10:00+00:00",
+      "age_hours": 1.0,
+      "scanned_at": "2026-09-14T23:10:10.466498+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
