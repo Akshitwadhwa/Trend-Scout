@@ -1,20 +1,8 @@
 {
-  "updated_at": "2026-09-14T14:07:42.489397+00:00",
-  "scanned_at": "2026-09-14T14:07:42.489397+00:00",
+  "updated_at": "2026-09-14T19:24:46.819097+00:00",
+  "scanned_at": "2026-09-14T19:24:46.819097+00:00",
   "retention_hours": 72,
   "items": [
-    {
-      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-      "what_happened": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-      "source_url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
-      "source_name": "techcrunch.com",
-      "source_level": "reputable",
-      "published_at": "2026-09-14T13:55:00+00:00",
-      "age_hours": 0.2,
-      "scanned_at": "2026-09-14T14:07:42.486800+00:00",
-      "eligible": true,
-      "verification_note": "Good discovery source; prefer an official announcement before making a strong claim."
-    },
     {
       "title": "GitHub release: anthropics/claude-code v2.1.270",
       "what_happened": "## What's changed - Fixed read-only git commands in Bash unexpectedly asking for permission after a session had been running for a while (regression in 2.1.269)",
@@ -22,20 +10,8 @@
       "source_name": "github.com",
       "source_level": "primary",
       "published_at": "2026-09-12T19:45:44+00:00",
-      "age_hours": 42.4,
-      "scanned_at": "2026-09-14T14:07:42.486800+00:00",
-      "eligible": true,
-      "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
-    },
-    {
-      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "what_happened": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .",
-      "source_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
-      "source_name": "github.blog",
-      "source_level": "primary",
-      "published_at": "2026-09-11T18:26:10+00:00",
-      "age_hours": 67.7,
-      "scanned_at": "2026-09-14T14:07:42.486800+00:00",
+      "age_hours": 47.7,
+      "scanned_at": "2026-09-14T19:24:46.816400+00:00",
       "eligible": true,
       "verification_note": "Use this as a publishable factual source; keep the post tied to the link."
     }
