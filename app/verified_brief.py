@@ -285,26 +285,24 @@ class VerifiedBriefBuilder:
         source_type = str(item.get("source_type", ""))
         publisher_url = str(item.get("publisher_url", ""))
         publisher_host = urlparse(publisher_url).netloc.lower().removeprefix("www.")
+        # Community and social surfaces are excellent for finding a topic, but
+        # their timestamps describe a post or re-index event—not necessarily
+        # the original announcement. Do not let them qualify a story as
+        # "latest" without a direct publisher/API record.
+        if source_type in {"hacker_news", "reddit", "x", "x_watchlist", "x_timeline"}:
+            return "discovery", str(item.get("author_name") or host or source_type)
+        # Google News can re-index an older publisher page with a fresh RSS
+        # timestamp. It remains valuable discovery coverage, but the raw
+        # redirect cannot establish a publication time for a post-ready draft.
+        if host == "news.google.com":
+            return "discovery", str(item.get("author_name") or publisher_host or "Google News")
         if source_type == "huggingface_model":
             return self._hugging_face_source_level(item)
-        if host == "news.google.com" and publisher_host not in NON_EDITORIAL_OFFICIAL_HOSTS and any(
-            publisher_host == domain or publisher_host.endswith(f".{domain}")
-            for domain in OFFICIAL_DOMAINS
-        ):
-            return "primary", str(item.get("author_name") or publisher_host)
         if any(host == domain or host.endswith(f".{domain}") for domain in OFFICIAL_DOMAINS):
             return "primary", host
         if source_type == "openai_web_research":
             return "web_researched", str(item.get("author_name") or host or "OpenAI web research")
         publisher = str(item.get("author_name", "")).lower().strip()
-        if host == "news.google.com" and (
-            publisher in REPUTABLE_PUBLICATIONS
-            or any(
-                publisher_host == domain or publisher_host.endswith(f".{domain}")
-                for domain in REPUTABLE_PUBLISHER_DOMAINS
-            )
-        ):
-            return "reputable", str(item.get("author_name"))
         if any(host == domain or host.endswith(f".{domain}") for domain in REPUTABLE_FEEDS):
             return "reputable", host
         return "discovery", host or str(item.get("author_name") or "unknown source")

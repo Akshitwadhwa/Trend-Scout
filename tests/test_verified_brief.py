@@ -45,7 +45,7 @@ def test_openai_research_is_not_marked_primary_for_an_unknown_domain():
     assert brief["items"][0]["source_level"] == "web_researched"
 
 
-def test_google_news_requires_a_recognized_publisher():
+def test_google_news_is_discovery_only_even_with_a_recognized_publisher():
     now = datetime.now(timezone.utc)
     trusted = source("https://news.google.com/rss/articles/one", "Kimi release", now.isoformat())
     trusted["author_name"] = "Axios"
@@ -55,11 +55,11 @@ def test_google_news_requires_a_recognized_publisher():
     brief = VerifiedBriefBuilder().build([trusted, unknown])
 
     levels = {item["title"]: item["source_level"] for item in brief["items"]}
-    assert levels["Kimi release"] == "reputable"
+    assert levels["Kimi release"] == "discovery"
     assert levels["Unverified claim"] == "discovery"
 
 
-def test_google_news_uses_original_official_publisher_domain():
+def test_google_news_does_not_treat_reindex_time_as_an_official_publish_time():
     now = datetime.now(timezone.utc)
     official = source("https://news.google.com/rss/articles/one", "GPT release", now.isoformat())
     official["author_name"] = "OpenAI"
@@ -67,7 +67,7 @@ def test_google_news_uses_original_official_publisher_domain():
 
     brief = VerifiedBriefBuilder().build([official])
 
-    assert brief["items"][0]["source_level"] == "primary"
+    assert brief["items"][0]["source_level"] == "discovery"
 
 
 def test_google_news_community_forum_is_not_an_official_announcement():
@@ -82,7 +82,7 @@ def test_google_news_community_forum_is_not_an_official_announcement():
     assert brief["items"][0]["source_level"] == "discovery"
 
 
-def test_google_news_uses_original_reputable_publisher_domain():
+def test_google_news_does_not_treat_reindex_time_as_a_reputable_publish_time():
     now = datetime.now(timezone.utc)
     reporting = source("https://news.google.com/rss/articles/one", "Chip deal", now.isoformat())
     reporting["author_name"] = "Reuters"
@@ -90,7 +90,7 @@ def test_google_news_uses_original_reputable_publisher_domain():
 
     brief = VerifiedBriefBuilder().build([reporting])
 
-    assert brief["items"][0]["source_level"] == "reputable"
+    assert brief["items"][0]["source_level"] == "discovery"
 
 
 def hugging_face_model(org: str, *, downloads: int, likes: int) -> dict:
