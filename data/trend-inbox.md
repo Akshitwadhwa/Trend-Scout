@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-15T05:14:16.815140+00:00
-Scanned: 2026-09-15T05:14:16.815140+00:00
+Updated: 2026-09-15T07:48:25.272813+00:00
+Scanned: 2026-09-15T07:48:25.272813+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: gradients-io-tournaments/tournament-tourn_5c64e784a087074a_20260914-90d361cb-0b97-464a-9fda-36eb34c99261-5HLA2QWY
-Source: Hugging Face / gradients-io-tournaments (discovery)
-Published: 2026-09-15T05:13:51+00:00 | Age: 0.0 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://huggingface.co/gradients-io-tournaments/tournament-tourn_5c64e784a087074a_20260914-90d361cb-0b97-464a-9fda-36eb34c99261-5HLA2QWY
+## 1. Hugging Face model update: Vxtzq/Crowd-v1
+Source: Hugging Face / Vxtzq (discovery)
+Published: 2026-09-15T07:48:12+00:00 | Age: 0.0 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://huggingface.co/Vxtzq/Crowd-v1
 
-text-generation; downloads=0; likes=0
+text-generation; downloads=11587; likes=7
 
-## 2. Hugging Face model update: HarithSami/qwen2.5-7b-instruct-arabic-yt-merged
-Source: Hugging Face / HarithSami (discovery)
-Published: 2026-09-15T05:13:03+00:00 | Age: 0.0 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://huggingface.co/HarithSami/qwen2.5-7b-instruct-arabic-yt-merged
+## 2. India's EV charging concentrates in metros as grid capacity stalls commercial fleets - EV Infrastructure News
+Source: EV Infrastructure News (discovery)
+Published: 2026-09-15T07:46:47+00:00 | Age: 0.0 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxPTE9tcnVvRGdyaWlESmlMZGZQVlpwRWxXYlFiel9aaEl1Z3c4Sm1mTk9TLUQzdWROUkE3MEdsbUwwYl9PajdEUkZwcEozb3Q4WXB4alRKY3ZXUGhXd0Rvb1pyYTZGRG5DUHpPUlZzUGpTRzJDNVBoSTZ3X0JKWVdfRjNUc0pfYkM5b0VsYnJ1RHJQeFFGeVdGdzF5dXYwdU5LLXVwVl9ic25ZbXpCNlBqbjdIblIxQnFvcExFeXV2Q0tsOFV3UURrRnJlVmFJdw?oc=5
 
-text-generation; downloads=386; likes=0
+India's EV charging concentrates in metros as grid capacity stalls commercial fleets EV Infrastructure News
 
-## 3. Consumer Court To Tata Dealer: Refund Customer 28 Lakh For Faulty Harrier.EV - Cartoq
-Source: Cartoq (discovery)
-Published: 2026-09-15T05:08:01+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0pWWUVnMzZPTUVXSWJ0YVN0VkNwNnlwU05KTG9naFl4Um1TaWRvMWxpR2JJNU1Wb2ZmckMtS3A3NS0zRGhJQVhOakt2MHlWN0h3V190Z3cxSjJkcHBxUzE2ODhfSkNEc2tPWHd5VTQ0RzFIU1lzLVk3VFZMWHZnSVJ4dUlid0U?oc=5
+## 3. WebSockets - OpenAI Developers
+Source: OpenAI Developers (discovery)
+Published: 2026-09-15T07:45:55+00:00 | Age: 0.0 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE5OUWhfZVdwZnlpX2hncnZhelN4cHVHZnQ2ZHp6V1BuRkd0YVFnaE5LX1JZY296ZGFHUlJ3RVJSbU85MVJVSUtyckViYnhOYlRlcE05M05LTTIzc0ZXMG44SXZDcmpPNDByWXE1OGdDNA?oc=5
 
-Consumer Court To Tata Dealer: Refund Customer 28 Lakh For Faulty Harrier.EV Cartoq
+WebSockets OpenAI Developers
 
-## 4. From Nepal to the US, deadly weather keeps rising, but the climate link still goes unseen - The Cool Down
-Source: The Cool Down (discovery)
-Published: 2026-09-15T05:07:00+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHVETG4zeUh4V3h0WURGU1FfRmlGTDJwU0tEazFfbldRdldDWWJxMVdRZlJXbFRVSHcyU2otNnJWQUQxY3d6TXJhMlFlSGVlSjZvWVZHOE11T0VwZlcxbFRNOU9DeUFFdEVxZHNsVXJ0NUNFbE1tTUc1QVhQSXNxdlYwclRGdFc4aFBJaDZB?oc=5
-
-From Nepal to the US, deadly weather keeps rising, but the climate link still goes unseen The Cool Down
-
-## 5. Hackers Abuse AutoIt to Inject AsyncRAT Into Microsoft-Signed Windows Process - CyberSecurityNews
-Source: CyberSecurityNews (discovery)
-Published: 2026-09-15T05:06:57+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUWJQd2JRcTRmcHZFaVRzWGVLaVVVbHBNMjZ4UkJpUUE0RWx5b0hnWlhXOTFSenhWX21laXhPTjBDRGlIQXRwMGhCQ1FUY3JkZmxJRHdKZERaa0FHc2JXSVV1ZHTSAWpBVV95cUxObnJtNUxPZm5DcjltU1hBeHpYeFZzMUpaU2ltUVYxQnN1SDRXS1VhWGlKSUtkY1prT3NWRlJ2dDVsbkxKT21kdlNOV1VEZ0VMZFpxdnUyYlpkRXluVkdDVms3VDg3Wml1ZFB3?oc=5
-
-Hackers Abuse AutoIt to Inject AsyncRAT Into Microsoft-Signed Windows Process CyberSecurityNews
-
-## 6. NCSC Warns of Critical Check Point VPN Flaws as Large-Scale Exploitation Is Expected - CyberSecurityNews
-Source: CyberSecurityNews (discovery)
-Published: 2026-09-15T05:06:55+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxObzlRZGhLTUdwQTdHdWNjWEF1MDk4NUNjSUNyWmh6QmQ4aTd1NHNqczYtdEdqTkJOcFlkYkhFNGZ0MHY4OWZTd0hQeXFmWFoxODRidWs2UUVhVjVqWmtNNllKQl94UlFyLV9nbG9aVmdhalFEdDZBNUR0M0lxdFY1MXVn0gGHAUFVX3lxTE1BZkgwYXRtcW53cFV2TmtRMTBGZDNqeUs5NGVYdHlwblNwSzlsbHhQdHFvSS02cXZtTjQ4ZVdhQlQ0TVdyeHgxS3ZOTFV4YUtFQk1BVE10VWVVWTB5cHI0Y1hac2k5QkVuZ3ppLW5Oc21XckNtdzY0dnNfZXc1VG1RcUZMc3ZNYw?oc=5
-
-NCSC Warns of Critical Check Point VPN Flaws as Large-Scale Exploitation Is Expected CyberSecurityNews
-
-## 7. Binance Will Support the Taiwan Semiconductor Manufacturing Company Limited (TSM) and Salesforce (CRM) Cash Dividend Distribution via bStocks | Binance announcement - Binance
-Source: Binance (discovery)
-Published: 2026-09-15T05:04:28+00:00 | Age: 0.2 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxONFFUOWt0TmtzVjZKWmVWQXdWOG9fQXNhREl1RzREY3N3SUtoZ2UybWdpQm9GUmw4UE1YdDZQaDZSLUhUZ05VRHZZcnJIcWExd0w5QktKR0J6TFNtQ3kwM1RZU2ZSREhaM1FLV0JUTXFDVGc1c0x4Y0dVaDJfRFRsZnh5RUJjREU?oc=5
-
-Binance Will Support the Taiwan Semiconductor Manufacturing Company Limited (TSM) and Salesforce (CRM) Cash Dividend Distribution via bStocks | Binance announcement Binance
-
-## 8. Alumina-Silicate Thermal Boards Market To 2035: Semiconductor Demand Drives Growth - News and Statistics - IndexBox
-Source: IndexBox (discovery)
-Published: 2026-09-15T05:01:17+00:00 | Age: 0.2 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxPWGZNRWJ3aTM2UlNlYkpkc2owSU9sRXVSZVVrQ09ZQWxyaGo2M0FjN0JTLU5GZmJSN2NLS1QzdFVQZ0ZUWnZFVTh4N0tsc2k1WXBGUHdZMHdNQnV2elc4VVhEc1dHeEZDRXRKU0x0dVBySmw4TlVTcTFReE5ScmtSNzRhbE54YkV0UWJCamxZVFNXb2VHbUNVQV9PQzAycm1yMUJpc0U4eGQwcnpBS0FNZzc2N3IyaFhNMXlsTHNMazE2LUp4dTFR?oc=5
-
-Alumina-Silicate Thermal Boards Market To 2035: Semiconductor Demand Drives Growth - News and Statistics IndexBox
-
-## 9. Major updates for Apple’s software platforms are now available - Apple
+## 4. Major updates for Apple’s software platforms are now available - Apple
 Source: Apple (discovery)
-Published: 2026-09-15T04:40:10+00:00 | Age: 0.6 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVEb2ZEekZoUFVhd3pfVENTLW1nVVN6Q3RBX19abkVzUHRmN0x5OEpUNXQ2TTFHbms0SE1TMXF0U0NGeFZiWTVXRlhJV09NeXE4Ry0yYzNkOUtuYmN6RC1XWkZkZDdVdHJEa3ZwNnZ6YW1KS2V4Q194TEFJMk5CRFpqT2xOUTlxbDRBbUFtNFZJR2U5ci0yQlFIVW9GZVJYT3ZRT3RaSQ?oc=5
+Published: 2026-09-15T07:43:16+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTF5czU2Z3JCblVDX1FFZjhfMUUtTWRBb1huN2pRdUQxZGZ5b3d4OWVSSG5wLXAwXy1ISVZ2ZG1yMVJvTHBuQ0gzMzRvYlRJLXByWFRmNEkzMmZ3MnN6MDhIR3hlRjRjVE5EOTN6dXkyalotckRObFZ1RTlSRVppaTdRTXJiaHdrdzhiTWNUNkNlclhnM3czSWwxWkFZd082bnItQzF0NA?oc=5
 
 Major updates for Apple’s software platforms are now available Apple
 
-## 10. Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - Bozeman Daily Chronicle
-Source: Bozeman Daily Chronicle (discovery)
-Published: 2026-09-15T04:01:40+00:00 | Age: 1.2 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://news.google.com/rss/articles/CBMihwJBVV95cUxPZHVyZWFyMUhOcDVhWTJVRUtPU1RMMHU5eXl0LU1tbF92RC1BcGIwd2o0NTVBZTRuWjJ3TnhGZHhKcll3RlNaMjlJaEJRdEphRHpkMUpQY3lnNHBqaEo3eGR0NDNBWlVwQXk4Rl8zSE40TFFZUExVeFcwakJtSVFFVjlWcTVZR2s1WkhqNlJhdXRVQzZaajk0MWhyV3d0d0RKcGItazVVNWdyZ096MUVFWXltQWFkTFh3R2ZVWGw5MWttMEZza3VLUUJaa1gydFo3UFhULVlYS0pzd3haYjZfUkhBOXh2MTZNb1NMUFEtY1pZTTU5eFBNbWNnNnh4M0x2bGZnbWRXbw?oc=5
+## 5. Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post
+Source: Hacker News (discovery)
+Published: 2026-09-15T07:42:50+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html
 
-Tech CEOs call for AI regulation. Trump and Congress are not rushing to act Bozeman Daily Chronicle
+Hacker News discussion: https://news.ycombinator.com/item?id=49709109
 
-## 11. GitHub release: anthropics/claude-code v2.1.272
-Source: github.com (primary)
-Published: 2026-09-15T00:42:25+00:00 | Age: 4.5 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.272
+## 6. KT Cloud to Build 1GW AI Data Center by 2031 - 조선일보
+Source: 조선일보 (discovery)
+Published: 2026-09-15T07:38:21+00:00 | Age: 0.2 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaW9qd0lfRnoxQnhWeEpiS0U0dkQtczJiakpvSHI3elBwUGphWjlVaDBibk1iNnJlRmgzVVpocFJzMUlDelBTRTN5MVJzWGpvM0VnNFpIcjJZLU5GRU5wZEJpd01PdkNYQWhweFlPWEM5OHZNa2ZyMk9URzUteVF0Q1J4UDhOYVB6?oc=5
 
-## What's changed - Bug fixes and reliability improvements
+KT Cloud to Build 1GW AI Data Center by 2031 조선일보
 
-## 12. GitHub release: openai/openai-python v3.14.0
-Source: github.com (primary)
-Published: 2026-09-14T23:28:28+00:00 | Age: 5.8 hours
-Scanned: 2026-09-15T05:14:16.812978+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.14.0
+## 7. Coupang Establishes Information Security Advisory Committee Following Record $460 Million Data Breach Fine - streamlinefeed.co.ke
+Source: streamlinefeed.co.ke (discovery)
+Published: 2026-09-15T07:37:02+00:00 | Age: 0.2 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa1ppOG1MWFZsVkNOcUxSN3MzbklVel9SNzhQVTNUWWFjaDdzUnF3QmJMQ1dHeVNVRHFDRW5SeHI0RVFEanBVVHBmby1xemtEWmFOOWVOejNneDZhWllRMW40U1ZaSWhmS2QwSVRKR3EzRktHa0QwaHh6RlFrbjU3cWN3ejlmMExFYkRsQkI2QmlwOFBIRmVJbF9CRXktdkhhanlqRHM4OUt3cU1wVnRSQlZpU19JRk1MMkxqT20zUUs0OHp2Y3pzckRLcGhfMkN6QTR0VWJ3?oc=5
 
-## [3.14.0](https://github.com/openai/openai-python/compare/v3.13.0...v3.14.0) (2026-09-14) ### Features * **streaming:** normalize errors raised while reading streams ([#3827](https://github.com/openai/openai-python/issues/3827)) ([d7c41ef](https://github.com/openai/openai-python/commit/d7c41efee1b0802b79f3f88a678ef2052b06e9ce)) ### Bug Fixes * bound vector store file polling ([#3401](https://github.com/openai/opena
+Coupang Establishes Information Security Advisory Committee Following Record $460 Million Data Breach Fine streamlinefeed.co.ke
+
+## 8. MediaTek launches new mobile chip using TSMC's most advanced technology - Reuters
+Source: Reuters (discovery)
+Published: 2026-09-15T07:31:21+00:00 | Age: 0.3 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVlcUMzUkQ4NXk1QVkxeFc0NTBCenZSWTExWDJkeS1CaE1hamtXNHZmbmZHc2tKVXZSUGhOSGdCUnVTSGdxMTJPWm1vcmVRazl3Vm1fR2RPSU1heVFtRjBtUm4zWTkxYk1tM1J3ZmpyRW5RRXFIT1BJU1djQzBUeExSeTRZNEhnck84ek1zYTVOb2l5R2JzVmhvU20tMXVROWpuRmFDYjhyWDVkbThtQXlfQW4yZWhGa1lOUkJXV0VlcVNvTXl0Xw?oc=5
+
+MediaTek launches new mobile chip using TSMC's most advanced technology Reuters
+
+## 9. Galaxy S27 Ultra tipped for Samsung’s latest OLED technology - Báo VietNamNet
+Source: Báo VietNamNet (discovery)
+Published: 2026-09-15T07:24:00+00:00 | Age: 0.4 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1dpc3J4U2xCUjBzWkstU1ZHUC03T1FSaDVCSWpCcWhiSXhMOGZPdUtnYTEzQUg3Z2c0YXFzQWVJSEhrNDk3OWR3cFpxQm4yOTdiQTRocERNdm94UDJLNDZNcUQzVkRhU0J0bFZLTlo1S1Ntd3UwVkRzS2U3ZFRnZlVNSVNBblFqZ2N6RXJjd0o0ZUdxQVh3TGUwNXhrYms?oc=5
+
+Galaxy S27 Ultra tipped for Samsung’s latest OLED technology Báo VietNamNet
+
+## 10. Redmi Note 17 Pro Max, Note 17 Pro Launched in India With Up to 10,000mAh Battery, 50-Megapixel Camera: P... - Gadgets 360
+Source: Gadgets 360 (discovery)
+Published: 2026-09-15T07:17:57+00:00 | Age: 0.5 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmU4elQ3djE2bFZwWlBXc2ZBM1cxbzJlSDJOdnFIellkS0VfV2RMbkVGUG9iZXF5NXY1M1dGWDB2VnVnMGlLanlZTEZIWUllOTB6SXVVQkRlRTRHVkViaVNDMnhmdU5aNmJILWd1NldfRmItLUdyTjhEQlJGWUhjV1Rsc1o2eGVZV0JYS20yQnZ2alR4TVZ6M2ttMEdZd09FV3pORlgyYWpHUnpCajRYdnBSVXdHYml1dWRKUHVxNi1XVlBD0gHKAUFVX3lxTE9pbHRwZlpsWmEwd1pzQjVxYWlKMmNvWklrUF9DcWt0UDFqRnNqeVNraXhwN0JqQ19pVWVPN0NKV3h5OTJ0c19hTHlkaFo4dUk1MW1yLWlkaHM5U0VRZ2VrX29HWVVULXdGdUZyV0lOVHBVM1ZveXM0MkxFWF9DdERValFwMXBJeE9XWlN1bmlvbTMtN2gtT3BxdTJ6Z2lfRVh1bGpXUGJsei1POE85MGVKZF9CWjFwU2FSRE5pRVhLTDREMHVPSW1MSFE?oc=5
+
+Redmi Note 17 Pro Max, Note 17 Pro Launched in India With Up to 10,000mAh Battery, 50-Megapixel Camera: P... Gadgets 360
+
+## 11. Vecna Robotics Raises $31 in Funding - FinSMEs
+Source: FinSMEs (discovery)
+Published: 2026-09-15T07:11:02+00:00 | Age: 0.6 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMifEFVX3lxTE1ERXpNa2NJeG43Ni1mREgxNWsxOWEtV2gzYTFDelltNTZOclg5RU9HOGNDcHRSWnllTzFDdVNzWFF4TldIem5zWjVGT1loMFU1TF9lQnBOQ19TaFBUVVM4RWpLVkVqUzMxSkpUS3RTdF92TzJNaHh6V2Iya0Q?oc=5
+
+Vecna Robotics Raises $31 in Funding FinSMEs
+
+## 12. Index Ventures leads €20M into Berlin’s Nomos to power Europe’s invisible utility layer - Tech Funding News
+Source: Tech Funding News (discovery)
+Published: 2026-09-15T07:02:06+00:00 | Age: 0.8 hours
+Scanned: 2026-09-15T07:48:25.270457+00:00
+URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXY1aDhQMHNsME0zNXl2anNySkpvNWp5VzR5cXBhV1FZbUEwM1ZmVHdaQWFRSExXWENNMHRNcE00STRieGpvRnhKRkpidmZpXzNvcW1sZ3FHS3hxazYzVndBTHBZS1NlQWtnRG1HSkk0UnNzRFJoNXFMWkxSeklfS3hMN0VLb00?oc=5
+
+Index Ventures leads €20M into Berlin’s Nomos to power Europe’s invisible utility layer Tech Funding News
