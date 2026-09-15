@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-15T13:36:27.649000+00:00
-Scanned: 2026-09-15T13:36:27.649000+00:00
+Updated: 2026-09-15T18:14:15.660649+00:00
+Scanned: 2026-09-15T18:14:15.660649+00:00
 Memory window: 72 hours
 
-## 1. As AI leaders call for slower development, how do companies govern their use of the technology? - | Governance Intelligence
-Source: | Governance Intelligence (discovery)
-Published: 2026-09-15T13:34:05+00:00 | Age: 0.0 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVJ4NzlXaVNFdTkyLWc2aGx0QUQ0LWFBSUZvLXpyRG5weVliYWtsbW40YkxENXdyOU9QeXVXZWxKV2lXSzZsbEpYMU9vNjZ1N2JnNWxxUkdtUjVrTTdtSTV3T3VNYzJIM2ZmOWprZzFRZVEyNHNhcTNJTGVqZEdBajZub2dmcm5COGxrTTcwYTk1b0EtWU92R1RJZnUxTnRzbURYc0lOXzNOUE9RMWNOSUY4R1J5ZHl1UXpscjRmVUNTOWhGVFZxQQ?oc=5
+## 1. Hugging Face model update: aoiandroid/LFM2.5-2.6B
+Source: Hugging Face / aoiandroid (discovery)
+Published: 2026-09-15T18:13:50+00:00 | Age: 0.0 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://huggingface.co/aoiandroid/LFM2.5-2.6B
 
-As AI leaders call for slower development, how do companies govern their use of the technology? | Governance Intelligence
+text-generation; downloads=0; likes=0
 
-## 2. I asked Claude to build an OS from scratch. A few days later it runs on a laptop
+## 2. Hugging Face model update: mradermacher/Darkforest-GGUF
+Source: Hugging Face / mradermacher (discovery)
+Published: 2026-09-15T18:13:08+00:00 | Age: 0.0 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://huggingface.co/mradermacher/Darkforest-GGUF
+
+text-generation; downloads=0; likes=0
+
+## 3. We got admin access to Baseten's production GitHub in 25 minutes
 Source: Hacker News (discovery)
-Published: 2026-09-15T13:33:20+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://www.reddit.com/r/ClaudeAI/comments/1wfpydl/i_asked_claude_to_build_an_operating_system_from/
+Published: 2026-09-15T18:11:24+00:00 | Age: 0.0 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://www.strix.ai/blog/baseten-harbor-github-pat-takeover
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49712305
+Hacker News discussion: https://news.ycombinator.com/item?id=49716476
 
-## 3. New Zentera Systems Research Reveals Security Leaders’ Struggles to Govern AI Agents - PR Underground
-Source: PR Underground (discovery)
-Published: 2026-09-15T13:33:19+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTzBrV3pKWGFmVjlzSE5pUDk3am1hcG9ROWFDZEZwWG82SkhsOXBiYnMzTkJvRlVrc1F2TlVDZzdZelRSNW9ISmZlODR0bWdSQUc4enJMdHp2MlhQRkkxREZyRDRIX2hwWTZINmhLWkZJcUxBQ080c0w0VXJrWVppQXdOcVZacmplWWw5ODBtczZRcFV4YlByUXN5MTVoZHJ6dUVtc3hkMG1vQ1gybGJRTmRQanpsMUtqeENJZXJoUlhDbEVtcVNyaDZ4ZW4?oc=5
+## 4. OpenRouter users spent more on OpenAI models than on Anthropic models last week
+Source: Hacker News (discovery)
+Published: 2026-09-15T18:10:59+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://twitter.com/OpenRouter/status/2099898254905549220
 
-New Zentera Systems Research Reveals Security Leaders’ Struggles to Govern AI Agents PR Underground
+Hacker News discussion: https://news.ycombinator.com/item?id=49716466
 
-## 4. ZuckOff Is a Free App That Sees Meta Glasses Before They See You - WIRED Middle East
-Source: WIRED Middle East (discovery)
-Published: 2026-09-15T13:30:15+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVRsN2VtVmFiUHp5ZXlQVmF5SVp2Qmw3QWtwRllHX2lTOC1ramJMQmhaaUQxX2dnbnZfa3pDRHd6c1FRZ2tHYmcwRGZJNGZwMWYxd1B0ZjNjZl9XeVkwRkhGYUsxd08waThlZVRSSE9uZUJjNFJDWlhfWEhTUHdpLW1QMzVodXlXRmczY1VnOVB3ODN1Y3c?oc=5
+## 5. Tesla’s new Roadster teaser hints at a ‘Cyber’ redesign it doesn’t need - Electrek
+Source: Electrek (discovery)
+Published: 2026-09-15T18:08:00+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE1aRHpiTGhNeS1EbTY5MWotNlBqRUF3ZTVkNUpyVVBtWlJQNElCTC1yNGFpancxZW9sNWVaNHEySEdLQzBvUkszdkxQN0VEd2hkMGgyUXFEc2hFQXNEaV9waU9LQVBwZ3hLUmE3UHZoM05WcGtHdUZ3Szl4cw?oc=5
 
-ZuckOff Is a Free App That Sees Meta Glasses Before They See You WIRED Middle East
+Tesla’s new Roadster teaser hints at a ‘Cyber’ redesign it doesn’t need Electrek
 
-## 5. Salesforce and Nvidia Unveil AI Model Built for Complex Reasoning | Ukraine news - #Mezha - Межа. Новини України.
-Source: Межа. Новини України. (discovery)
-Published: 2026-09-15T13:27:56+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFB2bmI0LW1fS09LWDE3elVnMDFfS0l2NlB4VEtGdnFac3d5UW9sQ216bTZOc3ltSExFMC1ycVhELW5pRl9FMTZ0MjlzbURqYXEyUkF2azVvNDFvQ3lHdXlteWdXaXJZZ0pyb2c?oc=5
+## 6. Nvidia lets rival chipmaker d-Matrix plug into its racks, boosting AI data center ecosystem. - Pluang
+Source: Pluang (discovery)
+Published: 2026-09-15T18:06:09+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxQaW5vM0RFaXhpcmFOa0oyOTVnUHlMWFhadFlJQnRCQ013M3lQV0FZVV9fMk0tcExvMlhrbVI2aWxEcXpaSFRnZUk2cHRwODg0eFVNc0xQb0tzdm85Yy0zWXk0Yjk0dWI3aHg1eTh6elRrVk5ZMHNiQWE1Mmc5ODBNTmJtelFyVENxbURXM2lUUWRmNkVleEE?oc=5
 
-Salesforce and Nvidia Unveil AI Model Built for Complex Reasoning | Ukraine news - #Mezha Межа. Новини України.
+Nvidia lets rival chipmaker d-Matrix plug into its racks, boosting AI data center ecosystem. Pluang
 
-## 6. Steam Deck 2 future addressed by Valve developers - Indy100 | News
-Source: Indy100 | News (discovery)
-Published: 2026-09-15T13:26:23+00:00 | Age: 0.2 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE5iNDZHNk9rWDdZaDlVbkE0VWpWSEtjeWdwYlFrenhUcDlPVXNyUV9UVUpwWXN1RzRidlZqZ3NKNksza1ExUEpJc3ZuVGNfOEZqM1NvbmFiWnBTVE80bnhFSWNJNmRscExpWTRrTGtIeFpPa18zc2c?oc=5
+## 7. Nvidia partners to bring AI tools to 1,500 rura... - Pluang
+Source: Pluang (discovery)
+Published: 2026-09-15T18:06:09+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFpBNlIyeUthbXp1UkJraGtxWEJqa2E5WFVRTkppdXZCeDBqUHl1aHFOYXdINlE4Nk4xemp2MnZhTkZZcW9PTTJuaTZZRG1UdVJRM3h1eTVoc0tESjRIc1BPUEFWUXkycE5vc0pFcFZoaVV2cUF0WGlxS0RPUHFpbWxkTGk2UEVRQ2E4dERtMVZqaUdlSUxVbDQ1cDJXYTItRFU1MmdCZ29vX0dD?oc=5
 
-Steam Deck 2 future addressed by Valve developers Indy100 | News
+Nvidia partners to bring AI tools to 1,500 rura... Pluang
 
-## 7. Keysight to Showcase Semiconductor Test Solutions Across the Development Lifecycle at SEMICON India 2026 - CXOToday.com
-Source: CXOToday.com (discovery)
-Published: 2026-09-15T13:23:01+00:00 | Age: 0.2 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmdEUmFOUDAwOUcyR3lyVFZPR0RBTU5CMkhkcVRtN3k0T0JTQk5pd3czMHNCNG9oZjBUVzVhUlBPUUFrSFdyb0o3Qng0SGUza0tPSlllTmNBUWpPTkg0WEpwZXhPTU0zWDZlbktpc0h4N1h5MGpXZmktTDJiRVd2YVFtWVVWVF96dnVlb2lyVEZ6M0JWTVZzMnQyUGsyVVlybWFCQzZISmdORm81bV9zNmd5SExaX0VFVXZLS29ka0NiS1E4bVlBYVRKZFB2emd6QzRWVmluLUg?oc=5
+## 8. How Fast is Apple's M5 Ultra Chip? First Benchmark Result is Truly Wild - MacRumors
+Source: MacRumors (discovery)
+Published: 2026-09-15T18:00:47+00:00 | Age: 0.2 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://news.google.com/rss/articles/CBMidkFVX3lxTFAxMl9VRWFyOUt3SEx2dXMxLTJOSzNoeXUwOWNhalZHRVE1bEJqOFZQUUdVRWM0b0s1OGFKZ2Fxa29QS0w0MF9VeU43OFZyYjdxUmk2ZE9PMjRWU3NFa1hYTTgydW4zRHEtRWRXMkNEa3BrUm0yQWc?oc=5
 
-Keysight to Showcase Semiconductor Test Solutions Across the Development Lifecycle at SEMICON India 2026 CXOToday.com
+How Fast is Apple's M5 Ultra Chip? First Benchmark Result is Truly Wild MacRumors
 
-## 8. M4 iPad Air Sees a Quiet Price Drop on Amazon, a Hidden Deal Behind the iPhone 18 Pro Launch - Kotaku
-Source: Kotaku (discovery)
-Published: 2026-09-15T13:15:49+00:00 | Age: 0.3 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHVCWkR0WXJOdkRLVE5pRktSWGZDaV93OHVQcC1uWXNTamEtVTNDYW1LVm5GeGdTSXRvZlBoakM0elo4bW1qR1M4TTJYSllCenlyQ25HS1R5eEZjOE5zNGNyWGc4Q2czdWN2c3hnbWw5d0VtVWs4S19XNjJNTlpoQWluX2RjU1BKbm1weEN5QnJOeldYN00xMld6T2tGaUMybGtXVzBaUW9VY0YzRXhCcFRZdFM3dlpOQ0E4RFpn?oc=5
-
-M4 iPad Air Sees a Quiet Price Drop on Amazon, a Hidden Deal Behind the iPhone 18 Pro Launch Kotaku
-
-## 9. Which new Apple products will launch this year – and which won’t? - 9to5Mac
-Source: 9to5Mac (discovery)
-Published: 2026-09-15T13:01:00+00:00 | Age: 0.6 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlVFcmprcHBMVnZoOTUySlkyUmtFOFJmbFFfQnhtdjdfREhfakR0NFRuTjBlbllqSnVwSVM3OGhPeVdteVI1SzFBcFZpbjIxTVYxLTRhRWUxZTIxWEJlcGlodDJLOWFmbExfd05nZHlLNnA0cmtEVDUyaS1Ea1Q1MnZWeUdhYlBQd3ZhOWZUeXZpNzRSWXFUMw?oc=5
-
-Which new Apple products will launch this year – and which won’t? 9to5Mac
-
-## 10. Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents
+## 9. AI agents now have a place to snitch
 Source: techcrunch.com (reputable)
-Published: 2026-09-15T13:00:00+00:00 | Age: 0.6 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
+Published: 2026-09-15T17:42:59+00:00 | Age: 0.5 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/
 
-Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.
+The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.
 
-## 11. Funding grants for new research into AI and teen development - OpenAI
-Source: OpenAI (discovery)
-Published: 2026-09-15T12:19:01+00:00 | Age: 1.3 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE52TkhYUFNHRXc4cEFtc1NHeFNMV3NDaWoxTFhSaWdqQXFsNk9tZFBjU3NPbndPZnJfX2lNdldSUHlvSzRUV2J3djQzOENoUGwwbGZDS3NOQVNDamhMVl9oVjc2YUp4TDl5WkdLZkEzamp2Qms?oc=5
+## 10. Meta Is Using Instagram Users' Photos to Build a Universal Facial Recognition System for Its Hated Smart Glasses, Class Action Lawsuit Claims - Futurism
+Source: Futurism (discovery)
+Published: 2026-09-15T15:58:26+00:00 | Age: 2.3 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxNdk5Ja2tjbHNJU2ttZG1VSXV1SXFtaWd2T3hGTU5Tak9qajBnX2w3V1JsMDRnd0oybGpDamRsZi03WXA0d2RDbDljOW1XN1B3NWt4OGNJb3oxVTZPSFJlWEJ2MTUwaFBwOG9HcUpyMnNzdTk2aW55SkI5aHRYTlRuajMxRWs4bjh3dkR2VVRaMkw3TWE2?oc=5
 
-Funding grants for new research into AI and teen development OpenAI
+Meta Is Using Instagram Users' Photos to Build a Universal Facial Recognition System for Its Hated Smart Glasses, Class Action Lawsuit Claims Futurism
 
-## 12. OpenAI Reportedly Buys Camera Startup Glass Imaging for More Than $300 Million - techrepublic.com
-Source: techrepublic.com (discovery)
-Published: 2026-09-15T12:18:59+00:00 | Age: 1.3 hours
-Scanned: 2026-09-15T13:36:27.646413+00:00
-URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmsyN1hoM0dSdDA3YzBXaWJRUlJCVFNjdmJRNnF0NmpHMjRfYmRmaFVqUDVOS2tDX0JlMEZOOUhRMGpxQUZkSzc4OUZuNGVubTlnVkJ1MjFhMHlzVjFsdll0eDgtWGYyY1JzZ1FMQ1FWTWcxVFU0VUhKZmhnQ29tT0hhMWZCeDJHYl9kVW9DOVBTVVJw?oc=5
+## 11. Présentation de Meta One : Un service d’abonnement offrant davantage de fonctionnalités et d’IA pour créer, se connecter et se démarquer
+Source: about.fb.com (primary)
+Published: 2026-09-15T15:25:57+00:00 | Age: 2.8 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/
 
-OpenAI Reportedly Buys Camera Startup Glass Imaging for More Than $300 Million techrepublic.com
+À retenir Nous lançons Meta One, un nouveau service d’abonnement sur nos applications qui offre un usage accru de l’IA et des fonctionnalités d’expression enrichies, ainsi que des outils professionnels pour les créateurs et les entreprises. Les offres Meta One sont déployées progressivement, avec plus de 50 fonctionnalités lancées et 15 millions d’abonnements et d’essais à ce jour. L’expérience principale sur nos app
+
+## 12. GitHub release: anthropics/claude-code v2.1.272
+Source: github.com (primary)
+Published: 2026-09-15T00:42:25+00:00 | Age: 17.5 hours
+Scanned: 2026-09-15T18:14:15.659144+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.272
+
+## What's changed - Bug fixes and reliability improvements
