@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-15T07:54:54.115253+00:00
-Scanned: 2026-09-15T07:54:54.115253+00:00
+Updated: 2026-09-15T13:36:27.649000+00:00
+Scanned: 2026-09-15T13:36:27.649000+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: ApolloRaines/Pythia-1.4B-DNP-500-Facts
-Source: Hugging Face / ApolloRaines (discovery)
-Published: 2026-09-15T07:54:45+00:00 | Age: 0.0 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://huggingface.co/ApolloRaines/Pythia-1.4B-DNP-500-Facts
+## 1. As AI leaders call for slower development, how do companies govern their use of the technology? - | Governance Intelligence
+Source: | Governance Intelligence (discovery)
+Published: 2026-09-15T13:34:05+00:00 | Age: 0.0 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQVJ4NzlXaVNFdTkyLWc2aGx0QUQ0LWFBSUZvLXpyRG5weVliYWtsbW40YkxENXdyOU9QeXVXZWxKV2lXSzZsbEpYMU9vNjZ1N2JnNWxxUkdtUjVrTTdtSTV3T3VNYzJIM2ZmOWprZzFRZVEyNHNhcTNJTGVqZEdBajZub2dmcm5COGxrTTcwYTk1b0EtWU92R1RJZnUxTnRzbURYc0lOXzNOUE9RMWNOSUY4R1J5ZHl1UXpscjRmVUNTOWhGVFZxQQ?oc=5
 
-text-generation; downloads=0; likes=0
+As AI leaders call for slower development, how do companies govern their use of the technology? | Governance Intelligence
 
-## 2. Coal-to-solar project lands a rare clean-energy win in Ohio - Ohio Capital Journal
-Source: Ohio Capital Journal (discovery)
-Published: 2026-09-15T07:53:46+00:00 | Age: 0.0 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHotMTM1aEhLMXZNbUNJc3NhZnVjMWtSTFY2b1ZIYUZORjMzaVhlOWFhWmdlak9WSFB2WEZ5Z2wzV21oam1aQVh6dWlRM25CSTFIdmJIY01STk1hUDJOLXYzb0NQU01QdDhaOTV6V1JaMUczaUdzUllrOEZrQ1RKNHVjc1QtZTJNeXA5UlRnT2x1WTg4ZUc5OUN2SjJwSzdsRUllZw?oc=5
-
-Coal-to-solar project lands a rare clean-energy win in Ohio Ohio Capital Journal
-
-## 3. UC San Diego planner Lawrence Frank: every hour in an electric car raises obesity odds by the same 6% as every hour in a gas one - ScienceBlog.com
-Source: ScienceBlog.com (discovery)
-Published: 2026-09-15T07:52:30+00:00 | Age: 0.0 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbXRmeTJybVFIZFlSMzFyMmx4X2w1bi1PdVVpNjhpNDR5Sm9lYUNFUEZ2M1RLM09leHVPS213OXF3RjRzeDdYU0lMbVo1UDZWLXctemhIU1QtQWdRS1puZjRxVkJERVdEaUZPc3h3bklkb2FCYU9SS25GNzczRXhWYVRIM0p5RTZYNEp4ME5YaW9DSWtlZmkzUkx0cXdjeFdQNTRwTGRaRW9QZjY5UkJMV1ZiYkZtTzM2aTFseU9ad1Jmb0hPQ2xQSkdsSVN6cDJpUlBtc2Z4elBaTEF6eTNkR1IwR2xWaEhQOUE?oc=5
-
-UC San Diego planner Lawrence Frank: every hour in an electric car raises obesity odds by the same 6% as every hour in a gas one ScienceBlog.com
-
-## 4. Claude Fable 5.1 and GPT 6 Astra controlled my Robot Arm. Who painted better?
+## 2. I asked Claude to build an OS from scratch. A few days later it runs on a laptop
 Source: Hacker News (discovery)
-Published: 2026-09-15T07:52:01+00:00 | Age: 0.0 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://www.reddit.com/r/ClaudeAI/s/rfi4npFNSr
+Published: 2026-09-15T13:33:20+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://www.reddit.com/r/ClaudeAI/comments/1wfpydl/i_asked_claude_to_build_an_operating_system_from/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49709175
+Hacker News discussion: https://news.ycombinator.com/item?id=49712305
 
-## 5. WebSockets - OpenAI Developers
-Source: OpenAI Developers (discovery)
-Published: 2026-09-15T07:45:55+00:00 | Age: 0.1 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE5OUWhfZVdwZnlpX2hncnZhelN4cHVHZnQ2ZHp6V1BuRkd0YVFnaE5LX1JZY296ZGFHUlJ3RVJSbU85MVJVSUtyckViYnhOYlRlcE05M05LTTIzc0ZXMG44SXZDcmpPNDByWXE1OGdDNA?oc=5
+## 3. New Zentera Systems Research Reveals Security Leaders’ Struggles to Govern AI Agents - PR Underground
+Source: PR Underground (discovery)
+Published: 2026-09-15T13:33:19+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTzBrV3pKWGFmVjlzSE5pUDk3am1hcG9ROWFDZEZwWG82SkhsOXBiYnMzTkJvRlVrc1F2TlVDZzdZelRSNW9ISmZlODR0bWdSQUc4enJMdHp2MlhQRkkxREZyRDRIX2hwWTZINmhLWkZJcUxBQ080c0w0VXJrWVppQXdOcVZacmplWWw5ODBtczZRcFV4YlByUXN5MTVoZHJ6dUVtc3hkMG1vQ1gybGJRTmRQanpsMUtqeENJZXJoUlhDbEVtcVNyaDZ4ZW4?oc=5
 
-WebSockets OpenAI Developers
+New Zentera Systems Research Reveals Security Leaders’ Struggles to Govern AI Agents PR Underground
 
-## 6. NVIDIA Expands Open-Source CUDA-Q - Open Source For You
-Source: Open Source For You (discovery)
-Published: 2026-09-15T07:45:15+00:00 | Age: 0.2 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE9XZ0lkaEdhc09Mejk3enVIcEJ4R1gxU0Q1Z185YUV5aHNoNUtyMzdhSTVaRVB3OXZIektaOUJiYmxpaThNWTlvU19jTnNRbzBLZWR6WGtMU1E1YXJXWTkwTGJmb182cWxrSnIwX3JsQ2NWbXN0bEhKUkxqdTk2QQ?oc=5
+## 4. ZuckOff Is a Free App That Sees Meta Glasses Before They See You - WIRED Middle East
+Source: WIRED Middle East (discovery)
+Published: 2026-09-15T13:30:15+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVRsN2VtVmFiUHp5ZXlQVmF5SVp2Qmw3QWtwRllHX2lTOC1ramJMQmhaaUQxX2dnbnZfa3pDRHd6c1FRZ2tHYmcwRGZJNGZwMWYxd1B0ZjNjZl9XeVkwRkhGYUsxd08waThlZVRSSE9uZUJjNFJDWlhfWEhTUHdpLW1QMzVodXlXRmczY1VnOVB3ODN1Y3c?oc=5
 
-NVIDIA Expands Open-Source CUDA-Q Open Source For You
+ZuckOff Is a Free App That Sees Meta Glasses Before They See You WIRED Middle East
 
-## 7. Major updates for Apple’s software platforms are now available - Apple
-Source: Apple (discovery)
-Published: 2026-09-15T07:43:16+00:00 | Age: 0.2 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTF5czU2Z3JCblVDX1FFZjhfMUUtTWRBb1huN2pRdUQxZGZ5b3d4OWVSSG5wLXAwXy1ISVZ2ZG1yMVJvTHBuQ0gzMzRvYlRJLXByWFRmNEkzMmZ3MnN6MDhIR3hlRjRjVE5EOTN6dXkyalotckRObFZ1RTlSRVppaTdRTXJiaHdrdzhiTWNUNkNlclhnM3czSWwxWkFZd082bnItQzF0NA?oc=5
+## 5. Salesforce and Nvidia Unveil AI Model Built for Complex Reasoning | Ukraine news - #Mezha - Межа. Новини України.
+Source: Межа. Новини України. (discovery)
+Published: 2026-09-15T13:27:56+00:00 | Age: 0.1 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMiakFVX3lxTFB2bmI0LW1fS09LWDE3elVnMDFfS0l2NlB4VEtGdnFac3d5UW9sQ216bTZOc3ltSExFMC1ycVhELW5pRl9FMTZ0MjlzbURqYXEyUkF2azVvNDFvQ3lHdXlteWdXaXJZZ0pyb2c?oc=5
 
-Major updates for Apple’s software platforms are now available Apple
+Salesforce and Nvidia Unveil AI Model Built for Complex Reasoning | Ukraine news - #Mezha Межа. Новини України.
 
-## 8. Google DeepMind Staffer Says AI May 'Kill Us All' in Exit Post
-Source: Hacker News (discovery)
-Published: 2026-09-15T07:42:50+00:00 | Age: 0.2 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://finance.yahoo.com/technology/ai/articles/google-deepmind-staffer-says-ai-023902174.html
+## 6. Steam Deck 2 future addressed by Valve developers - Indy100 | News
+Source: Indy100 | News (discovery)
+Published: 2026-09-15T13:26:23+00:00 | Age: 0.2 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMidkFVX3lxTE5iNDZHNk9rWDdZaDlVbkE0VWpWSEtjeWdwYlFrenhUcDlPVXNyUV9UVUpwWXN1RzRidlZqZ3NKNksza1ExUEpJc3ZuVGNfOEZqM1NvbmFiWnBTVE80bnhFSWNJNmRscExpWTRrTGtIeFpPa18zc2c?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49709109
+Steam Deck 2 future addressed by Valve developers Indy100 | News
 
-## 9. Coupang Establishes Information Security Advisory Committee Following Record $460 Million Data Breach Fine - streamlinefeed.co.ke
-Source: streamlinefeed.co.ke (discovery)
-Published: 2026-09-15T07:37:02+00:00 | Age: 0.3 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQa1ppOG1MWFZsVkNOcUxSN3MzbklVel9SNzhQVTNUWWFjaDdzUnF3QmJMQ1dHeVNVRHFDRW5SeHI0RVFEanBVVHBmby1xemtEWmFOOWVOejNneDZhWllRMW40U1ZaSWhmS2QwSVRKR3EzRktHa0QwaHh6RlFrbjU3cWN3ejlmMExFYkRsQkI2QmlwOFBIRmVJbF9CRXktdkhhanlqRHM4OUt3cU1wVnRSQlZpU19JRk1MMkxqT20zUUs0OHp2Y3pzckRLcGhfMkN6QTR0VWJ3?oc=5
+## 7. Keysight to Showcase Semiconductor Test Solutions Across the Development Lifecycle at SEMICON India 2026 - CXOToday.com
+Source: CXOToday.com (discovery)
+Published: 2026-09-15T13:23:01+00:00 | Age: 0.2 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdmdEUmFOUDAwOUcyR3lyVFZPR0RBTU5CMkhkcVRtN3k0T0JTQk5pd3czMHNCNG9oZjBUVzVhUlBPUUFrSFdyb0o3Qng0SGUza0tPSlllTmNBUWpPTkg0WEpwZXhPTU0zWDZlbktpc0h4N1h5MGpXZmktTDJiRVd2YVFtWVVWVF96dnVlb2lyVEZ6M0JWTVZzMnQyUGsyVVlybWFCQzZISmdORm81bV9zNmd5SExaX0VFVXZLS29ka0NiS1E4bVlBYVRKZFB2emd6QzRWVmluLUg?oc=5
 
-Coupang Establishes Information Security Advisory Committee Following Record $460 Million Data Breach Fine streamlinefeed.co.ke
+Keysight to Showcase Semiconductor Test Solutions Across the Development Lifecycle at SEMICON India 2026 CXOToday.com
 
-## 10. Apple rolls out iOS 27 with Siri AI and new child safety features; macOS 27, watchOS 27, visionOS 27 and tvOS 27 released - FoneArena.com
-Source: FoneArena.com (discovery)
-Published: 2026-09-15T07:36:56+00:00 | Age: 0.3 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPSll5SXk2aHltdVo0c2xpOW1MRWdwNFUxSW1WY0Qzb2V1WTJQUlVtTWRxY3Z0QWlqd3VLSVo4X2Z4OE82dzZIbFRBUkFKT19hZTRrdXpFUW9ZeXUyUWZqeGN2UmZ2OTEzNzdFekQ4a2pzV040UzJ3Y28yaElqUndFbFJuc2F6c1FfSnJqeGltODBRc25kRXZkUGZjR3hlNVBIazlDeTVUSdIBrAFBVV95cUxNS283WExaR2E4c2d4M21nNGozc2ttMzdkcDFyR3NDaW1BSWNsNHpvTTlfQlR4V29OYlVnbmF2Y19GcDlMcW5QX1NaWDJidmxfem9wc05WcDlQUENtSG9tZUVnNWFGLWVkSTkzSUNXcXJrU2lVMTlYdUhhWVZXV2Zra01GS0xwZXFQdy1PWi1uT0tnY29rd0ZqeXdsTTljaEh4SkM3c213RDA4MWNk?oc=5
+## 8. M4 iPad Air Sees a Quiet Price Drop on Amazon, a Hidden Deal Behind the iPhone 18 Pro Launch - Kotaku
+Source: Kotaku (discovery)
+Published: 2026-09-15T13:15:49+00:00 | Age: 0.3 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHVCWkR0WXJOdkRLVE5pRktSWGZDaV93OHVQcC1uWXNTamEtVTNDYW1LVm5GeGdTSXRvZlBoakM0elo4bW1qR1M4TTJYSllCenlyQ25HS1R5eEZjOE5zNGNyWGc4Q2czdWN2c3hnbWw5d0VtVWs4S19XNjJNTlpoQWluX2RjU1BKbm1weEN5QnJOeldYN00xMld6T2tGaUMybGtXVzBaUW9VY0YzRXhCcFRZdFM3dlpOQ0E4RFpn?oc=5
 
-Apple rolls out iOS 27 with Siri AI and new child safety features; macOS 27, watchOS 27, visionOS 27 and tvOS 27 released FoneArena.com
+M4 iPad Air Sees a Quiet Price Drop on Amazon, a Hidden Deal Behind the iPhone 18 Pro Launch Kotaku
 
-## 11. Exein, A Startup from Rome, Raises $270 Million and Becomes a Physical AI Unicorn - trendingtopics.eu
-Source: trendingtopics.eu (discovery)
-Published: 2026-09-15T07:25:47+00:00 | Age: 0.5 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzQwSlZMVkJCU042b0xjNFpnVTZVZXM1QThRSEo1YWdPaWpTVmFfdmZ6TFhCMlc4T3ZnTlI2elJGckRMMHBnOWJPZFIwQy1YeHBJQW9wME9ycmlGLU80bGtLNUZtckF6dkxUaW5hR1BTb05fXzVZTEtEN0xLOVQ3ckt4Qy16UXF3RGZMVW5Cb1FwZnQ1RXk0dHZ5cXJZYjIzTklnUnBEZG95RGp5blE?oc=5
+## 9. Which new Apple products will launch this year – and which won’t? - 9to5Mac
+Source: 9to5Mac (discovery)
+Published: 2026-09-15T13:01:00+00:00 | Age: 0.6 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlVFcmprcHBMVnZoOTUySlkyUmtFOFJmbFFfQnhtdjdfREhfakR0NFRuTjBlbllqSnVwSVM3OGhPeVdteVI1SzFBcFZpbjIxTVYxLTRhRWUxZTIxWEJlcGlodDJLOWFmbExfd05nZHlLNnA0cmtEVDUyaS1Ea1Q1MnZWeUdhYlBQd3ZhOWZUeXZpNzRSWXFUMw?oc=5
 
-Exein, A Startup from Rome, Raises $270 Million and Becomes a Physical AI Unicorn trendingtopics.eu
+Which new Apple products will launch this year – and which won’t? 9to5Mac
 
-## 12. Index Ventures leads €20M into Berlin’s Nomos to power Europe’s invisible utility layer - Tech Funding News
-Source: Tech Funding News (discovery)
-Published: 2026-09-15T07:02:06+00:00 | Age: 0.9 hours
-Scanned: 2026-09-15T07:54:54.112508+00:00
-URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxPNXY1aDhQMHNsME0zNXl2anNySkpvNWp5VzR5cXBhV1FZbUEwM1ZmVHdaQWFRSExXWENNMHRNcE00STRieGpvRnhKRkpidmZpXzNvcW1sZ3FHS3hxazYzVndBTHBZS1NlQWtnRG1HSkk0UnNzRFJoNXFMWkxSeklfS3hMN0VLb00?oc=5
+## 10. Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents
+Source: techcrunch.com (reputable)
+Published: 2026-09-15T13:00:00+00:00 | Age: 0.6 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/
 
-Index Ventures leads €20M into Berlin’s Nomos to power Europe’s invisible utility layer Tech Funding News
+Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.
+
+## 11. Funding grants for new research into AI and teen development - OpenAI
+Source: OpenAI (discovery)
+Published: 2026-09-15T12:19:01+00:00 | Age: 1.3 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMic0FVX3lxTE52TkhYUFNHRXc4cEFtc1NHeFNMV3NDaWoxTFhSaWdqQXFsNk9tZFBjU3NPbndPZnJfX2lNdldSUHlvSzRUV2J3djQzOENoUGwwbGZDS3NOQVNDamhMVl9oVjc2YUp4TDl5WkdLZkEzamp2Qms?oc=5
+
+Funding grants for new research into AI and teen development OpenAI
+
+## 12. OpenAI Reportedly Buys Camera Startup Glass Imaging for More Than $300 Million - techrepublic.com
+Source: techrepublic.com (discovery)
+Published: 2026-09-15T12:18:59+00:00 | Age: 1.3 hours
+Scanned: 2026-09-15T13:36:27.646413+00:00
+URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQRmsyN1hoM0dSdDA3YzBXaWJRUlJCVFNjdmJRNnF0NmpHMjRfYmRmaFVqUDVOS2tDX0JlMEZOOUhRMGpxQUZkSzc4OUZuNGVubTlnVkJ1MjFhMHlzVjFsdll0eDgtWGYyY1JzZ1FMQ1FWTWcxVFU0VUhKZmhnQ29tT0hhMWZCeDJHYl9kVW9DOVBTVVJw?oc=5
+
+OpenAI Reportedly Buys Camera Startup Glass Imaging for More Than $300 Million techrepublic.com
