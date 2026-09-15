@@ -227,6 +227,8 @@ class VerifiedBriefBuilder:
             "scanned_at": now.isoformat(),
             "max_age_hours": self.max_age_hours,
             "items": selected,
+            # Keep this as a strict-source metric for monitoring, even though
+            # the inbox may now retain timestamped discovery stories too.
             "ready_count": sum(1 for item in briefs if item["eligible"] and item["source_level"] != "discovery"),
             "source_counts": {
                 level: sum(1 for item in briefs if item["source_level"] == level)
@@ -380,7 +382,7 @@ class VerifiedBriefBuilder:
             return "OpenAI web research supplied this direct link; open it before posting an exact claim."
         if source_level == "reputable":
             return "Good discovery source; prefer an official announcement before making a strong claim."
-        return "Discovery only; verify the claim with an official or reputable source before posting."
+        return "Source-linked discovery; keep exact claims tied to the URL and label it as reported, not official."
 
     def _clean(self, value: str) -> str:
         return " ".join(re.sub(r"<[^>]+>", " ", unescape(value)).split())

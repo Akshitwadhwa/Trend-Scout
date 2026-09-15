@@ -457,7 +457,7 @@ class Workflow:
         ready_urls = {
             str(item.get("source_url", ""))
             for item in verified_brief.get("items", [])
-            if item.get("eligible") and item.get("source_level") in {"primary", "web_researched", "reputable"}
+            if item.get("eligible")
         }
         return [item for item in discovered if item.get("url") in ready_urls]
 

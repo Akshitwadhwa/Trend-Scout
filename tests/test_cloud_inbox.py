@@ -31,7 +31,7 @@ def story(title, published_at, *, level="primary", url=None):
     }
 
 
-def test_cloud_reader_filters_old_undated_unverified_and_delivered(monkeypatch):
+def test_cloud_reader_keeps_fresh_linked_discovery_stories(monkeypatch):
     now = datetime.now(timezone.utc)
     payload = {
         "updated_at": now.isoformat(),
@@ -40,7 +40,7 @@ def test_cloud_reader_filters_old_undated_unverified_and_delivered(monkeypatch):
             story("Fresh release", (now - timedelta(hours=2)).isoformat()),
             story("Old release", (now - timedelta(hours=13)).isoformat()),
             story("Undated release", ""),
-            story("Unverified release", now.isoformat(), level="discovery"),
+            story("Discovery release", now.isoformat(), level="discovery"),
         ],
     }
     monkeypatch.setattr(
@@ -53,10 +53,10 @@ def test_cloud_reader_filters_old_undated_unverified_and_delivered(monkeypatch):
         delivered_keys={CloudInboxReader.source_key(payload["items"][0]["source_url"], "Fresh release")},
     )
 
-    assert result["items"] == []
+    assert [item["title"] for item in result["items"]] == ["Discovery release"]
     assert result["rejected"]["old"] == 1
     assert result["rejected"]["missing_date"] == 1
-    assert result["rejected"]["unverified"] == 1
+    assert result["rejected"]["unverified"] == 0
     assert result["rejected"]["delivered"] == 1
 
 

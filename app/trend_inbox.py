@@ -7,11 +7,14 @@ from pathlib import Path
 from typing import Any
 
 
-POST_READY_LEVELS = {"primary", "reputable", "web_researched"}
+# Keep source-linked discovery stories too. The Telegram-facing workflow now
+# distinguishes their source level in the output instead of withholding them
+# completely; a real timestamp and source URL are still mandatory.
+POST_READY_LEVELS = {"primary", "reputable", "web_researched", "discovery"}
 
 
 class TrendInbox:
-    """A small local memory of distinct, source-backed tech stories."""
+    """A small local memory of distinct, source-linked tech stories."""
 
     def __init__(self, path: Path, retention_hours: int = 12) -> None:
         self.path = path

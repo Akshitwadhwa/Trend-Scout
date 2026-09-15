@@ -9,7 +9,10 @@ import requests
 from app.config import Settings
 
 
-POST_READY_LEVELS = {"primary", "reputable", "web_researched"}
+# Discovery sources may be drafted when they are timestamped and linked. The
+# caller can see their source_level and should avoid treating them as official
+# announcements without opening the linked source.
+POST_READY_LEVELS = {"primary", "reputable", "web_researched", "discovery"}
 
 
 class CloudInboxReader:
