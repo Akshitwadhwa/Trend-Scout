@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-16T11:41:07.340525+00:00
-Scanned: 2026-09-16T11:41:07.340525+00:00
+Updated: 2026-09-16T17:01:37.925163+00:00
+Scanned: 2026-09-16T17:01:37.925163+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: Vxtzq/Crowd-v1
-Source: Hugging Face / Vxtzq (discovery)
-Published: 2026-09-16T11:41:03+00:00 | Age: 0.0 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://huggingface.co/Vxtzq/Crowd-v1
+## 1. Your AI agents can now control your Google Home devices
+Source: techcrunch.com (reputable)
+Published: 2026-09-16T17:00:00+00:00 | Age: 0.0 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/
 
-text-generation; downloads=15159; likes=7
+Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.
 
-## 2. Hugging Face model update: fpadovani/arb-arab-100mb-ppt-Dp-100mb_seed10
-Source: Hugging Face / fpadovani (discovery)
-Published: 2026-09-16T11:41:03+00:00 | Age: 0.0 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://huggingface.co/fpadovani/arb-arab-100mb-ppt-Dp-100mb_seed10
-
-text-generation; downloads=0; likes=0
-
-## 3. BYD Unveils ETT 44 Electric Truck With 1.5 Megawatt Charging - techjuice.pk
-Source: techjuice.pk (discovery)
-Published: 2026-09-16T11:35:20+00:00 | Age: 0.1 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxQVXdybWtTbGE0dTNuQTRPWlJvTHVFaXFrQzY2Tk1kWmQwUHk3emJVSFNMSFB4cUNkYTVKWXcwQmtOU1JEaGVXN2VZM1JObkFndFFnNnhaNEpnZVJOVlJlZ2d2bXVmZ1RYa2wtWGZERUxFc1dMdXo0OS1tUXVfNFUzTDdR?oc=5
-
-BYD Unveils ETT 44 Electric Truck With 1.5 Megawatt Charging techjuice.pk
-
-## 4. Telangana CM Revanth Reddy invites Singapore firms to invest in semiconductor sector - The News Mill
-Source: The News Mill (discovery)
-Published: 2026-09-16T11:27:25+00:00 | Age: 0.2 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkM5YkU5YW1xWFM5T1UzZGlJbWRlMi1iMEQtRmJ1aWJheU02Mzd3LUtva3ExS3BDbVNxWjNYcnY3cldsajV2cUVhRXZTX2pJRVJWTUhfR0F4eGRmVFppQ0Z4SWdnV19Yc25mVXNkeWNIb0dyNG1VRFR5T3poRDNpZ2FIN2pzRk5fOXlYMmc5Q3BUYWk5MVlLWUs2QmdmYjR2ak1EYVM2cWVVZTZQcXNaM1huTGNHVFdH?oc=5
-
-Telangana CM Revanth Reddy invites Singapore firms to invest in semiconductor sector The News Mill
-
-## 5. OX Security Unveils CNAPP Platform Paired With AI Agent Runtime Defense - Unite.AI
-Source: Unite.AI (discovery)
-Published: 2026-09-16T11:24:02+00:00 | Age: 0.3 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxObXJqV2JLQjgwM1MzcXNTME9fQU9DbW9ST1Q1YUFkUk1YU0w1aDlWM0RDbmVVc2Vhc1ZHR2N2WVhmZzUzVDhMT1hPUTl5SXdPRVdRMFoyMktfTWp3b0k4WU5wT2FvVHJnNWVwYWNYQVNFdTJzOHZIaENtaU1RWVREdFF5MVhDQjhiY2NMMFRtMHNqMWJOLXo4Qw?oc=5
-
-OX Security Unveils CNAPP Platform Paired With AI Agent Runtime Defense Unite.AI
-
-## 6. AMD Elliott Wave: Tracking a Complex Wave 4 Pullback - Investing.com
-Source: Investing.com (discovery)
-Published: 2026-09-16T11:23:36+00:00 | Age: 0.3 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2lFYjBBc2ZVSFVXTE5HRnVUWTlCdE5lSjdYNXN5TVE2TUY3S2VOWU5hMmx1SDMzY2NrT1ZfeERJUXBuTkxtalZiSXhJcWxxOTBuQ3pWd3hVU0F5R3VBV1dIYmFDLXFvcVF1V3FrR1QtZlZPZDdXc2d6YV94ckctTktmRjhFZ0RwcEVadDFRMVFiYWpZejZ3Tm9lOE0?oc=5
-
-AMD Elliott Wave: Tracking a Complex Wave 4 Pullback Investing.com
-
-## 7. The Google Play app review process now regularly takes longer than a week
+## 2. OSRS Wiki and RuneLite are under strain from low-effort AI development
 Source: Hacker News (discovery)
-Published: 2026-09-16T11:19:11+00:00 | Age: 0.4 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://gultsch.social/@daniel/117280438824908947
+Published: 2026-09-16T16:58:50+00:00 | Age: 0.0 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49724927
+Hacker News discussion: https://news.ycombinator.com/item?id=49729823
 
-## 8. iPhone 18 Pro Max vs iPhone 15 Pro Max: potential three-year upgrade compared - AppleInsider
-Source: AppleInsider (discovery)
-Published: 2026-09-16T11:15:00+00:00 | Age: 0.4 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxQeE9xMjZSNXpkbDN2VnhwWFJyYzhkWUpMQk5VZmVUN1ZmUEJERTZ5c0dyZG5OWF81UG5vSlZxTlZQSzl6Vm1UZkI2MDgxaHJOYmNMaEwtRGI4eUNINGZHbkhyMjIxZ00wWWw4WFlIZDY5RHNtWW5JRC1tdldNaW5kVDRsb256ZklLUTA3NUNrT0o0LTFkcHpXMWo5M0pHaHVuX3h0dThVbGMzUFlWNTF3SQ?oc=5
+## 3. Salesforce Built Its Own Model on NVIDIA’s Open Weights. It Keeps the Weights - H2S Media
+Source: H2S Media (discovery)
+Published: 2026-09-16T16:55:11+00:00 | Age: 0.1 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxNWERMZHo5aERHREd0eDBGUjBGU0NzVjViYWRhdWZOS1o1Y0g0TzQzeEVjMnlmWHdxM01UdWxjUjN1bVRwTWk1bV9ReXJmMWRQUGQ1bFo5eTB2VlhhbWwzakF0NGpIU1JVbktNd0NZbGdZSnprMnV3blllWXl2TUJ3Xw?oc=5
 
-iPhone 18 Pro Max vs iPhone 15 Pro Max: potential three-year upgrade compared AppleInsider
+Salesforce Built Its Own Model on NVIDIA’s Open Weights. It Keeps the Weights H2S Media
 
-## 9. Samsung India launches 2026 Bespoke AI appliances - t2ONLINE
-Source: t2ONLINE (discovery)
-Published: 2026-09-16T11:14:00+00:00 | Age: 0.5 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0pjNkJMeFJXT3hWV2plTGtqSGZDMTlUZnNneExNRy1yN3lGbFI0QnZwd1BuSENrdEdaaS11T3JUT1MtV19vdHNaUFctUVQxdjVGVExfa29oQ3V6NXB6MVd6SDRvTDhkaWQzV2xpdU1vZHNMOUhTTGZNVGJpSjJicTdMRkVtOGoxRTNWTWlkR2JMZ2FFVzlR?oc=5
+## 4. Apple explores AI server comeback, considers Nvidia's NVLink technology - Livemint
+Source: Livemint (discovery)
+Published: 2026-09-16T16:54:45+00:00 | Age: 0.1 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaW9QVmlZeVdqNzNCemtabktDSElwZVpFMDVDMTFmZU05TUc1TUFJa044TUQ4Sk4wcWRSUG1hd212c3czcU9LX0ljTGdnS0xWUnFNdFY4SHhmbXBGdV9DZ1hHMFZ3d1FINjhWXy05Y2E1X0hDYzBqRjIxX2VzQkpXMFJ6Rkd3WWVGTzB5V1BXVGt2UTVVLXpDNUdsQzJSblNBRG9rRXJSQV9FY2tPY0pETUR6dklJZUVoOE5qZGR4UjJlbWPSAcgBQVVfeXFMTmVnbU91eVh0b0hscXVIelJ0TU5NLXV1ZDZ6ZkhKWU03anZac2ZySGoyWnNDX3ZuOWduLU1tN2xkMnJZdTZRRTRLS20wTnkzZHJhajctWUh5QkcxN2trd2h1VnduSFhfOTk0TFA3NEtROVV6U1RiX1FOR0R0QXJyNlhoM2dxSXhVVUNSazhzdlZSaDB5X1JDZEoyVlJFSjRNLThxcnNiNXR4LTFLV1U5UnluTUhoakM5ZUdzRzFlZi1kNWZVZFNEOUk?oc=5
 
-Samsung India launches 2026 Bespoke AI appliances t2ONLINE
+Apple explores AI server comeback, considers Nvidia's NVLink technology Livemint
 
-## 10. Delegation and tools in GPT-Live - OpenAI Developers
-Source: OpenAI Developers (discovery)
-Published: 2026-09-16T10:43:39+00:00 | Age: 1.0 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMibkFVX3lxTE56dnFsdHk0NkZYdXlNRGd0dFNhSXlYeVBkb3Z6cmp1MUpQSGZGWC1DMFhaMFU3WlhnRnozdHg3cUw3cUNSOHJ1dDBzankwMjlWY040Zi1wUEljVEtFUnpjTEdBMTlvZ2ZJVEg0Vldn?oc=5
+## 5. House Subcommittee on Health Examines Healthcare Cybersecurity Proposals - The HIPAA Journal
+Source: The HIPAA Journal (discovery)
+Published: 2026-09-16T16:54:13+00:00 | Age: 0.1 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVJqX2U0dlB3ZloyNGMwZGJPazRSdXUxN2hhcGU0UE5NcFJKcFl3YTVoQmtsN2NUc1dVNnhTOEZlSm1SU1dLUmdVNVhDTXVVaEtPQTFYSVZ1VWloRGRTUHh3YWx5OW5qZFJNM3otMzRyT2N3LW9rNWRfYTV4QWJ2SEIyWXpWdmNlM05NVEx1MmRxM3dUV25lY3RYb2pqWS0z?oc=5
 
-Delegation and tools in GPT-Live OpenAI Developers
+House Subcommittee on Health Examines Healthcare Cybersecurity Proposals The HIPAA Journal
 
-## 11. Claude vs ChatGPT: Which AI Is Better for Writing, Coding, Research, Speed, Cost and Everyday Use in 2026? - sundayguardianlive.com
-Source: sundayguardianlive.com (discovery)
-Published: 2026-09-16T10:33:39+00:00 | Age: 1.1 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRHZFeEhCMS1ERzVTODJ6UzMwb3pBY0N0bEYtd1RaYWh3NkZPcllJX2M4TktyVmxFQ2VQeHlRVWJHbWdkQUxTazRUam5zaHdZa3UzWU92OWRObzE2VnF5aEJIYjZhNGJHcE1DSlFwcFZESmNYcG5Ddkl3aHR0WlRLMG1PdWFGR2xnZGczY2E5WHJoTHJwamVabjk0QkZDY00yQlNRXy15OHBia25VbDVsOW84MUcybzAzaC11TGdmS2JBSjZEdVc4RmZEMFI4czBEdFEtM3c0OXpOWkZQZllxMFdxZlHSAeoBQVVfeXFMTjR6SEZYQ3lQbVUzdUd5aFZEeElmVzZ4TDJLRnktbTFQSGNHTHo3ZEc3N18yZTZVS3lmQ09YemtrRVJCbmdWX0dkWV9NTDU5V3l3cWpSUkpXaUdRMW1UelNRYWxqenBoeExhVll1b0JtOFQwRnFvb2k1Z2xzSnBIb015c0FiQXNVOVNna0ZCcWFTZUtySnRsMThnbmpqMWd1Vzdvc1R0S2NRSVlYbHNyeml4Z3E2RmZDMTJSUlpTc24tN1B4ckZoN0FLempldTFjWnA3M25hNVRUelR0eTVSY1Z3VUlxTWZ2dG5n?oc=5
+## 6. Apple’s 2026 Studio Display XDR drops back to Amazon all-time low at $330 off - 9to5Toys
+Source: 9to5Toys (discovery)
+Published: 2026-09-16T16:52:00+00:00 | Age: 0.2 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMifkFVX3lxTFAzbXp6REF0VFdHNkl1UkZ6ZThRTzhZWm1vb2M5MFlUcHA3Z2pnRW5qOWt0eDR2ZFRiZGMtb3JoX0QybTEwbU5KYTlXYlA2YlkwRm5FLXR6MHVkWGhFNDU2REhuV1BfVkRiV0VyaXg3UExwNEVjdEVpdGJDSVF5UQ?oc=5
 
-Claude vs ChatGPT: Which AI Is Better for Writing, Coding, Research, Speed, Cost and Everyday Use in 2026? sundayguardianlive.com
+Apple’s 2026 Studio Display XDR drops back to Amazon all-time low at $330 off 9to5Toys
 
-## 12. ‘Killer AI’ debate: Altman admits public fears as tech giants seek regulation; Trump, Congress show no rush - Mathrubhumi English
-Source: Mathrubhumi English (discovery)
-Published: 2026-09-16T01:34:35+00:00 | Age: 10.1 hours
-Scanned: 2026-09-16T11:41:07.337967+00:00
-URL: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOajI2ZTFKYWxORHNYenFhZnhWRzBCQXFlNXU3XzNrUDlxRjlnLVcydDQtUDNLT3lGQnAzTmoxdVdmQmV0LU1QS0I0ZWRXY0d6MUZjaVRQNkJfbHdyMVR1QkhtVDEtWFh3Skc2VWZWV1Q3dzVtR01GZ3V3Y3Z3YkMtZDhYRW11WlJWX1ZqdWllaU1qNkxsMkZmcjRQaHdUWFZoblV1aVlMYnhmM1BtOHZ4S25KMl84V0JvLUNfR2pRMmpHZjFVNzZpZG0wMC1LMHJuNmp1MVF1SU1xam9DQ0ZPZG1US0pmWXJCdmY1WHp3ONIB7wFBVV95cUxOajI2ZTFKYWxORHNYenFhZnhWRzBCQXFlNXU3XzNrUDlxRjlnLVcydDQtUDNLT3lGQnAzTmoxdVdmQmV0LU1QS0I0ZWRXY0d6MUZjaVRQNkJfbHdyMVR1QkhtVDEtWFh3Skc2VWZWV1Q3dzVtR01GZ3V3Y3Z3YkMtZDhYRW11WlJWX1ZqdWllaU1qNkxsMkZmcjRQaHdUWFZoblV1aVlMYnhmM1BtOHZ4S25KMl84V0JvLUNfR2pRMmpHZjFVNzZpZG0wMC1LMHJuNmp1MVF1SU1xam9DQ0ZPZG1US0pmWXJCdmY1WHp3OA?oc=5
+## 7. How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules - IEEE Spectrum
+Source: IEEE Spectrum (discovery)
+Published: 2026-09-16T16:51:23+00:00 | Age: 0.2 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5
 
-‘Killer AI’ debate: Altman admits public fears as tech giants seek regulation; Trump, Congress show no rush Mathrubhumi English
+How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules IEEE Spectrum
+
+## 8. Fujifilm announces Rs. 800 Crore Greenfield Semiconductor Materials Facility in India - FoneArena.com
+Source: FoneArena.com (discovery)
+Published: 2026-09-16T16:40:16+00:00 | Age: 0.4 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxPNXFZZklRdzRfZ0NjVGZyNWlKeGgxN2VRLWVnVzhUZnJhOUpuREYzZmtaYXVJSVNRa09XMzBabEdfOXB6UXFXTE55ODRLRkduTmZ2MEJ6ZmVlblQ2bXA1M0VocF9kTGdmRHRTcWtIYTl0ZVpKc0RtdlJRWFRkSS1YY0NTWVFhOXRWRVBRZFE1dkZPZVk2aTFv0gGcAUFVX3lxTE5TWVNXdUtHWUhZTTY5X0dfdWxPLXcyMFFDRXdSVm1rYzJkWEhrbTNxVWI4SlotajBrRWxqaVV2MGdSQ2ZHc0hMUU1oeGh1cDlSQ0JwRzdaVFREZ1BGQmpZYzRLWFVJdlF5VVhfWXltSkhPU1lBQklyYVVONVBxYU1IQkFfdF85eFMzZGJ4eFJkdERyaTY1b24xcTJNTw?oc=5
+
+Fujifilm announces Rs. 800 Crore Greenfield Semiconductor Materials Facility in India FoneArena.com
+
+## 9. Pro 20x account became unusable after upgrade — severe model degradation and persistent “Selected model is at capacity” errors - OpenAI Developer Community
+Source: OpenAI Developer Community (discovery)
+Published: 2026-09-16T16:05:53+00:00 | Age: 0.9 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMi9wFBVV95cUxOa1p1bmtseDhJTVp5VnF5UzE5eFNwaVhTNTJ1OWxOVVNPVEtNS1RaRHpDQldYcXMycjRkcHFmZVlWTlhFSU4zVUZETW9SMG5ZRERweC1TNGd0UWdVeW5YODhJdG11ZzRzTHBSVndmQmFwZFZldnhGSUhwTzdaZG03ZUJaNk5PenlNYlhpMWQxQTRHWDNpZU5Yd040S1RsZDU5aUVMcVdXSGxOWjFjRWtFYjVGQ19lWjdqd2pCTXBHd3otZDFva2gyR05fN0RtLUpEMFR3MzJMTDladmZVR1hLUEU0X2U3U2pxMjZwOVpIdTFacU02RjlB?oc=5
+
+Pro 20x account became unusable after upgrade — severe model degradation and persistent “Selected model is at capacity” errors OpenAI Developer Community
+
+## 10. ‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment - The Guardian
+Source: The Guardian (discovery)
+Published: 2026-09-16T16:05:00+00:00 | Age: 0.9 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxQNU1BamVFcVJGTnR0OVk4MV9sTFFaYUZRV2lDdjJJSm5fWTVtT0JodnVSWHA1Y3ZwYWFNUVBSVjJZSlg0bl9yVnFxZmJIS2FCajIzenctdWY3TTZnSGhCWlhJOXRGd3ViMjQ0UjJNdkJJQ25TQ1dEdXRMQTVVSTJuY2hGTUpTNWt3ejBPdHBHOTA3WHNkdklCb215TlloZkhUdFNB?oc=5
+
+‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment The Guardian
+
+## 11. Google Completes US$1.5bn deal for AI Startup Mechanize - Business Chief
+Source: Business Chief (discovery)
+Published: 2026-09-16T15:31:55+00:00 | Age: 1.5 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVVyYW9DZEtYak9Vc3gxckFSMU90b2ZjclVScmpGeHB2UVZlcmI2V3JpWU8zNEhmMW45YldVRVZnSFBXLVlkaERKLWJHelpNTFlOVk5xek9NLWNua1ZXUnZwdDJmclBXd3g3WEU3cl9UUkU2RDU2RnpxM1NPMkRlbmZZU29xcnQ4WU12TWk0dw?oc=5
+
+Google Completes US$1.5bn deal for AI Startup Mechanize Business Chief
+
+## 12. Why Thrive, Founders Fund, and Antonio Gracias are betting on hearing aids
+Source: techcrunch.com (reputable)
+Published: 2026-09-16T15:30:43+00:00 | Age: 1.5 hours
+Scanned: 2026-09-16T17:01:37.923224+00:00
+URL: https://techcrunch.com/podcast/why-thrive-founders-fund-and-antonio-gracias-are-betting-on-hearing-aids/
+
+“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]
