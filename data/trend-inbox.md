@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-16T17:01:37.925163+00:00
-Scanned: 2026-09-16T17:01:37.925163+00:00
+Updated: 2026-09-16T20:10:15.296517+00:00
+Scanned: 2026-09-16T20:10:15.296517+00:00
 Memory window: 72 hours
 
-## 1. Your AI agents can now control your Google Home devices
-Source: techcrunch.com (reputable)
-Published: 2026-09-16T17:00:00+00:00 | Age: 0.0 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/
-
-Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.
-
-## 2. OSRS Wiki and RuneLite are under strain from low-effort AI development
+## 1. Show HN: A wall where only AI agents can write, one Oulipo rule a day
 Source: Hacker News (discovery)
-Published: 2026-09-16T16:58:50+00:00 | Age: 0.0 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development
+Published: 2026-09-16T20:09:34+00:00 | Age: 0.0 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://agent.milotche.com/en/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49729823
+Hacker News discussion: https://news.ycombinator.com/item?id=49732271
 
-## 3. Salesforce Built Its Own Model on NVIDIA’s Open Weights. It Keeps the Weights - H2S Media
-Source: H2S Media (discovery)
-Published: 2026-09-16T16:55:11+00:00 | Age: 0.1 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxNWERMZHo5aERHREd0eDBGUjBGU0NzVjViYWRhdWZOS1o1Y0g0TzQzeEVjMnlmWHdxM01UdWxjUjN1bVRwTWk1bV9ReXJmMWRQUGQ1bFo5eTB2VlhhbWwzakF0NGpIU1JVbktNd0NZbGdZSnprMnV3blllWXl2TUJ3Xw?oc=5
+## 2. Hugging Face model update: spst01/Qwen3.8-27B-Sukshma
+Source: Hugging Face / spst01 (discovery)
+Published: 2026-09-16T20:09:22+00:00 | Age: 0.0 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://huggingface.co/spst01/Qwen3.8-27B-Sukshma
 
-Salesforce Built Its Own Model on NVIDIA’s Open Weights. It Keeps the Weights H2S Media
+text-generation; downloads=0; likes=1
 
-## 4. Apple explores AI server comeback, considers Nvidia's NVLink technology - Livemint
-Source: Livemint (discovery)
-Published: 2026-09-16T16:54:45+00:00 | Age: 0.1 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaW9QVmlZeVdqNzNCemtabktDSElwZVpFMDVDMTFmZU05TUc1TUFJa044TUQ4Sk4wcWRSUG1hd212c3czcU9LX0ljTGdnS0xWUnFNdFY4SHhmbXBGdV9DZ1hHMFZ3d1FINjhWXy05Y2E1X0hDYzBqRjIxX2VzQkpXMFJ6Rkd3WWVGTzB5V1BXVGt2UTVVLXpDNUdsQzJSblNBRG9rRXJSQV9FY2tPY0pETUR6dklJZUVoOE5qZGR4UjJlbWPSAcgBQVVfeXFMTmVnbU91eVh0b0hscXVIelJ0TU5NLXV1ZDZ6ZkhKWU03anZac2ZySGoyWnNDX3ZuOWduLU1tN2xkMnJZdTZRRTRLS20wTnkzZHJhajctWUh5QkcxN2trd2h1VnduSFhfOTk0TFA3NEtROVV6U1RiX1FOR0R0QXJyNlhoM2dxSXhVVUNSazhzdlZSaDB5X1JDZEoyVlJFSjRNLThxcnNiNXR4LTFLV1U5UnluTUhoakM5ZUdzRzFlZi1kNWZVZFNEOUk?oc=5
+## 3. Hugging Face model update: matfyzacek/Llama-3.1-8B-Q8_0-GGUF
+Source: Hugging Face / matfyzacek (discovery)
+Published: 2026-09-16T20:08:17+00:00 | Age: 0.0 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://huggingface.co/matfyzacek/Llama-3.1-8B-Q8_0-GGUF
 
-Apple explores AI server comeback, considers Nvidia's NVLink technology Livemint
+text-generation; downloads=0; likes=0
 
-## 5. House Subcommittee on Health Examines Healthcare Cybersecurity Proposals - The HIPAA Journal
-Source: The HIPAA Journal (discovery)
-Published: 2026-09-16T16:54:13+00:00 | Age: 0.1 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVJqX2U0dlB3ZloyNGMwZGJPazRSdXUxN2hhcGU0UE5NcFJKcFl3YTVoQmtsN2NUc1dVNnhTOEZlSm1SU1dLUmdVNVhDTXVVaEtPQTFYSVZ1VWloRGRTUHh3YWx5OW5qZFJNM3otMzRyT2N3LW9rNWRfYTV4QWJ2SEIyWXpWdmNlM05NVEx1MmRxM3dUV25lY3RYb2pqWS0z?oc=5
+## 4. MCP server that gives any agent a sandbox, browser and GitHub access
+Source: Hacker News (discovery)
+Published: 2026-09-16T20:07:18+00:00 | Age: 0.0 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://upstash.com/blog/turn-any-agent-into-a-code-factory-with-an-mcp
 
-House Subcommittee on Health Examines Healthcare Cybersecurity Proposals The HIPAA Journal
+Hacker News discussion: https://news.ycombinator.com/item?id=49732244
 
-## 6. Apple’s 2026 Studio Display XDR drops back to Amazon all-time low at $330 off - 9to5Toys
+## 5. Forget Nvidia's Chips: Hugging Face Is the Real Reason to Own This Stock Now - The Motley Fool
+Source: The Motley Fool (discovery)
+Published: 2026-09-16T20:07:07+00:00 | Age: 0.1 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEZGcURzUk41X1VsRGswT3NmZFdycExZOG1ZSjQxTmZSZTZlS0ZoeUtKck15dUI1MGxzZjNaMzFrRzJ4UklOdFV1SlVSTnduclNvWXZwZFI0RDJwMUxoQkczM2hFWlJ6ckt0RE8tZjhMOHZ4MVJFd0N2SHo4bmRMVUVNakxjV2F3Q3NVT1V1a2hmdGw1bWtF?oc=5
+
+Forget Nvidia's Chips: Hugging Face Is the Real Reason to Own This Stock Now The Motley Fool
+
+## 6. Eicher Motors launches Flying Flea C6 electric motorcycle in Europe - scanx.trade
+Source: scanx.trade (discovery)
+Published: 2026-09-16T20:02:49+00:00 | Age: 0.1 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGdGaDR5UG5ROHNMMUdqQ193RzFKSDY3NjAyc094c2s2OTMzcnJrb3pxWGpTTnZudjZrMmFrZDRPanlCbW1xNGxpMkNVNXJBczFKaDZ6dWFZSXR2eUR1WWlqVUkxV1lzbnRFd1FXQVpLMlN4djh0RG5tX3lvUGRDN2FheVV5ZF85a19tYU1COGxkUG5yT1g2VHdUUm5MamRBempzVGxXVDNPcEpSMFBRVnlpX1R0NGw5S25IQi1R?oc=5
+
+Eicher Motors launches Flying Flea C6 electric motorcycle in Europe scanx.trade
+
+## 7. Sutton Public Schools investigating cybersecurity incident - NBC Boston
+Source: NBC Boston (discovery)
+Published: 2026-09-16T19:39:21+00:00 | Age: 0.5 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE5DZEsxekJVNTZETFdEOFkzMDh0empoWWtUaEIweS1ROVZ2eHB1VV96ZkZmT2IxNGV2LTg2cmFmRXN5aGJfNFhwLUdKaUJSU2NJbzVJY2g4djh0MGJxdjFoSkRCTmZ6U2FzSzVxZURjWTVBcTdTYUsxSlRIdU4zd9IBhgFBVV95cUxON3phQkJ0cEZYb2xiX0Iyd3ZsS0xMa0gtcWctenBZanIybm8xdWF3SVVNNDNNNHE1eDBlb2NTc0VpN1NGQVNRai1FMUpheGd3VHpDRGNsYVlqOGJ3MDJnWWRkSlI1V3pfWEM4OXh0cF9VbWpYTkZHRzRUMjNzcnBwTl9VSHAtZw?oc=5
+
+Sutton Public Schools investigating cybersecurity incident NBC Boston
+
+## 8. Mid-week Apple Books and audiobook deals from $1 - 9to5Toys
 Source: 9to5Toys (discovery)
-Published: 2026-09-16T16:52:00+00:00 | Age: 0.2 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://news.google.com/rss/articles/CBMifkFVX3lxTFAzbXp6REF0VFdHNkl1UkZ6ZThRTzhZWm1vb2M5MFlUcHA3Z2pnRW5qOWt0eDR2ZFRiZGMtb3JoX0QybTEwbU5KYTlXYlA2YlkwRm5FLXR6MHVkWGhFNDU2REhuV1BfVkRiV0VyaXg3UExwNEVjdEVpdGJDSVF5UQ?oc=5
+Published: 2026-09-16T19:39:00+00:00 | Age: 0.5 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://news.google.com/rss/articles/CBMie0FVX3lxTFBVZXA5aTdpd1NGc1V1OHllSUI3QXdja3lTME5SYUVJRE5KTTFxVUFNMGVNLU9EMG5LLXFEM2NLaFZ3bW1VNUhFeEVLeHBQRzNVbXI1Z1FLQllpZm96ZDZPblRNUWFBV1dfVjlua3dqODFNMkItVGNvT3ZnZw?oc=5
 
-Apple’s 2026 Studio Display XDR drops back to Amazon all-time low at $330 off 9to5Toys
+Mid-week Apple Books and audiobook deals from $1 9to5Toys
 
-## 7. How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules - IEEE Spectrum
-Source: IEEE Spectrum (discovery)
-Published: 2026-09-16T16:51:23+00:00 | Age: 0.2 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://news.google.com/rss/articles/CBMickFVX3lxTE44VW03UDFYTmx2dDZHMjRod2o0NDdLTTZlRHQzVHhjVC1QQmQwZ1V1bjJhenJJRGRvUldMV1FkbHhxZndEUFh3aHU5WVBJQ1NhbkRmam43bkd0M1JEVUZSTVN1Q0tLeXNUa3NxUTdaVGJKdw?oc=5
+## 9. An Army Of Little Helpers Is Behind The Giants In AI Data Centers - Investor's Business Daily
+Source: Investor's Business Daily (discovery)
+Published: 2026-09-16T19:22:00+00:00 | Age: 0.8 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxPeC0zbVUydWc1TE5zcU5XeUZ1VFFhb1dYem5RNmZGZ3JrWnJsc0lpMWRPbG9tLUs2QURRaVhNX0w5WlhCZXBMV1BEOHhFS1RraUZKUnlVRF83aGVqejZOeV9vSEVnX3JBQjFKTkhvU0tYNFY0ZkdkRE05VXZ6LWhsQ1VmMkIyc09vRlY0cWxRZ3NMdw?oc=5
 
-How Hidden Triggers Can Make Robots Ignore Their Own Safety Rules IEEE Spectrum
-
-## 8. Fujifilm announces Rs. 800 Crore Greenfield Semiconductor Materials Facility in India - FoneArena.com
-Source: FoneArena.com (discovery)
-Published: 2026-09-16T16:40:16+00:00 | Age: 0.4 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxPNXFZZklRdzRfZ0NjVGZyNWlKeGgxN2VRLWVnVzhUZnJhOUpuREYzZmtaYXVJSVNRa09XMzBabEdfOXB6UXFXTE55ODRLRkduTmZ2MEJ6ZmVlblQ2bXA1M0VocF9kTGdmRHRTcWtIYTl0ZVpKc0RtdlJRWFRkSS1YY0NTWVFhOXRWRVBRZFE1dkZPZVk2aTFv0gGcAUFVX3lxTE5TWVNXdUtHWUhZTTY5X0dfdWxPLXcyMFFDRXdSVm1rYzJkWEhrbTNxVWI4SlotajBrRWxqaVV2MGdSQ2ZHc0hMUU1oeGh1cDlSQ0JwRzdaVFREZ1BGQmpZYzRLWFVJdlF5VVhfWXltSkhPU1lBQklyYVVONVBxYU1IQkFfdF85eFMzZGJ4eFJkdERyaTY1b24xcTJNTw?oc=5
-
-Fujifilm announces Rs. 800 Crore Greenfield Semiconductor Materials Facility in India FoneArena.com
-
-## 9. Pro 20x account became unusable after upgrade — severe model degradation and persistent “Selected model is at capacity” errors - OpenAI Developer Community
-Source: OpenAI Developer Community (discovery)
-Published: 2026-09-16T16:05:53+00:00 | Age: 0.9 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://news.google.com/rss/articles/CBMi9wFBVV95cUxOa1p1bmtseDhJTVp5VnF5UzE5eFNwaVhTNTJ1OWxOVVNPVEtNS1RaRHpDQldYcXMycjRkcHFmZVlWTlhFSU4zVUZETW9SMG5ZRERweC1TNGd0UWdVeW5YODhJdG11ZzRzTHBSVndmQmFwZFZldnhGSUhwTzdaZG03ZUJaNk5PenlNYlhpMWQxQTRHWDNpZU5Yd040S1RsZDU5aUVMcVdXSGxOWjFjRWtFYjVGQ19lWjdqd2pCTXBHd3otZDFva2gyR05fN0RtLUpEMFR3MzJMTDladmZVR1hLUEU0X2U3U2pxMjZwOVpIdTFacU02RjlB?oc=5
-
-Pro 20x account became unusable after upgrade — severe model degradation and persistent “Selected model is at capacity” errors OpenAI Developer Community
+An Army Of Little Helpers Is Behind The Giants In AI Data Centers Investor's Business Daily
 
 ## 10. ‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment - The Guardian
 Source: The Guardian (discovery)
-Published: 2026-09-16T16:05:00+00:00 | Age: 0.9 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
+Published: 2026-09-16T19:18:00+00:00 | Age: 0.9 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
 URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxQNU1BamVFcVJGTnR0OVk4MV9sTFFaYUZRV2lDdjJJSm5fWTVtT0JodnVSWHA1Y3ZwYWFNUVBSVjJZSlg0bl9yVnFxZmJIS2FCajIzenctdWY3TTZnSGhCWlhJOXRGd3ViMjQ0UjJNdkJJQ25TQ1dEdXRMQTVVSTJuY2hGTUpTNWt3ejBPdHBHOTA3WHNkdklCb215TlloZkhUdFNB?oc=5
 
 ‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment The Guardian
 
-## 11. Google Completes US$1.5bn deal for AI Startup Mechanize - Business Chief
-Source: Business Chief (discovery)
-Published: 2026-09-16T15:31:55+00:00 | Age: 1.5 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
-URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxPaVVyYW9DZEtYak9Vc3gxckFSMU90b2ZjclVScmpGeHB2UVZlcmI2V3JpWU8zNEhmMW45YldVRVZnSFBXLVlkaERKLWJHelpNTFlOVk5xek9NLWNua1ZXUnZwdDJmclBXd3g3WEU3cl9UUkU2RDU2RnpxM1NPMkRlbmZZU29xcnQ4WU12TWk0dw?oc=5
+## 11. Toronto Startup smartARM Combines Meta AI Glasses with Bionic Arms - iPhone in Canada
+Source: iPhone in Canada (discovery)
+Published: 2026-09-16T18:50:05+00:00 | Age: 1.3 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
+URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGhMVHR1aWhlRV9OTF95Q25raDVaZXdWVE54eW5UUWlCRWRxQWlINDNRTzRSTHNIdlJVMHBxNF9ISkFzaXgxNXZxalJ3SnlxcWM2ZXVJczR6QWVkWWdVSnZmM01WSUhWX3ZKSTJIR21mNHRoajBPTW45TjRuemhRakREcUhhbTg1Sm9YRy1yaENRSXBvWU1aOWdORFZxenVVeXVGVzhVZmxqbGNh?oc=5
 
-Google Completes US$1.5bn deal for AI Startup Mechanize Business Chief
+Toronto Startup smartARM Combines Meta AI Glasses with Bionic Arms iPhone in Canada
 
 ## 12. Why Thrive, Founders Fund, and Antonio Gracias are betting on hearing aids
 Source: techcrunch.com (reputable)
-Published: 2026-09-16T15:30:43+00:00 | Age: 1.5 hours
-Scanned: 2026-09-16T17:01:37.923224+00:00
+Published: 2026-09-16T15:30:43+00:00 | Age: 4.7 hours
+Scanned: 2026-09-16T20:10:15.293828+00:00
 URL: https://techcrunch.com/podcast/why-thrive-founders-fund-and-antonio-gracias-are-betting-on-hearing-aids/
 
 “Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]
