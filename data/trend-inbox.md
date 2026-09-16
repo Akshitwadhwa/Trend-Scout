@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-16T06:05:13.216708+00:00
-Scanned: 2026-09-16T06:05:13.216708+00:00
+Updated: 2026-09-16T07:47:49.223626+00:00
+Scanned: 2026-09-16T07:47:49.223626+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: Sonorix/pulsar-v0.6-flash-gguf
-Source: Hugging Face / Sonorix (discovery)
-Published: 2026-09-16T06:04:25+00:00 | Age: 0.0 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://huggingface.co/Sonorix/pulsar-v0.6-flash-gguf
-
-text-generation; downloads=0; likes=1
-
-## 2. Hugging Face model update: sandeep123/stride-qwen3-4b-2048-single_step-20260915
-Source: Hugging Face / sandeep123 (discovery)
-Published: 2026-09-16T06:03:54+00:00 | Age: 0.0 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://huggingface.co/sandeep123/stride-qwen3-4b-2048-single_step-20260915
+## 1. Hugging Face model update: Jeesup/svd-safety-l2_swift_remove40
+Source: Hugging Face / Jeesup (discovery)
+Published: 2026-09-16T07:47:22+00:00 | Age: 0.0 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://huggingface.co/Jeesup/svd-safety-l2_swift_remove40
 
 text-generation; downloads=0; likes=0
 
-## 3. India's electric commercial vehicle sales jump 155% in 2026 | Tap to know more | Inshorts - Inshorts
-Source: Inshorts (discovery)
-Published: 2026-09-16T06:01:29+00:00 | Age: 0.1 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxNSl9IR0tEc3dtR1ZOOXJYdlBDXzNEVmt5STl6LXhtUmNWelg5akhXVUN5T19MTEVPRmpZU2NLOWpWY1VJdTdIQWk4N2ItUWJGWTJVZlp4c1BpakZMSnNCYWt4VkFpZlFKT2V0MnE2RXdfOWRfYnQ1ZXVFYVZ0d2Z0cjdWVkY5c1JxOVRxa1JQaVpEVEo5MDFNMG9IaE10UVhqWW9wa9IBqgFBVV95cUxNY3RaOXJ0Z2hUTkxiNktDa1ZQSUNaQ3FwR2VXWjc3X1p5V1B6ZTRDY09zaTkzU1A0MEh2LTh5a3AycXpCN2RIcS1zVnZzRzRQZlJCQjQ1LWREeVhZLTBLWmlBd1ROMVZ1VHdDWE95RVU1RjlaekNpOEZfVzNxc1MtMXp3VVEyWExPNFdiTmNMS0otckVvUEZDX1hSYUVnOEZXRFRHbm1Obmc1dw?oc=5
-
-India's electric commercial vehicle sales jump 155% in 2026 | Tap to know more | Inshorts Inshorts
-
-## 4. Amazon AI chip deal gives Qualcomm stock a boost - economictimes.indiatimes.com
-Source: economictimes.indiatimes.com (discovery)
-Published: 2026-09-16T05:59:24+00:00 | Age: 0.1 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNSjVzbDlMYjZ2eVJoYmU2OG42VFFtNkMtY0xLaEQtTnJPU015RE1ZLUx3OFdyYm9mZWxPTUFMczFUUzNINkRKbDhPcXRObDI3N1NibktBLU1oU0plUzFOOU5VQjBZeTRBM1FGSE9MZmhrUzFzWFZqaDFtLS1UU3VTVFN3NE1LUUZVTGZJb01KRDE5YU9jTzFvMVRXTFlwRFZlSE8xbVVHTmsyWUplR1BlaVZvME9TaVRRemwxNTd6SlE1TGZYSlFWOGhQRUc?oc=5
-
-Amazon AI chip deal gives Qualcomm stock a boost economictimes.indiatimes.com
-
-## 5. Prefill a 284B model on Nvidia. Decode it on Apple Silicon. Over plain 10GbE
+## 2. Senate Blocks Cryptocurrency Regulation
 Source: Hacker News (discovery)
-Published: 2026-09-16T05:57:51+00:00 | Age: 0.1 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://github.com/chadhurley25075-png/pd-bridge
+Published: 2026-09-16T07:45:17+00:00 | Age: 0.0 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://www.latimes.com/world-nation/story/2026-09-15/senate-blocks-cryptocurrency-regulation-as-democrats-push-back-on-trump-investments
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49722597
+Hacker News discussion: https://news.ycombinator.com/item?id=49723248
 
-## 6. Image prompting | OpenAI API - OpenAI Developers
-Source: OpenAI Developers (discovery)
-Published: 2026-09-16T05:57:40+00:00 | Age: 0.1 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://news.google.com/rss/articles/CBMibkFVX3lxTFBWTjdOVG5pRnhqOGhuWnZ1TmY3eC1lZ1lGNHdOYXFSX05HMV9VbThVRExUT1E4TC02S3dZWm1DOTdzcWxzQ1FUZUxtenhaOGdRR3hjSURDR2hfcEt0T1F5UjBra0lJWHA4MGJxS2NB?oc=5
+## 3. Text Recognition techniques for premodern Italian and Devanāgarī manuscripts
+Source: Hacker News (discovery)
+Published: 2026-09-16T07:40:40+00:00 | Age: 0.1 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://uniqueatpenn.wordpress.com/2026/09/11/2025-2026-sims-fellows-applying-escriptoriums-handwritten-text-recognition-techniques-to-premodern-italian-and-devanagari-manuscripts/
 
-Image prompting | OpenAI API OpenAI Developers
+Hacker News discussion: https://news.ycombinator.com/item?id=49723216
 
-## 7. Odisha Gets ₹3,406 Crore SiC Semiconductor Facility - GK Today
-Source: GK Today (discovery)
-Published: 2026-09-16T05:46:30+00:00 | Age: 0.3 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxOc2Vxc2ZEd3dTRHQtTVlaSDlKRkpzYTFBeXVMSmFmY2hzZHlTOGNvV2Jub0ZFOV82amlZdFh4bzJrZ09Udml1QlpKbGlLQkdrdmlFMXpXREJxamltejVtSXlwVWNyZ0dUZm9rT2hJU2w2QlQ2T1hiODRtQ19GUW16UVNNM3p1RVo0NXc?oc=5
+## 4. Why budget phones and laptops could get costlier as memory chip shortage bites - Moneycontrol.com
+Source: Moneycontrol.com (discovery)
+Published: 2026-09-16T07:37:46+00:00 | Age: 0.2 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUVh4VGhpM0lSdzNIOEhfTHgwV1Nhb0xxMVdtbWQwbG5PX1ZXMk1KV3VzOTFGcHFGc2FIWEU0WU9Hakd5cGhZQWVsSXJoNEc4Z0o1T0RnbG0zaVFZVEg3c0QtMFNSTDgzeFBGQUxrYVd4Tm5kWlNZRnhFaDk1QkFvdnJ5amtYd0ZqY3JseXlSS3FJbkVyUTY2Mkk2N29kWkw0djcwN0NZdllvVHdNaEZpbTVPZGxLLTM3M09aTFB4cXhTcmtQVVNsM0QzWF9fbWR60gHWAUFVX3lxTE1HZFEtRWxBM3VZemw1ZklPSmNzdDZEbHIxR1dlakQ2QUZsX2xFbzZHRlF6a2J1bmxmTTB1dFFfSzdyTzk0dlZIVnAtYUIxa2NOcDlLY2UyQ0pTNEFicEw2WG14RXVyRTRacTN2NDlQb3hoeVBMMHRFcVFpR3VEQVIyNnJoMFNCd3FtSlhKdUljNk9rVEw3b2xjdmtaeDRhNGRNVEhZOV9pcXRSUnJ2SF8xeFhlbThVZEhzSVVnUmxLZko5dVdMbVdTay1ibXViVm5vLWpmQ0E?oc=5
 
-Odisha Gets ₹3,406 Crore SiC Semiconductor Facility GK Today
+Why budget phones and laptops could get costlier as memory chip shortage bites Moneycontrol.com
 
-## 8. Apple Launches Siri Recap, Reversing Years of Cautious AI Development - Man of Many
-Source: Man of Many (discovery)
-Published: 2026-09-16T05:31:56+00:00 | Age: 0.6 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGdzV6M1dNY2ZyTXpBNDNJbVRNOGNCaDUtdUkzQjNsNFBxeGpfYnkxWkJJUzFOSjZldDgyRGpxMC1NVmlXcWxRM0NSRGlJNVFDRURRLVln?oc=5
+## 5. AI-native semiconductor verification startup VerifAIX raises $5 million to expand growth, engineering teams - Indian Startup News
+Source: Indian Startup News (discovery)
+Published: 2026-09-16T07:29:28+00:00 | Age: 0.3 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRWFwNjRNdWNTT0dPeVAxQjNaUDRfLV8za2Z4UXdYNk56U2ZwMDBrNEd3RlJjek8xdEdYTDBwQWpnWTZwTnlWdmM4b2xnRWRYQTBobWZaTmRkdHBaMDBRT2pmU0liLTMyRTFfOWRZOEdFZTV0NjlCTXIxaDlTNml2WjZRcU1ZNUsxUXN1MTBEVWpmRWtvMHd0eGxadTNiWG5TNTd1NkpNeURlR3hLM1VzSzAyeVppZ2c4OTJidDRybGZBNk90bnQ2R2d6TXNIRkhVWjg2ZXpyaWhWSmVWTThUOW12ankxNlnSAecBQVVfeXFMTUVhcDY0TXVjU09HT3lQMUIzWlA0Xy1fM2tmeFF3WDZOelNmcDAwazRHd0ZSY3pPMXRHWEwwcEFqZ1k2cE55VnZjOG9sZ0VkWEEwaG1mWk5kZHRwWjAwUU9qZlNJYi0zMkUxXzlkWThHRWU1dDY5Qk1yMWg5UzZpdlo2UXFNWTVLMVFzdTEwRFVqZkVrbzB3dHhsWnUzYlhuUzU3dTZKTXlEZUd4SzNVc0swMnlaaWdnODkyYnQ0cmxmQTZPdG50Nkdnek1zSEZIVVo4NmV6cmloVkplVk04VDltdmp5MTZZ?oc=5
 
-Apple Launches Siri Recap, Reversing Years of Cautious AI Development Man of Many
+AI-native semiconductor verification startup VerifAIX raises $5 million to expand growth, engineering teams Indian Startup News
 
-## 9. 281,500 Nigerian Accounts Breached Amid 4,700 Weekly Cyberattacks - thewhistler.ng
-Source: thewhistler.ng (discovery)
-Published: 2026-09-16T05:30:51+00:00 | Age: 0.6 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxNeENEYV9obHpYTlNHV1pmMkt5ZklibDBQNy1tNlpBR3lhcGZUcmRBMGRtRTdNV2dHNElpek9zdTB4Qi1aN3RQX3FiUkxaUlY5RjA5Wkhoank2dXhHVTd3N25ONF92SkVWdTdZQ05LLU96RXZGWVdwVzJseVR1enAtTHdsZm9DSFFoM2FXeU5YM0I?oc=5
+## 6. Australia Launches $30 Million Program To Accelerate Clean Energy Startups - SolarQuarter
+Source: SolarQuarter (discovery)
+Published: 2026-09-16T07:28:52+00:00 | Age: 0.3 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0w5ZUtGSm41U1BzRDZ0UUxnWTNCQmlCWnhSY0F4RGNMSEtuSTV5dm41ZmZzOUpJY0YtdC1YcTl5MUhvNDJ2bC1YdU5CZkdmQm0tZ1F0WVhCOEpyTGFjaEJIYy11SDZld2hvUm9qS204Wlh3RWRNYV9QTF93akVwbGp4TGpPRVdHRGxDWEY4ZTVuZ3RGclpmLXNsc0xKdkpZeGVUbkNESlRqZHg5WXBz0gG0AUFVX3lxTFBSdDJRcGl4TVdmOFlwX2JndWNPRjFnYWQ0bElCdk1GaFNnUmFfZEc4eEczQmtTRHhrcUNFN1JMZEs1bmxPSDI4RkdzbndGeUxHQjRnQkc3a3N4R2dpb2lFa3haSFhQUGNtdVE0U2hpaExybjhuN2hNekxDczlOYVFvWHN1Q2hjRHdRb0dDUkc2Q2NEQmRDQzdYbHpKZll1YThGSHRHb0U2clRyNTlLRU9oV3RMbw?oc=5
 
-281,500 Nigerian Accounts Breached Amid 4,700 Weekly Cyberattacks thewhistler.ng
+Australia Launches $30 Million Program To Accelerate Clean Energy Startups SolarQuarter
 
-## 10. After Hugging Face hack, OpenAI CEO Sam Altman bats for enterprise AI defence solutions - The Hindu
-Source: The Hindu (discovery)
-Published: 2026-09-16T05:16:57+00:00 | Age: 0.8 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa1dSRHJpSkRzTUxYZ1JFWkpsemludVNFNXVVU1dsMWZQcG1Pb0RPUDY2ZEMtZUhFMXkwa2d1X3ppczFDbkNFZWF0ZWhsajJOSWp6TEE0YVRoVU5mSG1xWXdWbDRSV181eHFKSzRwc3JsYkFPTTd3dmZEZE9vdzJWYkNMbFI4Mm5xUHpid0tvM2x3MklNLUJyZTZrYzJpX2hfYjk2X0poWVlpMGdPN1lOS3FKUU9fbEpMMUFSbDlBcjEyTEZycmVfcXlnYXROME5IRkNFd05BUmcwVkNtc3dHbkFQRWRoUQ?oc=5
+## 7. I’m a female founder with a liberal arts degree and my company has raised $280 million. You don’t need a PhD to build a robotics startup - Fortune
+Source: Fortune (discovery)
+Published: 2026-09-16T07:00:00+00:00 | Age: 0.8 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVFVnbnhSSkZUMXp5SVR6ZDQ3WENUa2RENHl0NlNVcV9DX2RrUU1BTUFBWjl5a0paZXJTTFdpZ3Vzb3VkT2JVRFhmVnJRU1pMNDFlaVl0V0w0LVA1REh6MFJhVEUtbGtlMjdpbDN4Ti1hSjNZQnpaZ2ljYWFhUkFqZjBYbmxBYTRMbVhv?oc=5
 
-After Hugging Face hack, OpenAI CEO Sam Altman bats for enterprise AI defence solutions The Hindu
+I’m a female founder with a liberal arts degree and my company has raised $280 million. You don’t need a PhD to build a robotics startup Fortune
 
-## 11. ‘Killer AI’ debate: Altman admits public fears as tech giants seek regulation; Trump, Congress show no rush - english.mathrubhumi.com
-Source: english.mathrubhumi.com (discovery)
-Published: 2026-09-16T01:34:35+00:00 | Age: 4.5 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
-URL: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOajI2ZTFKYWxORHNYenFhZnhWRzBCQXFlNXU3XzNrUDlxRjlnLVcydDQtUDNLT3lGQnAzTmoxdVdmQmV0LU1QS0I0ZWRXY0d6MUZjaVRQNkJfbHdyMVR1QkhtVDEtWFh3Skc2VWZWV1Q3dzVtR01GZ3V3Y3Z3YkMtZDhYRW11WlJWX1ZqdWllaU1qNkxsMkZmcjRQaHdUWFZoblV1aVlMYnhmM1BtOHZ4S25KMl84V0JvLUNfR2pRMmpHZjFVNzZpZG0wMC1LMHJuNmp1MVF1SU1xam9DQ0ZPZG1US0pmWXJCdmY1WHp3ONIB7wFBVV95cUxOajI2ZTFKYWxORHNYenFhZnhWRzBCQXFlNXU3XzNrUDlxRjlnLVcydDQtUDNLT3lGQnAzTmoxdVdmQmV0LU1QS0I0ZWRXY0d6MUZjaVRQNkJfbHdyMVR1QkhtVDEtWFh3Skc2VWZWV1Q3dzVtR01GZ3V3Y3Z3YkMtZDhYRW11WlJWX1ZqdWllaU1qNkxsMkZmcjRQaHdUWFZoblV1aVlMYnhmM1BtOHZ4S25KMl84V0JvLUNfR2pRMmpHZjFVNzZpZG0wMC1LMHJuNmp1MVF1SU1xam9DQ0ZPZG1US0pmWXJCdmY1WHp3OA?oc=5
+## 8. Why Apple, Google and other global tech giants will hate the ATO's latest ruling on cross-border payments - Startup Daily
+Source: Startup Daily (discovery)
+Published: 2026-09-16T06:58:50+00:00 | Age: 0.8 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://news.google.com/rss/articles/CBMi5gFBVV95cUxON24xb2JMRlZGRkQ0dG5KVzR2VnBkeUx2Zmxua05jTURBcTI0dm9kV3U5akVSN3FpcmdDWjFWWWFMQm14ODA0a2c4anJSUXZIMlpNd0s4QjVma0Izb2EyVGJEZkxCdmNyUVAtX1JCZlduazBQVEJCU3owR2J3RXlTNXRoRVgyREJpMnVBUlhKckJ1cVg1eGhBQW80MlluVXZCWS1mRl9vVVVWQ3IwdVM3Q0t0TnpJTHR4X3NxTzdsQWRRWDRnYTUtdWVLcUs3VTBQN2sxZ0JWb2tLZDhhd0hublVKazlLQQ?oc=5
 
-‘Killer AI’ debate: Altman admits public fears as tech giants seek regulation; Trump, Congress show no rush english.mathrubhumi.com
+Why Apple, Google and other global tech giants will hate the ATO's latest ruling on cross-border payments Startup Daily
 
-## 12. GitHub release: openai/openai-python v3.14.1
+## 9. Samsung Electronics chairman, Japanese lawmakers discuss AI, chip partnership - KED Global
+Source: KED Global (discovery)
+Published: 2026-09-16T06:49:16+00:00 | Age: 1.0 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE1XSTgzay1DSV9Gekl2UEZmTG5SMHJ0OVNtX1B1WXdGTjJGOFNnOGY4UmZvSzAxX1hYT2xsMHNGSlFVNkFxWXZNamFzSmN4bTN1cmxyZzFjSUs5WmxKbGJrZ0VNa0tZcUpJQUV2RjE2SmdLMkk4Nnhn?oc=5
+
+Samsung Electronics chairman, Japanese lawmakers discuss AI, chip partnership KED Global
+
+## 10. GitHub release: openai/openai-python v3.14.1
 Source: github.com (primary)
-Published: 2026-09-15T23:12:54+00:00 | Age: 6.9 hours
-Scanned: 2026-09-16T06:05:13.214792+00:00
+Published: 2026-09-15T23:12:54+00:00 | Age: 8.6 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
 URL: https://github.com/openai/openai-python/releases/tag/v3.14.1
 
 ## [3.14.1](https://github.com/openai/openai-python/compare/v3.14.0...v3.14.1) (2026-09-15) ### Bug Fixes * **client:** validate retry limits and preserve application errors ([#3867](https://github.com/openai/openai-python/issues/3867)) ([f86c721](https://github.com/openai/openai-python/commit/f86c7214093038faa512bd4883558b093bdb8c9a)) * correct typo "th" to "the" in StreamAlreadyConsumed error message ([#3022](https
+
+## 11. Présentation de Meta One : Un service d’abonnement offrant davantage de fonctionnalités et d’IA pour créer, se connecter et se démarquer
+Source: about.fb.com (primary)
+Published: 2026-09-15T15:25:57+00:00 | Age: 16.4 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/
+
+À retenir Nous lançons Meta One, un nouveau service d’abonnement sur nos applications qui offre un usage accru de l’IA et des fonctionnalités d’expression enrichies, ainsi que des outils professionnels pour les créateurs et les entreprises. Les offres Meta One sont déployées progressivement, avec plus de 50 fonctionnalités lancées et 15 millions d’abonnements et d’essais à ce jour. L’expérience principale sur nos app
+
+## 12. GitHub release: anthropics/claude-code v2.1.272
+Source: github.com (primary)
+Published: 2026-09-15T00:42:25+00:00 | Age: 31.1 hours
+Scanned: 2026-09-16T07:47:49.220768+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.272
+
+## What's changed - Bug fixes and reliability improvements
