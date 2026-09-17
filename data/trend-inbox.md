@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-17T07:51:53.939566+00:00
-Scanned: 2026-09-17T07:51:53.939566+00:00
+Updated: 2026-09-17T13:31:08.712439+00:00
+Scanned: 2026-09-17T13:31:08.712439+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: sandeep123/stride-qwen3-4b-stabilized-2048-local_positive-20260916
-Source: Hugging Face / sandeep123 (discovery)
-Published: 2026-09-17T07:50:46+00:00 | Age: 0.0 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://huggingface.co/sandeep123/stride-qwen3-4b-stabilized-2048-local_positive-20260916
+## 1. Hugging Face model update: tinyopsec/bible-assistant-qwen35-4b-GGUF
+Source: Hugging Face / tinyopsec (discovery)
+Published: 2026-09-17T13:30:53+00:00 | Age: 0.0 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://huggingface.co/tinyopsec/bible-assistant-qwen35-4b-GGUF
 
 text-generation; downloads=0; likes=0
 
-## 2. Ukraine’s Military Intelligence Names 20 Foreign Systems Russia Uses to Build Geran Drones - Межа. Новини України.
-Source: Межа. Новини України. (discovery)
-Published: 2026-09-17T07:49:11+00:00 | Age: 0.0 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE1PZ1UtNmtJWXF1TzNnT0hLbE1PTkY0bGV4RldYaWozZUg0cWd1dHVGSU1fUElobVU4Y0dZbTNEWHFZWlRnMnc4SkUyN1JLOTBPSzZoMnlpR1BiakN4eXRBakJzWlo3Z0J3bWpQeEhTQjAwbWdlQTRV?oc=5
-
-Ukraine’s Military Intelligence Names 20 Foreign Systems Russia Uses to Build Geran Drones Межа. Новини України.
-
-## 3. TSMC may double CoWoS capacity by 2028 amid AI chip demand - Communications Today
-Source: Communications Today (discovery)
-Published: 2026-09-17T07:46:04+00:00 | Age: 0.1 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://news.google.com/rss/articles/CBMingFBVV95cUxQNTZmTjExMmlueWN4MTlMc2VWd1hIZUNiVFE5WDJqS2U4NDVSNkY4WGIxTFh4enNPd05BOHZDNURaUDRic01FaDMyZ0tuOFljaVRwVzBySUgxNGY2ZnhkSmJTRlB6SDJBNEs5cHZ6ZzVtSWxLQkg0MDlMUTJ6NEswZjVfNS12R29CRU5fWUdWTHd5U2lReWNOQkRpLWd2Zw?oc=5
-
-TSMC may double CoWoS capacity by 2028 amid AI chip demand Communications Today
-
-## 4. OpenAI reveals cases of 'concerning' AI behaviour as it announces new ... system
+## 2. What Stripe data shows about fraud at AI startups
 Source: Hacker News (discovery)
-Published: 2026-09-17T07:41:57+00:00 | Age: 0.2 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents
+Published: 2026-09-17T13:28:53+00:00 | Age: 0.0 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49737638
+Hacker News discussion: https://news.ycombinator.com/item?id=49740487
 
-## 5. Odisha Powers Up India’s Chip Ambitions with Rs 3,406-Cr SiC Semiconductor Unit - Pragativadi
-Source: Pragativadi (discovery)
-Published: 2026-09-17T07:41:15+00:00 | Age: 0.2 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnlScW82VUFEcG9LdUxUOW5BdmpvNE4ybnVBb2RPQ1lkcDQ1UlMydTFjOW4xU09MWkhyYXFzbHBoWjBwWklSLWFYUWhGaHg2dmw4d3VhdE54OXZpY0lIVUg2a2hLbTJXcFAtR3dYaDFRYTNGMXpGZVR0OXlIMXVtY3VHTkE5cy1wM19CLU5FRHJTS3pKUzBEVWdkcnhVRkdDZWxiWA?oc=5
-
-Odisha Powers Up India’s Chip Ambitions with Rs 3,406-Cr SiC Semiconductor Unit Pragativadi
-
-## 6. Chinese iPhone 18 Pro Chip review (ENG sub)
+## 3. Show HN: DrillFlow – a diagram editor where every node opens into a sub-diagram
 Source: Hacker News (discovery)
-Published: 2026-09-17T07:37:53+00:00 | Age: 0.2 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://www.youtube.com/watch?v=DpDf5JKOtls
+Published: 2026-09-17T13:22:36+00:00 | Age: 0.1 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://drillflow.de/de/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49737608
+Hacker News discussion: https://news.ycombinator.com/item?id=49740400
 
-## 7. D-Robotics Completes $400 Million in Series C Funding, Driving the Robotics Industry Into a Boom in Product Categories - Macau Business
-Source: Macau Business (discovery)
-Published: 2026-09-17T07:29:28+00:00 | Age: 0.4 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOejdfbDd0RmN2ZkFoQnFtclRLQkZUZmZCZkxPS3d6ODItWFUwdTlnSE1fTHpnQXlSWG5DVWxxbnh0NlpmT0h0R3NpNGp3UVV0T25CNmtFUDhIZS1oaGZVbExkdzMzcnZzMmFtbmpIR19pQ1FZMTRTa1l0U1JsdjViVU9xNkxTWmRjS1RVUG1ZelZNcEFPQnVOSkNMZTBnOEdKTVRnTWNtb1h0YzVfTEFhMUdKSXhqTVBHaWxTbGlrTG80dlJlaE14NTd6TGtRM1ZSczdzQWk1MDV4V1U?oc=5
+## 4. GlobalFoundries, Marvell expand chip capacity deal for AI data center connectivity - Global Banking & Finance Review
+Source: Global Banking & Finance Review (discovery)
+Published: 2026-09-17T13:19:32+00:00 | Age: 0.2 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1hrN3ZqTHdINEZfT3c5aU9YT3REN3g0cDhBcGZFT1VyRlBaWWhjRVBaMVhHcEsyeVNWa19aWTJfY3ZmZ0QxRmVUTXpDci1Nb0tjUU9la2U3YTRBVDNvN0xrR1RjMFBXekVWdWF5eDZXalNSUHdMZGNjSkxuRnpVcXZPak45RHhSNHU3UDdPY29wRC13QVJYSGVrblM2M1E?oc=5
 
-D-Robotics Completes $400 Million in Series C Funding, Driving the Robotics Industry Into a Boom in Product Categories Macau Business
+GlobalFoundries, Marvell expand chip capacity deal for AI data center connectivity Global Banking & Finance Review
 
-## 8. Samsung Electronics to supply AI home solutions to Philippines mixed-use complex - 디지털투데이
-Source: 디지털투데이 (discovery)
-Published: 2026-09-17T07:18:14+00:00 | Age: 0.6 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxNaERGRVRoTnpXTG1Ha0V1eU5MSGJ2VTAxTG9tckI3S241d3J6dmlTNkxaSWhOMUxnQjA4UjNLcDBNaFhSaTU1UXB5RGFiTlhPbEEyMUR6T2xnZUpWZ3hMc0FRN0ptNktsbXZoZHVuWThMMVpnQUoxUHAzOEhxTWdzM3U0QlZMV1VEbTRwNjJJTmdXNW14N1RIMEZOTnZBZ2d2blgtNXE4TlVHMUllSExuUkVYcjFIWEM5ZFJxanU5c0lRd1F6?oc=5
+## 5. From cash to UPI. From smartphones to 5G. From Digital India to AI and semiconductors. Over the last 12 years, technology has become a much bigger part of how India pays, connects, accesses government services and builds new industries. In this deep div - LinkedIn
+Source: LinkedIn (discovery)
+Published: 2026-09-17T13:18:20+00:00 | Age: 0.2 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlhkZk5vc0xQZl96QTd5U0xKMG9MUVVTWkpQLWIxLXgtb1VvM1hKb0R5NWRTcGtRTWF4alJZekJNSkhBUXltWlpfS1llRGF5cndfWGwtN0JFUWFpWmt3NGVWaXFLNWVsdFpRREpHTUJwc1dWQkZkZlI2M25KcFI0TFpFem5nQ0hXTGFLc1UzYlNIRzUzWmtIMlpLNktral8zR25pVVJwdw?oc=5
 
-Samsung Electronics to supply AI home solutions to Philippines mixed-use complex 디지털투데이
+From cash to UPI. From smartphones to 5G. From Digital India to AI and semiconductors. Over the last 12 years, technology has become a much bigger part of how India pays, connects, accesses government services and builds new industries. In this deep div LinkedIn
 
-## 9. Migrate to GPT-Live - OpenAI Developers
-Source: OpenAI Developers (discovery)
-Published: 2026-09-17T07:08:14+00:00 | Age: 0.7 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1iSWk2Q3F1YjJSMXZDaWY5WS1KXzJqOXU2TklfVVhqQlFhbDVMU0h3bVpzZXNTR1dWTHZtMVNlNWQ4X2thRmVvMXE2ZjA3RzQ0YlJCd3JVMXlEX21RQkhwVEFBSVNxRlkyTHluUA?oc=5
+## 6. Nauticus Robotics to present at Water Tower Res... - Pluang
+Source: Pluang (discovery)
+Published: 2026-09-17T13:16:40+00:00 | Age: 0.2 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVpjMFh1dThVc0dOTmZFU3JfaGNEajlIQVhWMXkxWlQwVTBhZVZ0dWV6N1g3bjhUYVBUTnByejYwYWtxU0ZkOTVIY25lcWhTMUlDNjFQbThVNzQtanVhdmFpUWEwUUc3UnVMamhIazZzOU5qRjY3dlFoNmlqTDk5S3JUZXV2SE5nNm9YX3FnZ0JTOEVFS1NSZ2tURQ?oc=5
 
-Migrate to GPT-Live OpenAI Developers
+Nauticus Robotics to present at Water Tower Res... Pluang
 
-## 10. Meta Plans Camera-Free Smart Glasses Amid Privacy Backlash - smarthouse.com.au
-Source: smarthouse.com.au (discovery)
-Published: 2026-09-17T06:59:14+00:00 | Age: 0.9 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxPalZBeURyaERwcm0yS3B0eTdfNUI4MGtYdkhKdTlZWE9JY1hmYUxKM09XSHpfNmQxUjNjX3RBci03R29rcHdwaTQ2NTE4M1RvaC00SU9EcHo0WUZsMzNrVHZ3a0hBSzkzcjhhaHNVTkZTQTN2di1Ic0dmdnNUZkhLZ1czS29qQnNTa092MDlkWnQ4MzQ?oc=5
+## 7. Chip Giants Samsung, TSMC Hit by Critical U.S. Labor Crisis - The Tech Buzz
+Source: The Tech Buzz (discovery)
+Published: 2026-09-17T13:08:00+00:00 | Age: 0.4 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1N5eHFIeW16cDVEN2RMQlAycWNOQWFxelJZSXl3NW4ybEc0Z3pRbXp3cGprM2xPTGJBTFFVaXVweDRvdUNqSE9DZ04zT2dWUmJvcjQxQ1UwSUk2OUt2UThfWm9WcWN4U2lJUnVQS2pKQXlJRm4tSDdCMlFyOVdhVEpDajd6QmxVNFNoc0pIdUFXM2RY?oc=5
 
-Meta Plans Camera-Free Smart Glasses Amid Privacy Backlash smarthouse.com.au
+Chip Giants Samsung, TSMC Hit by Critical U.S. Labor Crisis The Tech Buzz
 
-## 11. visionOS 27.2 Developer Beta 1 Is Available: How to Update and What’s New - The Mac Observer
-Source: The Mac Observer (discovery)
-Published: 2026-09-17T06:36:55+00:00 | Age: 1.2 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
-URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjUwYWhBNFBUT0tERlV2eTBTaXNVeWw0cGRqd1hIQW9xUzhKODZ5dURqUEt6TkxZZ0xkN3RIX1hhZ1IzU1pqQzBaRlNuaUpWMUhMNVpBaVR2TTE4OFZOUTlqS0NoNkVSWmg5WVZpTTEweFo4b2lUQWpDTklmLVBnRjBYcWc?oc=5
+## 8. FIU Study Finds Smartwatches Overestimate Calories Burned During Exercise - Digital Information World
+Source: Digital Information World (discovery)
+Published: 2026-09-17T12:59:00+00:00 | Age: 0.5 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQclNZQ1hhdmV5aGtkTHhiMXNCb0ZITzltX04wczRuQnM4UUtOanlnREt3eEVLb2prUE5KazZ1QnVGa2FRR3pJdnNub3p1QXBzbnQwWXRXUS1YSk5GM3BFbFUzR2RmbTlybnhOMnRJOGtTVldZa0pMUV9EU0V4WE1DeklaZEVBVXhmeExIU1htOFhBM3Q1TWFCS3duZWF6SVVEQ0RJTTk5WGE0ejZPb3owSFJNTzJ3ZnJGQWFISExybmtGT1BBazViTnRoWkROZjUyWkhyWElHVQ?oc=5
 
-visionOS 27.2 Developer Beta 1 Is Available: How to Update and What’s New The Mac Observer
+FIU Study Finds Smartwatches Overestimate Calories Burned During Exercise Digital Information World
 
-## 12. Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026
+## 9. Google Faces New Ad Tech Rules as Judge Orders Antitrust Monitor — What Investors Need to Know - TipRanks
+Source: TipRanks (discovery)
+Published: 2026-09-17T07:11:30+00:00 | Age: 6.3 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxOcExpRWhQcDB0VGpMcjd6Skpxby0xTkpTa0xCaHVzRU5xMTlkNVN6aTljVV9RUWtEMzdZYnoxTV9YMmsxQlUwcjJNc0d1Tlp5Z3NiS2RYTFlUNkgtbGt6d2dXMFM5OGduX1FVMkpfVXlrTXhMMkhfLUlIQlN1MUZyQ3gzZXlBakRsdlRxTks2YTA1LTllVzB5S2dBM1poX1ZWWFJWVzlSZXFzNXhCT1Zmc1dqd2RwYUZPWjdGYlJDUQ?oc=5
+
+Google Faces New Ad Tech Rules as Judge Orders Antitrust Monitor — What Investors Need to Know TipRanks
+
+## 10. Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026
 Source: techcrunch.com (reputable)
-Published: 2026-09-17T03:30:00+00:00 | Age: 4.4 hours
-Scanned: 2026-09-17T07:51:53.936964+00:00
+Published: 2026-09-17T03:30:00+00:00 | Age: 10.0 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
 URL: https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/
 
 This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.
+
+## 11. Migrating the GitHub Copilot runtime to Rust, using Copilot
+Source: github.blog (primary)
+Published: 2026-09-17T00:26:43+00:00 | Age: 13.1 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/
+
+A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .
+
+## 12. GitHub release: anthropics/claude-code v2.1.274
+Source: github.com (primary)
+Published: 2026-09-17T00:12:02+00:00 | Age: 13.3 hours
+Scanned: 2026-09-17T13:31:08.709509+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
+
+## What's changed - Added a visible warning when memory usage is critical, with steps to free memory or restart safely - Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interactive turn waits for connecting MCP servers (`0` = don't wait) - Added `effort` attribute to the `claude_code.llm_request` OpenTelemetry trace span, matching the `api_request` event - Added `claude_code.managed_settings_r
