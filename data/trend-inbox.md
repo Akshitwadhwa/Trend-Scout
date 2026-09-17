@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-17T13:31:08.712439+00:00
-Scanned: 2026-09-17T13:31:08.712439+00:00
+Updated: 2026-09-17T18:17:05.834930+00:00
+Scanned: 2026-09-17T18:17:05.834930+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: tinyopsec/bible-assistant-qwen35-4b-GGUF
-Source: Hugging Face / tinyopsec (discovery)
-Published: 2026-09-17T13:30:53+00:00 | Age: 0.0 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://huggingface.co/tinyopsec/bible-assistant-qwen35-4b-GGUF
+## 1. Hugging Face model update: fpadovani/jpn-100mb-after-wc-zipf-newlex-eng-ckpt4000_seed455_seed455
+Source: Hugging Face / fpadovani (discovery)
+Published: 2026-09-17T18:17:01+00:00 | Age: 0.0 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://huggingface.co/fpadovani/jpn-100mb-after-wc-zipf-newlex-eng-ckpt4000_seed455_seed455
 
 text-generation; downloads=0; likes=0
 
-## 2. What Stripe data shows about fraud at AI startups
+## 2. Show HN: Router picks Cursor/Claude/Codex and effort per task, then launches it
 Source: Hacker News (discovery)
-Published: 2026-09-17T13:28:53+00:00 | Age: 0.0 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://stripe.com/blog/what-stripe-data-shows-about-fraud-at-ai-startups
+Published: 2026-09-17T18:13:55+00:00 | Age: 0.1 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://github.com/nidhi-singh02/agent-router
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49740487
+Hacker News discussion: https://news.ycombinator.com/item?id=49744490
 
-## 3. Show HN: DrillFlow – a diagram editor where every node opens into a sub-diagram
+## 3. Arm, AMD among market cap stock movers on Thursday - Investing.com India
+Source: Investing.com India (discovery)
+Published: 2026-09-17T18:12:38+00:00 | Age: 0.1 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxNZUVnclhhOEE3aUJZQmNqRGJXdXdHdkhTV1dyLTRHOE5SYy1FWVc4ME9UUHRwV3puMUM4cWwyTlk2TDNvbDc2Y21RMk40Z0tLLU9sdnNKTTY0cWtqNmFXSVMwZjRJY1Jkem84alR4WXI5TnJLSklZSFJTU2gwQVlFUHJNbnRPSmJ5WGt6Zk1ZTERnRGdlMWRlYy11NUFPZWYzb2hRQ2hxMlJ3bmNfRzUw?oc=5
+
+Arm, AMD among market cap stock movers on Thursday Investing.com India
+
+## 4. Snap makes its case for a $2,195 wearable computer - Tech Brew
+Source: Tech Brew (discovery)
+Published: 2026-09-17T18:12:10+00:00 | Age: 0.1 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmpzdGxsVDFNZGc3MURXSWR2bVp4Z0pHM2taZjNZYkFNWkRIUDI0bmlabmN2X0lBTTQ3UUJXazlPdXFNbG5iUEwxOHFpNXRycEpFV3JndEx1dlpVb0g0c094WUxRNnpJSzVQRzR0bUxfa1pJVFV0QVZuQ0dnTEtCNm1JVFJoUTU4QVE?oc=5
+
+Snap makes its case for a $2,195 wearable computer Tech Brew
+
+## 5. Ron Baron Says ‘The Time to Buy’ Tesla Stock Is Now as FSD Takes Off - TeslaNorth.com
+Source: TeslaNorth.com (discovery)
+Published: 2026-09-17T18:07:00+00:00 | Age: 0.2 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE84QWh6aXFrdm9ZVDc4RENUZjNjS1RWeU45ZU42NlFNREdlVjdSeGN6NnctZUs3ZEZpUy1FUUlXMXFxbmVEX0lUS3k2UVA2UTVlWUVSVnk0cTBkcGNSR090VlZhWFhJTzk2TUtpMzNER3JSbUE1OWlJ?oc=5
+
+Ron Baron Says ‘The Time to Buy’ Tesla Stock Is Now as FSD Takes Off TeslaNorth.com
+
+## 6. OpenAI Misalignment Reports
 Source: Hacker News (discovery)
-Published: 2026-09-17T13:22:36+00:00 | Age: 0.1 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://drillflow.de/de/
+Published: 2026-09-17T18:04:04+00:00 | Age: 0.2 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://alignment.openai.com/misalignment-reports/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49740400
+Hacker News discussion: https://news.ycombinator.com/item?id=49744380
 
-## 4. GlobalFoundries, Marvell expand chip capacity deal for AI data center connectivity - Global Banking & Finance Review
-Source: Global Banking & Finance Review (discovery)
-Published: 2026-09-17T13:19:32+00:00 | Age: 0.2 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1hrN3ZqTHdINEZfT3c5aU9YT3REN3g0cDhBcGZFT1VyRlBaWWhjRVBaMVhHcEsyeVNWa19aWTJfY3ZmZ0QxRmVUTXpDci1Nb0tjUU9la2U3YTRBVDNvN0xrR1RjMFBXekVWdWF5eDZXalNSUHdMZGNjSkxuRnpVcXZPak45RHhSNHU3UDdPY29wRC13QVJYSGVrblM2M1E?oc=5
+## 7. Delta Bridges Energy and Compute for AI Factories Based on NVIDIA DSX™ - PR Newswire
+Source: PR Newswire (discovery)
+Published: 2026-09-17T18:00:00+00:00 | Age: 0.3 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUTJoZHE2OWN0Z1RJVGlaVXUwOU4zRUtrd1p4NnJGaGxldmZUZC1fUG1IczNTU3kzWUphVVVkcEhJT2tUQUxnT3hoTkZKUEpKbGtldmd2RV9CTW5DQ1pSOW1KMWNKN1AxMHN6X2tVNjZsUEdULWVxWVdLb1RFa0ZYUWg4TW4xZmNkNlIzYmI4VkwwTW96RW04V3YwYTJ3c3NRZlNmZjVtSE11WmpicllnTXliaVg1bXpENlhPcnFFV1IzYmM?oc=5
 
-GlobalFoundries, Marvell expand chip capacity deal for AI data center connectivity Global Banking & Finance Review
+Delta Bridges Energy and Compute for AI Factories Based on NVIDIA DSX™ PR Newswire
 
-## 5. From cash to UPI. From smartphones to 5G. From Digital India to AI and semiconductors. Over the last 12 years, technology has become a much bigger part of how India pays, connects, accesses government services and builds new industries. In this deep div - LinkedIn
-Source: LinkedIn (discovery)
-Published: 2026-09-17T13:18:20+00:00 | Age: 0.2 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxOMlhkZk5vc0xQZl96QTd5U0xKMG9MUVVTWkpQLWIxLXgtb1VvM1hKb0R5NWRTcGtRTWF4alJZekJNSkhBUXltWlpfS1llRGF5cndfWGwtN0JFUWFpWmt3NGVWaXFLNWVsdFpRREpHTUJwc1dWQkZkZlI2M25KcFI0TFpFem5nQ0hXTGFLc1UzYlNIRzUzWmtIMlpLNktral8zR25pVVJwdw?oc=5
+## 8. WatchOS 27 removes a feature from your Apple Watch - Mashable
+Source: Mashable (discovery)
+Published: 2026-09-17T17:46:44+00:00 | Age: 0.5 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://news.google.com/rss/articles/CBMickFVX3lxTE1kTGdENmg5VmYwMWRFODBCLXV5cWNlSFBqWHp5eUpJcW5Yb0FSUF96QlhMOGVjNDYwQ0g5Z1ktN0RXaFZ0M3NFZFpLcXE4cnNHX0JYdUMtaEhjUzlFdHl4MDZNRW12X2dwWmFQSTkwY3BHZw?oc=5
 
-From cash to UPI. From smartphones to 5G. From Digital India to AI and semiconductors. Over the last 12 years, technology has become a much bigger part of how India pays, connects, accesses government services and builds new industries. In this deep div LinkedIn
+WatchOS 27 removes a feature from your Apple Watch Mashable
 
-## 6. Nauticus Robotics to present at Water Tower Res... - Pluang
-Source: Pluang (discovery)
-Published: 2026-09-17T13:16:40+00:00 | Age: 0.2 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVpjMFh1dThVc0dOTmZFU3JfaGNEajlIQVhWMXkxWlQwVTBhZVZ0dWV6N1g3bjhUYVBUTnByejYwYWtxU0ZkOTVIY25lcWhTMUlDNjFQbThVNzQtanVhdmFpUWEwUUc3UnVMamhIazZzOU5qRjY3dlFoNmlqTDk5S3JUZXV2SE5nNm9YX3FnZ0JTOEVFS1NSZ2tURQ?oc=5
+## 9. African Startups Gain Momentum as AI and Climate-Tech Investments Rise - techinafrica.com
+Source: techinafrica.com (discovery)
+Published: 2026-09-17T17:26:24+00:00 | Age: 0.8 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://news.google.com/rss/articles/CBMiogFBVV95cUxNTkpQZjBOU1h5SW9fZzZVTHR3ZG42elRUSmpUOVZGVDJCOGNQYmdWektvMlJLaE1OekNsWTFKWEFUbURKWkVXM0dEYWV0bktWX0M1b2NaSTRhd0RSN0xkd3RtNWdrYmkyUjRnb2JleVRabEU3MDkzQXdsRG5FNW5adVhhNjlwRDgxVUVhbkNQcTd5MWdRbzZlclFtN2c2dlJRS2c?oc=5
 
-Nauticus Robotics to present at Water Tower Res... Pluang
+African Startups Gain Momentum as AI and Climate-Tech Investments Rise techinafrica.com
 
-## 7. Chip Giants Samsung, TSMC Hit by Critical U.S. Labor Crisis - The Tech Buzz
-Source: The Tech Buzz (discovery)
-Published: 2026-09-17T13:08:00+00:00 | Age: 0.4 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1N5eHFIeW16cDVEN2RMQlAycWNOQWFxelJZSXl3NW4ybEc0Z3pRbXp3cGprM2xPTGJBTFFVaXVweDRvdUNqSE9DZ04zT2dWUmJvcjQxQ1UwSUk2OUt2UThfWm9WcWN4U2lJUnVQS2pKQXlJRm4tSDdCMlFyOVdhVEpDajd6QmxVNFNoc0pIdUFXM2RY?oc=5
+## 10. Smart Retail Trends 2027: AI, Robotics, Tech Reshaping Shopping - Analytics Insight
+Source: Analytics Insight (discovery)
+Published: 2026-09-17T17:00:00+00:00 | Age: 1.3 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWh3Z3NKWjE1UkxpRmRzdDNEZGxTckJsdGl2VE45VHJtSmhyZ043aGExcUl6NE5WSXNLV3lSdUFlbDdjcWJpT3VMLWFfWkR3Z2hmeXV0V2F0OURodVZXTE52V1JRajJKb2ZTa2VKRnpfbFlwNVZxVGlCdDhyOWtuaU1fVUthdW95aGJvZVZxZUphcUFEV2lmOWt6QzhSRmlOc0pHYmp4R2V2LVIzOE03a29vUUdBYkNx0gHGAUFVX3lxTE5mRjJjdWc4Zk9PemdERVE2NXlUSFpPVDdINlpSYk1GZ1pRWGQxRUhXZmhybGoxTEhaaUl3MGxCY0kxSy15RC1YV01SQjVzT1lRTEY1bzEyelJWY3ByQnVHRnFhSmhtbFpXM1FFdW5MSGlzQUlRdkhab2RSTVBIYmJISEtNYWJzRi1KcWRGOTFaSV90Umw1RnpCTXRGci1oUXZ4OGt0V1JoY1RqeS1wWDB0S2cwblRKOURpU2ZIeTFnM1JFMXNWZw?oc=5
 
-Chip Giants Samsung, TSMC Hit by Critical U.S. Labor Crisis The Tech Buzz
+Smart Retail Trends 2027: AI, Robotics, Tech Reshaping Shopping Analytics Insight
 
-## 8. FIU Study Finds Smartwatches Overestimate Calories Burned During Exercise - Digital Information World
-Source: Digital Information World (discovery)
-Published: 2026-09-17T12:59:00+00:00 | Age: 0.5 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQclNZQ1hhdmV5aGtkTHhiMXNCb0ZITzltX04wczRuQnM4UUtOanlnREt3eEVLb2prUE5KazZ1QnVGa2FRR3pJdnNub3p1QXBzbnQwWXRXUS1YSk5GM3BFbFUzR2RmbTlybnhOMnRJOGtTVldZa0pMUV9EU0V4WE1DeklaZEVBVXhmeExIU1htOFhBM3Q1TWFCS3duZWF6SVVEQ0RJTTk5WGE0ejZPb3owSFJNTzJ3ZnJGQWFISExybmtGT1BBazViTnRoWkROZjUyWkhyWElHVQ?oc=5
+## 11. Exclusive: Power Equipment Startup CorePower Magnetics Raises $10.5 Million - Heatmap News
+Source: Heatmap News (discovery)
+Published: 2026-09-17T16:45:56+00:00 | Age: 1.5 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
+URL: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GLUVjTXVVcV9XRUJkUUNLaWplOTdtY1hUMEJsVWFNU2J6LTNMem9xTnhoU3ZsTVpWNURWakJUYV9Fb3EzWktFTWVrSzVrVUtGemJ5bmZPN0dtZUE2SktWSTlpZw?oc=5
 
-FIU Study Finds Smartwatches Overestimate Calories Burned During Exercise Digital Information World
+Exclusive: Power Equipment Startup CorePower Magnetics Raises $10.5 Million Heatmap News
 
-## 9. Google Faces New Ad Tech Rules as Judge Orders Antitrust Monitor — What Investors Need to Know - TipRanks
-Source: TipRanks (discovery)
-Published: 2026-09-17T07:11:30+00:00 | Age: 6.3 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxOcExpRWhQcDB0VGpMcjd6Skpxby0xTkpTa0xCaHVzRU5xMTlkNVN6aTljVV9RUWtEMzdZYnoxTV9YMmsxQlUwcjJNc0d1Tlp5Z3NiS2RYTFlUNkgtbGt6d2dXMFM5OGduX1FVMkpfVXlrTXhMMkhfLUlIQlN1MUZyQ3gzZXlBakRsdlRxTks2YTA1LTllVzB5S2dBM1poX1ZWWFJWVzlSZXFzNXhCT1Zmc1dqd2RwYUZPWjdGYlJDUQ?oc=5
-
-Google Faces New Ad Tech Rules as Judge Orders Antitrust Monitor — What Investors Need to Know TipRanks
-
-## 10. Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026
-Source: techcrunch.com (reputable)
-Published: 2026-09-17T03:30:00+00:00 | Age: 10.0 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/
-
-This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.
-
-## 11. Migrating the GitHub Copilot runtime to Rust, using Copilot
+## 12. Migrating the GitHub Copilot runtime to Rust, using Copilot
 Source: github.blog (primary)
-Published: 2026-09-17T00:26:43+00:00 | Age: 13.1 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
+Published: 2026-09-17T00:26:43+00:00 | Age: 17.8 hours
+Scanned: 2026-09-17T18:17:05.832406+00:00
 URL: https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/
 
 A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .
-
-## 12. GitHub release: anthropics/claude-code v2.1.274
-Source: github.com (primary)
-Published: 2026-09-17T00:12:02+00:00 | Age: 13.3 hours
-Scanned: 2026-09-17T13:31:08.709509+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.274
-
-## What's changed - Added a visible warning when memory usage is critical, with steps to free memory or restart safely - Added `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` to bound how long the first non-interactive turn waits for connecting MCP servers (`0` = don't wait) - Added `effort` attribute to the `claude_code.llm_request` OpenTelemetry trace span, matching the `api_request` event - Added `claude_code.managed_settings_r
