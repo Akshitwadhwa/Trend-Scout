@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-18T07:30:10.493035+00:00
-Scanned: 2026-09-18T07:30:10.493035+00:00
+Updated: 2026-09-18T11:20:36.453706+00:00
+Scanned: 2026-09-18T11:20:36.453706+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: sandeep123/stride-qwen3-1.7b-nonthinking-stabilized-2048-local_positive-alpha2-20260916
-Source: Hugging Face / sandeep123 (discovery)
-Published: 2026-09-18T07:29:24+00:00 | Age: 0.0 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://huggingface.co/sandeep123/stride-qwen3-1.7b-nonthinking-stabilized-2048-local_positive-alpha2-20260916
-
-text-generation; downloads=0; likes=0
-
-## 2. Electric vehicles to be assembled in Bulgaria from January 2027 - БНР Новини
-Source: БНР Новини (discovery)
-Published: 2026-09-18T07:28:47+00:00 | Age: 0.0 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://news.google.com/rss/articles/CBMingFBVV95cUxPRjhZSUNVYWlvMnZYcFc0Y3ZzLVpnbkFycHFSRVdqS1dJdGhONl9FU3pQUXJkc2stN05FZV9RYlI0ODROM2Y5U2VaWkpVODVBRF92LUJGbUhWRlV4a2FNbTc4eHM2TktYaC11dFM4OElmSU5lUUlNazk2eFBManRsTVZENjdUN2xIcm1wMHVPRDJIbDRMYWdBd1pLVDViZw?oc=5
-
-Electric vehicles to be assembled in Bulgaria from January 2027 БНР Новини
-
-## 3. She's Leaving Me Because I Never Called Her Beautiful
+## 1. Codex: Agents doomscrolling or providing paid traffic to partners?
 Source: Hacker News (discovery)
-Published: 2026-09-18T07:24:45+00:00 | Age: 0.1 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://etechx.co.ke/shes-leaving-me-because-i-never-called-her-beautiful
+Published: 2026-09-18T11:19:47+00:00 | Age: 0.0 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://twitter.com/selimonder/status/2100514223553917023
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49751176
+Hacker News discussion: https://news.ycombinator.com/item?id=49752738
 
-## 4. For India's ecomm players, the new race is to deliver iPhones in minutes - Business Standard
-Source: Business Standard (discovery)
-Published: 2026-09-18T07:23:32+00:00 | Age: 0.1 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxPN01mNFhGc0RqdWlHb2tJX01DSVp5Q1JNUzlGY0dNb25lN09mdlBuaGFMbWdVZUFyTDBXeEN5OHNJVHhPLXlFMFo3QzRyRVluZGh2TU1KMHI5RTljZ3l2YW02ZzBpTEhxcWxTdF85VXRQSEV5ZERiT041UnZOYU0zVkFoV2Vsb1h3bDU4dHZiSTZPU1FOa3VEZFV5RlBXdVlYUENRdjJvM3JpOVNaaXJSZVh3V2EtTXpVYnVKVElpZThkbXJsT3hFTVVnMNIB0AFBVV95cUxQX29jeXFBelZ2b2ZYcVJoVGZfQloxSGpYcjVFSGQ3bllRMnBjNDhDS1ZQUmM3WVpDc1oyTG50LTRUencwS0Z4YXFWd3FsTC04NmlDNkwweDMzY2ZxN29HZmFyTzM5SzBsek1MalhPRUF3WEhNdmRfZ2lIMzlVRG9HTG9LUHRjcmNHbmJ4M1VBSlNTeXNSRUo5Y2Vlay1nSUp6eldyS1M0ZUE2RXBRVTZmaXQ0S0daTkZzaENPdTFiUmFJeEpGYnl6ZGRPNmFaNC1Z?oc=5
+## 2. Hugging Face model update: experimentalmachines/Qwen3-1.7B-ExecuTorch
+Source: Hugging Face / experimentalmachines (discovery)
+Published: 2026-09-18T11:19:46+00:00 | Age: 0.0 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://huggingface.co/experimentalmachines/Qwen3-1.7B-ExecuTorch
 
-For India's ecomm players, the new race is to deliver iPhones in minutes Business Standard
+text-generation; downloads=25; likes=0
 
-## 5. Jev vs. Luna for AI Observability
-Source: Hacker News (discovery)
-Published: 2026-09-18T07:19:19+00:00 | Age: 0.2 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://fatliverfreddy.substack.com/p/a-different-kind-of-model-for-ai
+## 3. Most EU-built EVs could face 10% UK tariffs from 2027 - AM-online
+Source: AM-online (discovery)
+Published: 2026-09-18T11:16:43+00:00 | Age: 0.1 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVHZNelBBbWZOdEFfbldrU1NtR2lVbUhBdGJkbVZhcEJWY2oxMks4Z3J2aGdqTFlkcENQOUt2T3V5ZmpNTWpHN1pIVjZhTWRQOXJiZXdkWW9rUTFjVnpKemdIMzRPd3lwSDV5VnktcllWeW9GRERHZzh1RXo0R2VEYlBvOGR3MDNKZGFn?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49751140
+Most EU-built EVs could face 10% UK tariffs from 2027 AM-online
 
-## 6. Apple’s iPhone 18 Pro sales begin in India as Electronics Mart quietly adds nearly ₹474 crore in market value - Business Upturn
-Source: Business Upturn (discovery)
-Published: 2026-09-18T07:15:00+00:00 | Age: 0.3 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYkFTMGJ6U0t4Y19NOHVVa3hWeHVKQTZQQnJJblpaakFRMlBfWWduWWpYX0swUUN2XzR5Y092YzJsaXYxS0F4VUNFLUhoT243c3llaDMxVGhsX0RKSU5ZakZCQkZSTnhzanQ3T0Q2VTRKUTJsQmROcWZhNE5kY1FvYy1rX0V3Rm5WZ2xBY2ktM012TlVEMXU1eTNWSm80Q3E4VUQ0R2JvbDl5NjI1aVFfWUFuekZwc1hqQkdzSEhvanE5LXlWUG1XaFpwekFwc2dkSTFzOG1HcjlicGhfTFVR?oc=5
+## 4. Saturn Cloud integrates NVIDIA Run:ai for AI inference - Engineering.com
+Source: Engineering.com (discovery)
+Published: 2026-09-18T11:16:06+00:00 | Age: 0.1 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlBOU2pNSWg5QUYyakFkdFgxTzFJSjlOak5FSW1TTlE0X1Q1N2U5V3MwNjZ1Rk9aVlc2RkttOGRQZDFGMkU0bExtZ1B4VEV4SW51SHZoUDZBNG1YRklOcEVZTHE4azRueUgzeTQyU0xQeFZkMGhRS3Z4VWJDUVVybTZRNWk2OVZGTUE?oc=5
 
-Apple’s iPhone 18 Pro sales begin in India as Electronics Mart quietly adds nearly ₹474 crore in market value Business Upturn
+Saturn Cloud integrates NVIDIA Run:ai for AI inference Engineering.com
 
-## 7. India’s Chip Push Gets Another Production Line As Suchi Semicon Starts Commercial Operations At Surat OSAT Facility - Swarajyamag
-Source: Swarajyamag (discovery)
-Published: 2026-09-18T07:04:59+00:00 | Age: 0.4 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdTZrdlZnbDBGeDF2bjJOX21SVGVUQlJta2xBM1o1SDBpd2JSb01kMEUxSHBaR1c0NUFfQUpYS2dJSWlkR01abTRPQkJNZzlfb2ZSYVlTWlJnZ0szalZxdVRLcnFhMkxtcUdRVm5TcWI4elJJdGNVeWFuaTBoYkdkR1plMXFCcU90WlBLcVZDYk90OWdfTEZmRDFEa3RhQ3Rib2VlRHRaODFFZ1dYbnVmNjdvZmtzTXJBMnBDTkl1MFpJYXRHVmFBLU54QldQaFZEcDJJRWNaelNkMno4UThjQ2pLUnp2Q2lk0gH4AUFVX3lxTE5uQkRoSm9TQkV2dDhNSGpyMkxfMlcxb3FjR00zQXM3THlDbWltOUVpaF81VlJWdlB6UDhTUHJvUGkwLU9WamhvNWwyU080dTNfdEdXT1hibHRDdUhrUGU2dk5PQnQzRF9PNk5Tc2tkTEpNVGNKS0hfSGtNc2lCRnRDM3BsQXpxYUUyQmlqdkRBUVlLVm8zamo0QmpEajJTa0tpbUVhenhnbFBTRXFXNEVsOEpxWWJlY3FWQWNxV210UmdMNnhEUEkxNzhfbFl0ZlM3TFhSc0djTFg3ZXpGeEhjQ0NTUTVuOHl4c2ozUHFMUTRURFdJU2dS?oc=5
+## 5. iPhone 18 Pro, Apple Watch, iPhone Duo, and iOS 27 on the AppleInsider Podcast - AppleInsider
+Source: AppleInsider (discovery)
+Published: 2026-09-18T11:10:00+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxNbE81ckQ5U2FXazgyNWMyVmJGLU1wOXFnNW1hTXJpWjdTR0lJcDhNTEI3T290Y2xDVzdYcThDZVJ4R3k2eWtEa3B1RV9HQzExR2lVWE93MElwWWo3M3ZiXzFvN2VOeTRIRG5pRHFzLUhQUVZIRGVVT0loUWJUWWM0bEQtazdrVjlNWTRVVXp6Z014RHF1QkdlVXA0cW90cV81UElGN3RaRW91blRqTzNxNlJxVlY4R0lGY0E?oc=5
 
-India’s Chip Push Gets Another Production Line As Suchi Semicon Starts Commercial Operations At Surat OSAT Facility Swarajyamag
+iPhone 18 Pro, Apple Watch, iPhone Duo, and iOS 27 on the AppleInsider Podcast AppleInsider
 
-## 8. 18 EU energy tech startups to watch, according to top VCs - Tech Funding News
-Source: Tech Funding News (discovery)
-Published: 2026-09-18T07:04:41+00:00 | Age: 0.4 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://news.google.com/rss/articles/CBMibEFVX3lxTFBRR3FhVWVObnBmVVVEeWhnTTNadEZKcTJac2JpdVlmNnFMMGRTMGpuT3V6a2l0VFRIeElUdFExcG1ZeTVJR0NxRkFBaENpZUU1ZjhYV2ZPR0V3Wk03aUdzeE9uYkZOUWthLVQ4Nw?oc=5
+## 6. Your iPhone’s USB-C port can do a lot more than fast-charge - Macworld
+Source: Macworld (discovery)
+Published: 2026-09-18T11:08:54+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxPWEpna1FvQWZmRlhaODRsNjlKYklHeG00T2UxYXlqeFNwRE5TMTBmbzlsLUlRQWtGSFRpbWVxRTZGRS1JS2M4WkV3eW4wVS1aVVZYakFPYm9BVFd6Qzd0YkhOVVdWOU9qMnJ3dEhrYVBKejk3a0xDQnFBay0wYkVDN3NuMFJEbUFJZWFaUHJTSHRzZjBXWElOSDh2TmdDbnZoWU9mbEQ3MVE0SU11WkNrQlYyeXZpWFk?oc=5
 
-18 EU energy tech startups to watch, according to top VCs Tech Funding News
+Your iPhone’s USB-C port can do a lot more than fast-charge Macworld
 
-## 9. Chip foundries better shielded in AI slowdown than Asia-Pacific tech peers: S&P - scmp.com
-Source: scmp.com (discovery)
-Published: 2026-09-18T07:00:09+00:00 | Age: 0.5 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
-URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjJoYkhVeVVZMWtvcnV3Y256NWNWMFNaWnZpRXJoT2d1UmJLaWg3UFZOcC02TnhsdVBoLUFnOXlNR25xd25LZTI4U3F4TDJ5RTgxeFkxdzB0b0xVX1hJUlBIamdYLVhUcHBnaGZXRm1Kd1RpV2pkb0RFaWJfR2F6S2Rsc3hQQmt0ZTBnUVI1SXlKakZNbHU5UXBOUV9RQW56cTU3U3dtd3F3VXl4SmR1Si1jc08xcGViTGs1Y1JrSEFYWVpZ0gHEAUFVX3lxTE9Idm1lZlpzYTFsMGZOSDhSSVRpTmRlRk0zUURLdVBaZHBJWEJQTjZHQWZtN2djSmFwN2d6M0I2NTRhS0pTZlZnY2p5ZkduVDdBRFRsenFLMFpTZEJ2WTJxaU9NTmNWZEh4Uk5MRE5UQXBBR3YxaWtuVG9hY2Y1cWdJMGYtWjFwU3RQTXBITEVCUDJaTEpkcDMxTUNzYkNxdDJKSVlBbC1IM2tmajhCYkFVUGZVcWRuY3F2NzEzU2lBV1BWR0U?oc=5
+## 7. Tata Electronics, L&T Semiconductor partner to manufacture chips in India - The Economic Times
+Source: The Economic Times (discovery)
+Published: 2026-09-18T11:06:14+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://news.google.com/rss/articles/CBMiwgJBVV95cUxQWlp1UExTNnBQdVRNTFVncHR5R0t3UHNxMnVPeXdzOENrVXE0WHFRVWFMUExiVzN4dm1rM2pnQS1HRHdXRU81eHFHcy1RbHZSLXFqZ1o0dzUwblB4d3JuY3lqWEliVFR2UTlxdFNaaHBhX0hCclRYRTRGejJWbGpNczd5cXQyZHBlZzlGVUpqWXJJdC1VLWVvN0NIVVdKZ3BLMVJlR2RYRldZOEVsS0pVSmxjQ1g3dThYZGt0UnJQeHdESlliczBtT080V0RMZ2ItbjFOX3lDV2NKb3pGX2RlbnhIM2tXMmV4OGdqVUYxMWpNbFpfc2ZueHN3dDB5SEw3dXhlaW9FVTlGMnlUMnNrSG5JMmRTclF6UFZZNFFWdXNocWFzTWY3Mm9MSjZuUlQ3QTY4YkV2U2tzTTNBTVlfN1Z30gHeAUFVX3lxTE80a1lYSkp0dkQtN2xYMnMtMVJNVV9YSzF3WTdpdUJKR1lvY1J0bi13TTRkSHRuZkFOOGJEQnZTWW1lYlNSZkFZRmtIS2FnX3lPX09ZOXo0NDZFekxoVTFDb2d3ZU5UaVZMWVpRTC1oTW1ITTBVX2FLNUduZVJOOWtma0tfN0N4WXA2TEt3SjlYM3J3SWVrcnpEbHppeFBSNHZFMnFOMWRYc3J1Tzg2bUJweVBhdUZzeUtQVGVzdlZDdjBDNlJURTBUWk5URFlDMUl4cHdzbjhEMW5TTmhjQQ?oc=5
 
-Chip foundries better shielded in AI slowdown than Asia-Pacific tech peers: S&P scmp.com
+Tata Electronics, L&T Semiconductor partner to manufacture chips in India The Economic Times
+
+## 8. OpenAI breached by researchers using Anthropic models - Financial Times
+Source: Financial Times (discovery)
+Published: 2026-09-18T10:59:58+00:00 | Age: 0.3 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5
+
+OpenAI breached by researchers using Anthropic models Financial Times
+
+## 9. Cheque-in: 5 startups raised $29.9 million this week (and 8 months ago) - Startup Daily
+Source: Startup Daily (discovery)
+Published: 2026-09-18T03:24:41+00:00 | Age: 7.9 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
+URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUFDbC12ZUJjeXBCRjZad3p4WElWYnpZT1JNT3B0Q2J1Y3BKTnpxcVFvdkhzd3BITjFtV2szN3hHcXNTOHg3dDNSSnhHTFNLeFJGYmlPUEMzV01KSHM2YVE2WFNWUEFwaXJsc01Qbl9ZeVhBMnlqTlZxcmpNVlh3UTctZVktM3RSbXo4OEt6bVYteGI3UkFGaFQybkFtejVuZVVqSWNSaFo2SllvY014cg?oc=5
+
+Cheque-in: 5 startups raised $29.9 million this week (and 8 months ago) Startup Daily
 
 ## 10. GitHub release: anthropics/claude-code v2.1.276
 Source: github.com (primary)
-Published: 2026-09-18T02:12:26+00:00 | Age: 5.3 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
+Published: 2026-09-18T02:12:26+00:00 | Age: 9.1 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
 URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.276
 
 ## What's changed - Fixed every request failing with `400 … Input tag 'advisor_20260301'` when `ANTHROPIC_BASE_URL` points at a proxy or gateway (2.1.275 regression)
 
 ## 11. GitHub release: openai/openai-python v3.15.0
 Source: github.com (primary)
-Published: 2026-09-18T00:52:15+00:00 | Age: 6.6 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
+Published: 2026-09-18T00:52:15+00:00 | Age: 10.5 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
 URL: https://github.com/openai/openai-python/releases/tag/v3.15.0
 
 ## [3.15.0](https://github.com/openai/openai-python/compare/v3.14.1...v3.15.0) (2026-09-18) ### Features * **api:** add agent session model settings ([#3882](https://github.com/openai/openai-python/issues/3882)) ([4b15817](https://github.com/openai/openai-python/commit/4b1581771ea97c870187f6ddfc3dbc87ff4fa443)) * **api:** add audio-mini model choices ([#3886](https://github.com/openai/openai-python/issues/3886)) ([a6
 
 ## 12. Google Keeps AdX as Court Orders Behavioral Remedies in Ad-Tech Antitrust Case - The National Law Review
 Source: The National Law Review (discovery)
-Published: 2026-09-17T23:36:32+00:00 | Age: 7.9 hours
-Scanned: 2026-09-18T07:30:10.490638+00:00
+Published: 2026-09-17T23:36:32+00:00 | Age: 11.7 hours
+Scanned: 2026-09-18T11:20:36.451045+00:00
 URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhoNGtaT04tNXdWcUNuakt5eG1iR015RzN0ZGRCd0doSWgxRlRKZmlnNUpXMkZRQUlBdnp6RXlldlhKZFdVblFJX3d1c3dhVVJOZ1kyVmpmR2JCUDVTRXd2OHRfUmMxSm9YVXMtQnNHQkpyVGd4ZVBlSVpxN21JNVA0SEZndGRnSm5RdTFjbkJnYm1QOEZYQ3plVHl2ZDlZTmxXY2xaWDI0NThNR1HSAa4BQVVfeXFMT2hIaDRrWk9OLTV3VnFDbmpLeXhtYkdNeUczdGRkQndHaEloMUZUSmZpZzVKVzJGUUFJQXZ6ekV5ZXZYSmRXVW5RSV93dXN3YVVSTmdZMlZqZkdiQlA1U0V3djh0X1JjMUpvWFVzLUJzR0JKclRneGVQZUlacTdtSTVQNEhGZ3RkZ0puUXUxY25CZ2JtUDhGWEN6ZVR5dmQ5WU5sV2NsWlgyNDU4TUdR?oc=5
 
 Google Keeps AdX as Court Orders Behavioral Remedies in Ad-Tech Antitrust Case The National Law Review
