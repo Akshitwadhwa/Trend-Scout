@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-18T16:27:33.047922+00:00
-Scanned: 2026-09-18T16:27:33.047922+00:00
+Updated: 2026-09-18T19:39:41.113537+00:00
+Scanned: 2026-09-18T19:39:41.113537+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: fpadovani/arb-arab-100mb-after-ppt-Dp-10mb-ckpt500_seed10
-Source: Hugging Face / fpadovani (discovery)
-Published: 2026-09-18T16:27:06+00:00 | Age: 0.0 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://huggingface.co/fpadovani/arb-arab-100mb-after-ppt-Dp-10mb-ckpt500_seed10
+## 1. Hugging Face model update: sandeep123/stride-qwen3-4b-stabilized-2048-single_step-20260916
+Source: Hugging Face / sandeep123 (discovery)
+Published: 2026-09-18T19:39:38+00:00 | Age: 0.0 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://huggingface.co/sandeep123/stride-qwen3-4b-stabilized-2048-single_step-20260916
 
 text-generation; downloads=0; likes=0
 
-## 2. Hugging Face model update: BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PQ2_0-GGUF
-Source: Hugging Face / BoldingBuilds (discovery)
-Published: 2026-09-18T16:26:22+00:00 | Age: 0.0 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://huggingface.co/BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PQ2_0-GGUF
+## 2. LTSCT and Tata Electronics join hands to develop semiconductor chips in India - BigInfo.in
+Source: BigInfo.in (discovery)
+Published: 2026-09-18T19:34:34+00:00 | Age: 0.1 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDI4aVRuZm1XYktJMjY2elBVd01IYWtHUm1mRV9ET0ZRVWp6dnBqYVY0MmhQSzY3QU1maVJvWEZtbnBuWEU3Sk1NUnBDTWt6OS0wY3lJUzV3X2lhQVh0dll3UmcxVzFGVkVZRWtuSkt1QzNYUDhxbVNoaEh0UXc1NERjM3J0R3Vjdy1VQ0dlNnlKSU5wRW9IV0hZZFIwUGhER1pR?oc=5
 
-text-generation; downloads=0; likes=0
+LTSCT and Tata Electronics join hands to develop semiconductor chips in India BigInfo.in
 
-## 3. Google’s Android Bench 2.0 tests AI models on complex tasks - Developer Tech News
-Source: Developer Tech News (discovery)
-Published: 2026-09-18T16:18:10+00:00 | Age: 0.2 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxPcUxBV3BMRTdiSU85NWhvU19PTXhXck94SHVGc0Q5Q2hEWmtRY1RINVNyRHRoY0piREp3Sk81cmc0NVhOTGY0VUN0dUlycF9JQXNyT0h1Z21sV1pQUG04N3Z2RGY0YWhNNWtYdEZIOFpnUDAxNURoS1I4Vk15dDVUaXRaYTZPNzI1cWxwRFN5dWgzRy1zWVJj?oc=5
+## 3. Anthropic's new Claude Code feature could drain your plan before lunch
+Source: Hacker News (discovery)
+Published: 2026-09-18T19:28:36+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://thenewstack.io/claude-code-parallel-projects/
 
-Google’s Android Bench 2.0 tests AI models on complex tasks Developer Tech News
+Hacker News discussion: https://news.ycombinator.com/item?id=49759033
 
-## 4. Welsh public sector EV fleet cuts diesel use and strengthens energy security - Wired-Gov
-Source: Wired-Gov (discovery)
-Published: 2026-09-18T16:16:09+00:00 | Age: 0.2 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWjBTNDcxSHhib1JiX1lwY2t3eUN1NUw4YnhEbklmS1RvYVFyemtHV2FESEcwcm9zY3lYeUphd3VBaFpuNGxYMGFHRXhFVkRrdmwxY0Z3b1I0LWJiSlQtaUx5elBhYkdSZW1fcDM1Z2NTbjJURk9aX2hXTTZmanR5eGtkOWRWdmZ6UnNzb2tENjFvNlJjOC1zVkpJRnlrUUJNckdHem11UWRES3RfN2JtUmVMRnNMcTY5R3JQQ2dtRHJyZVdaZjRCZWEwajlEUTJDM2pCRzhIUnpqMms?oc=5
+## 4. BrainChip puts Akida in every slot - Jon Peddie Research
+Source: Jon Peddie Research (discovery)
+Published: 2026-09-18T19:28:05+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1QMmZESmtkbUpaTmdnMnAyYVJHeWtzTGhTcUpub19GdU1rREZPZXhwUGpDYnp5X0RyWnMwbi1icVFCemEtczZDRlppQ2xFc0FWbWVXaGtfOEltTmdxMFZDcXlFWnd4aTZzN2JNTDhTYnd3S254?oc=5
 
-Welsh public sector EV fleet cuts diesel use and strengthens energy security Wired-Gov
+BrainChip puts Akida in every slot Jon Peddie Research
 
-## 5. Apple Designers Explain the Thinking Behind iPhone Duo - MacRumors
-Source: MacRumors (discovery)
-Published: 2026-09-18T16:10:53+00:00 | Age: 0.3 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://news.google.com/rss/articles/CBMifEFVX3lxTE5HbmpmTTJkSUF2ZndHQTM0STBCb25QV3ZoMWlPbEJSbDJqd3ZWaUFVTjRnVlF3N0p1T3lIaHRlcFJmR2ZnQUhVakIxV1dvalp0RkRTa2ktZkFFazNad044UE11eDBvdUhpX195WEVmU2k4OU93R3RfRHpTb1Y?oc=5
+## 5. ​Ukrainian Drones Strike russian Buk-M1 Launcher on Zaporizhzhia Axis (Video) - Defense Express
+Source: Defense Express (discovery)
+Published: 2026-09-18T19:27:48+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDlURk9LbjJFbGZoTXcwR0dDYUlQdFpIaUhMVENSUkFlVHJ0T1JLRzFPeWJtRFIyc2x3cGlPRFNxSXlCZzI5SXhKdnYwZjhJWnNRTzZ4bkhFVVRnbGNSMDUtWU55cjBlVklvNmJmU1RoY0FRQlJ1VlRnUjVOZG5LWURTYmpLaVlLUUg2OTk2dFE2U3phb051dE42X3dJRU85dkJCYnpOSHJGWEZqM3Z5dHdsVXAwN0k?oc=5
 
-Apple Designers Explain the Thinking Behind iPhone Duo MacRumors
+​Ukrainian Drones Strike russian Buk-M1 Launcher on Zaporizhzhia Axis (Video) Defense Express
 
-## 6. JPMorgan Names Top Semiconductor Equipment Stocks Amid AI Buildout By Investing.com - Investing.com India
-Source: Investing.com India (discovery)
-Published: 2026-09-18T16:09:55+00:00 | Age: 0.3 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2FqZWtSbE5QWjBsTk5LVThQdm9ReEJSYlQwZjRqZXVLMm5lMV9rR3g2eEJTUWhIQktQN2RsSzdyVnFMZThtSzRMSkd4bTVkSXgwZExuak9fNWF2MWxvcHRVc3BRQ1docEdfTldHYkZNYmJEZ08zVTBKb1UwNEtaN0piMEJmNHpNU0dUcjE3YzJZaVB0ejBJX1FFZmQxZFdLcElMcWNXaGNnbzhvX2lLTUpNdzJhM1JqcXl1VGlrM0RrdFZwWkE?oc=5
+## 6. Friday’s Apple Books and audiobook deals up to 87% off - 9to5Toys
+Source: 9to5Toys (discovery)
+Published: 2026-09-18T19:27:00+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE9ldFFRUE5QdWdvN3FENjBIZmFET0c1RTlxWXk1N3dVWmlQbzV4THFnWG5Sc1VOb2xGRGxjbVlUY0xTeDZEeFNVVkZReERVcHdCVlVMclJIc1Q3aVRBQUQ2c3pQS0FnNVdqc0kyZjJTd3hRM0xGSWh0eWNR?oc=5
 
-JPMorgan Names Top Semiconductor Equipment Stocks Amid AI Buildout By Investing.com Investing.com India
+Friday’s Apple Books and audiobook deals up to 87% off 9to5Toys
 
-## 7. Canada’s privacy czar seeking information in massive driver’s licence hack - Global News
-Source: Global News (discovery)
-Published: 2026-09-18T16:08:17+00:00 | Age: 0.3 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHh3Y21vUlFxRF9KczhRRlNzcVNiRG5ac3VZR2haMzFyb0hDZDY0bHBiWHVreDQ0U0pkeW1PSEtVMVJWZHdhTFI2dWRLdFJuX29yazhPN1ktV0VzZ2I5YWhRb1BGOVhoYU13OGgyRUh3dXBzVU5ZR25LMmU4eHo3UWw3OV96UE9yNHFEUUJn?oc=5
+## 7. Show HN: OnPanda – Steer LLMs and agents at the token level
+Source: Hacker News (discovery)
+Published: 2026-09-18T19:26:50+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://onpanda.diyer22.com/
 
-Canada’s privacy czar seeking information in massive driver’s licence hack Global News
+Hacker News discussion: https://news.ycombinator.com/item?id=49759013
 
-## 8. OWASP Los Angeles Meetup: How AI Agents Are Changing Mobile App and API Security - 01net
-Source: 01net (discovery)
-Published: 2026-09-18T16:02:00+00:00 | Age: 0.4 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVZVUUQxVXFycDJ6bFZVV2hFU3hhYkdUVG1SeHhDZUViZncyNXpQblRwQ0pJR1Fwb1gyeTBENWZ5b2JZcnFQdUF1X3J2bjZhZEVTZHp0SzNBU1dSYXBDd3AxT25XdlByV042TkktSHBlM3ZXMWlnbGlkYVdYRXBvVmhfUU4yVlR6RlpJTC13b01kYktlSG40ejZmSFJ4bUtSOGUw?oc=5
+## 8. How to Transfer Data to iPhone 18 Pro: Quick Start, eSIM & Setup Fixes - zeerawireless.com
+Source: zeerawireless.com (discovery)
+Published: 2026-09-18T19:09:59+00:00 | Age: 0.5 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1o0VTlNQVQ1Smtxb2otUTRJaTBXOWprM0x4T08tMEVJUFJsVHlUakxuckR1LUJybVlTSnVBeEVleWIxZkhvcThIdkRXV3B6NXlKM05MSVpQYU83VndZVEQtcWphU0FVaEJHU2tQLUh2VTdrZU5ubk0tUjRfUVJFYkZGRXUwRFMtb0tvek5BRWpqWHZV?oc=5
 
-OWASP Los Angeles Meetup: How AI Agents Are Changing Mobile App and API Security 01net
+How to Transfer Data to iPhone 18 Pro: Quick Start, eSIM & Setup Fixes zeerawireless.com
 
-## 9. Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026
+## 9. GitHub release: openai/openai-python v3.16.1
+Source: github.com (primary)
+Published: 2026-09-18T19:00:33+00:00 | Age: 0.7 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.16.1
+
+## [3.16.1](https://github.com/openai/openai-python/compare/v3.16.0...v3.16.1) (2026-09-18) ### Bug Fixes * **api:** avoid loading unrelated API resources on first use ([#3898](https://github.com/openai/openai-python/issues/3898)) ([68e4317](https://github.com/openai/openai-python/commit/68e4317aa3df4b6e7a5ea3f75833bdd7d76e447d))
+
+## 10. A new kind of AI model from a ChatGPT inventor is thrilling developers
 Source: techcrunch.com (reputable)
-Published: 2026-09-18T15:30:00+00:00 | Age: 1.0 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/
+Published: 2026-09-18T18:49:30+00:00 | Age: 0.8 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/
 
-Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.
+Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.
 
-## 10. Should you read the code, is RAG dead, and did Skills kill MCP?
-Source: github.blog (primary)
-Published: 2026-09-18T15:00:00+00:00 | Age: 1.5 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/
+## 11. The Week’s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment Management Lead - Crunchbase News
+Source: Crunchbase News (discovery)
+Published: 2026-09-18T18:29:32+00:00 | Age: 1.2 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxQOWVjUlo2TXU0ZTVral9NZ09WMjlFZXRJcEQtWWhQNktRcmdZUnkwcVJneV9BanczanZubGtJU0Z0Z0J5azIyNTdSRVVGVU1aczN1ckR0dXl1SThYdl9ZUDlYa05vWmZhMDM2M1daWXB1UGxKLWZEdkpoSUpFdWI5dDdFYUVTNVQzbFp5VC13?oc=5
 
-We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .
+The Week’s 10 Biggest Funding Rounds: Large Rounds For AI Infrastructure, Space Tech And Investment Management Lead Crunchbase News
 
-## 11. Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce
-Source: about.fb.com (primary)
-Published: 2026-09-18T14:55:13+00:00 | Age: 1.5 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/
+## 12. Disney’s first CTO led an AI startup it once accused of copying its characters
+Source: techcrunch.com (reputable)
+Published: 2026-09-18T17:59:53+00:00 | Age: 1.7 hours
+Scanned: 2026-09-18T19:39:41.111162+00:00
+URL: https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/
 
-Na początku tego tygodnia fundacja Instrat opublikowała raport dotyczący jednego z najtrudniejszych wyzwań, z jakimi mierzy się cała branża – reklam o charakterze oszukańczym. To poważne i złożone wyzwanie, które dotyczy firm technologicznych, banków i całego społeczeństwa. Ciężko pracujemy, by przeciwdziałać działaniom wyrafinowanych i zdeterminowanych przestępców wykorzystują zaawansowane systemy sztucznej intelige
-
-## 12. Google Keeps AdX as Court Orders Behavioral Remedies in Ad-Tech Antitrust Case - The National Law Review
-Source: The National Law Review (discovery)
-Published: 2026-09-17T23:36:32+00:00 | Age: 16.9 hours
-Scanned: 2026-09-18T16:27:33.045175+00:00
-URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhoNGtaT04tNXdWcUNuakt5eG1iR015RzN0ZGRCd0doSWgxRlRKZmlnNUpXMkZRQUlBdnp6RXlldlhKZFdVblFJX3d1c3dhVVJOZ1kyVmpmR2JCUDVTRXd2OHRfUmMxSm9YVXMtQnNHQkpyVGd4ZVBlSVpxN21JNVA0SEZndGRnSm5RdTFjbkJnYm1QOEZYQ3plVHl2ZDlZTmxXY2xaWDI0NThNR1HSAa4BQVVfeXFMT2hIaDRrWk9OLTV3VnFDbmpLeXhtYkdNeUczdGRkQndHaEloMUZUSmZpZzVKVzJGUUFJQXZ6ekV5ZXZYSmRXVW5RSV93dXN3YVVSTmdZMlZqZkdiQlA1U0V3djh0X1JjMUpvWFVzLUJzR0JKclRneGVQZUlacTdtSTVQNEhGZ3RkZ0puUXUxY25CZ2JtUDhGWEN6ZVR5dmQ5WU5sV2NsWlgyNDU4TUdR?oc=5
-
-Google Keeps AdX as Court Orders Behavioral Remedies in Ad-Tech Antitrust Case The National Law Review
+The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.
