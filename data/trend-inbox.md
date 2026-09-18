@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-18T00:22:59.590146+00:00
-Scanned: 2026-09-18T00:22:59.590146+00:00
+Updated: 2026-09-18T05:57:37.778399+00:00
+Scanned: 2026-09-18T05:57:37.778399+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: sandeep123/stride-qwen3-1.7b-nonthinking-stabilized-2048-local_positive-alpha05-20260917
+## 1. Hugging Face model update: sandeep123/stride-qwen3-4b-stabilized-2048-local_positive-alpha2-20260916
 Source: Hugging Face / sandeep123 (discovery)
-Published: 2026-09-18T00:22:54+00:00 | Age: 0.0 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://huggingface.co/sandeep123/stride-qwen3-1.7b-nonthinking-stabilized-2048-local_positive-alpha05-20260917
+Published: 2026-09-18T05:57:32+00:00 | Age: 0.0 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://huggingface.co/sandeep123/stride-qwen3-4b-stabilized-2048-local_positive-alpha2-20260916
 
 text-generation; downloads=0; likes=0
 
-## 2. Inside Microsoft and OpenAI, Worry About Damaging the Publishing Industry
+## 2. Hugging Face model update: mobilint/Qwen3-VL-2B-Instruct
+Source: Hugging Face / mobilint (discovery)
+Published: 2026-09-18T05:56:49+00:00 | Age: 0.0 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://huggingface.co/mobilint/Qwen3-VL-2B-Instruct
+
+image-text-to-text; downloads=1722; likes=0
+
+## 3. HMS Networks to Acquire Robot SA to Expand Building Automation - Construction World
+Source: Construction World (discovery)
+Published: 2026-09-18T05:54:55+00:00 | Age: 0.0 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxOUndpOExFNVFxMWhpU1lUS3hpY21iREttRnlLV3ZCY2lVSC1yWjByTWRjWmlKY0N5MUJFOHdRcnNDYzhHZlFZalVMZV9xd083OFJUbG0ySmJfZXYyMkVaVUYtQ2djWVdIOEM1Y010OWF2UHpwMmQ4NkY2Q1hLS1hGX1ZSTlc4d2IyOWVabEhvcTVwQW15c1laTTRxZWdwNlFIb3dQQ0RLUkEyeTEtX0JqS05Ob0RIQW4yNDRZN09pSGhoNTRKSHJvYUNSVmtidkk?oc=5
+
+HMS Networks to Acquire Robot SA to Expand Building Automation Construction World
+
+## 4. Open alternative to TypeSafe's Jev, running locally on your own GPU
 Source: Hacker News (discovery)
-Published: 2026-09-18T00:18:31+00:00 | Age: 0.1 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://www.nytimes.com/2026/09/17/technology/microsoft-openai-publishing-industry.html
+Published: 2026-09-18T05:50:58+00:00 | Age: 0.1 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://github.com/ikermoel/open-alternative-jev
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49748613
+Hacker News discussion: https://news.ycombinator.com/item?id=49750584
 
-## 3. Talk to JEV
-Source: Hacker News (discovery)
-Published: 2026-09-18T00:16:31+00:00 | Age: 0.1 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://jev-grug-chat.mkotlikov.chatgpt.site
+## 5. Apple’s iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5 now available to buy in stores - BetaNews
+Source: BetaNews (discovery)
+Published: 2026-09-18T05:50:13+00:00 | Age: 0.1 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeHIwaV9HRDUtSnJMSE0zWnJvT3JodS1QMXpteVFSSUl5dFpzM2tLVGMybkdrZjlOLWh1OFZkWVJDUnhhMG9aaDVLR3dOSE9GVnZXcEplXzNXYVJRcE1xbjBUTFY3bG9uV1hXV0RRanZvSEhaTm02NWo5WU5XNklEZnJZbV81bGJ0cDJ6anRWdGRUZ2oxUGVidVN4MVpxV01rbVJfeVBOMWt5dHlTaTAtX0Y4SURxM181WE9WbXo2Tm5RZDAtbVZ2WmhXM1BpOHlPTkZj?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49748596
+Apple’s iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5 now available to buy in stores BetaNews
 
-## 4. Green GSM PH Turned Over 1,000 EVs To Its Driver Partners - CarGuide.PH
-Source: CarGuide.PH (discovery)
-Published: 2026-09-18T00:12:33+00:00 | Age: 0.2 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://news.google.com/rss/articles/CBMifkFVX3lxTFB3Y1JnWFhnVGp5YWlYQkFyQmFza2RkMlhTenFha3FIZGVYVmo4dGZqaVhhRHFBSXVXZXB0UVZRam5ucXIyMWhrRUFoZDlYV3UwV1lrcGxHN2lTX0NtQUttM0o2SU9xN1AteTN0RGd0UFNBSWlaQzQtTm9sdGF3Zw?oc=5
+## 6. L&T Semiconductor Launches 40 New Products At Semicon India 2026 - Sahi
+Source: Sahi (discovery)
+Published: 2026-09-18T05:43:35+00:00 | Age: 0.2 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxOTjJjU2hGRVBqVTNwOFY0LU83eU9IWVk5ZDU3U3dhOENUckZ4MG5ycy1JOWx0Q2U3TC12QmszVWJoNDNnQ1lfWkhubWVwcnlneFItNHBTY2dfTFdkSk9tdWs4ektoams3MjlaLXNzTVNlLUxxRlFsODl4UkVvY3Q3SFdiaWFqcFpjN3Nrc1FmcWxaZHFH?oc=5
 
-Green GSM PH Turned Over 1,000 EVs To Its Driver Partners CarGuide.PH
+L&T Semiconductor Launches 40 New Products At Semicon India 2026 Sahi
 
-## 5. European driver eyes an EV over oil-crisis fears, then sticks with 2007 Fabia for now - The Cool Down
-Source: The Cool Down (discovery)
-Published: 2026-09-18T00:02:00+00:00 | Age: 0.3 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3otTEEtZHQ5aWVVWnZEVUZDQnE5TnJETXJxSDVRNHNzMTVrcTJMdmx3NGxscXJpM1RTN1c2UXIzTERMV3g1YnV1R2RaajB0N1ZvSjhLZ2Q2aDFWN3ZFOGhjOUhmak94TU5WS3FjOHZkdHB6aDktRTN3SUJqTDNCeTN4QWZrOGRhYjd6RU5XaFptQQ?oc=5
+## 7. Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories - CyberSecurityNews
+Source: CyberSecurityNews (discovery)
+Published: 2026-09-18T05:26:15+00:00 | Age: 0.5 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://news.google.com/rss/articles/CBMidEFVX3lxTFB6TFhfVGhNektfV05vR0luZ25sYTBxVjBQMzNiblNTT2E2LWFucElkam1TRERuTm1LT0Q2WEJkbS1DVnVpZDI0blViaDZRUHRLdXFTUlFpSXVBQnBEMTM2bVhfeFZGSjhQZWdxYzlMQlZxSGRG0gF6QVVfeXFMTUQ1RUM0eklRVjhlNS1jMEV2RFEwWDRZRDRrWThSTWNXSG9mTVVYOVRmSkcyY1lSUUg3Vm5fQngtZmlERHREWVk4d1Y4Zmk0N3FQb1N4elpTUlBGbm9HRGw0WE9oS1VkdVVTVWJYcFRPVVE3MDV1R0lJT3c?oc=5
 
-European driver eyes an EV over oil-crisis fears, then sticks with 2007 Fabia for now The Cool Down
+Researchers Use Claude Opus 5 to Hack OpenAI Forum and Reach Internal Repositories CyberSecurityNews
 
-## 6. GPT-5.6 Sol assistant can't keep the count to 10 - OpenAI Developer Community
-Source: OpenAI Developer Community (discovery)
-Published: 2026-09-17T23:59:11+00:00 | Age: 0.4 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxORjA3elFqcXpHQWtyc0dmTEZEQjlDY0tLc3FpYUM2RTEwNTV4aHcweTVqdFZmQlNsb0VNV3I4SkprMzhsRlVmb0ZrNTdqR3BXVlBaTm5iQkl0VHhpRkN3Y0xyV2dvN0JweUxQTkhoVXRnRzdGbTk2QmxuLVVSTmdHTWltWXFlX0RvdnlnY2lrOA?oc=5
+## 8. Spain’s Data Regulator Logs First Breach Blamed on an AI Agent - SOFX
+Source: SOFX (discovery)
+Published: 2026-09-18T05:15:19+00:00 | Age: 0.7 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWtVQm1GLXhLSmNPWnRCMHhseWYwS0tSb0F6LUFIUzZiVzB6MDU5dHE0VGp6UWlidmhxRFBKTXdtQkVGU0xNSDN0U1J3OTVhT0tjb05JVGlQT0xlb3ozNGk4ZzFpSUpTRnY2Nmo0NDBMZTg2SjBmVlRaNmhMam5PbWhWdm9BRDZTVW9z?oc=5
 
-GPT-5.6 Sol assistant can't keep the count to 10 OpenAI Developer Community
+Spain’s Data Regulator Logs First Breach Blamed on an AI Agent SOFX
 
-## 7. Apple’s new iPhone 18 lineup is here: Prices, the first foldable iPhone Duo, Apple Watch Ultra 4 and AirPods 5 - 7NEWS
-Source: 7NEWS (discovery)
-Published: 2026-09-17T23:59:00+00:00 | Age: 0.4 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcEJXbU82T1pra3FNYlFUczdwdmVkUjd6S0xUeEFXX2hiSW5PRmlYYjdrd21YSXlDWTNvWm1JdmNual82SVB3eWctT1M5Z3IxUHpVTGZuVkh6TEs3V21UMVIyZDJIZXY5UjR4Ynd1ZG5KREloTUZ0Z3UxaWlLNWRfM0poU3FjVWhhSjdjUEQyaGM3azlMZG16MFg5RFVTUHUzLWN5OE5acFBYSWc4XzM3Z0s1RmNkRThickhBcDBuS1BDNURUMnc2VXFFQUtzcTVfeHk3MnRZZU9FLWJRZVZfd3Rn0gHnAUFVX3lxTE42ZnZ6XzZlbkpXaFZSaEtQci02d1pBUVdxeWRiajU4NGxVNEwweGloTS1sLUY0VU8xNFk0TkQ4ZmF5SDQ3aDl4MF8yX0N5WldIMWZUeUNrNF9GX1lWQU1TSEJYbl8yb1pMYzhmRFZ1ZURfOFF4bEJtVjFTNXRGbzVRTW1MX0FKbF82NExBNFpFRnc0Q094VVJzRnpJTDg0V2NsdWtqanZrVkZ0WnZuQjdMR1E2Y3hldThubmlqTFc1Ymo2YTh3SFRMdHhNdktUSndWN3RrWVdtSnYwTlVzX0lhRjZVTEtEaw?oc=5
+## 9. The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide
+Source: apple.com (primary)
+Published: 2026-09-18T05:02:14.780000+00:00 | Age: 0.9 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/
 
-Apple’s new iPhone 18 lineup is here: Prices, the first foldable iPhone Duo, Apple Watch Ultra 4 and AirPods 5 7NEWS
+On Friday, September 18, Apple Store locations around the world introduced customers to the iPhone 18 Pro lineup, Apple Watch Series 12, Apple Watch Ultra 4, and AirPods 5.
 
-## 8. 'Friday Night Baseball' to be captured by iPhone 18 Pros - AppleInsider
-Source: AppleInsider (discovery)
-Published: 2026-09-17T23:52:00+00:00 | Age: 0.5 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPek1tTEZ0RWhXRGFuTWY0emNfZXZkV0ZDNmhVRzNzVjNyVnhoLWw2MDFmY2VqeVlLTy1odlBYb2xwR2RxVTlLTUg4SElralFFN3FBczRteWJWY1FGSjljM0Rrc3lvMUFPb1E4bWhwQTFVYWdCTWEwNndTY2NOLW15Z3VUTmxCRmhPeHIyU0dqUEZVeGtJVDR6d1JQdGk3UWh4cEJyZkZlTURuZ19jSVZZUWVFVDh4dkV3X0wzbWhxQVZMUVU?oc=5
-
-'Friday Night Baseball' to be captured by iPhone 18 Pros AppleInsider
-
-## 9. EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders - indiasnews.net
-Source: indiasnews.net (discovery)
-Published: 2026-09-17T23:30:00+00:00 | Age: 0.9 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3dPaTlUVXdTLWFlYm02Unl1RDBwTl93SWhGaDF2NkFNM1dSVzN2dWNraF9SV2Rzblc2MWpfMVZNdDJPZG96TUtSbWgtNjNCSkZjSDVSaDRSLWgxRWpRN0lzaEFKWFN0TXlfZ1hpcUhrNmRzWXBFT0V2d1VfcVNwMHhQcjFoRXVITkZzYkdDUkpGLXBWZzNqdUgzOWlZbHhLMXg3bXA2cUpNSHRDdWdsSGh4d3ItS2tmcWsxUlRzSQ?oc=5
-
-EyeROV: Indian Deep-Tech Startup Showcases its Underwater Drones to World Leaders indiasnews.net
-
-## 10. Crusoe raises $3.9B to build massive data centers and small modular “AI factories”
-Source: techcrunch.com (reputable)
-Published: 2026-09-17T23:25:52+00:00 | Age: 1.0 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/
-
-The round values the data center giant at $30.9 billion.
-
-## 11. Data-centre robot startup Watney raises $80M Series A - Dealroom
-Source: Dealroom (discovery)
-Published: 2026-09-17T23:17:59+00:00 | Age: 1.1 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxOeTNpVlRuX1NHdnJNTWc1WmplazA4Z2ZxS1AzWTFXbmJHZDN5TmZXZzctREdMX2Z6TVZRSlB6WWVDenVKN3U2cUJfbnlMWGlxeGNUaGpveEVLX2V2MGR2dTlqMXhfZU5DU0pnc1FibjdHWUtaYWRmd0NEd2xwckNzRTdZTGtlS1BQSHQ2YjRaQQ?oc=5
-
-Data-centre robot startup Watney raises $80M Series A Dealroom
-
-## 12. GitHub release: anthropics/claude-code v2.1.275
+## 10. GitHub release: anthropics/claude-code v2.1.276
 Source: github.com (primary)
-Published: 2026-09-17T22:33:17+00:00 | Age: 1.8 hours
-Scanned: 2026-09-18T00:22:59.587524+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.275
+Published: 2026-09-18T02:12:26+00:00 | Age: 3.8 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.276
 
-## What's changed - Added the signed-in account to Claude apps gateway sign-in: when the gateway names it, you confirm it before the credential is saved, and `/status` shows it - Added a send-now key (ctrl+enter, or ctrl+x ctrl+s) that interrupts the current turn and sends all queued messages at once; sent and queued messages show in gray until the model receives them - Added a startup warning when a configured `otel
+## What's changed - Fixed every request failing with `400 … Input tag 'advisor_20260301'` when `ANTHROPIC_BASE_URL` points at a proxy or gateway (2.1.275 regression)
+
+## 11. GitHub release: openai/openai-python v3.15.0
+Source: github.com (primary)
+Published: 2026-09-18T00:52:15+00:00 | Age: 5.1 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.15.0
+
+## [3.15.0](https://github.com/openai/openai-python/compare/v3.14.1...v3.15.0) (2026-09-18) ### Features * **api:** add agent session model settings ([#3882](https://github.com/openai/openai-python/issues/3882)) ([4b15817](https://github.com/openai/openai-python/commit/4b1581771ea97c870187f6ddfc3dbc87ff4fa443)) * **api:** add audio-mini model choices ([#3886](https://github.com/openai/openai-python/issues/3886)) ([a6
+
+## 12. Google Keeps AdX as Court Orders Behavioral Remedies in Ad-Tech Antitrust Case - The National Law Review
+Source: The National Law Review (discovery)
+Published: 2026-09-17T23:36:32+00:00 | Age: 6.4 hours
+Scanned: 2026-09-18T05:57:37.775702+00:00
+URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPaEhoNGtaT04tNXdWcUNuakt5eG1iR015RzN0ZGRCd0doSWgxRlRKZmlnNUpXMkZRQUlBdnp6RXlldlhKZFdVblFJX3d1c3dhVVJOZ1kyVmpmR2JCUDVTRXd2OHRfUmMxSm9YVXMtQnNHQkpyVGd4ZVBlSVpxN21JNVA0SEZndGRnSm5RdTFjbkJnYm1QOEZYQ3plVHl2ZDlZTmxXY2xaWDI0NThNR1HSAa4BQVVfeXFMT2hIaDRrWk9OLTV3VnFDbmpLeXhtYkdNeUczdGRkQndHaEloMUZUSmZpZzVKVzJGUUFJQXZ6ekV5ZXZYSmRXVW5RSV93dXN3YVVSTmdZMlZqZkdiQlA1U0V3djh0X1JjMUpvWFVzLUJzR0JKclRneGVQZUlacTdtSTVQNEhGZ3RkZ0puUXUxY25CZ2JtUDhGWEN6ZVR5dmQ5WU5sV2NsWlgyNDU4TUdR?oc=5
+
+Google Keeps AdX as Court Orders Behavioral Remedies in Ad-Tech Antitrust Case The National Law Review
