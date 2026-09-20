@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-20T01:12:47.878174+00:00
-Scanned: 2026-09-20T01:12:47.878174+00:00
+Updated: 2026-09-20T06:21:32.050451+00:00
+Scanned: 2026-09-20T06:21:32.050451+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: quill-voice/cowboy
-Source: Hugging Face / quill-voice (discovery)
-Published: 2026-09-20T01:11:51+00:00 | Age: 0.0 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://huggingface.co/quill-voice/cowboy
+## 1. Hugging Face model update: Vxtzq/Crowd-v1
+Source: Hugging Face / Vxtzq (discovery)
+Published: 2026-09-20T06:21:04+00:00 | Age: 0.0 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://huggingface.co/Vxtzq/Crowd-v1
 
-text-generation; downloads=0; likes=0
+text-generation; downloads=20825; likes=7
 
-## 2. Apple Enthusiasts Gather as iPhone 18 Launches in India - RS Web Solutions
-Source: RS Web Solutions (discovery)
-Published: 2026-09-20T01:00:00+00:00 | Age: 0.2 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVJPU0FsSVhuVmdvN25XQ0U0VWVZcmFCaE5fajlHbjFTTUxSS2tjbndhUUpMQnYtejcwOElXYmRtYkc5RnhXbEdETEtFb3ctVFVTTTJHeEhTNXdtcjRqWTZyY3dnc25HWG5sTU1kcWZYVzJFLTVPYWxOQlB2V0gxYlMwNlNJOW92aUl4SlQ3bkF4MzNDOFFTT096ZTR5XzNqS1RKVXVLYmdZRjd2dUhPcjZOV3BKdFlwLXRsc05BMDFDUQ?oc=5
+## 2. How Modi-era Reforms Reshaped India's Entrepreneurship Dream: From 1.6 Lakh Startups To 150 Unicorns - BW Businessworld
+Source: BW Businessworld (discovery)
+Published: 2026-09-20T06:19:27+00:00 | Age: 0.0 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaFcwTEVSQ080MjVtTVV4X3hVaXZDNWlOOHhrRm9qdmpEaFh1S3RzME54QTVYb2Q0N1JXWDdkbjg5WnJzeUx3WGdYTE95NVpLN0FaaVk4djExQlVEWW5tTnRtZHJ2aUYzUUpiYndnTVRtQ2kydlRtR0pkak5tV0lQVlJMc0hIUnlVWU9wUVZSMElHUHl4eFJmSW9XX3gyTEJReTdkQUdSNjlSR2pIcnZzbEJ5X3FWZ1YtbEk1T0Y5VFJlTk81dlJIdzFJRXRJcUgzZnBjSDRUVGpOYlU?oc=5
 
-Apple Enthusiasts Gather as iPhone 18 Launches in India RS Web Solutions
+How Modi-era Reforms Reshaped India's Entrepreneurship Dream: From 1.6 Lakh Startups To 150 Unicorns BW Businessworld
 
-## 3. Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Gulf Coast News and Weather
-Source: Gulf Coast News and Weather (discovery)
-Published: 2026-09-20T00:57:00+00:00 | Age: 0.3 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTlmM1ViTVRtV0ZfdDJnc3k1dEdmREIyeEJjSlFUaDItR3lMaE9oUE1YMVE5VUxZMDNoX1pQb1pqN2lTVDBiQUFiSXR6M1psa3FORHhLbTFfdlpVR3N5Y29LVy1MY3NGZzA4eTJtdTZ1VF90bTJRSkdyXzVaOVFta01tNzgwUy1RSmc?oc=5
+## 3. India’s semiconductor market projected to cross USD 200 billion by 2035: EY-IESA report - ddindia.co.in
+Source: ddindia.co.in (discovery)
+Published: 2026-09-20T06:14:00+00:00 | Age: 0.1 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxNbVpKQmFISGJNQnlnNGdXVnVkNFdZOUFvTW5Rc1l2NzVISDVURjV4cHlTR0dleXNtWHdRRk1MS3AwWTdRdzJ5bmg3MlJfbE5vMFEtU2RRN3QxWTI3Sm96ZnR3TnFDSHdUSjhWYnZmOElwczVYOGlmUmtkQW9RWWF0MTktNC12ZkpwWU5HSXN1Z2Z2WjltUzhTZ2ZHWGhPYUdOdTR3Y1c2aEhyRVlGRmk5ZVlZbHpqT0U?oc=5
 
-Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown Gulf Coast News and Weather
+India’s semiconductor market projected to cross USD 200 billion by 2035: EY-IESA report ddindia.co.in
 
-## 4. Generating levels in real time with the Jev model
+## 4. OpenAI retiring GPT-5.5 on October 14
 Source: Hacker News (discovery)
-Published: 2026-09-20T00:46:31+00:00 | Age: 0.4 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://www.spritefusion.com/blog/generating-game-level-in-real-time-with-jev
+Published: 2026-09-20T06:05:43+00:00 | Age: 0.3 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://www.gizmochina.com/2026/09/16/openai-retiring-gpt-5-5-on-october-14-you-may-need-to-update-your-workflow/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49771494
+Hacker News discussion: https://news.ycombinator.com/item?id=49772909
 
-## 5. iPhone 18 Pro hands-on: What's new with the cameras - Mashable
-Source: Mashable (discovery)
-Published: 2026-09-20T00:42:12+00:00 | Age: 0.5 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://news.google.com/rss/articles/CBMic0FVX3lxTFBwRk9JYnU4cS1DYzFKTzhKVHJwLU1WZlY4SmRBM3k2RzFqeVVyMThPVFVtaU5XbUFFbVJnbW5IYzE1T3l2NW5TdExsX0UzNU12NGJvU1pzMk5oeUFtTkZ4RUdJN0sxUE1zMXJKck9vODRUT2M?oc=5
+## 5. Everyone wants to learn from BYD to manufacture batteries, but can they really get it right? - 36Kr
+Source: 36Kr (discovery)
+Published: 2026-09-20T06:03:26+00:00 | Age: 0.3 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JRjczU3o0NUE3T1MxRnpLemZlM1B6N3VoUUpTZU1SaWRnNDhsbm1URm1TdVc0R3k5R0VraXFfMldXRWFvUExkYnRlYjN4cUJkOTRr?oc=5
 
-iPhone 18 Pro hands-on: What's new with the cameras Mashable
+Everyone wants to learn from BYD to manufacture batteries, but can they really get it right? 36Kr
 
-## 6. 5 Regrets Users Have After Buying An Nvidia GPU - bgr.com
-Source: bgr.com (discovery)
-Published: 2026-09-20T00:38:39+00:00 | Age: 0.6 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ncFZZRlB0WXk4UFF2VjNuODdlU3Z4cjJXNXpBd2dRLVZPQXF6NnZidjIzRko0Smg1TGNEUVdWYjFZV3dvdHNqYlJyekw4V3IwQzdSQVNIbjlrSWR5dXdUc3NR?oc=5
+## 6. India semiconductor market projected to touch USD 200 billion by 2035: EY-IESA Report - tribuneindia.com
+Source: tribuneindia.com (discovery)
+Published: 2026-09-20T06:02:24+00:00 | Age: 0.3 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFhsMVQtU3E5aktVTXN1Yk9CalE1WlBURDhqTW9kTHMzVnRkQzgxT0dXUjhlRjV2MkdXNjZYWE8wUjJVR0YzWUljNWh5VmQtbWpyN1BrYWtKLVZpRmZmY29TVTNyZlZZZDdyd3dZREZ3T19SQV9URnZSbmJZVWRIOE0xSzRDaFNDWGhaZXFLV3piaWczWDczemRfSjdGRlU5VmNxd1N6bWNNQVFJTkZuT3g2TWJZejJUOWdrd2dvSm14OVlnQ25Z0gHLAUFVX3lxTE8yWkd0dW82SHBiRTNSY1Z3R2RGSmVjcjNGaXBDbm1LUjYtWEVFN3otU0lSbG9UcG54V2wxZ2RHTWZDblRWN2JiWVJyVWxEYUkwRjBpTWtJczdfd21hNWdwZ05yY3prUnE1RWZaRTA2T21RbVZrdVF6VnFpZXoyVUdKTG1BbTA5UmhueUlKaGFILTFaNFBNbkRfUVRNbUNwNEYxR0RoM0xySXdRWkRpV1NUdHQ3NjlrbTVXclNnQXZBZUtta1pBMUhBOV9N?oc=5
 
-5 Regrets Users Have After Buying An Nvidia GPU bgr.com
+India semiconductor market projected to touch USD 200 billion by 2035: EY-IESA Report tribuneindia.com
 
-## 7. Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - The Motley Fool
-Source: The Motley Fool (discovery)
-Published: 2026-09-20T00:21:40+00:00 | Age: 0.9 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxObGJwUXlsNVlncnFwd0JXNkRMazRiRjJLNW9FTmdMdFJ1amZsMVFqLVF2cUZhTWhuRWRCUVVfNENnUGMzeHJJZzk3TjJhcEJvbEM0Y09rWUVBNkxaQkZnV2prb2pXS1FRMjByMWtueUszckNmUWRCNWM5Z2o3ckFHd2lTLXNaeE56ejRZNDVpTWNQcVBfeF9sVA?oc=5
+## 7. Satellites under siege? Kaspersky flags growing cyber risks in space systems - Gulf Business
+Source: Gulf Business (discovery)
+Published: 2026-09-20T05:58:58+00:00 | Age: 0.4 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxQY290OFdRVWRhQXhINzFlUlhqaEQ1Q2F1eElWWVhhQjJOM045elBESXlOczVVOWk5X0d0M2hoakIyMXpmcVJnLUtsVHAyMDhBbXhZWE93R3Z0aXpENlltcXJBV0xBWlp0R3hEd183RlM4cjk4cDFCUFItejdCc2hsdUlJVExLSjM3OXBUSnF2RmwxX2hoU1dnLWdHTXAwNWFuOHN1OUhvRHRGSFJDT3c4X2o2dnU?oc=5
 
-Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. The Motley Fool
+Satellites under siege? Kaspersky flags growing cyber risks in space systems Gulf Business
 
-## 8. Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - ABC News - Breaking News, Latest News and Videos
-Source: ABC News - Breaking News, Latest News and Videos (discovery)
-Published: 2026-09-19T23:48:40+00:00 | Age: 1.4 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQ2b2EtNnVIUWU5YlJwMEVkXzBHQzZJaTZvN2wzQ3kwMDVnQlpjd1VDY2xPLWFBV1JURFNFV29ZQTU1WWhaZ0Y1UzBTYW1yb2RsZXhQaTd6cmhQWk5OeWdNSjc3ekZYaDBCT3hwM0VrZ1Z2Wm9VdktYUUU4azExWmR4OE1NRXBoUkxiUkZ4MXdOOU9iZllxM1k5N3RBTW0wWk9DRnNOa2Ywc0dmWWgtalNudTDSAboBQVVfeXFMTTRMWDkydU5KWmppbDJDckFmQmdHSkdWXy1LRjZtX0ZKTmNfWmVvSDhXQmgyV1h1WDFLR0g4emVRcXp2ODdRTnk3VTNUREo5aHd4M0pTdnVMSUlFOVBBOVJ2aGlmV1RxX1FHem1SS291MDFET0NaM3NDeWtrYURoOTkyNUx4SU5rU3c2cjk0Slc2Z2NiYlJEOWc0UE9DWVI0VnZONjB3WEhxVFNpT1ZIQTRlSk5Yd2lDN2ZB?oc=5
+## 8. Mark Zuckerberg 'confirms' technology industry is divided on AI regulation; tells OpenAI and Anthropic: Y - The Times of India
+Source: The Times of India (discovery)
+Published: 2026-09-20T05:54:00+00:00 | Age: 0.5 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://news.google.com/rss/articles/CBMiqwJBVV95cUxQRkFrTmg5cjBDQmVaOU5fTVg2Rld3OUhiOU1kalpYcWUwZk5RWGJmbnJzSVlPOWFvNUNoZW0xQUY2T24xbmVuQVpkaDNIWGl5eWdVTHBGM0NuNHJnWmVBTTFQdkZSdUdhdkpRQzdQbEY3TUlBdmtnY0gybnZFZklnclNXOGVvUUgzUEkwYVl6czI1VlBQcld5XzA0Vzc4VFZRc2RpWjZJcEtsdVRDSGhZWUpzZFNUNFhiWjAyVnRoTFFvbHNJaG9xdThmYTFvMHVsc0VyOTVaUHNLdEtnMUlJUVI0QXl6R2kwU1c2ZmN1ZUNYY3cxWmZKVWd6cE5EUHJ4Y2Z5Rm9xbFV2MHFxNkVfZjFXSEZGbzFJa0hxZEpNZDlRcm9PcXZqMGJNa9IBsAJBVV95cUxNemUwMDFLTVRLRWhxX3prOE11UnRmUTU4SkZPdW5MMUJRUzlra2dkYnQwRWJxMVpZMjBPMWNrQzduenM2c3R2Rk4xbk85bnNVTjBPVzBBX292TGc2aS1oeGw1akJWVHA3QVhhNTltZ1hlcmlKN0c0czgySGNrTW84NFZpWkZnM21STDBDeTV0cjg2d1RHZ3hnM2pRak1lRlJMa1cxX0J3NlJXYzNTa0xOcGJVZ0J1bkk4SDRJdmVJdTk1VVBRMERHelpOaUZkd3FqQ3VjSjJGQW00eENsSm8xR1VHaFNLZkdLWUtfUlE2VzJsd0w1LUxHR3ZlcjVweUV5VURETHZiZmMwWmpiR05wM3MzNGVfWWtyZXVJOE1PWUhjZER0TW8teUtnR3p3SEE0?oc=5
 
-Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown ABC News - Breaking News, Latest News and Videos
+Mark Zuckerberg 'confirms' technology industry is divided on AI regulation; tells OpenAI and Anthropic: Y The Times of India
 
-## 9. Google’s Gemini is the latest AI model to hack other companies
-Source: techcrunch.com (reputable)
-Published: 2026-09-19T17:30:00+00:00 | Age: 7.7 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
+## 9. How Polytron Built a 51-Year Consumer Empire to Power Indonesia’s EV Frontier - InvestorTrust
+Source: InvestorTrust (discovery)
+Published: 2026-09-20T05:52:00+00:00 | Age: 0.5 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbExjQWZiM3U4d3FURVVjekpqYWhtNmlhcFdheWZyNHFNLWxOUXlyTXdRdXJiTWVqOE1OY2V3bWFxb3lBTUdXQXk4NUNkaWZmTXR0U3oxMkhnRXVzSTVUbFNqSVN5YWd5TjM0a1RzYmd6RXFVRzgtbk9YZ2NtNFVsM0s0ZVBxdVcydzF0aEdQM3JDLXRnOUJDZklGazdzZzZiZkRraEdkMkRXUXBxUnVIUlo5cmpseFNCY1ZYSkJtZWFlT1MyTENCUkd0T3Y1THJ4QWc?oc=5
 
-Google said Gemini had "acted appropriately" by ending each hack immediately.
+How Polytron Built a 51-Year Consumer Empire to Power Indonesia’s EV Frontier InvestorTrust
 
-## 10. GitHub release: openai/openai-python v3.16.2
+## 10. iPhone 18 Pro and 18 Pro Max Now Available for Purchase in the US - SSBCrack
+Source: SSBCrack (discovery)
+Published: 2026-09-20T05:41:57+00:00 | Age: 0.7 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
+URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2JfeGpnVk9QSnp6b19vRjh2S1o3bzFQbTVlWG5aRFVNT2hxR3JHMllHY2NsWEFtUXc2NVVQUkhXVmFtMzA1QnJZVXVSbWs1amoyZ1lmbm9RME9wTU5RSloydkZjQ201MkRvTUxIUDhLM0RiX2VMeXo5RUpyRU1wRWdIYVR2NWxyb0hyRURnWW5ZNGRiUDUw?oc=5
+
+iPhone 18 Pro and 18 Pro Max Now Available for Purchase in the US SSBCrack
+
+## 11. GitHub release: openai/openai-python v3.16.2
 Source: github.com (primary)
-Published: 2026-09-18T21:26:27+00:00 | Age: 27.8 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
+Published: 2026-09-18T21:26:27+00:00 | Age: 32.9 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
 URL: https://github.com/openai/openai-python/releases/tag/v3.16.2
 
 ## [3.16.2](https://github.com/openai/openai-python/compare/v3.16.1...v3.16.2) (2026-09-18) ### Bug Fixes * **parsing:** drop TextFormatT parameterization in parse_response to fix memory leak ([#3084](https://github.com/openai/openai-python/issues/3084)) ([#3088](https://github.com/openai/openai-python/issues/3088)) ([009b7f6](https://github.com/openai/openai-python/commit/009b7f6ae6493e1abfa7583449595f144c8beb5a))
 
-## 11. Should you read the code, is RAG dead, and did Skills kill MCP?
+## 12. Should you read the code, is RAG dead, and did Skills kill MCP?
 Source: github.blog (primary)
-Published: 2026-09-18T15:00:00+00:00 | Age: 34.2 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
+Published: 2026-09-18T15:00:00+00:00 | Age: 39.4 hours
+Scanned: 2026-09-20T06:21:32.047877+00:00
 URL: https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/
 
 We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .
-
-## 12. Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce
-Source: about.fb.com (primary)
-Published: 2026-09-18T14:55:13+00:00 | Age: 34.3 hours
-Scanned: 2026-09-20T01:12:47.875307+00:00
-URL: https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/
-
-Na początku tego tygodnia fundacja Instrat opublikowała raport dotyczący jednego z najtrudniejszych wyzwań, z jakimi mierzy się cała branża – reklam o charakterze oszukańczym. To poważne i złożone wyzwanie, które dotyczy firm technologicznych, banków i całego społeczeństwa. Ciężko pracujemy, by przeciwdziałać działaniom wyrafinowanych i zdeterminowanych przestępców wykorzystują zaawansowane systemy sztucznej intelige
