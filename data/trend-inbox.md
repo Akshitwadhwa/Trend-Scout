@@ -2,102 +2,102 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-19T23:09:46.396039+00:00
-Scanned: 2026-09-19T23:09:46.396039+00:00
+Updated: 2026-09-20T01:12:47.878174+00:00
+Scanned: 2026-09-20T01:12:47.878174+00:00
 Memory window: 72 hours
 
-## 1. How did Apple Silicon get 50% faster in three years? – Daniel Lemire's blog
+## 1. Hugging Face model update: quill-voice/cowboy
+Source: Hugging Face / quill-voice (discovery)
+Published: 2026-09-20T01:11:51+00:00 | Age: 0.0 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://huggingface.co/quill-voice/cowboy
+
+text-generation; downloads=0; likes=0
+
+## 2. Apple Enthusiasts Gather as iPhone 18 Launches in India - RS Web Solutions
+Source: RS Web Solutions (discovery)
+Published: 2026-09-20T01:00:00+00:00 | Age: 0.2 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRVJPU0FsSVhuVmdvN25XQ0U0VWVZcmFCaE5fajlHbjFTTUxSS2tjbndhUUpMQnYtejcwOElXYmRtYkc5RnhXbEdETEtFb3ctVFVTTTJHeEhTNXdtcjRqWTZyY3dnc25HWG5sTU1kcWZYVzJFLTVPYWxOQlB2V0gxYlMwNlNJOW92aUl4SlQ3bkF4MzNDOFFTT096ZTR5XzNqS1RKVXVLYmdZRjd2dUhPcjZOV3BKdFlwLXRsc05BMDFDUQ?oc=5
+
+Apple Enthusiasts Gather as iPhone 18 Launches in India RS Web Solutions
+
+## 3. Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - Gulf Coast News and Weather
+Source: Gulf Coast News and Weather (discovery)
+Published: 2026-09-20T00:57:00+00:00 | Age: 0.3 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTlmM1ViTVRtV0ZfdDJnc3k1dEdmREIyeEJjSlFUaDItR3lMaE9oUE1YMVE5VUxZMDNoX1pQb1pqN2lTVDBiQUFiSXR6M1psa3FORHhLbTFfdlpVR3N5Y29LVy1MY3NGZzA4eTJtdTZ1VF90bTJRSkdyXzVaOVFta01tNzgwUy1RSmc?oc=5
+
+Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown Gulf Coast News and Weather
+
+## 4. Generating levels in real time with the Jev model
 Source: Hacker News (discovery)
-Published: 2026-09-19T23:08:48+00:00 | Age: 0.0 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://lemire.me/blog/2026/09/19/how-did-apple-silicon-get-50-faster-in-three-years/
+Published: 2026-09-20T00:46:31+00:00 | Age: 0.4 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://www.spritefusion.com/blog/generating-game-level-in-real-time-with-jev
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49770894
+Hacker News discussion: https://news.ycombinator.com/item?id=49771494
 
-## 2. Hugging Face model update: Vxtzq/Crowd-v1
-Source: Hugging Face / Vxtzq (discovery)
-Published: 2026-09-19T23:07:49+00:00 | Age: 0.0 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://huggingface.co/Vxtzq/Crowd-v1
+## 5. iPhone 18 Pro hands-on: What's new with the cameras - Mashable
+Source: Mashable (discovery)
+Published: 2026-09-20T00:42:12+00:00 | Age: 0.5 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://news.google.com/rss/articles/CBMic0FVX3lxTFBwRk9JYnU4cS1DYzFKTzhKVHJwLU1WZlY4SmRBM3k2RzFqeVVyMThPVFVtaU5XbUFFbVJnbW5IYzE1T3l2NW5TdExsX0UzNU12NGJvU1pzMk5oeUFtTkZ4RUdJN0sxUE1zMXJKck9vODRUT2M?oc=5
 
-text-generation; downloads=20825; likes=7
+iPhone 18 Pro hands-on: What's new with the cameras Mashable
 
-## 3. Show HN: Jev-align, an OSS library for calibrating Jev to your judgement
-Source: Hacker News (discovery)
-Published: 2026-09-19T23:05:55+00:00 | Age: 0.1 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://github.com/sutro-sh/jev-align
+## 6. 5 Regrets Users Have After Buying An Nvidia GPU - bgr.com
+Source: bgr.com (discovery)
+Published: 2026-09-20T00:38:39+00:00 | Age: 0.6 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ncFZZRlB0WXk4UFF2VjNuODdlU3Z4cjJXNXpBd2dRLVZPQXF6NnZidjIzRko0Smg1TGNEUVdWYjFZV3dvdHNqYlJyekw4V3IwQzdSQVNIbjlrSWR5dXdUc3NR?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49770872
+5 Regrets Users Have After Buying An Nvidia GPU bgr.com
 
-## 4. Kelowna’s Current Taxi reaches jaw-dropping milestone with Tesla - kelownacapnews.com
-Source: kelownacapnews.com (discovery)
-Published: 2026-09-19T23:04:18+00:00 | Age: 0.1 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxQellJRUhfdWJMOTVHVjJvSzlDQUhhSFlCZy1feHdlNFdXY25OTEJyc3gxTVVPMjJoYzJtbm1MQjdNYXo0Y0JYZ04yMF9IbGRMYVNXSU5mNmZreVYwdDFCTTB1SjI1MlpSNjJHQzI3M3pBWmdNQWdtd1pnUUM3NjFVY3MyWmhrbVQ2X1JRNGxTR3QtMUVWc0NmMG1RWVByYTU0ZmVpTQ?oc=5
+## 7. Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. - The Motley Fool
+Source: The Motley Fool (discovery)
+Published: 2026-09-20T00:21:40+00:00 | Age: 0.9 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxObGJwUXlsNVlncnFwd0JXNkRMazRiRjJLNW9FTmdMdFJ1amZsMVFqLVF2cUZhTWhuRWRCUVVfNENnUGMzeHJJZzk3TjJhcEJvbEM0Y09rWUVBNkxaQkZnV2prb2pXS1FRMjByMWtueUszckNmUWRCNWM5Z2o3ckFHd2lTLXNaeE56ejRZNDVpTWNQcVBfeF9sVA?oc=5
 
-Kelowna’s Current Taxi reaches jaw-dropping milestone with Tesla kelownacapnews.com
+Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them. The Motley Fool
 
-## 5. Nvidia vs. TSMC Stock: Which AI Investment Fits You? - techi.com
-Source: techi.com (discovery)
-Published: 2026-09-19T22:27:12+00:00 | Age: 0.7 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wYXZqRFBNRnhpVmZNT3E4TlY0Z1VOa1psOGxyb1lDLUVZVF92S1pCUkJOQ2FranFlUExHU1FVTE5yVlRTblNkeDRyOFk4bjBON3hZakZ3?oc=5
+## 8. Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown - ABC News - Breaking News, Latest News and Videos
+Source: ABC News - Breaking News, Latest News and Videos (discovery)
+Published: 2026-09-19T23:48:40+00:00 | Age: 1.4 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUQ2b2EtNnVIUWU5YlJwMEVkXzBHQzZJaTZvN2wzQ3kwMDVnQlpjd1VDY2xPLWFBV1JURFNFV29ZQTU1WWhaZ0Y1UzBTYW1yb2RsZXhQaTd6cmhQWk5OeWdNSjc3ekZYaDBCT3hwM0VrZ1Z2Wm9VdktYUUU4azExWmR4OE1NRXBoUkxiUkZ4MXdOOU9iZllxM1k5N3RBTW0wWk9DRnNOa2Ywc0dmWWgtalNudTDSAboBQVVfeXFMTTRMWDkydU5KWmppbDJDckFmQmdHSkdWXy1LRjZtX0ZKTmNfWmVvSDhXQmgyV1h1WDFLR0g4emVRcXp2ODdRTnk3VTNUREo5aHd4M0pTdnVMSUlFOVBBOVJ2aGlmV1RxX1FHem1SS291MDFET0NaM3NDeWtrYURoOTkyNUx4SU5rU3c2cjk0Slc2Z2NiYlJEOWc0UE9DWVI0VnZONjB3WEhxVFNpT1ZIQTRlSk5Yd2lDN2ZB?oc=5
 
-Nvidia vs. TSMC Stock: Which AI Investment Fits You? techi.com
+Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown ABC News - Breaking News, Latest News and Videos
 
-## 6. From Knowing to Doing: 8 Areas Where ChatGPT Could Become a Deeper Long-Term Collaborator - OpenAI Developer Community
-Source: OpenAI Developer Community (discovery)
-Published: 2026-09-19T22:27:08+00:00 | Age: 0.7 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxNT09TRVBjMG45OVFROHZWZHlWX2RIVGlVd1RkMDF1SDYxcE1JX0FwZmttbFA2VHZrS0FHUlpqRTdfUU1BUVlOY3ZaQVlIOE16cVZuM0RjdG5MNW1PTW5CQ2VzWjFhWjl2enF6OGxBM3BhWGJmZ3RYN2ZFamxQX0I1YUVKRmtzX1ZlNU95emJfQXRiZFo3bXhNMzY4cHctckVqN1o1NElOMnFoaHJtN3hBVTRBV3RiOFNZdlExVU5iaGVOOHZlYlE?oc=5
-
-From Knowing to Doing: 8 Areas Where ChatGPT Could Become a Deeper Long-Term Collaborator OpenAI Developer Community
-
-## 7. How to Take Cinematic Photos & 4K Video on iPhone 18 Pro Max: Beginner Camera Settings - zeera wireless
-Source: zeera wireless (discovery)
-Published: 2026-09-19T21:49:04+00:00 | Age: 1.3 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://news.google.com/rss/articles/CBMikAFBVV95cUxOR2o0N3pvZFc0cmhsbF9ITDBZTkwwbXJDUVZ4TFVFd0Z0WlNlYzF4NWxyRlBWb1VObWQzaWwxYUZVWFQ3V3BNX2RGMy1qSkR3eWpyRG9lSDVaMEF1WkVmYlk4dFU1bUV4YW1xNmluR1g3WjczdkpuLTk3RXY1S2lWYzF0YVV5WFk2UlRidzlsY1Q?oc=5
-
-How to Take Cinematic Photos & 4K Video on iPhone 18 Pro Max: Beginner Camera Settings zeera wireless
-
-## 8. Zero-Knowledge Credential Passthrough & Client-Side Enclave for Browser Agents - OpenAI Developer Community
-Source: OpenAI Developer Community (discovery)
-Published: 2026-09-19T21:41:27+00:00 | Age: 1.5 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxNdzlfdkU1VEVWdDVUbGRaVWZjMFVtdXNaNE8tN3FHWVZIeFBrSEZ4cmhIcUdCSWdJZ1FLQ2M2a0ZCcXFOVFRqTkZoOEVpa2ptWEs0d1V1RlBOeTR5b09UUzBZcFp5RHp2bkRmcDU5SmxTcWJqSGtZaTdvVmhuWWtsSl82WmdGbjI3aE1pVXdSUzFWbC1vVHg1eTEyRm81WUpFWWp1TERZUExkdkVPcHk0X09OX0JsZw?oc=5
-
-Zero-Knowledge Credential Passthrough & Client-Side Enclave for Browser Agents OpenAI Developer Community
-
-## 9. To slow down or not? US tech leaders, politicians and researchers clash over need for AI regulations - The Straits Times
-Source: The Straits Times (discovery)
-Published: 2026-09-19T21:00:00+00:00 | Age: 2.2 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxQRUEwQjhERUVjSXRWZ3hqdWRBaHZBLUxQd2w0LXVlMG4zUkdFV0ctSDMzZTVEZkczOWRsR0lWWXdid2c4N194cDNrOW1YRkVDRm9YS1FYWjFZcXhWbU1MNWhfX3ZhcHhwMXdNZGt1MHR2TUIxYXdKVjFLc3BUajZYNGVaWGd4anR3czdJMy00NmNUT0RkZkg3d2ZWc1F0N0hZQkItd1R6cXAzX3pWdmk3eVZDcl9JMk9LUm1DeTFtMmxLaXA2MlE?oc=5
-
-To slow down or not? US tech leaders, politicians and researchers clash over need for AI regulations The Straits Times
-
-## 10. Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown - WWAYTV3
-Source: WWAYTV3 (discovery)
-Published: 2026-09-19T20:16:12+00:00 | Age: 2.9 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDNkd19MOC1zUXl1aUhMT0FLRGdSOE5oUkFIMnNDaTNFcU9ZM0lod1Zsczd3Q1pMVDlJRE9GVE5zSXh5VnJ4dFYzZkVkQjZ6bXA5VW5lOVJiOGRWOW9vNGpQWmt0QVRWbmQ5US1NZWFRWG95alRoZ3NMOHhRREpvanZ2V2xZWlY0VlZReFpkS3NlZzNTcDRNLUE2RjBDM1kybDk3d0V6Mnl6a0E?oc=5
-
-Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal deal on AI slowdown WWAYTV3
-
-## 11. Google’s Gemini is the latest AI model to hack other companies
+## 9. Google’s Gemini is the latest AI model to hack other companies
 Source: techcrunch.com (reputable)
-Published: 2026-09-19T17:30:00+00:00 | Age: 5.7 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
+Published: 2026-09-19T17:30:00+00:00 | Age: 7.7 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
 URL: https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/
 
 Google said Gemini had "acted appropriately" by ending each hack immediately.
 
-## 12. GitHub release: anthropics/claude-code v2.1.278
+## 10. GitHub release: openai/openai-python v3.16.2
 Source: github.com (primary)
-Published: 2026-09-19T03:10:40+00:00 | Age: 20.0 hours
-Scanned: 2026-09-19T23:09:46.394140+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.278
+Published: 2026-09-18T21:26:27+00:00 | Age: 27.8 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.16.2
 
-## What's changed - Changed auto mode for Claude API and Enterprise users, and on Bedrock, Vertex, Foundry and gateways, to default to the server-side classifier, which does not charge for classifier overhead (`CLAUDE_CODE_AUTO_MODE_SERVER=0` opts out on Bedrock, Vertex, Foundry and gateways); warns on billed fallback. See https://code.claude.com/docs/en/auto-mode-classifier-billing - Added an `Auto mode server` row 
+## [3.16.2](https://github.com/openai/openai-python/compare/v3.16.1...v3.16.2) (2026-09-18) ### Bug Fixes * **parsing:** drop TextFormatT parameterization in parse_response to fix memory leak ([#3084](https://github.com/openai/openai-python/issues/3084)) ([#3088](https://github.com/openai/openai-python/issues/3088)) ([009b7f6](https://github.com/openai/openai-python/commit/009b7f6ae6493e1abfa7583449595f144c8beb5a))
+
+## 11. Should you read the code, is RAG dead, and did Skills kill MCP?
+Source: github.blog (primary)
+Published: 2026-09-18T15:00:00+00:00 | Age: 34.2 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/
+
+We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .
+
+## 12. Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce
+Source: about.fb.com (primary)
+Published: 2026-09-18T14:55:13+00:00 | Age: 34.3 hours
+Scanned: 2026-09-20T01:12:47.875307+00:00
+URL: https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/
+
+Na początku tego tygodnia fundacja Instrat opublikowała raport dotyczący jednego z najtrudniejszych wyzwań, z jakimi mierzy się cała branża – reklam o charakterze oszukańczym. To poważne i złożone wyzwanie, które dotyczy firm technologicznych, banków i całego społeczeństwa. Ciężko pracujemy, by przeciwdziałać działaniom wyrafinowanych i zdeterminowanych przestępców wykorzystują zaawansowane systemy sztucznej intelige
