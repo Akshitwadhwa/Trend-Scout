@@ -74,6 +74,9 @@ class CloudInboxReader:
             if str(raw.get("source_level", "")) not in POST_READY_LEVELS:
                 rejected["unverified"] += 1
                 continue
+            if raw.get("draftable", raw.get("eligible", True)) is not True:
+                rejected["invalid"] += 1
+                continue
             source_url = str(raw.get("source_url", "")).strip()
             title = " ".join(str(raw.get("title", "")).split()).strip()
             if not source_url or not title:

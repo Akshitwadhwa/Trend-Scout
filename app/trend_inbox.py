@@ -33,6 +33,10 @@ class TrendInbox:
                 continue
             if item.get("source_level") not in POST_READY_LEVELS:
                 continue
+            # Freshly scanned briefs carry a quality-aware flag. Older inbox
+            # files do not, so retain backward compatibility until refreshed.
+            if item.get("draftable", item.get("eligible", True)) is not True:
+                continue
             if not self._within_retention(item, now):
                 continue
             key = self._title_key(str(item.get("title", "")))

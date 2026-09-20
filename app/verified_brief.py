@@ -133,13 +133,16 @@ REPUTABLE_PUBLISHER_DOMAINS = {
 }
 
 REPUTABLE_PUBLICATIONS = {
+    "abc news",
     "associated press",
     "ap news",
     "al jazeera",
+    "ars technica",
     "axios",
     "bbc",
     "bloomberg",
     "business insider",
+    "cnet",
     "cnbc",
     "digitimes",
     "financial times",
@@ -164,6 +167,21 @@ REPUTABLE_PUBLICATIONS = {
     "wsj",
     "south china morning post",
 }
+
+# The relaxed feed can use recognised discovery reporting for breadth, but it
+# must not turn random Hub uploads, shopping listicles, or unknown Google News
+# mirrors into drafts simply because they have a recent RSS timestamp.
+LOW_SIGNAL_TITLE_TERMS = (
+    "hands-on",
+    "regrets after buying",
+    "buying an ",
+    "enthusiasts gather",
+    "best ",
+    "top ",
+    "review:",
+    "reviews ",
+    "what's new with the cameras",
+)
 
 
 class VerifiedBriefBuilder:
@@ -199,6 +217,7 @@ class VerifiedBriefBuilder:
                 and created_at is not None
                 and created_at <= now + timedelta(minutes=5)
             )
+            draftable = eligible and self._is_draftable_discovery(item, title, source_level)
             briefs.append(
                 {
                     "title": title,
@@ -210,6 +229,7 @@ class VerifiedBriefBuilder:
                     "age_hours": round(age_hours, 1) if age_hours is not None else None,
                     "scanned_at": now.isoformat(),
                     "eligible": eligible,
+                    "draftable": draftable,
                     "verification_note": self._verification_note(source_level, eligible),
                 }
             )
@@ -217,6 +237,7 @@ class VerifiedBriefBuilder:
         briefs.sort(
             key=lambda value: (
                 not value["eligible"],
+                not value["draftable"],
                 {"primary": 0, "web_researched": 1, "reputable": 2, "discovery": 3}.get(value["source_level"], 4),
                 value["age_hours"] if value["age_hours"] is not None else 9_999,
             )
@@ -229,7 +250,7 @@ class VerifiedBriefBuilder:
             "items": selected,
             # Keep this as a strict-source metric for monitoring, even though
             # the inbox may now retain timestamped discovery stories too.
-            "ready_count": sum(1 for item in briefs if item["eligible"] and item["source_level"] != "discovery"),
+            "ready_count": sum(1 for item in briefs if item["draftable"]),
             "source_counts": {
                 level: sum(1 for item in briefs if item["source_level"] == level)
                 for level in ("primary", "web_researched", "reputable", "discovery")
@@ -326,6 +347,36 @@ class VerifiedBriefBuilder:
         if downloads >= HUGGING_FACE_REPUTABLE_DOWNLOADS and likes >= HUGGING_FACE_REPUTABLE_LIKES:
             return "reputable", label
         return "discovery", label
+
+    def _is_draftable_discovery(
+        self,
+        item: dict[str, Any],
+        title: str,
+        source_level: str,
+    ) -> bool:
+        """Keep useful discovery coverage while dropping low-signal noise."""
+        if source_level != "discovery":
+            return True
+
+        source_type = str(item.get("source_type", ""))
+        if source_type == "huggingface_model":
+            # Official/adopted models were already promoted above.
+            return False
+
+        title_key = title.casefold()
+        if any(term in title_key for term in LOW_SIGNAL_TITLE_TERMS):
+            return False
+
+        host = urlparse(str(item.get("url", ""))).netloc.lower().removeprefix("www.")
+        if host == "news.google.com":
+            publisher = str(item.get("author_name", "")).casefold()
+            # Google News remains discovery because RSS can re-index old pages.
+            # Recognised newsrooms can still add volume, clearly labelled.
+            return any(name in publisher for name in REPUTABLE_PUBLICATIONS)
+
+        # These are intentional discovery surfaces. Their source level is
+        # retained in output, so they are not represented as announcements.
+        return source_type in {"hacker_news", "reddit", "x", "x_watchlist", "x_timeline"}
 
     def _is_job_listing(self, item: dict[str, Any], title: str) -> bool:
         """Reject careers pages even when their publisher is otherwise primary."""

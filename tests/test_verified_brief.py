@@ -115,6 +115,29 @@ def test_hugging_face_community_upload_with_no_adoption_is_discovery_only():
 
     assert brief["ready_count"] == 0
     assert brief["items"][0]["source_level"] == "discovery"
+    assert brief["items"][0]["draftable"] is False
+
+
+def test_reputable_google_news_is_draftable_but_remains_discovery():
+    now = datetime.now(timezone.utc)
+    item = source("https://news.google.com/rss/articles/one", "Gemini security test", now.isoformat())
+    item["author_name"] = "Reuters"
+
+    brief = VerifiedBriefBuilder().build([item])
+
+    assert brief["items"][0]["source_level"] == "discovery"
+    assert brief["items"][0]["draftable"] is True
+
+
+def test_unknown_google_news_listicle_is_not_draftable():
+    now = datetime.now(timezone.utc)
+    item = source("https://news.google.com/rss/articles/one", "5 regrets after buying an Nvidia GPU", now.isoformat())
+    item["author_name"] = "Unknown blog"
+
+    brief = VerifiedBriefBuilder().build([item])
+
+    assert brief["items"][0]["eligible"] is True
+    assert brief["items"][0]["draftable"] is False
 
 
 def test_hugging_face_official_organisation_is_primary():
