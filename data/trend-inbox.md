@@ -2,38 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-21T19:32:31.256469+00:00
-Scanned: 2026-09-21T19:32:31.256469+00:00
+Updated: 2026-09-21T23:19:14.851082+00:00
+Scanned: 2026-09-21T23:19:14.851082+00:00
 Memory window: 72 hours
 
-## 1. Meta's New Muse AI App Tops Charts, Draws Strong Early Reviews
+## 1. Brad Smith and Kevin Rudd on AI, Regulation, and the Future of Work [video]
 Source: Hacker News (discovery)
-Published: 2026-09-21T19:31:05+00:00 | Age: 0.0 hours
-Scanned: 2026-09-21T19:32:31.253559+00:00
-URL: https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews
+Published: 2026-09-21T23:16:03+00:00 | Age: 0.1 hours
+Scanned: 2026-09-21T23:19:14.848869+00:00
+URL: https://www.youtube.com/watch?v=hClbN_imH5Y
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49792181
+Hacker News discussion: https://news.ycombinator.com/item?id=49794731
 
-## 2. Show HN: A website that tracks US food prices every day
+## 2. Show HN: Building Seven in Public
 Source: Hacker News (discovery)
-Published: 2026-09-21T19:24:10+00:00 | Age: 0.1 hours
-Scanned: 2026-09-21T19:32:31.253559+00:00
-URL: https://www.kadoa.com/food-prices
+Published: 2026-09-21T23:13:15+00:00 | Age: 0.1 hours
+Scanned: 2026-09-21T23:19:14.848869+00:00
+URL: https://claude.ai/share/61ae35d6-82f2-425a-84b6-907a3ec1b5c4
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49792076
+Hacker News discussion: https://news.ycombinator.com/item?id=49794705
 
-## 3. Meta’s Muse is outpacing ChatGPT’s early mobile launch
-Source: techcrunch.com (reputable)
-Published: 2026-09-21T19:19:21+00:00 | Age: 0.2 hours
-Scanned: 2026-09-21T19:32:31.253559+00:00
-URL: https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/
+## 3. Tesla Workers Endure Rampant Racism, California Says at Trial - Bloomberg Law News
+Source: Bloomberg Law News (discovery)
+Published: 2026-09-21T23:11:00+00:00 | Age: 0.1 hours
+Scanned: 2026-09-21T23:19:14.848869+00:00
+URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxQUUxKYXNjR1UzRTc2UlNMcWN4Yk9hVUFFbE5fYkduMXkxVkRvZzA4SXd4blJIT3cyQlJGTkFYLUpqNnE2ZWtJWWpjSmhiUXgzWnRMbk9sR3BUTXFsbk0zZkZhYmVVT042UWc3Ni1TTC1UQkNSUUpaSFEwekx1Z0ZQbi1FUFBuQ1BjOXhDREhkWUJiRE5qZTNycC1DeXVvQ2M3c0E4?oc=5
 
-Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.
+Tesla Workers Endure Rampant Racism, California Says at Trial Bloomberg Law News
 
-## 4. GitHub release: openai/openai-python v3.16.2
-Source: github.com (primary)
-Published: 2026-09-18T21:26:27+00:00 | Age: 70.1 hours
-Scanned: 2026-09-21T19:32:31.253559+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.16.2
+## 4. iPhone 20 display leak teases massive upgrade over iPhone 18 Pro - Mashable
+Source: Mashable (discovery)
+Published: 2026-09-21T22:37:48+00:00 | Age: 0.7 hours
+Scanned: 2026-09-21T23:19:14.848869+00:00
+URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE5QdUdfdXFuY2Q4UE1Uc3NTRzVNTUQ2LWcxT0FfMlgzVXhHUHh2blRGX1ZuMGxMMWlzQi1WX1pxM052VFBpdVBmSFpvM3hkZk5CeFNkLTk3TkVmTXlnVDF0NzJ1SlpxRmRrcFFqVl8taw?oc=5
 
-## [3.16.2](https://github.com/openai/openai-python/compare/v3.16.1...v3.16.2) (2026-09-18) ### Bug Fixes * **parsing:** drop TextFormatT parameterization in parse_response to fix memory leak ([#3084](https://github.com/openai/openai-python/issues/3084)) ([#3088](https://github.com/openai/openai-python/issues/3088)) ([009b7f6](https://github.com/openai/openai-python/commit/009b7f6ae6493e1abfa7583449595f144c8beb5a))
+iPhone 20 display leak teases massive upgrade over iPhone 18 Pro Mashable
