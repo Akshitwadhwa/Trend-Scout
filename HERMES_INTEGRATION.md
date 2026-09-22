@@ -133,6 +133,15 @@ Style preference:
 - no fake hype
 - no fearmongering around layoffs
 - make career posts practical and optimistic
+
+Draft-quality rules:
+- Write a post only when its source has one concrete, new fact worth sharing.
+- Make the first line earn attention through a specific product change, number, consequence, or surprising contrast; never use vague hype.
+- Follow the fact with one original, credible take in the creator's voice. Do not write a press-release summary, a mini-thread, or an empty question.
+- Keep most posts between 150 and 260 characters, but deliberately mix in shorter posts when the fact is strong. Vary openings, sentence length, and editorial angle across the batch.
+- Do not repeat a company, story, opening pattern, or conclusion in the same batch when another eligible story exists.
+- Prefer tangible implications for builders, students, users, or the market over generic claims that AI is moving quickly.
+- Avoid emojis, hashtags, headlines, numbering, 'game changer', 'the real question is', 'this changes everything', and other templated AI phrasing.
 ```
 
 ## Layoffs Content Rules
