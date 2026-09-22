@@ -2,46 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-22T05:01:37.950411+00:00
-Scanned: 2026-09-22T05:01:37.950411+00:00
+Updated: 2026-09-22T07:49:32.768163+00:00
+Scanned: 2026-09-22T07:49:32.768163+00:00
 Memory window: 72 hours
 
-## 1. Tiny Startups Are Getting Even Smaller with Help from AI
+## 1. Saudi's Ceer unveils first EVs
 Source: Hacker News (discovery)
-Published: 2026-09-22T04:58:02+00:00 | Age: 0.1 hours
-Scanned: 2026-09-22T05:01:37.947319+00:00
-URL: https://www.wsj.com/tech/ai/startup-hiring-ai-staffing-8c626f75
+Published: 2026-09-22T07:46:58+00:00 | Age: 0.0 hours
+Scanned: 2026-09-22T07:49:32.765183+00:00
+URL: https://www.reuters.com/world/middle-east/saudis-ceer-unveils-first-evs-bid-build-regional-auto-powerhouse-2026-09-21/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49796949
+Hacker News discussion: https://news.ycombinator.com/item?id=49797876
 
-## 2. India's semiconductor opportunity expanding beyond fabs: Report - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-09-22T04:52:00+00:00 | Age: 0.2 hours
-Scanned: 2026-09-22T05:01:37.947319+00:00
-URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZW1Bb0h1UDlzX0lnRWE3ZlQ2cnBuOE9pVFlCYnNkazZSTWNkTjhJemItNmhKTWZ4NmdYcGpBUjlMZWVsRnlubGU4bmYzbTZGT2V6cmR2MGxXVjkwUEpwdXl4aHhpWWFLZEEtUDZaLWFKQ3JKZTZTMmc0VWdWTmx3MmtUZzFBN3BVbUFDNGRzVGJXUzNXRGl2MW1GTFJyZWdZUVhZT2M4U056b09mMjdVTFNfdXY1V2JRVFNfRjRtX0c2dnMyRTBuR1hCQzNvbk9t0gHQAUFVX3lxTE5lbUFvSHVQOXNfSWdFYTdmVDZycG44T2lUWUJic2RrNlJNY2ROOEl6Yi02aEpNZng2Z1hwakFSOUxlZWxGeW5sZThuZjNtNkZPZXpyZHYwbFdWOTBQSnB1eXhoeGlZYUtkQS1QNlotYUpDckplNlMyZzRVZ1ZObHcya1RnMUE3cFVtQUM0ZHNUYldTM1dEaXYxbUZMUnJlZ1lRWFlPYzhTTnpvT2YyN1VMU191djVXYlFUU19GNG1fRzZ2czJFMG5HWEJDM29uT20?oc=5
+## 2. ThunderPlus Expands Highway EV Charging Network with 120 kW Fast-Charging Station in Kurnool - TimesTech
+Source: TimesTech (discovery)
+Published: 2026-09-22T07:44:34+00:00 | Age: 0.1 hours
+Scanned: 2026-09-22T07:49:32.765183+00:00
+URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxQSkd2cEYzbU1QV1hwNVBZNmV0cHJDaU92VkdrT3o2WkVIZENPRFNHdk0xNmU5N2c1N1hCV2NTTEZNZXlwNnRmTWVobmhadnIwZXMxbVk5dmtqNm9Xby1KZERGaEZHQk42TzlZb2pFUngwTTh2cTZPMEh5RzdyeENSdjBRUWwtWXdIZ1AxMWs2cWZQaEFqMG4wRllrXzItd3F2XzFmS0IyMk1zUmktbVpxT2hkMkQ?oc=5
 
-India's semiconductor opportunity expanding beyond fabs: Report The Economic Times
+ThunderPlus Expands Highway EV Charging Network with 120 kW Fast-Charging Station in Kurnool TimesTech
 
-## 3. iPhone 20 display leak teases massive upgrade over iPhone 18 Pro - Mashable
-Source: Mashable (discovery)
-Published: 2026-09-22T04:39:56+00:00 | Age: 0.4 hours
-Scanned: 2026-09-22T05:01:37.947319+00:00
-URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE5QdUdfdXFuY2Q4UE1Uc3NTRzVNTUQ2LWcxT0FfMlgzVXhHUHh2blRGX1ZuMGxMMWlzQi1WX1pxM052VFBpdVBmSFpvM3hkZk5CeFNkLTk3TkVmTXlnVDF0NzJ1SlpxRmRrcFFqVl8taw?oc=5
+## 3. Addverb moves beyond warehouses, sees semiconductors as next big robotics opportunity - economictimes.com
+Source: economictimes.com (discovery)
+Published: 2026-09-22T07:39:41+00:00 | Age: 0.2 hours
+Scanned: 2026-09-22T07:49:32.765183+00:00
+URL: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQX1g5VnhfSE8wcUJpb2JZTC1aYWhWVHJpbkR4cm1aSVQ3dGVnQm00T0VaY09Wb20tcG5oc0ZCUGU3eFdtX09fYUdMZlJmTy1Ic1ZCbW9ycUY5ZVdicV9SUVNNYnAxamZKakRMVHdtZEdRc1BNVlN3cXE4ODNqMTZ4a2tObjlBYTJjMzhfek1QMll6RTZKd1FqbEFRb2ZvU3hIXzRBT09NZG5aOE9yV1FGalhpaTZNWlBMa0diVjNDNDRoUnQ5S3dXaml3cFNBaWtFV0dfTU1YMkE5RjhEOWJCQVYyUFN2YVRD0gHuAUFVX3lxTE9rYUZKRnZDU3VaWjhqTW5lUkFHWUJzYzlIY3NmWHZDTGhRc19LSE1qd1JiWHhPWmZzb3FZaXhJdHFWOExwdk1YU3BKaks0YUpCTlhFcEl5dHBIRklPVjN2ZDdZOHJ1MXgtcTlUNWQ5N0dULWZTOF9Vb19waGlQWlZGc3d5bG9hRWRhZXl2TmotN1dVWXJ3TWNvTldqU2Z6R0JFdEh1QU9SVnljYkNucGpoQkg0VW9EWlhQM2F4bmpoV1pUMVdiN25WTEkzMDVUMTZwRm90MS1UblQzZm1xUjZPdVpyYkVOZ1lnX2RHTlE?oc=5
 
-iPhone 20 display leak teases massive upgrade over iPhone 18 Pro Mashable
+Addverb moves beyond warehouses, sees semiconductors as next big robotics opportunity economictimes.com
 
-## 4. GitHub release: googleapis/python-genai v2.25.0
-Source: github.com (primary)
-Published: 2026-09-22T03:06:24+00:00 | Age: 1.9 hours
-Scanned: 2026-09-22T05:01:37.947319+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v2.25.0
+## 4. Reverse-Engineering Jane Street's ASIC
+Source: Hacker News (discovery)
+Published: 2026-09-22T07:37:05+00:00 | Age: 0.2 hours
+Scanned: 2026-09-22T07:49:32.765183+00:00
+URL: https://mooofin.github.io/portfolio/blog/jane-street-asic.html
 
-## [2.25.0](https://github.com/googleapis/python-genai/compare/v2.24.0...v2.25.0) (2026-09-22) ### Features * Add sample_audio to Voice in GAOS SDK ([a011633](https://github.com/googleapis/python-genai/commit/a011633c2db0078019162880764e06cd85a5c4ff)) * Add Voices API resource to GAOS SDK ([c45b94e](https://github.com/googleapis/python-genai/commit/c45b94e7a0e0dcd5dcc2590f62f5d223f8c90e99)) * Expose SpeechMetadata, V
+Hacker News discussion: https://news.ycombinator.com/item?id=49797806
 
-## 5. Vocci’s ring adds a new form factor to meeting note-taking
-Source: techcrunch.com (reputable)
-Published: 2026-09-20T18:32:52+00:00 | Age: 34.5 hours
-Scanned: 2026-09-22T05:01:37.947319+00:00
-URL: https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/
+## 5. Doosan Robotics' new CEO faces test of turning AI bet into profits - The Korea Times
+Source: The Korea Times (discovery)
+Published: 2026-09-22T07:36:03+00:00 | Age: 0.2 hours
+Scanned: 2026-09-22T07:49:32.765183+00:00
+URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxQYlQyRDhYbTNDbmdsMkdFN3J3QnBxOGlsMnJiZXUzTGJhZnpTUTJYanE0Z1I5NGhHeG00YWJNcExnR25DeTA4VTkyTUk0ZGxLYnNGU1NOU1NSLTdOZDFIRnVYLTRmYWxHYTRVd2xxVVZSY3FHWElxdVRURF9aM3VUcDhocmZocVhjdnNqdkxOUVZ3UGVUNTRTcnVwUW1fMktBRFpWck5EbmNzZmVYOXI4eFRXbTlORkNTX1RtYVdjMNIBxAFBVV95cUxQNUZkR1lFVUZPMVdNWmhJRU96cGlZRWdfdkhERGQwaVU4VGtzTHpVUE56RnByQWZfOTNCQy11MFh1eS1lZENhSUtpZV9TY1pzRjQ4T3MxZG9DNUE1ckVsVFhaMy1GV2pwMjZrZHlsQkJBNV8zQWNuRzRCaHdtNjhJTEROX01zd19RSTA2YmFid21OT3RlZGVydms0SUlkeWt1alNYZlJ4Y2JzOW9KYjVfMFl0c3NlUHhIV21VQUsyZ0JLcDd6?oc=5
 
-Vocci's lightweight ring costs $249, and might pose some privacy questions.
+Doosan Robotics' new CEO faces test of turning AI bet into profits The Korea Times
