@@ -2,30 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-22T10:00:31.492820+00:00
-Scanned: 2026-09-22T10:00:31.492820+00:00
+Updated: 2026-09-22T20:16:39.449032+00:00
+Scanned: 2026-09-22T20:16:39.449032+00:00
 Memory window: 72 hours
 
-## 1. Code Reveal Shapes Programmers' Visual Attention
+## 1. Getting the most out of Opus 5.5 in Claude and Claude Code
 Source: Hacker News (discovery)
-Published: 2026-09-22T09:58:51+00:00 | Age: 0.0 hours
-Scanned: 2026-09-22T10:00:31.490151+00:00
-URL: https://arxiv.org/abs/2609.24616
+Published: 2026-09-22T20:15:57+00:00 | Age: 0.0 hours
+Scanned: 2026-09-22T20:16:39.446196+00:00
+URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49798784
+Hacker News discussion: https://news.ycombinator.com/item?id=49807462
 
-## 2. Saudi Arabia wants a car industry, launches Ceer with two EVs
-Source: Hacker News (discovery)
-Published: 2026-09-22T09:55:43+00:00 | Age: 0.1 hours
-Scanned: 2026-09-22T10:00:31.490151+00:00
-URL: https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/
+## 2. Qualcomm launches two new smartphone chips with emphasis on AI
+Source: techcrunch.com (reputable)
+Published: 2026-09-22T20:00:00+00:00 | Age: 0.3 hours
+Scanned: 2026-09-22T20:16:39.446196+00:00
+URL: https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49798754
+Qualcomm said that its new top chip can run 30B mixture-of-expert model locally
 
-## 3. From street dance to robot crew: China's robot dancers reach America's Got Talent final - Moneycontrol.com
-Source: Moneycontrol.com (discovery)
-Published: 2026-09-22T09:51:31+00:00 | Age: 0.2 hours
-Scanned: 2026-09-22T10:00:31.490151+00:00
-URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdFBoZ3kyVjIzTlJNMXZMZk1qMnJUY3hsVnpxSlBiU0VvT3VzbFpQY3NvV19nOFQ2a1gwaGkxcXdmd0JsMXlEN25UNmdGa1NLcDduMnd0dXRsOWlCN001UlgycFo3R1dHYm53dnhETnRYbFNiV3Q0bkYxWVlaXzh1dEpRcEtlUnhLc2NVeVhCQXZvSHRqT0pIT2thcnFjVl9TbjdNTU1HSEgzZDg0WFZISkp6MUUybWw0aWVtWHpQc3pnSkV2Y1JMRThvUFM4WDZQN0xQZW5ZYngzLTTSAeABQVVfeXFMTzFmUXkyeHpiV3RHdkRib3VXdklJWFJ5UThHcFhFd2RNUjNpa2VxWkdyeU1iZ1BKRlZ6UE9tcWFteHVoZHFmZDZBRWVNT2RTa01URzgxcDREVDAtWkpKaXVRcHFwRWV1UVh2dDJUZHZhejBta3drRnhnZHZBQ0haSWMwSFRwcDBIcWphbzNkRVQ3M1pnaEJYcHRTakdEZHFsZi1lUk96RExwMk15SFZndy1sSlVpb1k0Y1NBaDhOQUQ0SWFsWHo4V2tPdVNZbndPb0QwbGdkUUdObWlGbkRsQUk?oc=5
+## 3. National security and the stakes of ‘technology sovereignty’ - The Japan Times
+Source: The Japan Times (discovery)
+Published: 2026-09-22T19:33:28+00:00 | Age: 0.7 hours
+Scanned: 2026-09-22T20:16:39.446196+00:00
+URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGlFMkdrbHc2WEUxSU1Cekg1eXZPVG9sZjNxUFhZNU9Jd0RuRXpobjVHTGxBd3NQSEh0cG9NN2NmSEVpdW1EeXoyUTFsSHBxS3d5LWtvanNjdHhoOWZIanpVUll1VTU1LUdXS2gxQzdSRHNLc0EtdEVhLUdTQVNackduZzVQNHhFVmtWWEdQbVpES050ZFdqZXYwWnB0WkE?oc=5
 
-From street dance to robot crew: China's robot dancers reach America's Got Talent final Moneycontrol.com
+National security and the stakes of ‘technology sovereignty’ The Japan Times
+
+## 4. GitHub release: openai/openai-python v3.18.0
+Source: github.com (primary)
+Published: 2026-09-22T18:25:48+00:00 | Age: 1.8 hours
+Scanned: 2026-09-22T20:16:39.446196+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.18.0
+
+## [3.18.0](https://github.com/openai/openai-python/compare/v3.17.0...v3.18.0) (2026-09-22) ### Features * **api:** add GPT-6 Sol and Luna model identifiers ([#3935](https://github.com/openai/openai-python/issues/3935)) ([455ce1b](https://github.com/openai/openai-python/commit/455ce1b5da067e5d7631c86a571ca3b0d03b65cd))
