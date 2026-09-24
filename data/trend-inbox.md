@@ -2,46 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-24T18:29:32.753688+00:00
-Scanned: 2026-09-24T18:29:32.753688+00:00
+Updated: 2026-09-24T23:16:05.939811+00:00
+Scanned: 2026-09-24T23:16:05.939811+00:00
 Memory window: 72 hours
 
-## 1. AI-powered fuzzing with the GitHub Security Lab Taskflow Agent
+## 1. Show HN: Jev-browse – browser sub-tasks for coding agents at ~1/3 the cost
+Source: Hacker News (discovery)
+Published: 2026-09-24T23:08:04+00:00 | Age: 0.1 hours
+Scanned: 2026-09-24T23:16:05.936874+00:00
+URL: https://github.com/danielnc/jev-browse
+
+Hacker News discussion: https://news.ycombinator.com/item?id=49838009
+
+## 2. Turbocharging Your Python Workflow
+Source: Hacker News (discovery)
+Published: 2026-09-24T23:03:09+00:00 | Age: 0.2 hours
+Scanned: 2026-09-24T23:16:05.936874+00:00
+URL: https://medium.com/@therealcomtom/turbocharging-your-python-workflow-315dd52e14fe
+
+Hacker News discussion: https://news.ycombinator.com/item?id=49837974
+
+## 3. ChatGPT or Claude? For just $40, you can ask them both (and many others). - Mashable
+Source: Mashable (discovery)
+Published: 2026-09-24T22:20:57+00:00 | Age: 0.9 hours
+Scanned: 2026-09-24T23:16:05.936874+00:00
+URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGRYRUptR25tS1QzOHBwWkNpaVF5U3RmUjdZc2lSQUFJdk04MDRrZHN5X0JFRnRaajJKWHhOZVZ1ZzNXMS0ydmRRV3JCM0xLdVVrdW1hSkFObVpIMk5iUzNYMmtVZ2txVEY0RHlocDVSdVNaUEdWaXlueVgxeGd0dlkxeHQ2QQ?oc=5
+
+ChatGPT or Claude? For just $40, you can ask them both (and many others). Mashable
+
+## 4. Samsung Galaxy Watch 8 Drops to $290 on Amazon With Watch 9 Already on Shelves - Tech Times
+Source: Tech Times (discovery)
+Published: 2026-09-24T22:19:57+00:00 | Age: 0.9 hours
+Scanned: 2026-09-24T23:16:05.936874+00:00
+URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFpzbnFzZHNmZzVSZ1J4LXVDLTVFbFJqejdkOEVHaV9FOXFDMXRuTDJsQlNzeWlfT25nMzg4UnN4Q1lQeW5wS2t4a05uVG41YzVLX21OeTlaOXYwaXFwNTZiMkVCMjZBNXI3NlppQkFxMDMzNDNiME5FbEIzNExkd29EczNObW5DbzkzemtPVUhzM1E4LWRveFVQS19VcTlQQVBPa01EQzBjcTZwNzUwVFo2X0RobUZ3a1E?oc=5
+
+Samsung Galaxy Watch 8 Drops to $290 on Amazon With Watch 9 Already on Shelves Tech Times
+
+## 5. iPhone 18 Pro orders are officially live: Everything to know before buying - Mashable
+Source: Mashable (discovery)
+Published: 2026-09-24T21:13:04+00:00 | Age: 2.1 hours
+Scanned: 2026-09-24T23:16:05.936874+00:00
+URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxNOUJhRG9Ea1JTRkpRVFloaVVPS3lxU2RxWEpQQ28tN3NPWm9wdWZPVXV0bXdOdW9QcFhUakxjS1I4eGlDaFBHb2t3UmFreXBHZ1VaRTBJRGNFVVVMSVM2RnRfb0FURUlYaEhYRzZFRU1kUFVNZXMwMjNTeXlUMndNSTd5bktxNjE4YVE?oc=5
+
+iPhone 18 Pro orders are officially live: Everything to know before buying Mashable
+
+## 6. When chat is the wrong UI
 Source: github.blog (primary)
-Published: 2026-09-24T18:26:12+00:00 | Age: 0.1 hours
-Scanned: 2026-09-24T18:29:32.750880+00:00
-URL: https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/
+Published: 2026-09-24T20:00:00+00:00 | Age: 3.3 hours
+Scanned: 2026-09-24T23:16:05.936874+00:00
+URL: https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/
 
-In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .
-
-## 2. Privacy issue on Signal: Group and contact data isn't deleted
-Source: Hacker News (discovery)
-Published: 2026-09-24T18:24:52+00:00 | Age: 0.1 hours
-Scanned: 2026-09-24T18:29:32.750880+00:00
-URL: https://community.signalusers.org/t/privacy-issue-group-and-contact-data-isnt-actually-deleted/76519
-
-Hacker News discussion: https://news.ycombinator.com/item?id=49834824
-
-## 3. How SpaceX's Raptor engine works, one problem at a time
-Source: Hacker News (discovery)
-Published: 2026-09-24T18:20:45+00:00 | Age: 0.1 hours
-Scanned: 2026-09-24T18:29:32.750880+00:00
-URL: https://becker.so/raptor
-
-Hacker News discussion: https://news.ycombinator.com/item?id=49834760
-
-## 4. Oracle sends force majeure notice on its New Mexico Stargate data center
-Source: techcrunch.com (reputable)
-Published: 2026-09-24T18:11:44+00:00 | Age: 0.3 hours
-Scanned: 2026-09-24T18:29:32.750880+00:00
-URL: https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/
-
-The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.
-
-## 5. As the coding boom fades, computer science grads focus on AI skills in choppy job market - BNN Bloomberg
-Source: BNN Bloomberg (discovery)
-Published: 2026-09-24T15:49:39+00:00 | Age: 2.7 hours
-Scanned: 2026-09-24T18:29:32.750880+00:00
-URL: https://news.google.com/rss/articles/CBMi8gFBVV95cUxPelRFVlhCaWFpWWdXMlVUbHVqZWJQQkpSM2tXVXlkUEM0RnpXNlEyUUNPaFZfemM2aHRRQmFLaFlxenFPbENwdWZJblZlSkFMT2NQZkVNb1pacGhnRVRscFVlYnNFRmVGbVFCSk1Pd2NQVURaNXNOdFdtMEEtT2VuUlgwTExEcDJiaGJqOEVOZXhUZHhpd2Jxc2xlX3VKM3ZsOWFpMEQ5WmI2cTlXelB6akczMFR2alRPYVRzYnl6ZDdUd0VOOW8zLUVib21abTFRcVRkcFlEdTFMZVFtUF8zakV3VDNCWHQ1OVg4RnZaVjRsQQ?oc=5
-
-As the coding boom fades, computer science grads focus on AI skills in choppy job market BNN Bloomberg
+What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .
