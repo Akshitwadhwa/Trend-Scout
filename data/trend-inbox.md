@@ -2,62 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-23T23:00:33.691060+00:00
-Scanned: 2026-09-23T23:00:33.691060+00:00
+Updated: 2026-09-24T01:30:11.721210+00:00
+Scanned: 2026-09-24T01:30:11.721210+00:00
 Memory window: 72 hours
 
-## 1. Show HN: The Mouse Is Coming Too – Easy Switch for Legacy Logitech Devices
+## 1. Rendering pull requests in the GitHub Copilot app
 Source: Hacker News (discovery)
-Published: 2026-09-23T22:53:06+00:00 | Age: 0.1 hours
-Scanned: 2026-09-23T23:00:33.687634+00:00
-URL: https://github.com/ensoenso/the-mouse-is-coming-too
+Published: 2026-09-24T01:24:05+00:00 | Age: 0.1 hours
+Scanned: 2026-09-24T01:30:11.718587+00:00
+URL: https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49823733
+Hacker News discussion: https://news.ycombinator.com/item?id=49825025
 
-## 2. Nvidia boss: Shut AI labs if they can’t control rogue models - The Times
-Source: The Times (discovery)
-Published: 2026-09-23T22:41:34+00:00 | Age: 0.3 hours
-Scanned: 2026-09-23T23:00:33.687634+00:00
-URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxNaldrZHZsaXROTUo0MlVRZmstM0lRcGR3d3JuY04wd1J5NHlLc0pEVnBBUXUzOWk1eHhEZUJ3REVMaHFvdDFyZjRlYjJMWW1aYUJSYUVHZGpZUmFpTE5PMjhldEhheVItdnVDSkR5X2E1Y3NUN0dUWGRwbFRRT3plclluX20yREsydDN6T0dPVVZ1dDA?oc=5
+## 2. Australia says OpenAI agent hacked into government website
+Source: Hacker News (discovery)
+Published: 2026-09-24T01:24:00+00:00 | Age: 0.1 hours
+Scanned: 2026-09-24T01:30:11.718587+00:00
+URL: https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411
 
-Nvidia boss: Shut AI labs if they can’t control rogue models The Times
+Hacker News discussion: https://news.ycombinator.com/item?id=49825024
 
-## 3. OpenAI Agent Hacked Australian Government Website - Bloomberg.com
-Source: Bloomberg.com (discovery)
-Published: 2026-09-23T22:40:57+00:00 | Age: 0.3 hours
-Scanned: 2026-09-23T23:00:33.687634+00:00
-URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSU5ESjB2eUlfYTZSUkhMakwyMHFGakxwN0NqTmVMbVliVVlSaHJSbndySE1GbE5xWGVKbmpBUlNEZ1huNE5FQzU4S1hzV1BJUUdFa0ZBblJteTQxSWxDX1hkSUs4c1RXaFBpSXJkampDR2JtdkJUSFZfcE9GSkpuZHg4dU9HWGdsMURnc0JYUlRvcHR5OUo4ZHJJcFBkZWxLckJzOHNEZXRaWjhnLVdlUm8xU25Kd0I5VlNGTkxiSl9jWmM?oc=5
+## 3. Meta pitches new privacy protections for Muse and its smart glasses - Mashable
+Source: Mashable (discovery)
+Published: 2026-09-24T01:14:42+00:00 | Age: 0.3 hours
+Scanned: 2026-09-24T01:30:11.718587+00:00
+URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE5id25OdTVkRjZwUGxUd2NLU2hDd0wyczE0MHJiVGp2RmNPU3U2Y2dUYjNxMmo5cW1NMnNmb2lQY2lTU2FTRlcyN1BKVzRaZXVGUXJmakpYSkk5S3hqLWEwQzFRX1lLeWRFZ09qUThuMnpVcmdaOEtLNXl3?oc=5
 
-OpenAI Agent Hacked Australian Government Website Bloomberg.com
+Meta pitches new privacy protections for Muse and its smart glasses Mashable
 
-## 4. Samsung LPDDR6 Passes Snapdragon 8 Elite Extreme Gen 6 Validation for 2027 Flagships - Tech Times
-Source: Tech Times (discovery)
-Published: 2026-09-23T22:12:57+00:00 | Age: 0.8 hours
-Scanned: 2026-09-23T23:00:33.687634+00:00
-URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeWJDRmplN2lnbGNwN0V2ODZyMlBublUwWG5KUkFqSGUtOTNCSjdWN1Q1WGh4Znctc3hVem1LTXVWYkoxdmVnV1JfS1NUMU1sQ2tENENiTDBwVnR3akpiY09qVklfQlpuR25IcTBDMTNBM3l1cnlwLUlWWDhsQ2FNOUtPc1FNYkZ1RmdtM0R5ZWxvMFRpbjFVR21PVXVxTElhSXZ4Wmt3RVVuRlQzdE9WVXNVR1RpWlRsblZlYlpPZEpMZl9FZDBWbkVmS3d3Sk93?oc=5
+## 4. Everything new coming to Meta’s AI agent Muse
+Source: techcrunch.com (reputable)
+Published: 2026-09-24T01:13:32+00:00 | Age: 0.3 hours
+Scanned: 2026-09-24T01:30:11.718587+00:00
+URL: https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/
 
-Samsung LPDDR6 Passes Snapdragon 8 Elite Extreme Gen 6 Validation for 2027 Flagships Tech Times
+CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.
 
-## 5. Samsung at the Forefront of Korea’s AI RAN Projects with KT and SK Telecom
-Source: news.samsung.com (primary)
-Published: 2026-09-23T22:00:00+00:00 | Age: 1.0 hours
-Scanned: 2026-09-23T23:00:33.687634+00:00
-URL: https://news.samsung.com/global/samsung-at-the-forefront-of-koreas-ai-ran-projects-with-kt-and-sk-telecom
+## 5. Meta made a Tamagotchi-like wearable for its Muse AI agent
+Source: techcrunch.com (reputable)
+Published: 2026-09-24T00:46:17+00:00 | Age: 0.7 hours
+Scanned: 2026-09-24T01:30:11.718587+00:00
+URL: https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/
 
-Samsung Electronics today announced it has signed contracts with KT and SK Telecom for their AI RAN projects under the Korean Ministry of Science and ICT’s (MSIT) “Hyper AI Network” initiative, taking on the roles of sole global vendor for KT and main vendor for SK Telecom. Building on its decades-long partnerships with the country’s […]
+The tiny hardware device creates another mobile home for its AI agent Muse.
 
-## 6. GitHub release: anthropics/claude-code v2.1.281
+## 6. Meta made a Tamagotchi-like wearable for its Muse AI agent - TechCrunch
+Source: TechCrunch (discovery)
+Published: 2026-09-24T00:46:17+00:00 | Age: 0.7 hours
+Scanned: 2026-09-24T01:30:11.718587+00:00
+URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxPckJ3Z3NZNFRmZXFlT1hyVExUTmlSZmZiQ0Y3Y3ZmcVpkVEdGLTdWUXBEZzduYmFId1VmSVdQTkxVRk9uMTRSU25BaWV3Yk9iX1Eza1pHNXhibFVMUTFPcTVLR1RFdWVRblVTQnpoeFduVnh1ZTllSWppT04zSDhSazVCVTI3aGY2ZjdDNVZJUzB6T21iYzhvdg?oc=5
+
+Meta made a Tamagotchi-like wearable for its Muse AI agent TechCrunch
+
+## 7. GitHub release: openai/openai-python v3.19.2
 Source: github.com (primary)
-Published: 2026-09-23T19:19:15+00:00 | Age: 3.7 hours
-Scanned: 2026-09-23T23:00:33.687634+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.281
+Published: 2026-09-24T00:05:23+00:00 | Age: 1.4 hours
+Scanned: 2026-09-24T01:30:11.718587+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.19.2
 
-## What's changed - Added Claude apps gateway support for newer Claude Desktop keys in `desktop` policy blocks, including `blockReadsOutsideWorkingDirectories` and `disableBypassPermissionsMode` - Added `assume_role` on Claude apps gateway Bedrock upstreams: the gateway calls Bedrock as an IAM role it assumes through STS, in another AWS account if needed, optionally one session per developer - Added `guardrail: {id, 
+## [3.19.2](https://github.com/openai/openai-python/compare/v3.19.1...v3.19.2) (2026-09-23) ### Bug Fixes * preserve single files for fallback extraction paths ([#3875](https://github.com/openai/openai-python/issues/3875)) ([bfd3680](https://github.com/openai/openai-python/commit/bfd3680c8d3b715bb3175b82cd0fa1c1fb53162f)) ### Chores * **api:** clarify approximate web search location defaults ([#3953](https://github.c
 
-## 7. GitHub release: openai/openai-python v3.19.1
-Source: github.com (primary)
-Published: 2026-09-23T19:15:40+00:00 | Age: 3.7 hours
-Scanned: 2026-09-23T23:00:33.687634+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.19.1
+## 8. Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform - EE Times Asia
+Source: EE Times Asia (discovery)
+Published: 2026-09-23T23:48:45+00:00 | Age: 1.7 hours
+Scanned: 2026-09-24T01:30:11.718587+00:00
+URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxOYnhGS0NzLVF6U3hFQmNZTldaOTlSN3M1TXhNMzBmMnFCQ2stU1cyYW1PTy1EeW4xbkpkbnQ2OU1Fd3JIbFdUa2czZ28xRm1LMGxNeWpIaFZWYlF0TjBDR1RQNDRkUFgzYmFJQU9IRFplMV9TVUdCU01RalZDQk1zZUd2LUMtc1l0UEFmTEthaU1wclRrZW51aWVBOVpqVzNZ?oc=5
 
-## [3.19.1](https://github.com/openai/openai-python/compare/v3.19.0...v3.19.1) (2026-09-23) ### Bug Fixes * **chat:** preserve single-pass tool iterables ([#3770](https://github.com/openai/openai-python/issues/3770)) ([33ffa1f](https://github.com/openai/openai-python/commit/33ffa1f9fa4f49553ab0287b9359283be818fe40)) * **client:** merge HTTP headers case-insensitively ([#3486](https://github.com/openai/openai-python/i
+Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform EE Times Asia
