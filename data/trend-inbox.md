@@ -2,54 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-25T13:57:55.680679+00:00
-Scanned: 2026-09-25T13:57:55.680679+00:00
+Updated: 2026-09-25T18:45:26.859589+00:00
+Scanned: 2026-09-25T18:45:26.859589+00:00
 Memory window: 72 hours
 
-## 1. SpaceX-Focused Pentagon Contracts Leave Rivals Feeling Squeezed
+## 1. Modern UX Visuals for your GitHub data
 Source: Hacker News (discovery)
-Published: 2026-09-25T13:56:32+00:00 | Age: 0.0 hours
-Scanned: 2026-09-25T13:57:55.677116+00:00
-URL: https://www.bloomberg.com/news/articles/2026-09-25/spacex-focused-pentagon-contracts-leave-rivals-feeling-squeezed
+Published: 2026-09-25T18:43:26+00:00 | Age: 0.0 hours
+Scanned: 2026-09-25T18:45:26.856589+00:00
+URL: https://velocity.id8.one/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49844743
+Hacker News discussion: https://news.ycombinator.com/item?id=49848347
 
-## 2. Benchmarking Jev, Laya, and five open models under three stresses
-Source: Hacker News (discovery)
-Published: 2026-09-25T13:49:30+00:00 | Age: 0.1 hours
-Scanned: 2026-09-25T13:57:55.677116+00:00
-URL: https://github.com/gazelle93/decision-models-under-pressure
-
-Hacker News discussion: https://news.ycombinator.com/item?id=49844668
-
-## 3. Trump administration asks OpenAI, Anthropic to withhold AI models from UK testing agency - Moneycontrol.com
-Source: Moneycontrol.com (discovery)
-Published: 2026-09-25T13:46:41+00:00 | Age: 0.2 hours
-Scanned: 2026-09-25T13:57:55.677116+00:00
-URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHZSTnJrR1F4VVg1OXBhd19zWTl1Q2hVZWlmd2xELUhZcUhxajcyTUY3WGlQU3g3bHhOSEhWSF9yYXJCMGEtSU5yMmlzM2paS2I5ekE5UHhLZ1VYVTZ2VHd1WHpEeFJVcnFRSmFrSE5vZHlLSkhxS2V5ZXl4R0tfNFM4T2Z3N0RPZ1lwYTI4amNRa2t5aG43VFZSY1F4OXJZV1RxdUpTSjlKTm9QWU9PVk10UGV2Tm1nV1RmTlY1Qzlud3lDdlVHbUNQUXJHeWhCQ3VqVl9sc3hra0hi0gHiAUFVX3lxTE9DWlFOZC1lb0I4MG10XzdTSEZybXczRDFobGFkOEtWOV9yWWVBdk85Z3hJeERTVVdYWU1sNE9NSmFEQmtUVXRSUVRsYnB2aXNheTgxNnlnUVBlRnlSNWFwV0tISjNPRERIbDdCaFRSRGlUQWZ2T0NJcmtpY3ZYX2VNY1ZCc0RTbmhnOTJuRy1FV2RiUWhodlVheWJOSEZrRFc5MUR6Nm1IaWZNX25IU2NIRWFlbHFoaFpVTlVnbmJrU2h6NUZhNjFkaUlFWUpVZ29sZ2dIT3dGcWwwUk91QVNhOVE?oc=5
-
-Trump administration asks OpenAI, Anthropic to withhold AI models from UK testing agency Moneycontrol.com
-
-## 4. Apple to fix iPhone 18 Pro Face ID bug - Mashable
-Source: Mashable (discovery)
-Published: 2026-09-25T13:24:04+00:00 | Age: 0.6 hours
-Scanned: 2026-09-25T13:57:55.677116+00:00
-URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE14WE5Nd0FjWHAwNWZVTkxCRFl0M0t1VWJodC0zZ2FqcTFHa2EwakYtc24tbHM3U0ZVcExTT25YWk1VV2NEdENGN091Ui1WdEZXX3RlRGMtc3U?oc=5
-
-Apple to fix iPhone 18 Pro Face ID bug Mashable
-
-## 5. GitHub release: anthropics/claude-code v2.1.282
-Source: github.com (primary)
-Published: 2026-09-24T18:38:05+00:00 | Age: 19.3 hours
-Scanned: 2026-09-25T13:57:55.677116+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
-
-## What's changed - Added a `maxProseWidth` setting that caps the width of Claude's prose in wide terminals while tables and code blocks keep the full width - Added a startup notice, and `/status` and `claude doctor` entries, listing telemetry variables in a project's settings files that were ignored or that turned telemetry off - Added the `allowClaudeInChromeWithManagedMcp` managed setting to let `claude --chrome` 
-
-## 6. Qualcomm launches two new smartphone chips with emphasis on AI
+## 2. Ahead of U.S. IPO, British AI neocloud Nscale secures $3.36B in convertible finacing
 Source: techcrunch.com (reputable)
-Published: 2026-09-22T20:00:00+00:00 | Age: 66.0 hours
-Scanned: 2026-09-25T13:57:55.677116+00:00
-URL: https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/
+Published: 2026-09-25T18:33:59+00:00 | Age: 0.2 hours
+Scanned: 2026-09-25T18:45:26.856589+00:00
+URL: https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
 
-Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
+The funding, which comes from Third Point, Nvidia and others, will fuel the company's massive AI data center buildout.
+
+## 3. Ollaya – Ollama for open-source, Jev-style decision models
+Source: Hacker News (discovery)
+Published: 2026-09-25T18:33:50+00:00 | Age: 0.2 hours
+Scanned: 2026-09-25T18:45:26.856589+00:00
+URL: https://ollaya.dev/
+
+Hacker News discussion: https://news.ycombinator.com/item?id=49848269
+
+## 4. Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic
+Source: techcrunch.com (reputable)
+Published: 2026-09-25T18:22:47+00:00 | Age: 0.4 hours
+Scanned: 2026-09-25T18:45:26.856589+00:00
+URL: https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/
+
+When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is he
+
+## 5. GitHub Copilot app for Beginners: How to build custom workflows with canvases
+Source: github.blog (primary)
+Published: 2026-09-25T18:00:00+00:00 | Age: 0.8 hours
+Scanned: 2026-09-25T18:45:26.856589+00:00
+URL: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/
+
+Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .
