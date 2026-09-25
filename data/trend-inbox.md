@@ -2,46 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-25T07:59:33.964008+00:00
-Scanned: 2026-09-25T07:59:33.964008+00:00
+Updated: 2026-09-25T13:57:55.680679+00:00
+Scanned: 2026-09-25T13:57:55.680679+00:00
 Memory window: 72 hours
 
-## 1. Show HN: Can an AI agent bypass a post-quantum signed authorization policy?
+## 1. SpaceX-Focused Pentagon Contracts Leave Rivals Feeling Squeezed
 Source: Hacker News (discovery)
-Published: 2026-09-25T07:55:01+00:00 | Age: 0.1 hours
-Scanned: 2026-09-25T07:59:33.961455+00:00
-URL: https://github.com/max-russo-com/MAX_AUTHORIZATION_SANDBOX
+Published: 2026-09-25T13:56:32+00:00 | Age: 0.0 hours
+Scanned: 2026-09-25T13:57:55.677116+00:00
+URL: https://www.bloomberg.com/news/articles/2026-09-25/spacex-focused-pentagon-contracts-leave-rivals-feeling-squeezed
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49841469
+Hacker News discussion: https://news.ycombinator.com/item?id=49844743
 
-## 2. OpenAI prepares new $500/month Pro Max plan for ChatGPT
+## 2. Benchmarking Jev, Laya, and five open models under three stresses
 Source: Hacker News (discovery)
-Published: 2026-09-25T07:51:36+00:00 | Age: 0.1 hours
-Scanned: 2026-09-25T07:59:33.961455+00:00
-URL: https://www.testingcatalog.com/openai-prepares-new-500-month-pro-max-plan-for-chatgpt/
+Published: 2026-09-25T13:49:30+00:00 | Age: 0.1 hours
+Scanned: 2026-09-25T13:57:55.677116+00:00
+URL: https://github.com/gazelle93/decision-models-under-pressure
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49841456
+Hacker News discussion: https://news.ycombinator.com/item?id=49844668
 
-## 3. Trump-Xi state dinner guest list includes SpaceX’s Musk, Nvidia’s Huang and LVMH’s Arnault - Reuters
-Source: Reuters (discovery)
-Published: 2026-09-25T07:37:23+00:00 | Age: 0.4 hours
-Scanned: 2026-09-25T07:59:33.961455+00:00
-URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxQODQxZlQtOHZFRC1GeGc0ZzhtVjI4bHNjX1F4TEd4NWJZTlk0UmRCQndWT2NmQXhwdlNVWmRYZXA4Q0tvbEtNZ1BsY3haY2k1YUpnU2s2T1lseFVGR1VHZFpaUEYxUGxvT2pqOThaUDlxa18tUmk5ZjJ1QmdIYm1rY29VLTE2WHNrdXNqVWxHc0pYVWJlbWtmbEtwTVRaVUI2aWRIcTdmVDI1MExEbFVDRHU2aHFaVkdxMEJndHcxZU9PSU1Ec0E?oc=5
+## 3. Trump administration asks OpenAI, Anthropic to withhold AI models from UK testing agency - Moneycontrol.com
+Source: Moneycontrol.com (discovery)
+Published: 2026-09-25T13:46:41+00:00 | Age: 0.2 hours
+Scanned: 2026-09-25T13:57:55.677116+00:00
+URL: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeHZSTnJrR1F4VVg1OXBhd19zWTl1Q2hVZWlmd2xELUhZcUhxajcyTUY3WGlQU3g3bHhOSEhWSF9yYXJCMGEtSU5yMmlzM2paS2I5ekE5UHhLZ1VYVTZ2VHd1WHpEeFJVcnFRSmFrSE5vZHlLSkhxS2V5ZXl4R0tfNFM4T2Z3N0RPZ1lwYTI4amNRa2t5aG43VFZSY1F4OXJZV1RxdUpTSjlKTm9QWU9PVk10UGV2Tm1nV1RmTlY1Qzlud3lDdlVHbUNQUXJHeWhCQ3VqVl9sc3hra0hi0gHiAUFVX3lxTE9DWlFOZC1lb0I4MG10XzdTSEZybXczRDFobGFkOEtWOV9yWWVBdk85Z3hJeERTVVdYWU1sNE9NSmFEQmtUVXRSUVRsYnB2aXNheTgxNnlnUVBlRnlSNWFwV0tISjNPRERIbDdCaFRSRGlUQWZ2T0NJcmtpY3ZYX2VNY1ZCc0RTbmhnOTJuRy1FV2RiUWhodlVheWJOSEZrRFc5MUR6Nm1IaWZNX25IU2NIRWFlbHFoaFpVTlVnbmJrU2h6NUZhNjFkaUlFWUpVZ29sZ2dIT3dGcWwwUk91QVNhOVE?oc=5
 
-Trump-Xi state dinner guest list includes SpaceX’s Musk, Nvidia’s Huang and LVMH’s Arnault Reuters
+Trump administration asks OpenAI, Anthropic to withhold AI models from UK testing agency Moneycontrol.com
 
-## 4. When chat is the wrong UI
-Source: github.blog (primary)
-Published: 2026-09-24T20:00:00+00:00 | Age: 12.0 hours
-Scanned: 2026-09-25T07:59:33.961455+00:00
-URL: https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/
+## 4. Apple to fix iPhone 18 Pro Face ID bug - Mashable
+Source: Mashable (discovery)
+Published: 2026-09-25T13:24:04+00:00 | Age: 0.6 hours
+Scanned: 2026-09-25T13:57:55.677116+00:00
+URL: https://news.google.com/rss/articles/CBMiWEFVX3lxTE14WE5Nd0FjWHAwNWZVTkxCRFl0M0t1VWJodC0zZ2FqcTFHa2EwakYtc24tbHM3U0ZVcExTT25YWk1VV2NEdENGN091Ui1WdEZXX3RlRGMtc3U?oc=5
 
-What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .
+Apple to fix iPhone 18 Pro Face ID bug Mashable
 
-## 5. AI-powered fuzzing with the GitHub Security Lab Taskflow Agent
-Source: github.blog (primary)
-Published: 2026-09-24T18:26:12+00:00 | Age: 13.6 hours
-Scanned: 2026-09-25T07:59:33.961455+00:00
-URL: https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/
+## 5. GitHub release: anthropics/claude-code v2.1.282
+Source: github.com (primary)
+Published: 2026-09-24T18:38:05+00:00 | Age: 19.3 hours
+Scanned: 2026-09-25T13:57:55.677116+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.282
 
-In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .
+## What's changed - Added a `maxProseWidth` setting that caps the width of Claude's prose in wide terminals while tables and code blocks keep the full width - Added a startup notice, and `/status` and `claude doctor` entries, listing telemetry variables in a project's settings files that were ignored or that turned telemetry off - Added the `allowClaudeInChromeWithManagedMcp` managed setting to let `claude --chrome` 
+
+## 6. Qualcomm launches two new smartphone chips with emphasis on AI
+Source: techcrunch.com (reputable)
+Published: 2026-09-22T20:00:00+00:00 | Age: 66.0 hours
+Scanned: 2026-09-25T13:57:55.677116+00:00
+URL: https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/
+
+Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.
