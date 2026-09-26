@@ -2,54 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-25T23:21:31.080481+00:00
-Scanned: 2026-09-25T23:21:31.080481+00:00
+Updated: 2026-09-26T01:43:37.682936+00:00
+Scanned: 2026-09-26T01:43:37.682936+00:00
 Memory window: 72 hours
 
-## 1. Senior Software Engineer
+## 1. Creating Client Certificates for Kubernetes Pods
 Source: Hacker News (discovery)
-Published: 2026-09-25T23:18:47+00:00 | Age: 0.0 hours
-Scanned: 2026-09-25T23:21:31.078838+00:00
-URL: https://www.josephstaley.me/
+Published: 2026-09-26T01:14:30+00:00 | Age: 0.5 hours
+Scanned: 2026-09-26T01:43:37.680897+00:00
+URL: https://blog.hardill.me.uk/2026/09/24/creating-client-certificates-for-kubernetes-pods/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49851314
+Hacker News discussion: https://news.ycombinator.com/item?id=49852152
 
-## 2. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+## 2. At Meta Connect, the company’s smart glasses were everywhere
 Source: techcrunch.com (reputable)
-Published: 2026-09-25T23:11:10+00:00 | Age: 0.2 hours
-Scanned: 2026-09-25T23:21:31.078838+00:00
+Published: 2026-09-26T01:08:57+00:00 | Age: 0.6 hours
+Scanned: 2026-09-26T01:43:37.680897+00:00
+URL: https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/
+
+The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
+
+## 3. At Meta Connect, the company’s smart glasses were everywhere - TechCrunch
+Source: TechCrunch (discovery)
+Published: 2026-09-26T01:08:57+00:00 | Age: 0.6 hours
+Scanned: 2026-09-26T01:43:37.680897+00:00
+URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjFPMGtJUkQzUUZNVFczdGtycGRFeGN0UnlZMVJVWEdsbEpVaUxUbDVLVUpHZkJaeU9aZzZ2aTFRLW1uUnlvb3ltdXRTXzg2VFJQYmNoVVFPNGxTRjNfUmpMT2hrX1luTjI2QkVKeFUzWE16bHhONXNwLTlaUG41VGFTS2ZwQXRLczBuX1R5bldacXhDM0hUTQ?oc=5
+
+At Meta Connect, the company’s smart glasses were everywhere TechCrunch
+
+## 4. Should You Get the iPhone 18 Pro Now or Wait? What to Know About Preorder and Carrier Deals - CNET
+Source: CNET (discovery)
+Published: 2026-09-25T23:37:59+00:00 | Age: 2.1 hours
+Scanned: 2026-09-26T01:43:37.680897+00:00
+URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hSLTc0OHU4aFZMZFZ4TkNIQmQ2VzN0amtFdEpZY2hpU0FrcXZEbHVHeERqdlVlVktCb0dBaDJ1Rmx6aWc2V3JMUWFPdkQ2LS1RRUMwc0dZU0I1NWpxdU5YZ1REYlFTMGxNaFJZUEh1djJnWkZTN1hFeUllR2JaTEx4ZWJoQ2hlTHh0NWFmNC1tQkU4Y09YbW5Nb1hNN09seTdZQzJDLWE4dXVabU5BVlVhMUFUSXg5OXJCMEF3?oc=5
+
+Should You Get the iPhone 18 Pro Now or Wait? What to Know About Preorder and Carrier Deals CNET
+
+## 5. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+Source: techcrunch.com (reputable)
+Published: 2026-09-25T23:11:10+00:00 | Age: 2.5 hours
+Scanned: 2026-09-26T01:43:37.680897+00:00
 URL: https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
 
 Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.
 
-## 3. OpenAI Codex 401 Outage
-Source: Hacker News (discovery)
-Published: 2026-09-25T23:07:28+00:00 | Age: 0.2 hours
-Scanned: 2026-09-25T23:21:31.078838+00:00
-URL: https://status.openai.com
+## 6. GitHub release: anthropics/claude-code v2.1.283
+Source: github.com (primary)
+Published: 2026-09-25T21:50:12+00:00 | Age: 3.9 hours
+Scanned: 2026-09-26T01:43:37.680897+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49851205
+## What's changed - Added `x-claude-code-prompt-id` to the gateway hint headers so LLM gateways can group the requests that serve one user prompt; opt in with `CLAUDE_CODE_GATEWAY_HINT_HEADERS=1` - Added `availableModelsMatch` managed setting: with `"exact"`, an `availableModels` entry allows only the model version it names, so new releases stay blocked until listed - Added `deniedModels` managed setting to block spe
 
-## 4. PrivacyHawk Completes SOC 2 Type II Audit for Security, Confidentiality, and Privacy - The Manila Times
-Source: The Manila Times (discovery)
-Published: 2026-09-25T22:55:46+00:00 | Age: 0.4 hours
-Scanned: 2026-09-25T23:21:31.078838+00:00
-URL: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOREZZb1F1OTU5cGREYVRFS1ZhOHItZ3lfd2R5SjQzaW9QMFNwYTJQbUxpdUtxYVdVb1I2eEktSFRQWHE1NEk4X3JVV0pYc0tud1VGSWpyVHpJTTVjeHk4R0pGX3dZQm1YTHlpRHBBT0pNeEZkRG84R2FybGhOTE05VG40ZzF2eUN1Zjk3eXowcV9VVW1nY2l4Z3V5ZGdfdk1NYUtTUVhVWFBfQ2VnRDlVWmdoUzVUbmJrWXBqTExTY01zdHFJTnd5bE9mYVZTYUctYTdKb1ZSYTRIdGk4czFFdWlNMU5tYzlhTXZON9IB8gFBVV95cUxQaWd6VGt5ajdLUm1jdGtyc3FXRkR5RHhlZXpXS0xxOWF0ZExvTFFOenVBdWRkZjY3UmZ3bW5qcTJVeU0xb2ZZenl1My05VDIzZm8xQklYWWxHZndFZU0zOVp5RW1iUHV2MHZQZmxyRVVGSEotUlc1Q1NILXlnRGk1NFZfNGRVRTZLZjEtNXB1T1d4WGlxMkhIQVV4TWhrX1FVamFzR1YycGhhQ1M4UXhyUE1oRm1QUjdCSFlNeUhwcGk0V3VLQU5vWmZzWTBsWVE0dzNNRmRqNk1BdkQ3V1hJWkN0S01qYUxvcTBzQmJQX0hSUQ?oc=5
+## 7. Data center IPO hopefuls brave tougher market as investor scrutiny grows - reuters.com
+Source: reuters.com (discovery)
+Published: 2026-09-25T19:35:53+00:00 | Age: 6.1 hours
+Scanned: 2026-09-26T01:43:37.680897+00:00
+URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUI2bktTU0d4N3ZCQWY5MXJJblQtWHJvLTJJU19EZFQydzI4QWdKNDRhR0ZVVTdUQzVXYkpSMDFQTmZveThyT0NseElNd3M3UGhrWXI0bTFfSVNMaUh2UTRUZi1JYjlycmdIc1JZRFRhNUhpWUNMcmRqcUVvYjlxUldRbnlpU0ZfSmZZbjNlNE96UnIxSUw0VmtvQXIzWW45b05JTk5TNU5pZEhIODBnbmF5NXZ3a05FSmFLUG5PM2hkdDA?oc=5
 
-PrivacyHawk Completes SOC 2 Type II Audit for Security, Confidentiality, and Privacy The Manila Times
+Data center IPO hopefuls brave tougher market as investor scrutiny grows reuters.com
 
-## 5. OpenAI investigating 'dozens' of instances of agents acting improperly - BBC
-Source: BBC (discovery)
-Published: 2026-09-25T22:43:54+00:00 | Age: 0.6 hours
-Scanned: 2026-09-25T23:21:31.078838+00:00
-URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hY2thQ1hxclRyRjlDRV9BMHZLZ0R5NGJBUDhQZTVRTTdkZ0Fvd2hQak5qaWl2a1dvcmhPc0dhNUZJRFFLQ1JCZmxxUloxNXZaU0tPY0k5QXVxSFpGelE?oc=5
+## 8. GitHub Copilot app for Beginners: How to build custom workflows with canvases
+Source: github.blog (primary)
+Published: 2026-09-25T18:00:00+00:00 | Age: 7.7 hours
+Scanned: 2026-09-26T01:43:37.680897+00:00
+URL: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/
 
-OpenAI investigating 'dozens' of instances of agents acting improperly BBC
-
-## 6. Should You Get the iPhone 18 Pro Now or Wait? What to Know About Preorder and Carrier Deals - CNET
-Source: CNET (discovery)
-Published: 2026-09-25T22:07:59+00:00 | Age: 1.2 hours
-Scanned: 2026-09-25T23:21:31.078838+00:00
-URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hSLTc0OHU4aFZMZFZ4TkNIQmQ2VzN0amtFdEpZY2hpU0FrcXZEbHVHeERqdlVlVktCb0dBaDJ1Rmx6aWc2V3JMUWFPdkQ2LS1RRUMwc0dZU0I1NWpxdU5YZ1REYlFTMGxNaFJZUEh1djJnWkZTN1hFeUllR2JaTEx4ZWJoQ2hlTHh0NWFmNC1tQkU4Y09YbW5Nb1hNN09seTdZQzJDLWE4dXVabU5BVlVhMUFUSXg5OXJCMEF3?oc=5
-
-Should You Get the iPhone 18 Pro Now or Wait? What to Know About Preorder and Carrier Deals CNET
+Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .
