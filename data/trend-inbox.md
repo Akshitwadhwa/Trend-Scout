@@ -2,70 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-26T01:43:37.682936+00:00
-Scanned: 2026-09-26T01:43:37.682936+00:00
+Updated: 2026-09-26T07:52:40.566207+00:00
+Scanned: 2026-09-26T07:52:40.566207+00:00
 Memory window: 72 hours
 
-## 1. Creating Client Certificates for Kubernetes Pods
+## 1. The far side of the Moon provides clues to a previous magnetic field
 Source: Hacker News (discovery)
-Published: 2026-09-26T01:14:30+00:00 | Age: 0.5 hours
-Scanned: 2026-09-26T01:43:37.680897+00:00
-URL: https://blog.hardill.me.uk/2026/09/24/creating-client-certificates-for-kubernetes-pods/
+Published: 2026-09-26T07:49:50+00:00 | Age: 0.0 hours
+Scanned: 2026-09-26T07:52:40.563141+00:00
+URL: https://ethz.ch/en/news-and-events/eth-news/news/2026/09/the-far-side-of-the-moon-provides-clues-to-a-previous-magnetic-field.html
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49852152
+Hacker News discussion: https://news.ycombinator.com/item?id=49854216
 
-## 2. At Meta Connect, the company’s smart glasses were everywhere
+## 2. Reverse Engineering Fortinet with Ablation
+Source: Hacker News (discovery)
+Published: 2026-09-26T07:30:07+00:00 | Age: 0.4 hours
+Scanned: 2026-09-26T07:52:40.563141+00:00
+URL: https://github.com/Ablation-Tool/ablation
+
+Hacker News discussion: https://news.ycombinator.com/item?id=49854141
+
+## 3. Apple Code Confirms Next Low-Cost iPad Will Get A19 Chip, 8GB RAM and New C1X Modem for Full AI Support - International Business Times Australia
+Source: International Business Times Australia (discovery)
+Published: 2026-09-26T07:29:32+00:00 | Age: 0.4 hours
+Scanned: 2026-09-26T07:52:40.563141+00:00
+URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxORHcwTHlIQkFrQlpKSlR5d0IxcGpLVDNVSE9vTUFWQ3hqZ2xTZnJwVkxOLVZfN3ZaNmR5bV83eHdXa1ktSUItZUQ4NTlFV25WRmlHYS1YZ3htRFd2T3VzdEg2R0psQmstbEI5ZWwxNmlDQlNZc1VrRnZFTVNSVzlSNl9yNA?oc=5
+
+Apple Code Confirms Next Low-Cost iPad Will Get A19 Chip, 8GB RAM and New C1X Modem for Full AI Support International Business Times Australia
+
+## 4. Why Koreans in their 20s are ditching gas cars for EVs - Korea JoongAng Daily
+Source: Korea JoongAng Daily (discovery)
+Published: 2026-09-26T07:19:15+00:00 | Age: 0.6 hours
+Scanned: 2026-09-26T07:52:40.563141+00:00
+URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDl4RmdNLTZqZTZJdVZZdnVZYmNjVVphdy1xZWFvNU9ia0FVZWhoOFJpY2RpSkZqRkwwUm14LWFjbzNWdVVJQUVTUmQwZHdTY1VNcTZZaXB5cUZlTTBwdnQ2dGo5M1dTUlg2RVNFM3lxSHVuak85QTdfdHhMZGpVY0ZiUVA2UlI4VW95WEVrYWctUGdKSFlnMk9CRkJLcDZHMkhzNk5iRGNkNTQ?oc=5
+
+Why Koreans in their 20s are ditching gas cars for EVs Korea JoongAng Daily
+
+## 5. Sovereignty means controlling a substantial part of the chip supply chain: Mindgrove CEO Shashwath TR - The Economic Times
+Source: The Economic Times (discovery)
+Published: 2026-09-26T06:57:57+00:00 | Age: 0.9 hours
+Scanned: 2026-09-26T07:52:40.563141+00:00
+URL: https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOFphMVdacGtia3g2UzdhekU5VUhVaTBqY0xFcjZ5bzhpMGFjNnU1a0lmUEJhRzMxNklySDgyR1c4YWRPSzY1MTZVVVNlanI4YWlHVUFfQ2dYc1VGUk5EbW1EREJ2VC01Q3RGV1NMck9TX0FRVDZJajFrdkhZR2xZRHlVN2s4ZjVYenNXMVpPb184X0tyNlR0bENQMlJmUG5PNDVWVEd6YWRrR0J6OWtUdVBCcTVRdTZESy1wckhpMy1RcjdVOE13QlhaeEVTWmYzYnRMQUxWWEtNME9uN1RfRmZoWk5uaDhsbjlXOUJTTEd0NzBYY0VpUTR6eWJod9IBgwJBVV95cUxQQWZKU3M4b3pwUDAyX2g2emhlS1JSa3ZnTnAwTXRSdnQwUFBSam5mR21XVldsOGM2Xy1FMWJCdHZCd2t1R0JYMTVnVm9nR0s5Zlhja3QxSVZTNnFDRGdYc0FHOGFVUzlHWVhyRlR4OXV2VDN1Ml9vRzRNV0VKZGdJcURnNEt5eG5PUU1tZmtZbFh5aXRMU1drVU82NzEtTTI1YUVYeWlMeG9iLUxpZ0xQZVZwV2dEekQ2VUdhemx2cGt1ZVpESEs2Wm8yZ1dYMHZ5d3J4Y09sY1hqWDRfcG9pWlRqaW1SVkthQ3I5YWlkcG5MTlIyZElOV0g5dm82bmxfQm1j?oc=5
+
+Sovereignty means controlling a substantial part of the chip supply chain: Mindgrove CEO Shashwath TR The Economic Times
+
+## 6. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
 Source: techcrunch.com (reputable)
-Published: 2026-09-26T01:08:57+00:00 | Age: 0.6 hours
-Scanned: 2026-09-26T01:43:37.680897+00:00
-URL: https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/
-
-The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
-
-## 3. At Meta Connect, the company’s smart glasses were everywhere - TechCrunch
-Source: TechCrunch (discovery)
-Published: 2026-09-26T01:08:57+00:00 | Age: 0.6 hours
-Scanned: 2026-09-26T01:43:37.680897+00:00
-URL: https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjFPMGtJUkQzUUZNVFczdGtycGRFeGN0UnlZMVJVWEdsbEpVaUxUbDVLVUpHZkJaeU9aZzZ2aTFRLW1uUnlvb3ltdXRTXzg2VFJQYmNoVVFPNGxTRjNfUmpMT2hrX1luTjI2QkVKeFUzWE16bHhONXNwLTlaUG41VGFTS2ZwQXRLczBuX1R5bldacXhDM0hUTQ?oc=5
-
-At Meta Connect, the company’s smart glasses were everywhere TechCrunch
-
-## 4. Should You Get the iPhone 18 Pro Now or Wait? What to Know About Preorder and Carrier Deals - CNET
-Source: CNET (discovery)
-Published: 2026-09-25T23:37:59+00:00 | Age: 2.1 hours
-Scanned: 2026-09-26T01:43:37.680897+00:00
-URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hSLTc0OHU4aFZMZFZ4TkNIQmQ2VzN0amtFdEpZY2hpU0FrcXZEbHVHeERqdlVlVktCb0dBaDJ1Rmx6aWc2V3JMUWFPdkQ2LS1RRUMwc0dZU0I1NWpxdU5YZ1REYlFTMGxNaFJZUEh1djJnWkZTN1hFeUllR2JaTEx4ZWJoQ2hlTHh0NWFmNC1tQkU4Y09YbW5Nb1hNN09seTdZQzJDLWE4dXVabU5BVlVhMUFUSXg5OXJCMEF3?oc=5
-
-Should You Get the iPhone 18 Pro Now or Wait? What to Know About Preorder and Carrier Deals CNET
-
-## 5. Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
-Source: techcrunch.com (reputable)
-Published: 2026-09-25T23:11:10+00:00 | Age: 2.5 hours
-Scanned: 2026-09-26T01:43:37.680897+00:00
+Published: 2026-09-25T23:11:10+00:00 | Age: 8.7 hours
+Scanned: 2026-09-26T07:52:40.563141+00:00
 URL: https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
 
-Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.
+Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
 
-## 6. GitHub release: anthropics/claude-code v2.1.283
+## 7. GitHub release: anthropics/claude-code v2.1.283
 Source: github.com (primary)
-Published: 2026-09-25T21:50:12+00:00 | Age: 3.9 hours
-Scanned: 2026-09-26T01:43:37.680897+00:00
+Published: 2026-09-25T21:50:12+00:00 | Age: 10.0 hours
+Scanned: 2026-09-26T07:52:40.563141+00:00
 URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.283
 
 ## What's changed - Added `x-claude-code-prompt-id` to the gateway hint headers so LLM gateways can group the requests that serve one user prompt; opt in with `CLAUDE_CODE_GATEWAY_HINT_HEADERS=1` - Added `availableModelsMatch` managed setting: with `"exact"`, an `availableModels` entry allows only the model version it names, so new releases stay blocked until listed - Added `deniedModels` managed setting to block spe
 
-## 7. Data center IPO hopefuls brave tougher market as investor scrutiny grows - reuters.com
-Source: reuters.com (discovery)
-Published: 2026-09-25T19:35:53+00:00 | Age: 6.1 hours
-Scanned: 2026-09-26T01:43:37.680897+00:00
-URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUI2bktTU0d4N3ZCQWY5MXJJblQtWHJvLTJJU19EZFQydzI4QWdKNDRhR0ZVVTdUQzVXYkpSMDFQTmZveThyT0NseElNd3M3UGhrWXI0bTFfSVNMaUh2UTRUZi1JYjlycmdIc1JZRFRhNUhpWUNMcmRqcUVvYjlxUldRbnlpU0ZfSmZZbjNlNE96UnIxSUw0VmtvQXIzWW45b05JTk5TNU5pZEhIODBnbmF5NXZ3a05FSmFLUG5PM2hkdDA?oc=5
-
-Data center IPO hopefuls brave tougher market as investor scrutiny grows reuters.com
-
 ## 8. GitHub Copilot app for Beginners: How to build custom workflows with canvases
 Source: github.blog (primary)
-Published: 2026-09-25T18:00:00+00:00 | Age: 7.7 hours
-Scanned: 2026-09-26T01:43:37.680897+00:00
+Published: 2026-09-25T18:00:00+00:00 | Age: 13.9 hours
+Scanned: 2026-09-26T07:52:40.563141+00:00
 URL: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/
 
 Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .
