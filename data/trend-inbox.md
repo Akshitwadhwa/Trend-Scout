@@ -2,54 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-27T14:07:47.785006+00:00
-Scanned: 2026-09-27T14:07:47.785006+00:00
+Updated: 2026-09-27T18:32:33.084101+00:00
+Scanned: 2026-09-27T18:32:33.084101+00:00
 Memory window: 72 hours
 
-## 1. 'Gaming pays me double what I earned as a teacher'
+## 1. How to maximise your EV's range while spending as little as possible - ABC News & Headlines – Australian Broadcasting Corporation
+Source: ABC News & Headlines – Australian Broadcasting Corporation (discovery)
+Published: 2026-09-27T18:30:00+00:00 | Age: 0.0 hours
+Scanned: 2026-09-27T18:32:33.082060+00:00
+URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNSTJ2OHRxTFRPRWZMUWpvQy1ScEdEWDhXdmFOd1VHaUh3WGsxOFpaNXBmQU90Ml9OWXJBQkdsSWZFRWtfR3VxTnlnTlAxbl9hV3ZCbEZlZzIxd0hqbXI2X2hQbE5EN2cwNjlrRThlMFc0bkdrRVliRGVtUHgxZVBZeUJHS1FRdldiZnM1R1djTDI3VklKTXc3ZzZadEtjd3JwS3pVLV9B?oc=5
+
+How to maximise your EV's range while spending as little as possible ABC News & Headlines – Australian Broadcasting Corporation
+
+## 2. Duke Builder: An experimental level editor for Duke Nukem 3D
 Source: Hacker News (discovery)
-Published: 2026-09-27T14:06:11+00:00 | Age: 0.0 hours
-Scanned: 2026-09-27T14:07:47.783316+00:00
-URL: https://www.bbc.com/news/articles/cwe8eje6zny7o
+Published: 2026-09-27T18:20:20+00:00 | Age: 0.2 hours
+Scanned: 2026-09-27T18:32:33.082060+00:00
+URL: https://github.com/aheck/dukebuilder
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49866775
+Hacker News discussion: https://news.ycombinator.com/item?id=49869330
 
-## 2. Minecraft developer found dead in his home in Paraná, Brazil (portuguese)
+## 3. China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports - CNBC
+Source: CNBC (discovery)
+Published: 2026-09-27T18:16:49+00:00 | Age: 0.3 hours
+Scanned: 2026-09-27T18:32:33.082060+00:00
+URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZEI2VHA5Qk14QVQ4QmdUNFp1LTV5WEQwTFdkRXl0aGxaRktjTDZBMWFGdld6QzJVNFFLYktCMGpqTERWblVoUTlpQzJ1aTZ3dGJPMmZDeFJIUWVYYnBOdEtjbFVoRTJTMTk2MHplVm1hWllwTFkyOVQ3YkJVZ9IBgwFBVV95cUxOSkk1U3N6bkJFck1HLUhwUVdFblh4STlXQ09BQ2ZwLXBwbnVWWVoybko1THZQZVRhWWpsWlBYcVd5MFd1NE1jYktOZTZ3WmdjTURib2U0YzZEUF94ekhPRDR5N2tfcGhadkpvTXVMMzl3bnM0clJyNkVuS0FrV2pKdy13SQ?oc=5
+
+China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports CNBC
+
+## 4. Opus 5.5 remade FL Studio in Rust in about 1 hour
 Source: Hacker News (discovery)
-Published: 2026-09-27T14:04:51+00:00 | Age: 0.0 hours
-Scanned: 2026-09-27T14:07:47.783316+00:00
-URL: https://www.correio24horas.com.br/brasil/desenvolvedor-dos-jogos-minecraft-batman-e-the-walking-dead-e-encontrado-morto-amarrado-0926
+Published: 2026-09-27T18:13:23+00:00 | Age: 0.3 hours
+Scanned: 2026-09-27T18:32:33.082060+00:00
+URL: https://twitter.com/skewbed/status/2104272573613867373
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49866758
+Hacker News discussion: https://news.ycombinator.com/item?id=49869251
 
-## 3. Full-Stack Semiconductor Solutions for Smart, Secure Industry and Digital Energy - EE Times
-Source: EE Times (discovery)
-Published: 2026-09-27T14:01:28+00:00 | Age: 0.1 hours
-Scanned: 2026-09-27T14:07:47.783316+00:00
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxPUGVHT1dLY1hOamtUWGJKd01aeGJFMXJmYTNCSEEtanNCOGJKcEtzeHlXZ2lySEVHSGhtd09MR0swSjB6clB5dXNjU3p0b3dSQUxZRTJZVEU2YTEzQXZOX2JBX3RyTWRUVWJoVHR3VDZzU1NyNU8tQ2cxdUlXakdGWHJvWURnNFFxbDZGZXR5OUowT18zcmlsczF6eW5ZMi0tbXUxVUIyTQ?oc=5
+## 5. Meta’s New VR Glasses Take On Apple Vision Pro With Lighter Design - Spiel Times
+Source: Spiel Times (discovery)
+Published: 2026-09-27T17:13:26+00:00 | Age: 1.3 hours
+Scanned: 2026-09-27T18:32:33.082060+00:00
+URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxOSnZVa053c0R4N2hHQlZWS2FIZmppOVhHWE02MUFsMnJDQUNESERYZkUzVllUZGZ3Znl6SGdPRzRfWjQxcldxQktzY0d5SW5QUFFUaHR0N0s3WnJSQW56TThlMkpHT2VNUzJPR1BjOF9yLUhzY0xMNllMV3BmYVpXc1JGMjhVSlRqRnJpRlp6enBVMVdSeGVsM0ZvUWRVdkk?oc=5
 
-Full-Stack Semiconductor Solutions for Smart, Secure Industry and Digital Energy EE Times
-
-## 4. Meta’s VR Glasses Are Exactly What the Apple Vision Pro Should Have Been - Bloomberg
-Source: Bloomberg (discovery)
-Published: 2026-09-27T14:00:01+00:00 | Age: 0.1 hours
-Scanned: 2026-09-27T14:07:47.783316+00:00
-URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjk0Q2VnTVNKdm1ubXYwSHdGSFlHcDRUN29YWkh5NmU0MjR5cGt1b0xJM21vTWE3aHFBTmhVaThPUXBNTXpiLUY3OFZTYUZPd21KQ2VmZklCU1c4R295cTZVMlpCMkFZblRUUGRDeGd1Q3dTZ2RaU1puQmFWeXJWLXJDSWNma0U1T1NGR1VQZWI1NEEzc3Fsczk3VEtteTMxMDZvV3ppUWd6UU9yZzQza0o3UFFiUmhSb00xbGpUa0NCQ19udmxxOGI2UUtZSDhW?oc=5
-
-Meta’s VR Glasses Are Exactly What the Apple Vision Pro Should Have Been Bloomberg
-
-## 5. AI startup Black Forest Labs urges optimism from Europe despite safety fears - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-09-27T11:11:00+00:00 | Age: 2.9 hours
-Scanned: 2026-09-27T14:07:47.783316+00:00
-URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxNS3l1VVZ3OFdpU1pIc25HYy0xUFpnbjI2QWJxWWZYSWluYVhZRnNiWnBMendqUkZ4LVZuY0Q0VFlqRjM1Q1NSWkZGRjFXWlpUZnJvM0tRQThKTkVaaHI0dWZuN0FyZHF2bFh4QlFQekdHUVkxMlY0LTF1UVRyTkxKaFNRYlV2VGZ6NWU5VDZSZW9LSXhsVnppVVgzQW5Mdzg5Mlh3bGRydDZlTWk1amE2ek95bWxHYVd1djM5Y1N6d09idlBvazd5aW1R0gHKAUFVX3lxTE1LeXVVVnc4V2lTWkhzbkdjLTFQWmduMjZBYnFZZlhJaW5hWFlGc2JacEx6d2pSRngtVm5jRDRUWWpGMzVDU1JaRkZGMVdaWlRmcm8zS1FBOEpORVpocjR1Zm43QXJkcXZsWHhCUVB6R0dRWTEyVjQtMXVRVHJOTEpoU1FiVXZUZno1ZTlUNlJlb0tJeGxWemlVWDNBbkx3ODkyWHdsZHJ0NmVNaTVqYTZ6T3ltbEdhV3V2MzljU3p3T2J2UG9rN3lpbVE?oc=5
-
-AI startup Black Forest Labs urges optimism from Europe despite safety fears The Economic Times
+Meta’s New VR Glasses Take On Apple Vision Pro With Lighter Design Spiel Times
 
 ## 6. PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair
 Source: techcrunch.com (reputable)
-Published: 2026-09-27T01:40:30+00:00 | Age: 12.5 hours
-Scanned: 2026-09-27T14:07:47.783316+00:00
+Published: 2026-09-27T01:40:30+00:00 | Age: 16.9 hours
+Scanned: 2026-09-27T18:32:33.082060+00:00
 URL: https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/
 
 PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.
+
+## 7. GitHub Copilot app for Beginners: How to build custom workflows with canvases
+Source: github.blog (primary)
+Published: 2026-09-25T18:00:00+00:00 | Age: 48.5 hours
+Scanned: 2026-09-27T18:32:33.082060+00:00
+URL: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/
+
+Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .
+
+## 8. Improving site performance by shipping more CSS
+Source: github.blog (primary)
+Published: 2026-09-25T15:00:00+00:00 | Age: 51.5 hours
+Scanned: 2026-09-27T18:32:33.082060+00:00
+URL: https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/
+
+How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .
