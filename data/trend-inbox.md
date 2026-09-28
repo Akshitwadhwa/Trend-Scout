@@ -2,54 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-28T01:47:39.292612+00:00
-Scanned: 2026-09-28T01:47:39.292612+00:00
+Updated: 2026-09-28T08:48:52.682146+00:00
+Scanned: 2026-09-28T08:48:52.682146+00:00
 Memory window: 72 hours
 
-## 1. SpaceX's Starship is about to attempt a 10-hour spaceflight: Watch live. - Mashable
-Source: Mashable (discovery)
-Published: 2026-09-28T01:45:52+00:00 | Age: 0.0 hours
-Scanned: 2026-09-28T01:47:39.289740+00:00
-URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE9MVGdJZlk0cU8xVldtMmxjLVFVRlBkNVlubkY4X2xGU2dSUGhnalYxX243aUJKa05XZl9vTEh6bXRBeFVjdno3WDF5MzdyNktQb1NnQzlzeXE2NHprWHZKVlIzellVR3hObjFlTlBjMHl4aEJZVTBtZkhB?oc=5
-
-SpaceX's Starship is about to attempt a 10-hour spaceflight: Watch live. Mashable
-
-## 2. In preparation for Wow Forever, here is a guided tour of Warcraft
+## 1. The Cybersecurity Siege Economy
 Source: Hacker News (discovery)
-Published: 2026-09-28T01:40:01+00:00 | Age: 0.1 hours
-Scanned: 2026-09-28T01:47:39.289740+00:00
-URL: https://ryeceps.github.io/azeroth-chronicle/
+Published: 2026-09-28T08:45:30+00:00 | Age: 0.1 hours
+Scanned: 2026-09-28T08:48:52.679286+00:00
+URL: https://dntls.substack.com/p/the-cybersecurity-siege-economy-part
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49872581
+Hacker News discussion: https://news.ycombinator.com/item?id=49875231
 
-## 3. ET Startup Awards 2026: Armatrix targets 10-12 pilots, commercial deployment of snake-like robotic arms in - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-09-28T00:30:00+00:00 | Age: 1.3 hours
-Scanned: 2026-09-28T01:47:39.289740+00:00
-URL: https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVHRYRWltVUl1RE1MT0d2Q2stRzRDdTF2QkROQTBkaDFUdlJzX0d1M0V1Qzg0S2J2TkVqeXdMX2RGYmNFQWs4djZnMzB3VVVQSThtTFdGRmlYOURhRFhYOUhnRHFwZGJNS2I5STBHYldrMUV6QWlvZFRkOUJyUXZZYkhQMmFSS3ByQ0x2cWxfMEVTa1BGODJyUGlEVDRYUkJyWEJnOXRYYTdtX1lNYTRpYjQ1MmdPeHB1LUdBLVlrVGhmZlg1azZuaVRLWlA4ZVJONlI3UDBUcW96SmNTY3N5Mlo1SmFXc3BPMy1iRnNUZlF4Xzhjb0FmTTNvQUFCaXRXRk9vdTRLa03SAY4CQVVfeXFMT2xPOUhTWUkzcVVRVEVCWEJpWXZLR01VTGFxRmlqd29GTWxjdy1sbGEyQXNyTkY0RnRnZzllVkkta0hSaFFzaGlRRllDR2dLMURmWjlPOVNnQ0h4R2tyNmdHN2stckRNQ3dGYlVHVzE3WGpYbF8zTWV6VExNeGNqTVlMTnVGSnNaSzJnSmdLZG1EYjRKcThLaDBRSHQxQVZSZTd3T251TDRhMTlKd0t0eF9XUl9aNGdLTDVfMkxfcXdYV0RucWFGd2V4UVRETXRkTTlsOFc5ejN3Qk0wcXVGVmlzYzlPQ09EX2l6Z0pjN2tENHo5ZnVUSENLMHZQVk8zbUw4ZEpzOUU4Y1VuQUxn?oc=5
+## 2. Samsung, SK Telecom, and Hana Financial Group Build Korea’s First Private 5G Smart Office in the Financial Sector
+Source: news.samsung.com (primary)
+Published: 2026-09-28T08:30:00+00:00 | Age: 0.3 hours
+Scanned: 2026-09-28T08:48:52.679286+00:00
+URL: https://news.samsung.com/global/samsung-sk-telecom-and-hana-financial-group-buildkoreas-first-private-5g-smart-office-in-the-financial-sector
 
-ET Startup Awards 2026: Armatrix targets 10-12 pilots, commercial deployment of snake-like robotic arms in The Economic Times
+Samsung Electronics today announced that the company serves as the sole vendor to deliver its private 5G network solutions, powering a smart office at Hana Financial Group’s new headquarters in Incheon, South Korea. As the first of its kind in the Korean financial sector, this new connected office elevates convenience in mobility and provides a […]
 
-## 4. PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair
+## 3. KAYTUS Introduces AI Managed Service for Data Centers - The Manila Times
+Source: The Manila Times (discovery)
+Published: 2026-09-28T08:26:11+00:00 | Age: 0.4 hours
+Scanned: 2026-09-28T08:48:52.679286+00:00
+URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXJpRkpiakZaRXVMT1VYQXhBQTNSclNTQ2o5Nl9VREtiMjNSek41dEswdUs2alJ1T25lYkNob3Qwd0I4NXVHSDdnbVF4d2t6dmYzTG0zLTZBOVltbFd3QmVMdWFGOEtxVW9QaU5KZ3ZIOEtmSmY4M3FseXRCdkVDbVhLbW5VYkxka2QyaU1wX1lzTFg5cnNmRS1IZ2M5eHFhUWZVQWsxVllmcGJhWE9vX3ZjZGlnMXFEM3hxR25YVnZ4bGpPbVHSAcsBQVVfeXFMTXRNanVVQXhlNlZibzFDSGx2eDlkakN4LThNMEFuLVl0aGU0M2s4ODItYnN0V3dUVzZNV1dyUjNkd0NqQnNQa21tVjQyWTIybUI5MGFWTzUta0hvQy1ZMmd0cnJpY0hOZS1IZTk3c0FJb1IwODBWaks4TWxLdnVUWGJrOTBnNG10RV9CRDZwM01QNzBEa2h2M3Z2WTduTGdEQ2ptdGRXR2liWE52T21xdGYxeG1iZmdhT1diSVhWS0Z5MjBja0Y1NV9FYTA?oc=5
+
+KAYTUS Introduces AI Managed Service for Data Centers The Manila Times
+
+## 4. Detecting Compromised AI Coding Agents with Jev and Gryph
+Source: Hacker News (discovery)
+Published: 2026-09-28T08:23:40+00:00 | Age: 0.4 hours
+Scanned: 2026-09-28T08:48:52.679286+00:00
+URL: https://safedep.io/ai-agent-security-jev-gryph/
+
+Hacker News discussion: https://news.ycombinator.com/item?id=49875060
+
+## 5. Apple has a new Vision Pro in the works, but a new headset is unlikely before 2028 - timesofindia.indiatimes.com
+Source: timesofindia.indiatimes.com (discovery)
+Published: 2026-09-28T08:18:00+00:00 | Age: 0.5 hours
+Scanned: 2026-09-28T08:48:52.679286+00:00
+URL: https://news.google.com/rss/articles/CBMi9wFBVV95cUxQck05YXUtWC1Qd1pXemY2bEpYcDljUlFEUW1XWDluemU3ZEVHYWIxT0VVODc5OVBSSFk2RVowbnBDVWlLYjV3MnlLYkpYYjNrQkhLSFZjRXlKbGNQYmJQTEk3eGs3bDJBSkc2WU5kMFA3WVVjX05YdEotME1TcUpEYXRHd1RzQjc2UUdRbkNoVWpSdWUzMW1DLXo2ZHh4ZU5vbS1Cc2t5VmsxRHdJYTdiZ2d4RzBMajYxLUhCdzJJQjAteGtIaGpvS25IR0tzMzlRNWxZaXpGWEplOVF1eE9WQ2ItTFlyMXNqTHlkUjlhRUFkLVQySU5r0gH8AUFVX3lxTE1vT21aTGJ4NjhlX2QxZW9TVGhvWXNjc3NTVFhwSlRnTG0xUDZrS2hQdkllREJWS2VrekZWQ3VhaktYRDdqQXBCRzNKQzJMNTFGRHR0RHlWWDFYUG1HXzhkUFJBYUxRSmd5TWRoZWN2MDVBWjNsM254SV9FSDI4d3lfMWlvNHNrbUszYWJQSWlJVExtckRZTjF6N2ZZR29teHhtS3htaXhNdkVjaHdaUzZFZ1ZPRmV1b1dlbW9OZE5NcjYxc3lnVEk3V1hzNVpWRVJ5VW1qeFFtVjdxYlJ3emt4czBZQmdhSThMRWVYTDhkZXh4dm9sUkhVRmo2ZA?oc=5
+
+Apple has a new Vision Pro in the works, but a new headset is unlikely before 2028 timesofindia.indiatimes.com
+
+## 6. PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair
 Source: techcrunch.com (reputable)
-Published: 2026-09-27T01:40:30+00:00 | Age: 24.1 hours
-Scanned: 2026-09-28T01:47:39.289740+00:00
+Published: 2026-09-27T01:40:30+00:00 | Age: 31.1 hours
+Scanned: 2026-09-28T08:48:52.679286+00:00
 URL: https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/
 
 PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.
 
-## 5. GitHub Copilot app for Beginners: How to build custom workflows with canvases
+## 7. GitHub Copilot app for Beginners: How to build custom workflows with canvases
 Source: github.blog (primary)
-Published: 2026-09-25T18:00:00+00:00 | Age: 55.8 hours
-Scanned: 2026-09-28T01:47:39.289740+00:00
+Published: 2026-09-25T18:00:00+00:00 | Age: 62.8 hours
+Scanned: 2026-09-28T08:48:52.679286+00:00
 URL: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/
 
 Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on The GitHub Blog .
-
-## 6. Improving site performance by shipping more CSS
-Source: github.blog (primary)
-Published: 2026-09-25T15:00:00+00:00 | Age: 58.8 hours
-Scanned: 2026-09-28T01:47:39.289740+00:00
-URL: https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/
-
-How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog .
