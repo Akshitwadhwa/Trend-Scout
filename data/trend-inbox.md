@@ -2,46 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-09-30T08:46:11.825560+00:00
-Scanned: 2026-09-30T08:46:11.825560+00:00
+Updated: 2026-09-30T16:52:50.271283+00:00
+Scanned: 2026-09-30T16:52:50.271283+00:00
 Memory window: 72 hours
 
-## 1. OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network
+## 1. Using Jev as a Search Reranker
 Source: Hacker News (discovery)
-Published: 2026-09-30T08:43:21+00:00 | Age: 0.0 hours
-Scanned: 2026-09-30T08:46:11.822591+00:00
-URL: https://github.com/maanHimself/OpenDLSS-NR
+Published: 2026-09-30T16:48:13+00:00 | Age: 0.1 hours
+Scanned: 2026-09-30T16:52:50.268959+00:00
+URL: https://www.elastic.co/search-labs/blog/ecommerce-search-reranking-llm-alternative-jev
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49906100
+Hacker News discussion: https://news.ycombinator.com/item?id=49911330
 
-## 2. OpenAI Halts New Model Over Safety Worries - WSJ
-Source: WSJ (discovery)
-Published: 2026-09-30T08:26:29+00:00 | Age: 0.3 hours
-Scanned: 2026-09-30T08:46:11.822591+00:00
-URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxPVG44bllmWUpRcFp4MW9pYU1CRENCSGZtR1BFVWdLMm5oU2VpdzlFamdjVE1ORjBxb3FpNWJSRzljUXlQR0dpamdRSGpCdkw0blFERXVQaFJlbUNOektqamUtVXNlTlpQckNMQmprME51b2x2VWZPX1ZBaW5ZVEpVYWV5MA?oc=5
+## 2. GitHub release: huggingface/transformers Release 5.18.0
+Source: github.com (primary)
+Published: 2026-09-30T16:46:27+00:00 | Age: 0.1 hours
+Scanned: 2026-09-30T16:52:50.268959+00:00
+URL: https://github.com/huggingface/transformers/releases/tag/v5.18.0
 
-OpenAI Halts New Model Over Safety Worries WSJ
+## New Model additions ### Nemotron 3 Diarization Nemotron 3 Diarization is an open-weight streaming speaker diarization model designed to determine "who spoke when" in real-world audio. It supports both streaming and offline inference, handles up to eight speakers, and orders speaker outputs by each speaker's first arrival in the input audio. The model uses the Arrival-Order Speaker Cache (AOSC) [1](https://huggingf
 
-## 3. Software Engineering After Code
-Source: Hacker News (discovery)
-Published: 2026-09-30T08:06:59+00:00 | Age: 0.7 hours
-Scanned: 2026-09-30T08:46:11.822591+00:00
-URL: https://pooyam.dev/software-engineering-after-code
-
-Hacker News discussion: https://news.ycombinator.com/item?id=49905886
-
-## 4. Apple Pay lands in India: Check if you’re eligible before you tap to pay | Technology News (HT Tech) - Hindustan Times
-Source: Hindustan Times (discovery)
-Published: 2026-09-30T07:52:40+00:00 | Age: 0.9 hours
-Scanned: 2026-09-30T08:46:11.822591+00:00
-URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxQclNzZ242Zjh1TnNsVTdEZjVaQi1YSm5jbHQ3eGpHREN4U1J4SFl1ZFQ4NzNEbkM3N1NDLUdZSEN4VFlVMnBNdDAwQmRJZ1pxeEUyZy1pbzluaFBLN2RkLTVPRmg4SEpabzRWX3RQcm1aNmRaUzhEcGRBc3FOVllNV0NhVE9YUGlXUjNQdUs4WndrWWRMMFZ3c08zMzNJTmVodjFnUFVIdzhqUVQwQ3BGQkRpTnZfbnVwVzhweWN0Q2lFR2VTdEt4RzFnUFlIM2_SAdQBQVVfeXFMUEtuNnVmeWhBVW5hRl93cDlETVZ0YnRqc3Y3eXhiXy1kSTFsMlNpb1d0MkpLcDlGY2RrZkhiTWNYWWRLZjlNX2JkdnFxZHFUUFV6YS1teERZMUIwc0VpVzhNdlhWX291QU1nM0FzU1hyY0VLOTkxU3RZc1c4VGFaakJvcjF3YjdlOUlTUWtuakRzM3hpd1c5ajRrS2tFUndnck9uamFSWXNMTFJOTWxlTjNOTXBqU2RvRjNadndaNWZ5VEtCWi16Y1k3S3RhWlpiZEtYaU4?oc=5
-
-Apple Pay lands in India: Check if you’re eligible before you tap to pay | Technology News (HT Tech) Hindustan Times
-
-## 5. OpenAI’s latest features take direct aim at the app store model
+## 3. Meta disputes claim that Muse read a user’s private messages without permission
 Source: techcrunch.com (reputable)
-Published: 2026-09-29T20:15:47+00:00 | Age: 12.5 hours
-Scanned: 2026-09-30T08:46:11.822591+00:00
-URL: https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/
+Published: 2026-09-30T16:24:23+00:00 | Age: 0.5 hours
+Scanned: 2026-09-30T16:52:50.268959+00:00
+URL: https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/
 
-OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.
+Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.
+
+## 4. An OpenAI agent hacked the Australian government - Mashable
+Source: Mashable (discovery)
+Published: 2026-09-30T14:45:42+00:00 | Age: 2.1 hours
+Scanned: 2026-09-30T16:52:50.268959+00:00
+URL: https://news.google.com/rss/articles/CBMid0FVX3lxTFB5NFZxY0l5Q1VBM3ppN2FrU0dvLTN1R1dkR3BjcDRlX0hDLUdKYjhtZ3lGcl81R1B0a3loOVF1QUY4NmZ3eDZ2SXFXTGZlSTBXT2dHUTZxc3lmaGhwT2dORmVHR3h4VWFtNHpoTmdsUi1pdFg5LU1R?oc=5
+
+An OpenAI agent hacked the Australian government Mashable
+
+## 5. GitHub release: openai/openai-python v3.22.0
+Source: github.com (primary)
+Published: 2026-09-29T19:06:45+00:00 | Age: 21.8 hours
+Scanned: 2026-09-30T16:52:50.268959+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.22.0
+
+## [3.22.0](https://github.com/openai/openai-python/compare/v3.21.0...v3.22.0) (2026-09-29) ### Features * **api:** add computer use to beta agents ([#3989](https://github.com/openai/openai-python/issues/3989)) ([f5dddb5](https://github.com/openai/openai-python/commit/f5dddb5a199f899d9439ac3187c9c0f2d3e4082e))
