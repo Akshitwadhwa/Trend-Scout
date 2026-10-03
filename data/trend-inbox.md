@@ -2,46 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-03T02:07:30.336526+00:00
-Scanned: 2026-10-03T02:07:30.336526+00:00
+Updated: 2026-10-03T08:20:34.155085+00:00
+Scanned: 2026-10-03T08:20:34.155085+00:00
 Memory window: 72 hours
 
-## 1. Reporter’s notebook: can canal connection give a lift to economic backwater? - South China Morning Post
-Source: South China Morning Post (discovery)
-Published: 2026-10-03T02:00:08+00:00 | Age: 0.1 hours
-Scanned: 2026-10-03T02:07:30.333237+00:00
-URL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWdMZUZwdWExWVI0b3U5bFBRNS1NeEpaSGdTS1AtSmhOSE9QbG9pM3NZWGdoVV9WNmwySWlQS1hPR194UkR0SmxwVXVGdGlkZVRiZVJRb29jbmJxUHJJSkhRSDNzV1p3aHoxczYxY0EzMENzOEtFZGlDTlQyVmdkbTBfeldjcFVnY3N1MDhaU2tMQ19WckxUNEVNbC1IbHBGcVFWWDlBRDdlbFAwVkVvVlVLTUZudUJJcldBbEJPMy1CT3EtRk1Td3FNMHF3eld1Tm0tQ1B5UQ?oc=5
-
-Reporter’s notebook: can canal connection give a lift to economic backwater? South China Morning Post
-
-## 2. Show HN: 80s Choplifter game ported to Vision Pro as an agent eval (WIP)
+## 1. Why should I have to pay more for buses if I don't use a smartphone?
 Source: Hacker News (discovery)
-Published: 2026-10-03T01:36:28+00:00 | Age: 0.5 hours
-Scanned: 2026-10-03T02:07:30.333237+00:00
-URL: https://www.bounds.dev/posts/rescue82-making-a-choplifter-style-game-for-apple-vision-pro/
+Published: 2026-10-03T07:48:11+00:00 | Age: 0.5 hours
+Scanned: 2026-10-03T08:20:34.152625+00:00
+URL: https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49940599
+Hacker News discussion: https://news.ycombinator.com/item?id=49942211
 
-## 3. What even are Cloudflare Durable Objects?
+## 2. Anthropic commits $100M to Claude Frontier Academy to train 10k FDEs by 2028
 Source: Hacker News (discovery)
-Published: 2026-10-03T01:08:13+00:00 | Age: 1.0 hours
-Scanned: 2026-10-03T02:07:30.333237+00:00
-URL: https://boristane.com/blog/what-are-cloudflare-durable-objects/
+Published: 2026-10-03T07:36:37+00:00 | Age: 0.7 hours
+Scanned: 2026-10-03T08:20:34.152625+00:00
+URL: https://www.unite.ai/new-anthropic-academy-backs-10-000-engineer-residencies-with-100m/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49940457
+Hacker News discussion: https://news.ycombinator.com/item?id=49942155
 
-## 4. GitHub release: anthropics/claude-code v2.1.288
-Source: github.com (primary)
-Published: 2026-10-02T20:19:57+00:00 | Age: 5.8 hours
-Scanned: 2026-10-03T02:07:30.333237+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.288
+## 3. Apple puts new limits on how apps, including AI agents, gain full access to your Mac - The Times of India
+Source: The Times of India (discovery)
+Published: 2026-10-03T06:54:00+00:00 | Age: 1.4 hours
+Scanned: 2026-10-03T08:20:34.152625+00:00
+URL: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSV84UnREbXBocFVOZk9hZHpDblV3ek90SzFDbXlMY1lERU9uMm85bC0yZmdsZy0zeDhLZkhnaGY5QUdIVGx0X3Rzek9rbGxsZXhmWVluX3ZPeW45dzZIM3JGUnVrNDN1eHZpbHdDcno1WHp5TUNDckdsZWxySFVDdFBHS1JfcThWZ0hTcnlTOTBLelRaYk8xWGZuT2YwTnVvY3psVW9MbkoyN09PRkl1d3J1MzR4Zy16WkdnNWZxbzk1QTU4VEdIQ1M3U3FOalNFS2Y4ZkdlZUpwUmZkbFNqZmRKNUdxT1FxYm9Dd2xpclY2aDNVVldVb9IB_gFBVV95cUxOX19MY09BWVhDNENGdWNINmVaUXpfS1BIYXNKLWpIaVBtZHZEemtDRUdoWkpkcUg5WVIydzRmNnctc0wtVmlOUjN1LUE1bjFJOTc1S1c5T1R2UXNBMmJybnRidWc3dVhqUTNPdnJRSTd0d0FqUjQwM1JSSy1HaDU5YkhoRFd2QzF4dUVVQmg5T0NNNEtyRnBDZ1JIZC1pamhBZXo3Nm9uazBXazlkMmFLVjBoVDhDN21MQ0JtYmJaMmc2S0tXbUVPajduUDZQb1VFZnJGeERJekU0T25JT2tyZlBsNmt0WkhNbll0c1dfZGFPMFRnd01qWTkwckFOUQ?oc=5
 
-## What's changed - Added `$.ui.selection()` for mods: returns the text you last selected in fullscreen mode and, when the selection lies within one transcript row, that row - Added a built-in `gh api` to cloud sessions whose image has no GitHub CLI, and fixed the built-in sending control characters from file names, jq filters or GitHub errors to the terminal - Added recovery for a prompt cleared with Ctrl+C: pressin
+Apple puts new limits on how apps, including AI agents, gain full access to your Mac The Times of India
 
-## 5. Hearing tech startup Legato launches its AI hearing glasses
+## 4. Hearing tech startup Legato launches its AI hearing glasses
 Source: techcrunch.com (reputable)
-Published: 2026-10-01T13:00:00+00:00 | Age: 37.1 hours
-Scanned: 2026-10-03T02:07:30.333237+00:00
+Published: 2026-10-01T13:00:00+00:00 | Age: 43.3 hours
+Scanned: 2026-10-03T08:20:34.152625+00:00
 URL: https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/
 
 The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.
