@@ -2,62 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-04T11:11:10.516944+00:00
-Scanned: 2026-10-04T11:11:10.516944+00:00
+Updated: 2026-10-04T15:52:36.806632+00:00
+Scanned: 2026-10-04T15:52:36.806632+00:00
 Memory window: 72 hours
 
-## 1. The Carmaker Vying With Tesla to Conquer the Robot Future - WSJ
+## 1. Give Your AI Agent Its Own Identity
+Source: Hacker News (discovery)
+Published: 2026-10-04T15:48:13+00:00 | Age: 0.1 hours
+Scanned: 2026-10-04T15:52:36.804518+00:00
+URL: https://www.agentid.com/blog/give-your-ai-agent-its-own-identity
+
+Hacker News discussion: https://news.ycombinator.com/item?id=49954929
+
+## 2. Can a Computer Produce Art? It'll Never Work (1996) [video]
+Source: Hacker News (discovery)
+Published: 2026-10-04T15:46:58+00:00 | Age: 0.1 hours
+Scanned: 2026-10-04T15:52:36.804518+00:00
+URL: https://www.youtube.com/watch?v=E7yeVBXXW9I
+
+Hacker News discussion: https://news.ycombinator.com/item?id=49954917
+
+## 3. Startup TypeSafe AI’s Jev Model Sparks Copycats, Talk of LLM Alternatives - WSJ
 Source: WSJ (discovery)
-Published: 2026-10-04T11:01:38+00:00 | Age: 0.2 hours
-Scanned: 2026-10-04T11:11:10.515150+00:00
-URL: https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXN0bFdQVkxUVUk5WFZSWElVbmtYUkdnSnZvdTY2NHJnRjZyOW9vdG12dlM3QjgyZG9IckJTcC1wMHF5anV5d3BsUm5McFNSaU9oaXo4elVZYmFCSnRkTEotekZkWUM2RUUtc29iNE1DUFQ3dEhzLTE5bllhczAwRjdkSlFJS1B2aU9RZ3hycTRxRjRXblJfMFZySnFQOHZyanVn?oc=5
+Published: 2026-10-04T15:32:39+00:00 | Age: 0.3 hours
+Scanned: 2026-10-04T15:52:36.804518+00:00
+URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxONHo4Zjh1Y29GaURuOFM0bXJ1OVVzUkFEQi1ZaDA3ems1R0s2YnFXdnhhLWdhNU5aeDYwYzluNmpveVBXbFFQWmVBajQ0UUtXRzhJVUNJYXBiU0lkSVlxWUVBQ01oUHpvMk9wVzB6dldqWkRZeTR3N1dqWjc1Wjc0YlItWm9UZDVOVnh6MjNrQ2NJSF81M3NrTGQzbWxPZnBiVVZjSFJvXzZlbkIt?oc=5
 
-The Carmaker Vying With Tesla to Conquer the Robot Future WSJ
+Startup TypeSafe AI’s Jev Model Sparks Copycats, Talk of LLM Alternatives WSJ
 
-## 2. Apple co-founder says he co-founded tech giant after HP rejected his computer idea 5 times - Moneycontrol.com
-Source: Moneycontrol.com (discovery)
-Published: 2026-10-04T10:36:54+00:00 | Age: 0.6 hours
-Scanned: 2026-10-04T11:11:10.515150+00:00
-URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMzMzLVYxZ1lnRUtNZ0xNT3lyUEVSN3VISGotWUkyMm56MWJYRFlPQkVXdWZHUThOcm1hWFQ2T0ZCQnVxTm1xQndkalVkZ0tROEJzQlVCdkZHMnp1eEdBZHlZWTdQZ1R5Szk1U3NXWWI4RnNlSjJYVlFWc1N1MmpCQ1JvcGpLMXN6RTJ6MVJ5LVVyeXFsb2VrcktfTW1FY2laWktWSFpYWU03bXJzcWNJTFhaLVk4NVRMcC10THpzeGtySGpxUUFkSGYtS1NuX05OZi02MG9mMWpVOVZQd0HSAeMBQVVfeXFMUFlUMDZxWEtKRlZpdTVaa3JfM3hwTDljMmUweHkwQU1HN0JyZGpBZmRaRklNRnZpUWxwRVdfUGxodEo1R1lwY19zNUZBZHl6SFpOYWhRT3l5bC05VzAzRXY0MUx5dUF4TlNfeGhzUlZFTUVHaGJ0SlFWeHlYS3Nmem4xVmY5MTU3MFIxVDE2U3VtSkN4ZmZVQUI5UzM5cWxFSHN0aE1zZGl4UExlWFVYOTYtZkt2VmdEaXNwSFVLbWtkTC1EQVF1ZmVXNmdLU2NidmFhbVlqNTdpalVaSV95MDFYUk0?oc=5
+## 4. India tests 5.56-km quantum link, ISRO eyes secure communication from space - India Today
+Source: India Today (discovery)
+Published: 2026-10-04T15:12:40+00:00 | Age: 0.7 hours
+Scanned: 2026-10-04T15:52:36.804518+00:00
+URL: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVWdhRVZBcWQxZ2JNVmdhLXU5Y3VOamIyekNnSjhTWTJpeldXUjhkTDhCbWNvNXhwbUxGeVFQcXBGZmZKZDFoMVJ5eFEzSXN5U1lObkxQYlRyNDNMelotNVBZd084dnRLY0xWUUJSTGFRZ1J6Tm9SVTJLakFjVVB0V3RsaVNNYV9NMXBGaHF3ellRNl85VGV4aGh1cTBOdlcxSWM3SXUwWmRZYUMxQmxibXBmWXVqdVRkSVpJTFNEM1JHSFNVM21zNlp6bXNUYkZjd2dKWnUyeXdlNExVZ0RaNtIB4AFBVV95cUxOVWdhRVZBcWQxZ2JNVmdhLXU5Y3VOamIyekNnSjhTWTJpeldXUjhkTDhCbWNvNXhwbUxGeVFQcXBGZmZKZDFoMVJ5eFEzSXN5U1lObkxQYlRyNDNMelotNVBZd084dnRLY0xWUUJSTGFRZ1J6Tm9SVTJLakFjVVB0V3RsaVNNYV9NMXBGaHF3ellRNl85VGV4aGh1cTBOdlcxSWM3SXUwWmRZYUMxQmxibXBmWXVqdVRkSVpJTFNEM1JHSFNVM21zNlp6bXNUYkZjd2dKWnUyeXdlNExVZ0RaNg?oc=5
 
-Apple co-founder says he co-founded tech giant after HP rejected his computer idea 5 times Moneycontrol.com
+India tests 5.56-km quantum link, ISRO eyes secure communication from space India Today
 
-## 3. Garmin Autoland Demonstration [video]
-Source: Hacker News (discovery)
-Published: 2026-10-04T10:08:53+00:00 | Age: 1.0 hours
-Scanned: 2026-10-04T11:11:10.515150+00:00
-URL: https://www.youtube.com/watch?v=ZEe9SKfQrU4
+## 5. Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids - Tom's Hardware
+Source: Tom's Hardware (discovery)
+Published: 2026-10-04T14:36:25+00:00 | Age: 1.3 hours
+Scanned: 2026-10-04T15:52:36.804518+00:00
+URL: https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzR6OVd2V0ZxdEx3SGNKc2pMdFdmcmVsSWNwcnRUR3FYdmtFMmdiQnlETVV0OEhVVjhwMUtrOW5FUDh3Q09wZnNsbTJYQm13RVNYMTlKS29NMExDZE0tMGhwWTRkU3JJMHNrcXFIX05aUDZ5ekZpYUJkbnlTbzZZQjFfTEFUUzdlZnA1MXdOTm1FQXlJdHM4RmRDRk1DYzh5bUZydGVSYlh4ZHU1dDF6Z3llelNGWkdoVkJVOG4zaktzV3RmU010dldCQUlsT2l6Q1A2WjRlZWpCLVYwMXExbTQyaHBJcnB5SW9PLWlBb1VFeVRlZmhaVE5BeHprUXhqQTlYUHlNUDRRWkpoNmw2WVVKakFsQ0JxYzBCdklIbnhlNnlSaVh2UE9mdk9ycm00bllJcV9yMDhwX3ZGMWdOSjV4WVZ5RGpKZi05Z1lxX3Nxc2p1d0tDcw?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49952425
-
-## 4. Empinet.dev – Free dev tools that process your data in the browser
-Source: Hacker News (discovery)
-Published: 2026-10-04T09:52:44+00:00 | Age: 1.3 hours
-Scanned: 2026-10-04T11:11:10.515150+00:00
-URL: https://empinet.dev/
-
-Hacker News discussion: https://news.ycombinator.com/item?id=49952303
-
-## 5. Meta introduces Muse Code beta with multi-agent AI for software development - The Indian Express
-Source: The Indian Express (discovery)
-Published: 2026-10-04T03:25:00+00:00 | Age: 7.8 hours
-Scanned: 2026-10-04T11:11:10.515150+00:00
-URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOEtaeWFKUC1mQ2gzNHY4R1VaMmRabUdWcUZFMG9uMHBMTUNhWDBGbjdZQ2RoMTJyU0pEdTgwS2RSYU5QMFpLTWpQSW9MYUFJNDl4OGt3aUVSc1A5dkVPMjJDVWRPWGpoTEcxSlhyOGdhbUpsQ1dOUmh5QnBHN2c0dloxazFVeDB0NmxkbkQxY1EtV0V2dDltRzBBMjU0VTRMdzYzaHUxd1oyMEV1TXhLNUdPMEFCUUpMTXhjaFVSWHnSAccBQVVfeXFMTlJHMWhQNldxZy0yVl9VZFdiOEVPWThuZVE4VWxJY3dDMkRXbnRmOGdSM0t5MVVPV3FtLXJHXzgwMEhfQUw5cUlSNnVSTVRlNVFVenlOUW02WENrcVUxLXdUYWFmR054WUgtLWpRUmlyN2l6VG1PSmdzejVuX0k3ck4ta0s5cDZRYkg4TmNlemNpblRyRmo0aFlZOFV1cVc2RzFuVDJHY3NJUVN2Zk03OWdyMWpiSDd1eUs0SVRuMXFtWWo5X21LNA?oc=5
-
-Meta introduces Muse Code beta with multi-agent AI for software development The Indian Express
+Robotics startup has real human vs. robot cage match, California responds with cease-and-desist order — regulator threatens misdemeanor charges after YouTuber fights three robotic humanoids Tom's Hardware
 
 ## 6. GitHub release: anthropics/claude-code v2.1.289
 Source: github.com (primary)
-Published: 2026-10-03T23:07:17+00:00 | Age: 12.1 hours
-Scanned: 2026-10-04T11:11:10.515150+00:00
+Published: 2026-10-03T23:07:17+00:00 | Age: 16.8 hours
+Scanned: 2026-10-04T15:52:36.804518+00:00
 URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.289
 
 ## What's changed - Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod's approval on managed machines - Fixed the terminal freezing on short code blocks with many unclosed ` ` tags or deeply nested `${` substitutions - Fixed `Read` deny rules not applying to files @-mentioned, changed, or selected in the IDE through a symlink - [VSCode] Reverted a 2.1.288 chang
 
-## 7. Hearing tech startup Legato launches its AI hearing glasses
-Source: techcrunch.com (reputable)
-Published: 2026-10-01T13:00:00+00:00 | Age: 70.2 hours
-Scanned: 2026-10-04T11:11:10.515150+00:00
-URL: https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/
+## 7. GitHub release: googleapis/python-genai v2.28.0
+Source: github.com (primary)
+Published: 2026-10-02T17:30:42+00:00 | Age: 46.4 hours
+Scanned: 2026-10-04T15:52:36.804518+00:00
+URL: https://github.com/googleapis/python-genai/releases/tag/v2.28.0
 
-The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.
+## [2.28.0](https://github.com/googleapis/python-genai/compare/v2.27.0...v2.28.0) (2026-10-02) ### Features * Add `lyria-3.5`, `gemini-omni-1.1-flash`, and `gemini-omni-flash-preview` to Interactions `Model` enum ([1e8c0cc](https://github.com/googleapis/python-genai/commit/1e8c0cc7e3894d280194a94fc4b871650ca8446b)) * Support continuation_token in Interactions ([d40ca70](https://github.com/googleapis/python-genai/comm
