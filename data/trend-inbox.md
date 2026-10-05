@@ -2,54 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-05T09:16:20.206224+00:00
-Scanned: 2026-10-05T09:16:20.206224+00:00
+Updated: 2026-10-05T19:45:13.451987+00:00
+Scanned: 2026-10-05T19:45:13.451987+00:00
 Memory window: 72 hours
 
-## 1. Google is limiting Gemini models’ access for free and AI Plus users starting October 9: What is changing - The Times of India
-Source: The Times of India (discovery)
-Published: 2026-10-05T09:08:00+00:00 | Age: 0.1 hours
-Scanned: 2026-10-05T09:16:20.203257+00:00
-URL: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWEJxdVNJTXVjbXE5V1Z0SFZhWGdscG5hVUtGalF4enZDNEdqX29Ha1FGOU10YVdLS0ppSjA1eG5MeWRUaEJLTlg3cW9NYlJMcmV3MjdLdVlZLVFpX1hLbkpjOHFCSDQ3eXBoYnZlZmpJMkdEMmd0dWsxaW1meHRsQUt0Snl5dkZvT05oczJBNHY2LTdHMWxZcC0teFd6UFhPY0tHbEphcHpVVEdzX0FQcmVfVnVzZkl2NzNGaWFIbS16Wld6dFZfY2FuRnVnYWtFaWEyTmVVbmdmQ1dfOFhnWFdUNzZRZmpJcW9EZlcydFFRYkpnRUxFMUZzdUbSAYICQVVfeXFMTmF1dWdfVFA2azFSSlFCaFpMel9IRHpGQmZrNEFzQml0ckpObUg3d1dnSDY1dUk0WUlrQ1hZZDMyQkxCM1dUNmNhY3dadXl6UkxIdUZyV3R3Mk9HWW5BTjlSbmdnbXVpeEtiWUFRZjNOOTZ6UGdzal84ODRHYnIwaUdEYjJBUTlLdzJ1cTY0VXp6RmxiNjFXajh6eEhCVlRveWRib2szYW96c0tCbUNrVjRLV1FZWnpCSFREYVkxa1JsRXpQS3FYWHZhMmV5YnVjeWF5Tk5YWW5UbXRiOWVvVTZ4TlNsbTNCN2MtVVA3ZUpURjBxM2k1dVNBVzlCSWpxYjl3?oc=5
-
-Google is limiting Gemini models’ access for free and AI Plus users starting October 9: What is changing The Times of India
-
-## 2. Aegis – Next-Gen Selfhosted Web Application Firewall (WAF) & Edge Reverse Proxy
+## 1. The Physicist Revolutionizing Physics with AI [video]
 Source: Hacker News (discovery)
-Published: 2026-10-05T08:50:08+00:00 | Age: 0.4 hours
-Scanned: 2026-10-05T09:16:20.203257+00:00
-URL: https://github.com/divinelabio/Aegis
+Published: 2026-10-05T19:40:46+00:00 | Age: 0.1 hours
+Scanned: 2026-10-05T19:45:13.449810+00:00
+URL: https://www.youtube.com/watch?v=oQypVVv1u1o
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49962280
+Hacker News discussion: https://news.ycombinator.com/item?id=49969569
 
-## 3. Apple Deals To Watch: iPhone, iPad, MacBook Offers On Flipkart BBD And Amazon GIF Sale - Times Now
-Source: Times Now (discovery)
-Published: 2026-10-05T08:45:24+00:00 | Age: 0.5 hours
-Scanned: 2026-10-05T09:16:20.203257+00:00
-URL: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOW0yMVpVem11MXV6bE5oWk8zR1E0eWFncUhLaGdNc2dZUkZCVnJlc0ZoS01RekVMYU04Tl95cHllRGx4TU1NUkdocXI2ZFdfeFhxNlZod2tuZ1R0YWpMT2JWM0xRU2xLNHdiLVVQYVZIVDV6QjBMa0xIdk83YTUwTVNJRTNMbjVNNTduSFdYMU5YRU1EcVZCUnBNc3pKcDNUMlJfdURDVFV5bFFSSDF0RnB3SmdNM0x5cjVOMTk2ZnM5TFJvMkN1WGdxOVFaZ0JrUVpoX2VUQ0JEV1lJSnd4cGEyWdIB6AFBVV95cUxOOVNwcXNGa19yVUNrVlBuSUZYWHVqOHNWOWliZFJsVHBFbHN1NDJRV05vamJzOHpnWGZlaUViYkJmSmpNRmM3QzVoUnFQYzBsNi05Q09ITUJwZUNyN1plMVJLbnVrRGdIVnd6cHNIZGdKTThObXFTQU10SnljRzNZb2VtM2FQTWdJeWNXSzR5c0RZVDI5YlF3YXRoTktNQWtEbDFEU01uVUxOQlBKbDZCYjkwYVNIdGo3cHhEUkxuaTdRVU42NnNMTFBOaVlrNTJRWF9TREFRZnIyRG5ESnhQb1ZEUlpkVE5L?oc=5
+## 2. Dan Ives on Nvidia: It's the one chip in the world fueling the AI revolution - CNBC
+Source: CNBC (discovery)
+Published: 2026-10-05T19:36:20+00:00 | Age: 0.1 hours
+Scanned: 2026-10-05T19:45:13.449810+00:00
+URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUR1aHBuLXB5VzBZU0E3S19hamZfZHF0am1SRkVVNDZVYU5jdDVVT1RBUWlZODNnT0l1X0QyZlVZXy1XTzZIVTg0YnJwYll6Q1Jhc2lKM0FDYmhRR2M3aFprU09rSTExXzd1Sk02OFRmVWFHTWR2bUVOT0VocnJGZUM2MlBPNWlOd0loS1ltc2lyV1pvT3BPTU5lVWVudnhNcE1tZTgxX0k5TUZFYTQ4SDZpZ3BFS3BZ?oc=5
 
-Apple Deals To Watch: iPhone, iPad, MacBook Offers On Flipkart BBD And Amazon GIF Sale Times Now
+Dan Ives on Nvidia: It's the one chip in the world fueling the AI revolution CNBC
 
-## 4. Early Prime Day deal: Save $60 on Apple's 11-inch M5 iPad Pro - Mashable
-Source: Mashable (discovery)
-Published: 2026-10-05T08:35:15+00:00 | Age: 0.7 hours
-Scanned: 2026-10-05T09:16:20.203257+00:00
-URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxNVTlyVWczT0xnRTRVNUhnc1V6dDBnVXVEbTZWTkUyNXlVOTYwNUN1WFdTVXV2YmVWdnNKSktjcVIxaC1fS1VOaUdGVFlqNlBRbTZ2TjBYd0NTd3RDbWVFZHQ3OE5GcENQcUFhaTZ0N3JOd2h1VUY2WV9RdjZtdEhlRg?oc=5
+## 3. Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
+Source: techcrunch.com (reputable)
+Published: 2026-10-05T19:33:53+00:00 | Age: 0.2 hours
+Scanned: 2026-10-05T19:45:13.449810+00:00
+URL: https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/
 
-Early Prime Day deal: Save $60 on Apple's 11-inch M5 iPad Pro Mashable
+Nvidia-backed Reflection AI unveils Beam, its first open-weight model, which it says rivals GLM-5.2 on reasoning with far less inference compute. Weights are due this month.
 
-## 5. GitHub release: anthropics/claude-code v2.1.289
+## 4. Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost - TechCrunch
+Source: TechCrunch (discovery)
+Published: 2026-10-05T19:33:53+00:00 | Age: 0.2 hours
+Scanned: 2026-10-05T19:45:13.449810+00:00
+URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDZGMTF6bG9MakF5andodEYydVRONTZqckdURmpncmI1YzBzVmNBcXdoSDRrM3JmQ1dMWWlKbXZhV3lUcEtxSkRLdFNTYm4wNV9FeWdUUThQVGFpbUpiN05Bdms2cVh2NEI1N05FaWk5SkxNUEFvM0I1MVBmc3hFalJhcHJaMHpPejgxSS1fWTVQc3dRMTBWSlFjN3czNmJrLXlfTDYtbDJrN1A4UkQ3XzlNaXhDMWU3UE5nNVZ1dHRKUFlL?oc=5
+
+Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost TechCrunch
+
+## 5. OpenSSH Ships on Every Mac, Linux Server and Windows. Its Creator Trusts No One
+Source: Hacker News (discovery)
+Published: 2026-10-05T19:25:20+00:00 | Age: 0.3 hours
+Scanned: 2026-10-05T19:45:13.449810+00:00
+URL: https://zbruceli.org/blog/the-man-who-trusts-no-one/
+
+Hacker News discussion: https://news.ycombinator.com/item?id=49969294
+
+## 6. ReviewBench: An open benchmark for AI code review
+Source: github.blog (primary)
+Published: 2026-10-05T15:59:40+00:00 | Age: 3.8 hours
+Scanned: 2026-10-05T19:45:13.449810+00:00
+URL: https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/
+
+We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .
+
+## 7. GitHub release: anthropics/claude-code v2.1.289
 Source: github.com (primary)
-Published: 2026-10-03T23:07:17+00:00 | Age: 34.2 hours
-Scanned: 2026-10-05T09:16:20.203257+00:00
+Published: 2026-10-03T23:07:17+00:00 | Age: 44.6 hours
+Scanned: 2026-10-05T19:45:13.449810+00:00
 URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.289
 
 ## What's changed - Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod's approval on managed machines - Fixed the terminal freezing on short code blocks with many unclosed ` ` tags or deeply nested `${` substitutions - Fixed `Read` deny rules not applying to files @-mentioned, changed, or selected in the IDE through a symlink - [VSCode] Reverted a 2.1.288 chang
-
-## 6. GitHub release: googleapis/python-genai v2.28.0
-Source: github.com (primary)
-Published: 2026-10-02T17:30:42+00:00 | Age: 63.8 hours
-Scanned: 2026-10-05T09:16:20.203257+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v2.28.0
-
-## [2.28.0](https://github.com/googleapis/python-genai/compare/v2.27.0...v2.28.0) (2026-10-02) ### Features * Add `lyria-3.5`, `gemini-omni-1.1-flash`, and `gemini-omni-flash-preview` to Interactions `Model` enum ([1e8c0cc](https://github.com/googleapis/python-genai/commit/1e8c0cc7e3894d280194a94fc4b871650ca8446b)) * Support continuation_token in Interactions ([d40ca70](https://github.com/googleapis/python-genai/comm
