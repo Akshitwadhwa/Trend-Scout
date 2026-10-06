@@ -2,62 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-05T19:45:13.451987+00:00
-Scanned: 2026-10-05T19:45:13.451987+00:00
+Updated: 2026-10-06T01:20:53.686765+00:00
+Scanned: 2026-10-06T01:20:53.686765+00:00
 Memory window: 72 hours
 
-## 1. The Physicist Revolutionizing Physics with AI [video]
+## 1. Broadcasting conglomerates are attempting a takeover of over-the-air television
 Source: Hacker News (discovery)
-Published: 2026-10-05T19:40:46+00:00 | Age: 0.1 hours
-Scanned: 2026-10-05T19:45:13.449810+00:00
-URL: https://www.youtube.com/watch?v=oQypVVv1u1o
+Published: 2026-10-06T01:07:28+00:00 | Age: 0.2 hours
+Scanned: 2026-10-06T01:20:53.684850+00:00
+URL: https://place.reeseric.ci/writings/2026-10-04/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49969569
+Hacker News discussion: https://news.ycombinator.com/item?id=49972910
 
-## 2. Dan Ives on Nvidia: It's the one chip in the world fueling the AI revolution - CNBC
-Source: CNBC (discovery)
-Published: 2026-10-05T19:36:20+00:00 | Age: 0.1 hours
-Scanned: 2026-10-05T19:45:13.449810+00:00
-URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaUR1aHBuLXB5VzBZU0E3S19hamZfZHF0am1SRkVVNDZVYU5jdDVVT1RBUWlZODNnT0l1X0QyZlVZXy1XTzZIVTg0YnJwYll6Q1Jhc2lKM0FDYmhRR2M3aFprU09rSTExXzd1Sk02OFRmVWFHTWR2bUVOT0VocnJGZUM2MlBPNWlOd0loS1ltc2lyV1pvT3BPTU5lVWVudnhNcE1tZTgxX0k5TUZFYTQ4SDZpZ3BFS3BZ?oc=5
-
-Dan Ives on Nvidia: It's the one chip in the world fueling the AI revolution CNBC
-
-## 3. Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
-Source: techcrunch.com (reputable)
-Published: 2026-10-05T19:33:53+00:00 | Age: 0.2 hours
-Scanned: 2026-10-05T19:45:13.449810+00:00
-URL: https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/
-
-Nvidia-backed Reflection AI unveils Beam, its first open-weight model, which it says rivals GLM-5.2 on reasoning with far less inference compute. Weights are due this month.
-
-## 4. Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost - TechCrunch
-Source: TechCrunch (discovery)
-Published: 2026-10-05T19:33:53+00:00 | Age: 0.2 hours
-Scanned: 2026-10-05T19:45:13.449810+00:00
-URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDZGMTF6bG9MakF5andodEYydVRONTZqckdURmpncmI1YzBzVmNBcXdoSDRrM3JmQ1dMWWlKbXZhV3lUcEtxSkRLdFNTYm4wNV9FeWdUUThQVGFpbUpiN05Bdms2cVh2NEI1N05FaWk5SkxNUEFvM0I1MVBmc3hFalJhcHJaMHpPejgxSS1fWTVQc3dRMTBWSlFjN3czNmJrLXlfTDYtbDJrN1A4UkQ3XzlNaXhDMWU3UE5nNVZ1dHRKUFlL?oc=5
-
-Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost TechCrunch
-
-## 5. OpenSSH Ships on Every Mac, Linux Server and Windows. Its Creator Trusts No One
+## 2. The End of Software Secrecy
 Source: Hacker News (discovery)
-Published: 2026-10-05T19:25:20+00:00 | Age: 0.3 hours
-Scanned: 2026-10-05T19:45:13.449810+00:00
-URL: https://zbruceli.org/blog/the-man-who-trusts-no-one/
+Published: 2026-10-06T01:02:37+00:00 | Age: 0.3 hours
+Scanned: 2026-10-06T01:20:53.684850+00:00
+URL: https://twitter.com/esrtweet/status/2106983467141509385
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49969294
+Hacker News discussion: https://news.ycombinator.com/item?id=49972880
 
-## 6. ReviewBench: An open benchmark for AI code review
-Source: github.blog (primary)
-Published: 2026-10-05T15:59:40+00:00 | Age: 3.8 hours
-Scanned: 2026-10-05T19:45:13.449810+00:00
-URL: https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/
+## 3. MongoDB Launches Atlas Agent Engine to Put AI Agents in Production Without a New Stack - SD Times
+Source: SD Times (discovery)
+Published: 2026-10-05T23:34:11+00:00 | Age: 1.8 hours
+Scanned: 2026-10-06T01:20:53.684850+00:00
+URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGxJTWphUEljSkQzV1l4THI2MkhqNkxUNUR0ci1UaHRRS3ZpYlZwZUdISnFXS0wyMXBNOEhnckFESF9TNjZ6QUtjT3Q0Z0J5T3NseklsTU5NWXZ4cVRTUF9zQTY4Q1BvYXNXMG55bjF5QzQ3SVl6b2NEMFRLUzc5R3ZtdzctNWhraHZmVmVzeFBfenUwT2F1RDZaYXdpZHVBT1ZTT29OZzRRbWMwVUVuVmtudGRjZXJE?oc=5
 
-We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog .
+MongoDB Launches Atlas Agent Engine to Put AI Agents in Production Without a New Stack SD Times
 
-## 7. GitHub release: anthropics/claude-code v2.1.289
+## 4. GitHub release: anthropics/claude-code v2.1.290
 Source: github.com (primary)
-Published: 2026-10-03T23:07:17+00:00 | Age: 44.6 hours
-Scanned: 2026-10-05T19:45:13.449810+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.289
+Published: 2026-10-05T23:33:17+00:00 | Age: 1.8 hours
+Scanned: 2026-10-06T01:20:53.684850+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.290
 
-## What's changed - Fixed a deny or ask rule on a nested part of a compound shell command not holding over a user-installed mod's approval on managed machines - Fixed the terminal freezing on short code blocks with many unclosed ` ` tags or deeply nested `${` substitutions - Fixed `Read` deny rules not applying to files @-mentioned, changed, or selected in the IDE through a symlink - [VSCode] Reverted a 2.1.288 chang
+## What's changed - Added `serverToolUses` to the result of a mod's `turn.step` hook: the tool calls the API ran itself (the advisor), each with its id, name, input, start and end - Added `agentId` to the `tool.check` event of plugin hooks, so a hook can tell a subagent's permission check from the main session's - Added `ceiling` to the question and verdict a mod's `tool.check` hook reads, naming the approval an orga
+
+## 5. Startup TypeSafe AI’s Jev Model Sparks Copycats, Talk of LLM Alternatives - WSJ
+Source: WSJ (discovery)
+Published: 2026-10-05T23:02:48+00:00 | Age: 2.3 hours
+Scanned: 2026-10-06T01:20:53.684850+00:00
+URL: https://news.google.com/rss/articles/CBMirAFBVV95cUxONHo4Zjh1Y29GaURuOFM0bXJ1OVVzUkFEQi1ZaDA3ems1R0s2YnFXdnhhLWdhNU5aeDYwYzluNmpveVBXbFFQWmVBajQ0UUtXRzhJVUNJYXBiU0lkSVlxWUVBQ01oUHpvMk9wVzB6dldqWkRZeTR3N1dqWjc1Wjc0YlItWm9UZDVOVnh6MjNrQ2NJSF81M3NrTGQzbWxPZnBiVVZjSFJvXzZlbkIt?oc=5
+
+Startup TypeSafe AI’s Jev Model Sparks Copycats, Talk of LLM Alternatives WSJ
