@@ -2,62 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-06T09:08:17.304778+00:00
-Scanned: 2026-10-06T09:08:17.304778+00:00
+Updated: 2026-10-06T17:18:42.546183+00:00
+Scanned: 2026-10-06T17:18:42.546183+00:00
 Memory window: 72 hours
 
-## 1. This CEO wants to challenge Tesla's charging dominance. He's teaching dealerships how to make the EV pitch. - Business Insider
-Source: Business Insider (discovery)
-Published: 2026-10-06T09:04:02+00:00 | Age: 0.1 hours
-Scanned: 2026-10-06T09:08:17.303034+00:00
-URL: https://news.google.com/rss/articles/CBMigAFBVV95cUxQVkVSUTR1alhqeTJuMW51NHFjU1ZXeFlCZ25XTUFNVTJMa2puXy1aMXFmR19raWdvYmdSRXNmWkl6eUZhNGpkZEM4UnY3M25FdkRaZ0JvbVdZeFFla0E3QkdBYXNPMFJEdGRRc3lQRnpIalFxMXBTR0gwZVBrVmNHRA?oc=5
-
-This CEO wants to challenge Tesla's charging dominance. He's teaching dealerships how to make the EV pitch. Business Insider
-
-## 2. GitHub Slams the Brakes on Private Vulnerability Reports
+## 1. Machine Learning and the Destabilization of Buddhist Psychology (2020) [video]
 Source: Hacker News (discovery)
-Published: 2026-10-06T08:57:25+00:00 | Age: 0.2 hours
-Scanned: 2026-10-06T09:08:17.303034+00:00
-URL: https://devops.com/github-slams-the-brakes-on-private-vulnerability-reports/
+Published: 2026-10-06T17:12:37+00:00 | Age: 0.1 hours
+Scanned: 2026-10-06T17:18:42.543193+00:00
+URL: https://www.youtube.com/watch?v=8veY3A3DgIQ
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49975981
+Hacker News discussion: https://news.ycombinator.com/item?id=49981337
 
-## 3. Copilot.travel – Plan the drive. We'll do the sums
+## 2. AI doesn't need 'superintelligence' or evil intent to start a nuclear war
 Source: Hacker News (discovery)
-Published: 2026-10-06T08:50:47+00:00 | Age: 0.3 hours
-Scanned: 2026-10-06T09:08:17.303034+00:00
-URL: https://copilot.travel
+Published: 2026-10-06T17:05:53+00:00 | Age: 0.2 hours
+Scanned: 2026-10-06T17:18:42.543193+00:00
+URL: https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49975939
+Hacker News discussion: https://news.ycombinator.com/item?id=49981250
 
-## 4. Mistral CEO says new AI model beats Chinese ones in some areas - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-10-06T08:29:37+00:00 | Age: 0.6 hours
-Scanned: 2026-10-06T09:08:17.303034+00:00
-URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMDE0NnZtcENoaE1PYnVoU2tKQXR3elJobW9PbTJPa25sZENXSFpTbzB3VkxxRmRJLS0tSE9sNW5SUmZmYXdKT2ZGbFhtc21raGhEdllseVk1QXFXQUhRQ194dlFxQ25wb3Z4QXdrd2g3Zy1Yb1FGRy0tVHRCcXJRVEtwY2Z0VEdnRlNTQV95WHpkYzF1aldON0VCZW5iZEFzNWZja3d6c0NMT3dkR3lKTV9JSWJnMXBweVVDYU9VNW5RM1gzYU9GN3RrV09oR01vLWZYRDV3Q2VvZDYtUmfSAeMBQVVfeXFMT2ZCbk44QTRRS3V1ang5VG1KUmlJSk5TaHBRX19mWHR4ajU3WXV0ejYzWk5SeHJDTFg0WWVzNW5HVkNVQW5zLXNrUGxFLTBlbFQ4NjFrdFlOUlBxWmtpc3RVSFp6X1FvVFROaVhmNEVyR2FjR0dkZ3plbHJXSDNBS2VfUl9ZdWg4RGNKZXBZSjFsSm9menNfSU9OX2JCdTdpM3AyRFk0eVlCZG9kZDB1bXBPQUJuUTR5bDNRN0NmN1pWWHQ4Q3ZYTzFZWlJOZ1V6OEN2Y1RVem0tUmVxWDFuWkpWVzQ?oc=5
+## 3. Reflection unveils new AI model: Here's what you need to know - CNBC
+Source: CNBC (discovery)
+Published: 2026-10-06T16:57:11+00:00 | Age: 0.4 hours
+Scanned: 2026-10-06T17:18:42.543193+00:00
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxNRE5rQmdKZUJuYWdYM19hYXExZ20xcWNybHdzN1FGWF9ZaFlwQjlLOUx0eWhrSUVrdUlXMm5ESHZPY0dCZ2N1NGRHcVBZMzB3bjJWVENNcDR4Y1JybmwtZ1psdU1TV0xhbU9xSWxhVDZsVERZNDhMaDdfOE8xWWlzU1JVb1ZrQTNOZWVFcEJFa3p0T3NyaVcxbGQ4aFl5S1hSWXI4UA?oc=5
 
-Mistral CEO says new AI model beats Chinese ones in some areas The Economic Times
+Reflection unveils new AI model: Here's what you need to know CNBC
 
-## 5. South Korean shares end lower as chipmakers fall, with Samsung earnings in focus - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-10-06T08:16:23+00:00 | Age: 0.9 hours
-Scanned: 2026-10-06T09:08:17.303034+00:00
-URL: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMnVDNmQ1T1hsbkRvcjEwMTJYYXlDOVhXOWIzMUk5cHhqRTBXNEVWNDN5SThQbGkzZkFmQVFZTDNZOXM4M1VjdHJjREliMVhBdTJvTkc2VG9LNk1FWXgyXzk5ZEVUcmlZSVRkeGJOa1A0c3FtS09xYm9KM2V0TGJIUW1EYWU3akl6RDJKLUdEcXUyZVRCTHp2WjhLRFdPWHB4MmpGbHV0V0MtWEtoc2Z4SHNfSThCR0hqOS1Ka1FnYWxuV0pxcWxYZzFLT19xSC1sNzhzOXhRdDBXWE1ZRnB5c2ZGY9IB6AFBVV95cUxQQ1cxRnA5RHBwenBza3B3UWdiZGozeUc1Tjh5a3N1eUFocnRoODZiOFpNaEtWbzZWZUhzTDF4QXBYdXZTdXU2ZTlONU04TVplTUxWeWlqWGs4TEdvZk1LQXFxMHVRanFweS03bXVYNXpvMk11N3M1ZjJDbEh6bmJDWXNZakEwdllnSmZ5akxoajNEMmNaZERlWmtTTndNN2dsX1VMTGJvZDlKa3hyMnY0N003cmxQRVpuSU9CZ2FWN2xEVHBHd24wUnlkVmVKR1JwcXFpRkpteEJ5c1hfQ0d0aFFIdlIxUDd4?oc=5
-
-South Korean shares end lower as chipmakers fall, with Samsung earnings in focus The Economic Times
-
-## 6. OpenAI to watermark ChatGPT and Codex text in Europe, here's what it means for users - The Times of India
-Source: The Times of India (discovery)
-Published: 2026-10-06T07:52:00+00:00 | Age: 1.3 hours
-Scanned: 2026-10-06T09:08:17.303034+00:00
-URL: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbkJ6UUdzWlZoMHhjd1FUZ3F4Tzh2eTFyUHhMQlRMSmhoMFpBUnlvdWxmS0ZLa3U1Z05GWHpnWmZia2F3cmdjdUZUZktycHpKN0hzX09sOEs4SDI0WkN2em84eWUzMXQ5ZjdEY0p2Ujd3MHBPTUhBblYtamdmYXhGd09yM19OdVRjektidXNEQXVHVWRYT3BpNFVVVGlmTkxTN0pEVGVZZUFXdTRPa01tNmx3QTVqa21BSHU0RTBtVmJwS0Jac3RLTmNJb3lrQ3VPd3gzXzRSWU5jVF9wQmlpVmRQeUFXU1YyX1MyaEF5YnFvUXVLcXA1etIB_gFBVV95cUxOM01ydkhhdHNMVmVhZkttZUEzQTFzMHFHeEF0MWZHY0VZbE9ZYXdiNlhQZW55M0N4NGkzSnZiSGVNUUxhUlREOFZGbDA0RjhpUWtFLVZTcTdpQ3p4cWdZR0QwRXVSTUVMTHlYdGtZT0o1WU5RZGVzMEtRNm05QVJuUjd1MW5SWTZKM1VKSWxFc0Z0UjJxcWJqMEJLNVl3N1hmRHdCVFF2eDVaZUtsLWhkTnUxOTYzYlNDbkFOZ1NZVUY5ME9oU3ZtWmxRZUY2ODE2V3dmY1VsSzdqSENoVWdDOEtLdWVNcWZNcUYtekxKVkVOS2pJcXZxUS01NDJQdw?oc=5
-
-OpenAI to watermark ChatGPT and Codex text in Europe, here's what it means for users The Times of India
-
-## 7. GitHub release: anthropics/claude-code v2.1.291
+## 4. GitHub release: huggingface/transformers Release v5.19.0
 Source: github.com (primary)
-Published: 2026-10-06T03:55:19+00:00 | Age: 5.2 hours
-Scanned: 2026-10-06T09:08:17.303034+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.291
+Published: 2026-10-06T16:39:23+00:00 | Age: 0.7 hours
+Scanned: 2026-10-06T17:18:42.543193+00:00
+URL: https://github.com/huggingface/transformers/releases/tag/v5.19.0
 
-## What's changed - Fixed a regression in 2.1.290 where cloud sessions could drop answers to permission prompts - Fixed a regression in 2.1.288 where the last messages of a session could be lost when quitting
+# Release v5.19.0 ## New Model additions ### EmbeddingGemma2 EmbeddingGemma 2 is a multimodal embedding model from Google built on the Gemma 4 architecture. It encodes text, images, audio, and video, individually or combined in one input, into a shared 768-dimensional vector space for cross-modal retrieval, semantic similarity, clustering, and classification. It uses Matryoshka Representation Learning, so embeddings 
+
+## 5. Mirror Particle is building a ‘world model’ of human behavior
+Source: techcrunch.com (reputable)
+Published: 2026-10-06T16:35:00+00:00 | Age: 0.7 hours
+Scanned: 2026-10-06T17:18:42.543193+00:00
+URL: https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/
+
+Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.
+
+## 6. Anthropic is giving startups a free year of Claude Team and $1,000 in credits
+Source: techcrunch.com (reputable)
+Published: 2026-10-06T16:00:00+00:00 | Age: 1.3 hours
+Scanned: 2026-10-06T17:18:42.543193+00:00
+URL: https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/
+
+"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone."
+
+## 7. Glimpse wants to give hardware companies an X-ray view of every critical part
+Source: techcrunch.com (reputable)
+Published: 2026-10-06T13:15:00+00:00 | Age: 4.1 hours
+Scanned: 2026-10-06T17:18:42.543193+00:00
+URL: https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/
+
+Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.
