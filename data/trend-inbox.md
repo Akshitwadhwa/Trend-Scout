@@ -2,46 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-07T02:30:22.386337+00:00
-Scanned: 2026-10-07T02:30:22.386337+00:00
+Updated: 2026-10-07T11:53:17.701144+00:00
+Scanned: 2026-10-07T11:53:17.701144+00:00
 Memory window: 72 hours
 
-## 1. I'm 47th in line to speak to someone at AIG about a lost Apple Watch
+## 1. Even Lower-Income Residents Benefit from Expensive New Housing
 Source: Hacker News (discovery)
-Published: 2026-10-07T02:25:02+00:00 | Age: 0.1 hours
-Scanned: 2026-10-07T02:30:22.383403+00:00
-URL: https://www.reddit.com/r/AppleWatch/comments/1wymmpu/im_47th_in_line_to_speak_to_someone_at_aig_about/
+Published: 2026-10-07T11:45:30+00:00 | Age: 0.1 hours
+Scanned: 2026-10-07T11:53:17.698169+00:00
+URL: https://flagpole.com/news/comment/2026/09/09/even-lower-income-residents-benefit-from-expensive-new-housing/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49987264
+Hacker News discussion: https://news.ycombinator.com/item?id=49991400
 
-## 2. OpenAI "rogue" agent activities found on Wikimedia projects
+## 2. Show HN: Every number in a tiny GPT, from one forward pass to one step of RLHF
 Source: Hacker News (discovery)
-Published: 2026-10-07T02:24:26+00:00 | Age: 0.1 hours
-Scanned: 2026-10-07T02:30:22.383403+00:00
-URL: https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/
+Published: 2026-10-07T11:44:37+00:00 | Age: 0.1 hours
+Scanned: 2026-10-07T11:53:17.698169+00:00
+URL: https://llm.manogya.dev
 
-Hacker News discussion: https://news.ycombinator.com/item?id=49987259
+Hacker News discussion: https://news.ycombinator.com/item?id=49991390
 
-## 3. Digital Realty Commences Construction of KIX15 Data Center, Expanding AI Infrastructure in Japan - The Manila Times
-Source: The Manila Times (discovery)
-Published: 2026-10-07T02:01:56+00:00 | Age: 0.5 hours
-Scanned: 2026-10-07T02:30:22.383403+00:00
-URL: https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSlZzMW5paUNBbjBiT0lBMUQwbjFkOFBfYjBPWXBKSjlORlpzRTVEcDdCY3RvWGZpWm04YngxZnBGdjUwR3cxZFhxdGxIdWs0REkzaXJXaUprNWtLR3BmZUxISVVPS0dvSWowQm1LeERacV9sV2JIS2Z3Mk9TSjE3RnoxNGtxSzJUZVdXVmh5cUJUVFZWQnZfWm1hWDA5T05YeHdZLWx1LXJpcVRBUnhZNmdoVVYyTnRvTXFoZ0VmRDMySF9NeUhRd1gyYmYydE1ZSVhuMENMZWpmcFc4MjdMVjE2NHNSZHdrelZ4NUdHb2Q1aEMyRU10bUpzVFBMdw?oc=5
+## 3. Samsung chip employees to receive special stock bonuses in 2027 - Korea JoongAng Daily
+Source: Korea JoongAng Daily (discovery)
+Published: 2026-10-07T11:44:07+00:00 | Age: 0.2 hours
+Scanned: 2026-10-07T11:53:17.698169+00:00
+URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0dZSUFpZnBjbkdfVzAtWE8tQzFZaWloYmY5Nm1BbThRR3NaNHlXUEZzZS1wY2JVVTdhM3FCdDItZFFUclE0blpmbm5SVGZjOGg0TXE0Mm5Kem41elVhVXFiSU9MUy1MSnQ4RmdQR1ZES0xxaDZKQUJGcGZuVWxvVFNSeWRTclIxMGhhVElyVDJ1d1NZbGFzcG90bDhzRnR5VHRJNzlwdlE0RmVwOTBNU1dVZHVNMUE?oc=5
 
-Digital Realty Commences Construction of KIX15 Data Center, Expanding AI Infrastructure in Japan The Manila Times
+Samsung chip employees to receive special stock bonuses in 2027 Korea JoongAng Daily
 
-## 4. GitHub release: openai/openai-python v3.26.0
+## 4. Silicon Labs Adds IoT Developer Platform Tools - EE Times
+Source: EE Times (discovery)
+Published: 2026-10-07T11:03:49+00:00 | Age: 0.8 hours
+Scanned: 2026-10-07T11:53:17.698169+00:00
+URL: https://news.google.com/rss/articles/CBMie0FVX3lxTFA0d3laUDFwUUJUYnFUZDFtVjd2dkZDUXBOVVJuZm85REN2Nmt0Y2V3OXZYdmZ6Y1V2ZjJCRXUxLWFSMkd0a3NoMnVMM2Uzbkt4TFJrY0VHNFVlV3RocEdOZkRoVEJGckhMVHFhTHVzRnR0V0ZMTE05aENrQQ?oc=5
+
+Silicon Labs Adds IoT Developer Platform Tools EE Times
+
+## 5. AI computing startup Lambda to raise $4B ahead of planned IPO
+Source: techcrunch.com (reputable)
+Published: 2026-10-06T20:00:30+00:00 | Age: 15.9 hours
+Scanned: 2026-10-07T11:53:17.698169+00:00
+URL: https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/
+
+Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.
+
+## 6. GitHub release: anthropics/claude-code v2.1.292
 Source: github.com (primary)
-Published: 2026-10-06T21:29:50+00:00 | Age: 5.0 hours
-Scanned: 2026-10-07T02:30:22.383403+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.26.0
+Published: 2026-10-06T18:59:30+00:00 | Age: 16.9 hours
+Scanned: 2026-10-07T11:53:17.698169+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.292
 
-## [3.26.0](https://github.com/openai/openai-python/compare/v3.25.0...v3.26.0) (2026-10-06) ### Features * **api:** add standalone Decisions support ([#4033](https://github.com/openai/openai-python/issues/4033)) ([b99e3e4](https://github.com/openai/openai-python/commit/b99e3e4eee03e99eebc2c762eee9d73fdd4b0eff))
-
-## 5. Building Git infrastructure for agent-scale development
-Source: github.blog (primary)
-Published: 2026-10-06T20:57:56+00:00 | Age: 5.5 hours
-Scanned: 2026-10-07T02:30:22.383403+00:00
-URL: https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/
-
-We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog .
+## What's changed - Added `--marketplace ` to `claude plugin install`: adds the marketplace if needed, under the same policy checks as `claude plugin marketplace add`, then installs the plugin from it - Added an `effort` parameter to the Agent tool, so Claude runs a sub-agent at the effort level you ask for - Added `CLAUDE_CODE_OVERLOADED_RETRY_BASE_DELAY_MS` environment variable to set a longer base delay for the ba
