@@ -2,62 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-11T09:05:28.026566+00:00
-Scanned: 2026-10-11T09:05:28.026566+00:00
+Updated: 2026-10-11T16:41:15.249637+00:00
+Scanned: 2026-10-11T16:41:15.249637+00:00
 Memory window: 72 hours
 
-## 1. I built a 100% client-side, privacy-first PDF utility at 18
+## 1. Search files on your Mac with Google DeepMind's EmbeddingGemma 2
 Source: Hacker News (discovery)
-Published: 2026-10-11T09:02:43+00:00 | Age: 0.0 hours
-Scanned: 2026-10-11T09:05:28.024922+00:00
-URL: https://snappdf.art
+Published: 2026-10-11T16:34:41+00:00 | Age: 0.1 hours
+Scanned: 2026-10-11T16:41:15.247473+00:00
+URL: https://github.com/ARahim3/DigUp
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50041130
+Hacker News discussion: https://news.ycombinator.com/item?id=50045015
 
-## 2. Show HN: Rezoom – one chat list for all your Claude Code sessions
+## 2. Tata Electronics, Besi Partner on Advanced Semiconductor Packaging in India - EE Times India
+Source: EE Times India (discovery)
+Published: 2026-10-11T16:34:02+00:00 | Age: 0.1 hours
+Scanned: 2026-10-11T16:41:15.247473+00:00
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPZWVLcV8xZzBvOFZZZk1YVDNwbzhRNUo3Q3hnQXg3VDBySk5aQzc3cFhNZFVKRjhVSWdfNGlJdG0xNnIwbm5xOEU0eXZBb0JGTWtSSnM4b3RsV3Z4bGl3ZVZDb0E5cTlIMGVWUkpMVGhyNU04ck90S3JmWFRuek9NX1p6REY0ZGxPVkNMVnZfdGlsaDVNWmtwWi13eUE4Z2NvZDBteQ?oc=5
+
+Tata Electronics, Besi Partner on Advanced Semiconductor Packaging in India EE Times India
+
+## 3. Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25% — steep price hikes push Series X to $800 and PS5 Pro to $900 - Tom's Hardware
+Source: Tom's Hardware (discovery)
+Published: 2026-10-11T16:30:00+00:00 | Age: 0.2 hours
+Scanned: 2026-10-11T16:41:15.247473+00:00
+URL: https://news.google.com/rss/articles/CBMi2wJBVV95cUxPOElicUpWRmlUNEdxTUVQdklVZnM1TjJjZGV0SEg0bmpfSUVGYnMwUkU4MkRUQkR6VVBzS2t6N1daU2M4bVpBR0V6ZS1WOTJVcWhSSWNEOXY0OTJOZzZacnQzeUx3QlE0dUQ1SmxYR3NNclU3T2NUaHV3cDlhYTJNOUtoODdzUTdYY0ZZRkl2ZGNwRXVIQVNRNWFTVmQ3WUFDTHRqRzA5amZxbzJhcWo1Sk9Jb01KWkpDdktXR1hTdUVzc3JBVDVWMWVibnBzVGIzeUptWE0wVlc5SmJWLVVETE8zU2lqVjVKMU96MVJPNVhkWGI4QTF0RWpsbDJUTjRZVWJoYm1GdkR1aU9SdTBFUGN3R0RzZGdlbGlWekJrWVZJRWdNYXBDb0pJUk9mN0N5UWREM3FoeUxhMXFtMDZHVkM4Slg5X0JzaDFudUgzaHNFSElEc0hfUzA5SQ?oc=5
+
+Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25% — steep price hikes push Series X to $800 and PS5 Pro to $900 Tom's Hardware
+
+## 4. Self-hosting an AI agent environment with OpenCode and shared memory
 Source: Hacker News (discovery)
-Published: 2026-10-11T08:53:56+00:00 | Age: 0.2 hours
-Scanned: 2026-10-11T09:05:28.024922+00:00
-URL: https://github.com/BEX-Robotics/rezoom
+Published: 2026-10-11T16:25:46+00:00 | Age: 0.3 hours
+Scanned: 2026-10-11T16:41:15.247473+00:00
+URL: https://smalldata.tech/blog/2026/10/11/self-hosting-an-ai-agent-environment-with-opencode-and-shared-memory
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50041068
+Hacker News discussion: https://news.ycombinator.com/item?id=50044922
 
-## 3. Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ
-Source: WSJ (discovery)
-Published: 2026-10-11T08:49:46+00:00 | Age: 0.3 hours
-Scanned: 2026-10-11T09:05:28.024922+00:00
-URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWFkcXdfaE16UDI1bFo3blBEbDdtT0NRZjN0WkR3aTczRHBBOWJmMTI1empxRm5MRU9nMHRITlNWaGl5Zm9LZk5KTVhyWHdWT2NteXJxbUFxNUZSSFVtbWtYanNaa0lUTHBjdF9zOXBBX0JlYUFOVDBKSlpQeWYtUzRFQjJuMWs5dHlkUk9RdHBvQzNHNmUtSWszNnhwZ1pjX3MwM3hLY2FOMGZrVVE?oc=5
-
-Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom WSJ
-
-## 4. Foreign stake in Samsung hits 2009 low - Korea JoongAng Daily
-Source: Korea JoongAng Daily (discovery)
-Published: 2026-10-11T07:39:32+00:00 | Age: 1.4 hours
-Scanned: 2026-10-11T09:05:28.024922+00:00
-URL: https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ0pZNmw1YW1uUEJMbE5XcnNmaUE2M19qVnFoTUlWZmRQdXc5S0xHeHNOclotdndQaEl6WnpVLWJQV0ZqR0VlWjN5bk5SdlFPc3hEeU1xNDhyWDhYX3FZMWIzanJSYXBUV01KZmRtSklkZU5DZnFNUVB5aEFOamRvRUhOSjRhQkRZT0dKd0gzblBYZnU5U0E?oc=5
-
-Foreign stake in Samsung hits 2009 low Korea JoongAng Daily
-
-## 5. Prime Day Apple deals guide: When to buy, when to wait - Mashable
+## 5. The Apple iPhone 18 Pro is practically free this weekend — how to qualify - Mashable
 Source: Mashable (discovery)
-Published: 2026-10-11T07:00:00+00:00 | Age: 2.1 hours
-Scanned: 2026-10-11T09:05:28.024922+00:00
-URL: https://news.google.com/rss/articles/CBMicEFVX3lxTFBPbV9tR29veEtWMGdCdmdvRV9PMWppblR3dTJqZmhpSVpJR0E3djZTOE9IN3Fud2UzR25ZbnhFTFhZcHZ6X3BsZUVSVkpYRm42Y21wY29aUmtDRHdSUVZMYllEVmtYMmxkQ2dhanBacEg?oc=5
+Published: 2026-10-11T15:42:47+00:00 | Age: 1.0 hours
+Scanned: 2026-10-11T16:41:15.247473+00:00
+URL: https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZFFnWlNiUUtCajNPWlZ6MW1fUWNmeVM3TnRxQXNwd2hiM293Si1xN29TS0JUdUYzal9JWjM0cDl1NHFrQUtLTURjTTVMOWxOMnFuWlE3dFNPdVAwQUJuMU5yU0tLcC1kWklhaUViUQ?oc=5
 
-Prime Day Apple deals guide: When to buy, when to wait Mashable
+The Apple iPhone 18 Pro is practically free this weekend — how to qualify Mashable
 
-## 6. GitHub release: ollama/ollama v0.40.3
-Source: github.com (primary)
-Published: 2026-10-11T01:39:04+00:00 | Age: 7.4 hours
-Scanned: 2026-10-11T09:05:28.024922+00:00
-URL: https://github.com/ollama/ollama/releases/tag/v0.40.3
+## 6. The Attractive Economics Behind Anthropic Data Center Sprint - The Information
+Source: The Information (discovery)
+Published: 2026-10-11T15:01:00+00:00 | Age: 1.7 hours
+Scanned: 2026-10-11T16:41:15.247473+00:00
+URL: https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFVGNUhWOWkwOWdjbkwycUxUUFQ4NU5tSTBVU2Y2ZW9tYnFzWkJ5b1U1cmpnSDhSdDlYUHBNZlZmMHNCeS1aZzNBZkYzUXJyeHB0TmFXeUt0X0E5dnNmUl8wZjZzdG5hMjdYM0VkZ016OUNrMUxzTjc5T1VuRDYxUUUxWkN1V0d0eDNmcGdfUDcySE45ZDRnR1k3bzduTHM3cEVKUWJFcERzdXRmLWI3ejhvbEVWNVow?oc=5
 
-## What's Changed * `ollama launch claude` no longer shows a warning about Claude connectors by @hoyyeva in https://github.com/ollama/ollama/pull/18878 * `ollama launch codex` no longer warns about service tiers by @hoyyeva in https://github.com/ollama/ollama/pull/18879 * Paused background model upgrade for embedding and other request performance, by @jmorganca in https://github.com/ollama/ollama/pull/18908 **Full Ch
+The Attractive Economics Behind Anthropic Data Center Sprint The Information
 
-## 7. SEBI to issue AI, machine learning guidelines for capital markets soon: Chairman - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-10-10T16:26:00+00:00 | Age: 16.7 hours
-Scanned: 2026-10-11T09:05:28.024922+00:00
-URL: https://news.google.com/rss/articles/CBMioAJBVV95cUxOd0dvRmY3SFRYR3VBT0ZGSjFoZGxrd25tQ1N0NEhTal9reFN3b1AyeC1JRzFJNGhJOWtHSjduQkJnUzFyMGJCbGtsWEVOLW1sQ0N1N0QzbTBQV3hub29lV0Fzc0Zkb0ZmaXZ3bl8tQ2NwZFJnSzlxbmFKUjhheUNwOU01NlF2NGJYeENDMnJzX0thV2hXQWRnZy1TeFRiSU91blVCWDFZZEViVDNCUFpDR2diaENmcUFOT0E0R3AtSG9hQTB0SkM5cVJoOXNoOTFlaUljQjZxSXZjOVpvTjkxV3Riekp1OU94emQ5YURZSEhfUFRlbFNqT0FJblpMbTRlRGt6NVhWVmR3cThYNk9TWlpiVThYUXY1QVdiUWx6QjHSAaACQVVfeXFMTndHb0ZmN0hUWEd1QU9GRkoxaGRsa3dubUNTdDRIU2pfa3hTd29QMngtSUcxSTRoSTlrR0o3bkJCZ1MxcjBiQmxrbFhFTi1tbENDdTdEM20wUFd4bm9vZVdBc3NGZG9GZml2d25fLUNjcGRSZ0s5cW5hSlI4YXlDcDlNNTZRdjRiWHhDQzJyc19LYVdoV0FkZ2ctU3hUYklPdW5VQlgxWWRFYlQzQlBaQ0dnYmhDZnFBTk9BNEdwLUhvYUEwdEpDOXFSaDlzaDkxZWlJY0I2cUl2Yzlab045MVd0YnpKdTlPeHpkOWFEWUhIX1BUZWxTak9BSW5aTG00ZURrejVYVlZkd3E4WDZPU1paYlU4WFF2NUFXYlFsekIx?oc=5
+## 7. Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore - Education Times
+Source: Education Times (discovery)
+Published: 2026-10-11T14:27:00+00:00 | Age: 2.2 hours
+Scanned: 2026-10-11T16:41:15.247473+00:00
+URL: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNS1WRlhEMG1ZWEdLVzItQ25RQjZhRW1NWDBfOV9NTGg4Y2plU3JHbFlhSGpjNi1uRmlnY2JWUk45d1ViZmNDbUV5eVVKQ3dQaWpVODFFYkYyZml0OGRSaGdUNWxCQUpWYm4zTExZTkNDeVdjT3NkSjBUUTZaZHRzSUZ6VDZPRXRFdTJOMzAxRU5CZk9TQ0xvM2w1UzJycnp3YnFmVmtHZ3BidE01NjhOMTlzdmRaaWFRbGEwV05fTXlLWF9zeDBwM3ctUktRcUNTbWJzcklSaHozbG8?oc=5
 
-SEBI to issue AI, machine learning guidelines for capital markets soon: Chairman The Economic Times
+Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore Education Times
