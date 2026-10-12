@@ -2,54 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-12T02:30:52.756972+00:00
-Scanned: 2026-10-12T02:30:52.756972+00:00
+Updated: 2026-10-12T13:20:37.578564+00:00
+Scanned: 2026-10-12T13:20:37.578564+00:00
 Memory window: 72 hours
 
-## 1. Nvidia, Microsoft Launch Windows PCs with RTX Spark and AI Agents
+## 1. Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip - WSJ
+Source: WSJ (discovery)
+Published: 2026-10-12T13:18:58+00:00 | Age: 0.0 hours
+Scanned: 2026-10-12T13:20:37.575977+00:00
+URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5
+
+Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip WSJ
+
+## 2. Microsoft bets on homegrown AI chip to challenge Nvidia - Moneycontrol.com
+Source: Moneycontrol.com (discovery)
+Published: 2026-10-12T13:09:13+00:00 | Age: 0.2 hours
+Scanned: 2026-10-12T13:20:37.575977+00:00
+URL: https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEZ0Vmhxem8yMC01WUowU0xrb0F2WkVBbWZBSzVxTTRHdldXb0xXNXRlRjlIOXNKRUU3Y05qbHhIRTZmNGJHaDFhazQwSlJNRkY2T3pOZFlfSzBJSE9tODYyS0hta291XzFEYl9wekNISEpIU0ZoSmNXODlTTW1YQlJVUllDWE5pMUpWNVZtU3RTekk2d3ZTTW8xNUNMallSYlBKNldNZW5DcFhwODAtTGhZa1d6am05Tkk1aGZoONIBxAFBVV95cUxQSzN5eS1SVEtFaThMR09CdFJrQWNMWTcwMFVMQ1c0UFIwVk0yTzh4ZkZyMG9qcHZvU2tqU0F6cm1CVzhGbVp2c0t6dDE4OG9RVnFtalgzVjZtS3BWcGFWTHdTYlR1dGVzWC1nTnAyeG90Vi1aZ0ZjcFVsbHQyMHlodTlyWjI2b1BBYkNuX01jdUZGTFE1MjNhTDV3U1VWejlTTVdxQ2cwQVh4dV84bXVFTHFBMkFzdGxVb3QxZGZod1A3ZWly?oc=5
+
+Microsoft bets on homegrown AI chip to challenge Nvidia Moneycontrol.com
+
+## 3. Releasing AI-Generated Software
 Source: Hacker News (discovery)
-Published: 2026-10-12T02:20:35+00:00 | Age: 0.2 hours
-Scanned: 2026-10-12T02:30:52.755178+00:00
-URL: https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/
+Published: 2026-10-12T13:07:08+00:00 | Age: 0.2 hours
+Scanned: 2026-10-12T13:20:37.575977+00:00
+URL: https://blog.ploeh.dk/2026/10/12/releasing-ai-generated-software/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50050540
+Hacker News discussion: https://news.ycombinator.com/item?id=50055893
 
-## 2. Claude-Pod
+## 4. AI Almost Solved Reverse Engineering [video]
 Source: Hacker News (discovery)
-Published: 2026-10-12T02:19:37+00:00 | Age: 0.2 hours
-Scanned: 2026-10-12T02:30:52.755178+00:00
-URL: https://github.com/trekhleb/claude-pod
+Published: 2026-10-12T13:06:14+00:00 | Age: 0.2 hours
+Scanned: 2026-10-12T13:20:37.575977+00:00
+URL: https://www.youtube.com/watch?v=WqrluJHVyzo
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50050533
+Hacker News discussion: https://news.ycombinator.com/item?id=50055885
 
-## 3. TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters
-Source: Reuters (discovery)
-Published: 2026-10-12T02:12:00+00:00 | Age: 0.3 hours
-Scanned: 2026-10-12T02:30:52.755178+00:00
-URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5
+## 5. Former Plaud exec raises $26M for AI app that listens to you in the background
+Source: techcrunch.com (reputable)
+Published: 2026-10-12T12:47:59+00:00 | Age: 0.5 hours
+Scanned: 2026-10-12T13:20:37.575977+00:00
+URL: https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/
 
-TSMC expected to report sixth straight quarter of record profit thanks to AI boom Reuters
+Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture
 
-## 4. China’s CXMT makes progress in chip design pursued by Samsung, SK Hynix - South China Morning Post
-Source: South China Morning Post (discovery)
-Published: 2026-10-12T00:30:13+00:00 | Age: 2.0 hours
-Scanned: 2026-10-12T02:30:52.755178+00:00
-URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZHS080emE3cTZyaHozcTJmTTBYUk1GZEhNX3drTUh1S29LZWJRaWpUMlplQWd4STZzZFRNWFZkeEp4UVdiSHdaZlZPWVdHUnFHUDRrTDlWbzIzTU9LeUpoTDZ4ZjNxY1FBemZaVnRaOFlxNjJWcm9RaVR2ZWtldTlQWWhUczc4LUxmTG8tMGpUNTNvQ2lDUHd1RGZ5b3IyYzd5MUZqcU16NnN0aUIycmVIdlhZT2NseFBCaDFhdW_SAcABQVVfeXFMTU1TVTBjV2xjdGFob3d3R3VVTE0tczZyLXA3elItTmN3OVNHUm5OeER4SUxNVVdCNEZESTBzUE41dGNqWWd2SGt3czNTUW5kcWxZN3RIblpGQWtfTHZ3UnNzYm1QWUdVckUzYkp5ZkpyMUxLLXdDNFZROHdjMGFST0tsLVcxWlVETUkyMjVZaHpkTkZEN01URzUyRjZlOWV6T1hVX0FvaHVVTVM2ME45QWI5QXdHYzQ1b1dJVElDZGNG?oc=5
+## 6. Microsoft president Brad Smith 'shows mirror' to everyone against AI regulation; says: Right now your was - The Times of India
+Source: The Times of India (discovery)
+Published: 2026-10-12T12:41:00+00:00 | Age: 0.7 hours
+Scanned: 2026-10-12T13:20:37.575977+00:00
+URL: https://news.google.com/rss/articles/CBMi2gJBVV95cUxNSldFYjIwSFBfR1JzY0g2eGRDdE9NaG94NWJDcHdiOGhIc21VdVBZQ2x3Tm1uc3kxSWU1d0NUbXBoZlhEQVNISHpsQ2lrRDZIZy1WTndGalJ0YVBLM3NxTUloM1R5dmVrcjNKcUpGZVotaEsta2k4MVZGbDY3X1ViTEN6YkVjMWxSQW9TS1dvQ1pmNlRQTkpHcnkwM2RtSkhVdmtvYUVBakRTeDZGdl9lQVh6cFVsVVJscWdiYzdGWGE0WEdheE0zOVMtZmhpOS1wTjlXNFhSX1FIUHJkTnVwZ0h0dTBkWnNVV2FVSWxDaU9UVE1RclZaYU9xTDZfdko0Z2ZjeEFHcjdBcVFCSGpTS3lkZlFJbklpNWlIZU5hbjg0RTNsVC1qSmUydDRyd2tFNnNVUnoyNXZvTDdJYVRuYS1HQjJNNWxKcVFvWUNPaURTUERhemlhdjRn0gHfAkFVX3lxTE5pdDlyRXdXUjlVbFI5ck1CeGZmV1lKNlJreTRfYkZKSXhFN2duRUN4b2xidXpHX1d1TWVOLV9yc0Q3TFNVbXpJTUQzbnhTTlZtWS1nSElraG5QUjBsLXBEdXpBUDNGRWpXdUtzRUFNZklGOHBxZGRQTlExZTM1YXFwcVNpNFVHa1JWWnZZajdnb3BjOUYwd3Q1X0ZjTW8wQk8zT1JCS0hfY0lBbVRnNW85NFRPRXZtMFVNbWtJRjVjODJURWpBdHFVVlFVeTNncjJLUHBBOUtiTG1fS0YyQjZpSjZKbGlDMWsxMEE3eFlwakZYM0hTbUd6NUJ4TkMxOHMxU1R5djNOdlI3WUNBSnh3SU9NRDNxcXEtLXRGMzB2M2pBOHhyV3Y2TjBnQjVzMnM5cFFzQWp2bkhiTnpQQVVUTHl2ODA1WmpMcWdsMVo4eVAzSENBRHZOVWJGUjJpWQ?oc=5
 
-China’s CXMT makes progress in chip design pursued by Samsung, SK Hynix South China Morning Post
-
-## 5. GitHub release: openai/openai-python v3.29.0
-Source: github.com (primary)
-Published: 2026-10-11T17:38:54+00:00 | Age: 8.9 hours
-Scanned: 2026-10-12T02:30:52.755178+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.29.0
-
-## [3.29.0](https://github.com/openai/openai-python/compare/v3.28.0...v3.29.0) (2026-10-11) ### Features * **api:** add billing_not_active session error code ([#4052](https://github.com/openai/openai-python/issues/4052)) ([c88b320](https://github.com/openai/openai-python/commit/c88b32012ef0c3ebac39c79512994985a553a24c)) * **api:** add shida to named Live voices ([#4053](https://github.com/openai/openai-python/issues/
-
-## 6. GitHub release: ollama/ollama v0.40.3
-Source: github.com (primary)
-Published: 2026-10-11T01:39:04+00:00 | Age: 24.9 hours
-Scanned: 2026-10-12T02:30:52.755178+00:00
-URL: https://github.com/ollama/ollama/releases/tag/v0.40.3
-
-## What's Changed * `ollama launch claude` no longer shows a warning about Claude connectors by @hoyyeva in https://github.com/ollama/ollama/pull/18878 * `ollama launch codex` no longer warns about service tiers by @hoyyeva in https://github.com/ollama/ollama/pull/18879 * Paused background model upgrade for embedding and other request performance, by @jmorganca in https://github.com/ollama/ollama/pull/18908 **Full Ch
+Microsoft president Brad Smith 'shows mirror' to everyone against AI regulation; says: Right now your was The Times of India
