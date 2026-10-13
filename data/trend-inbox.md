@@ -2,62 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-13T20:17:17.558623+00:00
-Scanned: 2026-10-13T20:17:17.558623+00:00
+Updated: 2026-10-13T23:46:28.169223+00:00
+Scanned: 2026-10-13T23:46:28.169223+00:00
 Memory window: 72 hours
 
-## 1. I Started Moving Inference In-House
+## 1. Show HN: Jevcrawl – A web crawler for AI agents with no LLM in the crawl loop
 Source: Hacker News (discovery)
-Published: 2026-10-13T20:15:37+00:00 | Age: 0.0 hours
-Scanned: 2026-10-13T20:17:17.555652+00:00
-URL: https://nicholasreese.com/why-i-started-moving-inference-in-house/
+Published: 2026-10-13T23:35:20+00:00 | Age: 0.2 hours
+Scanned: 2026-10-13T23:46:28.167138+00:00
+URL: https://github.com/RayenMlayeh/jevcrawl
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50078003
+Hacker News discussion: https://news.ycombinator.com/item?id=50080450
 
-## 2. It looks like Apple Music is getting a new icon - The Verge
-Source: The Verge (discovery)
-Published: 2026-10-13T20:05:02+00:00 | Age: 0.2 hours
-Scanned: 2026-10-13T20:17:17.555652+00:00
-URL: https://news.google.com/rss/articles/CBMiekFVX3lxTE1XSXJFejhPelpSNXpvVnpQQktRS0ViV2dFcC11azJRSzJhLUQtTmVPVTVYeElMZ085UzdtM09HN19yRXUxMHFGZ3p1TDJjT3VDRUFieEJETGcwYllyOHlxV09MYzF6OEt2T2Y0VmdHYXljckdqNFdfYzhR?oc=5
-
-It looks like Apple Music is getting a new icon The Verge
-
-## 3. Nvidia's valuation nears $6 trillion, but employees pay for their own lunch; here's a look at Jensen Huang - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-10-13T20:01:40+00:00 | Age: 0.3 hours
-Scanned: 2026-10-13T20:17:17.555652+00:00
-URL: https://news.google.com/rss/articles/CBMiugJBVV95cUxPU0FiQ19wSjBwdnI0eU5KTm1meDhKSTdWSzFWaTJGR2NvZWdSMklmUzRGWk8ycnRvY2dEcnpVTllndVd2S3lmbWZNRFg3VkRZUVlsUFdadWNFWHhyT18yVXN2dGgybWlRRHlhbXQtdnpFSFBoTlg5SGZZcWV4RlR6aFQ4ZWE1Z1hEV08xMDVPNWVuM29OOHlBd01mTlE3SjhCaXVrRHh6VGllUzZoZDFQa051THpuTFZhbnhnV1ltcmIwVGFqc0xDdmNRNDBzMWZaNkRkVHkxZXdSbWIycEZRNUVXQUFLN2pFQ2J3UF9xcWtDTnVNUng0NHBBSE0xQUJLZndSWnlBN29nQTNmeWVocmV3em1weHdvV09uRFdxRkhDQnQ1OHNWZy1QR3JxTkNhUlQ1N1hKOWFGUdIBvwJBVV95cUxPUEVFcnFfVlF0OEU3MXl2bTJiajZJcmwxLTNnSGs2dHJCV3FEcnRVY2J2R0hCZkdZWnRtZmd3U193TDEwQnRBVWhmZDlYc3RKUG5mLS1CZDVlVVliLUQ1RWJKbjNrSjBzdFl2THY5ZmxZZUNoYXRhTVE3Mm1DZExPUDBEWHhsUnBrNVNKbGwtM2EtQkNpQlk2S3VZS01rbVRWY2xWLXJSQzZad2NqSVdjdVZDWi13b1Zla0UyN0VodVhqZlFibGg4VnhhNFBPU3k4ZVBOWHlWRldhM1VueHVkSndHbjZHS201bFlpYXZTOE5tVlVxcWo3eXZjMEhsYk1GdnVYaEQwRFJHdm01Y1gtM2VSSWxydUMyMXZGLUZjMmVNMlk5cm5hTXNNMFI0VldOb2xXb2hISkZNdG1GTTk4?oc=5
-
-Nvidia's valuation nears $6 trillion, but employees pay for their own lunch; here's a look at Jensen Huang The Economic Times
-
-## 4. OpenAI finds recording device in one of their offices
+## 2. Did Ukraine's drone strikes on Yandex data centers silence Russian bots?
 Source: Hacker News (discovery)
-Published: 2026-10-13T19:55:31+00:00 | Age: 0.4 hours
-Scanned: 2026-10-13T20:17:17.555652+00:00
-URL: https://twitter.com/OpenAINewsroom/status/2110095403198849132
+Published: 2026-10-13T23:29:17+00:00 | Age: 0.3 hours
+Scanned: 2026-10-13T23:46:28.167138+00:00
+URL: https://mashable.com/tech/ukraine-strikes-yandex-data-center-bot-traffic-decline
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50077703
+Hacker News discussion: https://news.ycombinator.com/item?id=50080414
 
-## 5. Niobia takes the guesswork out of some of tech’s most expensive mistakes
+## 3. Science Corporation implants its vision-restoring chip in its first Stargardt disease patient - TechCrunch
+Source: TechCrunch (discovery)
+Published: 2026-10-13T23:13:31+00:00 | Age: 0.5 hours
+Scanned: 2026-10-13T23:46:28.167138+00:00
+URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVB1U25pRHp6ZE9XdV9BZHFYRnkySE5GZzFobDZFZ2R0cjlOSkQ3T0pyVk1GNXV2WXBRT0NlS3RFVzhpeHViRkVlRlFVTzM1TUVSVEF2ZVZKanozc0pFVDRSWDA4M3pSbWNNMUdVZXc2YmNHVlNJd2g1SmtFd1dIcG1TYmJ3TTVEeUJnTkl4NmVJMHF5OUJYUF9TQUROdHJBYkxXdE5EdnFVTFVyTmJMWkU0TWhsSkN0a2UtSWg3Z0N3cW9VdGRN?oc=5
+
+Science Corporation implants its vision-restoring chip in its first Stargardt disease patient TechCrunch
+
+## 4. Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home
 Source: techcrunch.com (reputable)
-Published: 2026-10-13T19:00:00+00:00 | Age: 1.3 hours
-Scanned: 2026-10-13T20:17:17.555652+00:00
-URL: https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/
+Published: 2026-10-13T23:05:34+00:00 | Age: 0.7 hours
+Scanned: 2026-10-13T23:46:28.167138+00:00
+URL: https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/
 
-The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.
+Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
 
-## 6. GitHub’s model for secret detection: Finding more secrets with less noise
+## 5. Apple Home Collection pricing and release date: Cameras, lock, thermostats start at $39.95 - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-13T22:27:33+00:00 | Age: 1.3 hours
+Scanned: 2026-10-13T23:46:28.167138+00:00
+URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQX0lqOEpTQUNLeDNadDVwV096cnltX0ZjRmJCX2Z4VEFCQ2Z0WnkxS0pDSnNCTlFiSFE3Y2czRlRUdFlWVlBtaXQ3VkxuSUtkMFYwYWUwUGhwWnVQVG00WVBkc2ZveVVkMHBiREhsTGJDeVJ2dk9rVUJsMUJJUUVJU1lGMXNmdjU2b3pmeko4cXBlSmgz?oc=5
+
+Apple Home Collection pricing and release date: Cameras, lock, thermostats start at $39.95 Mashable
+
+## 6. Meet the Apple Home Collection, smart security devices made with LG - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-13T22:27:33+00:00 | Age: 1.3 hours
+Scanned: 2026-10-13T23:46:28.167138+00:00
+URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxQT05MbVJBTzZ0WlJxUVFvakh2VnF4RGp4MExNc3JGUW42SlRTQkhnRGttTXN5ZW5JS1BkQjhHeVkwcjR0VHVBYUttQUo3MXBvSm5fR2JYSm81NUstcU1mTzNyYVJMU0NjSVZRa1Q5dllLNHhhVDJmRnVuVUtITGJ1bFYtRndtMlNwYzctbA?oc=5
+
+Meet the Apple Home Collection, smart security devices made with LG Mashable
+
+## 7. GitHub’s model for secret detection: Finding more secrets with less noise
 Source: github.blog (primary)
-Published: 2026-10-13T17:56:33+00:00 | Age: 2.3 hours
-Scanned: 2026-10-13T20:17:17.555652+00:00
+Published: 2026-10-13T17:56:33+00:00 | Age: 5.8 hours
+Scanned: 2026-10-13T23:46:28.167138+00:00
 URL: https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/
 
 GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog .
 
-## 7. Laplace Intelligence red-teams robots and self-driving cars before they hit the real world
-Source: techcrunch.com (reputable)
-Published: 2026-10-13T17:30:00+00:00 | Age: 2.8 hours
-Scanned: 2026-10-13T20:17:17.555652+00:00
-URL: https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/
+## 8. GitHub release: googleapis/python-genai v2.30.1
+Source: github.com (primary)
+Published: 2026-10-13T14:02:01+00:00 | Age: 9.7 hours
+Scanned: 2026-10-13T23:46:28.167138+00:00
+URL: https://github.com/googleapis/python-genai/releases/tag/v2.30.1
 
-University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.
+## [2.30.1](https://github.com/googleapis/python-genai/compare/v2.30.0...v2.30.1) (2026-10-13) ### Bug Fixes * Concatenate output_text across multi-step model responses in a turn ([180c345](https://github.com/googleapis/python-genai/commit/180c3453f91e4734b828534950fa7f8526934b59))
