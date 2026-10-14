@@ -2,46 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-14T13:53:00.583855+00:00
-Scanned: 2026-10-14T13:53:00.583855+00:00
+Updated: 2026-10-14T18:45:22.214636+00:00
+Scanned: 2026-10-14T18:45:22.214636+00:00
 Memory window: 72 hours
 
-## 1. GlobalFoundries to Build Two Chip Fabs With Up to $21 Billion Funding - WSJ
-Source: WSJ (discovery)
-Published: 2026-10-14T13:40:00+00:00 | Age: 0.2 hours
-Scanned: 2026-10-14T13:53:00.580957+00:00
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxNZW8xQ1AtdjA2d1B4YXlXNkp6YnBCblFZNTI1YzZVYVYtMXBhZGtjdm9RMnZaOUx6M3hrRlFpbzhuMmZwcV83ZmNtSUh0aTB0MHlnQkpMSFhWamFhRnEwSFZuV2lpMmI0SWhjY29GVTNfX2NVdmhOUk0zN0dORXNnbGpnSjZ6RFY0OFVYazFnUGhkMDRUOGpEek5sZVZFWlIyb2loYg?oc=5
+## 1. Tech, auto groups back Apple's bid to tighten USITC domestic-industry test - MLex
+Source: MLex (discovery)
+Published: 2026-10-14T18:33:42+00:00 | Age: 0.2 hours
+Scanned: 2026-10-14T18:45:22.211443+00:00
+URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGxITFl2aDJBdkVLMHFLVWNqVHZPcDJLRi02SURXci0wY2V3QlUxZEFGSGpzcXpnRjNKbGFxcjN0TkJaZmpHV1pWZmRCallkVk9KTnh0TkNYODRkVmowRlFzMkhub3djNW1CQU5zQ0dBVXpyN2RsNC1zd0RJVnpLQXN1ekhNWEZBSUFqWDhVUGpUVGRnbHBvMWxNak9hUlZvVlNsLXlROWRLVFBGNG5HSk5BcmhzRTDSAVpBVV95cUxPV0Vna1JmU3FVamZPZ0hwZ0dWQzd2M3hpWHlJQ0dFT3dBczNLMFl4S1VIbDVPNjZwWWxQRUxkN2xWV2JaS0FGSjdaTXc2eXlMaHhtUWVWUDNKc3c?oc=5
 
-GlobalFoundries to Build Two Chip Fabs With Up to $21 Billion Funding WSJ
+Tech, auto groups back Apple's bid to tighten USITC domestic-industry test MLex
 
-## 2. Show HN: Every open government tender in the world (Over 250k)
+## 2. Banks are now trying to offload the AI data center debt they just underwrote
 Source: Hacker News (discovery)
-Published: 2026-10-14T13:39:43+00:00 | Age: 0.2 hours
-Scanned: 2026-10-14T13:53:00.580957+00:00
-URL: https://tenderportal.io/
+Published: 2026-10-14T18:32:52+00:00 | Age: 0.2 hours
+Scanned: 2026-10-14T18:45:22.211443+00:00
+URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50087641
+Hacker News discussion: https://news.ycombinator.com/item?id=50092664
 
-## 3. PrivacyBridge – local-first, reversible anonymization for Italian docs
+## 3. Elevation Lab: An Apology
 Source: Hacker News (discovery)
-Published: 2026-10-14T13:39:12+00:00 | Age: 0.2 hours
-Scanned: 2026-10-14T13:53:00.580957+00:00
-URL: https://github.com/Navras98/PrivacyBridge
+Published: 2026-10-14T18:30:29+00:00 | Age: 0.2 hours
+Scanned: 2026-10-14T18:45:22.211443+00:00
+URL: https://www.elevationlab.com/blogs/news/an-apology?srsltid=AU7gw4XjUESQwZQmle2oYakt2Y477Kh5ICt5tgAjigfhlQYAcsm-omsY
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50087636
+Hacker News discussion: https://news.ycombinator.com/item?id=50092615
 
-## 4. Apple TV 4K with Siri AI announced: Price, release date, and more. - Mashable
-Source: Mashable (discovery)
-Published: 2026-10-14T13:29:19+00:00 | Age: 0.4 hours
-Scanned: 2026-10-14T13:53:00.580957+00:00
-URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE00dEpmQk10ZThZdXFiWGVPZUZNWXRjWEw0d2I3Vjg3N3BtU1kzWkszMTdOMUlDR0lUY2FvMXdIelh3MmtKZTY0eEo4RDVmcXdHSDZRWHMxc1R0VnhuVFFQc1AxbXF4UHh6YjlxcWF6TUdxRnpK?oc=5
+## 4. GitHub release: anthropics/claude-code v2.1.300
+Source: github.com (primary)
+Published: 2026-10-14T18:24:25+00:00 | Age: 0.3 hours
+Scanned: 2026-10-14T18:45:22.211443+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
 
-Apple TV 4K with Siri AI announced: Price, release date, and more. Mashable
+## What's changed - Added `virtualText` to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt - Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry `api_request` event, splitting cache writes by lifetime - Added `$.ui.view({ agentId })` for mods: shows an agent's transcript in the main view when you ask, and `$.ui.view({})` goe
 
-## 5. 'GTA 6' setup upgrade: This 32-inch Samsung Odyssey G5 gaming monitor drops under $200 - Mashable
-Source: Mashable (discovery)
-Published: 2026-10-14T13:17:45+00:00 | Age: 0.6 hours
-Scanned: 2026-10-14T13:53:00.580957+00:00
-URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDRBSVN4UnpxWW9BUXB3dThTaHIwTTM4MkhlY0Z4a05peExKeE1IUGhiVGoxZWc0TmFzSjRtcnhseDMzZmFhcFF5NFVaSEhNcWFQQjkyczdROGx6ZGhDOHpud1VUZnlHQWY4WGg3Sll1Ym02bHlYVHd3MGFYaElfT2V3b3hDTDA?oc=5
+## 5. OpenAI CFO Sarah Friar warns companies face cyber risks with budget Chinese AI models - The Times of India
+Source: The Times of India (discovery)
+Published: 2026-10-14T18:11:00+00:00 | Age: 0.6 hours
+Scanned: 2026-10-14T18:45:22.211443+00:00
+URL: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdlpQb1NfOU4wSXJjSkhmalRxWF8wVFItelh2eEI4T3RsSUJFM05CQkhIU3c4c3NSZlNERUdMWWJSX1VWbXZXeXdkYjlqZURkb1hpLVZTM1FqX19aV25CTE1JeTlvUG1yRXkwcGdCYzZYSFV0c013d1UxbkhyTGwtbG0zc05UeGtJakVHNlFkR19UWWdYSWYxcmxJUEs2QlZNUDFORXdITmdaa2NiRExGRU1nNzhRaU5zdy03eTFNRTZxdENrTXk3RE9wUWdTWXV2eF9aMmlKTklkOHU5bUJqTHJ5ak1fNmpwS0J3TGQwR2NUdnByNTcxci1obW_SAYICQVVfeXFMTllsTXNoVnpYeGxVdVdlc2JsTUJDbFhYMDA2X3pYRThlNTktb0dUaVh5X016LXlkMmRtSVJ2bWNEV1FxZU9aQXl3OVJQeURTYzBMRFN1Y0NWWUUtaGc2Qm9SSmk2SGdoSXR2MzJ5MnhUWU1HOHo4YktzUjYwa2dfbVRZSG9sWFJja1N2ZExnVUlKaGcxelJOUXdQMG9uREdsM0lJdzFibFpya29za0pJZXJUR0JJdmJ4T3FyRktxUndWeVJuMjFTXy1PNVNHUVl6MGhOQ3RBazlsd0RRREE2QjJoLTNpMnhXSjVJWnh3aEtUa0U5Rll4QUJCTTJScnN5OWlR?oc=5
 
-'GTA 6' setup upgrade: This 32-inch Samsung Odyssey G5 gaming monitor drops under $200 Mashable
+OpenAI CFO Sarah Friar warns companies face cyber risks with budget Chinese AI models The Times of India
+
+## 6. Apate sends AI agents undercover to get scammed so they can gather fraud intelligence
+Source: techcrunch.com (reputable)
+Published: 2026-10-14T18:00:00+00:00 | Age: 0.8 hours
+Scanned: 2026-10-14T18:45:22.211443+00:00
+URL: https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/
+
+Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.
