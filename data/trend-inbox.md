@@ -2,54 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-14T18:45:22.214636+00:00
-Scanned: 2026-10-14T18:45:22.214636+00:00
+Updated: 2026-10-14T23:19:41.112331+00:00
+Scanned: 2026-10-14T23:19:41.112331+00:00
 Memory window: 72 hours
 
-## 1. Tech, auto groups back Apple's bid to tighten USITC domestic-industry test - MLex
-Source: MLex (discovery)
-Published: 2026-10-14T18:33:42+00:00 | Age: 0.2 hours
-Scanned: 2026-10-14T18:45:22.211443+00:00
-URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGxITFl2aDJBdkVLMHFLVWNqVHZPcDJLRi02SURXci0wY2V3QlUxZEFGSGpzcXpnRjNKbGFxcjN0TkJaZmpHV1pWZmRCallkVk9KTnh0TkNYODRkVmowRlFzMkhub3djNW1CQU5zQ0dBVXpyN2RsNC1zd0RJVnpLQXN1ekhNWEZBSUFqWDhVUGpUVGRnbHBvMWxNak9hUlZvVlNsLXlROWRLVFBGNG5HSk5BcmhzRTDSAVpBVV95cUxPV0Vna1JmU3FVamZPZ0hwZ0dWQzd2M3hpWHlJQ0dFT3dBczNLMFl4S1VIbDVPNjZwWWxQRUxkN2xWV2JaS0FGSjdaTXc2eXlMaHhtUWVWUDNKc3c?oc=5
-
-Tech, auto groups back Apple's bid to tighten USITC domestic-industry test MLex
-
-## 2. Banks are now trying to offload the AI data center debt they just underwrote
+## 1. Anthropic Revenue Jumps to $16.8B in Quarter Before IPO
 Source: Hacker News (discovery)
-Published: 2026-10-14T18:32:52+00:00 | Age: 0.2 hours
-Scanned: 2026-10-14T18:45:22.211443+00:00
-URL: https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/
+Published: 2026-10-14T23:17:47+00:00 | Age: 0.0 hours
+Scanned: 2026-10-14T23:19:41.109950+00:00
+URL: https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50092664
+Hacker News discussion: https://news.ycombinator.com/item?id=50096936
 
-## 3. Elevation Lab: An Apology
+## 2. Ablation is an autonomous reverse engineering system
 Source: Hacker News (discovery)
-Published: 2026-10-14T18:30:29+00:00 | Age: 0.2 hours
-Scanned: 2026-10-14T18:45:22.211443+00:00
-URL: https://www.elevationlab.com/blogs/news/an-apology?srsltid=AU7gw4XjUESQwZQmle2oYakt2Y477Kh5ICt5tgAjigfhlQYAcsm-omsY
+Published: 2026-10-14T23:10:43+00:00 | Age: 0.1 hours
+Scanned: 2026-10-14T23:19:41.109950+00:00
+URL: https://github.com/Ablation-Tool/ablation
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50092615
+Hacker News discussion: https://news.ycombinator.com/item?id=50096870
 
-## 4. GitHub release: anthropics/claude-code v2.1.300
-Source: github.com (primary)
-Published: 2026-10-14T18:24:25+00:00 | Age: 0.3 hours
-Scanned: 2026-10-14T18:45:22.211443+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.300
+## 3. Nasdaq indices fall 2% as AI stocks lead Wall Street meltdown - Key factors explained - CNBC TV18
+Source: CNBC TV18 (discovery)
+Published: 2026-10-14T23:02:03+00:00 | Age: 0.3 hours
+Scanned: 2026-10-14T23:19:41.109950+00:00
+URL: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUTJhQ0U4NTlkMVEtTHVjUmhyenltNFgtUTJfNlF2RUwtLWg0TmZTTWctOFhmMlRmcThFb3N0THQwRlY3Tkk4VXhGLVVQV01obkNfcndoVmdiUm9VQXRJa3d2aENJVnR3MWpfWDR0MXFhTnNHcWs5b0xDYVdDaFVoWXBvN0YtMGE1cl92MnZqNTBJbDN6eHRBWC1fQmt2cWxOT3NHRFN6TG9naDNkWkRDc0RiUURLV3ozZGRXNndCc0w2STJienRFTFFzSUtUTk5PSm9MUmFoNjdfTzdpdlgzQVVpLXlMOGtzNHp3dlI2RkpsTkNVX0JidjF30gH6AUFVX3lxTE5RMmFDRTg1OWQxUS1MdWNSaHJ6eW00WC1RMl82UXZFTC0taDROZlNNZy04WGYyVGZxOEVvc3RMdDBGVjdOSThVeEYtVVBXTWhuQ19yd2hWZ2JSb1VBdElrd3ZoQ0lWdHcxal9YNHQxcWFOc0dxazlvTENhV0NoVWhZcG83Ri0wYTVyX3Yydmo1MElsM3p4dEFYLV9Ca3ZxbE5Pc0dEU3pMb2doM2RaRENzRGJRREtXejNkZFc2d0JzTDZJMmJ6dEVMUXNJS1ROTk9Kb0xSYWg2N19PN2l2WDNBVWkteUw4a3M0end2UjZGSmxOQ1VfQmJ2MXc?oc=5
 
-## What's changed - Added `virtualText` to a mod's prompt decorations: text drawn in the prompt box that never enters the draft or the submitted prompt - Added `cache_creation_5m_tokens` and `cache_creation_1h_tokens` to the OpenTelemetry `api_request` event, splitting cache writes by lifetime - Added `$.ui.view({ agentId })` for mods: shows an agent's transcript in the main view when you ask, and `$.ui.view({})` goe
+Nasdaq indices fall 2% as AI stocks lead Wall Street meltdown - Key factors explained CNBC TV18
 
-## 5. OpenAI CFO Sarah Friar warns companies face cyber risks with budget Chinese AI models - The Times of India
-Source: The Times of India (discovery)
-Published: 2026-10-14T18:11:00+00:00 | Age: 0.6 hours
-Scanned: 2026-10-14T18:45:22.211443+00:00
-URL: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdlpQb1NfOU4wSXJjSkhmalRxWF8wVFItelh2eEI4T3RsSUJFM05CQkhIU3c4c3NSZlNERUdMWWJSX1VWbXZXeXdkYjlqZURkb1hpLVZTM1FqX19aV25CTE1JeTlvUG1yRXkwcGdCYzZYSFV0c013d1UxbkhyTGwtbG0zc05UeGtJakVHNlFkR19UWWdYSWYxcmxJUEs2QlZNUDFORXdITmdaa2NiRExGRU1nNzhRaU5zdy03eTFNRTZxdENrTXk3RE9wUWdTWXV2eF9aMmlKTklkOHU5bUJqTHJ5ak1fNmpwS0J3TGQwR2NUdnByNTcxci1obW_SAYICQVVfeXFMTllsTXNoVnpYeGxVdVdlc2JsTUJDbFhYMDA2X3pYRThlNTktb0dUaVh5X016LXlkMmRtSVJ2bWNEV1FxZU9aQXl3OVJQeURTYzBMRFN1Y0NWWUUtaGc2Qm9SSmk2SGdoSXR2MzJ5MnhUWU1HOHo4YktzUjYwa2dfbVRZSG9sWFJja1N2ZExnVUlKaGcxelJOUXdQMG9uREdsM0lJdzFibFpya29za0pJZXJUR0JJdmJ4T3FyRktxUndWeVJuMjFTXy1PNVNHUVl6MGhOQ3RBazlsd0RRREE2QjJoLTNpMnhXSjVJWnh3aEtUa0U5Rll4QUJCTTJScnN5OWlR?oc=5
+## 4. iPhone vs. Android on privacy-invasive bloatware: Which lets users remove pre-installed apps? - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-14T22:25:57+00:00 | Age: 0.9 hours
+Scanned: 2026-10-14T23:19:41.109950+00:00
+URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWxsTWNfZlVsX2tJcHBUSlJBZjZRaUpVNnU5OG9hYnVkeG5ZMUFOa1NuaVlodGYxdjBBdnZ6WXN6NUtzTHBJRWl2N0pjcWJkRzlsU1VhaGZHa29BUmdsanc4R1Izbms4a2QzaHY1Q05JVDRKWFpRNUI1eE9ua0ZpVnZRSlRVZDFBQ3ZiV3h3?oc=5
 
-OpenAI CFO Sarah Friar warns companies face cyber risks with budget Chinese AI models The Times of India
+iPhone vs. Android on privacy-invasive bloatware: Which lets users remove pre-installed apps? Mashable
 
-## 6. Apate sends AI agents undercover to get scammed so they can gather fraud intelligence
-Source: techcrunch.com (reputable)
-Published: 2026-10-14T18:00:00+00:00 | Age: 0.8 hours
-Scanned: 2026-10-14T18:45:22.211443+00:00
-URL: https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/
+## 5. L&T Technology Services opens NVIDIA-powered AI manufacturing lab in Bengaluru - Prop News Time
+Source: Prop News Time (discovery)
+Published: 2026-10-14T22:00:39+00:00 | Age: 1.3 hours
+Scanned: 2026-10-14T23:19:41.109950+00:00
+URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxNcWRSY0xMS3M0Unh5V05pZGZndmxCcUNqSzFTTnlqeGxweUNZczA1TDZDbFFKeXhZdndnYzJCQ2dtdklUaDdHcU4tLWpsQzJiYXg4ajZFREI2RWtpektmcHQ2cm9vQXV0NGllamR6MHRIVlJhZlN1Q2tYN2FDRk5qY0Z2S2RBU0g3MWlOMjctMUFBTmZCNzNOTzJXajhXMkJITlQ0clpJdGFxNkZianVjR0gtNmtQU093LWQyeGQ2NzhUYXJKM3hrdnN3?oc=5
 
-Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.
+L&T Technology Services opens NVIDIA-powered AI manufacturing lab in Bengaluru Prop News Time
+
+## 6. Hyundai Motor's tech bets face headwinds as core business loses steam - The Korea Times
+Source: The Korea Times (discovery)
+Published: 2026-10-14T22:00:00+00:00 | Age: 1.3 hours
+Scanned: 2026-10-14T23:19:41.109950+00:00
+URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFpkekZqSldCS0VqS3E1di0yZVZVLWdzN2lEQTJpX0wySVNfODY4dXVINF9TUG5IbFY0MTR0akZNWXBfaDlBZmpfaUJPQVFZQ29aWTRQLTFkOG5yX1ZMcUJ4VXpMbHdramdQLWwzSlU0Nnk0ZDJLdXBzenFIU2taSnI2RENyMld5YUQ5NDU5OVlUcXRldTZlcmc3OVN4OFVrcmpmekc5b1psT0xGYmRIMXdQYkpDVnBIYjFpcDFGWEQ2V0nSAcgBQVVfeXFMUE9TMzQxR3lWN1VhUjdEN19sTW9PVGpDcllKMjdsWGVndGo4WnpKM2phRG5LY25IVl9aU1BITVl2MHVlakgwWTdOOXhjUjVtRENEd2czcTJHRDJ2djdOb1NBS21NQldYR09STVhCek9sY0EtSWJlSzFlbU9lM3J5LTcyems1eTBSRGEyeWdyT08yT05LSjloQXVaNlNQYkxBdkJROV9mV0JGaGQwUkZlSUFGS0sxakRYNjdaVTF0bDA4Wms1RjFYd0U?oc=5
+
+Hyundai Motor's tech bets face headwinds as core business loses steam The Korea Times
+
+## 7. GitHub availability report: September 2026
+Source: github.blog (primary)
+Published: 2026-10-14T20:01:35+00:00 | Age: 3.3 hours
+Scanned: 2026-10-14T23:19:41.109950+00:00
+URL: https://github.blog/news-insights/company-news/github-availability-report-september-2026/
+
+In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .
