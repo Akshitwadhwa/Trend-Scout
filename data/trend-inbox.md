@@ -2,54 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-15T13:33:35.232581+00:00
-Scanned: 2026-10-15T13:33:35.232581+00:00
+Updated: 2026-10-15T18:25:28.282420+00:00
+Scanned: 2026-10-15T18:25:28.282420+00:00
 Memory window: 72 hours
 
-## 1. Show HN: Mordiem – OpenAI-compatible API with multi-network failover
+## 1. Is Software Development Dead?
 Source: Hacker News (discovery)
-Published: 2026-10-15T13:31:39+00:00 | Age: 0.0 hours
-Scanned: 2026-10-15T13:33:35.229598+00:00
-URL: https://mordiem.com
+Published: 2026-10-15T18:20:48+00:00 | Age: 0.1 hours
+Scanned: 2026-10-15T18:25:28.279214+00:00
+URL: https://www.workingsoftware.dev/is-software-development-dead/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50103434
+Hacker News discussion: https://news.ycombinator.com/item?id=50107938
 
-## 2. ChatGPT Targets Ads to You Based on Your Prompts, Phone Number, and Email
-Source: Hacker News (discovery)
-Published: 2026-10-15T13:31:01+00:00 | Age: 0.0 hours
-Scanned: 2026-10-15T13:33:35.229598+00:00
-URL: https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50103427
-
-## 3. An AI-for-Climate Startup Won Nvidia’s Backing—After Putting the Climate Part on Ice - WSJ
-Source: WSJ (discovery)
-Published: 2026-10-15T13:25:00+00:00 | Age: 0.1 hours
-Scanned: 2026-10-15T13:33:35.229598+00:00
-URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxNak9mU2RoMUtpX2tSZlY3YTJwMms2UDZMVnNqTGJSTkdTTTBtdm5Cc3pHUUg4V2p2Um1SWmhTWGF1TUhIcmZZYWU3R2ZxYjVYRWRURDdHNXRUN0stSEU1STFrZ2t1Nko4RjFKRGF5NmRuX0RsMEhRMEhCNUFBQ0NoWmZ2LVpmVzR6MFZRTGlFVFRoLXhYQWZ6MjREMGRwb01EZWZBTjB5dTdTTXJjemVNVTE1MVFLTERoSmV6VG9NMmdxQ09aNFpVZm5XUQ?oc=5
-
-An AI-for-Climate Startup Won Nvidia’s Backing—After Putting the Climate Part on Ice WSJ
-
-## 4. Quick question: Who exactly is iPhone Handoff for? - The Verge
+## 2. Meta and Apple team up to make Muse AI models run better on Macs - The Verge
 Source: The Verge (discovery)
-Published: 2026-10-15T13:00:00+00:00 | Age: 0.6 hours
-Scanned: 2026-10-15T13:33:35.229598+00:00
-URL: https://news.google.com/rss/articles/CBMifkFVX3lxTE5RckdBMUVmZGJkVWlha2tGbHJFc3NZRGtGN01sQ3V2Q1NXX2FnOEI1NkNCRVhSZ0N2RHBaSl9nVFFHdXg5c2kwU29uM0cyRkVDQnZFMG1MSjFIWTRuTmxxdjJyQVBScVlkcHhpX01XSXVWZEJhZWxsZGpsams0UQ?oc=5
+Published: 2026-10-15T18:15:36+00:00 | Age: 0.2 hours
+Scanned: 2026-10-15T18:25:28.279214+00:00
+URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ3pPT0ljOXJuSHdsc29HaHNETzJ3cTdpbEJxRHIxcXFFOExEUGZybzJRZ2VCUXRzQ3FPQ0tCWTZXdzd6SlJYYlJsN3V3U1J4ZTZIQnJLOFdSOVhZNzF6bkNwemJnZUt2NkRHVGVVaTBhUjRpTU5OX3ZULXNaZmt0bUhOTQ?oc=5
 
-Quick question: Who exactly is iPhone Handoff for? The Verge
+Meta and Apple team up to make Muse AI models run better on Macs The Verge
 
-## 5. Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training - The Information
-Source: The Information (discovery)
-Published: 2026-10-15T13:00:00+00:00 | Age: 0.6 hours
-Scanned: 2026-10-15T13:33:35.229598+00:00
-URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1VnelFoWkRnQS1xdlZHNE5ma2RzUjZ6ZHdlNXYtOGdTZE94aERCaHNZNEs5TENsaWF6Z3otOVRRYWJncWFrSmR0YkVpc3B1b3pSYWlnN1JLcC1waVRJdkZ4NjlVUS02R015bkpfZm5VMWVSdnNWQVJUaXhFTFJXdGtKbnNpWkt5NXJOUlc0cGppU3BEVE5IUkpTUGNNY09QNlg0SWxGTk9wSDdBWHh5UVR3UXRHZV9STkE?oc=5
+## 3. Lombok Is Still Relevant in the Age of Java Records
+Source: Hacker News (discovery)
+Published: 2026-10-15T18:15:23+00:00 | Age: 0.2 hours
+Scanned: 2026-10-15T18:25:28.279214+00:00
+URL: https://swaranga.dev/posts/on-lombok/
 
-Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training The Information
+Hacker News discussion: https://news.ycombinator.com/item?id=50107843
 
-## 6. OpenAI CFO’s claim of cybersecurity risks about Chinese AI models driven by business interests amid open-weight competition: expert - Global Times
-Source: Global Times (discovery)
-Published: 2026-10-15T12:18:00+00:00 | Age: 1.3 hours
-Scanned: 2026-10-15T13:33:35.229598+00:00
-URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xa0ZsRk1PUHpYMlBmWkFxMVlheDlkODRneEFESDJqaUJGWXkwRDJ1ZGw0ZngyYTJYUDVFeUswbVdoa2Z0U0lsbjFfVll6MFEtMDBSTmhfRUZub0hmaE0xemxR?oc=5
+## 4. GitHub release: huggingface/transformers Release v5.20.0
+Source: github.com (primary)
+Published: 2026-10-15T18:05:36+00:00 | Age: 0.3 hours
+Scanned: 2026-10-15T18:25:28.279214+00:00
+URL: https://github.com/huggingface/transformers/releases/tag/v5.20.0
 
-OpenAI CFO’s claim of cybersecurity risks about Chinese AI models driven by business interests amid open-weight competition: expert Global Times
+# Release v5.20.0 ## New Model additions ### Muse Spark Open Muse Spark Open is a multimodal mixture-of-experts model from Meta that takes text, images, audio, and video as input and generates text. It has 816B total parameters (42B active per token) and a context window of up to 1,048,576 tokens shared across modalities. It is trained for agentic coding tasks such as multi-file editing, debugging, and tool use. Chec
+
+## 5. Everything announced in Apple's 'Welcome Home' release: New smart speakers, displays, and cameras - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-15T18:04:59+00:00 | Age: 0.3 hours
+Scanned: 2026-10-15T18:25:28.279214+00:00
+URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE9veXBpY3NMR2ZBQm42aXNGWmFFNVB0YVRrQ1NLYnRKV2RCRVNLeUZ1enUzd293Mzh1TE8tanMwQ3JGLUxXaGh2Rk1yRWtmQjdHSUtUeHFuaHp0ZXd4bUdUMGE0VWlUaF8yb3JBeWFPT0pmY2g0VDUxbXE0aw?oc=5
+
+Everything announced in Apple's 'Welcome Home' release: New smart speakers, displays, and cameras Mashable
+
+## 6. Federal Contracting, Race Bias Suit Ends After Regulation Change - Bloomberg Law News
+Source: Bloomberg Law News (discovery)
+Published: 2026-10-15T14:52:00+00:00 | Age: 3.6 hours
+Scanned: 2026-10-15T18:25:28.279214+00:00
+URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkUtdHFvM0Rtdk5qb2d5SExwdDF2ZnVBcjcwci1zbTIwWUV1RDdKMEFpbUo3cUdqZ2RQZnNBVEFYUmpveS1lTDBjY2RUNUVvTG8ycXFfX3Jkek15VDZtNVJGTW5oSVRuRjI1RU9ueWtJVUdhUVNRODlGLWd5U1RHOFNXNF9Ta3o5VWZsWGF3Zk1Qcm5QXzZ1a2NuSEs0WmJpLUhEbUJ6Yw?oc=5
+
+Federal Contracting, Race Bias Suit Ends After Regulation Change Bloomberg Law News
+
+## 7. Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’
+Source: techcrunch.com (reputable)
+Published: 2026-10-15T00:49:31+00:00 | Age: 17.6 hours
+Scanned: 2026-10-15T18:25:28.279214+00:00
+URL: https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/
+
+At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.
