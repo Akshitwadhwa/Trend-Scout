@@ -2,62 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-14T23:19:41.112331+00:00
-Scanned: 2026-10-14T23:19:41.112331+00:00
+Updated: 2026-10-15T01:35:49.413367+00:00
+Scanned: 2026-10-15T01:35:49.413367+00:00
 Memory window: 72 hours
 
-## 1. Anthropic Revenue Jumps to $16.8B in Quarter Before IPO
-Source: Hacker News (discovery)
-Published: 2026-10-14T23:17:47+00:00 | Age: 0.0 hours
-Scanned: 2026-10-14T23:19:41.109950+00:00
-URL: https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50096936
-
-## 2. Ablation is an autonomous reverse engineering system
-Source: Hacker News (discovery)
-Published: 2026-10-14T23:10:43+00:00 | Age: 0.1 hours
-Scanned: 2026-10-14T23:19:41.109950+00:00
-URL: https://github.com/Ablation-Tool/ablation
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50096870
-
-## 3. Nasdaq indices fall 2% as AI stocks lead Wall Street meltdown - Key factors explained - CNBC TV18
+## 1. Global chip-stock rout deepens as rate fears collide with AI funding woes - CNBC TV18
 Source: CNBC TV18 (discovery)
-Published: 2026-10-14T23:02:03+00:00 | Age: 0.3 hours
-Scanned: 2026-10-14T23:19:41.109950+00:00
-URL: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUTJhQ0U4NTlkMVEtTHVjUmhyenltNFgtUTJfNlF2RUwtLWg0TmZTTWctOFhmMlRmcThFb3N0THQwRlY3Tkk4VXhGLVVQV01obkNfcndoVmdiUm9VQXRJa3d2aENJVnR3MWpfWDR0MXFhTnNHcWs5b0xDYVdDaFVoWXBvN0YtMGE1cl92MnZqNTBJbDN6eHRBWC1fQmt2cWxOT3NHRFN6TG9naDNkWkRDc0RiUURLV3ozZGRXNndCc0w2STJienRFTFFzSUtUTk5PSm9MUmFoNjdfTzdpdlgzQVVpLXlMOGtzNHp3dlI2RkpsTkNVX0JidjF30gH6AUFVX3lxTE5RMmFDRTg1OWQxUS1MdWNSaHJ6eW00WC1RMl82UXZFTC0taDROZlNNZy04WGYyVGZxOEVvc3RMdDBGVjdOSThVeEYtVVBXTWhuQ19yd2hWZ2JSb1VBdElrd3ZoQ0lWdHcxal9YNHQxcWFOc0dxazlvTENhV0NoVWhZcG83Ri0wYTVyX3Yydmo1MElsM3p4dEFYLV9Ca3ZxbE5Pc0dEU3pMb2doM2RaRENzRGJRREtXejNkZFc2d0JzTDZJMmJ6dEVMUXNJS1ROTk9Kb0xSYWg2N19PN2l2WDNBVWkteUw4a3M0end2UjZGSmxOQ1VfQmJ2MXc?oc=5
+Published: 2026-10-15T01:24:36+00:00 | Age: 0.2 hours
+Scanned: 2026-10-15T01:35:49.411255+00:00
+URL: https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2N0Z09admIyX0RRZzZVbFFJclpwU29GclZFcVhOeVotMXVlUzR2NjNlOXZRbmI5cDE4dzM1NWFqb3AwZENkTHZ0d2w2ckJId0FUZlROM0c2Y2lyYjNnXzZaRkUtVVlLMUNUdEJ4LTRpd3d6S0xNeW1RSlNjQWR6dmtxX1NDUGkxLXF6WjM3Umh2OUhxaWxhYWdGU0Fyb19ONGpxX2hWZ2IxRlNtT1ZXcVU5SWk1aU85d1E?oc=5
 
-Nasdaq indices fall 2% as AI stocks lead Wall Street meltdown - Key factors explained CNBC TV18
+Global chip-stock rout deepens as rate fears collide with AI funding woes CNBC TV18
 
-## 4. iPhone vs. Android on privacy-invasive bloatware: Which lets users remove pre-installed apps? - Mashable
-Source: Mashable (discovery)
-Published: 2026-10-14T22:25:57+00:00 | Age: 0.9 hours
-Scanned: 2026-10-14T23:19:41.109950+00:00
-URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWxsTWNfZlVsX2tJcHBUSlJBZjZRaUpVNnU5OG9hYnVkeG5ZMUFOa1NuaVlodGYxdjBBdnZ6WXN6NUtzTHBJRWl2N0pjcWJkRzlsU1VhaGZHa29BUmdsanc4R1Izbms4a2QzaHY1Q05JVDRKWFpRNUI1eE9ua0ZpVnZRSlRVZDFBQ3ZiV3h3?oc=5
+## 2. Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive
+Source: Hacker News (discovery)
+Published: 2026-10-15T01:07:15+00:00 | Age: 0.5 hours
+Scanned: 2026-10-15T01:35:49.411255+00:00
+URL: https://morewrong.lol/?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive
 
-iPhone vs. Android on privacy-invasive bloatware: Which lets users remove pre-installed apps? Mashable
+Hacker News discussion: https://news.ycombinator.com/item?id=50097880
 
-## 5. L&T Technology Services opens NVIDIA-powered AI manufacturing lab in Bengaluru - Prop News Time
-Source: Prop News Time (discovery)
-Published: 2026-10-14T22:00:39+00:00 | Age: 1.3 hours
-Scanned: 2026-10-14T23:19:41.109950+00:00
-URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxNcWRSY0xMS3M0Unh5V05pZGZndmxCcUNqSzFTTnlqeGxweUNZczA1TDZDbFFKeXhZdndnYzJCQ2dtdklUaDdHcU4tLWpsQzJiYXg4ajZFREI2RWtpektmcHQ2cm9vQXV0NGllamR6MHRIVlJhZlN1Q2tYN2FDRk5qY0Z2S2RBU0g3MWlOMjctMUFBTmZCNzNOTzJXajhXMkJITlQ0clpJdGFxNkZianVjR0gtNmtQU093LWQyeGQ2NzhUYXJKM3hrdnN3?oc=5
+## 3. Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis
+Source: techcrunch.com (reputable)
+Published: 2026-10-15T01:01:32+00:00 | Age: 0.6 hours
+Scanned: 2026-10-15T01:35:49.411255+00:00
+URL: https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/
 
-L&T Technology Services opens NVIDIA-powered AI manufacturing lab in Bengaluru Prop News Time
+The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.
 
-## 6. Hyundai Motor's tech bets face headwinds as core business loses steam - The Korea Times
-Source: The Korea Times (discovery)
-Published: 2026-10-14T22:00:00+00:00 | Age: 1.3 hours
-Scanned: 2026-10-14T23:19:41.109950+00:00
-URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVFpkekZqSldCS0VqS3E1di0yZVZVLWdzN2lEQTJpX0wySVNfODY4dXVINF9TUG5IbFY0MTR0akZNWXBfaDlBZmpfaUJPQVFZQ29aWTRQLTFkOG5yX1ZMcUJ4VXpMbHdramdQLWwzSlU0Nnk0ZDJLdXBzenFIU2taSnI2RENyMld5YUQ5NDU5OVlUcXRldTZlcmc3OVN4OFVrcmpmekc5b1psT0xGYmRIMXdQYkpDVnBIYjFpcDFGWEQ2V0nSAcgBQVVfeXFMUE9TMzQxR3lWN1VhUjdEN19sTW9PVGpDcllKMjdsWGVndGo4WnpKM2phRG5LY25IVl9aU1BITVl2MHVlakgwWTdOOXhjUjVtRENEd2czcTJHRDJ2djdOb1NBS21NQldYR09STVhCek9sY0EtSWJlSzFlbU9lM3J5LTcyems1eTBSRGEyeWdyT08yT05LSjloQXVaNlNQYkxBdkJROV9mV0JGaGQwUkZlSUFGS0sxakRYNjdaVTF0bDA4Wms1RjFYd0U?oc=5
+## 4. Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’
+Source: techcrunch.com (reputable)
+Published: 2026-10-15T00:49:31+00:00 | Age: 0.8 hours
+Scanned: 2026-10-15T01:35:49.411255+00:00
+URL: https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/
 
-Hyundai Motor's tech bets face headwinds as core business loses steam The Korea Times
+At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.
 
-## 7. GitHub availability report: September 2026
-Source: github.blog (primary)
-Published: 2026-10-14T20:01:35+00:00 | Age: 3.3 hours
-Scanned: 2026-10-14T23:19:41.109950+00:00
-URL: https://github.blog/news-insights/company-news/github-availability-report-september-2026/
+## 5. SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount - CNBC
+Source: CNBC (discovery)
+Published: 2026-10-15T00:42:00+00:00 | Age: 0.9 hours
+Scanned: 2026-10-15T01:35:49.411255+00:00
+URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5
 
-In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog .
+SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount CNBC
+
+## 6. GitHub release: googleapis/python-genai v2.31.0
+Source: github.com (primary)
+Published: 2026-10-14T23:27:27+00:00 | Age: 2.1 hours
+Scanned: 2026-10-15T01:35:49.411255+00:00
+URL: https://github.com/googleapis/python-genai/releases/tag/v2.31.0
+
+## [2.31.0](https://github.com/googleapis/python-genai/compare/v2.30.1...v2.31.0) (2026-10-14) ### Features * **interactions:** Add gemini-4-argon to Model enum ([8554b07](https://github.com/googleapis/python-genai/commit/8554b07d0025e19361b7a10a6384cc143f3a8ea9)) ### Bug Fixes * Clear continuation state and preserve prompt feedback when continuation hop returns no candidates ([a0d809c](https://github.com/googleapis/
