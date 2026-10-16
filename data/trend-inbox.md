@@ -2,54 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-16T01:31:35.611972+00:00
-Scanned: 2026-10-16T01:31:35.611972+00:00
+Updated: 2026-10-16T07:22:01.836800+00:00
+Scanned: 2026-10-16T07:22:01.836800+00:00
 Memory window: 72 hours
 
-## 1. Cloudflare and OpenAI: making AI discovery better for everyone
+## 1. Antiviral immunity via telomerase-like reverse transcription in bacteria
 Source: Hacker News (discovery)
-Published: 2026-10-16T01:24:50+00:00 | Age: 0.1 hours
-Scanned: 2026-10-16T01:31:35.608925+00:00
-URL: https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/
+Published: 2026-10-16T07:09:23+00:00 | Age: 0.2 hours
+Scanned: 2026-10-16T07:22:01.833669+00:00
+URL: https://www.nature.com/articles/s41586-026-11250-8
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50112577
+Hacker News discussion: https://news.ycombinator.com/item?id=50115121
 
-## 2. The Tesla Roadster 2 Is Here—and It Flies - WIRED
-Source: WIRED (discovery)
-Published: 2026-10-16T01:22:00+00:00 | Age: 0.2 hours
-Scanned: 2026-10-16T01:31:35.608925+00:00
-URL: https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CSm5IS3VRT0VVUzlUR2ZpQlpXWG52OUFjZ2d6YmNsZnZ4RzB1N0JwcTVSdW12aUMyTTktZlhBYVRqcmZHWlJCZjFmTU5MRGl4dms5LXBjR2JBR1A1alJ3WlRB?oc=5
+## 2. Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling - KED Global
+Source: KED Global (discovery)
+Published: 2026-10-16T07:08:59+00:00 | Age: 0.2 hours
+Scanned: 2026-10-16T07:22:01.833669+00:00
+URL: https://news.google.com/rss/articles/CBMiekFVX3lxTFBYSnBNbEp5MEVxLVlZOU9VRXRIRE02UC12eG1YaHNlWXpnOG5ZSWdYMXZaSGpRSTQ4bFByUFdING56bFdNek53NUxMZjU1TmZMSHhVMmtJRngyZjBQeE5IdkxRTDVKajNHUmV0Vm5OX2c0TFVFak1jdndB?oc=5
 
-The Tesla Roadster 2 Is Here—and It Flies WIRED
+Samsung, SK Hynix power S.Korean stock rebound amid extended foreign selling KED Global
 
-## 3. Show HN: Crowd Supply – GoFundMe for hardware development
+## 3. Inference Cooperative
 Source: Hacker News (discovery)
-Published: 2026-10-16T01:09:49+00:00 | Age: 0.4 hours
-Scanned: 2026-10-16T01:31:35.608925+00:00
-URL: https://www.crowdsupply.com/
+Published: 2026-10-16T07:08:22+00:00 | Age: 0.2 hours
+Scanned: 2026-10-16T07:22:01.833669+00:00
+URL: https://inference.coop/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50112468
+Hacker News discussion: https://news.ycombinator.com/item?id=50115115
 
-## 4. The next developer interface is ambient intelligence
-Source: github.blog (primary)
-Published: 2026-10-15T19:39:27+00:00 | Age: 5.9 hours
-Scanned: 2026-10-16T01:31:35.608925+00:00
-URL: https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/
+## 4. IIT Delhi Robotics Programme 2026: Applications open for 5-month course, check eligibility and fees - Moneycontrol.com
+Source: Moneycontrol.com (discovery)
+Published: 2026-10-16T07:07:40+00:00 | Age: 0.2 hours
+Scanned: 2026-10-16T07:22:01.833669+00:00
+URL: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWEhyX1hQTi12MTB2Y3NlTGVwYWc3STBVaXRtd01IMldtMzRudnVuVE5hN1FMREYyaGVtazl4NVRGb013RUIzdlE2aXkxSk5hS3cwazBBRGZFWUFOV3gwMFE1dWNYOEZaZldaWklmWlI5UkNhbmFFeHBKSlphejkzSFFISmlVQjZKQ2JtR25ZZ1NhbkU3cU0zRjE0NW5hRDFOblZxQmQzTGdTRC1NLU1tZmtxSmtUR01aVGJqTm9oUm1CR3BsMm41cF9NUGQ1WGlDVVB2UF9Ka21HNFd0cmVoaHljdmxlYmZKaEVCM1VyWdIB9AFBVV95cUxQMHIzdVNKZ3lPNURFZVh6b3daR2ItMFd6VVdvN1RZOVRzbzN6bXppdmJBV00ydUNfZ1BmWVh1UEpFR0VtNk94SFRRODl3SFAwX2NzYmw0NnA0eE9feFhRN3JXQXB1NWFXdnlhRkg1SXlNclJwa19vYm50cXFqeGh6NE1lTHRVZWZMMmxpdW5qQ2R2cnJNQy1SbUJ2UTVYcF90OUljUW5TODI4LXBROXlkdzE0dUxmQW5nRzNScUN5bkM2RVJWT0lHaVdvN3ZoY0hjWGRjV2ZMdUxka05sQVZGVWQ4RnNGTTFBdFJLTjh5M1lHOUFn?oc=5
 
-AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog .
+IIT Delhi Robotics Programme 2026: Applications open for 5-month course, check eligibility and fees Moneycontrol.com
 
-## 5. Staying Evergreen: How we automated secure access and repo hygiene in a shared org
-Source: github.blog (primary)
-Published: 2026-10-15T18:00:00+00:00 | Age: 7.5 hours
-Scanned: 2026-10-16T01:31:35.608925+00:00
-URL: https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/
+## 5. Meta's new Muse Spark AI model focuses on coding and task automation - Moneycontrol.com
+Source: Moneycontrol.com (discovery)
+Published: 2026-10-16T04:07:01+00:00 | Age: 3.3 hours
+Scanned: 2026-10-16T07:22:01.833669+00:00
+URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzFRd0E1emFtV1J4NVVfT0NDenUyLUZuNWZzMXRaNXFvZGlueFpMT1VSb0h2TE1IZ1RWMkpub1p4WHNpREJvUXd3TmExMWJSb01GYVFkOUR1dnBxeFRVbTdYN1NEZ1VKVXE2MlBVNkFZT2E3cEI0RnpQQXh2N3RnSFVtbk1tLTdLUGdlQkpjX2ZIeUxGM212Nk04bEhERk95bXkxRVdHekxFUnF2UlRReWt1THFIdjFGTnVHcDZiYURzV3BRcHhDLTRR0gHPAUFVX3lxTE9Cb3YtTUJtTldlZmRDTVFtZWhVYXpQWjI1Wm04ZzEybXRyOTA1TTQ2TlhYUEI1UzdReXlDZXlmd0xQU19GT3BBMXdFallEbGFDb0VCcE1NRjNUUTFVTklYeS00SWt4MnZlSzVjakFTRkhjZ2ZENUU0UDhrMkVrWmNiektHR0NHS3FuQm41YWpnMjYycnZhZ3dhOWlMaVJoRFJnV2licW9zenVhZWYyRFVGa2JXZ3k5SEVSa3FhU241dEFBaVhrYlowenhOYkdCNA?oc=5
 
-Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog .
+Meta's new Muse Spark AI model focuses on coding and task automation Moneycontrol.com
 
-## 6. Federal Contracting, Race Bias Suit Ends After Regulation Change - Bloomberg Law News
-Source: Bloomberg Law News (discovery)
-Published: 2026-10-15T14:52:00+00:00 | Age: 10.7 hours
-Scanned: 2026-10-16T01:31:35.608925+00:00
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQYkUtdHFvM0Rtdk5qb2d5SExwdDF2ZnVBcjcwci1zbTIwWUV1RDdKMEFpbUo3cUdqZ2RQZnNBVEFYUmpveS1lTDBjY2RUNUVvTG8ycXFfX3Jkek15VDZtNVJGTW5oSVRuRjI1RU9ueWtJVUdhUVNRODlGLWd5U1RHOFNXNF9Ta3o5VWZsWGF3Zk1Qcm5QXzZ1a2NuSEs0WmJpLUhEbUJ6Yw?oc=5
+## 6. GitHub release: anthropics/claude-code v2.1.301
+Source: github.com (primary)
+Published: 2026-10-15T19:22:06+00:00 | Age: 12.0 hours
+Scanned: 2026-10-16T07:22:01.833669+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.301
 
-Federal Contracting, Race Bias Suit Ends After Regulation Change Bloomberg Law News
+## What's changed - Added `CLAUDE_CODE_RETRY_WATCHDOG_MAX_USAGE_LIMIT_WAIT_MS` so unattended retry mode (`CLAUDE_CODE_RETRY_WATCHDOG`) ends a request at a usage limit that resets too far away instead of waiting - Added OpenTelemetry tracing guidance to the `claude-api` skill, including setting up trace destinations with the `ant` CLI - Added the `%` motion to vim mode: jump to the matching bracket, alone or with d/c/
