@@ -2,62 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-17T19:33:24.618978+00:00
-Scanned: 2026-10-17T19:33:24.618978+00:00
+Updated: 2026-10-17T22:28:36.961411+00:00
+Scanned: 2026-10-17T22:28:36.961411+00:00
 Memory window: 72 hours
 
-## 1. Show HN: Fundstash – expense tracker that parses bank SMS on-device, no cloud
+## 1. Apple TV 4K with Siri AI announced: Price, release date, and more. - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-17T22:24:40+00:00 | Age: 0.1 hours
+Scanned: 2026-10-17T22:28:36.959788+00:00
+URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE00dEpmQk10ZThZdXFiWGVPZUZNWXRjWEw0d2I3Vjg3N3BtU1kzWkszMTdOMUlDR0lUY2FvMXdIelh3MmtKZTY0eEo4RDVmcXdHSDZRWHMxc1R0VnhuVFFQc1AxbXF4UHh6YjlxcWF6TUdxRnpK?oc=5
+
+Apple TV 4K with Siri AI announced: Price, release date, and more. Mashable
+
+## 2. Cloudroom – Every agent. One app
 Source: Hacker News (discovery)
-Published: 2026-10-17T19:26:52+00:00 | Age: 0.1 hours
-Scanned: 2026-10-17T19:33:24.616111+00:00
-URL: https://fundstash.app/
+Published: 2026-10-17T22:23:39+00:00 | Age: 0.1 hours
+Scanned: 2026-10-17T22:28:36.959788+00:00
+URL: https://www.cloudroom.dev
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50134243
+Hacker News discussion: https://news.ycombinator.com/item?id=50135735
 
-## 2. Israel makes propaganda video featuring AI generated IAMDDB without her consent
+## 3. Proposal: Every vulnerability report < HIGH is immediately public
 Source: Hacker News (discovery)
-Published: 2026-10-17T19:26:43+00:00 | Age: 0.1 hours
-Scanned: 2026-10-17T19:33:24.616111+00:00
-URL: https://twitter.com/beeechimblind/status/2111227318534279501
+Published: 2026-10-17T22:11:50+00:00 | Age: 0.3 hours
+Scanned: 2026-10-17T22:28:36.959788+00:00
+URL: https://curl.se/mail/lib-2026-10/0006.html
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50134241
+Hacker News discussion: https://news.ycombinator.com/item?id=50135636
 
-## 3. Exclusive | Tesla’s Energy Boss Leaves the Company - WSJ
-Source: WSJ (discovery)
-Published: 2026-10-17T19:16:54+00:00 | Age: 0.3 hours
-Scanned: 2026-10-17T19:33:24.616111+00:00
-URL: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWgxb0xjY25vNUZPTGN5RDRIMW0tcnpaUjBpNlRWSm1fcjJ1SnBYck9rcEVwX3NjNjduRzBYemlMaXNtMnRtTmp0bkxsMmZMTHpmSE04Wi1BUjVIVlRZYjE1WERkbFB5aG5namtfSUJoVzJWdVdObVZGejc0M0l3ZkhCTnVNUWxK?oc=5
+## 4. Daylight saving time end: When the clocks change soon - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-17T22:07:14+00:00 | Age: 0.4 hours
+Scanned: 2026-10-17T22:28:36.959788+00:00
+URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxNNUlXOU1MNUxsamdITXVabXRuMmJZN09zcUxZNkZiWDRzMzgydWo5UkpKaGM2VjZQQTJCRFBwRElMVjN3Tm1EY1BXV0hveGRPTEViZktTMXBzMlQ5V3E1UU5iTy1BUTRQbjc2ZlJDX2ZhZjU1eUUyLVFCb1VYU0FpX19Taw?oc=5
 
-Exclusive | Tesla’s Energy Boss Leaves the Company WSJ
+Daylight saving time end: When the clocks change soon Mashable
 
-## 4. Replit is no longer working with Anthropic, CEO says
-Source: techcrunch.com (reputable)
-Published: 2026-10-17T18:48:08+00:00 | Age: 0.8 hours
-Scanned: 2026-10-17T19:33:24.616111+00:00
-URL: https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
+## 5. (Yonhap Interview) DeepX eyes '1st mover' strategy in global physical AI market through partnerships with Intel, AMD - Yonhap News Agency
+Source: Yonhap News Agency (discovery)
+Published: 2026-10-17T22:00:06+00:00 | Age: 0.5 hours
+Scanned: 2026-10-17T22:28:36.959788+00:00
+URL: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OZEVMZHlxVlBZTXUzdEkzUFBFNDlrTldYYUUzZUJGeDZOd08zTXNoblFsMENLV1NRZDk2eDc1MjFwN2FwSUNRaXFKNUJwMGlVWXBIeFdnSVk3Zw?oc=5
 
-Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
+(Yonhap Interview) DeepX eyes '1st mover' strategy in global physical AI market through partnerships with Intel, AMD Yonhap News Agency
 
-## 5. Replit is no longer working with Anthropic, CEO says - TechCrunch
-Source: TechCrunch (discovery)
-Published: 2026-10-17T18:48:08+00:00 | Age: 0.8 hours
-Scanned: 2026-10-17T19:33:24.616111+00:00
-URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFoxYWFYWWFqQTRraXdReXZYYmo5S0ZabG04MmlMbnp5R1VoMUsyLWpIMVg0bUhnOUNqMmxZV05BWm1DRVg4QlhONW9qbUo5UktELXhFMmc4VXhKMzhPbGxuZ2l0cjhGdE1MaEtPU0hBNzdqbTZPaEFHRENkVU9hcG9ieFhDalBPSUNZSEJGRQ?oc=5
+## 6. Wearable robots offer mobility to people with disabilities in Seoul - The Korea Times
+Source: The Korea Times (discovery)
+Published: 2026-10-17T22:00:00+00:00 | Age: 0.5 hours
+Scanned: 2026-10-17T22:28:36.959788+00:00
+URL: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZjVyWWRUTjU1cF9maVZiQnBnbDg2ZG5YQ3BZS3BoUFRZRTN3LTE2dWt0UjlwRWJJTHVkUFhJR214VjNYVkc5MFRWTW5IWGdxajFDVEF1bFhYM3lSM0xGMHE3OUxCVW5oYUNORWxBMm1pTUZjaWZaOUNBT19sazJqclFmenRfQ1Z2bHl4SVlJOHdUN0tadUJ6SFRSZUZiWHRFT05YckZLTXhLV0VOZU9IUXJnU2NneFZRNUd6NTBTTW_SAcYBQVVfeXFMTnFCTG13RjBaZjhXQzRpaXFDOHFkcWxkVVZBejUwNUF1LThyMld4dlZKU1hGYmVSSEdwTHFBS056ZVBMSlM1bjMzNTFKazVTLThpU0l1X0tpbm1mbzZnVFNJOUVYNlZ3dGZNRkphWlZkWjlFVGpSOVVOZ1I2OUdITEZCYlZENS1obXFtR3RQaEpUNDFaMzU1NVMzcGp2OVBnX242RUJtZTNYaklnREZUdjZpTjJLNGo0dUtkXzZrdnBVWS1maEJn?oc=5
 
-Replit is no longer working with Anthropic, CEO says TechCrunch
+Wearable robots offer mobility to people with disabilities in Seoul The Korea Times
 
-## 6. Taste becomes consumer tech's new moat - Axios
-Source: Axios (discovery)
-Published: 2026-10-17T15:54:20+00:00 | Age: 3.7 hours
-Scanned: 2026-10-17T19:33:24.616111+00:00
-URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVdoaFZURTRvMWNrd2kwQkp0ZVZjcUpLMEhzUnFiZk1MTmNzemVsQ2dWX1RsQkZabzZhMlJLX1VhQWhsSDFmYng4S1hfZnhVNmIzelFZUjA3RU0xcmhLTkxpWV8wMnZjalJqcDM1c295dkpuSDdTRjJKdVk5MmJ0MGdqNjdOckhHTnJadw?oc=5
+## 7. Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-17T20:37:57+00:00 | Age: 1.8 hours
+Scanned: 2026-10-17T22:28:36.959788+00:00
+URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5
 
-Taste becomes consumer tech's new moat Axios
+Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel Mashable
 
-## 7. GitHub release: openai/openai-python v3.32.0
+## 8. GitHub release: openai/openai-python v3.34.0
 Source: github.com (primary)
-Published: 2026-10-16T20:17:26+00:00 | Age: 23.3 hours
-Scanned: 2026-10-17T19:33:24.616111+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.32.0
+Published: 2026-10-17T20:34:04+00:00 | Age: 1.9 hours
+Scanned: 2026-10-17T22:28:36.959788+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.34.0
 
-## [3.32.0](https://github.com/openai/openai-python/compare/v3.31.0...v3.32.0) (2026-10-16) ### Features * **api:** add cache settings and key options [2/2] ([#4087](https://github.com/openai/openai-python/issues/4087)) ([325da45](https://github.com/openai/openai-python/commit/325da45934ddb1c1b6a0bed1681a8cf46c9a8712)) * **api:** add prompt-based voice creation ([#4091](https://github.com/openai/openai-python/issues/
+## [3.34.0](https://github.com/openai/openai-python/compare/v3.33.0...v3.34.0) (2026-10-17) ### Features * **api:** add degraded external storage status ([#4097](https://github.com/openai/openai-python/issues/4097)) ([b216cb2](https://github.com/openai/openai-python/commit/b216cb2fbdefebba6f3997a180510f9e2b6b41af)) * **api:** add Realtime Translation WebSocket sessions ([#4095](https://github.com/openai/openai-python
