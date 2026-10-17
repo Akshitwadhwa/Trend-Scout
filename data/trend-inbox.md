@@ -2,62 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-17T07:04:12.561023+00:00
-Scanned: 2026-10-17T07:04:12.561023+00:00
+Updated: 2026-10-17T12:16:58.119567+00:00
+Scanned: 2026-10-17T12:16:58.119567+00:00
 Memory window: 72 hours
 
-## 1. Tech wrap this week: Samsung Galaxy F70 5G, Tecno Spark 50S 5G and Amazon Bee devices - CNBC TV18
-Source: CNBC TV18 (discovery)
-Published: 2026-10-17T06:46:07+00:00 | Age: 0.3 hours
-Scanned: 2026-10-17T07:04:12.557788+00:00
-URL: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTXFNZ2FYWF9BbWM5V3JOX3l5aXJTaEltbmZOQkw2MUFvNEc4ZWlIQjFPbS1YYVU1WjZFZ3AyMWY4cHhPemI2MUpqRmJUWDFGY01PZGtpMFljRzhwMU1oOS1fenM2OVdqd3VxZWhfa1ZhNzNPQWtrWkh1dTBCS2I4a0pDLVNCNXJCZFpHOVB6Z1o1OVdQZG04ei1FakpMcTdtTmdTTGtlMzQyZUlfZnRQM01QMG9Ud1BYODItbS1RR2JGR0YxajB5NFptcjDSAdIBQVVfeXFMUHktb3hDSzN4VDdjakpwMDR6NVgtX1czdHYxTE5RZnlXaXVGX1IyaW5ib2Rpb2REUG1wVFUzS1F3Y2MyVXAyek5IYlNiNDcxYmNUQ0FnTU5xT3c2aEp4LThjWnhPa1VTbnZjZzRxRHZyMXUybWlMVmJDUUg4TUNBcUE0WmZjWHpEbndfc2hjYzNkbVVTQ1luaERUV3lqT1Vfc2lqUlpyVTJ5ZEREbE1SOFc0MmdZdldLM205cTNPNjFvRmZQODRUWDg2ZDh2aldRZ1RB?oc=5
-
-Tech wrap this week: Samsung Galaxy F70 5G, Tecno Spark 50S 5G and Amazon Bee devices CNBC TV18
-
-## 2. Decomp.dev Shuts Down Because AI Has Made It Too Easy to Decompile Games
+## 1. Show HN: Reverse engineered my standing desk firmware
 Source: Hacker News (discovery)
-Published: 2026-10-17T06:44:13+00:00 | Age: 0.3 hours
-Scanned: 2026-10-17T07:04:12.557788+00:00
-URL: https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/
+Published: 2026-10-17T12:05:44+00:00 | Age: 0.2 hours
+Scanned: 2026-10-17T12:16:58.116621+00:00
+URL: https://twitter.com/vinayjn7/status/2111387895646794180
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50128576
+Hacker News discussion: https://news.ycombinator.com/item?id=50130367
 
-## 3. What has happened to Clipper2 development?
+## 2. Every game of chess ends prematurely
 Source: Hacker News (discovery)
-Published: 2026-10-17T06:39:46+00:00 | Age: 0.4 hours
-Scanned: 2026-10-17T07:04:12.557788+00:00
-URL: https://github.com/AngusJohnson/Clipper2/discussions/1118
+Published: 2026-10-17T12:00:56+00:00 | Age: 0.3 hours
+Scanned: 2026-10-17T12:16:58.116621+00:00
+URL: https://www.infinitelymore.xyz/p/chess-games-end-one-move-early?r=17mpnk&selection=52eafe8d-def4-4b92-86d2-3b593409d6d2&utm_campaign=post-share-selection&utm_medium=web&aspectRatio=instagram&textColor=%23ffffff&bgImage=true&triedRedirect=true
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50128553
+Hacker News discussion: https://news.ycombinator.com/item?id=50130333
 
-## 4. What is Starshield? SpaceX’s Starlink-based network at the heart of Ukraine’s battlefield crisis - The Times of India
-Source: The Times of India (discovery)
-Published: 2026-10-17T05:53:00+00:00 | Age: 1.2 hours
-Scanned: 2026-10-17T07:04:12.557788+00:00
-URL: https://news.google.com/rss/articles/CBMiiAJBVV95cUxQT2JneWhjbFpUUXd4MDJlWXlxNnEyYzUzbFdpMC1aNDZad2lqWGlzcE8xRUt1RDRWcV9lN2hUWnFuWmFpSUdrUk1HdGFObkE0dGVTczJwcWVfbVBlOTJIMjgwRDVRTnJRNlVyQkV4M0Y2dmZBSmVBbzdxQTl2aXF4V3kwR2ZBelhZQ1RKYnVHb21YNnEtZ2FVMTVUekRPanZQZHViV3JEZEZxUW5FcTdGeThYVnFMbnJmaHp3Qy1hQkoyY2RXU2JVRGVzRE1uaWVmQ3dEUUEwTG11dUM2ZU9UaWhlTHdsSlM1LVhTNkd6WnhMaWljTHlUSDU3b1Fnb2lLYTN2WDdUeE3SAY4CQVVfeXFMT1BKSkQyU1pCX3BGYUhRVUxvQWxHVE9kajFDSkxkU0NYMmhpcTNGQ09ZWjRBZlMyQnVPbWlBSlZrR0lNNG0zN0pBT3lpcUN4NHdSMWgtdG9PYnB1MWdzZU5iQ0p3cnVITjhKeVE3S3BCTGVjSk14Vjh4SFM0SzYwSkpETnpIQWxteHhjblRwQVhTdUhTZWQtOFNkVWVoY1E2dDhKQjJwdGs0MEl1Yzc2WVVDcHlJaHhvNVJXWUxTbnYwUVY1akZLUjFWUWhVbEdJaDVmQ0tIOFhLRnJQNmFBeXpmeGIyT1Q5Y01rRmdqRkFKTXJBRjJzMTNtNkJPbmx2aHZrWE5SQnUtdXExdXpB?oc=5
+## 3. $50M for German VPPs, $45M for Swedish materials discovery, new partners at CIV, Overture - Axios
+Source: Axios (discovery)
+Published: 2026-10-17T11:51:38+00:00 | Age: 0.4 hours
+Scanned: 2026-10-17T12:16:58.116621+00:00
+URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkUxT0ppTldCSkNEZnBaSkpXeWpQVTloVVNVSEtNazJibjNKQnRiQ1l6ZzBoWEYxdjZ6cXN6WFNuZ1BMVTk1YzF4VWJVNVdlWUl2cnVVbTBRR2ZocEpqMEV1eEJFV0VJRW5QMUk3Yy1PUWU3OUljbUtnUDBvWG1YOEVoUllZTlhGNE1hcUtGOWE2YUVV?oc=5
 
-What is Starshield? SpaceX’s Starlink-based network at the heart of Ukraine’s battlefield crisis The Times of India
+$50M for German VPPs, $45M for Swedish materials discovery, new partners at CIV, Overture Axios
 
-## 5. Apple's iPhone 16 gets a major discount at Amazon Great Indian Festival: Check price, discount offers | Technology News (HT Tech) - Hindustan Times
-Source: Hindustan Times (discovery)
-Published: 2026-10-17T05:31:10+00:00 | Age: 1.6 hours
-Scanned: 2026-10-17T07:04:12.557788+00:00
-URL: https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT213MU1RY3hlNzhJb1RoQVpvc3p5dWFJbklCMmRIT2V6a01fM0hNcHZpU0ZBdExyLU1SQl93OHVWNWVoMUFKSERYYmRraGlNUDJaRW00a3dSTzdOZkpZbHlkQkhLTnNMbWplMmdrYnZfQVRJb0o5UGdFcU1BangwMXZnYUFyYVBRQm0wdTZkcE9uTk13VHdRU3FZUkFENjh2YkhCU3p0OXNSWUY4c0F5amZMa0o2SWJKdWtZZFh3OTE0Ry1TcDdoSlVSblpyX1N2X2hRMVQ4MkZTU3V1WGFHUnlIaU03N0hQakpGYTM0bjhwOTFEUFA4c9IB-AFBVV95cUxOT213MU1RY3hlNzhJb1RoQVpvc3p5dWFJbklCMmRIT2V6a01fM0hNcHZpU0ZBdExyLU1SQl93OHVWNWVoMUFKSERYYmRraGlNUDJaRW00a3dSTzdOZkpZbHlkQkhLTnNMbWplMmdrYnZfQVRJb0o5UGdFcU1BangwMXZnYUFyYVBRQm0wdTZkcE9uTk13VHdRU3FZUkFENjh2YkhCU3p0OXNSWUY4c0F5amZMa0o2SWJKdWtZZFh3OTE0Ry1TcDdoSlVSblpyX1N2X2hRMVQ4MkZTU3V1WGFHUnlIaU03N0hQakpGYTM0bjhwOTFEUFA4cw?oc=5
+## 4. Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-17T08:26:56+00:00 | Age: 3.8 hours
+Scanned: 2026-10-17T12:16:58.116621+00:00
+URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5
 
-Apple's iPhone 16 gets a major discount at Amazon Great Indian Festival: Check price, discount offers | Technology News (HT Tech) Hindustan Times
-
-## 6. GitHub release: openai/openai-python v3.33.0
-Source: github.com (primary)
-Published: 2026-10-17T00:29:04+00:00 | Age: 6.6 hours
-Scanned: 2026-10-17T07:04:12.557788+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.33.0
-
-## [3.33.0](https://github.com/openai/openai-python/compare/v3.32.0...v3.33.0) (2026-10-16) ### Features * **api:** add safety identifiers to image requests and responses ([#4093](https://github.com/openai/openai-python/issues/4093)) ([c969e32](https://github.com/openai/openai-python/commit/c969e32ebb325b5910aff4543187fedc5527e172)) * **api:** share Decisions cache breakpoint parameter type ([#4092](https://github.co
-
-## 7. GitHub release: anthropics/claude-code v2.1.302
-Source: github.com (primary)
-Published: 2026-10-16T20:53:06+00:00 | Age: 10.2 hours
-Scanned: 2026-10-17T07:04:12.557788+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.302
-
-## What's changed - Added `CLAUDE_CODE_AUTO_MODE_MODEL` to choose the model the client-side auto mode classifier uses; it does not change the model for server-side auto mode - Added an `Idle compaction` row to `/config` for turning idle compaction off or back on; the notices shown after an idle compaction now say how to turn it off - Added a notice to `/design-sync` and `/design-login` that standalone Claude Design (
+Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel Mashable
