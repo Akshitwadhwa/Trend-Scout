@@ -2,46 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-18T07:18:57.685097+00:00
-Scanned: 2026-10-18T07:18:57.685097+00:00
+Updated: 2026-10-18T12:40:42.424616+00:00
+Scanned: 2026-10-18T12:40:42.424616+00:00
 Memory window: 72 hours
 
-## 1. If you don't run your own LLM proxy how the fuck do you even know whats going on
+## 1. Uh filter Claude Code plugin
 Source: Hacker News (discovery)
-Published: 2026-10-18T07:12:11+00:00 | Age: 0.1 hours
-Scanned: 2026-10-18T07:18:57.682241+00:00
-URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/
+Published: 2026-10-18T12:33:55+00:00 | Age: 0.1 hours
+Scanned: 2026-10-18T12:40:42.421745+00:00
+URL: https://github.com/amirzak/claude-code-voice-uh-filter
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50138678
+Hacker News discussion: https://news.ycombinator.com/item?id=50140542
 
-## 2. Jetson Thor Orin Nano devices and 1000s of prebuilt models
+## 2. How to Make Your Own Flying Car AI Video (Make a Tesla Roadster AI Video)
 Source: Hacker News (discovery)
-Published: 2026-10-18T06:58:39+00:00 | Age: 0.3 hours
-Scanned: 2026-10-18T07:18:57.682241+00:00
-URL: https://embedl.com/
+Published: 2026-10-18T12:17:30+00:00 | Age: 0.4 hours
+Scanned: 2026-10-18T12:40:42.421745+00:00
+URL: https://roadster-ai.net/blog/how-to-make-roadster-ai-video
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50138585
+Hacker News discussion: https://news.ycombinator.com/item?id=50140420
 
-## 3. More drug, semiconductor firms eyeing Hong Kong for expansion, OASES head says - South China Morning Post
-Source: South China Morning Post (discovery)
-Published: 2026-10-18T06:54:46+00:00 | Age: 0.4 hours
-Scanned: 2026-10-18T07:18:57.682241+00:00
-URL: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb05qYmFtMi1feVV4YXcxX0dab3NOamU4Z3RyalQxYVBoRU0xblNtWnU5TllJcXRPTWh4NDctR2ZRVDdiemg3Ry0xR3hCaGJzTVg0NTZyd0hHX0RGaUU3MkFYQkF4V1owR05LcDNNZGdvWFBWMXZ1eWVsQWRzMjBwamJLMmFuT1RHbDVreWFjM3pwSW5sd0FzbzY3Z2s0UFRZMzd3Q2JldGIwLTEtZlR1Y1dzV1BmR1kzYnk3RDE0dGZGM3IyRDZuMTN0YlR6MEpVNjdyZ2lKY05mYnhLQ2xiX1ZCYUE5SGd6R0E?oc=5
+## 3. Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters
+Source: Reuters (discovery)
+Published: 2026-10-18T12:09:43+00:00 | Age: 0.5 hours
+Scanned: 2026-10-18T12:40:42.421745+00:00
+URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLVd3RU5QdzNwZHd0cUNCbUQxM3B6M2JOTXZZbEE4b3Y4czkxSjBuNklIRXU2S1VyRld6WTlRQUdlZkN3TGNRcng5cjR6ZEViNXNqcHh2RnlRU2hWVXRPUVFjVXRvd2FaaTVkd002aUk4WHlEQ2wxTGk3alF5S0FUTGNMUXF2dV9QUjk4eThjcWVPaVBLYzc2c0NUaUN4UUVMcVZTSERiMDE5VXp0NDdoVFpuS2E0TGZoUnBrRTExcnZDRlJia1VNcU40SUxQcE1y?oc=5
 
-More drug, semiconductor firms eyeing Hong Kong for expansion, OASES head says South China Morning Post
+Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports Reuters
 
-## 4. Musk's criticism of Samsung, SK's memory chip pricing runs counter to market logic: expert - The Korea Times
-Source: The Korea Times (discovery)
-Published: 2026-10-18T05:52:03+00:00 | Age: 1.4 hours
-Scanned: 2026-10-18T07:18:57.682241+00:00
-URL: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd3drMmc2UnhhendDaWJFSnFMaDkwR0dyUHdXSl9pSjFMbFRDQUNEWGNkWFc3UEdULS1wV3Y2aXN1STJQU0Zhc1JzNlp0dXNrT09iYzkzQl9MekJyTGI3N0tNMUYxYnJVQnVGTF9PMXRyYjN0REMtbUJYWHA5cER1MGxZZ3NYVDRBQVhua0hQeV9TTV9hSzdzYjEybVZlRlY0Y083OHlISkNEbzVISUhadGNlXzlFbGNnd2NGLUlmOHk5Ym1zR0djX1c0TDBocHZhNDlhaFpZMm5wTXpmTmJaTNIB4AFBVV95cUxNd3drMmc2UnhhendDaWJFSnFMaDkwR0dyUHdXSl9pSjFMbFRDQUNEWGNkWFc3UEdULS1wV3Y2aXN1STJQU0Zhc1JzNlp0dXNrT09iYzkzQl9MekJyTGI3N0tNMUYxYnJVQnVGTF9PMXRyYjN0REMtbUJYWHA5cER1MGxZZ3NYVDRBQVhua0hQeV9TTV9hSzdzYjEybVZlRlY0Y083OHlISkNEbzVISUhadGNlXzlFbGNnd2NGLUlmOHk5Ym1zR0djX1c0TDBocHZhNDlhaFpZMm5wTXpmTmJaTA?oc=5
+## 4. Apple Store Staff Told to Warn Shoppers There May Be No iPhone Duo Stock for Walk-In Buyers on Launch Day - International Business Times Australia
+Source: International Business Times Australia (discovery)
+Published: 2026-10-18T11:38:42+00:00 | Age: 1.0 hours
+Scanned: 2026-10-18T12:40:42.421745+00:00
+URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXBwdFRNU2pzaUlGM0R6bExXYm50RTV3bU50U2phQ01TcFlmalY3blhxN1R4eXpodlRlbDhWcjVJSS1wTEJHU1pwSmY3TVlISjU2dDlzcmNfTnY4TTdoeEdoSjIxb05lcVQ1U0Z4YnRUdlBWVm9ub254VXNwY3VTUk93?oc=5
 
-Musk's criticism of Samsung, SK's memory chip pricing runs counter to market logic: expert The Korea Times
+Apple Store Staff Told to Warn Shoppers There May Be No iPhone Duo Stock for Walk-In Buyers on Launch Day International Business Times Australia
 
-## 5. Apple AirPods 4 price drops during Amazon Great Indian Festival sale, making them worth buying | Technology News (HT Tech) - Hindustan Times
-Source: Hindustan Times (discovery)
-Published: 2026-10-18T05:30:50+00:00 | Age: 1.8 hours
-Scanned: 2026-10-18T07:18:57.682241+00:00
-URL: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOazZPUllXb1RRWkZsaTFxckdFMEJMV1ZNel9jQUZiVkRuZS1oR1hVbklOcnFXVDhsLVNWbjJDaUV5XzR1bmdsaURFVXVtRW5MYVJxa2tEUDliMXcxa3JhV0ZDRlp5X2ZhS0tXNnhRZEU1UWhqUEJBNFlWSVkzMkoxSGJIUlBKTXUzN0MtYjRUNWlRSVRpZ2d2eXRmLTNwTGtKcUlDa29fT2hWWmhBTGI4enlicjhCQXgxcW9raGdfX2E5cnRwcnVBdnFrYW03a2doUlI3dDRVemszaFUzUl9nNzA2UEhXMWhOdFl1adIB8gFBVV95cUxOVC1RT3IwbThCMUVUbEs4XzlobWkwOFJnTVJaRk1KVnNRdkRyUGJqS2ttTTZ6YlNRdHlvWE56cXFHak5jSS1vYU9ZN09sQUNPYnZNYldsWm42VGV5N2FIT3FWeTlnbUgzVEdPNkFBSnkweG1yUnZZQndhUWJqaU9TanZXSDBBeXBQVVF0VkRvODFoaHVleDlKR0VqWGJBS1E5RWRtbjNaTHoycEdMWXFFRkJYMGc3UEE5YUxxTDVXYkl5cFdVTnExTldVZDZGeHRpSGpnQ21oZlA4MmZFLUlncEtUSGpIMlFRWkR0RFRHb1R4QQ?oc=5
+## 5. Microsoft pulls out of UK data center deal with Nscale: Telegraph - The Economic Times
+Source: The Economic Times (discovery)
+Published: 2026-10-18T11:28:10+00:00 | Age: 1.2 hours
+Scanned: 2026-10-18T12:40:42.421745+00:00
+URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbkgySHdpenhUWVdWalFwdzJKdmptM0d1aXZYdURWYl96RDRUdXloS3dEX09yMXR6TnB6TGFhMlpJMkpQWTIyTHd1b2pQR1dRZmtqWTdMSFYwOFhSLWVwVWw2aXlScjZzSWV6b3VxRnZnMFZiNUE4OUM3RkRvZmVIcDVIX2d4LWhhQ1FzSGVZWElEdjRidzdCbFo3ekI0Z3lKa2kzWlNaMk84S0lsZzdGZjlCS0dYRm9VVDV3dVYwUkFvYW1TdEFUVUVmT3U3aTlLQmE3Y3FITEUxd9IB3wFBVV95cUxQd19uQkhBLTA4N041UFV3UzRubVB1eHllUkFZeDBYQnVCaXA5UGl4VGk4S1I3US1TZ0ctZ0kyMHVQRTkwZ29XMWhPQkp2V0s3bk9YSS13SHZwRnM1YS1pckdrUzl1alRFaWViNV9YRDBCLUd3anRKMTFMOUpUWS1NbmloeHpMV0V2dGVLR1dnLW5tSFpqUzd2Zlo2cFBEQURscjhJd2FHa1J2aVlQTTNZMXE1bW1pZTA3eUVWRFk3X2UtcGhTajNMSG9EVjdRUXM1ZldpNDlBV3pWRlN2NmhZ?oc=5
 
-Apple AirPods 4 price drops during Amazon Great Indian Festival sale, making them worth buying | Technology News (HT Tech) Hindustan Times
+Microsoft pulls out of UK data center deal with Nscale: Telegraph The Economic Times
+
+## 6. Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-18T08:44:18+00:00 | Age: 3.9 hours
+Scanned: 2026-10-18T12:40:42.421745+00:00
+URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5
+
+Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel Mashable
