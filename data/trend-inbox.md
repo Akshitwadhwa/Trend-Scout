@@ -2,46 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-19T15:45:02.489591+00:00
-Scanned: 2026-10-19T15:45:02.489591+00:00
+Updated: 2026-10-19T21:36:55.330578+00:00
+Scanned: 2026-10-19T21:36:55.330578+00:00
 Memory window: 72 hours
 
-## 1. Nvidia launches new open models to run agents in the enterprise and on PCs
+## 1. GitHub release: anthropics/claude-code v2.1.304
+Source: github.com (primary)
+Published: 2026-10-19T21:34:39+00:00 | Age: 0.0 hours
+Scanned: 2026-10-19T21:36:55.327783+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.304
+
+## What's changed - Added a transcript line when a plugin that runs first skips one of your mod's hooks, naming the event and the plugin - Added `decider: "person"` to a mod's `tool.check` answer: only the permission dialog or a host's callback can approve the ask, and it is refused with the mod's reason where nobody can be asked - Added `e.isReadOnly` to a mod's `tool.check` event, set when the tool call is read-onl
+
+## 2. Hetzner object storage outage since last 10 days in HEL data center
+Source: Hacker News (discovery)
+Published: 2026-10-19T21:33:26+00:00 | Age: 0.1 hours
+Scanned: 2026-10-19T21:36:55.327783+00:00
+URL: https://status.hetzner.com/incident/382ed0e5-f1c4-45ec-a7a3-326d3970d6b3
+
+Hacker News discussion: https://news.ycombinator.com/item?id=50158360
+
+## 3. Show HN: Claude Code skills and hooks that prove a fix's test fails without it
+Source: Hacker News (discovery)
+Published: 2026-10-19T21:20:23+00:00 | Age: 0.3 hours
+Scanned: 2026-10-19T21:36:55.327783+00:00
+URL: https://github.com/ehnruiz/claude-skills
+
+Hacker News discussion: https://news.ycombinator.com/item?id=50158230
+
+## 4. EU backs 77 climate tech projects with €3.4b, touts drastic emissions cuts - The Brussels Times
+Source: The Brussels Times (discovery)
+Published: 2026-10-19T21:08:26+00:00 | Age: 0.5 hours
+Scanned: 2026-10-19T21:36:55.327783+00:00
+URL: https://news.google.com/rss/articles/CBMiigJBVV95cUxON0tfXzhJcjdnUG5lUlhtYjc1U0NjSzF6Y1dMZFNLNDZIaFVEYzZpSUNIYVNNaGZVekhjZVBMQVVLUFlZc3AzdmZKY2c4a1dsa2lpUV9SWTRnd2JrLVk3bkdBTUFpeFlpUFlsVXY4eG41ZjU4NzdEV1VmYy1jNG9UdzQ2R1NnZGJONmlyOXFIZWVVdElWbU5JaU9kR3JxUzZxUGNPelpxS21wYld5ZjFRVGx4TTdHa3JMN3VndC1CbjVLS0gyTEpWaHFGcHJ3N2lLdGJLajZMQmFJdDg2TnZ6LW10dEZWTkVXNzRNWVpkMzY2bkR2UmZvcjlLRDktTEk1a29JZGJtX0c3UQ?oc=5
+
+EU backs 77 climate tech projects with €3.4b, touts drastic emissions cuts The Brussels Times
+
+## 5. Anthropic, Nscale in talks for new $45 billion AI cloud computing deal, Bloomberg News reports - Reuters
+Source: Reuters (discovery)
+Published: 2026-10-19T20:45:10+00:00 | Age: 0.9 hours
+Scanned: 2026-10-19T21:36:55.327783+00:00
+URL: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5
+
+Anthropic, Nscale in talks for new $45 billion AI cloud computing deal, Bloomberg News reports Reuters
+
+## 6. Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts
 Source: techcrunch.com (reputable)
-Published: 2026-10-19T15:37:09+00:00 | Age: 0.1 hours
-Scanned: 2026-10-19T15:45:02.487449+00:00
-URL: https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/
+Published: 2026-10-19T19:28:34+00:00 | Age: 2.1 hours
+Scanned: 2026-10-19T21:36:55.327783+00:00
+URL: https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/
 
-Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.
-
-## 2. Nvidia launches new open models to run agents in the enterprise and on PCs - TechCrunch
-Source: TechCrunch (discovery)
-Published: 2026-10-19T15:37:09+00:00 | Age: 0.1 hours
-Scanned: 2026-10-19T15:45:02.487449+00:00
-URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5
-
-Nvidia launches new open models to run agents in the enterprise and on PCs TechCrunch
-
-## 3. Ukraine claims first drone evacuation of wounded soldier
-Source: Hacker News (discovery)
-Published: 2026-10-19T15:31:34+00:00 | Age: 0.2 hours
-Scanned: 2026-10-19T15:45:02.487449+00:00
-URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50153664
-
-## 4. Kevin Bacon's missing clothes finally delivered in Ireland
-Source: Hacker News (discovery)
-Published: 2026-10-19T15:24:43+00:00 | Age: 0.3 hours
-Scanned: 2026-10-19T15:45:02.487449+00:00
-URL: https://www.rte.ie/entertainment/2026/1019/1595980-kevin-bacon/
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50153598
-
-## 5. PressDrop Distributes Three Independent Software Products in Its First Ever Shared Release - The Manila Times
-Source: The Manila Times (discovery)
-Published: 2026-10-19T14:28:36+00:00 | Age: 1.3 hours
-Scanned: 2026-10-19T15:45:02.487449+00:00
-URL: https://news.google.com/rss/articles/CBMi8wFBVV95cUxORDg4cUk5dW9Bd05LUGgzb25FUXg5andRd3BuQ1BpRElRMURMc3hwVHBoQS1sVkx6dTVwUTRncU85RGxORUIzT1hQQUFoLXNEa3dRWV9NamVuWjRsWW9yM3Z2RTdNME9sZi1SVV9qQXZQbS1Vakp6NWFWdlVicnVlMlNoY3Y1UE5XdlRyT3ZsSlBYQ0l1RnFXakwwdGwyRzJoam9EZm5sNEdGWjRYQVVheDlwV2kxRlFCZEVjdEhHYXFtY3VnRGNuWEFCRGluTFV2N3JzR2ZoZGNtOUFtSHpjdTRkaThxQjVOMUJUV0R5SDdyR0nSAfgBQVVfeXFMT2pQak1nalM4eUNVck1GWnYwMks4MG1rbGdTR1VYMkJ6SFByU2ExVS1vMTd2a3RhbU15TU5kZ2lndkk2ZGllb1JSZzFBcmtKSVlMS2k1MmlFa0d6UktuNHB4ZkFUX2xnVW9rVEhHeTFRYzE0S3BNb2JLQ3BXNW4xYXcwdHBHVVZVQ3VQYnZicV9zRlFWRUtLdTR3T0RBMmctaEdXRklCVk44eGI3VTZCTGg4aWxnZElVT3lXdVRYel9nUXZEWHVZWWRyTjl6Z3pjYTdjOHJBZHNLbmdwdDhJVzQtX0JucnowUnhDVV9lMjJkbE5FWHNMUHk?oc=5
-
-PressDrop Distributes Three Independent Software Products in Its First Ever Shared Release The Manila Times
+OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.
