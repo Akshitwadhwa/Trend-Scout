@@ -2,46 +2,30 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-18T22:29:41.736169+00:00
-Scanned: 2026-10-18T22:29:41.736169+00:00
+Updated: 2026-10-19T01:26:04.576751+00:00
+Scanned: 2026-10-19T01:26:04.576751+00:00
 Memory window: 72 hours
 
-## 1. Tkmd – A local CLI task manager and MCP server with AI agent review gates`
+## 1. Creation/Evolution - Creationist Software Development (1993)
 Source: Hacker News (discovery)
-Published: 2026-10-18T22:27:30+00:00 | Age: 0.0 hours
-Scanned: 2026-10-18T22:29:41.733117+00:00
-URL: https://github.com/ktreharrison/tkmd
+Published: 2026-10-19T01:10:41+00:00 | Age: 0.3 hours
+Scanned: 2026-10-19T01:26:04.574714+00:00
+URL: https://www.fourmilab.ch/autofile/www/chapter2_108.html
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50146130
+Hacker News discussion: https://news.ycombinator.com/item?id=50147200
 
-## 2. GitHub release: anthropics/claude-code v2.1.303
-Source: github.com (primary)
-Published: 2026-10-18T22:26:54+00:00 | Age: 0.0 hours
-Scanned: 2026-10-18T22:29:41.733117+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.303
-
-## What's changed - Bug fixes and reliability improvements
-
-## 3. Wearable Bioacoustics for Two-Way Communication Between Humans and Cetaceans
+## 2. Anthropic's Own Staff Can't Use Claude Code's 'Bypass Permissions' Mode
 Source: Hacker News (discovery)
-Published: 2026-10-18T22:15:48+00:00 | Age: 0.2 hours
-Scanned: 2026-10-18T22:29:41.733117+00:00
-URL: https://neurips.cc/virtual/2025/loc/san-diego/workshop/109586
+Published: 2026-10-19T01:03:50+00:00 | Age: 0.4 hours
+Scanned: 2026-10-19T01:26:04.574714+00:00
+URL: https://runtimewire.com/article/anthropic-s-own-staff-can-t-use-claude-code-s-bypass-permissions-mode-client-cod
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50146049
+Hacker News discussion: https://news.ycombinator.com/item?id=50147159
 
-## 4. Microsoft pulls out of UK data center deal with Nscale, Telegraph reports - Reuters
-Source: Reuters (discovery)
-Published: 2026-10-18T17:19:48+00:00 | Age: 5.2 hours
-Scanned: 2026-10-18T22:29:41.733117+00:00
-URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxNMmVDUVQyZjhnbFN2MHQ1MHVPMHVpLVVsUFE1aU44Y2QzMUx2a25MRXR5OWtkTGd5RkViaG9fM3lZcnFHblYyT2xMeGZ3MHI3NkFjQ0FhdWFVRWlmdHlPRDRFRVRsclFpbUExakpiN3Z4aGMtODdDb09Mb0xXbnIxdU04ZmQ3UTEyTkhQd2EyMFhDNzQzYVgzZG9FeDlNYTJTanNOOThVSGRTb2RnRWdCajBVXzFMcDB4MWZpbXR1STMzZ1JaOXRr?oc=5
+## 3. “The disruptor can be disrupted”: Snowflake CEO on AI’s before-and-after moment for software - The Economic Times
+Source: The Economic Times (discovery)
+Published: 2026-10-19T00:30:00+00:00 | Age: 0.9 hours
+Scanned: 2026-10-19T01:26:04.574714+00:00
+URL: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOVNrMG9XZ1FKWGNna3ZobHJVdFRJcHNud0NkdHJVcTlXMnZxc1dnY2V1Q1NTc2hwbkp2MUxXMHlqb18yQ09aVEV3ZGZaOXZoX2h3WDc4ZnlSdnFNYVFyNmpsTmlSZkYxd3dSb2FJeWx3b2steE9zY0V6SmRjeDNHQU9DM2dFb0dHcTFWN0J1dHR3azI4SlJqUW5wbklTUHYwRnNrWkpOWGZDUUtlRkdRMm1EVG9Ob0FqbUtibjFiOXFmRTBjbDgtZ0o3VmVQaHBJWk5HRmdmYXVycDV3bVFCTW5XSU50TXJHTmlLcdIB8gFBVV95cUxQNVpBb0lQMWZsckE1V2VNUTR0SE5qRTQ1TmRwNkQxeXRNeklCcFVSeEpNQ1A1NWkzay14bk9Yci1vTy1lcHBJQmlKVmdlLXNUS0IzNVllbi10VWtuUllqTGk1ZkxIaVQtdGxGZUk2TzFDcWh3ZVZjRktnLWwteEhsMlN4OWdTQ0FpNmtlenpuSzlRR1JjbHZPRzliU2tXSDZXSjZFNXRocjZ4NWtReGw0eVBVMnNTVjVzUnpaN1VnU0NMOUZyWTA4TXZDRC1YZ2tjWThNS3BRS0ZtQS1sdXN1b1daZEFySlFqTWl0TGEwM0xLZw?oc=5
 
-Microsoft pulls out of UK data center deal with Nscale, Telegraph reports Reuters
-
-## 5. Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles
-Source: techcrunch.com (reputable)
-Published: 2026-10-16T14:00:00+00:00 | Age: 56.5 hours
-Scanned: 2026-10-18T22:29:41.733117+00:00
-URL: https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/
-
-Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.
+“The disruptor can be disrupted”: Snowflake CEO on AI’s before-and-after moment for software The Economic Times
