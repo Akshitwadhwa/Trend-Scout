@@ -2,46 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-20T13:42:12.905941+00:00
-Scanned: 2026-10-20T13:42:12.905941+00:00
+Updated: 2026-10-20T18:33:26.749942+00:00
+Scanned: 2026-10-20T18:33:26.749942+00:00
 Memory window: 72 hours
 
-## 1. AI-Native Companies Turn Every Employee into an Intrapreneur
+## 1. Amazon is buying billions in Nvidia AI systems it can't yet turn on - Business Insider
+Source: Business Insider (discovery)
+Published: 2026-10-20T18:29:00+00:00 | Age: 0.1 hours
+Scanned: 2026-10-20T18:33:26.747507+00:00
+URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE?oc=5
+
+Amazon is buying billions in Nvidia AI systems it can't yet turn on Business Insider
+
+## 2. Making the internet better for AI agents might make it worse for everyone else
 Source: Hacker News (discovery)
-Published: 2026-10-20T13:40:03+00:00 | Age: 0.0 hours
-Scanned: 2026-10-20T13:42:12.903339+00:00
-URL: https://growthwiseteams.substack.com/p/how-ai-native-companies-turn-every
+Published: 2026-10-20T18:27:29+00:00 | Age: 0.1 hours
+Scanned: 2026-10-20T18:33:26.747507+00:00
+URL: https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50166270
+Hacker News discussion: https://news.ycombinator.com/item?id=50170566
 
-## 2. Show HN: Local wiki Claude Code/Codex write for you to think, organize, direct
+## 3. Show HN: Daily password puzzle game with real passwords from data breaches
 Source: Hacker News (discovery)
-Published: 2026-10-20T13:39:04+00:00 | Age: 0.1 hours
-Scanned: 2026-10-20T13:42:12.903339+00:00
-URL: https://github.com/nimbalyst/nimbalyst-wiki
+Published: 2026-10-20T18:25:17+00:00 | Age: 0.1 hours
+Scanned: 2026-10-20T18:33:26.747507+00:00
+URL: https://dailycrack.app
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50166250
+Hacker News discussion: https://news.ycombinator.com/item?id=50170526
 
-## 3. SiN: Reloaded Is Getting a Physical Edition on PS5 from Limited Run Games - Time Extension
-Source: Time Extension (discovery)
-Published: 2026-10-20T13:30:00+00:00 | Age: 0.2 hours
-Scanned: 2026-10-20T13:42:12.903339+00:00
-URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxOYmloejE5WUc2VlZPUmhHNmhEOTFYbWwxYXpFeG1leGIzM3M2X2k0c3RaWC1UOGc1MnZYeXJHVGlHazY5NFl0MC1CaDU5S2pNcjBkWU1sUV9hWTdCOGlpMEZhVDZvdWNmaVc3QlozdmZWbmk2SGlBOXdmZU50Q215Y1pxazN2aThMN1I4NEVpMWR3VDJnRlB6bk83TFdsbzVXNjc0a1pXTmdNeTBxVno0OHVDNmNkdw?oc=5
+## 4. Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei
+Source: techcrunch.com (reputable)
+Published: 2026-10-20T17:55:12+00:00 | Age: 0.6 hours
+Scanned: 2026-10-20T18:33:26.747507+00:00
+URL: https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/
 
-SiN: Reloaded Is Getting a Physical Edition on PS5 from Limited Run Games Time Extension
+The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.
 
-## 4. Britain seeks to break Apple's grip on contactless payments - Reuters
-Source: Reuters (discovery)
-Published: 2026-10-20T13:10:00+00:00 | Age: 0.5 hours
-Scanned: 2026-10-20T13:42:12.903339+00:00
-URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjhlem8zS1dPa292Uy1FWUVIWU1OWERzc0taXy1aeXRrZDQ3UU02bEJrUkpIbmxQaS1uMHZvRVc0Z2JHZDJSdVFQbUQ5QnFEalFvNjZxMTJtY3NHRzZNN1hXemM3M2dqaFYzLXozc1dLa1dUSTBLNjVlWG45R01XTUluYk83OFhBSVlyZkhlX0FOMENiQ3hheHZ3?oc=5
+## 5. How 3 Java Champions are using GitHub Copilot for increased productivity
+Source: github.blog (primary)
+Published: 2026-10-20T16:05:03+00:00 | Age: 2.5 hours
+Scanned: 2026-10-20T18:33:26.747507+00:00
+URL: https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/
 
-Britain seeks to break Apple's grip on contactless payments Reuters
+Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog .
 
-## 5. Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos
-Source: ABC News - Breaking News, Latest News and Videos (discovery)
-Published: 2026-10-20T10:47:04+00:00 | Age: 2.9 hours
-Scanned: 2026-10-20T13:42:12.903339+00:00
-URL: https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5
+## 6. Plants can speak using electricity, so this startup built an AI model to decipher their language
+Source: techcrunch.com (reputable)
+Published: 2026-10-20T16:00:00+00:00 | Age: 2.6 hours
+Scanned: 2026-10-20T18:33:26.747507+00:00
+URL: https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/
 
-Exclusive: Anthropic CEO calls for stronger regulation of AI ABC News - Breaking News, Latest News and Videos
+Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.
