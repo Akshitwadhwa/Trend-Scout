@@ -2,46 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-21T18:46:54.382752+00:00
-Scanned: 2026-10-21T18:46:54.382752+00:00
+Updated: 2026-10-21T23:28:47.176040+00:00
+Scanned: 2026-10-21T23:28:47.176040+00:00
 Memory window: 72 hours
 
-## 1. Panasonic speeds up efforts to turn windows into solar panels
+## 1. The iPhone Duo
 Source: Hacker News (discovery)
-Published: 2026-10-21T18:38:34+00:00 | Age: 0.1 hours
-Scanned: 2026-10-21T18:46:54.379911+00:00
-URL: https://www.japantimes.co.jp/business/2026/10/20/tech/panasonic-window-solar-panels/
+Published: 2026-10-21T23:25:44+00:00 | Age: 0.1 hours
+Scanned: 2026-10-21T23:28:47.172936+00:00
+URL: https://daringfireball.net/2026/10/the_iphone_duo
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50185546
+Hacker News discussion: https://news.ycombinator.com/item?id=50189055
 
-## 2. Anthropic's Public Benefit Charter
+## 2. Apple is finding its voice for what more sophisticated multitouch UX can be
 Source: Hacker News (discovery)
-Published: 2026-10-21T18:29:54+00:00 | Age: 0.3 hours
-Scanned: 2026-10-21T18:46:54.379911+00:00
-URL: https://www.anthropic.com/public-benefit-charter
+Published: 2026-10-21T23:20:03+00:00 | Age: 0.1 hours
+Scanned: 2026-10-21T23:28:47.172936+00:00
+URL: https://royalicing.com/2026/apple-voice-iphone-duo
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50185438
+Hacker News discussion: https://news.ycombinator.com/item?id=50189005
 
-## 3. OpenAI expands ChatGPT ads globally and sells GPT-6 Astra models through Google Cloud to enterprise customers | Hindustan Times - Hindustan Times
-Source: Hindustan Times (discovery)
-Published: 2026-10-21T18:23:45+00:00 | Age: 0.4 hours
-Scanned: 2026-10-21T18:46:54.379911+00:00
-URL: https://news.google.com/rss/articles/CBMijAJBVV95cUxQVnExR2lUeG1tWlZtcWNRd0xVUUZsVDdEU0hybUxoc0ZnN3dYUkdZQzVCTkY3ak5vc1o3SEMxV2RyVVcyVEtoOVFlcmk5cHlBOGk2akd4Ym5JZ3dFQV92d2syU2ptUE5PZy01TklJM1lObHRBMGstOW1vZDQzWUVwZURsV1A4WkllNFc5dHJPejNtRlp2bEJTV0JvMTQ4M0I2ZjkzSjZfSG8wSnNjZmlMM1hpeFFnVVJ6bVZDSnlrbkxhZ2l3b0NmM3Q2YjJCRG5LZ09za3k5MzJSclJHYXpyTWsyd21COTl4ejl3d3owdDJBaUxQYTJRM3phYXZXVzgzUlNGYlhMU2ZwTk9v0gGSAkFVX3lxTFA4cWVPNnZhckFaT2JxYnFwZFFNMHMyY1ZiMllNSUVEZjdDSHQyU0E0YnFPaHUyRG12Ul9kTGJFT0FYeF85RnBNWVJWZWlnTE1kNFBMekw4OWd3M24yVy1KVHBQdU1iLTZGZzhRclZUV0picFF4Mm9vWTduYkQxZHRPcEVvc2hUaUgzSHBNWlR0eE15MzhZMVh6c2FGM3pFZkl2dU50VE9iTUhOQ2tUQVdqWHNBV1FoVG5PekJzTEIzZ1NVV0RWeEV5eU13MTVSMEpTb3YtYW1YWVJJVHYzdS1KVGU0c21MczIwZW5ObC1MY1dfQlJ6a25NQTBneEJobW1RNFBQSzJrTi1kYXUxcUhFWXc?oc=5
+## 3. GitHub release: anthropics/claude-code v2.1.307
+Source: github.com (primary)
+Published: 2026-10-21T22:17:02+00:00 | Age: 1.2 hours
+Scanned: 2026-10-21T23:28:47.172936+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.307
 
-OpenAI expands ChatGPT ads globally and sells GPT-6 Astra models through Google Cloud to enterprise customers | Hindustan Times Hindustan Times
+## What's changed - Added `/claude-api api-version` to move Claude API code to API version `2026-10-21` - Added the `claude_code.safety_event` OpenTelemetry event for each tool call a permission rule, auto mode, a safety check, a hook or the sandbox stopped, prompted or sent back - Fixed requests failing with a model-not-found error when `CLAUDE_CODE_DISABLE_1M_CONTEXT` is set and the model is an alias with the `[1m]
 
-## 4. The AI Founders 100 — India’s Rising Leaders Building the Future with AI - Indian Startup Times
-Source: Indian Startup Times (discovery)
-Published: 2026-10-21T16:26:50+00:00 | Age: 2.3 hours
-Scanned: 2026-10-21T18:46:54.379911+00:00
-URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGd4dUdmX3RZYWZadWtHUUROX0tVOGU1aFBaUW8zcGsyNjVZY29NakZUMi1udk1GY1dnUTJ2SHlTZkpybzh0dEtscjFkX0RKWE5XN3dyX2xSaGZHTWlpX0g5OVRoaHp2WDRUdGF5TG5raXFHME5zTkpyWEZpWWdzN0g1YzdyN3RMNmtNWnBwLThiZDVBcEJ2WHAwTGlnSDNjRzJZLUhLdjFYUllpODF3?oc=5
+## 4. OpenAI president urges AI safeguards as group he funds opposes regulation - The Economic Times
+Source: The Economic Times (discovery)
+Published: 2026-10-21T19:08:55+00:00 | Age: 4.3 hours
+Scanned: 2026-10-21T23:28:47.172936+00:00
+URL: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd1ZhbGoxcWUxSW1qQjBNQ2pqajkxTVBHYWxUOWU3RkYydXgzUy1NNXQ2Y05QdUEwcVQ4RzVwX3l0R0R2endiMGdfNDVjWUlCd3BIQlVHZHFnWlRseTZhV2l1SEMyOFJsV1ZQVDhPSi1hOG1jLVN5c0J1X1BHNlJxUmwyNVBuVXhpckgza0RHUXNVbVNQc0dCRHgyV3oyQkJBb0Zxd2RjUTNkaVRMVXY4RGNJUnlMekt4X1lVYXlBcVNpbVdDMFJHQzAzMzZzZHhEUUE1MkRPSnlLaTQtM2MySUdaMml3S0FyaDdoctIB8gFBVV95cUxOMmNrcVVjcE1VY2M2ZTNQMHhHWFd3ZlNHV0F4TUpqWTNYcjVmU2lCTUxfd0R6czJjeXFTWHlEUzR6Zk5PUmZibXU1M1YwXzdlQTlrc3dITE5EanlVSU1zaHpLWDVaYUh6RW5EcS0zOVRhaUoxV0VhNmdlWUdCcmpCX0ZXX3VFVWh3bVo4WjhORmM5bnZaS3hfMnJ6bzlmdWFFRFJDRWJaNHQxTGxqZzZZOFdEWGdYcVltRGF6QmZ3OTFKQTVYd1NqcFp0d1djdFo4TzFpT3IwNDFnQ3FzelZDZWpCM1ZrQnE4dENpenJHVl9Ddw?oc=5
 
-The AI Founders 100 — India’s Rising Leaders Building the Future with AI Indian Startup Times
+OpenAI president urges AI safeguards as group he funds opposes regulation The Economic Times
 
 ## 5. The bridge to agent-scale Git infrastructure
 Source: github.blog (primary)
-Published: 2026-10-21T16:00:00+00:00 | Age: 2.8 hours
-Scanned: 2026-10-21T18:46:54.379911+00:00
+Published: 2026-10-21T16:00:00+00:00 | Age: 7.5 hours
+Scanned: 2026-10-21T23:28:47.172936+00:00
 URL: https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/
 
 We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog .
