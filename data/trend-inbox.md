@@ -2,38 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-22T13:56:51.899313+00:00
-Scanned: 2026-10-22T13:56:51.899313+00:00
+Updated: 2026-10-22T18:40:05.497066+00:00
+Scanned: 2026-10-22T18:40:05.497066+00:00
 Memory window: 72 hours
 
-## 1. Unvetted AI agents are accessing U.S. bank accounts
+## 1. Utah Woman Speaks Out After Cop Body Slammed Her at Data Center Protest
 Source: Hacker News (discovery)
-Published: 2026-10-22T13:55:48+00:00 | Age: 0.0 hours
-Scanned: 2026-10-22T13:56:51.897226+00:00
-URL: https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access
+Published: 2026-10-22T18:28:00+00:00 | Age: 0.2 hours
+Scanned: 2026-10-22T18:40:05.495028+00:00
+URL: https://www.commondreams.org/news/utah-data-center-protest
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50195390
+Hacker News discussion: https://news.ycombinator.com/item?id=50199227
 
-## 2. Claude Duet app is Anthropic’s bet on agents
-Source: techcrunch.com (reputable)
-Published: 2026-10-22T13:53:26+00:00 | Age: 0.1 hours
-Scanned: 2026-10-22T13:56:51.897226+00:00
-URL: https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/
+## 2. Making Startups Powerful
+Source: Hacker News (discovery)
+Published: 2026-10-22T18:21:44+00:00 | Age: 0.3 hours
+Scanned: 2026-10-22T18:40:05.495028+00:00
+URL: https://www.paulgraham.com/powerful.html
 
-Claude Duet is available through waitlist for Pro and Max plan users
+Hacker News discussion: https://news.ycombinator.com/item?id=50199142
 
-## 3. Apple will label apps that are ‘Made for iPhone Duo’ - The Verge
-Source: The Verge (discovery)
-Published: 2026-10-22T13:20:37+00:00 | Age: 0.6 hours
-Scanned: 2026-10-22T13:56:51.897226+00:00
-URL: https://news.google.com/rss/articles/CBMihgFBVV95cUxQbDVHM3E1cHZMUWllNUMzQU1ZTGpfNkI1OFdGYzVham5FdXFxYXdjWWdFQzBsbFZTRWR6SVdiaXg0TU55WG1va1R6X25iMGgwWGowWUhJa0FCU3p5ek9tam9jUVFZUVlKVTlFUU9Hbk1NaEI0bXRKQ25MWWU1VG43WG50RENqUQ?oc=5
+## 3. How bug bounty sharpens one researcher’s security skills
+Source: github.blog (primary)
+Published: 2026-10-22T17:21:30+00:00 | Age: 1.3 hours
+Scanned: 2026-10-22T18:40:05.495028+00:00
+URL: https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/
 
-Apple will label apps that are ‘Made for iPhone Duo’ The Verge
+As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .
 
-## 4. DeepSeek reportedly raises $15B days after US restrictions
-Source: techcrunch.com (reputable)
-Published: 2026-10-22T13:11:13+00:00 | Age: 0.8 hours
-Scanned: 2026-10-22T13:56:51.897226+00:00
-URL: https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/
+## 4. Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms - Reuters
+Source: Reuters (discovery)
+Published: 2026-10-22T16:32:12+00:00 | Age: 2.1 hours
+Scanned: 2026-10-22T18:40:05.495028+00:00
+URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRFBMTWVjQWZTZV9kZzdiYzVMMFlBZUFpb1Nob0k5ZGhfLTk2Qk1CUlA5blRxdmRPZGF5a3dsX0dXSGtuMFFKc21KYXlsVU9SbmRlQ3B4V0RyRllxZ0ZITjBPUWllZ3E5OWhvRmhsVHdlOFJzcnBlbkpWTWRFU3hFNE81cjlNcThSNjN1S2l2SkxwVTJua1VxQW5ZWWQ1MXNGMkp1bE9qN2RhWUFnM2lnMmVnbDRYVG9xVXlRUmZpN2VSRlE?oc=5
 
-DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.
+Publishers, advertisers call EU, UK antitrust regulators to suspend Meta's new commercial terms Reuters
+
+## 5. Firms here should ‘act now’ to fix critical PHP vulnerabilities: Singapore’s cybersecurity chief - The Straits Times
+Source: The Straits Times (discovery)
+Published: 2026-10-22T11:52:00+00:00 | Age: 6.8 hours
+Scanned: 2026-10-22T18:40:05.495028+00:00
+URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxPcmJ2U3N2bWJrWGttQnNWNEt6U1ZQU3NSYlhvU1o0S05wN0VZaHZxQnhZejJpLXNwa2tXbVpfZU1IeWtLR0IwNDd0d2dlZ0RuQ2JxQXJ4U1dyb3I4bUFGT0c1a19md1ZtbDU3d19RR0I4QnZVbDRKNm5fS211a2IxOHZzS2h3RWhrcjlDR2NrV3V6SGFacUlPQ0tjd3lLNmE2dDdKVC1R?oc=5
+
+Firms here should ‘act now’ to fix critical PHP vulnerabilities: Singapore’s cybersecurity chief The Straits Times
