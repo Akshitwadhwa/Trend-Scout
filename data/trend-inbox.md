@@ -2,62 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-24T07:27:12.170152+00:00
-Scanned: 2026-10-24T07:27:12.170152+00:00
+Updated: 2026-10-24T12:48:19.140095+00:00
+Scanned: 2026-10-24T12:48:19.140095+00:00
 Memory window: 72 hours
 
-## 1. In the biotech world, you can't see everything
+## 1. Nvidia's RTX Spark has an NPU, I spent a week figuring it out
 Source: Hacker News (discovery)
-Published: 2026-10-24T07:22:46+00:00 | Age: 0.1 hours
-Scanned: 2026-10-24T07:27:12.167623+00:00
-URL: https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/
+Published: 2026-10-24T12:40:13+00:00 | Age: 0.1 hours
+Scanned: 2026-10-24T12:48:19.137135+00:00
+URL: https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50218987
+Hacker News discussion: https://news.ycombinator.com/item?id=50220703
 
-## 2. We used RCE on 3M PCs to prevent a botnet
+## 2. DEEP Robotics Unveils Five Research Advances in Embodied AI - The Manila Times
+Source: The Manila Times (discovery)
+Published: 2026-10-24T12:30:23+00:00 | Age: 0.3 hours
+Scanned: 2026-10-24T12:48:19.137135+00:00
+URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxNZkVFM0E5Sk5ZNEppaXZzaVl1azZtekJ5SzE1QXBkdzNsWFl2T3p6dERRT1g4dlcxRzNXNktsQmp5bUZjRXN6c3VXWTl1Y2lhaHc2amtaYWZJZXpVTUx6R3RiYUVPMjhsRmh3V0ZRNEtTTFdTalNpbDlLQXlEcGdCZy0yNTd3enNuSlB1djB0eGhXVHhwa0ZrV2w1S0lPTHFiNk0zbFo2RUtYN2RUS1h4U3FaOGMxUG9obnlhMkxXS0ZxZFlnQmpfd2lVTDNkUdIB0wFBVV95cUxOa1RDWXM4dDh1bzBHMDVObEJsUWFCXzlkSjNUT0xEZXF5T1laZHhLZW8wLTBEbnVPeEFYSXhIX3lKRWw1QWRadVdoNm10WEdFOE96ZnBicWZPaklWQVVZOHlhTnRWOHktTzRkR0pZbndOWURPV2JyNlJDdVBwbnZDOXpQMGlJa09zTDJLbF9pSjFDazRqbzhnaU90TXhLR3BaazJNZUZCbGVGVmNqbXRzUDI3SkwzX2pQNGF4MlM4OEQ5MWxLN01wZ3RmYUZDYTgxWUkw?oc=5
+
+DEEP Robotics Unveils Five Research Advances in Embodied AI The Manila Times
+
+## 3. Free My TV: An Ad-Free Home Screen for Google TV, LG and Samsung TVs
 Source: Hacker News (discovery)
-Published: 2026-10-24T07:15:56+00:00 | Age: 0.2 hours
-Scanned: 2026-10-24T07:27:12.167623+00:00
-URL: https://labs.eye.security/operation-ixim-preventing-a-botnet-of-millions-of-popcorn-time-users/
+Published: 2026-10-24T12:22:45+00:00 | Age: 0.4 hours
+Scanned: 2026-10-24T12:48:19.137135+00:00
+URL: https://github.com/simbasjungles/free-my-tv
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50218961
+Hacker News discussion: https://news.ycombinator.com/item?id=50220596
 
-## 3. The truth about iPhone Duo problems: The shoddy-looking apps, FaceTime camera, and the hinge - Mashable
-Source: Mashable (discovery)
-Published: 2026-10-24T06:22:08+00:00 | Age: 1.1 hours
-Scanned: 2026-10-24T07:27:12.167623+00:00
-URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVaDUzRHE0c1VvU2VUTjRkTjBpcmFvY3pVcEpsbWFuaFg3bk9La0llU01VMV9IUmVaU21ob3dGTVRWazVSYUc1VzVTRGtDbl9WWlpiQi1razF0Rm95dkE?oc=5
+## 4. OpenAI enters Jev’s turf with a decision API for AI agents - The Economic Times
+Source: The Economic Times (discovery)
+Published: 2026-10-24T11:03:59+00:00 | Age: 1.7 hours
+Scanned: 2026-10-24T12:48:19.137135+00:00
+URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSjQ3ajQta2FYSjVfWjg2ZW9ZX3dzV1hnOEJITGRLMkFpR0J0MTJQQU5wX0VLX3RnUHMycmU4TEl5OHRGM0U2MGhWNFVEekUxVmxyLXF4aEMzT1dYUVJ5aXFVU09SWEJFOFQzNGlVbF93NE9udld4cnZTQW5lamUxRkdjXzBPSExwZm1IOVcyMFFwUUtiSFhpNEFaUkdYYWFLdTlyRjJmNmhncElTLUZXNDluYmdLOHo0QTUyNG15aXZOVk5Y0gHKAUFVX3lxTE9RU3JZQ25yQy0zeFhMTGRvMGo2V3hpT01rY2NNVFRpMXc5QUluQ3ZuOFFxYm1sM0pFOXgwLTN4OWR0WFpOQTNBTTU3c3FGMDdhaDY5eExWLWlOLVdnaldhZmtSWk95b2dKVEJ2WENOcXUwOWJPVjBjeFFuaW53ZGZCSjhiTTRpNTZiMm5jdVNaOEhIMjJvcUVQMjBobk9DNUFUX2doUG83NkI1NG5ESzNYbFZaTzg0Slo0dVVETE5sRU9yLXN3M0pScFE?oc=5
 
-The truth about iPhone Duo problems: The shoddy-looking apps, FaceTime camera, and the hinge Mashable
+OpenAI enters Jev’s turf with a decision API for AI agents The Economic Times
 
-## 4. Nvidia, Meta and Apple Unveil New Open Models The Morning Download for Oct. 16 - WSJ
-Source: WSJ (discovery)
-Published: 2026-10-24T03:42:20+00:00 | Age: 3.7 hours
-Scanned: 2026-10-24T07:27:12.167623+00:00
-URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzl4Qm1LOUgzSHRaWEdvRDhKYkRaemRoOV9GWWVuU0N1THhvaXFnYnhQOWRWaGZBQlBUN3dicGJmWWVuZW9BS3BnLVlGYks2R3I1b1ZuVW9ObVhXX3I1cGViWnJyTnIwd3pfV3BXQVhWZy15dkpDTlFUSVg1YUtjR28wRkFrRHNpT2ktMnpR?oc=5
+## 5. Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC
+Source: CNBC (discovery)
+Published: 2026-10-24T11:00:01+00:00 | Age: 1.8 hours
+Scanned: 2026-10-24T12:48:19.137135+00:00
+URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5
 
-Nvidia, Meta and Apple Unveil New Open Models The Morning Download for Oct. 16 WSJ
+Nvidia's role as AI financier faces first big test as neoclouds take market hit CNBC
 
-## 5. Oura sues rival Ultrahuman again, threatening its US smart ring comeback
+## 6. UK to Establish World's First AI Biosecurity Lab With £300 Million Backing From Government, OpenAI and Anthropic - International Business Times, Singapore Edition
+Source: International Business Times, Singapore Edition (discovery)
+Published: 2026-10-24T09:11:44+00:00 | Age: 3.6 hours
+Scanned: 2026-10-24T12:48:19.137135+00:00
+URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxQU1JmOElvYUJ6cE9yV0Y1dUVUYXRqZVlDUkoyalVJajlMM2xVSm5UVVVNS2dlRG5WRFAydDNPRnFGOEI4NFFwVnBsclBrNVVOeFNseTJlTWEzUWNOaU1fWEhGalZhX01aTjlJWHNaUTlxel9FdEdjZGRNYmRkaE14cEp4WXVHcndjcDF6V2tzN0FFT29QLXpSOUJlNEtJTGdoVVZfTHRJdVQ2Szk1YlRPZHFsNFBNSlltLVMxdGdB?oc=5
+
+UK to Establish World's First AI Biosecurity Lab With £300 Million Backing From Government, OpenAI and Anthropic International Business Times, Singapore Edition
+
+## 7. Oura sues rival Ultrahuman again, threatening its US smart ring comeback
 Source: techcrunch.com (reputable)
-Published: 2026-10-23T04:22:57+00:00 | Age: 27.1 hours
-Scanned: 2026-10-24T07:27:12.167623+00:00
+Published: 2026-10-23T04:22:57+00:00 | Age: 32.4 hours
+Scanned: 2026-10-24T12:48:19.137135+00:00
 URL: https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/
 
 Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
-
-## 6. GitHub release: googleapis/python-genai v2.33.0
-Source: github.com (primary)
-Published: 2026-10-22T23:56:12+00:00 | Age: 31.5 hours
-Scanned: 2026-10-24T07:27:12.167623+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v2.33.0
-
-## [2.33.0](https://github.com/googleapis/python-genai/compare/v2.32.0...v2.33.0) (2026-10-22) ### Features * Add `store` to `GenerateContentConfig` (Gemini Developer API only) and `labels` to `LiveConnectConfig`. ([16a29c9](https://github.com/googleapis/python-genai/commit/16a29c9ea351041f92656e398becbfaa23d0c4f6)) * Add support for Python 3.15. ([e1c4fc7](https://github.com/googleapis/python-genai/commit/e1c4fc78ee
-
-## 7. GitHub release: anthropics/claude-code v2.1.309
-Source: github.com (primary)
-Published: 2026-10-22T22:18:57+00:00 | Age: 33.1 hours
-Scanned: 2026-10-24T07:27:12.167623+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.309
-
-## What's changed - Fixed sandboxed Bash commands on macOS and Linux running the shell's startup files outside the sandbox before each command - Fixed macOS sandbox `denyWrite` glob patterns not applying at a path's real location when the pattern's folder is reached through a symlink - Fixed sandboxed commands and auto-accepted edits being able to modify the MCP config file passed with `--mcp-config` - Fixed a disabl
