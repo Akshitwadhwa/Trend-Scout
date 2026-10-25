@@ -2,94 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-25T07:42:00.270459+00:00
-Scanned: 2026-10-25T07:42:00.270459+00:00
+Updated: 2026-10-25T13:15:39.790386+00:00
+Scanned: 2026-10-25T13:15:39.790386+00:00
 Memory window: 72 hours
 
-## 1. New Open-Source Cybersecurity Platform Uses AI Agents to Hunt Threats
+## 1. NVIDIA’s Jensen Huang Receives Honorary Judo Black Belt in Astana - The Times Of Central Asia
+Source: The Times Of Central Asia (discovery)
+Published: 2026-10-25T13:06:38+00:00 | Age: 0.2 hours
+Scanned: 2026-10-25T13:15:39.787838+00:00
+URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ0haeWlXTjctNnFwNmhGdmxWazZBV2pzY1VJa1Vib08tczZwcG9nWThDUElIcTJ2UEdkSE0zbkltYTFGd1BUS3NFem1HVjBJSFp6YmVoWXdhUkZ4dEdCOEJmajAzUHd6SktSSmkxM3lKWmlLcmRRRDVqc3pxdlVqb2hkZUgzTmowaE9aRDZ3?oc=5
+
+NVIDIA’s Jensen Huang Receives Honorary Judo Black Belt in Astana The Times Of Central Asia
+
+## 2. Nvidia discusses $2,000-per-GPU annual software fee for running agents on AI infrastructure — firm already charges more than twice that amount for its AI Enterprise software platform - Tom's Hardware
+Source: Tom's Hardware (discovery)
+Published: 2026-10-25T13:00:00+00:00 | Age: 0.3 hours
+Scanned: 2026-10-25T13:15:39.787838+00:00
+URL: https://news.google.com/rss/articles/CBMizwJBVV95cUxNVEpXZFd5Q2JyNFYyWHpGb1QwWWFZZ3paclJmT0NwTFNpakwwR2l5aDZDNkRyTWVoOUdFanJQd2dWMDJ3QlJxc2NRbllGXy0zU2JiUmJwSkVhaFlES1hXU2hhMFN6S0FLZjJKemtsS1JwWXdZb3QwQUV6QzRhUzZnVUllcHE4Mi0tQ2ZUUHBLc2hHM1ZNbm1xdkJMclUxcTBEcVdrZkZjYnRVRlpFODNNVTBoS0hZaGxwYVktTW85Z2djVWlId2dldzQ2dVVBLXk2dldmdUFGMnJrY19CUXQtbG16NzNiMFJmR3pGb0pOMDFacEJwdGJmYVVUYmVUZGhyeVNDaWNuZVlxZ1VPdlNlMGJGSlc1T3RfOEliZDZ3ZnJFRVZXWHltWFI4SUFsTE41eThnRUJkMU8zVE1mcWQ1N0JvM29BV3Q0MHZDUXdFVQ?oc=5
+
+Nvidia discusses $2,000-per-GPU annual software fee for running agents on AI infrastructure — firm already charges more than twice that amount for its AI Enterprise software platform Tom's Hardware
+
+## 3. The Lego group reveals collaboration with Daft Punk
 Source: Hacker News (discovery)
-Published: 2026-10-25T07:09:35+00:00 | Age: 0.5 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://medium.com/@ai_news/argus-might-be-one-of-the-most-impressive-open-source-cybersecurity-projects-released-this-year-118043bd0c8c
+Published: 2026-10-25T12:48:11+00:00 | Age: 0.5 hours
+Scanned: 2026-10-25T13:15:39.787838+00:00
+URL: https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50229059
+Hacker News discussion: https://news.ycombinator.com/item?id=50231001
 
-## 2. Prompt Injection Techniques Every Red Teamer Should Test
-Source: Hacker News (discovery)
-Published: 2026-10-25T06:54:42+00:00 | Age: 0.8 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://fdzdev.medium.com/20-prompt-injection-techniques-every-red-teamer-should-test-b22359bfd57d
+## 4. The truth about iPhone Duo problems: The shoddy-looking apps, FaceTime camera, and the hinge - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-25T12:41:42+00:00 | Age: 0.6 hours
+Scanned: 2026-10-25T13:15:39.787838+00:00
+URL: https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVaDUzRHE0c1VvU2VUTjRkTjBpcmFvY3pVcEpsbWFuaFg3bk9La0llU01VMV9IUmVaU21ob3dGTVRWazVSYUc1VzVTRGtDbl9WWlpiQi1razF0Rm95dkE?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50228983
+The truth about iPhone Duo problems: The shoddy-looking apps, FaceTime camera, and the hinge Mashable
 
-## 3. GitHub release: anthropics/claude-code v2.1.310
+## 5. US military gives Elon Musk’s SpaceX access to sensitive tracking data - The Guardian
+Source: The Guardian (discovery)
+Published: 2026-10-25T12:01:00+00:00 | Age: 1.2 hours
+Scanned: 2026-10-25T13:15:39.787838+00:00
+URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1dzVjhxa0VTU2tZZ3MxbjVHM2std2Z3MkVNOGxvRlE5WVdXem02eWs5amhZdHNPXzg0d1EtbVl6WlBXNGFTem9ydWVobkJPMmpMVVNvdy1YQW9nRGZuR0JHaElvS094RERfZVZ5OXJvdVB4b0hCdHVRZnFUOWUyYTN0QVlpTVlWU0Zhd1B3?oc=5
+
+US military gives Elon Musk’s SpaceX access to sensitive tracking data The Guardian
+
+## 6. OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes - Tom's Hardware
+Source: Tom's Hardware (discovery)
+Published: 2026-10-25T11:30:00+00:00 | Age: 1.8 hours
+Scanned: 2026-10-25T13:15:39.787838+00:00
+URL: https://news.google.com/rss/articles/CBMizwJBVV95cUxQUzdBSXJpd083eUx4UlRyNnVSRC1kZjBhWUVuNjVmbkVvU3hGNlZjM3A2a0g1ZzRNVkJrdU82QmFabXVUMFhJMW1xeFJzUVJ3ZEEzRTFLZ0p6Q1E4SDRsRDhGaGUtSEhsNWxPRkdUNzJfQUxWS3FRSW45aHU0b0J2dzYwSE82QWRmS2h3Q3FUU2xQWEdaVDVURTFGdHVMRC0xclpPTE9aVnNLU0dycTN6SVltOVhEZU12YjRkQmhNN0FSd2ZaMGFXT2ozSExFXzJyaGZ6LVE1ZE5IZ0h4dHpJWmNPZGFhXy1LYl9JSVc5V1lLMFJ5RFJrTko0WXZFTldHR01jaHVfSWRsSk8xcUJ4Qmt5ZkhWUUJJTERSRmdCb0FEMEl4RDFhR3FjWlQ1Vi1kTGllQzhNYUFIcDFiM18zNkkyeHcwT0w5Qmh2dkNkQQ?oc=5
+
+OpenAI's isolated red-team AI agents built a hidden CPU cache channel to talk with no network or shared files — exploited CPU cache timing to bypass microVM sandboxes Tom's Hardware
+
+## 7. GitHub release: ollama/ollama v0.40.11
 Source: github.com (primary)
-Published: 2026-10-23T23:39:00+00:00 | Age: 32.1 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.310
+Published: 2026-10-24T00:30:13+00:00 | Age: 36.8 hours
+Scanned: 2026-10-25T13:15:39.787838+00:00
+URL: https://github.com/ollama/ollama/releases/tag/v0.40.11
 
-## What's changed - Added the Monitor tool and plugin monitors on Bedrock, Vertex, and Foundry, and when telemetry or nonessential traffic is disabled; long foreground sleeps are now blocked there too - Fixed requests failing behind some gateways and compatible servers that reject the `effort-2025-11-24` beta value or mid-conversation system messages; Claude Code now retries without them - Fixed background cleanup de
-
-## 4. From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026
-Source: techcrunch.com (reputable)
-Published: 2026-10-23T19:06:23+00:00 | Age: 36.6 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/
-
-Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.
-
-## 5. GitHub release: ollama/ollama v0.40.10
-Source: github.com (primary)
-Published: 2026-10-23T15:03:59+00:00 | Age: 40.6 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://github.com/ollama/ollama/releases/tag/v0.40.10
-
-## NVIDIA Nemotron 3.5 Bolt E4B [Nemotron 3.5 Bolt E4B](https://ollama.com/library/nemotron-3.5-bolt) is NVIDIA’s smaller, Gemma 4-based vision-language model for fast local conversations, image understanding, and tool use. It supports a 128K-token context window. The model includes a DFlash draft for speculative decoding. ollama run nemotron-3.5-bolt:e4b **Full Changelog**: https://github.com/ollama/ollama/compare/v
-
-## 6. Inside JBL Playback Gallery: 80 Years of Sound Innovation
-Source: news.samsung.com (primary)
-Published: 2026-10-23T08:00:00+00:00 | Age: 47.7 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://news.samsung.com/global/inside-jbl-playback-gallery-80-years-of-sound-innovation
-
-To celebrate its 80th anniversary, JBL will host the JBL Playback Gallery at Project Space Line in Seoul from October 24 to 31. The exhibition traces the globally renowned audio brand’s evolution through eight decades of innovation, inviting visitors to explore its history firsthand. Throughout the year, HARMAN has showcased JBL’s iconic products from different […]
-
-## 7. iPhone Duo arrives at Apple Store locations worldwide
-Source: apple.com (primary)
-Published: 2026-10-23T06:10:35.677000+00:00 | Age: 49.5 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/
-
-On Friday, October 23, the highly anticipated iPhone Duo made its debut at Apple Store locations worldwide.
+## Speech Ollama can now generate [speech](https://docs.ollama.com/capabilities/speech) on macOS. `ollama run` plays text or a chat model's reply aloud as the audio is generated, and apps can stream audio through the OpenAI-compatible `/v1/audio/speech` endpoint. ```sh ollama run phonon "Hello from Ollama." ``` ## d3 decision models [d3](https://ollama.com/library/d3) brings vLLM Semantic Router's decision models to 
 
 ## 8. Oura sues rival Ultrahuman again, threatening its US smart ring comeback
 Source: techcrunch.com (reputable)
-Published: 2026-10-23T04:22:57+00:00 | Age: 51.3 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
+Published: 2026-10-23T04:22:57+00:00 | Age: 56.9 hours
+Scanned: 2026-10-25T13:15:39.787838+00:00
 URL: https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/
 
 Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
-
-## 9. GitHub release: googleapis/python-genai v2.33.0
-Source: github.com (primary)
-Published: 2026-10-22T23:56:12+00:00 | Age: 55.8 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v2.33.0
-
-## [2.33.0](https://github.com/googleapis/python-genai/compare/v2.32.0...v2.33.0) (2026-10-22) ### Features * Add `store` to `GenerateContentConfig` (Gemini Developer API only) and `labels` to `LiveConnectConfig`. ([16a29c9](https://github.com/googleapis/python-genai/commit/16a29c9ea351041f92656e398becbfaa23d0c4f6)) * Add support for Python 3.15. ([e1c4fc7](https://github.com/googleapis/python-genai/commit/e1c4fc78ee
-
-## 10. GitHub release: openai/openai-python v3.37.0
-Source: github.com (primary)
-Published: 2026-10-22T20:03:54+00:00 | Age: 59.6 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.37.0
-
-## [3.37.0](https://github.com/openai/openai-python/compare/v3.36.1...v3.37.0) (2026-10-22) ### ⚠ BREAKING CHANGES * **api:** This minor release includes a breaking change to Decisions types. In Live response models, question `instructions` can now be a string or a list of structured text, image, or JSON parts; check `isinstance(question.instructions, str)` before using string operations and handle the structured for
-
-## 11. Formula 1® United States Grand Prix™ streams live on Apple TV this weekend
-Source: apple.com (primary)
-Published: 2026-10-22T12:59:11.281000+00:00 | Age: 66.7 hours
-Scanned: 2026-10-25T07:42:00.267434+00:00
-URL: https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/
-
-Formula 1® returns to the U.S. this weekend with the United States Grand Prix™, streaming in the U.S. exclusively on Apple TV.
