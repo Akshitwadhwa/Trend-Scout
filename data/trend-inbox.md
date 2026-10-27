@@ -2,46 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-27T02:11:30.699049+00:00
-Scanned: 2026-10-27T02:11:30.699049+00:00
+Updated: 2026-10-27T08:04:18.129540+00:00
+Scanned: 2026-10-27T08:04:18.129540+00:00
 Memory window: 72 hours
 
-## 1. Avoiding Dirty Reads: Umem-Cache Achieves Strong Consistency
-Source: Hacker News (discovery)
-Published: 2026-10-27T02:07:47+00:00 | Age: 0.1 hours
-Scanned: 2026-10-27T02:11:30.695807+00:00
-URL: https://github.com/imchuncai/umem-cache/blob/master/Documentation/consistency.rst
+## 1. SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution - SAP News Center
+Source: SAP News Center (discovery)
+Published: 2026-10-27T08:02:08+00:00 | Age: 0.0 hours
+Scanned: 2026-10-27T08:04:18.127097+00:00
+URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxNd2pqWVZ4dS15QTN5VEtJQ2pRaG1zYTl0TWFoRE1VNDFYR19vQlRZUDJHRVJkRGFXVlN2T0Fyc3JPbFRHODJpckJWWFZXOEYwdEFpcnM0MEJfa2NVMlJTSzR5TTQ5cGc4cG1mXzZzTlpOWTVwajVHQWU5a2s4ZkpLeHItM2FlUWp1WjZvMFUzMjVhN2Z4eURLN3lR?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50253876
+SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution SAP News Center
 
-## 2. How Australia Built World’s Biggest Battery-Powered Ferry
-Source: Hacker News (discovery)
-Published: 2026-10-27T01:22:19+00:00 | Age: 0.8 hours
-Scanned: 2026-10-27T02:11:30.695807+00:00
-URL: https://www.bloomberg.com/news/features/2026-10-26/an-83-year-old-shipbuilder-is-delivering-era-of-electric-ferries
+## 2. [Hands-On] Comfort, Convenience, and More: A Day With Galaxy Buds On
+Source: news.samsung.com (primary)
+Published: 2026-10-27T08:00:00+00:00 | Age: 0.1 hours
+Scanned: 2026-10-27T08:04:18.127097+00:00
+URL: https://news.samsung.com/global/hands-on-comfort-convenience-and-more-a-day-with-galaxy-buds-on
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50253590
+Earbuds have become an everyday essential for listening to music, taking calls, exercising, and working. With all-day use increasingly common, comfort and awareness of one’s surroundings are now just as important as sound quality. To meet these needs, Samsung Electronics has launched Galaxy Buds On, its first open-ear earbuds. Combining a clip-on design with rich […]
 
-## 3. Stocks to Watch Today: Tata Consumer, Paytm, Nazara Tech, KFin, REC, Sigma Advanced, Highway... - Moneycontrol.com
+## 3. Did Alibaba's Qwen AI Model Try to 'Call Home' to Beijing? Cohere Finds a Troubling Security Clue - International Business Times, Singapore Edition
+Source: International Business Times, Singapore Edition (discovery)
+Published: 2026-10-27T07:54:08+00:00 | Age: 0.2 hours
+Scanned: 2026-10-27T08:04:18.127097+00:00
+URL: https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmlyZlZ0bTdUU0MwM29wNmRzWXZwdmxlVmg5dkI0VjVwbGQ1S1A0akYyaFFsQTRqS2l6VFZsZXhNSFM5TGxINmNCLWhkWXNHU3I4OGxBWEFlN2NQNk5fUndRa2FsemQ5aUVkUGE0VU4tSGp1OUNHSkxlSEJHU0h6TFBfVUsyM1JYSGFYVkZOaEstSkJreHhHQXJSUW4xS2E1RU5PN0Z2VzdyQVJ4WkVOVTltQ1A?oc=5
+
+Did Alibaba's Qwen AI Model Try to 'Call Home' to Beijing? Cohere Finds a Troubling Security Clue International Business Times, Singapore Edition
+
+## 4. Nvidia vs Atlassian salary for techies is viral. Remote roles offer Rs 96 lakh-Rs 1.25 crore - Moneycontrol.com
 Source: Moneycontrol.com (discovery)
-Published: 2026-10-27T00:49:06+00:00 | Age: 1.4 hours
-Scanned: 2026-10-27T02:11:30.695807+00:00
-URL: https://news.google.com/rss/articles/CBMiswJBVV95cUxQT1pUOGlaa0x1d0RJQV8ya2ctSU51cmFhVThybTBQTUtmQ3UzSkMwaGZ4Y1YxdG9nUGtCMURhUXJVTlBBSmlLbzdhd3V1Z2RnRzU1WkRpcHRkeVBWalFDdzdJUk1rOFJYUXJ0SC0zWHVfamRWc25BbEdUUTNpZVoyVlExRy1tckhYU2lkMXZaSTcybGRWWlpLMFc5a3lVVElFODNIWkpDNnZvUTZuWkp0N0ZvdjlSVjk5UUtQX19LM01QUmhfMDZ1SUxVWTlYOVBsWkVSWTRGNWxYSzY5dExkYUxPQzZsS3Q4REQ4MVhMWkpVNDh0YkFfS1U3ZGFkRG9tdmdYdTk4aml2c215QWpqb0JLNU1hR0h6YUxndHFEdFYwdkJyVWxnRHRnbEVnOGFCUGR30gG4AkFVX3lxTE5UUlFKelR1dWg4dGZ1VU5oaURFRzl5U2ZLTXFqaU9paWFlbkFRVVhjRkF3RXA3b1kxMUJMSFQ2eFQwUUstR2Vjc2Y5WmJnTG5FSm5yaVRZQzVEaDVsYjJCWV8tOVItN0hwUnE1Y0Q3cEh1TU0tcnI3dnkzSXUwUTlXdlI0b0cxMFowcUFGY2Vwdm5CbEFxV3E2U190eVhnY08wcVdPdTN2THprSHUzMFZVdHdUYTRGUHhDVVBYb29aaU9kZUliaF9XVUpCNnJJcmN3SkxuMkJ3dnhHaVNRU0tDamFyOU9qQ01KQVhxNE1NbGR6V0hhWWRzdllVUkY1c0U1YldnMlI5bHA3b0pOczNhNV93UlVfeFByUlBFWE9sZWo4X0VQVkh6Y2RrbkdKb1RVaDZNcF91dQ?oc=5
+Published: 2026-10-27T07:50:55+00:00 | Age: 0.2 hours
+Scanned: 2026-10-27T08:04:18.127097+00:00
+URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUDhSMEhIaFRDbG9wR19HWF8taDUxbWhKZGlQcTB5Uks4LWJkWnF6SDV2T2hjSm9PSEh0NXM3S3pfdE1wM252MlhNeVVvVVk2d3pHUEYwVG1nM2ZCUjNGVEwzVzlaUzRObGJNNU1OZG03dVdsLWlRV0VURmpEaTFneDI3MVU1V0IwT0pUQUFpOEh2SDA5NEMzc1VqaDlYQlpiZkFZdDBXSWNRcXc2U2xxeng2d3hycS1aaWZ0UHZKXzBDbGE5akx3STZLaE41ZUo0V1h5Q2V0dFBsd2tDUk5n0gHkAUFVX3lxTE1HeVNCZ3pJS1RCdmM1WkpicGxibG5aWXpJeFdRczhqQWI4NFkxT1hQRzByVUNacUV2RmNKNVpSS19HNFRSdS1zWXNYS1dpRmdrMWdLUUtDZExreDM3Ty13NGw3NDdqaXQ5MlZNcFJmR19EM2gwUHZvSktHakxXeldaWUhkUTVjejBHdnlieXJtbEhiaUxuMElubE9wSVRhSTlRb3J4bkRxeDRlTE1aT3Y2VS1rSW5vVDZpc0o5eGFXS0ZoQlJCUVFzbUlqdThaekw2a2JuTlJweHhVaTVTQVpXdU1BcQ?oc=5
 
-Stocks to Watch Today: Tata Consumer, Paytm, Nazara Tech, KFin, REC, Sigma Advanced, Highway... Moneycontrol.com
+Nvidia vs Atlassian salary for techies is viral. Remote roles offer Rs 96 lakh-Rs 1.25 crore Moneycontrol.com
 
-## 4. GitHub release: anthropics/claude-code v2.1.311
-Source: github.com (primary)
-Published: 2026-10-26T21:51:23+00:00 | Age: 4.3 hours
-Scanned: 2026-10-27T02:11:30.695807+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
+## 5. Apple iOS 27.2 released with major Siri AI upgrades and iPhone Duo features: Everything you need to know - India Today
+Source: India Today (discovery)
+Published: 2026-10-27T07:44:30+00:00 | Age: 0.3 hours
+Scanned: 2026-10-27T08:04:18.127097+00:00
+URL: https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdmZxOGxlbjdQRlRNb1dwNm5qR1Z5T0pwYmRQWVJwZEU4UzllWmwxWlhWMmJHSEpuYkpleGF3bXFRYWJROWFvSkl6cFJrbVdZY2NCUDRua01ZaWd1NVd0d2Z4bFFjVjJHQlppYWFRVjRpNHE1QWNuc0lNck16Q3UxYTYzTDE3RnFCakZobE9MUXhOY1BXS19OOUNHQnYyLXJqbHFTUnhOeWhTbEREeUViZF9hQ3Q5MURXbnV1QXBqckZUWmYyNDBJSnRpN2FzaXRleTdfMmo2akdKa3ExaC1HdFBRSnAtWXc1dW5aTXJpOEJ0M2J4X3BmQmdRenNxd9IBgwJBVV95cUxNZEJ2ak5WVjRtRUF2aGZhaFA5cW5saVo1TzduZU80M1gxTVBPTWJrU0g1REN0RktpQmJFMnJia2JISTJYQjBRUnZEbEtjSVdpVy1xTEVSbGF6Q3FQQ2JlazgtbkNGX0lJZTNZMGF6T2pvaUJyZlp3SVNnRkhBUjhRU1JfNWRoQWtQaEF4WGt1RkZjRHBZYnVpNTM1SDZGUm5SV19qaXcwclpxWjRNdUtrT1BTUk5uWVZLYWtRSE5rMFlEaU00emVnRjBpcFBYdDhnenUyYUFKR0JzNzB2SzlZcl9EYkdPRWNUaGF6cnFYOS1nU0VGVzRFN3JNZHNYOHQ0dWdv?oc=5
 
-## What's changed - Added `--hold-idle-file` and `--max-hold-min` to `self-hosted-runner`, to keep an idle session while your host reports processes it left running - Added a tip for the Explanatory output style, shown when you ask Claude for explanations - Fixed long freezes at startup and after reading or editing files when a CLAUDE.md file holds a very long list item - Fixed interrupting Claude not taking effect u
+Apple iOS 27.2 released with major Siri AI upgrades and iPhone Duo features: Everything you need to know India Today
 
-## 5. GitHub release: openai/openai-python v3.39.0
-Source: github.com (primary)
-Published: 2026-10-26T19:14:00+00:00 | Age: 7.0 hours
-Scanned: 2026-10-27T02:11:30.695807+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.39.0
+## 6. ThreatLens v2.3 Is Now Live Introducing Privacy Controls, IOC Watchlist
+Source: Hacker News (discovery)
+Published: 2026-10-27T07:06:37+00:00 | Age: 1.0 hours
+Scanned: 2026-10-27T08:04:18.127097+00:00
+URL: https://github.com/AbdaullahAG/ThreatLens
 
-## [3.39.0](https://github.com/openai/openai-python/compare/v3.38.0...v3.39.0) (2026-10-26) ### Features * **api:** add gpt-6.1-terra model identifier ([#4180](https://github.com/openai/openai-python/issues/4180)) ([e8beb1a](https://github.com/openai/openai-python/commit/e8beb1abdf6de71ea10195c942f6566ca2696c28))
+Hacker News discussion: https://news.ycombinator.com/item?id=50255537
+
+## 7. Who is Ondřej Surý? The PHP developer helping protect millions of websites from a security flaw that could have put the internet at risk - Education Times
+Source: Education Times (discovery)
+Published: 2026-10-27T06:47:00+00:00 | Age: 1.3 hours
+Scanned: 2026-10-27T08:04:18.127097+00:00
+URL: https://news.google.com/rss/articles/CBMipgJBVV95cUxOQzRMNVVobmhINnNGUHJfWGxpdEZQLXB1cTQ0dWJNdnVSRXVjeVJLR2RQRGp3SzVmQldQeGo0M3FrRzREeVQ3OENFQzV0RUNlUTZ4Um1wYXB5X2hSS1RDZUNuV1VRbWh5dTJtaHg0VG5XR21PMk1MbGVuaE1RLS1TeUd6akJOd0pmWjNIbDRUWWFmZndlbUt3cnBkZ2pzRktEVkhOTERmeE56cFdfWnM0RlVMblpZX0ZjUm5CZDdld2tNV1NobEs4UGJYb1UwS3ZIdVJUTlM0Y3dQV0ZlYmZINUtKSFYxZHYwLU5Ec3NmSDZodTRhVG5HSXpwYnEyNWtkcUoyalpfQ0RVdGdYR0JVcFJpbjY3aGpQUWRiZ0ZOc2NTMjRrS0E?oc=5
+
+Who is Ondřej Surý? The PHP developer helping protect millions of websites from a security flaw that could have put the internet at risk Education Times
