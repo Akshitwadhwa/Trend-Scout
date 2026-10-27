@@ -2,54 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-26T21:42:53.355335+00:00
-Scanned: 2026-10-26T21:42:53.355335+00:00
+Updated: 2026-10-27T02:11:30.699049+00:00
+Scanned: 2026-10-27T02:11:30.699049+00:00
 Memory window: 72 hours
 
-## 1. I Started Negroni Season. It Never Really Ended.
+## 1. Avoiding Dirty Reads: Umem-Cache Achieves Strong Consistency
 Source: Hacker News (discovery)
-Published: 2026-10-26T21:37:21+00:00 | Age: 0.1 hours
-Scanned: 2026-10-26T21:42:53.352636+00:00
-URL: https://robbreport.com/food-drink/spirits/negroni-season-drink-trend-1238754423/
+Published: 2026-10-27T02:07:47+00:00 | Age: 0.1 hours
+Scanned: 2026-10-27T02:11:30.695807+00:00
+URL: https://github.com/imchuncai/umem-cache/blob/master/Documentation/consistency.rst
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50251360
+Hacker News discussion: https://news.ycombinator.com/item?id=50253876
 
-## 2. iOS 27.2 is out: Here's what new features iOS 27.2 bring to Siri and other Apple devices - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-10-26T21:24:23+00:00 | Age: 0.3 hours
-Scanned: 2026-10-26T21:42:53.352636+00:00
-URL: https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT3hxZnZIVS1tMlV6NldYaThRTGFRd1VadWRHeEJrM1NTMjZmZ0RzU2tfUUprZXBVN3ZyTU1OQjdRcUdNdl9nTWtuQ2xvVUNqeHdHTTEzYjF3QnloN2hLalkzcHgxYVluWERWWGthYTJxVzZpNVBQVnJTTmplNk5XcjNXMTI2X2E1SEdueXhZSTZwV1QxMEdEdGpoNlFqT2JBUnkzQURVLUQ0ZDNPX0hjWDN6S09ZdGFsQm5FcWV0ZWJaZ0JOWHRRNE94c2NvVHEwY1hSMmlfM2g1RWRjQkdNeVU5Z9IB6AFBVV95cUxNMDF3VkE0bzh5QTltQ19rTDRJNjJOMkN1TUg4Z3lQVEdKUXlYZG81Vk53VFdnNDBNODVhT1VweWQxelBjRTFGOWRKUUFGMUFPZjNBbFQ2Sk9IUTdRVXVjTUh1YnNGSDU5VXNQekpXQmdIZWVsWEwyRkE2UzNjWXFMVlpGdVhIWDVTd05tdlBWRjJGbXB1T2owajlsRW01VWJMYlZrbVhNWjdLeW5OeW5GQkxVMjVNbEJtS3VYMXVrTkpOaWk0NG1CREhocnlsRVh5azZVWktwbmU4Rlk4Y1lLQVY4WnNXSV9T?oc=5
-
-iOS 27.2 is out: Here's what new features iOS 27.2 bring to Siri and other Apple devices The Economic Times
-
-## 3. OpenAI's agents talked to each other through the CPU Cache
+## 2. How Australia Built World’s Biggest Battery-Powered Ferry
 Source: Hacker News (discovery)
-Published: 2026-10-26T21:24:18+00:00 | Age: 0.3 hours
-Scanned: 2026-10-26T21:42:53.352636+00:00
-URL: https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/
+Published: 2026-10-27T01:22:19+00:00 | Age: 0.8 hours
+Scanned: 2026-10-27T02:11:30.695807+00:00
+URL: https://www.bloomberg.com/news/features/2026-10-26/an-83-year-old-shipbuilder-is-delivering-era-of-electric-ferries
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50251200
+Hacker News discussion: https://news.ycombinator.com/item?id=50253590
 
-## 4. Applied Materials Boosts BE Semiconductor Stake to About 20% - Bloomberg.com
-Source: Bloomberg.com (discovery)
-Published: 2026-10-26T21:11:53+00:00 | Age: 0.5 hours
-Scanned: 2026-10-26T21:42:53.352636+00:00
-URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxNb3ZOa1VNTV9oMEc3Zmk0a0RwR0tmQUlpb1hhWlRUTFRzclJaTG5IVnptLUw4WkJlV3dIeWZRTDdHenF5MWNwRXk2Q1ViSmxjck1BRlZYT3JZRmxOak50NmJHRVZ4UVRqQW9vc3ViYVJYQTBjU1dSTS14MUVoLTd5Q2dlMklKU1FGR1kyalNIdkNnZ0F5YnVhdERjSHJLRGNJMmpZUzh5T3I5TmYxRGozbXhyNGhlbGZZVV9qOGhsQ2pLU01zbllYb3F6QkRpQQ?oc=5
+## 3. Stocks to Watch Today: Tata Consumer, Paytm, Nazara Tech, KFin, REC, Sigma Advanced, Highway... - Moneycontrol.com
+Source: Moneycontrol.com (discovery)
+Published: 2026-10-27T00:49:06+00:00 | Age: 1.4 hours
+Scanned: 2026-10-27T02:11:30.695807+00:00
+URL: https://news.google.com/rss/articles/CBMiswJBVV95cUxQT1pUOGlaa0x1d0RJQV8ya2ctSU51cmFhVThybTBQTUtmQ3UzSkMwaGZ4Y1YxdG9nUGtCMURhUXJVTlBBSmlLbzdhd3V1Z2RnRzU1WkRpcHRkeVBWalFDdzdJUk1rOFJYUXJ0SC0zWHVfamRWc25BbEdUUTNpZVoyVlExRy1tckhYU2lkMXZaSTcybGRWWlpLMFc5a3lVVElFODNIWkpDNnZvUTZuWkp0N0ZvdjlSVjk5UUtQX19LM01QUmhfMDZ1SUxVWTlYOVBsWkVSWTRGNWxYSzY5dExkYUxPQzZsS3Q4REQ4MVhMWkpVNDh0YkFfS1U3ZGFkRG9tdmdYdTk4aml2c215QWpqb0JLNU1hR0h6YUxndHFEdFYwdkJyVWxnRHRnbEVnOGFCUGR30gG4AkFVX3lxTE5UUlFKelR1dWg4dGZ1VU5oaURFRzl5U2ZLTXFqaU9paWFlbkFRVVhjRkF3RXA3b1kxMUJMSFQ2eFQwUUstR2Vjc2Y5WmJnTG5FSm5yaVRZQzVEaDVsYjJCWV8tOVItN0hwUnE1Y0Q3cEh1TU0tcnI3dnkzSXUwUTlXdlI0b0cxMFowcUFGY2Vwdm5CbEFxV3E2U190eVhnY08wcVdPdTN2THprSHUzMFZVdHdUYTRGUHhDVVBYb29aaU9kZUliaF9XVUpCNnJJcmN3SkxuMkJ3dnhHaVNRU0tDamFyOU9qQ01KQVhxNE1NbGR6V0hhWWRzdllVUkY1c0U1YldnMlI5bHA3b0pOczNhNV93UlVfeFByUlBFWE9sZWo4X0VQVkh6Y2RrbkdKb1RVaDZNcF91dQ?oc=5
 
-Applied Materials Boosts BE Semiconductor Stake to About 20% Bloomberg.com
+Stocks to Watch Today: Tata Consumer, Paytm, Nazara Tech, KFin, REC, Sigma Advanced, Highway... Moneycontrol.com
 
-## 5. Apple officially rolls out iOS 27.2. Here's what's new - Mashable
-Source: Mashable (discovery)
-Published: 2026-10-26T20:42:55+00:00 | Age: 1.0 hours
-Scanned: 2026-10-26T21:42:53.352636+00:00
-URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEUjFqY1RRTzZaNVhLYy11TUtVVmNqYTZERE4wZngxaU5FbDIwX1QwOUFwRkV3YjFySnF1U2FVZmRqdndhTGtPNWxHanhsQVNqN2RjbF9PeE8tQ3l5Y2hoLWdZZ2ZicTQ?oc=5
-
-Apple officially rolls out iOS 27.2. Here's what's new Mashable
-
-## 6. GitHub release: openai/openai-python v3.39.0
+## 4. GitHub release: anthropics/claude-code v2.1.311
 Source: github.com (primary)
-Published: 2026-10-26T19:14:00+00:00 | Age: 2.5 hours
-Scanned: 2026-10-26T21:42:53.352636+00:00
+Published: 2026-10-26T21:51:23+00:00 | Age: 4.3 hours
+Scanned: 2026-10-27T02:11:30.695807+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.311
+
+## What's changed - Added `--hold-idle-file` and `--max-hold-min` to `self-hosted-runner`, to keep an idle session while your host reports processes it left running - Added a tip for the Explanatory output style, shown when you ask Claude for explanations - Fixed long freezes at startup and after reading or editing files when a CLAUDE.md file holds a very long list item - Fixed interrupting Claude not taking effect u
+
+## 5. GitHub release: openai/openai-python v3.39.0
+Source: github.com (primary)
+Published: 2026-10-26T19:14:00+00:00 | Age: 7.0 hours
+Scanned: 2026-10-27T02:11:30.695807+00:00
 URL: https://github.com/openai/openai-python/releases/tag/v3.39.0
 
 ## [3.39.0](https://github.com/openai/openai-python/compare/v3.38.0...v3.39.0) (2026-10-26) ### Features * **api:** add gpt-6.1-terra model identifier ([#4180](https://github.com/openai/openai-python/issues/4180)) ([e8beb1a](https://github.com/openai/openai-python/commit/e8beb1abdf6de71ea10195c942f6566ca2696c28))
