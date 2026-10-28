@@ -2,46 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-28T08:47:29.262653+00:00
-Scanned: 2026-10-28T08:47:29.262653+00:00
+Updated: 2026-10-28T17:13:13.336485+00:00
+Scanned: 2026-10-28T17:13:13.336485+00:00
 Memory window: 72 hours
 
-## 1. Luanti (formerly Minetest) reveal a major ContentDB security incident
+## 1. MacBook Pro M6: How to buy new MacBook with M6 chip - Mashable
+Source: Mashable (discovery)
+Published: 2026-10-28T17:04:20+00:00 | Age: 0.1 hours
+Scanned: 2026-10-28T17:13:13.334841+00:00
+URL: https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mb1EzWDYwYUtRU0o0TzBGZFI2b2U5b1ZRUnZxSHhDNHZSb2Qxa0ZYVm5IWE04ckFFT1c5b1dqdzhTN21lSnE3RExfUkpaT0hVRXpVVHNJcXpiWl9xbWozS0w4bURXOXR4TVp0VQ?oc=5
+
+MacBook Pro M6: How to buy new MacBook with M6 chip Mashable
+
+## 2. Gemini 4 Carbon
 Source: Hacker News (discovery)
-Published: 2026-10-28T08:45:20+00:00 | Age: 0.0 hours
-Scanned: 2026-10-28T08:47:29.259696+00:00
-URL: https://blog.luanti.org/2026/10/27/contentdb-security-incident/
+Published: 2026-10-28T17:01:23+00:00 | Age: 0.2 hours
+Scanned: 2026-10-28T17:13:13.334841+00:00
+URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50270743
+Hacker News discussion: https://news.ycombinator.com/item?id=50276792
 
-## 2. AMD to take $1 billion equity stake in Meta, deploys AI infrastructure - electronics.economictimes.indiatimes.com
-Source: electronics.economictimes.indiatimes.com (discovery)
-Published: 2026-10-28T08:26:26+00:00 | Age: 0.4 hours
-Scanned: 2026-10-28T08:47:29.259696+00:00
-URL: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdnFWcVdjOWcxR0t4Yk81ZlVaak8zbHQ4ckQ3QTZETzVfc0RKNVBQSlhXN0lTQnBOUE03UWVQdkZxRDl6WS1WalVMSU1pWno2WmUyenlzUGlZWWRfUGl4M2NOUWFVdG55QWtodXpCUjNwSWhrc1hsTldHaHo5Q0ZPZnpRUU4xeDRqd1ZIX3pYOHFwZ1FmUEdJeG9DUnRlVkM1b21SWGQtOEwtSUVUSlBldFZTWFcyYnhhQkJKVUxQQUtUSXlKQ1pNa3lLNXpieHAzUjBRZUFLVlVCd0xnQlg0c9IB5AFBVV95cUxQcXdFLXFhaWpJeWdZWmZnbldFcGlUeEFtQW5jOUhIeGpGQW90VWcwcnotYzRyT1RjV1JjZ1ZlSlctNmVsTjNBUHNYcDB1aXVkNDBqd3Qzc3k2dFRZenY3UGVZRVJxZ2lYcEN4Q0t3emFubkh0dF9hLUtBUWh6SGw3WVZtYXNiVHBvQVdrcVVZRW5qX0NDNk43eTM2MHlLb1VpeG5lTEl5elk4WjhHalBmWmZGMmF6VzJlQ0FMX1liZGdNU3ZPSDZsSTZERmMzTGppd2RiUGhYeDJlbmZRNjF0Z2k1WmM?oc=5
+## 3. Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs
+Source: about.fb.com (primary)
+Published: 2026-10-28T17:00:49+00:00 | Age: 0.2 hours
+Scanned: 2026-10-28T17:13:13.334841+00:00
+URL: https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/
 
-AMD to take $1 billion equity stake in Meta, deploys AI infrastructure electronics.economictimes.indiatimes.com
+Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .
 
-## 3. "No human at the helm": Delaware plan would let AI agents run businesses
+## 4. Claude Refuted ETH Too: Anthropic's 3-SAT Paper Explained
 Source: Hacker News (discovery)
-Published: 2026-10-28T08:20:02+00:00 | Age: 0.5 hours
-Scanned: 2026-10-28T08:47:29.259696+00:00
-URL: https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/
+Published: 2026-10-28T16:54:51+00:00 | Age: 0.3 hours
+Scanned: 2026-10-28T17:13:13.334841+00:00
+URL: https://cellcog.ai/blog/claude-refutes-eth-3-sat/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50270583
+Hacker News discussion: https://news.ycombinator.com/item?id=50276704
 
-## 4. 'She landed a job with it': Software engineer builds AI job search app after wife struggles for 10 months - Moneycontrol.com
-Source: Moneycontrol.com (discovery)
-Published: 2026-10-28T08:14:56+00:00 | Age: 0.5 hours
-Scanned: 2026-10-28T08:47:29.259696+00:00
-URL: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYnM4Z1pPeUFkbkxXV3p3Vkh4MjczbjNOSWFyUlJ0ZzNFamRkTXhfdU9NYzdEcUpCZ0pEYzJxTWJMV0xHcG5JQ0FfZERaeFZrM3JTbHc4NVRMNFdWOEJLS2EzS0ZsWk42ZW43Z3VhT3drUlZVNS0wenRKVGNRcGZtZEVOQlJYTHB0aEdTZlpxVWhsRTZZS1V4bWdHUTBUZUxNVUhRRzN5MFM1ODBqa0xRQURuLVgzc1ZrS1ZWTWc4cmkycURBTUZjQVplYlhWUF9ucndRazVLbVpQWW9ocFBHc3JiWV9DS1JqV0U0R2N30gHzAUFVX3lxTFBVMjVuNEtVdGdxbG1NQVRhWDU0aE9iV2RRRFoyenhKM3FVNE9NOFR5LTNHZ3BlNlRsbUhLcWZSX3kxal8tY0pPSDlKLUd4WmR6eEp0MEtKd3VVVk1XdXJVQll3QnM3MGZVaWtXTmVoUDd5SkN5V0dIUFVGbGNIUVlOZkc0UHpFZUhxcGlFLXREdGh1Rl9vVzlpR0xna3FIaDdHUm1DTGljNG5lTVFVSVRYQmlteUZPVU9Cb0dHNUlia2twLXVSOWpXWW1pdWRLVTBSZzAwZEFEWk96XzNfeG54VGVrSF9TdnVwdm53bFgzdEJBaw?oc=5
+## 5. GitHub Universe 2026: Evolving every layer of the stack
+Source: github.blog (primary)
+Published: 2026-10-28T16:09:28+00:00 | Age: 1.1 hours
+Scanned: 2026-10-28T17:13:13.334841+00:00
+URL: https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/
 
-'She landed a job with it': Software engineer builds AI job search app after wife struggles for 10 months Moneycontrol.com
+Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog .
 
-## 5. GitHub release: openai/openai-python v3.40.0
-Source: github.com (primary)
-Published: 2026-10-27T15:37:52+00:00 | Age: 17.2 hours
-Scanned: 2026-10-28T08:47:29.259696+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.40.0
+## 6. Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents
+Source: github.blog (primary)
+Published: 2026-10-28T16:07:40+00:00 | Age: 1.1 hours
+Scanned: 2026-10-28T17:13:13.334841+00:00
+URL: https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/
 
-## [3.40.0](https://github.com/openai/openai-python/compare/v3.39.0...v3.40.0) (2026-10-27) ### Features * **api:** add prompt cache breakpoint TTL options ([#4188](https://github.com/openai/openai-python/issues/4188)) ([3596d18](https://github.com/openai/openai-python/commit/3596d18f05b63081fd64c6da82b515293afb98c6)) ### Bug Fixes * **ci:** use an explicit browser demo dependency ([#4185](https://github.com/openai/o
+See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog .
+
+## 7. Google's AI chips are leaving Google's cloud. Here's who gets them first. - Tech Times
+Source: Tech Times (discovery)
+Published: 2026-10-28T16:04:25+00:00 | Age: 1.1 hours
+Scanned: 2026-10-28T17:13:13.334841+00:00
+URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0tKbFRqVThMRGlpZjdFdFlHNThTbzNRMjlwUkt3eTNCNVJPRk5FZmo1azRMRUR1Q3VVcjdtbzZtOTB3MGhXM3VVeEE2cXA3VmZRMkZIQlRtdnhSQU9ybkNHay1wajZzREUyR1pCMDJpSG9BVl9IcHR4ZzlCZ05pajlwVDlJWUVZZXRVaUVxbDM0MWZpWlNOUk1odC1RTFFJNDhWR0xKRmcxWHJXUGwxMkk5ZGVXRmlVN2VSN2owdHd0a1RG?oc=5
+
+Google's AI chips are leaving Google's cloud. Here's who gets them first. Tech Times
+
+## 8. 7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open
+Source: techcrunch.com (reputable)
+Published: 2026-10-28T13:00:00+00:00 | Age: 4.2 hours
+Scanned: 2026-10-28T17:13:13.334841+00:00
+URL: https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/
+
+In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.
