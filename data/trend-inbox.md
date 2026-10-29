@@ -2,46 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-10-29T11:37:37.803383+00:00
-Scanned: 2026-10-29T11:37:37.803383+00:00
+Updated: 2026-10-29T19:43:59.482332+00:00
+Scanned: 2026-10-29T19:43:59.482332+00:00
 Memory window: 72 hours
 
-## 1. The Beleaguered Chip Sellers Getting Their Revenge on Apple
+## 1. A16Z Speedrun Application Reviews
 Source: Hacker News (discovery)
-Published: 2026-10-29T11:26:33+00:00 | Age: 0.2 hours
-Scanned: 2026-10-29T11:37:37.800532+00:00
-URL: https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9
+Published: 2026-10-29T19:35:50+00:00 | Age: 0.1 hours
+Scanned: 2026-10-29T19:43:59.480552+00:00
+URL: https://runstructure.com/sr/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50287332
+Hacker News discussion: https://news.ycombinator.com/item?id=50294613
 
-## 2. L.A. fires exposed millions to lead levels way above normal, study says
+## 2. New Relic Change Tracking Brings Headless Intelligent Observability Directly into GitHub Copilot - SD Times
+Source: SD Times (discovery)
+Published: 2026-10-29T19:34:59+00:00 | Age: 0.2 hours
+Scanned: 2026-10-29T19:43:59.480552+00:00
+URL: https://news.google.com/rss/articles/CBMixgFBVV95cUxNTFF6bFRHOUo3c0pGQTZQdUt6cWVDbjhfU3JBcmd0ZV9YRUNtZ1d4ZkZnSUtzZjZDY0p3eUdqeEF5WXVIaWNrZUUtcXFIaDFERlFYSHdrSGJHcDR6X01naVpGNkhHUXlPTU9hTTc4X2Y0SjlZVGZVWEZZUnBqMEdJMTZhSGRYb284VkdIV1BzUC0yd2pNSlRfTGlqRERVelloWnFTUmppUW5tbldNdHlXRUpPQ3oxMFVnQ3NsOEl6RTJNSkJKWXc?oc=5
+
+New Relic Change Tracking Brings Headless Intelligent Observability Directly into GitHub Copilot SD Times
+
+## 3. /dev/finance, Stripe founding documents, and USCIS O-1 evidence
 Source: Hacker News (discovery)
-Published: 2026-10-29T11:24:53+00:00 | Age: 0.2 hours
-Scanned: 2026-10-29T11:37:37.800532+00:00
-URL: https://www.washingtonpost.com/climate-environment/2026/10/28/millions-were-exposed-lead-levels-way-above-normal-during-la-fires-study-says/
+Published: 2026-10-29T19:31:54+00:00 | Age: 0.2 hours
+Scanned: 2026-10-29T19:43:59.480552+00:00
+URL: https://raeez.com/devfinance.html
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50287320
+Hacker News discussion: https://news.ycombinator.com/item?id=50294551
 
-## 3. Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap - Bloomberg
-Source: Bloomberg (discovery)
-Published: 2026-10-29T10:57:25+00:00 | Age: 0.7 hours
-Scanned: 2026-10-29T11:37:37.800532+00:00
-URL: https://news.google.com/rss/articles/CBMilAFBVV95cUxQd1B6V3JFX19tOWhyZHVKZzFGZ1k0aXcyNERXb0JrMFNjQVpEaFZMeVMxU1FUVnJpWmFrM3JQbjJ5cXRsU0NBekRsOUM2WEQ2Zlh3MWluWUU2c0poWTk1ZDBGMC13SUtxX1lVdjEtQW1PbWdXRE95ZFJqZ2JmZEwxeW5VbVVORWlzMlJTVHdnZ2NkaWR3?oc=5
+## 4. Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot - The New York Times
+Source: The New York Times (discovery)
+Published: 2026-10-29T19:27:01+00:00 | Age: 0.3 hours
+Scanned: 2026-10-29T19:43:59.480552+00:00
+URL: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbmIwejFRbkRpX2JibzE0S1NHWjdlS2lSWUJKTXVTNWYxRnVfS0ZDODhGcHdhRFBiamplX2lWSUlMRGZtdU12XzYxaUlRUGRzdmR4SU5saFJJZ3BrNUltdERoRWdoWlZuME9RMndwUi1jRmdRbzROenB0bG4wU0MtU1EtcnNyaU5lRDdz?oc=5
 
-Tech Rally Stalls as Alphabet, Samsung Disappoint: Markets Wrap Bloomberg
-
-## 4. GitHub release: googleapis/python-genai v2.34.0
-Source: github.com (primary)
-Published: 2026-10-29T06:20:17+00:00 | Age: 5.3 hours
-Scanned: 2026-10-29T11:37:37.800532+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v2.34.0
-
-## [2.34.0](https://github.com/googleapis/python-genai/compare/v2.33.0...v2.34.0) (2026-10-29) ### Features * Add support for continuation_token and requires_continuation status ([daac53e](https://github.com/googleapis/python-genai/commit/daac53e8ad1731e8c0067a3e83fd3dfab6973c3f)) * Add support for Python 3.15. ([cb1408b](https://github.com/googleapis/python-genai/commit/cb1408b06c573060f1593023ca320fde9a4fb5f6)) * A
-
-## 5. Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs
-Source: about.fb.com (primary)
-Published: 2026-10-28T17:00:49+00:00 | Age: 18.6 hours
-Scanned: 2026-10-29T11:37:37.800532+00:00
-URL: https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/
-
-Meta is bringing Superintelligence models, research funding, and direct researcher collaboration to US universities that are using our models to solve critical issues in science and medicine. The post Meta Partners With Five US Universities to Accelerate Medical and Scientific Breakthroughs appeared first on Meta Newsroom .
+Nvidia Chief, Jensen Huang, Is Seen as Target of Chinese Spy Plot The New York Times
