@@ -2,46 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-01T02:22:24.957363+00:00
-Scanned: 2026-11-01T02:22:24.957363+00:00
+Updated: 2026-11-01T09:26:09.762764+00:00
+Scanned: 2026-11-01T09:26:09.762764+00:00
 Memory window: 72 hours
 
-## 1. LUXEED and AiMOGA Robots: Co-Building the Future of Mobility Through a Connected Human-Vehicle-Home Ecosystem - The Manila Times
-Source: The Manila Times (discovery)
-Published: 2026-11-01T02:16:21+00:00 | Age: 0.1 hours
-Scanned: 2026-11-01T02:22:24.955276+00:00
-URL: https://news.google.com/rss/articles/CBMijwJBVV95cUxQYlVyZjByU3p2SnZqb2xpR0o5ajNLN0g1ZS1xd0ZsQUwxX1pCdDJnNHg5bHRDdmliUWJVcFFhUUlsb0dkSmwxNm9uUnFRMjVTQzNtS0EtbVJ6OXZXVVhiZFA5cnI4T0hlbEdqR0lxSXhveWxFNnRKOUIxSHJld0FoWG1JSXFyeXNuS29JUW1TUEdkb2NtYVYtMTU2a0pxT2FlQkVHeXZQb1gwTUU0X0dqNXdldVJOdU5FVnJjQUdXck5EWF9IRFFpb3AzT1NNUTYtUnRUN3lJQ0ltU1M4d0xIOU45Z2hqbC1LNVRXT3NhRFRkS3ROVXluc08ydWJGcGpLSVRwUUhFRU8wTk9sNEt30gGUAkFVX3lxTE1qY0Rzd1pFaGxWOUpVRFNtemUwZWNUbzJSOHBpaTMwVm8zTFhJZTBxTkNGdzNpWnpQT21CLVFKUnRWNUhMSS0zZndhZ2p3SlJHSkZVYlhndUJWQU1ERWZzZ3YzXzBDNUFlVHhQS3B6TGZ4SmptV0RQcURGTWZ0X2VQODVyUmtjeTFXYnE2eEFSLU5TLS1vcDdZVFNDZk1UQXU2TThNdTktX3JVbUhpZXpQOFpLdjVaLVo1UUdsSXZlLUdSZzVsNEwxeXFhcVpyWS1VUVRkb1NEckI2cTV6RmFiODc4VC1FaUpxN2JkUGo2TTc4SEg5VE91b0VOSHdiYmN1TzlZRTNhRjVEZ2ozalVUTzlEVg?oc=5
+## 1. Hugging Face model update: Vxtzq/Crowd-v1
+Source: Hugging Face / Vxtzq (reputable)
+Published: 2026-11-01T09:22:48+00:00 | Age: 0.1 hours
+Scanned: 2026-11-01T09:26:09.760196+00:00
+URL: https://huggingface.co/Vxtzq/Crowd-v1
 
-LUXEED and AiMOGA Robots: Co-Building the Future of Mobility Through a Connected Human-Vehicle-Home Ecosystem The Manila Times
+text-generation; downloads=99560; likes=28
 
-## 2. Hermantown approves controversial Google Data Center during late night meeting
+## 2. FreeGent: Free Agentic AI for Everyone
 Source: Hacker News (discovery)
-Published: 2026-11-01T02:15:59+00:00 | Age: 0.1 hours
-Scanned: 2026-11-01T02:22:24.955276+00:00
-URL: https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+Published: 2026-11-01T09:20:16+00:00 | Age: 0.1 hours
+Scanned: 2026-11-01T09:26:09.760196+00:00
+URL: https://freegent.ai
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50322155
+Hacker News discussion: https://news.ycombinator.com/item?id=50323876
 
-## 3. Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents
+## 3. Europe’s Fossil-Fuel Problem Has an Electric Solution - Bloomberg
+Source: Bloomberg (discovery)
+Published: 2026-11-01T09:10:26+00:00 | Age: 0.3 hours
+Scanned: 2026-11-01T09:26:09.760196+00:00
+URL: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1NLVjVwbjdnYWQ0d2dIbS02QWtzVV9zT0xRV3RLRjA1M1VoUE1HUU9sM1d0cUlOYUMwakhaS2ZOeG1wUEVyamlRcmcwcnhGcUxQMmZ6YnVLT1M1NnllUkl0VTZXX1JKN3ZFWDVxakQ4VldFQzNpNWxHZlBUc1FFTW12V3Q5aUo3WjFGOFFIQVpxSDM0d3Byd1Y1R0doMVBwU3JoSTVleXZWQTg?oc=5
+
+Europe’s Fossil-Fuel Problem Has an Electric Solution Bloomberg
+
+## 4. DeepSeek launches advanced coding agent to rival Claude Code
 Source: Hacker News (discovery)
-Published: 2026-11-01T01:46:21+00:00 | Age: 0.6 hours
-Scanned: 2026-11-01T02:22:24.955276+00:00
-URL: https://github.com/shashtag-ventures/linkedin-ops
+Published: 2026-11-01T09:07:49+00:00 | Age: 0.3 hours
+Scanned: 2026-11-01T09:26:09.760196+00:00
+URL: https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50322021
+Hacker News discussion: https://news.ycombinator.com/item?id=50323814
 
-## 4. Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
+## 5. Record profits fail to shield Samsung, SK hynix stocks as AI spending fears rattle markets - Korea JoongAng Daily
+Source: Korea JoongAng Daily (discovery)
+Published: 2026-11-01T07:22:51+00:00 | Age: 2.1 hours
+Scanned: 2026-11-01T09:26:09.760196+00:00
+URL: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYVc4aFZabjFNWnZjNGFjRnl6ZDI2NEtmQVBxU3ZXa0lHZ3pCQ05oQnd2YXpwN25mMVFIWi11blZ1U05sMnhHQU1FQlcwZlBDN1VmRm9sa2JqTVNfdE1mNW5oZjBjMGNYSThNZTE0YmRfa2pCVFN6MkhpTEZuTEp4U3pFV285LWtPYXhqUDhocTlKY2E0ZVdUX1EteGtUbkx5TXhvdGdDOU5KeExwRWJwbDV5cGpHYnozbVNISks3dXZqOE5hTHZEZnA5YjRUVkFXemRKVjFFSWNBdw?oc=5
+
+Record profits fail to shield Samsung, SK hynix stocks as AI spending fears rattle markets Korea JoongAng Daily
+
+## 6. Samsung chairman highlights chip packaging, visits Japanese unit - The Korea Times
+Source: The Korea Times (discovery)
+Published: 2026-11-01T07:01:04+00:00 | Age: 2.4 hours
+Scanned: 2026-11-01T09:26:09.760196+00:00
+URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQVjhVbG9sU2lWcG52WkVmX2hVc1BOMmhPa3djMndhVGRDTXA2OWpKQmNJQkhzNjVZNE5tdHFMaXBETl9TbXdNQXM0SHhXRHl5c3o3ZWMzejNsN3FCamljSnNTdzlPSUJ6YUhDWDVoZ2VvVXBoLWRiRU9Fay01cjNqbkdCeHM5Z3RZWDJIMW9mdDIyd3I5cGVDbVJIdjQxU2tGajFGTUVvaEs0TkY2Z0s4N2dBN3k3aTNKYjM1dNIBwgFBVV95cUxQaEVJSTF5bXJ1aHZNQXEwOEROT1dvSEtLVC1fbTVUSFYwejBlajVPLW5BYUczcEJOb29sUUxLR3hRU3RPZENBZmxnNkdWVnpnMXd0VUVXRV9mUGRKam1tZnN6YjBiT3Viang4Zm41dUJZWUo5SFQzRUplZWM2S1hENnpTTnFVYkNvZ1paYzVaTlVDZFc5NXgwMlU1Q2toOGxjb0Y5LVBOSlBTclg2UTBYeFY3a2p2X1kxemRYaXBIeXNCZw?oc=5
+
+Samsung chairman highlights chip packaging, visits Japanese unit The Korea Times
+
+## 7. What is Gemini 4 Carbon, Google’s new AI model for finding, fixing security flaws? - The Indian Express
+Source: The Indian Express (discovery)
+Published: 2026-11-01T03:36:00+00:00 | Age: 5.8 hours
+Scanned: 2026-11-01T09:26:09.760196+00:00
+URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1Ezd1B5OTJQb1AyR2JxcEJfcktPbTlMX29UeUdfTzJENzVGaC02MFI5YWYwNWY5cGxHVzRtN3A5REdzbUpzV3dUMHhfdXZndzRLN1RwdGhpenRYWEdaeWhQWE1iYV9aLWttNGpNT0hfb25Od0RreXJhR2U0bC1zeW9SenhlcDVpcTFZVm9QMlNkX0FPYVVObklsYUwwa2xVSnJyd1doVUY3aU1taGdITjVnMEY5WXBXM3Bnc29LMEthT0Z1eTBB0gHOAUFVX3lxTE0zV3EzUzhRY0syTFBPd0dpR1lNeTZyME5hYkpsUW1aenZpWjI2eFpzd0VWRDVCazBnZE95Ym1hR084OUlmbFAyTkNvR0YzV3FMNVdCU2ttQWdvQkRVc0NaNWc1cFYtR3BtTU01THc1dDgtSUxIcG1yVkFCRjlXVnlmbXpHSWJHRzlTblp3WDZqLXJtSXpPd2I2NGtURDJRdkxBWXBNRHh1R0MwNDl3NjV5NmtrZUR1aGZkbFhxbzVHSXpmMEJKMkJHT2N0QU5B?oc=5
+
+What is Gemini 4 Carbon, Google’s new AI model for finding, fixing security flaws? The Indian Express
+
+## 8. 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale
 Source: techcrunch.com (reputable)
-Published: 2026-10-31T21:41:00+00:00 | Age: 4.7 hours
-Scanned: 2026-11-01T02:22:24.955276+00:00
-URL: https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/
-
-Apple's new CEO defended the company's current position in the AI landscape.
-
-## 5. 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale
-Source: techcrunch.com (reputable)
-Published: 2026-10-31T21:36:07+00:00 | Age: 4.8 hours
-Scanned: 2026-11-01T02:22:24.955276+00:00
+Published: 2026-10-31T21:36:07+00:00 | Age: 11.8 hours
+Scanned: 2026-11-01T09:26:09.760196+00:00
 URL: https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/
 
 On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.
