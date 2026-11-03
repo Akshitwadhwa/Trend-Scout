@@ -2,54 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-02T22:50:02.341280+00:00
-Scanned: 2026-11-02T22:50:02.341280+00:00
+Updated: 2026-11-03T03:57:45.872107+00:00
+Scanned: 2026-11-03T03:57:45.872107+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: Vxtzq/Crowd-v1
-Source: Hugging Face / Vxtzq (reputable)
-Published: 2026-11-02T22:47:27+00:00 | Age: 0.0 hours
-Scanned: 2026-11-02T22:50:02.338277+00:00
-URL: https://huggingface.co/Vxtzq/Crowd-v1
-
-text-generation; downloads=102471; likes=30
-
-## 2. Alphabet in talks to acquire assistant startup Howie AI
+## 1. Show HN: CheapGPT – a free local AI assistant powered by Chrome's Gemini Nano
 Source: Hacker News (discovery)
-Published: 2026-11-02T22:41:23+00:00 | Age: 0.1 hours
-Scanned: 2026-11-02T22:50:02.338277+00:00
-URL: https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant
+Published: 2026-11-03T03:42:52+00:00 | Age: 0.2 hours
+Scanned: 2026-11-03T03:57:45.869923+00:00
+URL: https://www.predatorray.me/CheapGPT/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50345068
+Hacker News discussion: https://news.ycombinator.com/item?id=50347777
 
-## 3. The Hitchhiker's Guide to Training on Compute Islands – Core Automation
-Source: Hacker News (discovery)
-Published: 2026-11-02T22:34:46+00:00 | Age: 0.3 hours
-Scanned: 2026-11-02T22:50:02.338277+00:00
-URL: https://www.coreauto.com/hitchhikers-guide-to-training-on-compute-islands
+## 2. BMW iX3 raises the bar for premium electric SUVs - Khaleej Times
+Source: Khaleej Times (discovery)
+Published: 2026-11-03T03:30:00+00:00 | Age: 0.5 hours
+Scanned: 2026-11-03T03:57:45.869923+00:00
+URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2ZKbGl5TzJMelNZejhTNWhWYnpDQTRDcXdFdFNTVUExcE1qWkEyYndiQzF2dGdOMldEWXJLa3NrSHlndkV4bjEwTlNLWjZhSmtTYVJuYW5HN3g4VXgzVGVWbEluRU9najJVYTlXNjFsTlpPWExVaUZBcjBnVFFYWVRUbWFXcG5JN3BvNEVaNnQ3VnVRNFdDeEU1LUNVMzZuYTBJQzByWdIBrwFBVV95cUxQNjJ5dktHaFNsOGhLa25Vc3JxTHJ1aDljSHBvTWs5VW9YYVNSZ1ZUQUVsa19oM25xRXJBY0VQbExzYnhUcS1VNXlTNkx6VUhDbGxGaHd0S21rcE05cG9BQ0V0OTg0cTdPcnVZNWRrbE93OFc4bGg2azBPcU5OeE5Talk2Q0hfSkx1NEFHenByQW5XdHBwWVVLUHB2aXJMTXY2WGpkbzBzMnk2eENyVEdB?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50344985
+BMW iX3 raises the bar for premium electric SUVs Khaleej Times
 
-## 4. US trade commission terminates Samsung chip patent probe following settlement with Netlist - The Korea Times
-Source: The Korea Times (discovery)
-Published: 2026-11-02T22:28:00+00:00 | Age: 0.4 hours
-Scanned: 2026-11-02T22:50:02.338277+00:00
-URL: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZFo0T1U1NUI3OGtRU1M1b1dUSzhWOGhvVVBDSzVvbDRaekwtVHptcFRJSFc1bTBVNlYxMXhBSEQ5TVNEUURscXdaRFJaUTVCOUxJNTRNeENWOF9iXzBJQVZvUlRfbzVUbDBUbXdZUW02aEhIU2wyUUphX2hkTzAtSXlPWFN2cy1uWmV4b3lnbnY2T0ExdHhQck1GQ0hLcjJJbFItVlNseDRQV3ZKbzNaTE5XbW1ZbENSOWJ2ZFUxRnJ6SldfeC11VkpDczBPZTVJOGg1aVdNTEVFUG5TeWhnadIB5gFBVV95cUxPX3dac0ptVDhvdzJGNXVFcFpCd0g0QzJSdGtvZUJPd29LN2FKUTB2VmFyelFjT2ZDRk5nNFlzT0pTemotZVk1MlZCOUt6WDBOaEJLOEJ5QkxoSGlEYktqZ0o2aE93RDRhSXo4RGNTcGNZWTg1eVF5Z1RTajNYTWxOd2VDVFZ3XzhFckFZdHZlY2ZLSVhWenppcUNmWmYwOUFBVHQ3VHpYa3REMzRNQXRBY0hSejFkc2xsMmx6b2hlM196eGl3bFNGU0VGcWpRWE5DQ0pXTVloU1lER0VLbk51TzU5TFlSdw?oc=5
+## 3. Temple Brain-Monitor Wearable Opens Pre-Orders at ₹85,000: Peer Review Still Pending - Tech Times
+Source: Tech Times (discovery)
+Published: 2026-11-03T03:14:50+00:00 | Age: 0.7 hours
+Scanned: 2026-11-03T03:57:45.869923+00:00
+URL: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUFWS29UcnNlWi0wYktLODJna3FPRTVYN3NQSDZOSUpxMk1EYzVzWmg0OS1iaDRkNDhUZExHaGNIb2RuR294RE80RGt6Q0E5dkpURW9PakQzdGNOWmtleXNKY3RaQ1JxZE5OR1dNSEgwMjY3bGZadDRWVWoxRkxwaUt4S0oxMDNkU0hOc0w5eFZkc25FTlJfbmxqdjBibHVpSFY3a0V1RmNZdnFTOTNBVm1vRkJZOXl3OVJuWmVRODNKTFNtQ1JPMkROWlJMOVNSOUE?oc=5
 
-US trade commission terminates Samsung chip patent probe following settlement with Netlist The Korea Times
+Temple Brain-Monitor Wearable Opens Pre-Orders at ₹85,000: Peer Review Still Pending Tech Times
 
-## 5. Anthropic warns that it’s very close to RSI capability, aka self-building AI
+## 4. GitHub release: anthropics/claude-code v2.1.317
+Source: github.com (primary)
+Published: 2026-11-03T01:25:46+00:00 | Age: 2.5 hours
+Scanned: 2026-11-03T03:57:45.869923+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.317
+
+## What's changed - Added a warning to `/schedule` when a new cloud scheduled task gets connectors you did not ask for, with how to remove them - Added a check that asks before a web or shell tool call sends your account email address to the network - Added `onFailure: "block"` for Agent SDK hook callbacks, so a callback that fails blocks the action instead of letting it run - Added a notice in Claude Desktop's Code 
+
+## 5. Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them
 Source: techcrunch.com (reputable)
-Published: 2026-11-02T22:14:50+00:00 | Age: 0.6 hours
-Scanned: 2026-11-02T22:50:02.338277+00:00
-URL: https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/
+Published: 2026-11-03T01:12:55+00:00 | Age: 2.7 hours
+Scanned: 2026-11-03T03:57:45.869923+00:00
+URL: https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/
 
-RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.
+A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.
 
-## 6. New York Times and other outlets sue web browser Brave over alleged content scraping
+## 6. Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens
 Source: techcrunch.com (reputable)
-Published: 2026-11-02T19:19:17+00:00 | Age: 3.5 hours
-Scanned: 2026-11-02T22:50:02.338277+00:00
-URL: https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/
+Published: 2026-11-03T00:35:52+00:00 | Age: 3.4 hours
+Scanned: 2026-11-03T03:57:45.869923+00:00
+URL: https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/
 
-The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.
+Y Combinator Garry Tan has jokingly admitted that he's suffered from "cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.
