@@ -2,38 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-04T13:07:44.015350+00:00
-Scanned: 2026-11-04T13:07:44.015350+00:00
+Updated: 2026-11-04T20:52:12.598933+00:00
+Scanned: 2026-11-04T20:52:12.598933+00:00
 Memory window: 72 hours
 
-## 1. Show HN: Backup your ChatGPT and Claude conversation free
+## 1. Hugging Face model update: Vxtzq/Crowd-v1
+Source: Hugging Face / Vxtzq (reputable)
+Published: 2026-11-04T20:51:12+00:00 | Age: 0.0 hours
+Scanned: 2026-11-04T20:52:12.595879+00:00
+URL: https://huggingface.co/Vxtzq/Crowd-v1
+
+text-generation; downloads=72686; likes=32
+
+## 2. Investigating Vault Particles with Claude
 Source: Hacker News (discovery)
-Published: 2026-11-04T13:04:25+00:00 | Age: 0.1 hours
-Scanned: 2026-11-04T13:07:44.012359+00:00
-URL: https://www.samewindow.com/
+Published: 2026-11-04T20:47:32+00:00 | Age: 0.1 hours
+Scanned: 2026-11-04T20:52:12.595879+00:00
+URL: https://www.anthropic.com/research/investigating-vault-particles-with-claude
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50364996
+Hacker News discussion: https://news.ycombinator.com/item?id=50371274
 
-## 2. Where Claude's usage limits went: from SSE to protobuf frames
+## 3. Verne V0.5: U.S. Open-Weight SOTA Robotics Foundation Model
 Source: Hacker News (discovery)
-Published: 2026-11-04T13:00:14+00:00 | Age: 0.1 hours
-Scanned: 2026-11-04T13:07:44.012359+00:00
-URL: https://claude-monitor.com/claude-usage-limits-sse-to-protobuf
+Published: 2026-11-04T20:47:24+00:00 | Age: 0.1 hours
+Scanned: 2026-11-04T20:52:12.595879+00:00
+URL: https://vernerobotics.com/research/verne-v0-5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50364948
+Hacker News discussion: https://news.ycombinator.com/item?id=50371272
 
-## 3. Exclusive: OpenAI targets Microsoft's GitHub with deal for startup - Axios
-Source: Axios (discovery)
-Published: 2026-11-04T11:33:27+00:00 | Age: 1.6 hours
-Scanned: 2026-11-04T13:07:44.012359+00:00
-URL: https://news.google.com/rss/articles/CBMib0FVX3lxTE5OaUdITlV1WEtmam1aNDlWMG4yd1hMZXBSc19qTExTVkdOeTgtbkt0VGtzWklpUlg0VENqOXBmUjlZUjEtNmNPdDdBak01dmRZTlAtd0kyTlA4WFlQdFVVUHluVFpKNjZPQS1CRWRHcw?oc=5
-
-Exclusive: OpenAI targets Microsoft's GitHub with deal for startup Axios
-
-## 4. Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them
+## 4. Open source AI is booming. Hugging Face explains who profits.
 Source: techcrunch.com (reputable)
-Published: 2026-11-03T01:12:55+00:00 | Age: 35.9 hours
-Scanned: 2026-11-04T13:07:44.012359+00:00
-URL: https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/
+Published: 2026-11-04T19:30:04+00:00 | Age: 1.4 hours
+Scanned: 2026-11-04T20:52:12.595879+00:00
+URL: https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/
 
-A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.
+Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]
+
+## 5. Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs
+Source: techcrunch.com (reputable)
+Published: 2026-11-04T18:44:57+00:00 | Age: 2.1 hours
+Scanned: 2026-11-04T20:52:12.595879+00:00
+URL: https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/
+
+Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]
