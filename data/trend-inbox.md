@@ -2,46 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-05T13:21:09.987667+00:00
-Scanned: 2026-11-05T13:21:09.987667+00:00
+Updated: 2026-11-05T21:08:29.090765+00:00
+Scanned: 2026-11-05T21:08:29.090765+00:00
 Memory window: 72 hours
 
-## 1. What a year of Claude Code and Codex issues is about
-Source: Hacker News (discovery)
-Published: 2026-11-05T13:18:25+00:00 | Age: 0.0 hours
-Scanned: 2026-11-05T13:21:09.984727+00:00
-URL: https://noteheld.com/research/claude-code-codex-issues-2026
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50378735
-
-## 2. Hugging Face model update: Vxtzq/Crowd-v1
+## 1. Hugging Face model update: Vxtzq/Crowd-v1
 Source: Hugging Face / Vxtzq (reputable)
-Published: 2026-11-05T13:17:45+00:00 | Age: 0.1 hours
-Scanned: 2026-11-05T13:21:09.984727+00:00
+Published: 2026-11-05T21:08:03+00:00 | Age: 0.0 hours
+Scanned: 2026-11-05T21:08:29.089211+00:00
 URL: https://huggingface.co/Vxtzq/Crowd-v1
 
 text-generation; downloads=72807; likes=33
 
-## 3. TVPort – Port switch games to run natively on AppleTV
+## 2. Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board
 Source: Hacker News (discovery)
-Published: 2026-11-05T13:14:13+00:00 | Age: 0.1 hours
-Scanned: 2026-11-05T13:21:09.984727+00:00
-URL: https://www.reddit.com/r/decomps/comments/1xn3wh1/release_tvport_port_switch_games_to_run_natively/
+Published: 2026-11-05T20:56:14+00:00 | Age: 0.2 hours
+Scanned: 2026-11-05T21:08:29.089211+00:00
+URL: https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50378701
+Hacker News discussion: https://news.ycombinator.com/item?id=50384357
 
-## 4. A YC startup is putting $1M behind five unsolved materials science problems for AI
+## 3. Copilot Chat's usage cap and Microsoft would rather u found them by hitting them
+Source: Hacker News (discovery)
+Published: 2026-11-05T20:50:49+00:00 | Age: 0.3 hours
+Scanned: 2026-11-05T21:08:29.089211+00:00
+URL: https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814
+
+Hacker News discussion: https://news.ycombinator.com/item?id=50384309
+
+## 4. Nvidia CEO Pressed by US Lawmakers Over Tie to Firm in Spy Probe - Bloomberg.com
+Source: Bloomberg.com (discovery)
+Published: 2026-11-05T20:39:55+00:00 | Age: 0.5 hours
+Scanned: 2026-11-05T21:08:29.089211+00:00
+URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTI0MFVuSmI4SjRNUkNiRDRWb1V4eGJqNXZRb19oZHRRMzNGeWJsMm4ySWtIdG1qWmtRTkpYVndDSlI2TUpWM1gteU5QN3NpQ2c3bExmNXB5Rk5keXQ2czRlQUxsLTRZYWhQdWhTUkFkcXg0cUZvYm9vcjlLUndWbXc1QWZ5bnRmcEZ5SVpZRnQ1OGxDTjZfODY1N1lQM3plMm5TNjc2TGZkVU15bm1mQlIwOUpLZw?oc=5
+
+Nvidia CEO Pressed by US Lawmakers Over Tie to Firm in Spy Probe Bloomberg.com
+
+## 5. Inside GitHub’s new Git storage architecture
+Source: github.blog (primary)
+Published: 2026-11-05T20:23:21+00:00 | Age: 0.8 hours
+Scanned: 2026-11-05T21:08:29.089211+00:00
+URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
+
+GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .
+
+## 6. Whirlpool, Samsung Reach Deal in Dishwasher Tech Patent Suit - Bloomberg Law News
+Source: Bloomberg Law News (discovery)
+Published: 2026-11-05T20:22:00+00:00 | Age: 0.8 hours
+Scanned: 2026-11-05T21:08:29.089211+00:00
+URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxQYk1aVHRQRkc5eDVSa2ZxYnVWNmdaRXROYXBrNTY0Tmp6b3ZKTzZjZWhDbUhHcDl0N0lKUEdCLTYzYUVrbVMtYm51cmM1YTlwY1JxOUF4cXdwdzJrbU9XemxFRmdyQWpZUzlMbGxkeDlGZ0lpaE9lcV9ubC12b3lGdEQxMVhyQjg4UXI4RTY4UjZyNERmMWhVVWM0T3M?oc=5
+
+Whirlpool, Samsung Reach Deal in Dishwasher Tech Patent Suit Bloomberg Law News
+
+## 7. Meta warns that election backlash against data centers could make AI expansion harder
 Source: techcrunch.com (reputable)
-Published: 2026-11-05T13:00:00+00:00 | Age: 0.4 hours
-Scanned: 2026-11-05T13:21:09.984727+00:00
-URL: https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/
+Published: 2026-11-05T19:12:39+00:00 | Age: 1.9 hours
+Scanned: 2026-11-05T21:08:29.089211+00:00
+URL: https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/
 
-Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.
-
-## 5. The Wait Is Over! Taito's 1987 Shmup 'Exzisus' Joins Arcade Archives Today - Time Extension
-Source: Time Extension (discovery)
-Published: 2026-11-05T13:00:00+00:00 | Age: 0.4 hours
-Scanned: 2026-11-05T13:21:09.984727+00:00
-URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxOa09fSFpsWGhody0wR1RoUGI2ZWhPLXlNbUJxMUtvd1Q4Ynp3MzhpU0xBSmNtS3VvOFREMWlOOWZMOEVKdGNRUXdYc2xXclRtMUJNa2k5R0hTdi0xazN6cHJQbzVMM3FtMUFMSDBjTmh3b0o3Z0RjemJIS2NLS28tdzM4ekJHa3cwR3QyRVpIdWJBUDRUdmltaEptclAwUkctSlBUTWwxZkQyeEJ1QldXUjZrcw?oc=5
-
-The Wait Is Over! Taito's 1987 Shmup 'Exzisus' Joins Arcade Archives Today Time Extension
+Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.
