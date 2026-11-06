@@ -2,62 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-05T21:08:29.090765+00:00
-Scanned: 2026-11-05T21:08:29.090765+00:00
+Updated: 2026-11-06T03:29:24.070340+00:00
+Scanned: 2026-11-06T03:29:24.070340+00:00
 Memory window: 72 hours
 
-## 1. Hugging Face model update: Vxtzq/Crowd-v1
-Source: Hugging Face / Vxtzq (reputable)
-Published: 2026-11-05T21:08:03+00:00 | Age: 0.0 hours
-Scanned: 2026-11-05T21:08:29.089211+00:00
-URL: https://huggingface.co/Vxtzq/Crowd-v1
+## 1. OpenAI releases GPT-6 Cyber model, says it is less likely to hack companies - India Today
+Source: India Today (discovery)
+Published: 2026-11-06T03:26:19+00:00 | Age: 0.1 hours
+Scanned: 2026-11-06T03:29:24.068702+00:00
+URL: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZjJUZ3JiMENna0ppeDI0TVlrZEpFMkJFMTg2TzduZVloS1g4MzBZZ2ZtbFU5R0N6SG40UUE4WFY3cWlZdGhlU1A4REtoNHNoTWh0b21ma1hCLVI3Tnpyd0llQU5CUU5rdnhqUm00aEJaZmtzaU9sRWZWRzl3aHR3MTVqX2xFWHZRdzRBTVIxU3dpWVdTV0pGUVJVQ3NLZE94OEpTckNBempHcHR5RFhHeHc5SFBhRlJuNlBRNFpJd1p4OUItNURGcXd5VWhUWHNSTHFmM2JhRVdRVHRHWlHSAd4BQVVfeXFMTmYyVGdyYjBDZ2tKaXgyNE1Za2RKRTJCRTE4Nk83bmVZaEtYODMwWWdmbWxVOUdDekhuNFFBOFhWN3FpWXRoZVNQOERLaDRzaE1odG9tZmtYQi1SN056cndJZUFOQlFOa3Z4alJtNGhCWmZrc2lPbEVmVkc5d2h0dzE1al9sRVh2UXc0QU1SMVN3aVlXU1dKRlFSVUNzS2RPeDhKU3JDQXpqR3B0eURYR3h3OUhQYUZSbjZQUTRaSXdaeDlCLTVERnF3eVVoVFhzUkxxZjNiYUVXUVR0R1pR?oc=5
 
-text-generation; downloads=72807; likes=33
+OpenAI releases GPT-6 Cyber model, says it is less likely to hack companies India Today
 
-## 2. Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board
+## 2. FDA Clears Belfast AI That Cuts Smartwatch ECG Inconclusives From 20% to Near-Zero - Tech Times
+Source: Tech Times (discovery)
+Published: 2026-11-06T03:23:55+00:00 | Age: 0.1 hours
+Scanned: 2026-11-06T03:29:24.068702+00:00
+URL: https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1hXR2lycGFPa2tTT1pqQVU1X2dyWXBicWkxdUt6VUhnMVAtc250U3Rad1NxenlvT1dkd0FfamhXM3VHdzd2RWtSM1ZMVDVvdFZXNmRRZ2FidXpTakNhSnZVNFZFYzBfSFphZVdxdnJmMEo1dHFnRFZLZi1KNUVtLVQ1d3pUeGowSWRMSlNwSnV4MHU0cEhjRzB1b09YZUhQdVA1bm1NNklFRlYwT19uSEV3Y01XcFk5aFpnS053d19qNXZRcEx3?oc=5
+
+FDA Clears Belfast AI That Cuts Smartwatch ECG Inconclusives From 20% to Near-Zero Tech Times
+
+## 3. NHS patients to get blood tests designed to detect several cancers at once
 Source: Hacker News (discovery)
-Published: 2026-11-05T20:56:14+00:00 | Age: 0.2 hours
-Scanned: 2026-11-05T21:08:29.089211+00:00
-URL: https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board
+Published: 2026-11-06T03:20:29+00:00 | Age: 0.1 hours
+Scanned: 2026-11-06T03:29:24.068702+00:00
+URL: https://www.independent.co.uk/news/uk/home-news/multi-cancer-blood-test-new-nhs-trial-b3079091.html
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50384357
+Hacker News discussion: https://news.ycombinator.com/item?id=50387760
 
-## 3. Copilot Chat's usage cap and Microsoft would rather u found them by hitting them
+## 4. Breakingviews - COMMENTARY: Toyota robots reboot its China battle plan - Reuters
+Source: Reuters (discovery)
+Published: 2026-11-06T03:17:00+00:00 | Age: 0.2 hours
+Scanned: 2026-11-06T03:29:24.068702+00:00
+URL: https://news.google.com/rss/articles/CBMipgFBVV95cUxNY1ZtRThIeVkxSjBZYko4T0hjNHpwVXRyS2dKaXdnRDI5SVh1clYyY1J0WnFrSy14UnJDaWp2UldZNDl2T2lRRTdVTTlZbUI0dFJvR2xzVThSTHRHUm5uZHBMYXhfd3pGcEFSVTNoUDJGVmJVVVNGbGFYNzdZVl9oNWVwc1I2VjZKNTM0MHNUeEpiVjRveHlmSnhQSkhuc1hBcXl5RGp3?oc=5
+
+Breakingviews - COMMENTARY: Toyota robots reboot its China battle plan Reuters
+
+## 5. Nvidia Kubernetes Engine (NVKE)
 Source: Hacker News (discovery)
-Published: 2026-11-05T20:50:49+00:00 | Age: 0.3 hours
-Scanned: 2026-11-05T21:08:29.089211+00:00
-URL: https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814
+Published: 2026-11-06T03:16:26+00:00 | Age: 0.2 hours
+Scanned: 2026-11-06T03:29:24.068702+00:00
+URL: https://github.com/dsx-ai-factory/nvke
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50384309
+Hacker News discussion: https://news.ycombinator.com/item?id=50387738
 
-## 4. Nvidia CEO Pressed by US Lawmakers Over Tie to Firm in Spy Probe - Bloomberg.com
-Source: Bloomberg.com (discovery)
-Published: 2026-11-05T20:39:55+00:00 | Age: 0.5 hours
-Scanned: 2026-11-05T21:08:29.089211+00:00
-URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTI0MFVuSmI4SjRNUkNiRDRWb1V4eGJqNXZRb19oZHRRMzNGeWJsMm4ySWtIdG1qWmtRTkpYVndDSlI2TUpWM1gteU5QN3NpQ2c3bExmNXB5Rk5keXQ2czRlQUxsLTRZYWhQdWhTUkFkcXg0cUZvYm9vcjlLUndWbXc1QWZ5bnRmcEZ5SVpZRnQ1OGxDTjZfODY1N1lQM3plMm5TNjc2TGZkVU15bm1mQlIwOUpLZw?oc=5
+## 6. GitHub release: googleapis/python-genai v3.0.0
+Source: github.com (primary)
+Published: 2026-11-06T02:02:16+00:00 | Age: 1.5 hours
+Scanned: 2026-11-06T03:29:24.068702+00:00
+URL: https://github.com/googleapis/python-genai/releases/tag/v3.0.0
 
-Nvidia CEO Pressed by US Lawmakers Over Tie to Firm in Spy Probe Bloomberg.com
-
-## 5. Inside GitHub’s new Git storage architecture
-Source: github.blog (primary)
-Published: 2026-11-05T20:23:21+00:00 | Age: 0.8 hours
-Scanned: 2026-11-05T21:08:29.089211+00:00
-URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
-
-GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog .
-
-## 6. Whirlpool, Samsung Reach Deal in Dishwasher Tech Patent Suit - Bloomberg Law News
-Source: Bloomberg Law News (discovery)
-Published: 2026-11-05T20:22:00+00:00 | Age: 0.8 hours
-Scanned: 2026-11-05T21:08:29.089211+00:00
-URL: https://news.google.com/rss/articles/CBMinAFBVV95cUxQYk1aVHRQRkc5eDVSa2ZxYnVWNmdaRXROYXBrNTY0Tmp6b3ZKTzZjZWhDbUhHcDl0N0lKUEdCLTYzYUVrbVMtYm51cmM1YTlwY1JxOUF4cXdwdzJrbU9XemxFRmdyQWpZUzlMbGxkeDlGZ0lpaE9lcV9ubC12b3lGdEQxMVhyQjg4UXI4RTY4UjZyNERmMWhVVWM0T3M?oc=5
-
-Whirlpool, Samsung Reach Deal in Dishwasher Tech Patent Suit Bloomberg Law News
-
-## 7. Meta warns that election backlash against data centers could make AI expansion harder
-Source: techcrunch.com (reputable)
-Published: 2026-11-05T19:12:39+00:00 | Age: 1.9 hours
-Scanned: 2026-11-05T21:08:29.089211+00:00
-URL: https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/
-
-Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.
+## [3.0.0](https://github.com/googleapis/python-genai/compare/v2.34.0...v3.0.0) (2026-11-05) ### ⚠ BREAKING CHANGES * **Default Gemini Developer API version is now `v1` (was `v1beta`)** ([2d0f947](https://github.com/googleapis/python-genai/commit/2d0f9476ae5c7a6d3c90f81b056fad0315be5b60)) * Clients targeting the **Gemini Developer API** now default to API version `v1` instead of `v1beta`. * **No effect on Gemini Ente
