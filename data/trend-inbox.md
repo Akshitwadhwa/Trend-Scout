@@ -2,38 +2,38 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-06T13:04:17.383745+00:00
-Scanned: 2026-11-06T13:04:17.383745+00:00
+Updated: 2026-11-06T20:29:02.481973+00:00
+Scanned: 2026-11-06T20:29:02.481973+00:00
 Memory window: 72 hours
 
-## 1. New Apple products: Everything dropping this month - Mashable
+## 1. ICLR 2027 review scores for 40,458 papers
+Source: Hacker News (discovery)
+Published: 2026-11-06T20:18:57+00:00 | Age: 0.2 hours
+Scanned: 2026-11-06T20:29:02.479085+00:00
+URL: https://shiqiangw.github.io/iclr-2027-scores/
+
+Hacker News discussion: https://news.ycombinator.com/item?id=50397862
+
+## 2. Google has acquired Crusoe's data center site in southeast Wyoming
+Source: Hacker News (discovery)
+Published: 2026-11-06T20:09:14+00:00 | Age: 0.3 hours
+Scanned: 2026-11-06T20:29:02.479085+00:00
+URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update
+
+Hacker News discussion: https://news.ycombinator.com/item?id=50397711
+
+## 3. OpenAI says its new GPT-6 Cyber has already uncovered 'thousands' of exploits - Mashable
 Source: Mashable (discovery)
-Published: 2026-11-06T13:00:00+00:00 | Age: 0.1 hours
-Scanned: 2026-11-06T13:04:17.380821+00:00
-URL: https://news.google.com/rss/articles/CBMiigFBVV95cUxOU0t2YXpwRVJoN0pGWTh1LWNWT01qQmVyeDJ1dVNRZE5WVU80Z1hZTjZtN2s5elk5YU5JeE5vV0pjR2lNd0x4ZzFXNEkxVzdRUmlEcjFIMmxNXzY5X0RvS18zd0dxNDNhUnZJN0pZMjZWdEJUd3Q0RmZrbC1nZzFWTkpxWkZKdnFWZWc?oc=5
+Published: 2026-11-06T18:45:58+00:00 | Age: 1.7 hours
+Scanned: 2026-11-06T20:29:02.479085+00:00
+URL: https://news.google.com/rss/articles/CBMiV0FVX3lxTE12NHZsclk2RGhrejRNeThJR3ltR01KcEN4ZTJOM3RzeDVsS1daYVBmX2dBMXM3U3ZaYVZGblFZeEYwell0NkVXYm5zbVJTUHEzaGF1S0IwZw?oc=5
 
-New Apple products: Everything dropping this month Mashable
+OpenAI says its new GPT-6 Cyber has already uncovered 'thousands' of exploits Mashable
 
-## 2. OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel
-Source: Hacker News (discovery)
-Published: 2026-11-06T12:59:43+00:00 | Age: 0.1 hours
-Scanned: 2026-11-06T13:04:17.380821+00:00
-URL: https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs
+## 4. GitHub release: huggingface/transformers Patch release v5.22.2
+Source: github.com (primary)
+Published: 2026-11-06T15:43:27+00:00 | Age: 4.8 hours
+Scanned: 2026-11-06T20:29:02.479085+00:00
+URL: https://github.com/huggingface/transformers/releases/tag/v5.22.2
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50391804
-
-## 3. Show HN: CLI for Cybersecurity Triage
-Source: Hacker News (discovery)
-Published: 2026-11-06T12:57:46+00:00 | Age: 0.1 hours
-Scanned: 2026-11-06T13:04:17.380821+00:00
-URL: https://ceplang.org/start.html
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50391790
-
-## 4. iPhone Duo Survey Reveals What Apple Wants to Know About Its First Foldable Phone - Tech Times
-Source: Tech Times (discovery)
-Published: 2026-11-06T12:25:03+00:00 | Age: 0.7 hours
-Scanned: 2026-11-06T13:04:17.380821+00:00
-URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxPaGQ4R2NtaEcyWkJfS2J3b0pPUDV1cHVsWUROZDdwUURVZUh6SGIwQXM2c0FOWVZSMC15OFNXT29KYnhwd2dLNjlna1BvYUdOOTluYnZXY1Q1WG1Sdm54dzE1bHQ5a25XLURJNklGM3dvM1Y4ajEtNkJXejdHQUdSQ0hUY2FiODZ6aGo5VFp2TjYtTEVUdWgwZDVISDRPX2VnWkZjV29lM0c4dFpHcjZ3NG1sN1lFYlZ3MlhrLU9FVFJVbjg5YmtheVZTR25fZw?oc=5
-
-iPhone Duo Survey Reveals What Apple Wants to Know About Its First Foldable Phone Tech Times
+# Patch release v5.22.2 Some in between patch for security and distributed fixes. See the included commits :hugs: - [Distributed] Set device_id only for NCCL (#50281) by @michaelbenayoun and @3outeille - Harden our Jinja sandboxing (#50431) by @Rocketknight1 **Full Changelog**: https://github.com/huggingface/transformers/compare/v5.22.1...v5.22.2
