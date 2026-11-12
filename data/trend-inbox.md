@@ -2,62 +2,78 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-11T21:28:26.660817+00:00
-Scanned: 2026-11-11T21:28:26.660817+00:00
+Updated: 2026-11-12T03:56:37.717218+00:00
+Scanned: 2026-11-12T03:56:37.717218+00:00
 Memory window: 72 hours
 
-## 1. Apple II Agent: An AI Coding Environment for the Apple II
+## 1. The Forever-Day Problem: Unsupported Software on the Public Internet
 Source: Hacker News (discovery)
-Published: 2026-11-11T21:20:03+00:00 | Age: 0.1 hours
-Scanned: 2026-11-11T21:28:26.658568+00:00
-URL: https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii
+Published: 2026-11-12T03:33:07+00:00 | Age: 0.4 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
+URL: https://blog.fortirix.com/blog/forever-day/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50458850
+Hacker News discussion: https://news.ycombinator.com/item?id=50462732
 
-## 2. Show HN: Version History for Your Synced Notes (AI Agent Safety)
+## 2. Ring Robotics
 Source: Hacker News (discovery)
-Published: 2026-11-11T21:19:24+00:00 | Age: 0.2 hours
-Scanned: 2026-11-11T21:28:26.658568+00:00
-URL: https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents
+Published: 2026-11-12T03:31:04+00:00 | Age: 0.4 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
+URL: https://ring.com/ring-robotics
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50458841
+Hacker News discussion: https://news.ycombinator.com/item?id=50462717
 
-## 3. BIR probes possible data exposure after cyberattacks - The Manila Times
-Source: The Manila Times (discovery)
-Published: 2026-11-11T21:18:14+00:00 | Age: 0.2 hours
-Scanned: 2026-11-11T21:28:26.658568+00:00
-URL: https://news.google.com/rss/articles/CBMivgFBVV95cUxOTC1JMVgzY0RyaDRrTEFuQ3FjUGZlSXBUUGxHNUJkN2hmaEYyOHJYZ0h1UFFGYXpvMG1teUdoXzJmdTBuSnlqNFQ5TUgzQVpxNjNKancyNi00Qm9pdFp2dlo5QkFIc3ctQk90eTRhRk1sTUJyd0tOUEk2TzBHcE8zTUFsQ1RoUHptSmNmRWN3X3Fmc2lNUmY0dEpOUFZjSjh1aWFoOXg4STlqblRCZy1wMVpuamdYdFlqWHVtRWd30gHDAUFVX3lxTE9WeThfU1I2WEwzSjB4blNDeHBkVmlueWlGdV95TmpWZnJmZjR0NEd4Y20wdGlYbDdjZmZMamZ4OW11ZkZQcThFYzIzZVk4Q2dFb3diY281bEtneEVaOGFkZkVZZkNnMVppOFpJaVB6ZGtJWnJ1cHM3NEp1V0NZQjJVaEdSR0FhS0hKZndubFpQQWFYOWVURW03RFhVamg4alFhUy1WMk4xN3gxdUxtMzhFTFJ2YUVuQTd3RzF5VE1zS0tlbw?oc=5
+## 3. Brain AI Models Break the Rule That Built ChatGPT: More Computing Power Doesn't Help, Only More Data Does - Tech Times
+Source: Tech Times (discovery)
+Published: 2026-11-12T03:18:02+00:00 | Age: 0.6 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
+URL: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2htZ1ZOdFBEbFVHUkFUck53bDljQlZOaHZqaFFCbkpTTmJORmhLOHhpYXhMamZLZ3FYWGhNd0hWemdQWU1GSm1zZWxjUjJlSUZUSzAzdFlCYzUyM25IMDhPY0lKWkFfNXhzbE1Rc2c0bnp3Q1o4V1BzUUhzaHQ4MVJYM2NiLWR3ZDJkNGxIMkw1TjJNQXh1dTJ0cFUxSDFuRFlGRlFXX2RacW9fMC1lMktXdm0yajNRNEdUZEh5REdhSDg3UkZfQWtyaHJqdjZTQU4wSjY1dVFRSk81Y1BYMk93?oc=5
 
-BIR probes possible data exposure after cyberattacks The Manila Times
+Brain AI Models Break the Rule That Built ChatGPT: More Computing Power Doesn't Help, Only More Data Does Tech Times
 
-## 4. Democrats Have Their Eyes on Golden Dome and SpaceX - Bloomberg.com
+## 4. Who could replace Jensen Huang? A highly unscientific list of possible successors
+Source: techcrunch.com (reputable)
+Published: 2026-11-12T03:13:10+00:00 | Age: 0.7 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
+URL: https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/
+
+Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.
+
+## 5. Democrats Have Their Eyes on Golden Dome and SpaceX - Bloomberg.com
 Source: Bloomberg.com (discovery)
-Published: 2026-11-11T21:11:44+00:00 | Age: 0.3 hours
-Scanned: 2026-11-11T21:28:26.658568+00:00
+Published: 2026-11-12T03:11:45+00:00 | Age: 0.7 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
 URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1FrUTAwVEw1bUxmdFNmU3lFVXB2RTRRX0VRMkIyWm9FTU45RVdUdmlDTlJZZ1ctZ2ZIV3c4YW4yQm8wYXdhbjlkZjJFZzd3TVdPTVF3TnBGdFp5ODQ1MUdPWjdWdXhYdW1CVEtBMll3WWhGZ09jMFR3NEQzbDh1RmVuWFdaTlhSVkhTN0k2MDctSFJ0X0k3TnNTQ3k5c2x0bi1SUF9WelpTWTdkNWVnZzlR?oc=5
 
 Democrats Have Their Eyes on Golden Dome and SpaceX Bloomberg.com
 
-## 5. GitHub release: googleapis/python-genai v3.2.0
-Source: github.com (primary)
-Published: 2026-11-11T17:22:30+00:00 | Age: 4.1 hours
-Scanned: 2026-11-11T21:28:26.658568+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v3.2.0
+## 6. Apple Support Community Is Shutting Down, as DIY Advice Bites the Dust - CNET
+Source: CNET (discovery)
+Published: 2026-11-12T01:50:00+00:00 | Age: 2.1 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1FiRlZWZzBJdVNaZm5lNEZZTlZLMjg2VnlFdVVyeHFVZ1BUR1MtWnJBMkFLY1ktWjJUWUsteVpfbWwyTEpIbXBBVnE0R3ZuR1R1NUJXSHN1ZW5zRV9tdDRyY3hZaW9rUTJQVUp4eTF3Q3ZWN0MyT2c2WGFFZWhMTHpZTFBFLUNRX1dhcWdCWUdFNkEtS2ZZbndvNjRLQVRpdFZMWg?oc=5
 
-## [3.2.0](https://github.com/googleapis/python-genai/compare/v3.1.0...v3.2.0) (2026-11-11) ### Features * Add the Decisions API (`client.decisions.create`) to the GenAI SDKs ([9efe1e4](https://github.com/googleapis/python-genai/commit/9efe1e4ac8831fd3bc793c0733320e6a0d3cd324)) * **environments:** Introduce self-hosted BYOS mode, system_instruction, custom_config, and environment_key in SDKs and CLI ([96b79b3](https:
+Apple Support Community Is Shutting Down, as DIY Advice Bites the Dust CNET
 
-## 6. Oura to acquire AI-native primary care startup Counsel Health for $625M
+## 7. South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment - Reuters
+Source: Reuters (discovery)
+Published: 2026-11-12T01:43:00+00:00 | Age: 2.2 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
+URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlRGQlBiSTVaaWVLek9ESklNZld6X05nWWhZOHJJb1JfRjlkRnFNekpUNkU2NEppMkFLTFplak5YWFRVb2d1cG90TWU3SGkyRlFxZXYySnpPbjluUmR0YUp1YjFodnc4M3hQdWw5MWZKaTMtZzZBRUpMRUQtb0pheUthcDRtNWQ1ZFktOFB5eU1BODc4TE5TY0FfSUxfb1JnNnRlbDBMMmN5YmdLSDNpSHFtWjlndS1qdHJSU3p3a0x1VjA?oc=5
+
+South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment Reuters
+
+## 8. The unfolding Jensen Huang scandal: a timeline
 Source: techcrunch.com (reputable)
-Published: 2026-11-10T19:23:34+00:00 | Age: 26.1 hours
-Scanned: 2026-11-11T21:28:26.658568+00:00
+Published: 2026-11-11T23:50:00+00:00 | Age: 4.1 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
+URL: https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
+
+The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
+
+## 9. Oura to acquire AI-native primary care startup Counsel Health for $625M
+Source: techcrunch.com (reputable)
+Published: 2026-11-10T19:23:34+00:00 | Age: 32.6 hours
+Scanned: 2026-11-12T03:56:37.714600+00:00
 URL: https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/
 
 The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”
-
-## 7. Git security vulnerabilities announced
-Source: github.blog (primary)
-Published: 2026-11-10T18:00:00+00:00 | Age: 27.5 hours
-Scanned: 2026-11-11T21:28:26.658568+00:00
-URL: https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/
-
-Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog .
