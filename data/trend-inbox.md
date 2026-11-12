@@ -2,78 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-12T03:56:37.717218+00:00
-Scanned: 2026-11-12T03:56:37.717218+00:00
+Updated: 2026-11-12T13:52:49.885265+00:00
+Scanned: 2026-11-12T13:52:49.885265+00:00
 Memory window: 72 hours
 
-## 1. The Forever-Day Problem: Unsupported Software on the Public Internet
+## 1. Do we still need software engineers?
 Source: Hacker News (discovery)
-Published: 2026-11-12T03:33:07+00:00 | Age: 0.4 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
-URL: https://blog.fortirix.com/blog/forever-day/
+Published: 2026-11-12T13:48:33+00:00 | Age: 0.1 hours
+Scanned: 2026-11-12T13:52:49.883569+00:00
+URL: https://debarshibasak.github.io/readables/blogs/future-of-work
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50462732
+Hacker News discussion: https://news.ycombinator.com/item?id=50467037
 
-## 2. Ring Robotics
+## 2. Microsoft presses Trump to scuttle ban on Chinese data center tech
 Source: Hacker News (discovery)
-Published: 2026-11-12T03:31:04+00:00 | Age: 0.4 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
-URL: https://ring.com/ring-robotics
+Published: 2026-11-12T13:45:48+00:00 | Age: 0.1 hours
+Scanned: 2026-11-12T13:52:49.883569+00:00
+URL: https://www.reuters.com/business/media-telecom/microsoft-presses-trump-scuttle-expected-ban-chinese-data-center-technology-2026-11-10/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50462717
+Hacker News discussion: https://news.ycombinator.com/item?id=50466994
 
-## 3. Brain AI Models Break the Rule That Built ChatGPT: More Computing Power Doesn't Help, Only More Data Does - Tech Times
-Source: Tech Times (discovery)
-Published: 2026-11-12T03:18:02+00:00 | Age: 0.6 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
-URL: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN2htZ1ZOdFBEbFVHUkFUck53bDljQlZOaHZqaFFCbkpTTmJORmhLOHhpYXhMamZLZ3FYWGhNd0hWemdQWU1GSm1zZWxjUjJlSUZUSzAzdFlCYzUyM25IMDhPY0lKWkFfNXhzbE1Rc2c0bnp3Q1o4V1BzUUhzaHQ4MVJYM2NiLWR3ZDJkNGxIMkw1TjJNQXh1dTJ0cFUxSDFuRFlGRlFXX2RacW9fMC1lMktXdm0yajNRNEdUZEh5REdhSDg3UkZfQWtyaHJqdjZTQU4wSjY1dVFRSk81Y1BYMk93?oc=5
-
-Brain AI Models Break the Rule That Built ChatGPT: More Computing Power Doesn't Help, Only More Data Does Tech Times
-
-## 4. Who could replace Jensen Huang? A highly unscientific list of possible successors
+## 3. Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition
 Source: techcrunch.com (reputable)
-Published: 2026-11-12T03:13:10+00:00 | Age: 0.7 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
-URL: https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/
+Published: 2026-11-12T13:26:25+00:00 | Age: 0.4 hours
+Scanned: 2026-11-12T13:52:49.883569+00:00
+URL: https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/
 
-Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.
+The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.
 
-## 5. Democrats Have Their Eyes on Golden Dome and SpaceX - Bloomberg.com
-Source: Bloomberg.com (discovery)
-Published: 2026-11-12T03:11:45+00:00 | Age: 0.7 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
-URL: https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1FrUTAwVEw1bUxmdFNmU3lFVXB2RTRRX0VRMkIyWm9FTU45RVdUdmlDTlJZZ1ctZ2ZIV3c4YW4yQm8wYXdhbjlkZjJFZzd3TVdPTVF3TnBGdFp5ODQ1MUdPWjdWdXhYdW1CVEtBMll3WWhGZ09jMFR3NEQzbDh1RmVuWFdaTlhSVkhTN0k2MDctSFJ0X0k3TnNTQ3k5c2x0bi1SUF9WelpTWTdkNWVnZzlR?oc=5
+## 4. SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands - SAP News Center
+Source: SAP News Center (discovery)
+Published: 2026-11-12T13:22:12+00:00 | Age: 0.5 hours
+Scanned: 2026-11-12T13:52:49.883569+00:00
+URL: https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWFZWkRUTzlBN1Rka0R3UkxVZEVJNkE2ejRkRkw4bUdDa0lDeWpVQnM1eXdfbUZpd2hxVk9zLTdQbXJ5QzVnSUNTOHBIdWwzTWpWVWUxQU1POTBLZVk0bTlMZkREM3hzR2JrMFNiUG9EMHZpbFZOSnREVnpHVFZRZWJWVFVFY2ttd1A4TktB?oc=5
 
-Democrats Have Their Eyes on Golden Dome and SpaceX Bloomberg.com
+SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands SAP News Center
 
-## 6. Apple Support Community Is Shutting Down, as DIY Advice Bites the Dust - CNET
-Source: CNET (discovery)
-Published: 2026-11-12T01:50:00+00:00 | Age: 2.1 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT1FiRlZWZzBJdVNaZm5lNEZZTlZLMjg2VnlFdVVyeHFVZ1BUR1MtWnJBMkFLY1ktWjJUWUsteVpfbWwyTEpIbXBBVnE0R3ZuR1R1NUJXSHN1ZW5zRV9tdDRyY3hZaW9rUTJQVUp4eTF3Q3ZWN0MyT2c2WGFFZWhMTHpZTFBFLUNRX1dhcWdCWUdFNkEtS2ZZbndvNjRLQVRpdFZMWg?oc=5
+## 5. Apple Watch Ultra 4 vs. Ultra 3: Why you might want to upgrade to Apple's new rugged smartwatch - Mashable
+Source: Mashable (discovery)
+Published: 2026-11-12T11:25:07+00:00 | Age: 2.5 hours
+Scanned: 2026-11-12T13:52:49.883569+00:00
+URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1RE1KSkRWVUtsTjZqcjZnb1dxRmxCd2drbVFYeHdIYTFjM1RwNnFpVDNvQmwzWngyQ002c0hhTS1LbzNRUkxfYzkyeF84c0RHcWlQeW5ubHpQUFJGckltOE40QU5HczQ?oc=5
 
-Apple Support Community Is Shutting Down, as DIY Advice Bites the Dust CNET
+Apple Watch Ultra 4 vs. Ultra 3: Why you might want to upgrade to Apple's new rugged smartwatch Mashable
 
-## 7. South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment - Reuters
-Source: Reuters (discovery)
-Published: 2026-11-12T01:43:00+00:00 | Age: 2.2 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
-URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlRGQlBiSTVaaWVLek9ESklNZld6X05nWWhZOHJJb1JfRjlkRnFNekpUNkU2NEppMkFLTFplak5YWFRVb2d1cG90TWU3SGkyRlFxZXYySnpPbjluUmR0YUp1YjFodnc4M3hQdWw5MWZKaTMtZzZBRUpMRUQtb0pheUthcDRtNWQ1ZFktOFB5eU1BODc4TE5TY0FfSUxfb1JnNnRlbDBMMmN5YmdLSDNpSHFtWjlndS1qdHJSU3p3a0x1VjA?oc=5
-
-South Korea's Lee says Samsung chip packaging expansion to spur $30 billion additional investment Reuters
-
-## 8. The unfolding Jensen Huang scandal: a timeline
+## 6. Oura to acquire AI-native primary care startup Counsel Health for $625M
 Source: techcrunch.com (reputable)
-Published: 2026-11-11T23:50:00+00:00 | Age: 4.1 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
-URL: https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/
-
-The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
-
-## 9. Oura to acquire AI-native primary care startup Counsel Health for $625M
-Source: techcrunch.com (reputable)
-Published: 2026-11-10T19:23:34+00:00 | Age: 32.6 hours
-Scanned: 2026-11-12T03:56:37.714600+00:00
+Published: 2026-11-10T19:23:34+00:00 | Age: 42.5 hours
+Scanned: 2026-11-12T13:52:49.883569+00:00
 URL: https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/
 
 The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”
