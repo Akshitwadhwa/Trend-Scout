@@ -2,70 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-14T03:24:43.599448+00:00
-Scanned: 2026-11-14T03:24:43.599448+00:00
+Updated: 2026-11-14T12:20:51.635356+00:00
+Scanned: 2026-11-14T12:20:51.635356+00:00
 Memory window: 72 hours
 
-## 1. Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers - WSJ
-Source: WSJ (discovery)
-Published: 2026-11-14T03:15:00+00:00 | Age: 0.2 hours
-Scanned: 2026-11-14T03:24:43.597452+00:00
-URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5
+## 1. Show HN: Free GitHub Repo Security Scanner –finds leaked secrets,exposed configs
+Source: Hacker News (discovery)
+Published: 2026-11-14T12:09:19+00:00 | Age: 0.2 hours
+Scanned: 2026-11-14T12:20:51.632457+00:00
+URL: https://edgeiqlabs.com/free-repo-scanner/
 
-Tesla Opens Sales Of Autonomous Cybercab For ‘Select’ Customers WSJ
+Hacker News discussion: https://news.ycombinator.com/item?id=50496388
 
-## 2. Nvidia scandal looms over US-China AI talks - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-11-14T03:14:18+00:00 | Age: 0.2 hours
-Scanned: 2026-11-14T03:24:43.597452+00:00
-URL: https://news.google.com/rss/articles/CBMiswFBVV95cUxQRjd5em5ZWjBvVDZGMmlMY3VnUnU2SHh6N1pNNC1VbmpHcEVva2JpVFlhRFRKLUJLbks3WXhQUFl2Mk5TTXZlVmxBS01xNjloVEpRT0Z5MEJqWDJYTHNBYUZ5ZFVIV0RjR3Z3NUtiRjFRNGh5OWlSdk1wZkVwR05kYnZlSm41MjFzZlJuU0JaWEFvVjVqSmJCT3U1WDlycGNSNU0wNF9Ya2laNzNoajh3dW8xWdIBuAFBVV95cUxQejd2VTROaGRQYU1OdHpHNzlmMmRVS2pTY2hYdldxWTUxTjlxaDFncHN3YVVGMFJrZVViUHZVZ3VqQTBNNUQ4QXRqcHJhR2lKWW9pZ3pULXNoT1hEV3JjaG1XYW1uc211UDZXREZyWVdMZnlNanZ4Mkxwams4QnVVdGZseUNMekxKSXh6Q1pHdUlNMEpSYVI4cDB1SHlKdlVfYWo2S1IxSzJncjhHd1hVZzVfV3R3anky?oc=5
+## 2. App like GitHub for your conversations with AI
+Source: Hacker News (discovery)
+Published: 2026-11-14T12:09:08+00:00 | Age: 0.2 hours
+Scanned: 2026-11-14T12:20:51.632457+00:00
+URL: http://ainiconva.com
 
-Nvidia scandal looms over US-China AI talks The Economic Times
+Hacker News discussion: https://news.ycombinator.com/item?id=50496385
 
-## 3. Elon Musk backs petition to bring Jensen Huang back as Nvidia CEO: 'Signing it ...' - Moneycontrol.com
-Source: Moneycontrol.com (discovery)
-Published: 2026-11-14T03:12:08+00:00 | Age: 0.2 hours
-Scanned: 2026-11-14T03:24:43.597452+00:00
-URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjJYX1FZc1dDcUJfNUVvWF84dTI4R1FNZkxVa0hQTUlTZGgtb3pQT3hDVFh5M3FkWC01aG5JaVVvRFZLZ0F5M0t0NWVrNjU4cXBoRFJTTUFCRTNkQjcwdURwd1M4aVRzRlUxTEdOLTR4cnF2VlhaZldzUDg0Tm5QZzluUXZjcktSVXRMeUhkdDJob2tMWnNzTXRmaVRGdmpGSTJlb2xiajhnQkZQamZPd2FVTDF4c1lKejVkc3ZSSmgwREIxUFBscU5rdWxrQdIB0wFBVV95cUxOU0hsZDBlVnJyRC1yamNIU0c2aW9UaG5ZMVNFRC15U0VSSU9sd2V3TWNXUnVWQVZOMmNEaG0zYng4QUxacGlWNG00aV8tWWcwU0hZY0lKVEdla1JJWXIzOEJtalpCQk9GaEZZV1BBMHRVUUYtdnlYa3ZiSDBYb0o3ZG0zM2kwaGhfbEl6WHh2MXpxUTBaT3ZBYlVURHhaR3FmRy1LMjJGZDBjTVZ0NzFCcHZDbUpjaExlcjZ6Z1Zsblp3bm1BNEtZNEVXNkhTS1pIblo0?oc=5
+## 3. From Fishing Village to China IT Hub: How A Chip Transformed Shenzhen - India Today - India Today
+Source: India Today (discovery)
+Published: 2026-11-14T12:06:32+00:00 | Age: 0.2 hours
+Scanned: 2026-11-14T12:20:51.632457+00:00
+URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWDUzY2V5b1pKblM1V0JfaVlzTDBXZE1COXRMcFFsRHd1ajVKRUxSWjFuV1ZMX2RCXzcycGRvVUFiVlh6a0lCMVZwWlhMSGo2RENNbV9Wamk2U0lOZE1hWi02cFdEd3cyQV9KdzdLb1VJZVkzeWh3Q19XejM4bFpvVUZEZV9HVHNaVjZvQlU4Z09MeWMxN3hodHhqQzNhUXZqcXk2cU1Eb0VPNDBnUEo3ckVxNGdzN1NKbXlyVlBlMXZQUUN5cUxRSWRtVzhka0Vf0gHWAUFVX3lxTE4tNzdPUEw0S0Y2WkRDT3dKalRCSGs0aHNlYkMtNWgzQ0o5dk40eVlGYTBWREZzVUtKanA2RmVwaUN3SjFOUkRJbXV3YzdtbkJDa0NoM0MxRDJvZWNoV0RDWi1SVHA4WWViU1VJb3pjVG44Vlh4QlZORHhsNXRsclpTUmVuRUxLM0pXdVN5ckpCU0QxYmVqQkNpNjlvWkMyRWdNU2YyUHM1V1hRZnNHZ1VldmdXSXlkbTREWVBxZTI2UTRFNzE2QXMxY0FnOXBJZ045TnJfYWc?oc=5
 
-Elon Musk backs petition to bring Jensen Huang back as Nvidia CEO: 'Signing it ...' Moneycontrol.com
+From Fishing Village to China IT Hub: How A Chip Transformed Shenzhen - India Today India Today
 
-## 4. SBI Files FIR as 3.75 Lakh Records Surface on Dark Web After Data Breach - Pratidin Time
-Source: Pratidin Time (discovery)
-Published: 2026-11-14T02:38:05+00:00 | Age: 0.8 hours
-Scanned: 2026-11-14T03:24:43.597452+00:00
-URL: https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUdZUVBVS1NFV3FDN3pMLW1YU0ppbmlwbjB0ekdINmpvTVRLRU5MOFh1YTBoRElkYm5NNDhWQlJWVTk1d1RIVjZWb3hNZVFwVnplYmxhdkh6N2RjcGhaSnpWTUl0TElVeW1oVU1qYnA1WUVjNjY1TXJVQnhEMGlHUDI4ZlVQSU81dFYwOHNVR3UwZ9IBkgFBVV95cUxNMUdZUVBVS1NFV3FDN3pMLW1YU0ppbmlwbjB0ekdINmpvTVRLRU5MOFh1YTBoRElkYm5NNDhWQlJWVTk1d1RIVjZWb3hNZVFwVnplYmxhdkh6N2RjcGhaSnpWTUl0TElVeW1oVU1qYnA1WUVjNjY1TXJVQnhEMGlHUDI4ZlVQSU81dFYwOHNVR3UwZw?oc=5
+## 4. Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home - CNBC
+Source: CNBC (discovery)
+Published: 2026-11-14T12:00:01+00:00 | Age: 0.3 hours
+Scanned: 2026-11-14T12:20:51.632457+00:00
+URL: https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQdIBd0FVX3lxTE9DQVVfcVVUOVhwbko1ME5GeG16NmR6Q2lWVnNNdU1mTjdYS3RmVVh2WDQyY2hqZWM4UGNvcWVnX3hhdkZFby1hVjRTVHFWUmg4TjNxSE93aDFPejc4SWFIM1RGOGVzR0xhdXAxbU5kUmtiLWxoZzFF?oc=5
 
-SBI Files FIR as 3.75 Lakh Records Surface on Dark Web After Data Breach Pratidin Time
+Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home CNBC
 
-## 5. We found 14 early Black Friday Apple deals: Grab AirPods and MacBooks on sale - Mashable
+## 5. The real reason Jensen Huang’s exit at Nvidia has markets worried - The Times
+Source: The Times (discovery)
+Published: 2026-11-14T12:00:00+00:00 | Age: 0.3 hours
+Scanned: 2026-11-14T12:20:51.632457+00:00
+URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxOOXBPTEZKWC1jdTJRSm80dmYzYWVSUEdaVTlvRkhCamY4UVhpT0VINDFVempmOGxUbzJGNkpWVmh2RVpZUDFiVGRCUU1wNzhGbktBRVlCbm9RTXJ0R3lyclJfdjZnRTA1Q1RZcEVIVTdJYWQxaTd2emVOYUJ3QUk2dEZtZWoyMHNGNndheWRTTDNuRjJPMms0d3hQZURZaE9FNmJoOVhKYi1IVl9LbWRaLTJUOElCMTJvOURnMVhpR2Uxb2NzZlBiV2lOSm5HZkU?oc=5
+
+The real reason Jensen Huang’s exit at Nvidia has markets worried The Times
+
+## 6. iPhone 20 rumors: Why iPhone 19 might be skipped entirely - Mashable
 Source: Mashable (discovery)
-Published: 2026-11-14T00:08:32+00:00 | Age: 3.3 hours
-Scanned: 2026-11-14T03:24:43.597452+00:00
-URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE92VzhHRVFrdU1xam5TekFtekU3MUdOaXg0NER5R2FzUFJvMTM4UFNyZE9uallydG8yRFFYOWhQcm1IdFpyX1ZlX2FPOEdwWGhZOU9vdGFEb01CWldoWF9wTUZVTWxMUEdZM3JxTlpQNk14aF9l?oc=5
+Published: 2026-11-14T10:00:00+00:00 | Age: 2.3 hours
+Scanned: 2026-11-14T12:20:51.632457+00:00
+URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE9FazdveUZOcmhNR2x2djhJNW5SbU9Jc3cyXzBkOHlsTV96YzJHRWttWDBPTXQtQS1Pd0lqS1FYOGpXTTlFdkxkN0N2aGtHSkNSV3JWWkJ1ZVVIVnlyMl9EOHpEX01lYW1Ob0RiWU9ic2g?oc=5
 
-We found 14 early Black Friday Apple deals: Grab AirPods and MacBooks on sale Mashable
-
-## 6. GitHub release: openai/openai-python v3.51.0
-Source: github.com (primary)
-Published: 2026-11-13T21:12:49+00:00 | Age: 6.2 hours
-Scanned: 2026-11-14T03:24:43.597452+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.51.0
-
-## [3.51.0](https://github.com/openai/openai-python/compare/v3.50.0...v3.51.0) (2026-11-12) ### Features * **api:** expand agent, image, Live, and external key support ([#4269](https://github.com/openai/openai-python/issues/4269)) ([59738a2](https://github.com/openai/openai-python/commit/59738a289ee82c7b86bf1e10230cceb6daa9716d))
+iPhone 20 rumors: Why iPhone 19 might be skipped entirely Mashable
 
 ## 7. AI agent startup LangChain hits $3B valuation
 Source: techcrunch.com (reputable)
-Published: 2026-11-13T19:37:57+00:00 | Age: 7.8 hours
-Scanned: 2026-11-14T03:24:43.597452+00:00
+Published: 2026-11-13T19:37:57+00:00 | Age: 16.7 hours
+Scanned: 2026-11-14T12:20:51.632457+00:00
 URL: https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/
 
 LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.
-
-## 8. GitHub availability report: October 2026
-Source: github.blog (primary)
-Published: 2026-11-13T00:20:16+00:00 | Age: 27.1 hours
-Scanned: 2026-11-14T03:24:43.597452+00:00
-URL: https://github.blog/news-insights/company-news/github-availability-report-october-2026/
-
-In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .
