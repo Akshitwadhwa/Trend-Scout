@@ -2,62 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-14T19:18:25.282925+00:00
-Scanned: 2026-11-14T19:18:25.282925+00:00
+Updated: 2026-11-14T23:59:47.792187+00:00
+Scanned: 2026-11-14T23:59:47.792187+00:00
 Memory window: 72 hours
 
-## 1. NHTSA proposes cyan lights for robotaxis, following Mercedes/China
-Source: Hacker News (discovery)
-Published: 2026-11-14T18:57:51+00:00 | Age: 0.3 hours
-Scanned: 2026-11-14T19:18:25.280954+00:00
-URL: https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/
+## 1. AI meets male hubris: Nvidia scandal tests its one-man empire - The Times of India
+Source: The Times of India (discovery)
+Published: 2026-11-14T23:30:00+00:00 | Age: 0.5 hours
+Scanned: 2026-11-14T23:59:47.789343+00:00
+URL: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU2t2Z1Juckh0LVVURllWaENvcWJudnMyZzVtU3hWVW9qR2s2LUNYMUZjamR2T0xqdVJlcmNwTEZJNm1fRUxUcm51c3gySmtPVDZPaTBaZU9XeWV0U3VHeUdPbkQ4ZE1oUDh3RDRLbkpocXh1LTVfaDNLeUNTUS1vVXF6VTJsdHB6SDFmUzRjbzhqRk5Bak1aY2h5NDRMUTlMSmY2VktqNFVzMWVsX3lQSFk0S083bElETi1qVnJPOFFjM01abU9LZ0tNMVJZVnNBak9tdzVqVnV3MklvY2xCWdIB5gFBVV95cUxNTE9UZFZJZFdTZEFkcUVZRkl0amVNOWVYYXlOVTd2bnBmd2FDZk14b1poMkZYRExjM3BsYXQ2NUw5bUhxQnViUTdDN0NrVmFDUVRnV1V2TWxZaC0wQi1ManNRTVdCM1FqRl9sVEpPYTc0R0RPd21qakNrd0RHcGUyN0NmV25XZEIxdzFKal9heGt0UnR5c2RPRlA1ZjdHcm14aThPajdlU25mc0dhWURmcThhOTRjRGdJY0QwaWZ0MHhhYm51a0lmTURsLVFRT1pyLW5sU1lOVFdvLTBSTkRuM3VfMzdsQQ?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50499730
+AI meets male hubris: Nvidia scandal tests its one-man empire The Times of India
 
-## 2. Leaderboard Hacking: Preference-Based Model Evals Vulnerable to Manipulation
-Source: Hacker News (discovery)
-Published: 2026-11-14T18:49:46+00:00 | Age: 0.5 hours
-Scanned: 2026-11-14T19:18:25.280954+00:00
-URL: https://arxiv.org/abs/2611.14769
+## 2. Musk says Nvidia will lose 'critical' deals without Jensen Huang - The Korea Times
+Source: The Korea Times (discovery)
+Published: 2026-11-14T23:27:00+00:00 | Age: 0.5 hours
+Scanned: 2026-11-14T23:59:47.789343+00:00
+URL: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNVR0VGFBanIyWWVqbzVleDFVdHJGWFJVTnU0QnJNN3RzMmxydlUzVW9LZXo2OFg2elRqWkhnYW93c0R2c19qQnBxZm5LOEhqWHE1N1J1azNSLXNST2lJOFppOFVPUDBDaDhFMWIzaWVaYWdWZUp4U0lEbUtoUzJ0MHVSM25uTUF3MHd4N2xINFFsblNtZ2ZjdGlOTnQweUdjWEtjN2ZPUG8tUdIBrwFBVV95cUxQR3dSXzE2eS1MMWhKZWs5WmlsenpDdThpRE85OXRzdE9oSUxoNmNfWlBjT0U4ZXFHUnpBYTdTM1ZKcklRXzZ0TzZkelUtUVZRZ2RNWHZQejRYQzllNGtBUm9DVU11WE4yVEtvblVraVBhNVZCNkQ3Nm9DWXB0WTJGejdIOUdZSzRZNnpvakczeFE1aS1peVcxMzRjYjlkOFhtVXctUDZNOVBEQjU0LUZF?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50499650
+Musk says Nvidia will lose 'critical' deals without Jensen Huang The Korea Times
 
-## 3. GTA 6 will technically be playable on Xbox One at launch - Mashable
-Source: Mashable (discovery)
-Published: 2026-11-14T18:40:20+00:00 | Age: 0.6 hours
-Scanned: 2026-11-14T19:18:25.280954+00:00
-URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSGVROUVwbzRkandoNlo1Qmh4cmg4Rk56aDNVcGxOZlRhaTVlSFdRVy03YWotNlhhQ1lVU1ZackxQUFZpWXppaEl3Z3N4MjNEUGs4R0RZRWV2X0R5U0NrRzhFVWZjakFRcm1pQWxwcTg5cTlG?oc=5
+## 3. ObesityWeek 2026 Opens: Matthew Buman Speaks Monday on Wearables; Wrist Sensors Score Wake as Sleep - Tech Times
+Source: Tech Times (discovery)
+Published: 2026-11-14T22:14:05+00:00 | Age: 1.8 hours
+Scanned: 2026-11-14T23:59:47.789343+00:00
+URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVnRVTkFISWdzeDhJOUpJR0FZOHRDMHlkcDNSMUt5c0xzUG92Yjc3ZUZRQkl3czNjXzBrR3pPcDFxUjlxcUxHQWtUQndtWVJqZWlrMUNuWHVCbjVfd2JxZXJIYlNTdHBDd1BLS01yYUNKNmd5UGg0UDF4WWxWVm9jemo0SFo5Y2NCWmI0cHZQZ2NjaUFDdDByeDQ4UllCaXhlTnhsVHhTQ1k3VVlVbHdXNDRmMWRJYzcxSEF1TzRrMHNqZG1LQzEwS2lubk0zRDBPa05leU9LOXNhcTVOalhF?oc=5
 
-GTA 6 will technically be playable on Xbox One at launch Mashable
+ObesityWeek 2026 Opens: Matthew Buman Speaks Monday on Wearables; Wrist Sensors Score Wake as Sleep Tech Times
 
-## 4. Nvidia Co-Founder Jensen Huang’s Downfall Is a Sign of Silicon Valley’s Power Drain - WSJ
-Source: WSJ (discovery)
-Published: 2026-11-14T18:31:56+00:00 | Age: 0.8 hours
-Scanned: 2026-11-14T19:18:25.280954+00:00
-URL: https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTWpBNEFVQXdpaDFva1g3eFVXMExBVzdia3oxdDdmVURaLXl3aEt0enBhYmU2Y1NTdE4xUU03Yzg1bjJCRmxHX2J4WWNKd1RvbDY4TUxxcDI4WklaaVh0Zm5uVjgzcHd0V29vRmtjV0hjUUpNUi1v?oc=5
-
-Nvidia Co-Founder Jensen Huang’s Downfall Is a Sign of Silicon Valley’s Power Drain WSJ
-
-## 5. Got an iPhone Duo? These 9 settings make it easier to use
-Source: techcrunch.com (reputable)
-Published: 2026-11-14T18:00:00+00:00 | Age: 1.3 hours
-Scanned: 2026-11-14T19:18:25.280954+00:00
-URL: https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/
-
-From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.
-
-## 6. The AI graveyard: a running list of projects and startups that didn’t make it
-Source: techcrunch.com (reputable)
-Published: 2026-11-14T17:30:00+00:00 | Age: 1.8 hours
-Scanned: 2026-11-14T19:18:25.280954+00:00
-URL: https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
-
-From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
-
-## 7. GitHub release: openai/openai-python v3.51.0
+## 4. GitHub release: openai/openai-python v3.51.0
 Source: github.com (primary)
-Published: 2026-11-13T21:12:49+00:00 | Age: 22.1 hours
-Scanned: 2026-11-14T19:18:25.280954+00:00
+Published: 2026-11-13T21:12:49+00:00 | Age: 26.8 hours
+Scanned: 2026-11-14T23:59:47.789343+00:00
 URL: https://github.com/openai/openai-python/releases/tag/v3.51.0
 
 ## [3.51.0](https://github.com/openai/openai-python/compare/v3.50.0...v3.51.0) (2026-11-12) ### Features * **api:** expand agent, image, Live, and external key support ([#4269](https://github.com/openai/openai-python/issues/4269)) ([59738a2](https://github.com/openai/openai-python/commit/59738a289ee82c7b86bf1e10230cceb6daa9716d))
+
+## 5. GitHub availability report: October 2026
+Source: github.blog (primary)
+Published: 2026-11-13T00:20:16+00:00 | Age: 47.7 hours
+Scanned: 2026-11-14T23:59:47.789343+00:00
+URL: https://github.blog/news-insights/company-news/github-availability-report-october-2026/
+
+In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog .
