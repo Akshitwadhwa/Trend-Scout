@@ -2,62 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-16T00:03:53.337422+00:00
-Scanned: 2026-11-16T00:03:53.337422+00:00
+Updated: 2026-11-16T09:57:01.044358+00:00
+Scanned: 2026-11-16T09:57:01.044358+00:00
 Memory window: 72 hours
 
-## 1. Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones
-Source: Hacker News (discovery)
-Published: 2026-11-16T00:03:12+00:00 | Age: 0.0 hours
-Scanned: 2026-11-16T00:03:53.335911+00:00
-URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone
+## 1. Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers - WSJ
+Source: WSJ (discovery)
+Published: 2026-11-16T09:55:51+00:00 | Age: 0.0 hours
+Scanned: 2026-11-16T09:57:01.042533+00:00
+URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMThvUmpYTW5TY3k5M3dGODhWa0RtOS1XY1ZHMVBBMEl0eU5UTVBLbWNZLVRTeFhBWnQzMjRMSF8zNV9oMWRUbzRhN0tieHJkblRyc0lZdnJQYmJ1aThMUGptc3VqbU1Fc0VqUldRUUptODA5VU5uZHhoS0FRS240MlB3MVpLRTE4d3cwODBMdndrS19GYkJEbExXSHZ6SVdOcjhuMkR5ek0?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50512296
+Tesla Opens Sales of Autonomous Cybercab for ‘Select’ Customers WSJ
 
 ## 2. Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses - Bloomberg.com
 Source: Bloomberg.com (discovery)
-Published: 2026-11-16T00:01:01+00:00 | Age: 0.0 hours
-Scanned: 2026-11-16T00:03:53.335911+00:00
+Published: 2026-11-16T09:50:05+00:00 | Age: 0.1 hours
+Scanned: 2026-11-16T09:57:01.042533+00:00
 URL: https://news.google.com/rss/articles/CBMiygFBVV95cUxONFBHRGhFVUVMRGtZTjJ0dXRaZE9JLWY0cEVhMUhMdDRmNzczeVpEaTFKVjVJMjR6RjlidUc1SGJNcWYtNjF2c0M3SE1HY1ZSc1NzeWR5VDRpdUJ4dHBYb2xWSEZKdXdUakdudjRGWC1TYWFTWlE0UW1NQ3JqY1FjOGNvMmlCZlFISGx0Vmg0cWhWYjIwTF9VMFdNSWF0cWV1UWswZS1HWERVVFFoUE5qYVBYNUpIazN5TGtQeG5zbWVMMktUcUZyWXNR?oc=5
 
 Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses Bloomberg.com
 
-## 3. Inside SK hynix’s $655 million chip test bed - Korea JoongAng Daily
-Source: Korea JoongAng Daily (discovery)
-Published: 2026-11-16T00:00:00+00:00 | Age: 0.1 hours
-Scanned: 2026-11-16T00:03:53.335911+00:00
-URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxNcjNhQ3duQmt3SUF2Z1J6ZmFBa285aU9IUmU5eXVVQ0kwZnhjajkyRnJDQTVnRHllZ0l2UkhHd1BKNFI0V0lUZzNENU4wdHBSNUVxNUNNVFI5NWF1eV9VMzVlQlNFS2d3V3VIZDhCSlNFZEJuWTZCRk1lZFVLLU9VTnZYbHpkMHZaZXJUYTMtSi1Ha2lINkhoaEpSWQ?oc=5
+## 3. Stock Futures Slip Ahead of Pivotal Week for AI Trade With Nvidia, Anthropic in Focus - WSJ
+Source: WSJ (discovery)
+Published: 2026-11-16T09:43:00+00:00 | Age: 0.2 hours
+Scanned: 2026-11-16T09:57:01.042533+00:00
+URL: https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3NsU18tTmdONnFEdnZIZzUyb3JXVFVpQjhhQ04tcG15MFpUclFpeTVUczh3X3RmRWZ4eWQ2Tk5SbUwtVlBvaGNSQ3N6MXRYa0tSVk43alVlMFZNTGZRdnNDWHlQcUwxMjNtR3lnVU5zbkJpQkpta0R5anRiQ01rVTZhNDdqbEtsMWFnWms2ZzFHVUJLSWlZdXhlZFlIWXk0dUVOS3M2elFGOFhuRFU3bk9MOVgtMnJ6azltUGktWXdhd2lRaUZMYkp5UQ?oc=5
 
-Inside SK hynix’s $655 million chip test bed Korea JoongAng Daily
+Stock Futures Slip Ahead of Pivotal Week for AI Trade With Nvidia, Anthropic in Focus WSJ
 
-## 4. Show HN: I rewrote Doom2D Forever in Rust, playable in browser
-Source: Hacker News (discovery)
-Published: 2026-11-15T23:58:56+00:00 | Age: 0.1 hours
-Scanned: 2026-11-16T00:03:53.335911+00:00
-URL: https://doom2d.oddbench.co/
+## 4. India's new Data Privacy rules set to spark huge demand for cyber experts - India Today
+Source: India Today (discovery)
+Published: 2026-11-16T09:40:22+00:00 | Age: 0.3 hours
+Scanned: 2026-11-16T09:57:01.042533+00:00
+URL: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOTNiSlJRZHM3eF9BUkItUU5PSUpyTDNGcmJoX3dSR0taYXBFYlZyQnRFYVBZelJnUXpPaldjY2xORTRoYXpqN1RGY3puX0xYVW5VbnAtZWRKTXlvclZTcHJZRV9zYk5yM1JEbi1lQkh2STdZXzJVSGRKNjdjNVdPTDRDLVU0S0F6ZWF4Z3MydlR6V3BORFd5QWcweDlvanZZYy1adnIxTDMtMDlJX1JrYTZwVGxBRGxpdGRsak1XemV0Q0JMRUdYUXRVTlpsYnhqbTNiaG9B0gHbAUFVX3lxTFA1Z0RvNkNzZlI0REhtOFBmVmZzR2tUQ3VCSHMyV3RqcnY2cHNzWlRtaHVUdjBTR2xiY2pnZTdBN3RHMHp1d1FyT01pN0tmM3ZKR0Q4VmhJMU0yVDJGdGl0ODA1ZkhGekFoTDREc1NFR1dOazVubU94NWoweHJiWk02UzBCZUk3S01VMFp3RmVQZ05iTEkybURtSTRFVmY2OFFhTGQyVnZRN0M2UHFlZmFOdmRqRkgtMEs1ak5ySkhOWEM2a2tGR1NycHhyMWxMS251MFZPbDB5VTdWZw?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50512259
+India's new Data Privacy rules set to spark huge demand for cyber experts India Today
 
-## 5. States are counting on battery farms. Some towns don’t want them - Times Republican
-Source: Times Republican (discovery)
-Published: 2026-11-15T23:56:29+00:00 | Age: 0.1 hours
-Scanned: 2026-11-16T00:03:53.335911+00:00
-URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQbF9sZWE4ajg2M25nWnJNazdvUk14Z1lIR3dLSXZwRkQyMVo4enZRX1R5Mnl6dTVDVTJMd21xaGxFUkI1akZZdlBZTnhIczJCdDAxdDAzU0lwaldDajE0N0t5UVFLcUEzUndhOHpmWmdNcFJLQldxeER2NjY4LV9wUVRaWE1FbUtpT3FiUzJrN2d3d0VNdmFsRm5KV3dXLWpaOHY2bnNqaHdKdmdNX3llZDJMd19ic3EwVmRkSg?oc=5
+## 5. AAA Technologies Expands into Semiconductor Design and Global Cybersecurity Markets - TimesTech
+Source: TimesTech (discovery)
+Published: 2026-11-16T09:31:15+00:00 | Age: 0.4 hours
+Scanned: 2026-11-16T09:57:01.042533+00:00
+URL: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFp5NGNaZzE4Tno0bmtKZ3l6QjNpUjdNaE51c285NXU4SWR3SU92WHdKTVdwenNKUGFteEV4RVVoVEdGRzlqQzdZUnNMd1JCNEMtU29sUEtHclZXRXhEY0JDblU4RGpNTy1KOHVUMnJiclF0NHMzem5WQUhDa3pFYlVtT1RIN1g2elRNZXRPaVZKRlpIanIzQjIwZktNX1UyeC1sN1NoUzg?oc=5
 
-States are counting on battery farms. Some towns don’t want them Times Republican
+AAA Technologies Expands into Semiconductor Design and Global Cybersecurity Markets TimesTech
 
-## 6. Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market
-Source: techcrunch.com (reputable)
-Published: 2026-11-15T23:30:00+00:00 | Age: 0.6 hours
-Scanned: 2026-11-16T00:03:53.335911+00:00
-URL: https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/
+## 6. Oura sees AI, preventive healthcare driving next phase of smart rings - Moneycontrol.com
+Source: Moneycontrol.com (discovery)
+Published: 2026-11-16T09:25:34+00:00 | Age: 0.5 hours
+Scanned: 2026-11-16T09:57:01.042533+00:00
+URL: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM3E2SzRQT0xNNzB2MHhGd0xBYnBycHdxelctT0tRU3d0aFZfbnlOYkh6Mi1kbzBHOUh5bkdSbFdRRi1WU1lLcGJ1MU1ZTXBUbmk1VXZYbmVfcVk3SWQ5RmQ5bG8tUURqUkFJVjhDd0xEZnZaX2tqM25HYmVRbnl2RFJhQXJQX3lIelk1VUpBRGZoUjJIRURXbXlmaTVwSGxWV3Nkb25KZW4zSllnbkwyTVBQWTFRWWtzNml3cnJYRS1ORTTSAcgBQVVfeXFMUFl5MHhLSHoteTY3NHdSQ1owNlMxVl9nWV9sYVVvdzRxUVBaT2lqVHM0OEpXY3hzcEZRalZRSjNXdmVqbEhHRUZsdVRxazNxMi1HV2VNc3cwWXRPOUZKOWhKNnZMU3JpaWZnTG1HaWNPTWpfbzUyNzYtTkhSd1lwLWJuMTV6ZXJCVC1naG9aVnZEM2h1TVFZOFZRMUtOUUdlMVJ4NEtKdDRJSUxZbFlaZUpIQ0tBSnB3OEktcUlKa29aWnRNNGFxWTI?oc=5
 
-Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.
-
-## 7. GitHub release: openai/openai-python v3.51.0
-Source: github.com (primary)
-Published: 2026-11-13T21:12:49+00:00 | Age: 50.9 hours
-Scanned: 2026-11-16T00:03:53.335911+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.51.0
-
-## [3.51.0](https://github.com/openai/openai-python/compare/v3.50.0...v3.51.0) (2026-11-12) ### Features * **api:** expand agent, image, Live, and external key support ([#4269](https://github.com/openai/openai-python/issues/4269)) ([59738a2](https://github.com/openai/openai-python/commit/59738a289ee82c7b86bf1e10230cceb6daa9716d))
+Oura sees AI, preventive healthcare driving next phase of smart rings Moneycontrol.com
