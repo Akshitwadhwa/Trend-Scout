@@ -2,54 +2,70 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-17T14:43:03.960170+00:00
-Scanned: 2026-11-17T14:43:03.960170+00:00
+Updated: 2026-11-17T23:53:26.734064+00:00
+Scanned: 2026-11-17T23:53:26.734064+00:00
 Memory window: 72 hours
 
-## 1. Jensen's Israeli Bot Army: fake accounts defended former Nvidia CEO
+## 1. OpenAI Shipped Astra 6.2 even though it behaves worse!
 Source: Hacker News (discovery)
-Published: 2026-11-17T14:38:01+00:00 | Age: 0.1 hours
-Scanned: 2026-11-17T14:43:03.957219+00:00
-URL: https://www.modelrepublic.org/articles/nvidia-koios-campaign-sockpuppet-accounts
+Published: 2026-11-17T23:52:32+00:00 | Age: 0.0 hours
+Scanned: 2026-11-17T23:53:26.731697+00:00
+URL: https://twitter.com/AdamHoltererer/status/2122830568501256563
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50531982
+Hacker News discussion: https://news.ycombinator.com/item?id=50539942
 
-## 2. The Investors Set to Win Big in Anthropic's IPO
+## 2. Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO - AP News
+Source: AP News (discovery)
+Published: 2026-11-17T23:50:00+00:00 | Age: 0.1 hours
+Scanned: 2026-11-17T23:53:26.731697+00:00
+URL: https://news.google.com/rss/articles/CBMirgFBVV95cUxObnhLd21OYlROQnV3Z2ZRc29BZlRubWM4T2tVN3d3ektLVUdiMXNSS1dhclFQNVZrUEVrdG5rUHFUY0ozQWJJRjFFVlFvVjJ0SC15eEdoUm1JUEdwY2FZdTgyNmNDQnozOWRXSGJBRlVHaC13M09mZ0U3em9hYkp2V1BFWHJvR2ViRFZGcEk5RE8yTWNwUmM5dlhBMC1oMGYzYzE3TXl5akNYTGlOb2c?oc=5
+
+Nvidia chairman says board does not intend to reinstate Jensen Huang as CEO AP News
+
+## 3. Anthropic paid two Trump-connected firms $1.63M to lobby administration
 Source: Hacker News (discovery)
-Published: 2026-11-17T14:37:55+00:00 | Age: 0.1 hours
-Scanned: 2026-11-17T14:43:03.957219+00:00
-URL: https://www.wsj.com/finance/investing/the-investors-set-to-win-big-in-anthropics-ipo-a2fc795c
+Published: 2026-11-17T23:41:41+00:00 | Age: 0.2 hours
+Scanned: 2026-11-17T23:53:26.731697+00:00
+URL: https://cryptobriefing.com/anthropic-lobbying-firm-linked-to-rubio/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50531980
+Hacker News discussion: https://news.ycombinator.com/item?id=50539834
 
-## 3. Nvidia scandal a China AI spy game? Why India must worry - India Today
-Source: India Today (discovery)
-Published: 2026-11-17T14:34:49+00:00 | Age: 0.1 hours
-Scanned: 2026-11-17T14:43:03.957219+00:00
-URL: https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWN2UmJSczRxTGVKbE4wOS02WjlnY2RQbDJ1RWdxNGVpRWQ1OUpyZVpyMmxGWkJWVHhZVEtsRDAzYW1rSUNnZWtyRm5ZVE5vYXNQYTA4R0xUYnNPVjVQQUQ4cUkxMzhncDBEUW5jbDZZT21HM0MwWXlhSlBSQnhNeEVQQ3JRZ2FiQ2lZNTIySE5GVXNLbXFqc2MwNmsxYkJadkxSRDZqTnVHTU1RbEk3bi1paFBnZVFvWXcxcC01Z2stWmRH0gHKAUFVX3lxTFBkdWIzNjhBakVvaDRhRmRFWWlKb25PSURWV0UyWHJSclRnNTVnMTB0ekRwd2FvOU8xY1M3NUZ4UHp4RThfSUw2aGNDQldwMDVTYm9PSlNNNXJJUHd4Ykx5MlFBWkNmRXJqR3JvLWlncXlNQVYxcXRNRlM5VkpQcXAxcWNlcHAyVmRGelhockV1R1ZFa3VELUZCM0VmRmlCcXFQTTZSMFhoQ0RJQnVlTURqV2lZRWdpcUo3Mk1fb19sU1ZtbWVoV2RwdkE?oc=5
-
-Nvidia scandal a China AI spy game? Why India must worry India Today
-
-## 4. Science Corporation’s brain tech is worth $3.5 billion after new funding
+## 4. Nvidia is abandoning China after Jensen Huang’s ouster
 Source: techcrunch.com (reputable)
-Published: 2026-11-17T14:26:46+00:00 | Age: 0.3 hours
-Scanned: 2026-11-17T14:43:03.957219+00:00
-URL: https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/
+Published: 2026-11-17T23:37:48+00:00 | Age: 0.3 hours
+Scanned: 2026-11-17T23:53:26.731697+00:00
+URL: https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/
 
-Science Corp raised a $400 million Series D to scale up its anti-blindness business.
+Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?
 
-## 5. Google's Xreal Aura, Reviewed: The Weird Evolution of VR Into Glasses Is Already Underway - CNET
-Source: CNET (discovery)
-Published: 2026-11-17T14:00:13+00:00 | Age: 0.7 hours
-Scanned: 2026-11-17T14:43:03.957219+00:00
-URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE1hZGFaUkd2ZDNranNERDhBVnJwZDUzWFFsNWRCT0pMWFM1RFIwZzN0VlhfSFBKU0lSeHFFVjBLV1A3ekVsS0pDMkIxSHZWWld1OXZIQWdNNzJPaEtXTFZzSzIzSUpvMVBWV0pFbnVIV184d3dVdWV5ajQ0TQ?oc=5
+## 5. A string of tech outages disrupted flights, banking, and major apps. Here's what officials have said about the causes. - Business Insider
+Source: Business Insider (discovery)
+Published: 2026-11-17T23:37:00+00:00 | Age: 0.3 hours
+Scanned: 2026-11-17T23:53:26.731697+00:00
+URL: https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2gtTHEyb0xaMnRtRXNJeU95SkNPZEpkV2hvUmVyc0lnQk9wc1ZnSDNfczVqZkVrcGU4Sjh0MkVSZTBzTS1RYTh2MEVlaDZvdHkydFhETjdKa05sSUU1RFg4b0poeHZVRmVyX1hYOWtqWDVVNVF0VUpfY0JWYzVDa0EzMXlidlpRYndXT0NVcnhqaXlNOHNZ?oc=5
 
-Google's Xreal Aura, Reviewed: The Weird Evolution of VR Into Glasses Is Already Underway CNET
+A string of tech outages disrupted flights, banking, and major apps. Here's what officials have said about the causes. Business Insider
 
-## 6. US-China tech tensions put Nvidia, Apple at risk as chip curbs and supply chain concerns grow | Hindustan Times - Hindustan Times
-Source: Hindustan Times (discovery)
-Published: 2026-11-17T13:36:38+00:00 | Age: 1.1 hours
-Scanned: 2026-11-17T14:43:03.957219+00:00
-URL: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUC1iRnE5Wjc2N3Z1YnpZTnZLYnkzd002RGtfcnd0dUlfS1hwNEJYb2ZoU3g5ekRHVGVTT2FTU1p5c25LVnZ0eXRwTnpXRUFldk9JNEVpOUxhTkM1Tk96d0tLbmloWFVvbFRmRDg2UUM2V1NGdmRaOFNPZG5ycmxKLS1XTXd1MGhvdVdQUURIWXpyc1dUQmNkN3RxMVM3dTlzWXN1aFF3QUZCNmIzM2t2TFNLb2R1MGhiTXJXVkowNk5yenhINUEtaHdjWXFYdnlXTWY4YnAtVkh2TEZ5NnJ5cVdoZVB2UjFoaGI4M3BfYnhuQ3VJ0gH6AUFVX3lxTFBDOXFGYUp2YTdmX0JBR09QZDRZX3hJSUxkckNVWGd6Y1JJWW1xOFQ5Tlg0RXpLQjc2TFJrSWhjaDZpOEJyNkJmSnVNVlJLY3EwQjRkSUxINzBKLVR0MlNnZDBIeERlMnh3YU9SRWpDNkFoNktQU1ZXTHNJZkxTVjBHaGhGYjJMREQ4dG8wXzZZRlQ5VWNvU2pSSHpPUi1vX2lpV1JjRDJ3eUJOcjlEdWN0cUVId29yZFJiUFd4dTIyQVBCOEJYeUJuNTRncm9weWk0NnZJOGMzY1NIbUQxTmJtMTdORk00TElHTGNTZ1pJOTlOSlVFYzNDWHc?oc=5
+## 6. GitHub release: anthropics/claude-code v2.1.327
+Source: github.com (primary)
+Published: 2026-11-17T23:17:45+00:00 | Age: 0.6 hours
+Scanned: 2026-11-17T23:53:26.731697+00:00
+URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.327
 
-US-China tech tensions put Nvidia, Apple at risk as chip curbs and supply chain concerns grow | Hindustan Times Hindustan Times
+## What's changed - Added a confirmation before `/install-github-app` changes a repository - Added `claude mcp add-json -` to read the server's JSON from stdin, so tokens can stay off the command line; not available inside a Claude Code session - Added a line when a resumed session's earlier messages can't be loaded - Added a list in `/status` of broken agent, skill, command and output style files, keybinding errors,
+
+## 7. GitHub release: openai/openai-python v3.54.0
+Source: github.com (primary)
+Published: 2026-11-17T22:42:56+00:00 | Age: 1.2 hours
+Scanned: 2026-11-17T23:53:26.731697+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.54.0
+
+## [3.54.0](https://github.com/openai/openai-python/compare/v3.53.0...v3.54.0) (2026-11-17) ### Features * **api:** type Managed Agents budget events ([#4284](https://github.com/openai/openai-python/issues/4284)) ([c5da68a](https://github.com/openai/openai-python/commit/c5da68ac74ad2a4bf89c1248f6403b3123e568db))
+
+## 8. We found 14 early Black Friday Apple deals: Score AirPods and MacBooks on sale - Mashable
+Source: Mashable (discovery)
+Published: 2026-11-17T22:01:10+00:00 | Age: 1.9 hours
+Scanned: 2026-11-17T23:53:26.731697+00:00
+URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE5waGV2ZmxadHRfcDVpcFZNeVViUWpFV0R3UkRPNEkzTlllaXdiNDV0emEtdjdlOGhmQlZiLWg2Nlp6OVZGWHhuQ0ZPUU93amVrNXEtT2p4TlJ0Q3d0V1RUZnVmTHZHbnZhUnlsWlA1Y3BXZ18xOWZQbjJxbw?oc=5
+
+We found 14 early Black Friday Apple deals: Score AirPods and MacBooks on sale Mashable
