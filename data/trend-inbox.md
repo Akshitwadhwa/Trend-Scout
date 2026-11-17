@@ -2,70 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-16T21:07:36.380685+00:00
-Scanned: 2026-11-16T21:07:36.380685+00:00
+Updated: 2026-11-17T05:08:24.944608+00:00
+Scanned: 2026-11-17T05:08:24.944608+00:00
 Memory window: 72 hours
 
-## 1. Raman spectroscopy of the first fuel debris retrieved from Fukushima Unit 2
+## 1. Hugging Face model update: Vxtzq/Crowd-v1
+Source: Hugging Face / Vxtzq (reputable)
+Published: 2026-11-17T05:05:49+00:00 | Age: 0.0 hours
+Scanned: 2026-11-17T05:08:24.942765+00:00
+URL: https://huggingface.co/Vxtzq/Crowd-v1
+
+text-generation; downloads=91398; likes=41
+
+## 2. Devi: App is live. Now find the first customers
 Source: Hacker News (discovery)
-Published: 2026-11-16T21:00:06+00:00 | Age: 0.1 hours
-Scanned: 2026-11-16T21:07:36.378335+00:00
-URL: https://www.nature.com/articles/s41598-026-80786-6
+Published: 2026-11-17T04:46:42+00:00 | Age: 0.4 hours
+Scanned: 2026-11-17T05:08:24.942765+00:00
+URL: https://devi.devz.ai/signup?utm_source=hackernews&utm_medium=hnpost&utm_campaign=hnpost111326
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50523194
+Hacker News discussion: https://news.ycombinator.com/item?id=50527573
 
-## 2. We found 14 early Black Friday Apple deals: Score AirPods and MacBooks on sale - Mashable
-Source: Mashable (discovery)
-Published: 2026-11-16T20:56:50+00:00 | Age: 0.2 hours
-Scanned: 2026-11-16T21:07:36.378335+00:00
-URL: https://news.google.com/rss/articles/CBMie0FVX3lxTE5waGV2ZmxadHRfcDVpcFZNeVViUWpFV0R3UkRPNEkzTlllaXdiNDV0emEtdjdlOGhmQlZiLWg2Nlp6OVZGWHhuQ0ZPUU93amVrNXEtT2p4TlJ0Q3d0V1RUZnVmTHZHbnZhUnlsWlA1Y3BXZ18xOWZQbjJxbw?oc=5
-
-We found 14 early Black Friday Apple deals: Score AirPods and MacBooks on sale Mashable
-
-## 3. Show HN: Goethe – turn your computer into an inference engine
+## 3. Show HN: Blobby – A design canvas that Claude, Cursor or Codex drives over MCP
 Source: Hacker News (discovery)
-Published: 2026-11-16T20:52:34+00:00 | Age: 0.3 hours
-Scanned: 2026-11-16T21:07:36.378335+00:00
-URL: https://github.com/meshapplied/goethe
+Published: 2026-11-17T04:44:35+00:00 | Age: 0.4 hours
+Scanned: 2026-11-17T05:08:24.942765+00:00
+URL: https://useblobby.com/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50523086
+Hacker News discussion: https://news.ycombinator.com/item?id=50527557
 
-## 4. California state AG sues OpenAI over rogue agent incidents
+## 4. AI Data Center Debt Tops $800 Billion as Fed Flags Financial Risks - Korea IT Times
+Source: Korea IT Times (discovery)
+Published: 2026-11-17T04:31:00+00:00 | Age: 0.6 hours
+Scanned: 2026-11-17T05:08:24.942765+00:00
+URL: https://news.google.com/rss/articles/CBMicEFVX3lxTE92TlZWYlpKUUJQQS1tbXQtWVJVNHl5S0stcDFvNnAwelBsYUxjRzgwY0lPdERSTFh6b3l3Nl9GemxobTA1cjdlSG1MZ0RWWkstb2xaY3lxa1NRVE1BLVBTNUFiOWpMRjBKTHltZHNraHo?oc=5
+
+AI Data Center Debt Tops $800 Billion as Fed Flags Financial Risks Korea IT Times
+
+## 5. Samsung Foundry targets defense, robotics markets through South Korea's homegrown AI chip initiative - digitimes
+Source: digitimes (discovery)
+Published: 2026-11-17T04:21:33+00:00 | Age: 0.8 hours
+Scanned: 2026-11-17T05:08:24.942765+00:00
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPemVDMW9MYUlyOE1TMENLeTFFX2dpdzJNQ1BrclNiUG9JTUI1WW1UZ3FERElCQU01TFkyQnlSZld2WkFjMFBVR2pkSnlLdlFrSDFuanJKNGJUWjFWYW0tQkx3djA2eGtPZXBOdkZPeDJnUEpwZ1l5czdZQlp3SjV2V3hZU2VuMzZkdThmQWRLQ0QzczFPMXlaYnd6SU9wYVZ4dVp3Qw?oc=5
+
+Samsung Foundry targets defense, robotics markets through South Korea's homegrown AI chip initiative digitimes
+
+## 6. Samsung develops custom HBM for Meta, adopts 2nm process - digitimes
+Source: digitimes (discovery)
+Published: 2026-11-17T03:45:00+00:00 | Age: 1.4 hours
+Scanned: 2026-11-17T05:08:24.942765+00:00
+URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxPa2E1bFpmLTJuYjhnUU9mU25PTDdnRlh6QzA4UElJd2xMeFRTdmZQTl81Nm1oeU9tSng1ZFNObHByaU5SQ0diLU9UTzdYTXE5aGhXVVZwXzR0U04tVk1Ra1BrRjNIbjQ4VEs5UVBnRjlXUTJPOGc5TWlUckhhT1BfNFNOTzI?oc=5
+
+Samsung develops custom HBM for Meta, adopts 2nm process digitimes
+
+## 7. California state AG sues OpenAI over rogue agent incidents
 Source: techcrunch.com (reputable)
-Published: 2026-11-16T20:07:13+00:00 | Age: 1.0 hours
-Scanned: 2026-11-16T21:07:36.378335+00:00
+Published: 2026-11-16T20:07:13+00:00 | Age: 9.0 hours
+Scanned: 2026-11-17T05:08:24.942765+00:00
 URL: https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/
 
-The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident
-
-## 5. Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID
-Source: techcrunch.com (reputable)
-Published: 2026-11-16T19:26:55+00:00 | Age: 1.7 hours
-Scanned: 2026-11-16T21:07:36.378335+00:00
-URL: https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/
-
-Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.
-
-## 6. Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security
-Source: techcrunch.com (reputable)
-Published: 2026-11-16T19:12:02+00:00 | Age: 1.9 hours
-Scanned: 2026-11-16T21:07:36.378335+00:00
-URL: https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/
-
-Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.
-
-## 7. Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’
-Source: techcrunch.com (reputable)
-Published: 2026-11-16T18:11:10+00:00 | Age: 2.9 hours
-Scanned: 2026-11-16T21:07:36.378335+00:00
-URL: https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/
-
-OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.
-
-## 8. GitHub release: openai/openai-python v3.51.0
-Source: github.com (primary)
-Published: 2026-11-13T21:12:49+00:00 | Age: 71.9 hours
-Scanned: 2026-11-16T21:07:36.378335+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.51.0
-
-## [3.51.0](https://github.com/openai/openai-python/compare/v3.50.0...v3.51.0) (2026-11-12) ### Features * **api:** expand agent, image, Live, and external key support ([#4269](https://github.com/openai/openai-python/issues/4269)) ([59738a2](https://github.com/openai/openai-python/commit/59738a289ee82c7b86bf1e10230cceb6daa9716d))
+The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.
