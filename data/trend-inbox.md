@@ -2,46 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-18T10:23:53.989952+00:00
-Scanned: 2026-11-18T10:23:53.989952+00:00
+Updated: 2026-11-18T19:27:15.455774+00:00
+Scanned: 2026-11-18T19:27:15.455774+00:00
 Memory window: 72 hours
 
-## 1. Show HN: Qpilot – an AI agent that runs plain-text manual test cases in Chrome
+## 1. Eval for Email Classification
 Source: Hacker News (discovery)
-Published: 2026-11-18T10:15:10+00:00 | Age: 0.1 hours
-Scanned: 2026-11-18T10:23:53.987235+00:00
-URL: https://github.com/broxhq/qpilot
+Published: 2026-11-18T19:16:36+00:00 | Age: 0.2 hours
+Scanned: 2026-11-18T19:27:15.453879+00:00
+URL: https://housecat.com/blog/email-classification
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50544348
+Hacker News discussion: https://news.ycombinator.com/item?id=50550718
 
-## 2. Why didn't Apple make the Mac Apple II compatible? (2018)
-Source: Hacker News (discovery)
-Published: 2026-11-18T10:13:13+00:00 | Age: 0.2 hours
-Scanned: 2026-11-18T10:23:53.987235+00:00
-URL: https://woz.org/didnt-apple-make-mac-apple-compatible/
+## 2. Nvidia all-hands meeting wraps up - CNBC
+Source: CNBC (discovery)
+Published: 2026-11-18T19:11:35+00:00 | Age: 0.3 hours
+Scanned: 2026-11-18T19:27:15.453879+00:00
+URL: https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0VYWmdXbkJzZ3JmUHVFUVpNTDR4WjFVZzNTR0lrZFMzUUx4MDhMNFcyS1hyNENyYkZpX0FfNzQ1XzBMNjE2YjZ4VkU1ZjZaUjc2YWFyR2RPZjZEcTA5TmhsbjJDdUhRd2VlNW1ySXQyRjl1QVY3QVh2SUMxS0UteHhn?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50544336
+Nvidia all-hands meeting wraps up CNBC
 
-## 3. Congress Looks to Charge Data Centers Billions in Sweeping Energy Plan - The New York Times
-Source: The New York Times (discovery)
-Published: 2026-11-18T10:13:13+00:00 | Age: 0.2 hours
-Scanned: 2026-11-18T10:23:53.987235+00:00
-URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUtuUVhUVjkxenZMWnZNQWx1OG9CbF8yT1VyZ1ZFOFJvTGpYSHZvaEVyWmJDWEV3bUNfMkpxOVV2OTczS011UEtkLWFjNDdqODFITVc4T1VFV0wzZy1rNTNkWGhGblVkaW5TcVEtdEkxWDJ6MUE2Y1pCVlRKS2hiNFZpVFhWQXItWFpWVU5QeXh4TFV5dFBLbWl3?oc=5
+## 3. SPONSORED AI is changing how software is built and secured - Axios
+Source: Axios (discovery)
+Published: 2026-11-18T18:45:30+00:00 | Age: 0.7 hours
+Scanned: 2026-11-18T19:27:15.453879+00:00
+URL: https://news.google.com/rss/articles/CBMihwFBVV95cUxNVkpmRmJVQkxNNXJNcDZsTXd6ZHBIRlVybmhJT2RFc2pJcTI2SUxzUTBWbnZmYmtydFlyNVZMRy1NNVBMUUp5bURGUTcwQ0Nza2pZb1ZFZl9MQzlOMG04dThmTHcyN3pHSHlQZnV2dXFwQkNzbWlCQVpuYmFCTzBxNld5a3Frc1U?oc=5
 
-Congress Looks to Charge Data Centers Billions in Sweeping Energy Plan The New York Times
+SPONSORED AI is changing how software is built and secured Axios
 
-## 4. GitHub release: googleapis/python-genai v3.6.0
-Source: github.com (primary)
-Published: 2026-11-18T07:09:36+00:00 | Age: 3.2 hours
-Scanned: 2026-11-18T10:23:53.987235+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v3.6.0
+## 4. Our Approach to Updating Our Commercial Terms of Service
+Source: about.fb.com (primary)
+Published: 2026-11-18T18:01:47+00:00 | Age: 1.4 hours
+Scanned: 2026-11-18T19:27:15.453879+00:00
+URL: https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/
 
-## [3.6.0](https://github.com/googleapis/python-genai/compare/v3.5.0...v3.6.0) (2026-11-18) ### Features * **sdk:** Add tool retrieval and function result schemas in public SDK ([34e62b1](https://github.com/googleapis/python-genai/commit/34e62b1c476959d0217fb5d53ec26e75f9fb2751)) ### Bug Fixes * **api_client:** Retry google.auth TransportError when retries are enabled ([6fc8357](https://github.com/googleapis/python-g
+We recently announced that the proposed updates to our commercial terms of service have been put on hold and that we will revise those proposed changes after a deeper consultation with stakeholders. We made this decision after hearing concerns from news publishers and other stakeholders about how the proposed updates apply to our web crawlers. Meta follows the industry standard robots.txt mechanism as described in ou
 
-## 5. PCN, Sproxil explore digital tools to strengthen pharmacy regulation - The Guardian Nigeria News
-Source: The Guardian Nigeria News (discovery)
-Published: 2026-11-18T03:00:59+00:00 | Age: 7.4 hours
-Scanned: 2026-11-18T10:23:53.987235+00:00
-URL: https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXBJay1vbDJuUEJPZDRwNkJGcGF1aC1LeUoxb2RiUURSZTZCY2Z6YnhrSlp0VkVHbS1aaEhtSXRTVGpvQ2NicW5NMFk3TVVxWVRGUml6MHA0dGIyMDYzZWNJSXBQVThsYVk3aG5DaXBDREdZR3lSVXZUVVNnOUdaVG5hYnpLVkVYNmVpUzhRQ3FIVVNDMWtTMG9MTnptY1dCVjBsS3hsZw?oc=5
+## 5. Samsung Begins One UI 9.5 Beta Program
+Source: news.samsung.com (primary)
+Published: 2026-11-18T18:00:00+00:00 | Age: 1.5 hours
+Scanned: 2026-11-18T19:27:15.453879+00:00
+URL: https://news.samsung.com/global/samsung-begins-one-ui-9-5-beta-program
 
-PCN, Sproxil explore digital tools to strengthen pharmacy regulation The Guardian Nigeria News
+Samsung has launched the One UI 9.5 beta program, giving users an early look at One UI 9.5 ahead of its official debut. The One UI 9.5 beta introduces more precise camera controls, personalized health insights, improved accessibility features, and stronger privacy protections for everyday use. Enhanced Pro and Pro video modes put finer settings […]
+
+## 6. More banks say customers using AI agents are on their own — even if they get hacked
+Source: techcrunch.com (reputable)
+Published: 2026-11-18T17:32:10+00:00 | Age: 1.9 hours
+Scanned: 2026-11-18T19:27:15.453879+00:00
+URL: https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/
+
+Citi is the latest major financial institution to put the breaks on personal finance AI agents.
+
+## 7. Astra Security Connects Autonomous Pentesting to Claude Code and GitHub Copilot Through New MCP Server - The Manila Times
+Source: The Manila Times (discovery)
+Published: 2026-11-18T17:20:55+00:00 | Age: 2.1 hours
+Scanned: 2026-11-18T19:27:15.453879+00:00
+URL: https://news.google.com/rss/articles/CBMijAJBVV95cUxNeDBubzFvZWZNUmY3aVk0anFBYlBSaFVoTkMtMk9QeVF6UFpsRmtmWlJiVVBXcjdxRFlGbDdMUUxwREN6RGJtaFUzdTZVcW9lUEgwdmFMRHUyTm1SUmJpNTBzRlBtWVYwOHVaR1RFVHNfTDY0bExZSzFaaFdYd1NjQURTWV9ISjdkZ0E1dTJrbVItSGdXNGVvWGNjR05iOUhGTEJPUk9aQ0xFVGk3aGIybjNRdU5kdXpWUWxKQ2tVN09OWkZhVmsyTk5WSFA5SVZQSzhwN2k2N3QwWmxnX0hhRW9UbjBVclZpQmJOMHhkOHlxUThXXzRrTmhsVkt3YXdIT0VYSzRVcmVXbXZp0gGMAkFVX3lxTE14MG5vMW9lZk1SZjdpWTRqcUFiUFJoVWhOQy0yT1B5UXpQWmxGa2ZaUmJVUFdyN3FEWUZsN0xRTHBEQ3pEYm1oVTN1NlVxb2VQSDB2YUxEdTJObVJSYmk1MHNGUG1ZVjA4dVpHVEVUc19MNjRsTFlLMVpoV1h3U2NBRFNZX0hKN2RnQTV1MmttUi1IZ1c0ZW9YY2NHTmI5SEZMQk9ST1pDTEVUaTdoYjJuM1F1TmR1elZRbEpDa1U3T05aRmFWazJOTlZIUDlJVlBLOHA3aTY3dDBabGdfSGFFb1RuMFVyVmlCYk4weGQ4eXFROFdfNGtOaGxWS3dhd0hPRVhLNFVyZVdtdmk?oc=5
+
+Astra Security Connects Autonomous Pentesting to Claude Code and GitHub Copilot Through New MCP Server The Manila Times
