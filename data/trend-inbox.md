@@ -2,54 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-19T01:55:34.667996+00:00
-Scanned: 2026-11-19T01:55:34.667996+00:00
+Updated: 2026-11-19T10:31:26.731828+00:00
+Scanned: 2026-11-19T10:31:26.731828+00:00
 Memory window: 72 hours
 
-## 1. Anthropic IPO to Mint Millionaires
+## 1. Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang - WSJ
+Source: WSJ (discovery)
+Published: 2026-11-19T10:27:07+00:00 | Age: 0.1 hours
+Scanned: 2026-11-19T10:31:26.730140+00:00
+URL: https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5
+
+Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang WSJ
+
+## 2. Show HN: Agent Bolt – a browser game that teaches Claude Code by doing
 Source: Hacker News (discovery)
-Published: 2026-11-19T01:41:30+00:00 | Age: 0.2 hours
-Scanned: 2026-11-19T01:55:34.665784+00:00
-URL: https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/
+Published: 2026-11-19T10:23:48+00:00 | Age: 0.1 hours
+Scanned: 2026-11-19T10:31:26.730140+00:00
+URL: https://agentbolt.dev/#game
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50555024
+Hacker News discussion: https://news.ycombinator.com/item?id=50558292
 
-## 2. FailTrace – Reproduce a failed GitHub Actions run locally from its URL
+## 3. TSMC and Samsung suspend some chip shipments to Chinese customers - Financial Times
+Source: Financial Times (discovery)
+Published: 2026-11-19T10:21:27+00:00 | Age: 0.2 hours
+Scanned: 2026-11-19T10:31:26.730140+00:00
+URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmdYLWxyejBmNWE2ZmVSbk93M0w2ajJMbzZvWE54bG5QU2JqYzNqYUhobnJVX1h6bkcyT0JZX1VLMHNYZG4tM0Q4Vmd3dGJIRG9yS2dYcjIyLVpvV3RwUHFpRXU2cU51dXdWTTBRcy1wNHBJZEYtYURQcVhOTXlZRU5nLW8?oc=5
+
+TSMC and Samsung suspend some chip shipments to Chinese customers Financial Times
+
+## 4. Backdoor attacks against Machine Learning IRL
 Source: Hacker News (discovery)
-Published: 2026-11-19T01:30:43+00:00 | Age: 0.4 hours
-Scanned: 2026-11-19T01:55:34.665784+00:00
-URL: https://github.com/Ri4dH/failtrace
+Published: 2026-11-19T10:21:23+00:00 | Age: 0.2 hours
+Scanned: 2026-11-19T10:31:26.730140+00:00
+URL: https://phrack.org/issues/73/backdoor-attacks-against-machine-learning-irl_md
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50554941
+Hacker News discussion: https://news.ycombinator.com/item?id=50558279
 
-## 3. GitHub release: anthropics/claude-code v2.1.328
-Source: github.com (primary)
-Published: 2026-11-19T01:14:04+00:00 | Age: 0.7 hours
-Scanned: 2026-11-19T01:55:34.665784+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.328
+## 5. Why AI reverse-engineering won’t mean ‘Grand Theft Software’ | Column - Tampa Bay Times
+Source: Tampa Bay Times (discovery)
+Published: 2026-11-19T09:42:05+00:00 | Age: 0.8 hours
+Scanned: 2026-11-19T10:31:26.730140+00:00
+URL: https://news.google.com/rss/articles/CBMijAFBVV95cUxNckxrOEh3bmx2OW9kLVhVSDRWRTJwNVg0RlF2UjZqZWM1ZC1nSFRWU18xcGNYRzc0LXJ6WENIeWJtUGNTZFFVN1czN04xTEwtNmtzcmpza1Y4RkZtV3doSDgxZF9aR3NHSFdDdXkzYk5uQnloYm93QkFESWF4RHFza251Z3BwNExSYXUyZQ?oc=5
 
-## What's changed - Added auto mode for Claude Opus 4.6 and Sonnet 4.6 on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude apps gateway; interactive sessions with no permission mode start in it - Added `"onFailure": "block"` for `mcp_tool` hooks, as for command and HTTP hooks: a hook whose call fails blocks the action - Added a warning when a message from a session that skips permission pro
+Why AI reverse-engineering won’t mean ‘Grand Theft Software’ | Column Tampa Bay Times
 
-## 4. Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit
-Source: techcrunch.com (reputable)
-Published: 2026-11-18T23:17:28+00:00 | Age: 2.6 hours
-Scanned: 2026-11-19T01:55:34.665784+00:00
-URL: https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/
+## 6. Watch Trump Argues Against Global Regulation of AI - Bloomberg
+Source: Bloomberg (discovery)
+Published: 2026-11-19T07:11:13+00:00 | Age: 3.3 hours
+Scanned: 2026-11-19T10:31:26.730140+00:00
+URL: https://news.google.com/rss/articles/CBMioAFBVV95cUxON3QzdVV6MzlKYm15X2xBZXN6MkxQcG9jN1VqellXczNMV1RIY0lwZTFDMVdTQzc5LXlvTEtiSFVBTFRNb0t5T0NEMUlnd1JLQjVCanhXdEFpLTZJa3d4WU9NbUQzeUduY0l5TEg0Y0h4Wm1ZNU11Q0NObmJmWjEwVW8yZWs0QWVfa2U1cU5saUlMNHBVNzRNdWdPelJ3dnkt?oc=5
 
-Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.
-
-## 5. GitHub release: googleapis/python-genai v3.6.1
-Source: github.com (primary)
-Published: 2026-11-18T21:48:51+00:00 | Age: 4.1 hours
-Scanned: 2026-11-19T01:55:34.665784+00:00
-URL: https://github.com/googleapis/python-genai/releases/tag/v3.6.1
-
-## [3.6.1](https://github.com/googleapis/python-genai/compare/v3.6.0...v3.6.1) (2026-11-18) ### Bug Fixes * Update sdk enum ([4c4ab16](https://github.com/googleapis/python-genai/commit/4c4ab16bc8229415c548519a4cf400cd85936e91))
-
-## 6. Our Approach to Updating Our Commercial Terms of Service
-Source: about.fb.com (primary)
-Published: 2026-11-18T18:01:47+00:00 | Age: 7.9 hours
-Scanned: 2026-11-19T01:55:34.665784+00:00
-URL: https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/
-
-We recently announced that the proposed updates to our commercial terms of service have been put on hold and that we will revise those proposed changes after a deeper consultation with stakeholders. We made this decision after hearing concerns from news publishers and other stakeholders about how the proposed updates apply to our web crawlers. Meta follows the industry standard robots.txt mechanism as described in ou
+Watch Trump Argues Against Global Regulation of AI Bloomberg
