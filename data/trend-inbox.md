@@ -2,54 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-21T01:36:54.271443+00:00
-Scanned: 2026-11-21T01:36:54.271443+00:00
+Updated: 2026-11-21T09:58:50.777597+00:00
+Scanned: 2026-11-21T09:58:50.777597+00:00
 Memory window: 72 hours
 
-## 1. Anthropic's IPO bank closed position meant to stabilize stock, removing support
+## 1. Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills
 Source: Hacker News (discovery)
-Published: 2026-11-21T01:30:48+00:00 | Age: 0.1 hours
-Scanned: 2026-11-21T01:36:54.269359+00:00
-URL: https://www.reuters.com/markets/us/anthropics-ipo-bank-closed-position-meant-stabilize-stock-removing-source-2026-11-20/
+Published: 2026-11-21T09:40:06+00:00 | Age: 0.3 hours
+Scanned: 2026-11-21T09:58:50.775595+00:00
+URL: https://clawvet.vercel.app/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50584870
+Hacker News discussion: https://news.ycombinator.com/item?id=50587571
 
-## 2. AI R&D-relevant model capabilities are improving rapidly
+## 2. Jailbroken AI Agent Targets 50+ European Firms in 9 Days, Hunts for Crypto Keys - The Crypto Times
+Source: The Crypto Times (discovery)
+Published: 2026-11-21T09:27:12+00:00 | Age: 0.5 hours
+Scanned: 2026-11-21T09:58:50.775595+00:00
+URL: https://news.google.com/rss/articles/CBMitwFBVV95cUxPanlMLW54cldTT01tanZ5VVJSb2pKc1J2NWdyT0dqSHdQWXRMd19TZ1hRTzR1YkpNcjJsRmt3TTNOM21JQzhQSlRNZ3ZFLW92OTRfNlJab00weU1ObmVtSWhuS1NYajZLVkRvRGJRTm8yNnBMZ2tVQkJmRXkzc1ItY0pUSkJKeTB6LW9iazE0cmRGSTBvOFRaSE4wbWFvXzV0Vl9FcS03b2N3U216Y2xFTTRWZDlEVWc?oc=5
+
+Jailbroken AI Agent Targets 50+ European Firms in 9 Days, Hunts for Crypto Keys The Crypto Times
+
+## 3. Show HN: PocketTransfer – iPhone to PC/Mac file transfer in the browser
 Source: Hacker News (discovery)
-Published: 2026-11-21T01:23:46+00:00 | Age: 0.2 hours
-Scanned: 2026-11-21T01:36:54.269359+00:00
-URL: https://metr.org/blog/2026-11-20-q4-2026-capability-update/
+Published: 2026-11-21T09:22:51+00:00 | Age: 0.6 hours
+Scanned: 2026-11-21T09:58:50.775595+00:00
+URL: https://pockettransfer.app/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50584825
+Hacker News discussion: https://news.ycombinator.com/item?id=50587486
 
-## 3. SpaceX Starship landing livestream: Watch the catch attempt live - Mashable
+## 4. The Apple Watch Series 11 is $100 off in Walmart's early Black Friday sale - Mashable
 Source: Mashable (discovery)
-Published: 2026-11-21T00:09:42+00:00 | Age: 1.5 hours
-Scanned: 2026-11-21T01:36:54.269359+00:00
-URL: https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGE3V2ptSmVUazFjeWxDMG5FSzRub3RyVnBrNTk0b0thNlRTN1NFYVhqQmZrSFdJR2JuRVhyUkhldFdydFVvd1FPVDJuLUFnTXdfeEMxUnpIbDA5ZDVUMm0yVmVPbUF5OXd2amZFSU9YczJjeW5mVkxnX194cHZNRURYQQ?oc=5
+Published: 2026-11-21T07:59:43+00:00 | Age: 2.0 hours
+Scanned: 2026-11-21T09:58:50.775595+00:00
+URL: https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTZVMW5sb28zOTl3QTFveTgxajlwenRZT2RlT1ltazNXang2ZURmSDBTOWZhREYtVGRkS0NCMnFsa01BSHdsYmRLZmZjVTNRbDRrbkdFRXZlWm8tQVZBR0JOTTBlTVFSY1lmMXNYSGFOdzhkWkJpbEJRUDFvMVFlOG0zb0FjYjNQV0pRQTczSQ?oc=5
 
-SpaceX Starship landing livestream: Watch the catch attempt live Mashable
-
-## 4. GitHub release: anthropics/claude-code v2.1.330
-Source: github.com (primary)
-Published: 2026-11-20T22:32:56+00:00 | Age: 3.1 hours
-Scanned: 2026-11-21T01:36:54.269359+00:00
-URL: https://github.com/anthropics/claude-code/releases/tag/v2.1.330
-
-## What's changed - Added sign-in to organizations managed in Anthropic's Enterprise Admin Console: after `claude auth login`, Claude Code applies the organization's settings and uses its cloud provider or gateway - Added easel, a built-in mod that draws charts when asked and under MCP metrics results, on Pro, Max and, where available, Team and Enterprise on macOS and Linux; turn automatic charts off in `/config` - A
+The Apple Watch Series 11 is $100 off in Walmart's early Black Friday sale Mashable
 
 ## 5. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.
 Source: techcrunch.com (reputable)
-Published: 2026-11-20T19:53:41+00:00 | Age: 5.7 hours
-Scanned: 2026-11-21T01:36:54.269359+00:00
+Published: 2026-11-20T19:53:41+00:00 | Age: 14.1 hours
+Scanned: 2026-11-21T09:58:50.775595+00:00
 URL: https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/
 
 Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.
 
-## 6. Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos
-Source: ABC News - Breaking News, Latest News and Videos (discovery)
-Published: 2026-11-20T19:19:15+00:00 | Age: 6.3 hours
-Scanned: 2026-11-21T01:36:54.269359+00:00
-URL: https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5
+## 6. GitHub release: openai/openai-python v3.57.0
+Source: github.com (primary)
+Published: 2026-11-20T01:27:57+00:00 | Age: 32.5 hours
+Scanned: 2026-11-21T09:58:50.775595+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.57.0
 
-Exclusive: Anthropic CEO calls for stronger regulation of AI ABC News - Breaking News, Latest News and Videos
+## [3.57.0](https://github.com/openai/openai-python/compare/v3.56.0...v3.57.0) (2026-11-19) ### Features * **api:** support Live WebRTC standby ([#4296](https://github.com/openai/openai-python/issues/4296)) ([18d10c3](https://github.com/openai/openai-python/commit/18d10c381cac674c56620acc3c1b547fb691f5ea))
+
+## 7. The best things in open source are built together
+Source: github.blog (primary)
+Published: 2026-11-19T16:00:00+00:00 | Age: 42.0 hours
+Scanned: 2026-11-21T09:58:50.775595+00:00
+URL: https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/
+
+Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog .
