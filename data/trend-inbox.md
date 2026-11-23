@@ -2,54 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-23T10:56:53.560343+00:00
-Scanned: 2026-11-23T10:56:53.560343+00:00
+Updated: 2026-11-23T22:46:07.366602+00:00
+Scanned: 2026-11-23T22:46:07.366602+00:00
 Memory window: 72 hours
 
-## 1. Kalshi Claims New York's Lawsuit Could Shut It Down Everywhere
+## 1. Trump hints Nvidia CEO Jensen Huang could've moved to China if not reinstated
 Source: Hacker News (discovery)
-Published: 2026-11-23T10:54:01+00:00 | Age: 0.0 hours
-Scanned: 2026-11-23T10:56:53.558465+00:00
-URL: https://gizmodo.com/kalshi-claims-new-yorks-lawsuit-could-shut-it-down-everywhere-2000843395
+Published: 2026-11-23T22:33:02+00:00 | Age: 0.2 hours
+Scanned: 2026-11-23T22:46:07.365140+00:00
+URL: https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50610042
+Hacker News discussion: https://news.ycombinator.com/item?id=50620363
 
-## 2. Show HN: DevDb, a database client for VS Code that needs no connection setup
-Source: Hacker News (discovery)
-Published: 2026-11-23T10:44:05+00:00 | Age: 0.2 hours
-Scanned: 2026-11-23T10:56:53.558465+00:00
-URL: https://github.com/damms005/devdb-vscode
+## 2. 'Fast Money' traders react to Monday's Nvidia-led market rally - CNBC
+Source: CNBC (discovery)
+Published: 2026-11-23T22:32:58+00:00 | Age: 0.2 hours
+Scanned: 2026-11-23T22:46:07.365140+00:00
+URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPWG92NWtabWY5N3hUN3hRVEZYdllaTThKX3ZoaHJnTXB3N0NJMThkcHg4cWRhOWZzNHBoWUs5VGl1eG5DVmhIZkRvUGdYRUhvUUFjMmFQNWZ3ci1RUVBCRkhOQzc1TnJjQmxfS0N5NW1WcUhqRzM5dEhMdlhFNml0T1JwM1JqVzczYXZYRkFQQWoyY0FnLTdvVk40N0k2Y2J3aUNLTg?oc=5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50609965
+'Fast Money' traders react to Monday's Nvidia-led market rally CNBC
 
-## 3. Should I buy a gaming console just to play 'GTA 6'? That depends on your FOMO. - Mashable
-Source: Mashable (discovery)
-Published: 2026-11-23T10:42:38+00:00 | Age: 0.2 hours
-Scanned: 2026-11-23T10:56:53.558465+00:00
-URL: https://news.google.com/rss/articles/CBMikwFBVV95cUxOMEdBcGpRTHRsSzA3LTFiWDRlRGNvUTgyYTJWRjc4WDlfYVljUWhkc2p6RGp4Ry1NbFZpQzAyNlIzMkFLUnN4Yk5EcXBuUlRzZnRVT2pLRUR2dHpWTzRnTG5DdGI4NmkxOXpOUVc0TjBZRlNpY3FsdzBScldtb3hsSWlqSTBROE1hZ2Zsc296YUZydnM?oc=5
+## 3. Want to track your sleep and recovery? Whoop memberships are up to $60 off - The Asheville Citizen Times
+Source: The Asheville Citizen Times (discovery)
+Published: 2026-11-23T22:28:00+00:00 | Age: 0.3 hours
+Scanned: 2026-11-23T22:46:07.365140+00:00
+URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzlwazhZbWp6YlY1dG5rSjRnQ1F5VTRJUUJCMUN3YnFKVnBIOFdEMVNjMDYta09DNmhTYkxvNzlfZUh5WEl0SmpJMDJMVzBoMG9XLVVJVmxLblhSZGdiMEFGczlUd1NtQWJuZ2x4VW9TM2hITWhTSEpDWHNiWi1WekMtYk16RjNmbzJ4UlVIMktab1NJMXktcTdIYUJCMEcwSk9uSzNEcnRXV25PYmlKag?oc=5
 
-Should I buy a gaming console just to play 'GTA 6'? That depends on your FOMO. Mashable
+Want to track your sleep and recovery? Whoop memberships are up to $60 off The Asheville Citizen Times
 
-## 4. Apple MacBook Pro 16-inch M5 Pro PROLED XDR review - How often do you actually touch the screen? - The Economic Times
-Source: The Economic Times (discovery)
-Published: 2026-11-23T10:42:33+00:00 | Age: 0.2 hours
-Scanned: 2026-11-23T10:56:53.558465+00:00
-URL: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaGhSUExtRjdudHVTQkRCSUMzOEhrT0U5U2xrT1NKREd2WDZIcjNMQkcteV9ERWdTNTFiWlkwZFhGSGE5TXVwU3p1WHZScDVXbm1xNnBmN1dCc2dwbzhYbHdWcXVfS1ZhRXBYZ3ZMblZ3QjFaYkVqOVN3enpvNUxyTzFzVW9BMjhLZHU3azhwS1p0Q2hNTU83c3lpSmhrOUVLNG9XMjhRWTRFTjl0V09xc2NVamhBMXBOTEtGS055NFZMbjVaT1dpMnJJNmM3ZVpsMEhlRW5XV0VBVjBITUF3N0NiTC1ONHBnaFNwQzlZYjB2dFFFUXh3NdIB_gFBVV95cUxQeTAtSS16T1lkTFNFSnByUzh5c0NLcjdZU0RkNms2Y3JEdkRYT3JDeV9wRzhuS05UN2RIT2lOSlU5MlVJX0dBVWVJcnRXV2h1ZlhpLU5Udjl5LVpmNXoxcHVpR21FYm81MUVsSDNEUGk1YjlIVmRINEgzdkZ5R3hyQjNrUldQaWhoLVlBblJNNG9wb3E2Mndhc0tDOXVFcmNwd18wdGc2S3EtUmlycVhJLXJodWN1cnVfNktEYmd4cThlYXk0T2hBcEN0VmcyM29lMngtWGRCckloNmczMk1DX09DUkJKaFJqQVhaZDI2SXF3X0NnUlZVbFYyUm5WUQ?oc=5
+## 4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes
+Source: techcrunch.com (reputable)
+Published: 2026-11-23T22:05:50+00:00 | Age: 0.7 hours
+Scanned: 2026-11-23T22:46:07.365140+00:00
+URL: https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
 
-Apple MacBook Pro 16-inch M5 Pro PROLED XDR review - How often do you actually touch the screen? The Economic Times
+As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
 
-## 5. EXCLUSIVE: Some US banks tighten AI-agent controls on concern about models escaping safeguards - Reuters
-Source: Reuters (discovery)
-Published: 2026-11-23T10:07:13+00:00 | Age: 0.8 hours
-Scanned: 2026-11-23T10:56:53.558465+00:00
-URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxPb0pELTVieEVteWV5TWE5cU80T1M4MmNHVmxQVjNmb0tkQ3diUHRFSTg0X1NJTnhEMGZHcS1CaFZfRHUyeWUyQ0RSMWVOa2drMEY0VG1Ba3puU0FmamtxdzF3dFFLaXl0TGloeVIteHFxMkNiRlFLMU5Yc0FUeDNvVzJZS0lLS2t1TWo5Tmk1RWJjMGlHQ2Q2eXlwc1NRU0lXNEFxODVLZ1FmQm4xLUR0QWFoRTRTS1FqSE5FRGVfUzNPaFZGUlNJREtSb0ZjUQ?oc=5
+## 5. Supertake raises $20M to let AI agents turn your market predictions into stock portfolios
+Source: techcrunch.com (reputable)
+Published: 2026-11-23T22:02:05+00:00 | Age: 0.7 hours
+Scanned: 2026-11-23T22:46:07.365140+00:00
+URL: https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/
 
-EXCLUSIVE: Some US banks tighten AI-agent controls on concern about models escaping safeguards Reuters
+Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
 
-## 6. Apple Risks Losing the AI Agent War With an Outdated Playbook - Bloomberg.com
-Source: Bloomberg.com (discovery)
-Published: 2026-11-23T10:01:09+00:00 | Age: 0.9 hours
-Scanned: 2026-11-23T10:56:53.558465+00:00
-URL: https://news.google.com/rss/articles/CBMizgFBVV95cUxQY0NlQ2FFZWVRd2FPTTJ4cjhKU3Vjb1hXdlZ2R1pfN2IxdlBxMDRZWmRMS1FyNXFSamtldk5GcVVPdnlxOFc2cmRsbS12TnFSdGhKeUx5NEF5dFJHUE12WDR2NGpZckk5cm5Ha3YzeXp0RkR2Y1BuTnhDWDczS18tTTlTWFplX0oyQy1SRDhFRS1jbzY3RnlIMWU1eHB1UktHWmpMT003MXV4d2l0bEg0QVp2bWJrWFUzQ3Rsdk5UbG9zNS1rLWlZV0pjejZQUQ?oc=5
+## 6. Samsung Launches Odyssey G6: The World’s First 1,100Hz Gaming Monitor
+Source: news.samsung.com (primary)
+Published: 2026-11-23T22:00:00+00:00 | Age: 0.8 hours
+Scanned: 2026-11-23T22:46:07.365140+00:00
+URL: https://news.samsung.com/global/samsung-launches-odyssey-g6-the-worlds-first-1100hz-gaming-monitor
 
-Apple Risks Losing the AI Agent War With an Outdated Playbook Bloomberg.com
+Samsung Electronics today announced the launch of the 27-inch Odyssey G6 (G60H), the world’s first gaming monitor to support a refresh rate of up to 1,100Hz in HD. The monitor also features Dual Mode, which allows players to choose between HD at up to 1,100Hz and QHD at up to 600Hz to suit their game and […]
+
+## 7. GitHub release: openai/openai-python v3.58.0
+Source: github.com (primary)
+Published: 2026-11-23T19:00:21+00:00 | Age: 3.8 hours
+Scanned: 2026-11-23T22:46:07.365140+00:00
+URL: https://github.com/openai/openai-python/releases/tag/v3.58.0
+
+## [3.58.0](https://github.com/openai/openai-python/compare/v3.57.0...v3.58.0) (2026-11-23) ### Features * **api:** set and read agent session spending limits ([#4315](https://github.com/openai/openai-python/issues/4315)) ([fc36aef](https://github.com/openai/openai-python/commit/fc36aefb8f7809d0b91c65a9c3e424a6e7b8bc77)) ### Bug Fixes * **api:** clarify when to omit completion choice count ([#4298](https://github.com
