@@ -2,62 +2,54 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-23T22:46:07.366602+00:00
-Scanned: 2026-11-23T22:46:07.366602+00:00
+Updated: 2026-11-24T06:59:26.765238+00:00
+Scanned: 2026-11-24T06:59:26.765238+00:00
 Memory window: 72 hours
 
-## 1. Trump hints Nvidia CEO Jensen Huang could've moved to China if not reinstated
+## 1. GPTZero 5.0
 Source: Hacker News (discovery)
-Published: 2026-11-23T22:33:02+00:00 | Age: 0.2 hours
-Scanned: 2026-11-23T22:46:07.365140+00:00
-URL: https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/
+Published: 2026-11-24T06:41:36+00:00 | Age: 0.3 hours
+Scanned: 2026-11-24T06:59:26.762330+00:00
+URL: https://gptzero.me/news/introducing-gptzero-5
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50620363
+Hacker News discussion: https://news.ycombinator.com/item?id=50624559
 
-## 2. 'Fast Money' traders react to Monday's Nvidia-led market rally - CNBC
-Source: CNBC (discovery)
-Published: 2026-11-23T22:32:58+00:00 | Age: 0.2 hours
-Scanned: 2026-11-23T22:46:07.365140+00:00
-URL: https://news.google.com/rss/articles/CBMipAFBVV95cUxPWG92NWtabWY5N3hUN3hRVEZYdllaTThKX3ZoaHJnTXB3N0NJMThkcHg4cWRhOWZzNHBoWUs5VGl1eG5DVmhIZkRvUGdYRUhvUUFjMmFQNWZ3ci1RUVBCRkhOQzc1TnJjQmxfS0N5NW1WcUhqRzM5dEhMdlhFNml0T1JwM1JqVzczYXZYRkFQQWoyY0FnLTdvVk40N0k2Y2J3aUNLTg?oc=5
+## 2. Jensen Huang is back as Nvidia CEO. What does it mean for India's AI growth story? - Moneycontrol.com
+Source: Moneycontrol.com (discovery)
+Published: 2026-11-24T06:36:41+00:00 | Age: 0.4 hours
+Scanned: 2026-11-24T06:59:26.762330+00:00
+URL: https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSXc4dU9iZHhzcXJJcGRFTVZUbWZSbFRZMmhZcGNGUmlxbV9jRTdkaVh0Q0QyemhNMFFJZzVHRlM4TjFGcUlrNm00VU1tMlZWRDl2c0k5a3pVQ3dVNnpMVmRjcGY1ZUhseTdBSXlINm9CdXlUUDFpLVdRWjAxdWdRSzN0d1ByYUZCWGFFbTM5eURHZ3p0X005dDA3cHdtRUhmSjVNUzZTZ1pvZGctZEU0dGRGbk91SGltMlNtd2U1eVVfU2pFeFBvZUMwSll2Ymdta2NFWV9HZWFuWXZCXy1zX29YM3ZUNGgwOE5JZGdFN2V4QdIB9wFBVV95cUxQSHMwSnZiY08ydjlLV3VVbTRuUkU1TzF1aGJsSDRWZVhyMzE4cDVMaHppc3ZkUDcwLXBVaHBCSS1aOEdTRTBQRHNUUGxnelRTOUNDVU9LRUtncGJPcEg1bUFhTUhXZXNYTTlhb25JTmpRRzRlMjdUSnpTYzlKb3doNzVueHJpaXpkSnhJMXl3cUdNVnVhMnNFQ0ZnMVdUaTZnRUFQRFhPR0JaNFdGcFQ1eVpVNVNySE41cFNrWGxtTnZ5UXRwcXZ6Z3gxa1dvQVhnNlZVX1RwVUh5ZmczajZQb1dMWWduYW10Tk1fZk5zN1NpaFp4Tm1N?oc=5
 
-'Fast Money' traders react to Monday's Nvidia-led market rally CNBC
+Jensen Huang is back as Nvidia CEO. What does it mean for India's AI growth story? Moneycontrol.com
 
-## 3. Want to track your sleep and recovery? Whoop memberships are up to $60 off - The Asheville Citizen Times
-Source: The Asheville Citizen Times (discovery)
-Published: 2026-11-23T22:28:00+00:00 | Age: 0.3 hours
-Scanned: 2026-11-23T22:46:07.365140+00:00
-URL: https://news.google.com/rss/articles/CBMisAFBVV95cUxNNzlwazhZbWp6YlY1dG5rSjRnQ1F5VTRJUUJCMUN3YnFKVnBIOFdEMVNjMDYta09DNmhTYkxvNzlfZUh5WEl0SmpJMDJMVzBoMG9XLVVJVmxLblhSZGdiMEFGczlUd1NtQWJuZ2x4VW9TM2hITWhTSEpDWHNiWi1WekMtYk16RjNmbzJ4UlVIMktab1NJMXktcTdIYUJCMEcwSk9uSzNEcnRXV25PYmlKag?oc=5
+## 3. The Agent Memory Tarpit: ~8k GitHub Repos and Counting
+Source: Hacker News (discovery)
+Published: 2026-11-24T06:26:24+00:00 | Age: 0.6 hours
+Scanned: 2026-11-24T06:59:26.762330+00:00
+URL: https://morethanamachine.com/posts/agent-memory-tarpit/
 
-Want to track your sleep and recovery? Whoop memberships are up to $60 off The Asheville Citizen Times
+Hacker News discussion: https://news.ycombinator.com/item?id=50624476
 
-## 4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes
+## 4. Muse Now Available in the UK: Muse Does the Work, You Stay in Control
+Source: about.fb.com (primary)
+Published: 2026-11-24T06:00:04+00:00 | Age: 1.0 hours
+Scanned: 2026-11-24T06:59:26.762330+00:00
+URL: https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/
+
+Muse, Meta’s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps you already use, from your email and calendar to the retailer apps you shop on. Handing tasks to an AI agent is new for most of us, and we know it’s 
+
+## 5. India’s AI rules take shape; Euler Motors eyes fresh funding - The Economic Times
+Source: The Economic Times (discovery)
+Published: 2026-11-24T01:53:00+00:00 | Age: 5.1 hours
+Scanned: 2026-11-24T06:59:26.762330+00:00
+URL: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcnl6N1ZPZTBZczhFLXpWeEFiaXBianVpcDBFVW5sT1FMU2FjX1g5QkRESDhYQktSbjdXMWhfZ1IxYks1d1U3SG5tSUNZb3ZrZTIwR2tXbW0tNmM4LUJGcDlvbUZtWjRtNkFHVGRrZmxja3ExYktrQktSYVlDWWtVTzhBQkFmUzNJQ0NfdzNrc05xQnptaEdNWjlHVU9rY0g2X2lWS29aNWU0eFhWbndta1R0Q2FnY2MwWTNZQXQ0QXhuaGlFaG85cjk5Z1dFU1d1WGh5WkFRXzJiZXNnWG5Z0gHkAUFVX3lxTFAyOHFpWXdpbmR6TWs2TFRoTW9hRk15Y2N4TlJfYUhveElaRlRJX0FTNmJ3VDRpT0tfdjhLTmlGdWtPcGJQWnJyZGc0eWM1cllpbzdONlVJdkgtVUNSM1hMaWZTWnhGV0hyWjJsbzFPd0VkMExpUzNNYTJsZ0ltV0VKb2t2Skw4bFF1aldnMHV4cTZWTER5eFBYYzNqbVVnNTUwS1RuWjlCVlNxSzJlY3huRjZqLWlzZDk2RUNKZXpVTndrdm40bXdCYzFYWmhEZFd2TnEyQkxTSkFPWEt2QjkwdUlOVg?oc=5
+
+India’s AI rules take shape; Euler Motors eyes fresh funding The Economic Times
+
+## 6. Supertake raises $20M to let AI agents turn your market predictions into stock portfolios
 Source: techcrunch.com (reputable)
-Published: 2026-11-23T22:05:50+00:00 | Age: 0.7 hours
-Scanned: 2026-11-23T22:46:07.365140+00:00
-URL: https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/
-
-As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
-
-## 5. Supertake raises $20M to let AI agents turn your market predictions into stock portfolios
-Source: techcrunch.com (reputable)
-Published: 2026-11-23T22:02:05+00:00 | Age: 0.7 hours
-Scanned: 2026-11-23T22:46:07.365140+00:00
+Published: 2026-11-23T22:02:05+00:00 | Age: 9.0 hours
+Scanned: 2026-11-24T06:59:26.762330+00:00
 URL: https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/
 
 Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.
-
-## 6. Samsung Launches Odyssey G6: The World’s First 1,100Hz Gaming Monitor
-Source: news.samsung.com (primary)
-Published: 2026-11-23T22:00:00+00:00 | Age: 0.8 hours
-Scanned: 2026-11-23T22:46:07.365140+00:00
-URL: https://news.samsung.com/global/samsung-launches-odyssey-g6-the-worlds-first-1100hz-gaming-monitor
-
-Samsung Electronics today announced the launch of the 27-inch Odyssey G6 (G60H), the world’s first gaming monitor to support a refresh rate of up to 1,100Hz in HD. The monitor also features Dual Mode, which allows players to choose between HD at up to 1,100Hz and QHD at up to 600Hz to suit their game and […]
-
-## 7. GitHub release: openai/openai-python v3.58.0
-Source: github.com (primary)
-Published: 2026-11-23T19:00:21+00:00 | Age: 3.8 hours
-Scanned: 2026-11-23T22:46:07.365140+00:00
-URL: https://github.com/openai/openai-python/releases/tag/v3.58.0
-
-## [3.58.0](https://github.com/openai/openai-python/compare/v3.57.0...v3.58.0) (2026-11-23) ### Features * **api:** set and read agent session spending limits ([#4315](https://github.com/openai/openai-python/issues/4315)) ([fc36aef](https://github.com/openai/openai-python/commit/fc36aefb8f7809d0b91c65a9c3e424a6e7b8bc77)) ### Bug Fixes * **api:** clarify when to omit completion choice count ([#4298](https://github.com
