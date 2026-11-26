@@ -2,54 +2,62 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-25T03:36:34.120141+00:00
-Scanned: 2026-11-25T03:36:34.120141+00:00
+Updated: 2026-11-26T01:03:02.047397+00:00
+Scanned: 2026-11-26T01:03:02.047397+00:00
 Memory window: 72 hours
 
-## 1. FG launches electric mobility initiative, unveils 50MW solar mini-grid - The Guardian Nigeria News
-Source: The Guardian Nigeria News (discovery)
-Published: 2026-11-25T03:29:34+00:00 | Age: 0.1 hours
-Scanned: 2026-11-25T03:36:34.117142+00:00
-URL: https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3BpRXJfMnQtbHdySE1SbmRHNU5GSFNRZk1RVEsyaGZYMVpCNW4xYjF1c0FWRDByLTk4N0cwREVCRjVDSnliYlYtb1p1RnNOUy1IQmhMbFNtdzVoLUoyekxEeFFwZHh5VDFISGF2SjdWdDhYam9BNUV6WTZCVTZtMl9BREZHSzVzZnBrS3c2bFo1QzJpcS12dTQ2WQ?oc=5
-
-FG launches electric mobility initiative, unveils 50MW solar mini-grid The Guardian Nigeria News
-
-## 2. Jensen Huang rejects succession plan, says Nvidia has enough leaders to run the company - The Indian Express
-Source: The Indian Express (discovery)
-Published: 2026-11-25T03:20:22+00:00 | Age: 0.3 hours
-Scanned: 2026-11-25T03:36:34.117142+00:00
-URL: https://news.google.com/rss/articles/CBMinwFBVV95cUxNSUdRMndLYVNvdGVZc21DclpUU05OSjkxQ1VmcGJ2ZG4zU2k4VUxSXzc5QkxGeG1sVXlFMHB0Q0Z4eDIxU3dabGEwcWV4cnFpaDU0MXJGTTVja0xPeWNBaHE2X3pCWTR3REVqWWdkR1dtNjQyYXZZOUVrck96dWt6SVpwTGgwZFV1MmdOQ2ctRlA5NmZuTm8xZHRDU1B3ZWvSAaYBQVVfeXFMTVVWcHIzbVhYQ2FhenYwcm1MODhzdGRGQ09BdjZRdlZqcVF0WHBhMGJzNkc5bFBXY3BMR1M3NGdnX0YxZmUwbXVlOWZxWVpfMDlMd3ZUY0NSaEwwUHRMaWY3bnlNNE52bl9Wa1dHczQzOVlmX21Wd1hySnJmdmlHcTM3Z1hKbGNhWGFEbjVSZ05FWU9ZTGcwaDhSQ0E3WWg5My1TQzlhQQ?oc=5
-
-Jensen Huang rejects succession plan, says Nvidia has enough leaders to run the company The Indian Express
-
-## 3. Nvidia Option Trader Scores 1,984% Gain After CEO Huang's Return
-Source: Hacker News (discovery)
-Published: 2026-11-25T03:19:41+00:00 | Age: 0.3 hours
-Scanned: 2026-11-25T03:36:34.117142+00:00
-URL: https://www.bloomberg.com/news/articles/2026-11-24/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50637999
-
-## 4. Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own
-Source: Hacker News (discovery)
-Published: 2026-11-25T03:19:02+00:00 | Age: 0.3 hours
-Scanned: 2026-11-25T03:36:34.117142+00:00
-URL: https://carry.md/
-
-Hacker News discussion: https://news.ycombinator.com/item?id=50637995
-
-## 5. Unclassified CIA system breached in latest US cybersecurity incident - South China Morning Post
+## 1. China’s CATL faces a trillion-yuan question: how to win back investor confidence - South China Morning Post
 Source: South China Morning Post (discovery)
-Published: 2026-11-25T03:13:12+00:00 | Age: 0.4 hours
-Scanned: 2026-11-25T03:36:34.117142+00:00
-URL: https://news.google.com/rss/articles/CBMizwFBVV95cUxPX3pYM3VOdFhxN05FZ09TNjE4Rk5tS1VLVllNdDFLWlV3M0xNblhZTE11MV9qYUZBTjFvODRHS256YkFLTG5OcXRLd1h3c1FyYVVMR2JTX0liYU0zcU1GWTZsS1NCM1NCZ2ZrVDRlMmd1OTlOQ0tLb29OQ3ZJS1hEbmtPVnlxRVNtUlc0RFpSN1JrRUZBMm4zSTRabzVvdTBJQTVzelgtazdFZjRsTzZXalFDRGRGMEJxcXVyaC1NVHlqSjBnOTZEVDYyT1c2VUHSAc8BQVVfeXFMTVZZTEdPRlBGLWUwWVo4Xy1SbXFhS3lRckdMYWF4eVQ4U2ttaUJMZU9XWnRFVExGMElVZk9vSDQyMWYwRmFoX08yOWJPeHROLXA5UGl1TkJ0UWRESk5JQUdfT29Ka2pnZnRmdGsyUXZfUHpPM2Q0OS0zQW8zRkhWYXRUQV9EeVpQcGppZVpUS1RrZ3BDTHVESmlPbVIycFduVFhBWUlzdmJGTEtwZ0ZnanNHRlZpR25KU1RaQ3F3WWNfSUw1c0ZYOHhHTDhqajBr?oc=5
+Published: 2026-11-26T01:00:11+00:00 | Age: 0.0 hours
+Scanned: 2026-11-26T01:03:02.045230+00:00
+URL: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYXhQb0lTcjM5WVFkR2JmV2wyWmFwanpvR2taWk9HeVRHdXZTY1NpUEF0enY1d3ZFbmRWcDUwV1ZHWTJPTGVDQmFOVkd6NnpVQlo4M3lOM20zVVEyLXlkQmxXVFJXZkRrRzYzNGlObGUybHNMWVh1MldsMkEtMWNxdkZmamNmNFRqUTQ3d1BVWnBCWWdiUWxGLVZIckNOZzRyeEpacmZITlJSQU05YTNOUkhvRHFyMTVEbFgxSlNlVUNDRUdDRVcxbXBYOXYtTnRoNWx5Wg?oc=5
 
-Unclassified CIA system breached in latest US cybersecurity incident South China Morning Post
+China’s CATL faces a trillion-yuan question: how to win back investor confidence South China Morning Post
 
-## 6. Muse Now Available in the UK: Muse Does the Work, You Stay in Control
+## 2. Neckrez – hourly VPS, GPU, CPU you pay for in crypto (API, MCP, CLI)
+Source: Hacker News (discovery)
+Published: 2026-11-26T00:54:52+00:00 | Age: 0.1 hours
+Scanned: 2026-11-26T01:03:02.045230+00:00
+URL: https://neckrez.tech/
+
+Hacker News discussion: https://news.ycombinator.com/item?id=50649953
+
+## 3. Tired of Claude Code Spinners?
+Source: Hacker News (discovery)
+Published: 2026-11-26T00:52:23+00:00 | Age: 0.2 hours
+Scanned: 2026-11-26T01:03:02.045230+00:00
+URL: https://github.com/seanrobertwright/Poopy-McClauderson
+
+Hacker News discussion: https://news.ycombinator.com/item?id=50649939
+
+## 4. ‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback - Financial Times
+Source: Financial Times (discovery)
+Published: 2026-11-26T00:46:37+00:00 | Age: 0.3 hours
+Scanned: 2026-11-26T01:03:02.045230+00:00
+URL: https://news.google.com/rss/articles/CBMihAFBVV95cUxPbjJtWWlsdkpJSnp1U3RPWDFDNDZNZnduNEtiRVExb0JtejRhYWR1T05TY2FORGlSUzRHeFNSdUh4RjhPMHBGaG5jZ2QtSmZzRGlTdkM4VmRYWW1iUkM4MWVfZkRHOFRCZUowc2J6ei1yNHJVSERQOWpnY0tPT1pkdXoxcDQ?oc=5
+
+‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback Financial Times
+
+## 5. Samsung Galaxy S25 Products Hit With Trade Commission Import Ban - Bloomberg Law News
+Source: Bloomberg Law News (discovery)
+Published: 2026-11-26T00:18:00+00:00 | Age: 0.8 hours
+Scanned: 2026-11-26T01:03:02.045230+00:00
+URL: https://news.google.com/rss/articles/CBMitgFBVV95cUxQbDdISDlkLWNfNmtsaHMwOFFFZDFfeDVEUHhrWmJLakVOT0VCaEpWYmxMOFB5ZWJYZDAwQzdfSUtyb2JxRmlER3FMWS1HT2lZM1NfbjlIYVFxQ3JpZEFDbEpTdGxIWGFRTjJuSFdsSVJjNzhJc0NpUXl6bmFyeWtrMjV6WWFQR1F1WHJsRUllTExCc2dzSEgyMlgxTVVOUlRMYzlZNDRmbFBqbVZLcUFHU0NsXzBqdw?oc=5
+
+Samsung Galaxy S25 Products Hit With Trade Commission Import Ban Bloomberg Law News
+
+## 6. Black Friday Apple Watch deals are live, and they're actually really good: Prices start at $179 - Mashable
+Source: Mashable (discovery)
+Published: 2026-11-25T22:53:26+00:00 | Age: 2.2 hours
+Scanned: 2026-11-26T01:03:02.045230+00:00
+URL: https://news.google.com/rss/articles/CBMidEFVX3lxTE1RSVd3Q3BLWDFvS2ZSYUZWSnRDX1dHSTBvLXIwV2swSFJ2VG5EZlNQSXVBeV80cU9jbzJFYXYwbGxqdFUzZ0U1c1FNbl9wMldZM3duc3VySWplYXg4N2xZcnBIaFJZWk5yU3FwX0VmNWRxV3J2?oc=5
+
+Black Friday Apple Watch deals are live, and they're actually really good: Prices start at $179 Mashable
+
+## 7. Muse Now Available in the UK: Muse Does the Work, You Stay in Control
 Source: about.fb.com (primary)
-Published: 2026-11-24T06:00:04+00:00 | Age: 21.6 hours
-Scanned: 2026-11-25T03:36:34.117142+00:00
+Published: 2026-11-24T06:00:04+00:00 | Age: 43.0 hours
+Scanned: 2026-11-26T01:03:02.045230+00:00
 URL: https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/
 
 Muse, Meta’s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps you already use, from your email and calendar to the retailer apps you shop on. Handing tasks to an AI agent is new for most of us, and we know it’s 
