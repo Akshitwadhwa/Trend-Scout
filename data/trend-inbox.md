@@ -2,46 +2,46 @@
 
 Distinct post-ready stories saved locally. Nothing is posted automatically.
 
-Updated: 2026-11-27T02:58:58.223309+00:00
-Scanned: 2026-11-27T02:58:58.223309+00:00
+Updated: 2026-11-27T15:23:02.852144+00:00
+Scanned: 2026-11-27T15:23:02.852144+00:00
 Memory window: 72 hours
 
-## 1. Necrometer – Zero-back end Rust/WASM audit for GitHub repo decay
+## 1. Explainer: A million satellites? What SpaceX's Starmind could mean for Earth and space - Reuters
+Source: Reuters (discovery)
+Published: 2026-11-27T15:14:18+00:00 | Age: 0.1 hours
+Scanned: 2026-11-27T15:23:02.849215+00:00
+URL: https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlFOVkZidW11cWF5bnp4dktKSGE0MG43eWZhOGxuckt4QnlxcHNNTHlSTlFnR2lFWDVRNzlvcEdyZk5DdlM0Y3BDdzJGQVlkQXFCN0VmMVRTeXNHT3F6bU0zb3hwbkZoT1ExV2VfZnNQR2lBRER1bDVWZ010OFFqZTNWRElaRG43dlNfQVN3RGNqS1JFcWlSY0dLbU5LOGRWZ01SdHoxTF8xNEFORk1vLXRUYkVlMTBRekFLTQ?oc=5
+
+Explainer: A million satellites? What SpaceX's Starmind could mean for Earth and space Reuters
+
+## 2. Quinn Nelson on the touch screen of the 2026 MacBook Pro [video]
 Source: Hacker News (discovery)
-Published: 2026-11-27T02:53:38+00:00 | Age: 0.1 hours
-Scanned: 2026-11-27T02:58:58.221097+00:00
-URL: https://necrometer.dev
+Published: 2026-11-27T15:11:51+00:00 | Age: 0.2 hours
+Scanned: 2026-11-27T15:23:02.849215+00:00
+URL: https://www.youtube.com/watch?v=JHyHBPPnemQ
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50662219
+Hacker News discussion: https://news.ycombinator.com/item?id=50667865
 
-## 2. 'Very bullish on ASEAN' despite Nvidia chip export curbs to the region: BNY - CNBC
-Source: CNBC (discovery)
-Published: 2026-11-27T02:32:43+00:00 | Age: 0.4 hours
-Scanned: 2026-11-27T02:58:58.221097+00:00
-URL: https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEgyVDJ5eGVSMlQyZEJTSThCM1ZPZFZ0TXJmM1lZbE44a1RUMVpKQVQzQkxjMThXUVlROG5pcHRZRXpRTm1aR2pELURkd1Y4VUotVmNsN0JrWmhMR0ZlWDNJeEw4WUVIcThVbEotMGF6dVZSR3BiRmcyYXlLZ1hoR09yRzd4cTY2OERCTzB1MEtNMzZDajA5VW1WeEFNZjQxNk1kQkVkanlLMWI5ZjNZ?oc=5
-
-'Very bullish on ASEAN' despite Nvidia chip export curbs to the region: BNY CNBC
-
-## 3. My context engineering changed for Gemini 4 Neon
+## 3. Revisiting Importance Sampling
 Source: Hacker News (discovery)
-Published: 2026-11-27T02:22:19+00:00 | Age: 0.6 hours
-Scanned: 2026-11-27T02:58:58.221097+00:00
-URL: https://www.philschmid.de/gemini-4-neon-context-engineering
+Published: 2026-11-27T15:10:45+00:00 | Age: 0.2 hours
+Scanned: 2026-11-27T15:23:02.849215+00:00
+URL: https://lisyarus.github.io/blog/posts/revisiting-importance-sampling.html
 
-Hacker News discussion: https://news.ycombinator.com/item?id=50662044
+Hacker News discussion: https://news.ycombinator.com/item?id=50667848
 
-## 4. RNA Counted Per Cell May Limit Single-Cell AI Models More Than Cell Count, Study Finds - Tech Times
-Source: Tech Times (discovery)
-Published: 2026-11-27T02:15:27+00:00 | Age: 0.7 hours
-Scanned: 2026-11-27T02:58:58.221097+00:00
-URL: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeWxTdFdkZnhveFZQSHlOU3dPZW5FQXdRNHQ3Q2ZSZE5TWkYwbFNkbkp5czNCWFF2dURMdzdGbFMzUld0eFpXdllnSkRkQnNnRTJWZW9IWHJTeVRfdXFOel9EcnlrXzJ0T1MyS25tUE9HLXlhT0duU0t0RkdIWjZfSXcwajBtbXBUSGpIU0JjSGF3ZTZNSmtRWVMtZ2g4aWNfZTk2OW4yTkV2Nm9YbFVIVDVIVTkwV2hKMFU5NmZIRmRPYmlkeUNRWE05cnNMSml4?oc=5
+## 4. Beijing’s AI ambitions are under threat as models may fall behind by up to nine months versus competitors — Chinese AI labs are under heavy fire from export controls, maturing chip stacks and a distillation crackdown - Tom's Hardware
+Source: Tom's Hardware (discovery)
+Published: 2026-11-27T15:00:00+00:00 | Age: 0.4 hours
+Scanned: 2026-11-27T15:23:02.849215+00:00
+URL: https://news.google.com/rss/articles/CBMikANBVV95cUxPdVBURHZDUGJ6UlM4Wjh3M0VhLXpIMUoyaEsxeEs0SzlTcEE5MmljQjE3M3o2TDQ1QjFTRVl5MElYTEJaRHFYclZOQVZEZXBNOU1ha29rNHpuVlNpQUl5bWdDRWFKSjlFZExDQVlKWU9hc1g4NXdLWVJtaGE5d0ZsNnhjeXc2RzJMNEhvY1ZoamZLSmRqOTFZSlZfZDEzQ0k5NFRma0hrdVRSSWdyNkRVVDltN18wS25CWTZsLWZLVXJtOXYwRkpaMldESEVYZnpUMmpjUjNScVVfRmRXMzFpbmJDWkYtQVpzeHNud1RzS0pxLVRfdlpPRlhxYmZwNmhXM2d3Tk1wclA5Tk14WEtGemVGTlplZkxJYmhVTm1xQ05NS3JwejVDMlVtZ08wZ2xNU1k2SHM4M3lMczRub25WM0FTRDViU09Ra3dpbkRaengzN3RpMU00RmVFaHJMYlpjV1RXd21CV0l0T2t4UnNyb2FOSVNKc29TRkZuOEd2STRvSlhqSmd5TlIwNU9yNWVu?oc=5
 
-RNA Counted Per Cell May Limit Single-Cell AI Models More Than Cell Count, Study Finds Tech Times
+Beijing’s AI ambitions are under threat as models may fall behind by up to nine months versus competitors — Chinese AI labs are under heavy fire from export controls, maturing chip stacks and a distillation crackdown Tom's Hardware
 
-## 5. Muse Now Available in the UK: Muse Does the Work, You Stay in Control
-Source: about.fb.com (primary)
-Published: 2026-11-24T06:00:04+00:00 | Age: 69.0 hours
-Scanned: 2026-11-27T02:58:58.221097+00:00
-URL: https://about.fb.com/news/2026/11/muse-now-available-in-the-uk-muse-does-the-work-you-stay-in-control/
+## 5. New iPhone 20 Pro rumors: Titanium frame, ceramic parts in a limited edition model - Mashable
+Source: Mashable (discovery)
+Published: 2026-11-27T14:59:34+00:00 | Age: 0.4 hours
+Scanned: 2026-11-27T15:23:02.849215+00:00
+URL: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHR1d6TlFCaF96RmtydG9QR29UU3laNURLNERzVlFmN1l2ZFJoOGRCaWpJa2VQR1dmZUhWVzR3Q3JwZWJfY0pZNFpSMXdHWXNVYmtmcGh3NHk2QzNmV09Bci05SldZc1E?oc=5
 
-Muse, Meta’s personal AI agent, is now available to adults in the UK. Think of it as a helping hand for the jobs that pile up, like chasing a refund, renewing car insurance or keeping on top of the school calendar. To get those jobs done you can connect Muse to the apps you already use, from your email and calendar to the retailer apps you shop on. Handing tasks to an AI agent is new for most of us, and we know it’s 
+New iPhone 20 Pro rumors: Titanium frame, ceramic parts in a limited edition model Mashable
